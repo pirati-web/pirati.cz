@@ -1,0 +1,17 @@
+html, body {
+  font-size: 14px;
+}
+
+.fa {
+  text-align: center;
+  min-width: 18px;
+
+  @include breakpoint(large down) {
+    min-width: 15px;
+  }
+
+  @include breakpoint(medium down) {
+    min-width: 13px;
+  }
+
+}

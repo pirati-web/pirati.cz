@@ -1,0 +1,93 @@
+$cb-ns: '';
+
+.#{$cb-ns}c-contact-bar {
+  background: #343434;
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar-header {
+  float: left;
+  background: #343434;
+
+  @include breakpoint(medium down) {
+    float: none;
+  }
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar__heading {
+  font-weight: bold;
+  margin: 0;
+  line-height: 1.3;
+  display: inline-block;
+  font-size: 1.3rem;
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar-items {
+  float: left;
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 0;
+
+  @include breakpoint(medium down) {
+    float: none;
+  }
+
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar__item {
+  display: block;
+  margin-left: 0;
+
+  @include breakpoint(medium) {
+    display: inline-block;
+  }
+
+  @include breakpoint(large) {
+    margin-left: 50px;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+}
+
+.#{$cb-ns}c-contact-bar {
+
+  @include breakpoint(medium) {
+
+    .#{$cb-ns}c-contact-bar__item +
+    .#{$cb-ns}c-contact-bar__item {
+      margin-left: 50px;
+    }
+
+  }
+
+  @include breakpoint(820px down) {
+
+    .#{$cb-ns}c-contact-bar__item +
+    .#{$cb-ns}c-contact-bar__item {
+      margin-left: 10px;
+    }
+
+  }
+
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar__section {
+  display: inline-block;
+  font-weight: bold;
+
+  @include breakpoint(mobile down) {
+    display: block;
+  }
+
+}
+
+.#{$cb-ns}c-contact-bar .#{$cb-ns}c-contact-bar__description {
+  display: inline-block;
+
+  @include breakpoint(large) {
+    margin-left: 10px;
+  }
+
+}

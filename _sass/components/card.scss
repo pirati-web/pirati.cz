@@ -1,0 +1,154 @@
+$card-ns: '';
+
+.#{$card-ns}c-card {
+  display: block;
+  max-width: 100%;
+  height: 130px;
+  position: relative;
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 4px 2px -2px #e3e3e3;
+
+  @include breakpoint(medium down) {
+    height: 100px;
+  }
+}
+
+.#{$card-ns}c-card.#{$card-ns}c-card--big {
+  height: 295px;
+
+  @include breakpoint(medium down) {
+    height: 290px;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card-image-wrapper {
+  margin: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+
+  .#{$card-ns}c-card__image {
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: -100%;
+    right: -100%;
+    bottom: -100%;
+    left: -100%;
+    margin: auto;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card-header {
+  font-size: 1.6rem;
+  font-family: $header-font-family;
+  font-weight: 500;
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  right: 2rem;
+  color: #343434;
+  z-index: 1;
+
+  @include breakpoint(mobile down) {
+    top: 1.5rem;
+    left: 1.5rem;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card-header.#{$card-ns}c-card-header--white {
+  color: #fff;
+
+  a {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 1rem;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card__title {
+  line-height: 1.15;
+  margin-bottom: 0.5em;
+}
+
+
+.#{$card-ns}c-card .#{$card-ns}c-card__icon {
+  font-size: 1.6rem;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  color: #343434;
+  opacity: 0.2;
+  z-index: 1;
+
+  .fa {
+    font-size: 4rem;
+  }
+
+  @include breakpoint(mobile down) {
+    bottom: -1rem !important;
+    transform: scale(0.8);
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card__icon.#{$card-ns}c-card__icon--pos1 {
+  right: -0.8rem;
+  bottom: -0.8rem;
+
+  .fa {
+    font-size: 4.15rem;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card__icon.#{$card-ns}c-card__icon--pos2 {
+  right: 0.1rem;
+  bottom: -1.4rem;
+
+  .fa {
+    font-size: 5.15rem;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card__icon.#{$card-ns}c-card__icon--pos3 {
+  right: -0.4rem;
+  bottom: 0.4rem;
+
+  .fa {
+    font-size: 5.15rem;
+  }
+}
+
+.#{$card-ns}c-card .#{$card-ns}c-card__icon.#{$card-ns}c-card__icon--pos4 {
+  right: 0.2rem;
+  bottom: -0.1rem;
+
+  .fa {
+    font-size: 5.15rem;
+  }
+}
+
+.#{$card-ns}c-card.#{$card-ns}c-card--border:before {
+  content: '';
+  display: block;
+  height: 4px;
+  background: #f3c289;
+  position: absolute;
+  left: 2rem;
+  right: 2rem;
+  top: 0;
+  z-index: 1;
+
+  @include breakpoint(mobile down) {
+    left: 1.5rem;
+    right: 1.5rem;
+  }
+}

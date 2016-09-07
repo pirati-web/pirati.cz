@@ -1,0 +1,104 @@
+<aside class="o-section o-section--smaller c-header-bar u-inverted u-inverted--darker u-center-860-down">
+  <div class="row">
+    <div class="o-section-inner">
+      <div class="small-12 columns">
+        <ul class="c-header-bar-items">
+          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+            <a href="https://www.facebook.com/ceska.piratska.strana/" rel="noopener noreferrer" target="_blank" title="Facebook - Česká pirátská strana">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a></li>
+          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+            <a href="https://twitter.com/PiratePartyCZ" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+            <a href="https://plus.google.com/u/0/+piratskastrana" rel="noopener noreferrer" target="_blank" title="Google Plus - Česká pirátská strana">
+              <i class="fa fa-google-plus" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+        <div class="c-header-bar-divider"></div>
+        <ul class="c-header-bar-items c-header-bar-items--bigLh">
+        {% for item in site.data.top-menu %}
+          <li class="c-header-bar__item">
+            <a href="{{ item.url }}" rel="noopener noreferrer" target="_blank">
+              <i class="{{ item.icon }}" aria-hidden="true"></i>
+              <span class="c-header-bar__itemDescription">{{ item.link }}</span>
+            </a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</aside>
+<div class="c-top-bar">
+  <div class="row">
+    <div class="c-top-bar-inner u-cf">
+      <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
+        <li>
+          <input type="search">
+        </li>
+        <li class="c-top-bar-searchbar__submit">
+          <button type="button" class="button">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </button>
+        </li>
+      </ul>
+      <div class="menu-toggle-container hide-for-large">
+        <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
+          <button class="" type="button" data-toggle="">
+            <span class="menu-toggle-inner">
+              <span class="menu-toggle-description">Menu</span>
+              <i class="menu-icon dark"></i>
+            </span>
+          </button>
+        </span>
+      </div>
+      <div id="responsive-menu" class="c-top-bar-menu">
+        <div class="responsive-menu-inner">
+          <div class="top-bar-left top-bar-footer-group">
+            <ul class="dropdown menu" data-dropdown-menu="">
+              <li>
+                <a href="#">Aktuality</a>
+              </li>
+              <li>
+                <a href="#">O nás</a>
+                <ul class="menu vertical">
+                  <li>
+                    <a href="#">Naši lidé</a>
+                  </li>
+                  <li>
+                    <a href="#">Regiony</a>
+                  </li>
+                  <li>
+                    <a href="#">Projekty</a>
+                  </li>
+                  <li>
+                    <a href="#">Podporují</a>
+                  </li>
+                  <li>
+                    <a href="#">Úspěchy</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#">Program</a>
+              </li>
+              <li>
+                <a href="#">Připoj se</a>
+              </li>
+              <li>
+                <a href="#">Transparence</a>
+              </li>
+              <li>
+                <a href="#">Kontakt</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

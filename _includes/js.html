@@ -1,0 +1,81 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.1/raphael.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
+<script>
+  Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
+  $(document).foundation();
+  $(document).on('replaced.zf.interchange', function(e)
+  {
+    $(this).foundation();
+  });
+  $("button[data-toggle]").on("click", function()
+  {
+    if ($(this).parent().hasClass("js-button-toggled"))
+    {
+      $(this).parent().removeClass("js-button-toggled");
+    }
+    else
+    {
+      $(this).parent().addClass("js-button-toggled");
+    }
+  });
+    window.onload = function() {
+        var settings = {{ site.data.kraje-settings | jsonify }};
+        var regions = {{ site.data.kraje | jsonify }};
+
+        $(settings.id).width(settings.size.width)
+        $(settings.id).height(settings.size.height);
+        var R = Raphael(settings.id, settings.size.width, settings.size.height);
+
+
+        $("#region-description>div").hide()
+
+        var marked = null;
+        var reg_list = $('#regions-list');
+
+        $.each(regions, function(index, region) {
+          var li = $('<li/>').appendTo(reg_list);
+          var span = $('<a/>').text(region.name).attr('href',region.url).appendTo(li);
+
+          /* Create path for one region */
+          var custom_attrs = {"title": region.name};
+          var attrs = $.extend(settings.region_attrs, custom_attrs);
+
+          /* Black of colorful regions schema */
+          if(settings.colors) {
+            region.color = Raphael.getColor();
+          } else {
+            region.color = "#666";
+          }
+          var path_def = null;
+
+          var reg_id = region.id;
+
+          $.each(region.paths, function(index, path) {
+            path = R.path(path).scale(
+              settings.size.scale,
+              settings.size.scale,
+              0,0).attr(attrs);
+              /* Functions */
+              var click = function() {
+                window.open(region.url);
+              }
+              var dblclick = function() {
+                window.open(region.url);
+              }
+              var over = function() {
+                path.animate({fill: region.color}, 500);
+              }
+              var out = function() {
+                path.animate({fill: "#333"}, 500);
+              }
+
+              path[0].onclick = click;
+              path[0].ondblclick = dblclick;
+              path[0].onmouseover = over;
+              path[0].onmouseout = out;
+          });
+        });
+    };
+</script>

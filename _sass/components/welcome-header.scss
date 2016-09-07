@@ -1,0 +1,171 @@
+.c-welcome-header {
+  height: 350px;
+  position: relative;
+  background: url('../assets/img/header/boat.jpg') no-repeat;
+  background-size: cover;
+  background-position: center 70%;
+  overflow: hidden;
+
+  div {
+    height: 100%;
+  }
+
+  @include breakpoint(medium down) {
+    height: 390px;
+    background-size: 150%;
+    background-position: 20% 70%;
+  }
+
+  @include breakpoint(640px down) {
+    background-size: 190%;
+    background-position: 27% 85%;
+  }
+}
+
+.c-welcome-header .c-welcome-header-wrapper {
+  position: relative;
+
+  @include breakpoint(mobile down) {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  &.c-welcome-header-wrapper--wbg {
+
+    &:before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      right: -1rem;
+      width: 442px;
+      height: 325px;
+      background: url('../images/miscellaneous/people-big.png') no-repeat;
+      background-size: 100%;
+      transform-origin: bottom left;
+    }
+
+    @include breakpoint(medium down) {
+      &:before {
+        display: none;
+      }
+    }
+
+    @include breakpoint(mobile down) {
+
+      &:before {
+        display: block;
+        width: 177px;
+        height: 130px;
+        bottom: -2rem;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    }
+
+  }
+
+}
+
+.c-welcome-header .c-welcome-header-wrapper .c-welcome-header__img {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0.5rem;
+  transform: translateY(-50%);
+  max-width: calc(50% - 25px);
+  height: auto;
+  max-height: 100%;
+  transform-origin: center right;
+  border: 5px solid #fff;
+
+  @include breakpoint(xlarge down) {
+    width: 40%;
+  }
+
+  @include breakpoint(medium down) {
+    display: none;
+  }
+
+  @include breakpoint(mobile down) {
+    display: block;
+    top: auto;
+    right: auto;
+    left: 50%;
+    bottom: 0.8rem;
+    transform: translateX(-50%);
+    height: 115px;
+    width: auto;
+    border: 2px solid #fff;
+  }
+}
+
+.c-welcome-header .c-welcome-header-content {
+  text-align: center;
+  padding: 25px 0;
+
+  @include breakpoint(medium) {
+    height: auto;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+  }
+
+  @include breakpoint(mobile down) {
+    padding-bottom: 140px;
+  }
+}
+
+.c-welcome-header .c-welcome-header__brand {
+  width: 250px;
+}
+
+.c-welcome-header .c-welcome-header__quote {
+  position: relative;
+  margin: 0;
+  margin-top: 1rem;
+  padding: 0;
+  padding-top: 3rem;
+  font-family: $header-font-family;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 1.3;
+  border: 0;
+  font-size: 1rem;
+  color: #e1e1e1;
+
+  br {
+    display: none;
+  }
+
+  &:before {
+    content: '';
+    width: 38px;
+    height: 25px;
+    background: url('../images/miscellaneous/quotes.png') no-repeat;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 0;
+    margin-top: 1.5rem;
+    padding-left: 5.5rem;
+    font-size: 1.6rem;
+
+    br {
+      display: block;
+    }
+
+    &:before {
+      left: 0;
+      transform: translateX(50%);
+      top: 0;
+    }
+  }
+
+}

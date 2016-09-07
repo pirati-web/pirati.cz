@@ -1,0 +1,108 @@
+$hb-ns: '';
+
+.#{$hb-ns}c-header-bar {
+  background: #343434;
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar-divider {
+  width: 100%;
+  height: 1px;
+  margin: 10px auto;
+  background: #adadad;
+
+  @include breakpoint(860px) {
+    display: inline-block;
+    width: 1px;
+    height: 22px;
+    margin: auto 30px;
+    vertical-align: middle;
+  }
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar-items {
+  display: inline-block;
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 0;
+
+  @include breakpoint(800px down) {
+    display: block;
+  }
+
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar-items.#{$hb-ns}c-header-bar-items--bigLh {
+
+  @include breakpoint(mobile down) {
+    line-height: 2;
+  }
+
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar__item {
+  display: inline-block;
+  margin-left: 0;
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+}
+
+.#{$hb-ns}c-header-bar {
+
+  @include breakpoint(medium) {
+
+    .#{$hb-ns}c-header-bar__item +
+    .#{$hb-ns}c-header-bar__item {
+      margin-left: 40px;
+    }
+
+    .#{$hb-ns}c-header-bar__item.#{$hb-ns}c-header-bar__item--smallerSpace +
+    .#{$hb-ns}c-header-bar__item.#{$hb-ns}c-header-bar__item--smallerSpace {
+      margin-left: 12px;
+    }
+
+  }
+
+  @include breakpoint(860px down) {
+
+    .#{$hb-ns}c-header-bar__item +
+    .#{$hb-ns}c-header-bar__item {
+      margin-left: 20px;
+    }
+
+    .#{$hb-ns}c-header-bar__item.#{$hb-ns}c-header-bar__item--smallerSpace +
+    .#{$hb-ns}c-header-bar__item.#{$hb-ns}c-header-bar__item--smallerSpace {
+      margin-left: 10px;
+    }
+
+  }
+
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar__section {
+  display: inline-block;
+  font-weight: bold;
+  vertical-align: middle;
+
+  @include breakpoint(mobile down) {
+    display: block;
+  }
+
+}
+
+.#{$hb-ns}c-header-bar .#{$hb-ns}c-header-bar__item {
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  a:hover .#{$hb-ns}c-header-bar__itemDescription {
+    text-decoration: underline;
+  }
+
+  .#{$hb-ns}c-header-bar__itemDescription {
+    margin-left: 5px;
+  }
+}

@@ -1,0 +1,214 @@
+$bp-ns: '';
+
+.#{$bp-ns}c-BlogPosting,
+.#{$bp-ns}c-BlogPosting-excerpt {
+  padding: 20px 0;
+  position: relative;
+  @include clearfix;
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt + .#{$bp-ns}c-BlogPosting-excerpt {
+  border-top: 1px solid #e1e1e1;
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured
+.#{$bp-ns}c-BlogPosting-photoBox {
+  max-width: none;
+  padding: 10px 0 20px 0;
+}
+
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-photoBox {
+  max-width: 263px;
+  float: left;
+  padding: 15px 0;
+
+  @include breakpoint(medium down) {
+  }
+
+  @include breakpoint(mobile down) {
+    max-width: none;
+    float: none;
+    padding-top: 0;
+    padding-bottom: 5px;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-photoBox
+.#{$bp-ns}c-BlogPosting-excerpt__image {
+  @include breakpoint(mobile down) {
+    max-width: calc(50% - 5px);
+  }
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting-contentBox {
+  position: relative;
+  min-height: 195px;
+  padding: 0 0 25px 0;
+  position: relative;
+
+  @include breakpoint(medium down) {
+    padding: 0 0 15px 0;
+    min-height: initial;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-contentBox {
+  max-width: calc(100% - 293px);
+  min-height: 164px;
+  float: right;
+  padding: 10px 0 25px 0;
+  position: relative;
+
+  @include breakpoint(mobile down) {
+    padding: 10px 0 30px 0;
+    max-width: none;
+    float: none;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting-excerpt-readMore ,
+.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt-readMore {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  @include breakpoint(medium down) {
+    bottom: 8px;
+  }
+
+  @include breakpoint(mobile down) {
+    bottom: 2px;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt-nextBox {
+  max-width: 263px;
+
+  @include breakpoint(large down) {
+    max-width: none;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting__title,
+.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt__title {
+  line-height: 1.15;
+
+  @include breakpoint(medium down) {
+    font-size: 1.6rem;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting__title,
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h1,
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h2,
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h3 {
+  margin-bottom: 0.75em;
+  line-height: 1.3;
+}
+
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting__title {
+  font-size: 1.65rem;
+  color: $primary-color;
+  margin-bottom: 0.375em;
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h1 {
+  font-size: 1.65rem;
+  color: $primary-color;
+
+  a {
+    text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h2 {
+  font-size: 1.5rem;
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h3 {
+  font-family: $body-font-family;
+  font-weight: bold;
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content a {
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content ul {
+  list-style-type: none;
+  margin-left: 0;
+
+  li {
+    line-height: 2;
+  }
+
+  li:before {
+    display: inline-block;
+    content: '\f10c';
+    font-family: 'FontAwesome';
+    font-size: 0.75rem;
+    vertical-align: middle;
+    padding-right: 1rem;
+    color: $primary-color;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content p,
+.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt-content {
+  line-height: 1.25;
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-infoBox {
+  padding: 5px 0;
+
+  i {
+    padding-right: 3px;
+  }
+
+  @include breakpoint(mobile down) {
+    margin: 0;
+    position: absolute;
+    top: 45px;
+    left: 50%;
+    padding-left: 15px;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__authors {
+  margin-left: 15px;
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-contentBox {
+
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__authors,
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__datePublished {
+
+  @include breakpoint(mobile down) {
+    margin-left: 0px;
+  }
+
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__author:not(:first-of-type) {
+
+  @include breakpoint(medium down) {
+      margin-left: 20px;
+  }
+}

@@ -1,0 +1,96 @@
+$section-ns: '';
+
+.#{$section-ns}o-section {
+  padding: 35px 0;
+
+  .#{$section-ns}o-section-block + .#{$section-ns}o-section-block {
+    margin-top: 2rem;
+  }
+
+  @include breakpoint(mobile down) {
+    padding: 10px 0;
+  }
+}
+
+.#{$section-ns}o-section-block--spaceBot {
+  margin-bottom: 2rem;
+}
+
+.#{$section-ns}o-section.#{$section-ns}o-section--smaller {
+  padding: 10px 0;
+}
+
+
+.#{$section-ns}o-section.#{$section-ns}o-section--bigger {
+  @include breakpoint(mobile down) {
+    padding: 20px 0;
+  }
+}
+
+.#{$section-ns}o-section.#{$section-ns}o-section--spaceBot {
+
+  padding-bottom: 50px;
+
+  @include breakpoint(large down) {
+    padding-bottom: 20px;
+  }
+
+  @include breakpoint(mobile down) {
+    padding-bottom: 0px;
+  }
+
+}
+
+.#{$section-ns}o-section.#{$section-ns}o-section--tiled {
+  background: url('../images/tiles/lightGrey.png') repeat;
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-inner {
+  padding: 0 10px;
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-inner--noLarge {
+
+  @include breakpoint(large) {
+    padding: 0 0px;
+  }
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-inner--leftBlock {
+
+  @include breakpoint(large) {
+    padding-right: 0;
+  }
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-inner--rightBlock {
+
+  @include breakpoint(large) {
+    padding-left: 0;
+  }
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-header {
+  position: relative;
+  color: #f3c289;
+  border-bottom: 5px solid #f3c289;
+  margin-top: 6px;
+  padding-bottom: 2px;
+  margin-bottom: -2px;
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section__heading {
+  font-size: 1.8rem;
+  color: #f3c289;
+}
+
+.#{$section-ns}o-section .#{$section-ns}o-section-header .#{$section-ns}o-section__dateUpdated {
+  position: absolute;
+  bottom: 13px;
+  right: 0;
+  color: $body-font-color;
+
+  @include breakpoint(mobile down) {
+    display: none;
+  }
+}

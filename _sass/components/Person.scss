@@ -1,0 +1,38 @@
+$ps-ns: '';
+
+.#{$ps-ns}c-Person-preview {
+  display: block;
+  position: relative;
+  @include clearfix;
+}
+
+.#{$ps-ns}c-Person-preview + .#{$ps-ns}c-Person-preview {
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+  border-top: 1px solid #f3f3f3;
+}
+
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview__url {
+  float: right;
+}
+
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview__name {
+  color: $primary-color;
+  font-size: 1.3rem;
+  display: inline-block;
+  vertical-align: -webkit-baseline-middle;
+  margin-bottom: 0.05rem;
+}
+
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview__birthdate {
+  color: #6e6e6e;
+}
+
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview-contentBox {
+  margin-top: 1rem;
+}
+
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview__image {
+  float: left;
+  margin-right: 0.7rem;
+}

@@ -1,0 +1,75 @@
+$bn-ns: '';
+
+.#{$bn-ns}c-banner {
+  background: #f3f3f3;
+  overflow-x: hidden;
+}
+
+.#{$bn-ns}c-banner-container {
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
+
+  @include breakpoint(large) {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  @include breakpoint(mobile down) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@include breakpoint(large) {
+  .#{$bn-ns}c-banner .#{$bn-ns}c-banner-primary-section {
+    @include grid-column(6);
+  }
+
+  .#{$bn-ns}c-banner .#{$bn-ns}c-banner-secondary-section {
+    @include grid-column(6);
+  }
+}
+
+.#{$bn-ns}c-banner {
+
+  @include breakpoint(medium down) {
+
+    .#{$bn-ns}c-banner-section +
+    .#{$bn-ns}c-banner-section {
+      margin-top: 35px;
+    }
+
+  }
+
+  @include breakpoint(mobile down) {
+
+    .#{$bn-ns}c-banner-section +
+    .#{$bn-ns}c-banner-section {
+      margin-top: 10px;
+    }
+
+  }
+
+}
+
+.#{$bn-ns}c-banner {
+
+  .#{$bn-ns}c-banner-section-row {
+    @include clearfix;
+  }
+
+  .#{$bn-ns}c-banner-section-row +
+  .#{$bn-ns}c-banner-section-row {
+    margin-top: 35px;
+  }
+
+  @include breakpoint(mobile down) {
+
+    .#{$bn-ns}c-banner-section-row +
+    .#{$bn-ns}c-banner-section-row {
+      margin-top: 10px;
+    }
+
+  }
+
+}
