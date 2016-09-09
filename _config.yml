@@ -22,3 +22,8 @@ markdown: kramdown
 
 sass:
     style: compressed
+
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
