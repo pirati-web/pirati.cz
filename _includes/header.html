@@ -46,6 +46,13 @@
           </button>
         </li>
       </ul>
+      {% if page.url != '/' %}
+      <div class="top-bar-title">
+        <a href="">
+          <img src="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}" alt="Česká pirátská strana">
+        </a>
+      </div>
+      {% endif %}
       <div class="menu-toggle-container hide-for-large">
         <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
           <button class="" type="button" data-toggle="">
@@ -64,7 +71,7 @@
                 <a href="#">Aktuality</a>
               </li>
               <li>
-                <a href="#">O nás</a>
+                <a href="{{ '/o-nas/' | prepend: site.baseurl }}">O nás</a>
                 <ul class="menu vertical">
                   <li>
                     <a href="#">Naši lidé</a>
@@ -84,13 +91,13 @@
                 </ul>
               </li>
               <li>
-                <a href="#">Program</a>
+                <a href="{{ '/program/' | prepend: site.baseurl }}">Program</a>
               </li>
               <li>
                 <a href="#">Připoj se</a>
               </li>
               <li>
-                <a href="#">Transparence</a>
+                <a href="{{ '/transparence/' | prepend: site.baseurl }}">Transparence</a>
               </li>
               <li>
                 <a href="#">Kontakt</a>
