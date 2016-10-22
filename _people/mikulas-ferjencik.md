@@ -3,7 +3,7 @@ order: 3
 name:        Mikuláš Ferjenčík
 title: Mikuláš Ferjenčík
 fullname: Mikuláš Ferjenčík
-layout:      lide
+layout:      page
 img: mikulas-ferjencik.jpg
 description: Protikorupční aktivista, lektor kroužků logiky a překladatel. Zaměřuje se na komunikaci města a obyvatel, podezřelé kauzy, konkrétní dopravní zlepšení.
 sub: zastupitel a mluvčí klubu

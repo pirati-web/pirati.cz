@@ -3,7 +3,7 @@ order: 1
 name:        Jakub Michálek
 title: Jakub Michálek
 fullname: Mgr. Bc. Jakub Michálek
-layout:      lide
+layout:      page
 img: jakub-michalek.jpg
 description: Mgr. Bc. Jakub Michálek je předseda klubu Pirátů v pražském zastupitelstvu. Jako právník se zaměřuje na svobodný přístup k informacím a autorské právo, vedle toho vystudoval též obecnou fyziku. V minulosti organizoval protesty proti ACTA a podal žalobu na Václava Klause za utajování informací o amnestií.
 sub: předseda zastupitelského klubu

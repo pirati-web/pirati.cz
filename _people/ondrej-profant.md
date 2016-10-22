@@ -3,7 +3,7 @@ order: 2
 name:        Ondřej Profant
 title: Ondřej Profant
 fullname: Ondřej Profant
-layout:      lide
+layout:      page
 img:         ondrej-profant.jpg
 description: Informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a analýzu zavedení bezplatné MHD.
 sub: zastupitel se zaměřením na informatiku

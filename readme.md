@@ -1,1 +1,5 @@
 # pirati.cz
+
+```
+jekyll serve
+```
