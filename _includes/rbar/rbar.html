@@ -1,7 +1,22 @@
 <aside class="o-section">
   <div class="o-section-inner o-section-inner--rightBlock">
-    {% include rbar/bar_toc.html %}
-    {% include rbar/bar_people.html %}
-    {% include rbar/bar_video.html %}
+    {% if page.rbar contains 'toc' %}
+      {% include rbar/bar_toc.html %}
+    {% endif %}
+    {% if page.rbar contains 'cal' %}
+      {% include rbar/bar_cal.html %}
+    {% endif %}
+    {% if page.rbar contains 'people' %}
+      {% include rbar/bar_people.html %}
+    {% endif %}
+    {% if page.rbar contains 'video' %}
+      {% include rbar/bar_video.html %}
+    {% endif %}
+    {% if page.rbar contains 'fb' %}
+      {% include rbar/bar_fb.html %}
+    {% endif %}
+    {% if page.rbar contains 'tw' %}
+      {% include rbar/bar_tw.html %}
+    {% endif %}
   </div>
 </aside>
