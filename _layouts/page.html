@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="row">
-  <div class="medium-12 large-8 columns">
+  <div class="medium-12 {%if page.full%}large-12{%else%}large-8{%endif%} columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
         <aside class="o-section-block--spaceBot hide-for-large" data-interchange="[partials/content-widget.html, medium down]"></aside>
@@ -58,13 +58,16 @@ layout: default
           </article>
           <!-- /Article -->
         </main>
-        {% comment %}
         {% include page/relatives.html %}
-        {% endcomment %}
       </div>
     </section>
   </div>
+  {%unless page.full%}
+  {% if page.rbar %}
   <div class="medium-12 large-4 columns">
-    {% include rbar/rbar.html param='rbar' %}
+    Pravý bar!
+    {% include rbar/rbar.html %}
   </div>
+  {% endif %}
+  {% endunless%}
 </div>
