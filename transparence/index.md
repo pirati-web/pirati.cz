@@ -1,16 +1,13 @@
 ---
-title: Transparence
-layout: page
-full: true
+layout: transparence
 ---
 
-Ze slova transparence se stává poměrně oblíbené předvolební heslo. Užívají ho i zástupci politických stran, které nemají zameteno před vlastním prahem.
-Skutečnou transparenci a otevřenost přitom může do veřejné správy přinést jen ten, kdo transparentně postupuje i sám u sebe. Piráti jsou plně transparentní od začátku.
+## Ze slova transparence se stává poměrně oblíbené předvolební heslo. Užívají ho i zástupci politických stran, které nemají zameteno před vlastním prahem. Skutečnou transparenci a otevřenost přitom může do veřejné správy přinést jen ten, kdo transparentně postupuje i sám u sebe. Piráti jsou plně transparentní od začátku.
 
-Máme [transparentní účet](https://www.ucet.pirati.cz/) i [transparentní účetnictví](https://www.pirati.cz/fo/start).
+Máme [**transparentní účet**](https://www.ucet.pirati.cz/) i [**transparentní účetnictví**](https://www.pirati.cz/fo/start).
 Kdokoliv si může dohledat původ každé koruny v rozpočtu, proplacené faktury nebo odměny vyplácené třeba zastupitelům.
-Veřejný je i [registr smluv](https://www.pirati.cz/ao/smlouvy), které uzavíráme, a seznam [lobbistických kontaktů](https://evidence.pirati.cz/).
-O většině témat a podnětů se diskutuje mezi členy otevřeně na veřejném [pirátském fóru](https://forum.pirati.cz/).
+Veřejný je i [**registr smluv**](https://www.pirati.cz/ao/smlouvy), které uzavíráme, a seznam [**lobbistických kontaktů**](https://evidence.pirati.cz/).
+O většině témat a podnětů se diskutuje mezi členy otevřeně na veřejném [**pirátském fóru**](https://forum.pirati.cz/).
 
 Pražský zastupitelský klub Pirátů získal cenu [Otevřeno](https://www.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost)
 v kategorii Přístup k informacím za zveřejnění městských faktur a Metropolitního plánu.
@@ -20,18 +17,3 @@ pracujeme na zlepšení systému v plzeňské [komisi pro otevřenost](http://ww
 pravidelně žádáme úřady o informace a upozorňujeme na korupční skandály po celé republice. Naše volební kampaně jsou pravidelně hodnoceny jako jedny z nejtransparentnějších.
 
 Co takhle mít díky Pirátům plně otevřenou veřejnou správu všude?
-
-<div class="row">
-  <div class="medium-4 large-4 columns">
-    <h2>Hospodaření</h2>
-    {% assign atitle = "Smlouvy, faktury a účty" %}
-    {% include accordeon.html param='atitle' %}
-  </div>
-  <div class="medium-4 large-4 columns">
-    <h2>Rozhodování</h2>
-  </div>
-  <div class="medium-4 large-4 columns">
-    <h2>Lidé</h2>
-  </div>
-</div>
-
