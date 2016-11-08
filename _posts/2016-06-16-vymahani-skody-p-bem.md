@@ -1,6 +1,8 @@
 ---
 title: "Piráti předali Praze 10 000 Kč na vymáhání škod po Pavlu Bémovi"
 author: Mikuláš Ferjenčík
+tags: pavel-bém
+date: 2016-06-16
 img: 7.jpg
 ---
 

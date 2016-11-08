@@ -1,6 +1,8 @@
 ---
 title: "ČSSD porušila slib nebrat přeběhlíky. Legalizuje tím politickou korupci"
 author:  Jakub Michálek
+tags: ČSSD, trafiky
+date: 2016-06-22
 img: 2-full.png
 ---
 

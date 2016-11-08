@@ -1,6 +1,8 @@
 ---
 title: "Pražský kmotr Petr Hulinský se stal náměstkem ministra vnitra"
 author:  "Mikuláš Ferjenčík"
+tags: petr-hulinský
+date: 2016-07-08
 img: 1-full.jpg
 ---
 

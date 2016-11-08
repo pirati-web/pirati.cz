@@ -2,30 +2,861 @@
 layout: default
 ---
 
-{% assign article = site.posts[0] %}
-{% assign socical_bar = "rbar/bar_fb.html" %}
-{% include alist/featured_article.html param='article' param='scoial_bar' %}
-
-{% assign article = site.posts[1] %}
-{% assign socical_bar = "rbar/bar_tw.html" %}
-{% include alist/featured_article.html param='article' param='social_bar' %}
-
-{% assign articles = site.posts | shift: 2 %}
-<div class="row">
-{% for article in articles %}
-    <div class="small-12 medium-6 large-4 columns">
-        {% include alist/standard_article.html param='article' %}
+    <div id="page-wrapper">
+      <aside class="o-section o-section--smaller c-header-bar u-inverted u-inverted--darker u-center-860-down">
+        <div class="row">
+          <div class="o-section-inner">
+            <div class="small-12 columns">
+              <ul class="c-header-bar-items">
+                <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+                  <a href="#" rel="noopener noreferrer" target="_blank" title="Facebook - Česká pirátská strana">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                </li>
+                <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+                  <a href="#" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                </li>
+                <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+                  <a href="#" rel="noopener noreferrer" target="_blank" title="Google Plus - Česká pirátská strana">
+                    <i class="fa fa-google-plus" aria-hidden="true"></i>
+                  </a>
+                </li>
+              </ul>
+              <div class="c-header-bar-divider"></div>
+              <ul class="c-header-bar-items c-header-bar-items--bigLh">
+                <li class="c-header-bar__item">
+                  <a href="#" rel="noopener noreferrer" target="_blank">
+                    <i class="fa fa-comments" aria-hidden="true"></i>
+                    <span class="c-header-bar__itemDescription">forum.pirati.cz</span>
+                  </a>
+                </li>
+                <li class="c-header-bar__item">
+                  <a href="#" rel="noopener noreferrer" target="_blank">
+                    <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+                    <span class="c-header-bar__itemDescription">www.piratskelisty.cz</span>
+                  </a>
+                </li>
+                <li class="c-header-bar__item">
+                  <a href="#" rel="noopener noreferrer" target="_blank">
+                    <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+                    <span class="c-header-bar__itemDescription">Pirátský obchod</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </aside>
+      <div class="c-top-bar">
+        <div class="row">
+          <div class="c-top-bar-inner u-cf">
+            <div class="top-bar-title">
+              <a href="">
+                <img src="images/brand/logo.svg" alt="Česká pirátská strana">
+              </a>
+            </div>
+            <div class="menu-toggle-container hide-for-large">
+              <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
+                <button class="" type="button" data-toggle="">
+                  <span class="menu-toggle-inner">
+                    <span class="menu-toggle-description">Menu</span>
+                    <i class="menu-icon dark"></i>
+                  </span>
+                </button>
+              </span>
+            </div>
+            <div id="responsive-menu" class="c-top-bar-menu">
+              <div class="responsive-menu-inner">
+                <div class="top-bar-left top-bar-footer-group">
+                  <ul class="dropdown menu" data-dropdown-menu="">
+                    <li>
+                      <a href="#">Aktuality</a>
+                    </li>
+                    <li>
+                      <a href="#">O nás</a>
+                      <ul class="menu vertical">
+                        <li>
+                          <a href="#">Naši lidé</a>
+                        </li>
+                        <li>
+                          <a href="#">Regiony</a>
+                        </li>
+                        <li>
+                          <a href="#">Projekty</a>
+                        </li>
+                        <li>
+                          <a href="#">Podporují</a>
+                        </li>
+                        <li>
+                          <a href="#">Úspěchy</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">Program</a>
+                    </li>
+                    <li>
+                      <a href="#">Připoj se</a>
+                    </li>
+                    <li>
+                      <a href="#">Transparence</a>
+                    </li>
+                    <li>
+                      <a href="#">Kontakt</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="top-bar-right top-bar-header-group">
+                  <ul class="c-top-bar-searchbar menu">
+                    <li>
+                      <input type="search">
+                    </li>
+                    <li class="c-top-bar-searchbar__submit">
+                      <button type="button" class="button">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                      </button>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="c-top-bar-border"> </div>
+      <div class="row o-section-block o-section-block--divided">
+        <div class="medium-12 large-8 columns">
+          <section class="o-section o-section--noSpaceBottom o-section--bigger">
+            <div class="o-section-inner o-section-inner--leftBlock">
+              <div class="o-section-mediumdown-divided-small o-section--divided">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting--primary" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/13.jpg" alt="Krnáčová vymáhání škody za Opencard po Bémovi nenechala ani prověřit">
+                        <meta itemprop="url" content="images/articles/13.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 04. 10. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Mikuláš Fernjenčík</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Krnáčová vymáhání škody za Opencard po Bémovi nenechala ani prověřit</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Piráti 29. září 2015, tedy před rokem, vyzvali primátorku Adrianu Krnáčovou a Radu Prahy, aby prověřila vymáhání škod způsobených v kauze Opencard po Pavlu Bémovi a dalších lidech odpovědných za vznik tohoto projektu.</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 04. 10. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+              <div class="o-section-mediumdown-divided-small o-section--divided">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting--primary" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/14.jpg" alt="Piráti zažalovali České dráhy. Chtějí informace o Kleslové.">
+                        <meta itemprop="url" content="images/articles/14.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 27. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Adam Zábranský</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Piráti zažalovali České dráhy.
+                          <br> Chtějí informace o Kleslové.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Pražský zastupitel za Piráty Adam Zábranský podal dvě správní žaloby na České dráhy. Ty mu totiž v rozporu se zákonem o svobodném přístupu k informacím odmítly poskytnout dokumenty vzešlé ze spolupráce s šedou eminencí...</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 04. 10. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div class="small-12 large-4 columns">
+          <aside class="o-section o-section--noSpaceBottom">
+            <div class="o-section-inner o-section-inner--rightBlock">
+              <div class="o-section-block">
+                <ul class="c-widget-accordion" data-accordion="">
+                  <li class="c-widget-accordion-item is-active" data-accordion-item="">
+                    <a href="#" class="c-widget-accordion-link c-widget-accordion-link--fb">
+                      <span class="c-widget-accordion__title">Facebook</span>
+                    </a>
+                    <div class="c-widget-accordion-content u-center" data-tab-content="">
+                      <div class="fb-page" data-href="https://www.facebook.com/ceskapiratskastrana" data-tabs="timeline" data-width="310" data-height="560" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div class="o-section-block">
+                <ul class="c-widget-accordion" data-accordion="">
+                  <li class="c-widget-accordion-item is-active" data-accordion-item="">
+                    <a href="#" class="c-widget-accordion-link c-widget-accordion-link--twitter">
+                      <span class="c-widget-accordion__title">Twitter</span>
+                    </a>
+                    <div class="c-widget-accordion-content u-center" data-tab-content="">
+                      <a class="twitter-timeline" data-lang="cs" data-width="310" data-height="540" href="https://twitter.com/piratipraha"></a>
+                      <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+      <div class="row o-section o-section-block--divided-small o-section-block--divided-small--border--tight o-section--noSpaceBottom-medium">
+        <div class="medium-12 large-12 columns">
+          <div class="o-section-inner">
+            <div class="row">
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/10.jpg" alt="Detailnější článek o organizační struktuře">
+                        <meta itemprop="url" content="images/articles/10.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 26. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Adam Zábranský</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Luxusní vstupenky na dotované sportovní akce dostávají zastupitelé bokem.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Zastupitelskému klubu Pirátů v roce 2015 nabídl zastupitel za ČSSD Karel Březina lístky na mistrovství světa v ledním hokeji (Piráti je odmítli). Minimálně členové klubu ANO zase v témže roce získali vstupenky do VIP.</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                </article>
+              </div>
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/11.jpg" alt="Volební komise">
+                        <meta itemprop="url" content="images/articles/11.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 21. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Mikuláš Fernjenčík</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Pirátská strana právě od Magistrátu obdržela dokument, který potvrzuje, že primátorka Krnáčová odmítla svolat mimořádné zasedání Zastupitelstva nelegálně. Dokument totiž neobsahuje podpisy jednotlivých zastupitelů, ale pouze podpis...</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 08. 07. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/12.jpg" alt="Volební komise">
+                        <meta itemprop="url" content="images/articles/12.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 16. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Jan Loužek, Mikuláš Fernjenčík</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Krnáčová s Udženijí zablokovaly Zastupitelstvo nelegálně, potvrzuje dokument.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Pirátská strana právě od Magistrátu obdržela dokument, který potvrzuje, že primátorka Krnáčová odmítla svolat mimořádné zasedání Zastupitelstva nelegálně. Dokument totiž neobsahuje podpisy jednotlivých zastupitelů, ale pouze podpis...</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 08. 07. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <!-- .row -->
+          </div>
+          <!-- .o-section-inner -->
+        </div>
+        <!-- .columns -->
+      </div>
+      <!-- .row -->
+      <div class="row o-section o-section-block--divided-small o-section-block--divided-small--border--tight">
+        <div class="medium-12 large-12 columns">
+          <div class="o-section-inner">
+            <div class="row">
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/15.jpg" alt="Piráti zjistili, že radiový systém Prahy za 680 milionů dokáže odposlouchávat i laik.">
+                        <meta itemprop="url" content="images/articles/15.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 13. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Mikuláš Ferjenčík</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Piráti zjistili, že radiový systém Prahy za 680 milionů dokáže odposlouchávat i laik.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Ondřej Profant, zastupitel za Piráty v Praze a člen komise Rady pro ICT, zjistil, že rádiový systém Tetra, který používá městská policie Prahy, záchranná služba dopravní podnik i technická správa komunikací je zcela nezabezpečený...</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 13. 09. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/16.jpg" alt="Piráti nesouhlasí podrazem ODS, která vycouvala z mimořádného Zastupitelstva.">
+                        <meta itemprop="url" content="images/articles/16.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 03. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Jakub Michálek</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Piráti nesouhlasí podrazem ODS, která vycouvala z mimořádného Zastupitelstva.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Zastupitelé za Občanskou demokratickou stranu se po dohodě s primátorkou Adrianou Krnáčovou dohodli, že stáhnou všechny své podpisy z žádosti o konání mimořádného zasedání Zastupitelstva hlavního města Prahy.</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 03. 09. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+              <div class="medium-12 large-4 columns">
+                <!-- Article -->
+                <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+                  <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                  <div class="c-BlogPosting-contentWrapper u-cf">
+                    <div class="c-BlogPosting-photoBox">
+                      <!-- BlogPosting image -->
+                      <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+                        <img src="images/articles/17.jpg" alt="Firma si na městském kamerovém systému vydělala už miliardu a půl">
+                        <meta itemprop="url" content="images/articles/17.jpg">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                    </div>
+                    <div class="c-BlogPosting-infoBox">
+                      <!-- Date published -->
+                      <span itemprop="description" class="c-BlogPosting__datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i> 01. 09. 2016
+                        <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+                        <meta itemprop="dateModified" content=""> </span>
+                      <br class="hide-for-medium">
+                      <!-- Authors -->
+                      <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span itemprop="name" class="c-BlogPosting-excerpt__author">Adam Zábranský</span>
+                      </span>
+                    </div>
+                    <div class="c-BlogPosting-contentBox">
+                      <!-- Headline -->
+                      <h1 itemprop="headline" class="c-BlogPosting__title">
+                        <a href="#" itemprop="url">Firma si na městském kamerovém systému vydělala už miliardu a půl.</a>
+                      </h1>
+                      <!-- BlogPosting description-->
+                      <div itemprop="description" class="c-BlogPosting-content">
+                        <p>Piráti zjistili, že společnost KH servis, a. s., která pro Prahu dělá zakázky týkající se městského kamerového systému, si za 14 let přišla od města na zhruba 1,5 miliard korun. Toto číslo vyplývá z...</p>
+                      </div>
+                      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                    </div>
+                    <!-- Publisher -->
+                    <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                      <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="images/brand/logo.svg"> </div>
+                      <meta itemprop="name" content="Česká pirátská strana"> </div>
+                  </div>
+                  <div class="c-BlogPosting-infoBox u-hidden">
+                    <!-- Date published -->
+                    <span itemprop="description" class="c-BlogPosting__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> 01. 09. 2016
+                      <meta itemprop="dateModified" content="">
+                      <meta itemprop="datePublished" content=""> </span>
+                    <br class="hide-for-medium">
+                    <!-- Authors -->
+                    <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
+                    </span>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <!-- .row -->
+          </div>
+          <!-- .o-section-inner -->
+        </div>
+        <!-- .columns -->
+      </div>
+      <!-- .row -->
+      <div class="row o-section">
+        <div class="medium-12 columns">
+          <div class="o-section-inner">
+            <div class="row">
+              <div class="medium-12 columns">
+                <ul class="pagination text-center" role="navigation" aria-label="Stránkování">
+                  <li class="pagination-previous">
+                    <a href="#">&lsaquo;</a>
+                  </li>
+                  <li>
+                    <a href="#" aria-label="Page 1">1</a>
+                  </li>
+                  <li class="current">
+                    <span class="show-for-sr">You're on page</span> 2</li>
+                  <li>
+                    <a href="#" aria-label="Page 3">3</a>
+                  </li>
+                  <li>
+                    <a href="#" aria-label="Page 4">4</a>
+                  </li>
+                  <li class="ellipsis"></li>
+                  <li>
+                    <a href="#" aria-label="Page 12">12</a>
+                  </li>
+                  <li class="pagination-next">
+                    <a href="#" aria-label="Next page">&rsaquo;</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="o-section o-section--tiled o-section--bigger u-inverted u-cf">
+        <div class="o-section-inner">
+          <div class="row">
+            <div class="medium-12 large-3 u-stacked-medium-down columns">
+              <img src="images/brand/logo.svg" style="width: 170px" alt="Česká pirátská strana" class="u-center-medium-down u-10paddingTop">
+              <p class="u-0margin u-noWrap u-50paddingTop u-smaller-line-height show-for-large">
+                <span class="u-mirror-horizontally">&copy;</span> Piráti, 2016. Všechna práva vyhlazena.
+                <br> Sdílejte a nechte ostatní sdílet za stejných
+                <br> podmínek.
+                <a href="#">Podmínky použití</a>.</p>
+            </div>
+            <div class="medium-12 large-7 u-stacked-medium-down columns">
+              <div class="row u-custom-gutter">
+                <div class="small-6 medium-3 columns">
+                  <nav class="c-vertical-navigation u-center-medium-only">
+                    <h3 class="c-vertical-navigation__title">O nás</h3>
+                    <ul class="c-vertical-navigation-items">
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Tým</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Městské části</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Program</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Projekty</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Podporuji</a>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+                <div class="small-6 medium-3 columns">
+                  <nav class="c-vertical-navigation u-center-medium-only">
+                    <h3 class="c-vertical-navigation__title">Připoj se</h3>
+                    <ul class="c-vertical-navigation-items">
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Členství</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Stáže</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Přispěj</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Nezávislý aktivista</a>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+                <div class="small-6 medium-3 u-mobile-down-clear columns">
+                  <nav class="c-vertical-navigation u-center-medium-only">
+                    <h3 class="c-vertical-navigation__title">Makáme</h3>
+                    <ul class="c-vertical-navigation-items">
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Aktivity</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Kalendář</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Pro členy</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Udělali jsme pro vás</a>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+                <div class="small-6 medium-3 columns">
+                  <nav class="c-vertical-navigation u-center-medium-only">
+                    <h3 class="c-vertical-navigation__title">Transparence</h3>
+                    <ul class="c-vertical-navigation-items">
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Transparentní účet</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Evidence lobbistů</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Registr smluv</a>
+                      </li>
+                      <li class="c-vertical-navigation__item">
+                        <a href="#">Technické systémy</a>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+              </div>
+            </div>
+            <div class="medium-12 large-2 u-stacked-medium-down columns u-center-medium-down">
+              <nav class="c-vertical-navigation">
+                <h3 class="c-vertical-navigation__title">Buďte s námi v síti</h3>
+                <ul class="c-vertical-navigation-items c-vertical-navigation-items--horizontal">
+                  <li class="c-vertical-navigation__item">
+                    <a href="#" rel="noopener noreferrer" title="Facebook - Česká pirátská strana">
+                      <i class="fa fa-facebook c-icon c-icon--rounded c-icon--facebook" aria-hidden="true"></i>
+                    </a>
+                  </li>
+                  <li class="c-vertical-navigation__item">
+                    <a href="#" rel="noopener noreferrer" title="Twitter - Česká pirátská strana">
+                      <i class="fa fa-twitter c-icon c-icon--rounded c-icon--twitter" aria-hidden="true"></i>
+                    </a>
+                  </li>
+                  <li class="c-vertical-navigation__item">
+                    <a href="#" rel="noopener noreferrer" title="Google Plus - Česká pirátská strana">
+                      <i class="fa fa-google-plus c-icon c-icon--rounded c-icon--googlePlus" aria-hidden="true"></i>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+              <p class="u-10paddingTop u-maxWidth80percent u-smaller-line-height hide-for-large">
+                <span class="u-mirror-horizontally">&copy;</span> Piráti, 2016. Všechna práva vyhlazena.
+                <br> Sdílejte a nechte ostatní sdílet za stejných podmínek.
+                <a href="#">Podmínky použití</a>.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <aside class="o-section o-section--bigger c-contact-bar u-inverted u-center-medium-down">
+        <div class="o-section-inner">
+          <div class="row">
+            <div class="small-12 columns">
+              <header class="c-contact-bar-header u-stacked-medium-down">
+                <h3 class="c-contact-bar__heading"> Kontakt </h3>
+              </header>
+              <ul class="c-contact-bar-items u-stacked-medium-down">
+                <li class="c-contact-bar__item u-stacked-medium-down">
+                  <div class="c-contact-bar__section"> Média </div>
+                  <div class="c-contact-bar__description"> Mikuláš Ferjenčík,
+                    <a href="#">mikulas.ferjencik@pirati.cz</a>
+                  </div>
+                </li>
+                <li class="c-contact-bar__item u-stacked-medium-down">
+                  <div class="c-contact-bar__section"> Občané </div>
+                  <div class="c-contact-bar__description"> Adam Zábranský,
+                    <a href="">adam.zabransky@pirati.cz</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </aside>
+      <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.js"></script>
+      <script>
+        Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
+        $(document).foundation();
+        $(document).on('replaced.zf.interchange', function(e)
+        {
+          $(this).foundation();
+        });
+        $("button[data-toggle]").on("click", function()
+        {
+          if ($(this).parent().hasClass("js-button-toggled"))
+          {
+            $(this).parent().removeClass("js-button-toggled");
+          }
+          else
+          {
+            $(this).parent().addClass("js-button-toggled");
+          }
+        });
+      </script>
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-XXXXXXXX-2']);
+        _gaq.push(['_trackPageview']);
+        (function()
+        {
+          var ga = document.createElement('script');
+          ga.type = 'text/javascript';
+          ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
     </div>
-    {% if forloop.index == 3 %}{% break %}{% endif %}
-{% endfor %}
-</div>
-
-{% assign articles = site.posts | shift: 5 %}
-<div class="row">
-{% for article in articles %}
-    <div class="small-12 medium-6 large-4 columns">
-        {% include alist/standard_article.html param='article' %}
-    </div>
-    {% if forloop.index == 3 %}{% break %}{% endif %}
-{% endfor %}
-</div>
+  </body>
+</html>
