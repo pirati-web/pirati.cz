@@ -10,7 +10,7 @@ layout: default
           <!-- Article -->
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <h1 itemprop="headline" class="c-BasicPage__title"> Transparence </h1>
+            <h1 itemprop="headline" class="c-BasicPage__title"> Program </h1>
             <div itemprop="description" class="c-BasicPage-content">
 
               {{content}}
@@ -19,9 +19,8 @@ layout: default
           </article>
           <!-- /Article -->
         </main>
-
         <div class="row o-section-block o-section-block--fill">
-          {% for item in site.data.transparence %}
+          {% for item in site.data.program %}
             {% include accordeon/accordeon-column.html param='item' %}
           {% endfor %}
         </div>
