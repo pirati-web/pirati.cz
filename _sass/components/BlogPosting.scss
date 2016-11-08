@@ -7,6 +7,20 @@ $bp-ns: '';
   @include clearfix;
 }
 
+.#{$bp-ns}c-BlogPosting-excerpt--nospacetop {
+  padding-top: 0;
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt--nospace {
+  padding-top: 0;
+  padding-bottom: 0;
+
+  @include breakpoint(medium down) {
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+}
+
 .#{$bp-ns}c-BlogPosting-excerpt + .#{$bp-ns}c-BlogPosting-excerpt {
   border-top: 1px solid #e1e1e1;
 }
@@ -17,6 +31,15 @@ $bp-ns: '';
   padding: 10px 0 20px 0;
 }
 
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--primary {
+  padding-top: 0;
+  padding-bottom: 0;
+
+  .#{$bp-ns}c-BlogPosting-photoBox {
+    padding-top: 0;
+  }
+
+}
 
 .#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-photoBox {
   max-width: 263px;
@@ -31,6 +54,12 @@ $bp-ns: '';
     float: none;
     padding-top: 0;
     padding-bottom: 5px;
+  }
+}
+
+.#{$bp-ns}c-BlogPosting-excerpt {
+  @include breakpoint(medium down) {
+    min-height: auto;
   }
 }
 
@@ -49,8 +78,14 @@ $bp-ns: '';
 
   @include breakpoint(medium down) {
     padding: 0 0 15px 0;
-    min-height: initial;
+    min-height: auto;
   }
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--primary .#{$bp-ns}c-BlogPosting-contentBox {
+  min-height: auto;
+  padding-bottom: 0;
+
 }
 
 .#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-contentBox {
@@ -95,6 +130,10 @@ $bp-ns: '';
   }
 }
 
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--primary .#{$bp-ns}c-BlogPosting-excerpt-readMore {
+  position: relative;
+}
+
 .#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting__title,
 .#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt__title {
   line-height: 1.15;
@@ -112,11 +151,30 @@ $bp-ns: '';
   line-height: 1.3;
 }
 
+.#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-infoBox {
+  padding-bottom: 1rem;
+
+  .#{$bp-ns}c-BlogPosting__authors {
+    margin-left: 0.5rem;
+  }
+
+  @include breakpoint(medium down) {
+    line-height: 1.75;
+    .#{$bp-ns}c-BlogPosting__authors {
+      margin-left: 0rem;
+    }
+  }
+}
+
 
 .#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting__title {
   font-size: 1.65rem;
   color: $primary-color;
   margin-bottom: 0.375em;
+}
+
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--primary .#{$bp-ns}c-BlogPosting__title {
+  font-size: 2rem;
 }
 
 .#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content h1 {

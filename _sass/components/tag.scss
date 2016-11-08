@@ -1,0 +1,30 @@
+.c-tag {
+  font-size: 0.85rem;
+  color: $primary-color;
+  border: 1px solid $primary-color;
+  border-radius: 2px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0px 4px;
+  transition: 0.25s background;
+  background: #fff;
+}
+
+.c-tag:hover,
+.c-tag.is-active {
+  background: #e5f4ff;
+}
+
+.c-tag-list {
+  display: inline-block;
+  margin-left: 0.5rem;
+  list-stype-type: none;
+
+  li {
+    display: inline-block;
+  }
+
+  li + li {
+    margin-left: 0.45rem;
+  }
+}

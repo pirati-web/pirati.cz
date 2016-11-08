@@ -1,0 +1,57 @@
+.c-widget-share-box {
+  position: relative;
+  padding: 3.25rem 3.5rem 3.5rem 3.5rem;
+  border: 1px solid #f3f3f3;
+  border-radius: 2px;
+  width: 100%;
+  overflow: hidden;
+
+  &:before {
+    z-index: -1;
+    content: '\f004';
+    display: block;
+    position: absolute;
+    top: -35px;
+    right: -35px;
+    display: inline-block;
+    font-family: 'FontAwesome';
+    font-size: 11.5rem;
+    transform: rotate(20deg);
+    color: #f3f3f3;
+  }
+
+  @include breakpoint(large down) {
+    &.c-widget-share-box--largestacked {
+      margin-top: 2rem;
+    }
+  }
+
+  @include breakpoint(medium down) {
+    &:before {
+      top: 50%;
+      right: 30px;
+      transform: translateY(-50%);
+    }
+
+    &.c-widget-share-box--mediumstacked {
+      margin-top: 2rem;
+    }
+  }
+}
+
+.c-widget-share-box-headline {
+  font-family: $header-font-family;
+  color: $primary-color;
+  font-size: 1.75rem;
+}
+
+.c-widget-share-box-content {
+  margin-top: 2.75rem;
+}
+
+.c-widget-share-box__tweet,
+.c-widget-share-box__fb {
+  display: block;
+  margin-top: 0.5rem;
+}
+

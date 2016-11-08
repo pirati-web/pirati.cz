@@ -9,6 +9,7 @@
 // Import Components
 @import 'components/BlogPosting';
 @import 'components/Person';
+@import 'components/BasicPage';
 @import 'components/vertical-navigation';
 @import 'components/icon';
 @import 'components/contact-bar';
@@ -19,6 +20,11 @@
 @import 'components/widget-accordion';
 @import 'components/card';
 @import 'components/welcome-header';
+@import 'components/tag';
+@import 'components/widget-share-box';
+@import 'components/widget-simple-text';
+@import 'components/pagination';
 
 // Import Objects
 @import 'objects/section';
+@import 'objects/media';

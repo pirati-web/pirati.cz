@@ -3,6 +3,15 @@
   @include top-bar-container;
 }
 
+.c-top-bar-border {
+  display: block;
+  height: 5px;
+  margin-top: -3px;
+  background: #f3f3f3;
+  position: relative;
+  z-index: 9;
+}
+
 .c-top-bar .c-top-bar-inner {
   padding: 0 30px 0 20px;
 

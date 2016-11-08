@@ -36,6 +36,10 @@
   margin: 0 !important;
 }
 
+.u-center {
+  text-align: center !important;
+}
+
 .u-center-medium-down {
 
   @include breakpoint(medium down) {
