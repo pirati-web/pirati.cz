@@ -27,3 +27,6 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /program/:path/

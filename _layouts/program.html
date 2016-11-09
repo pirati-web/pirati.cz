@@ -15,6 +15,13 @@ layout: default
 
               {{content}}
 
+              <hr>
+              {{site.categories["Občanská práva"] }}
+              <hr>
+              {% for bod in site.program %}
+                {{bod.title}}<br>
+              {% endfor %}
+
             </div>
           </article>
           <!-- /Article -->
