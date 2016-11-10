@@ -26,11 +26,11 @@ rbar: cal, people, video
             <div class="c-BlogPosting-excerpt-contentBox">
               <!-- Headline -->
               <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
-                <a href="{{site.url}}" itemprop="url">{{article.title}}</a>
+                <a href="{{article.url}}" itemprop="url">{{article.title}}</a>
               </h2>
               <!-- BlogPosting description-->
               <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 }} </div>
-              <a href="{{site.url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+              <a href="{{article.url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
             </div>
             <!-- Publisher -->
             <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
