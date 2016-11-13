@@ -48,7 +48,7 @@
       </ul>
       {% if page.url != '/' %}
       <div class="top-bar-title">
-        <a href="">
+        <a href="{{ '/' | prepend: site.baseurl }}">
           <img src="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}" alt="Česká pirátská strana">
         </a>
       </div>
@@ -74,7 +74,7 @@
                 <a href="{{ '/o-nas/' | prepend: site.baseurl}}">O nás</a>
                 <ul class="menu vertical">
                   <li>
-                    <a href="#">Naši lidé</a>
+                    <a href="{{ '/lide/' | prepend: site.baseurl}}">Naši lidé</a>
                   </li>
                   <li>
                     <a href="#">Regiony</a>
