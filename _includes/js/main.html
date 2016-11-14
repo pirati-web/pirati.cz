@@ -1,5 +1,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.1/raphael.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
 <script>
@@ -20,7 +21,10 @@
       $(this).parent().addClass("js-button-toggled");
     }
   });
-    window.onload = function() {};
+  window.onload = function() {};
+
 {% include js/fb.js %}
 {% include js/tw.js %}
+{% include js/autocomplete.js %}
+
 </script>
