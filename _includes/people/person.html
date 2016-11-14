@@ -1,0 +1,16 @@
+<div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace">
+      <img src="{{ person.img | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="{{person.name}}"> </div>
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        <a href="#">{{person.name}}</a>
+      </h2>
+      <p> {{person.function}}</p>
+      <p> {{person.mob}}
+        <br>
+        <a href="mailto:{{person.mail}}">{{person.mail}}</a>
+        <br> </p>
+    </div>
+  </div>
+</div>

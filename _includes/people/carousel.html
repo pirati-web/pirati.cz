@@ -1,0 +1,14 @@
+<li class="orbit-slide">
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace">
+      <img src="{{ person.img | prepend: '/assets/img/people/carousel/' | prepend: site.baseurl }}" alt="Ivan Bartoš"> </div>
+    <div class="o-media__body">
+      <h2 class="o-media__headline c-hero__subtitle">{{person.name}}</h2>
+      <p class="u-pmarginbottom">{{person.function}}</p>
+      {{person.description}}
+      <p>
+        <a href="{{person.url}}">Celý profil</a>
+      </p>
+    </div>
+  </div>
+</li>

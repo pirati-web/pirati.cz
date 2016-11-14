@@ -1,0 +1,37 @@
+- name: Předsednictvo strany
+  list:
+  - name: PhDr. Ivan Bartoš Ph.D.
+    img: ivan-bartos.jpg
+    function: Předseda Pirátské strany
+    mail: ivan.bartos@pirati.cz
+    mob:  +420 603 415 378
+  - name: Vojtěch Pikal
+    img: vojtech-pikal.jpg
+    function: 1. místopředseda
+    mail: vojtech.pikal@pirati.cz
+    mob: +420 776 635 258
+  - name: Ing. et Ing. Martin Šmída
+    img: martin-smida.jpg
+    function: 2. místopředseda
+    mail: martin.smida@pirati.cz
+    mob: +420 XXX YYY ZZZ
+  - name: Mgr. et Mgr. Jakub Michálek
+    img: jakub-michalek-2.jpg
+    function:  3. místopředseda
+    mail: jakub.michalek@pirati.cz
+    mob: +420 775 978 550
+  - name: Paedr. Ivo Vašíček
+    img: ivo-vasicek.jpg
+    function: 4. místopředseda
+    mail: ivo.vasicek@pirati.cz
+    mob: +420 XXX YYY ZZZ
+- name: Krajští zastupitelé
+  list:
+  - name: Hlavní město Praha
+    list:
+  - name: Karlovarský kraj
+    list:
+  - name: Královéhradecký kraj
+    list:
+  - name: Jihomoravský kraj
+    list:
