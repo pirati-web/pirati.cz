@@ -80,3 +80,15 @@
       function: zastupitel
       mail: ivo.vasicek@pirati.cz
       mob: +420 XYZ XYZ XYZ
+  - name: Senát
+    list:
+    - name: Ladislav Kos
+      img: ladislav-kos.jpg
+      function: senátor
+      mail: kos.ladislav@seznam.cz
+      mob: +420 603 780 761
+      name: Renata Chmelová
+      img: renata-chmelova.jpg
+      function: senátor
+      mail: renata.chmelova@vlasta10.cz
+      mob: +420 724 022 964 
