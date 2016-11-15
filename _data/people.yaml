@@ -44,6 +44,11 @@
       function: zastupitel
       mail: mikulas.ferjencik@pirati.cz
       mob: +420 737 943 770
+    - name: Adam Zabranský
+      img: adam-zabransky.jpg
+      function: zastupitel
+      mail: adam.zabransky@pirati.cz
+      mob:  +420 721 006 868
   - name: Karlovarský kraj
     list:
     - name: Josef Janů
@@ -63,32 +68,32 @@
       mob: +420 607 012 476
   - name: Královéhradecký kraj
     list:
-    - name: Jiří Hlavenka
-      img: jiri-hlavenka.jpg
-      function: zastupitel
-      mail: jiri.hlavenka@pirati.cz
-      mob: + 420 XYZ XYZ XYZ
-      name: Martin Jiránek
+    - name: Martin Jiránek
       img: martin-jiranek.jpg
       function: zastupitel
       mail: martin.jiranek@pirati.cz
       mob: +420 XYZ XYZ XYZ
   - name: Jihomoravský kraj
     list:
+    - name: Jiří Hlavenka
+      img: jiri-hlavenka.jpg
+      function: zastupitel
+      mail: jiri.hlavenka@pirati.cz
+      mob: + 420 XYZ XYZ XYZ
     - name: Ivo Vašíček
       img: ivo-vasicek.jpg
       function: zastupitel
       mail: ivo.vasicek@pirati.cz
       mob: +420 XYZ XYZ XYZ
-  - name: Senát
-    list:
-    - name: Ladislav Kos
-      img: ladislav-kos.jpg
-      function: senátor
-      mail: kos.ladislav@seznam.cz
-      mob: +420 603 780 761
-      name: Renata Chmelová
-      img: renata-chmelova.jpg
-      function: senátor
-      mail: renata.chmelova@vlasta10.cz
-      mob: +420 724 022 964 
+- name: Senát
+  list:
+  - name: Ladislav Kos
+    img: ladislav-kos.jpg
+    function: senátor
+    mail: kos.ladislav@seznam.cz
+    mob: +420 603 780 761
+  - name: Renata Chmelová
+    img: renata-chmelova.jpg
+    function: senátor
+    mail: renata.chmelova@vlasta10.cz
+    mob: +420 724 022 964

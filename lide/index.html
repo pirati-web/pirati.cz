@@ -128,190 +128,57 @@ layout: default
                     <div class="c-simple-accordion-content-block">
                       <h3>Hlavní město Praha</h3>
                       <div class="row">
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'jakub-michalek-2.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Jakub Michálek"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Mgr. et Mgr. Jakub Michálek</a>
-                                </h2>
-                                <p> předseda zastupitelského klubu </p>
-                                <p> +420 775 978 550
-                                  <br>
-                                  <a href="mailto:jakub.michalek@pirati.cz">jakub.michalek@pirati.cz</a>
-                                  <br> </p>
-                              </div>
-                            </div>
+                        {% for person in site.data.people[1].list[0].list %}
+                          {% assign loopindex = forloop.index | modulo: 2 %}
+                          {% if loopindex == 1 %}
+                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                          {% endif %}
+                          {% include people/person.html param='person' %}
+                          {% if loopindex == 0 %}
                           </div>
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'ondrej-profant-2.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Ondřej Profant"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Ondřej Profant</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 607 580 015
-                                  <br>
-                                  <a href="mailto:ondrej.profant@pirati.cz">ondrej.profant@pirati.cz</a>
-                                  <br> </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'mikulas-ferjencik-2.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Mikuláš Ferjenčík"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Mikuláš Ferjenčík</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 737 943 880
-                                  <br>
-                                  <a href="mailto:mikulas.ferjencik@pirati.cz">mikulas.ferjencik@pirati.cz</a>
-                                  <br> </p>
-                             </div>
-                            </div>
-                          </div>
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'adam-zabransky.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Adam Zábranský"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Adam Zábranský</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 721 006 868
-                                  <br>
-                                  <a href="mailto:adam.zabransky@pirati.cz">adam.zabransky@pirati.cz</a>
-                                  <br> </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                          {% endif %}
+                        {% endfor %}
                       </div>
                     </div>
                     <div class="c-simple-accordion-content-block">
                       <h3>Karlovarský kraj</h3>
-
-<div class="row">
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border"><!-- Petr Třešňák-->
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'petr-tresnak.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Petr Třešňák"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Petr Třešňák</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 XXX YYY ZZZ
-                                  <br>
-                                  <a href="mailto:petr.tresnak@pirati.cz">petr.tresnak@pirati.cz</a>
-                                  <br> </p>
-                              </div>
-                            </div>
+                      <div class="row">
+                        {% for person in site.data.people[1].list[1].list %}
+                          {% assign loopindex = forloop.index | modulo: 2 %}
+                          {% if loopindex == 1 %}
+                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                          {% endif %}
+                          {% include people/person.html param='person' %}
+                          {% if loopindex == 0 %}
                           </div>
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small"><!-- Josef Janů-->
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'josef-janu.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Josef Janů"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Josef Janů</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 XXX YYY ZZZ
-                                  <br>
-                                  <a href="mailto:josef.janu@pirati.cz">josef.janu@pirati.cz</a>
-                                  <br> </p>
-                              </div>
-                            </div>
+                          {% endif %}
+                        {% endfor %}
+                        </div>
+                      </div>
+                      <div class="c-simple-accordion-content-block">
+                        <h3>Královéhradecký kraj</h3>
+                        <div class="row">
+                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                          {% assign person = site.data.people[1].list[2].list[0] %}
+                          {% include people/person.html param='person' %}
                           </div>
                         </div>
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border"><!-- Vojtěch Franta -->
-                          <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                            <div class="o-media o-media--top">
-                              <div class="o-media__image o-media__image--lgspace">
-                                <img src="{{ 'vojtech-franta.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Vojtěch Franta"> </div>
-                              <div class="o-media__body">
-                                <h2 class="o-media__headline">
-                                  <a href="#">Vojtěch Franta</a>
-                                </h2>
-                                <p> zastupitel </p>
-                                <p> +420 XXX YYY ZZZ
-                                  <br>
-                                  <a href="mailto:vojtech.franta@pirati.cz">vojtech.franta@pirati.cz</a>
-                                  <br> </p>
-                             </div>
-                            </div>
-                           </div>
+                      </div>
+                      <div class="c-simple-accordion-content-block">
+                        <h3>Jihomoravský kraj</h3>
+                        <div class="row">
+                        {% for person in site.data.people[1].list[3].list %}
+                          {% assign loopindex = forloop.index | modulo: 2 %}
+                          {% if loopindex == 1 %}
+                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                          {% endif %}
+                          {% include people/person.html param='person' %}
+                          {% if loopindex == 0 %}
                           </div>
-                        <div class="c-simple-accordion-content-block">
-                          <h3>Královéhradecký kraj</h3>
-
-    <div class="row">
-                            <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border"><!-- Petr Třešňák-->
-                              <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                                <div class="o-media o-media--top">
-                                  <div class="o-media__image o-media__image--lgspace">
-                                    <img src="{{ 'martin-jiranek.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Martin Jiránek"> </div>
-                                  <div class="o-media__body">
-                                    <h2 class="o-media__headline">
-                                      <a href="#">Martin Jiránek</a>
-                                    </h2>
-                                    <p> zastupitel </p>
-                                    <p> +420 XXX YYY ZZZ
-                                      <br>
-                                      <a href="mailto:martin.jiranek@pirati.cz">martin.jiranek@pirati.cz</a>
-                                      <br> </p>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small"><!-- Josef Janů-->
-                                <div class="o-media o-media--top">
-                                  <div class="o-media__image o-media__image--lgspace">
-                                    <img src="{{ 'jiri-hlavenka.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Jiří Hlavenka"> </div>
-                                  <div class="o-media__body">
-                                    <h2 class="o-media__headline">
-                                      <a href="#">Jiří Hlavenka</a>
-                                    </h2>
-                                    <p> zastupitel </p>
-                                    <p> +420 XXX YYY ZZZ
-                                      <br>
-                                      <a href="mailto:jiri.hlavenka@pirati.cz">jiri.hlavenka@pirati.cz</a>
-                                      <br> </p>
-                                  </div>
-                                </div>
-                              </div>
-                            <div class="c-simple-accordion-content-block">
-                              <h3>Jihomoravský kraj</h3>
-
-        <div class="row">
-                                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border"><!-- Petr Třešňák-->
-                                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                                    <div class="o-media o-media--top">
-                                      <div class="o-media__image o-media__image--lgspace">
-                                        <img src="{{ 'ivo-vasicek.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Ivo Vašíček"> </div>
-                                      <div class="o-media__body">
-                                        <h2 class="o-media__headline">
-                                          <a href="#">Ivo Vašíček</a>
-                                        </h2>
-                                        <p> zastupitel </p>
-                                        <p> +420 XXX YYY ZZZ
-                                          <br>
-                                          <a href="mailto:ivo.vasicek@pirati.cz">ivo.vasicek@pirati.cz</a>
-                                          <br> </p>
-                                      </div>
-                                    </div>
-                                  </div>
+                          {% endif %}
+                        {% endfor %}
+                        </div>
+                      </div>
                 </li>
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
