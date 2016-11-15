@@ -29,9 +29,54 @@
   list:
   - name: Hlavní město Praha
     list:
+    - name: Mgr. et Mgr. Jakub Michálek
+      img: jakub-michalek-2.jpg
+      function: předseda zastupitelského klubu
+      mail: jakub.michalek@pirati.cz
+      mob: +420 775 978 550
+    - name: Ondřej Profant
+      img: ondrej-profant-2.jpg
+      function: zastupitel
+      mail: ondrej.profant@pirati.cz
+      mob: +420 607 580 015
+    - name: Mikuláš Ferjenčík
+      img: mikulas-ferjencik-2.jpg
+      function: zastupitel
+      mail: mikulas.ferjencik@pirati.cz
+      mob: +420 737 943 770
   - name: Karlovarský kraj
     list:
+    - name: Josef Janů
+      img: josef-janu.jpg
+      function: zastupitel
+      mail: josef.janu@pirati.cz
+      mob: +420 606 183 864
+    - name: Petr Třešňák
+      img: petr-tresnak.jpg
+      function: zastupitel
+      mail: petr.tresnak@pirati.cz
+      mob: +420 XYZ XYZ XYZ
+    - name: Vojtěch Franta
+      img: vojtech-franta.jpg
+      function: zastupitel
+      mail: vojtech.franta@pirati.cz
+      mob: +420 607 012 476
   - name: Královéhradecký kraj
     list:
+    - name: Jiří Hlavenka
+      img: jiri-hlavenka.jpg
+      function: zastupitel
+      mail: jiri.hlavenka@pirati.cz
+      mob: + 420 XYZ XYZ XYZ
+      name: Martin Jiránek
+      img: martin-jiranek.jpg
+      function: zastupitel
+      mail: martin.jiranek@pirati.cz
+      mob: +420 XYZ XYZ XYZ
   - name: Jihomoravský kraj
     list:
+    - name: Ivo Vašíček
+      img: ivo-vasicek.jpg
+      function: zastupitel
+      mail: ivo.vasicek@pirati.cz
+      mob: +420 XYZ XYZ XYZ
