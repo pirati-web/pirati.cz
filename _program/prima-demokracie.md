@@ -1,9 +1,7 @@
 ---
 title: Přímá demokracie
 img:
-section: Demokracie
-category: Demokracie
-categories: Demokracie
+topic: Demokracie
 ---
 
 Systém rozdělení moci v republice i na evropské úrovni mezi staré struktury důsledně nahradíme demokracií. Demokracie vyžaduje přímou volbu a možnost odvolání vedoucích představitelů, zákonodárnou iniciativu, referenda a zapojení občanů do všech fází přípravy a schvalování legislativy.

@@ -1,7 +1,7 @@
 ---
 title: Transparentní organizace
 img:
-section: Otevřený stát
+topic: Otevřený stát
 ---
 
 Otevřenost je nejlepším lékem na všudypřítomnou korupci a plýtvání. Moderní technologie nám daly jedinečnou možnost státní hospodaření dokonale zprůhlednit. Piráti prosazují bezodkladné nasazení modelu transparentní organizace, který sami úspěšně používají a který vrací do veřejného života důvěru.
@@ -21,4 +21,4 @@ Podle modelu transparentní organizace musí fungovat všechny úřady, zdravotn
 
 Pro splnění povinností transparentní organizace nechá stát vytvořit [svobodný software][], který transparentní organizaci maximálně zjednoduší plnění povinností a ušetří náklady.
 
-[svobodný software]: 
+[svobodný software]:

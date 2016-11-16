@@ -1,8 +1,7 @@
 ---
 title: Svoboda informací
 img:
-section: Občanská práva
-category: Občanská práva
+topic: Občanská práva
 ---
 
 Zakázané šíření informací mělo v naší historii klíčový význam, protože narušovalo informační monopol totalitních režimů. V exilu vydával díla Komenský, samizdatem šířili spisy disidenti a pirátsky vysílal okupovaný rozhlas. V informační společnosti 21. století je svoboda informací ještě důležitější. Piráti zastupují další generaci, která si musí vydobýt svoji svobodu!

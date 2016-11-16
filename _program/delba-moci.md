@@ -1,9 +1,7 @@
 ---
 title: Dělba moci
 img:
-section: Demokracie
-category: Demokracie
-categories: Demokracie
+topic: Demokracie
 ---
 
 Prosazujeme důslednou dělbu moci mezi zákonodárnou, výkonnou a soudní moc a několik málo zvláštních nezávislých orgánů (Česká národní banka, Nejvyšší kontrolní úřad apod.). Pirátská strana prosazuje důslednou dělbu moci ve státě, územních a profesních samosprávách, politických stranách i na vysokých školách. Dělba moci znesnadňuje systematickou korupci a privatizaci veřejné moci.

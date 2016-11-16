@@ -1,7 +1,7 @@
 ---
 title: Svoboda projevu
 img:
-section: Občanská práva
+topic: Občanská práva
 ---
 
 Piráti se zasazují o liberální společnost, kde má každý člověk právo projevit svůj názor. Stávající občanská práva jako právo petiční chceme aktualizovat pro digitální věk. Usilujeme o liberální úpravu shromažďovacího práva, aby měl člověk na ulici stejnou anonymitu jako na Internetu.
