@@ -15,11 +15,14 @@ layout: default
 
               {{content}}
 
-              <hr>
-              {{site.categories["Občanská práva"] }}
-              <hr>
-              {% for bod in site.program %}
-                {{bod.title}}<br>
+              {% assign program = site.program | group_by:"section" %}
+
+              {% for topic in program %}
+              <b>{{topic.name}}</b>
+                {% for point in topic.items %}
+                - {{ point.title }}
+                {% endfor %}
+                <br>
               {% endfor %}
 
             </div>
@@ -27,11 +30,10 @@ layout: default
           <!-- /Article -->
         </main>
         <div class="row o-section-block o-section-block--fill">
-          {% for item in site.data.program %}
-            {% include accordeon/accordeon-column.html param='item' %}
+          {% for topic in program %}
+            {% include accordeon/accordeon-column.html param='topic' %}
           {% endfor %}
         </div>
-
       </div>
     </div>
   </div>

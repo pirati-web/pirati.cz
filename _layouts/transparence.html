@@ -21,8 +21,8 @@ layout: default
         </main>
 
         <div class="row o-section-block o-section-block--fill">
-          {% for item in site.data.transparence %}
-            {% include accordeon/accordeon-column.html param='item' %}
+          {% for topic in site.data.transparence %}
+            {% include accordeon/accordeon-column.html param='topic' %}
           {% endfor %}
         </div>
 

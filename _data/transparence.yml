@@ -1,6 +1,6 @@
 -
-  title: Hospodaření
-  data:
+  name: Hospodaření
+  items:
   - title: Smlouvy, faktury a účty
     content: |
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
@@ -15,8 +15,8 @@
   - title: Odměny politiků a dalších osob
     content: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nihil, id similique.</p>
 -
-  title: Rozhodování
-  data:
+  name: Rozhodování
+  items:
   - title: Politická aktivita
   - title: Oběh dokumentů
   - title: Přehledy
@@ -28,8 +28,8 @@
         <li><a href="#">Seznam informačních předpisů</a></li>
       </ul>
 -
-  title: Lidé
-  data:
+  name: Lidé
+  items:
   - title: Seznam členů a funkcí
     content: |
       <p>Členové pirátů nejsou mrtvé duše, jak to je někdy u starých politických stran.</p>
