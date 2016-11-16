@@ -1,6 +1,6 @@
 ---
 title: Přímá demokracie
-img:
+img: https://www.pirati.cz/_media/program/prima_demokracie_poslanec.png
 topic: Demokracie
 ---
 

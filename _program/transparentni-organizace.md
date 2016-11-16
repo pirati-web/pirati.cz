@@ -1,6 +1,6 @@
 ---
 title: Transparentní organizace
-img:
+img: https://www.pirati.cz/_media/program/transparence.jpg
 topic: Otevřený stát
 ---
 
@@ -19,6 +19,6 @@ Transparentní organizace musí všechny zakázky zadávat ve dvoustupňovém ř
 
 Podle modelu transparentní organizace musí fungovat všechny úřady, zdravotní pojišťovny a městské podniky, stejně jako politické strany a občanská sdružení, které chtějí dostávat veřejné dotace.
 
-Pro splnění povinností transparentní organizace nechá stát vytvořit [svobodný software][], který transparentní organizaci maximálně zjednoduší plnění povinností a ušetří náklady.
+Pro splnění povinností transparentní organizace nechá stát vytvořit [svobodný software][svoboda-informaci], který transparentní organizaci maximálně zjednoduší plnění povinností a ušetří náklady.
 
-[svobodný software]:
+[svoboda-informaci]:(https://www.pirati.cz/program/svoboda_informaci)
