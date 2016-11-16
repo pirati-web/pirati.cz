@@ -1,0 +1,15 @@
+{
+  "id": "paper",
+  "size": {
+    "width": 600,
+    "height": 400,
+    "scale": 0.75
+  },
+  "colors": true,
+  "region_attrs": {
+      "fill": "#333",
+      "stroke": "#666",
+      "stroke-width": 1,
+      "stroke-linejoin": "round"
+  }
+}
