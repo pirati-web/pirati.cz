@@ -48,8 +48,8 @@
       </ul>
       {% if page.url != '/' %}
       <div class="top-bar-title">
-        <a href="{{ '/' | prepend: site.baseurl }}">
-          <img src="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}" alt="Česká pirátská strana">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/img/brand/logo.svg' | relative_url }}" alt="Česká pirátská strana">
         </a>
       </div>
       {% endif %}
@@ -68,16 +68,16 @@
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
               <li>
-                <a href="{{'/aktuality/' | prepend: site.baseurl }}">Aktuality</a>
+                <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
               <li>
-                <a href="{{ '/o-nas/' | prepend: site.baseurl}}">O nás</a>
+                <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
                 <ul class="menu vertical">
                   <li>
-                    <a href="{{ '/lide/' | prepend: site.baseurl}}">Naši lidé</a>
+                    <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
                   </li>
                   <li>
-                    <a href="#">Regiony</a>
+                    <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
                   </li>
                   <li>
                     <a href="#">Projekty</a>
@@ -91,16 +91,16 @@
                 </ul>
               </li>
               <li>
-                <a href="{{ '/program/' | prepend: site.baseurl }}">Program</a>
+                <a href="{{ '/program/' |  relative_url }}">Program</a>
               </li>
               <li>
                 <a href="#">Připoj se</a>
               </li>
               <li>
-                <a href="{{ '/transparence/' | prepend: site.baseurl }}">Transparence</a>
+                <a href="{{ '/transparence/' |  relative_url }}">Transparence</a>
               </li>
               <li>
-                <a href="{{ '/kontakt/' | prepend: site.baseurl }}">Kontakt</a>
+                <a href="{{ '/kontakt/' |  relative_url }}">Kontakt</a>
               </li>
             </ul>
           </div>
