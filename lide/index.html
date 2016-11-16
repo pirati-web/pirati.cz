@@ -155,30 +155,31 @@ layout: default
                         {% endfor %}
                         </div>
                       </div>
-                      <div class="c-simple-accordion-content-block">
-                        <h3>Královéhradecký kraj</h3>
-                        <div class="row">
-                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          {% assign person = site.data.people[1].list[2].list[0] %}
-                          {% include people/person.html param='person' %}
-                          </div>
+                    </div>
+                    <div class="c-simple-accordion-content-block">
+                      <h3>Královéhradecký kraj</h3>
+                      <div class="row">
+                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                        {% assign person = site.data.people[1].list[2].list[0] %}
+                        {% include people/person.html param='person' %}
                         </div>
                       </div>
-                      <div class="c-simple-accordion-content-block">
-                        <h3>Jihomoravský kraj</h3>
-                        <div class="row">
-                        {% for person in site.data.people[1].list[3].list %}
-                          {% assign loopindex = forloop.index | modulo: 2 %}
-                          {% if loopindex == 1 %}
-                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          {% endif %}
-                          {% include people/person.html param='person' %}
-                          {% if loopindex == 0 %}
-                          </div>
-                          {% endif %}
-                        {% endfor %}
+                    </div>
+                    <div class="c-simple-accordion-content-block">
+                      <h3>Jihomoravský kraj</h3>
+                      <div class="row">
+                      {% for person in site.data.people[1].list[3].list %}
+                        {% assign loopindex = forloop.index | modulo: 2 %}
+                        {% if loopindex == 1 %}
+                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                        {% endif %}
+                        {% include people/person.html param='person' %}
+                        {% if loopindex == 0 %}
                         </div>
+                        {% endif %}
+                      {% endfor %}
                       </div>
+                    </div>
                 </li>
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
@@ -186,40 +187,17 @@ layout: default
                   <a href="#" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
                     <div class="row">
+                      <p>Senátoři zvoleni s Pirátskou podporou. Nominováni byli i dalšími stranami.</p>
+                      {% for person in site.data.people[2].list %}
+                      {% assign loopindex = forloop.index | modulo: 2 %}
+                      {% if loopindex == 1 %}
                       <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                        <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                          <div class="o-media o-media--top">
-                            <div class="o-media__image o-media__image--lgspace">
-                              <img src="{{ 'ladislav-kos.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Ladislav Kos"> </div>
-                            <div class="o-media__body">
-                              <h2 class="o-media__headline">
-                                <a href="#">Ladislav Kos</a>
-                              </h2>
-                              <p> senátor </p>
-                              <p> +420 XXX YYY ZZZ
-                                <br>
-                                <a href="mailto:ladislav.kos@pirati.cz">ladislav.kos@pirati.cz</a>
-                                <br> </p>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
-                          <div class="o-media o-media--top">
-                            <div class="o-media__image o-media__image--lgspace">
-                              <img src="{{ 'renata-chmelova.jpg' | prepend: '/assets/img/people/' | prepend: site.baseurl }}" alt="Renata Chmelová"> </div>
-                            <div class="o-media__body">
-                              <h2 class="o-media__headline">
-                                <a href="#">Renata Chmelová</a>
-                              </h2>
-                              <p> senátorka </p>
-                              <p> +420 XXX YYY ZZZ
-                                <br>
-                                <a href="mailto:renata.chmelová@pirati.cz">renata.chmelová@pirati.cz</a>
-                                <br> </p>
-                            </div>
-                          </div>
-                        </div>
+                      {% endif %}
+                      {% include people/person.html param='person' %}
+                      {% if loopindex == 0 %}
                       </div>
+                      {% endif %}
+                      {% endfor %}
                     </div>
                   </div>
                 </li>

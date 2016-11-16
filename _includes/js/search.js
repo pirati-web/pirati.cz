@@ -1,22 +1,13 @@
 $( function() {
   var availableNames = [
     {% for post in site.posts %}
-    {
-      value: "{{ post.url }}",
-      label: "{{ post.title }}"
-    },
+    { label: "{{ post.title }}", value: "{{ post.url }}" },
     {% endfor %}
     {% for person in site.people %}
-    {
-      value: "{{ person.url }}",
-      label: "{{ person.name }}"
-    },
+    { label: "{{ person.name }}", value: "{{ person.url }}" },
     {% endfor %}
     {% for page in site.pages %}
-    {
-      value: "{{ page.url }}",
-      label: "{{ page.title }}"
-    },
+    { label: "{{ page.title }}", value: "{{ page.url }}" },
     {% endfor %}
   ];
   $( "#search" ).autocomplete({

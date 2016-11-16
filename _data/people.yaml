@@ -87,6 +87,11 @@
       mob: +420 XYZ XYZ XYZ
 - name: Senát
   list:
+  - name: Libor Michálek
+    img:
+    function: senátor
+    mail:
+    mob:
   - name: Ladislav Kos
     img: ladislav-kos.jpg
     function: senátor
@@ -97,3 +102,7 @@
     function: senátor
     mail: renata.chmelova@vlasta10.cz
     mob: +420 724 022 964
+  - name: Václav Láska
+    img:
+    mail:
+    mob:
