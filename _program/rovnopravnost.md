@@ -1,7 +1,7 @@
 ---
 title: Rovnoprávnost
 img: https://www.pirati.cz/_media/rp/program/rovnopravnost.png
-topic: demokracie
+topic: Demokracie
 ---
 
 Rovnost před zákonem a právo na sebeurčení jsou základem moderní svobodné společnosti. Kromě aktivního boje proti diskriminaci prosazujeme rovný přístup k veřejným službám, rovnoprávnost různých forem životních partnerství a rovnoprávnost rodičů ve výchově dítěte.
