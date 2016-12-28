@@ -127,7 +127,7 @@ layout: default
                     <h2>Sídlo a kontaktní centrum</h2>
                     <div class="o-media o-media--top">
                       <div class="o-media__image">
-                        <img src="{{ 'residence.png' | prepend: '/assets/img/miscellaneous/' | prepend: site.baseurl }}" alt="Sídlo"> </div>
+                        <img src="{{ 'residence.png' | prepend: '/assets/img/miscellaneous/' | relative_url }}" alt="Sídlo"> </div>
                       <div class="o-media__body">
                         <p>
                           <strong>Česká pirátská strana</strong>
@@ -135,7 +135,7 @@ layout: default
                         <p> Řehořova 943/19
                           <br> 130 00 Praha 3 </p>
                         <p>
-                          <a href="#">Zobrazit mapu ›</a>
+                          <a href="https://goo.gl/maps/tMR253BANG12">Zobrazit mapu ›</a>
                         </p>
                       </div>
                     </div>
@@ -165,10 +165,242 @@ layout: default
   </div>
 </div>
 <hr>
+{% assign people = site.data.contacts %}
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-12 columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner">
+        <div class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <h2>Kontaktní osoby</h2>
+              <div class="row">
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  {% assign id = 'ivan' %}
+                  {% include kontakt/contact-card.html param='people' param='id' %}
+                  {% assign id = 'vojta' %}
+                  {% include kontakt/contact-card.html param='people' param='id' %}
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'jakub-michalek.jpg' | prepend: '/assets/img/people/contact/' | relative_url }}" alt="Mgr. et Mgr. Jakub Michálek"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Mgr. et Mgr. Jakub Michálek</a>
+                        </h2>
+                        <p> 3. místopředseda
+                          <br> Předseda zasupitelského klubu Pirátů
+                          <br> ZHMP (
+                          <a href="#">viz Praha</a>) </p>
+                        <p> +420 775 978 550
+                          <br>
+                          <a href="mailto:jakub.michalek@pirati.cz">jakub.michalek@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'elizabet-kovaceva.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Elizabet Kovačeva"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Elizabet Kovačeva</a>
+                        </h2>
+                        <p> asistentka pro administrativu </p>
+                        <p> +420 778 702 242
+                          <br>
+                          <a href="mailto:elizabet.kovaceva@pirati.cz">elizabet.kovaceva@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'ljuba-polakova.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Ljuba Poláková"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Ljuba Poláková</a>
+                        </h2>
+                        <p> telefonní kontakt pro veřejnost </p>
+                        <p> +420 608 963 111
+                          <br>
+                          <a href="mailto:info@pirati.cz">info@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'mikulas-ferjencik.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Mikuláš Ferjenčík"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Mikuláš Ferjenčík</a>
+                        </h2>
+                        <p> Vedoucí
+                          <a href="#">mediálního odboru</a>
+                          <br> Organizace tiskových konferencí
+                          <br> Kontakt pro média </p>
+                        <p> +420 737 943 770
+                          <br>
+                          <a href="mailto:mikulas.ferjencik@pirati.cz">mikulas.ferjencik@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'lukas-cernohorsky.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Ing. Lukáš Černohorský"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Ing. Lukáš Černohorský</a>
+                        </h2>
+                        <p> Pověřený vedoucí finančního odboru
+                          <br>
+                          <a href="#">Kontakt pro účetní</a>
+                        </p>
+                        <p> +420 601 573 955
+                          <br>
+                          <a href="mailto:lukas.cernohorsky@pirati.cz">lukas.cernohorsky@pirati.cz</a>
+                          <br>
+                          <a href="mailto:fo@pirati.cz">fo@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'martin-kucera.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Mgr. Martin Kučera"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Mgr. Martin Kučera</a>
+                        </h2>
+                        <p> Vedoucí administrativního odboru
+                          <br>
+                          <a href="#">Kontakt pro členy</a>
+                        </p>
+                        <p> +420 778 702 711
+                          <br>
+                          <a href="mailto:martin.kucera@pirati.cz">martin.kucera@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'ondrej-profant.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Ondřej Profant"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Ondřej Profant</a>
+                        </h2>
+                        <p> Vedoucí
+                          <a href="#">technického odboru</a>
+                        </p>
+                        <p> +420 607 580 015
+                          <br>
+                          <a href="mailto:ondrej.profant@pirati.cz">ondrej.profant@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'jakub-nepejchal.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Jakub Nepejchal"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Jakub Nepejchal</a>
+                        </h2>
+                        <p> Vedoucí personálního odboru
+                          <br>
+                          <a href="#">Kontakt pro zájemnce o členství a dobrovolníky</a>
+                        </p>
+                        <p> +420 778 711 166
+                          <br>
+                          <a href="mailto:jakub.nepejchal@pirati.cz">jakub.nepejchal@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'mikulas-peksa.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Mgr. Mikuláš Peksa"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Mgr. Mikuláš Peksa</a>
+                        </h2>
+                        <p> Vedoucího zahraničního odboru
+                          <br> Deputy Head of International department br Kontakt pro cizince </p>
+                        <p> +420 605 101 249
+                          <br>
+                          <a href="mailto:mikulas.peksa@pirati.cz">mikulas.peksa@pirati.cz</a>
+                          <br>
+                          <a href="mailto:international@pirati.cz">international@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{'tobias-esner.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Tobias Esner"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Tobias Esner</a>
+                        </h2>
+                        <p> Správce sídla strany
+                          <br> Krajský manažer Praha,
+                          <a href="#">SčK</a>
+                        </p>
+                        <p> +420 778 702 713
+                          <br>
+                          <a href="mailto:tobias.esner@pirati.cz">tobias.esner@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+                  <div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+                    <div class="o-media o-media--top">
+                      <div class="o-media__image o-media__image--lgspace">
+                        <img src="{{ 'michaela-krausova.jpg' | prepend: '/assets/img/people/contact/' | prepend: site.baseurl }}" alt="Michaela Krausová"> </div>
+                      <div class="o-media__body">
+                        <h2 class="o-media__headline">
+                          <a href="#">Michaela Krausová</a>
+                        </h2>
+                        <p> Koordinátor dobrovolníků
+                          <br>
+                          <a href="#">Praha</a>
+                        </p>
+                        <p> +420 732 858 172
+                          <br>
+                          <a href="mailto:michaela.krausova@pirati.cz">michaela.krausova@pirati.cz</a>
+                          <br> </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">

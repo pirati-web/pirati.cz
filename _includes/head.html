@@ -7,30 +7,30 @@
 
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <!-- Favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/favicon/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/favicon/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/favicon/apple-touch-icon-72x72.">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/favicon/apple-touch-icon-144x144.">
-    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/favicon/apple-touch-icon-60x60.">
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/favicon/apple-touch-icon-120x120.">
-    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/favicon/apple-touch-icon-76x76.">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/favicon/apple-touch-icon-152x152.">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-196x196.png" sizes="196x196">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-128.png" sizes="128x128">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ '/assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'/assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'/assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'/assets/favicon/apple-touch-icon-144x144.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{'/assets/favicon/apple-touch-icon-60x60.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{'/assets/favicon/apple-touch-icon-120x120.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{'/assets/favicon/apple-touch-icon-76x76.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{'/assets/favicon/apple-touch-icon-152x152.png' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{'/assets/favicon/favicon-196x196.png' | relative_url }}" sizes="196x196">
+    <link rel="icon" type="image/png" href="{{'/assets/favicon/favicon-96x96.png' | relative_url }}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{'/assets/favicon/favicon-16x16.png' | relative_url }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{'/assets/favicon/favicon-32x32.png' | relative_url }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{'/assets/favicon/favicon-128.png' | relative_url }}" sizes="128x128">
     <meta name="application-name" content="Česká pirátská strana">
     <meta name="msapplication-TileColor" content="#000000">
-    <meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144.">
-    <meta name="msapplication-square70x70logo" content="/assets/favicon/mstile-70x70.">
-    <meta name="msapplication-square150x150logo" content="/assets/favicon/mstile-150x150.">
-    <meta name="msapplication-wide310x150logo" content="/assets/favicon/mstile-310x150.">
-    <meta name="msapplication-square310x310logo" content="/assets/favicon/mstile-310x310.">
+    <meta name="msapplication-TileImage" content="{{'/assets/favicon/mstile-144x144.' | relative_url }}">
+    <meta name="msapplication-square70x70logo" content="{{'/assets/favicon/mstile-70x70.' | relative_url }}">
+    <meta name="msapplication-square150x150logo" content="{{'/assets/favicon/mstile-150x150.' | relative_url }}">
+    <meta name="msapplication-wide310x150logo" content="{{'/assets/favicon/mstile-310x150.' | relative_url }}">
+    <meta name="msapplication-square310x310logo" content="{{'/assets/favicon/mstile-310x310.' | relative_url }}">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{'/assets/css/main.css' | prepend: site.baseurl}}">
+    <link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url }}">
 </head>
