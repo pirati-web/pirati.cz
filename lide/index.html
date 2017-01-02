@@ -37,6 +37,7 @@ layout: default
         <main class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
+              {% comment %}
               <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
                 <h1 class="c-BasicPage__title"> Organizace </h1>
                 <div class="c-BasicPage__meta">
@@ -99,9 +100,10 @@ layout: default
                   </div>
                 </div>
               </div>
+              {% endcomment %}
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                  <a href="#" class="c-simple-accordion-title">Předsednictvo strany</a>
+                <li class="c-simple-accordion-item" data-accordion-item="">
+                  <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
                     <div class="row">
                         {% for person in site.data.people[0].list %}
@@ -118,8 +120,8 @@ layout: default
                 </li>
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                  <a href="#" class="c-simple-accordion-title">Krajští zastupitelé</a>
+                <li class="c-simple-accordion-item" data-accordion-item="">
+                  <a href="#zasupitele" class="c-simple-accordion-title">Krajští zastupitelé</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
                     <div class="c-simple-accordion-content-block">
                       <h3>Hlavní město Praha</h3>
@@ -180,7 +182,7 @@ layout: default
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
+                  <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
                     <div class="row">
                       <p>Senátoři zvoleni s Pirátskou podporou. Nominováni byli i dalšími stranami.</p>
