@@ -14,7 +14,7 @@
     img: martin-smida.jpg
     function: 2. místopředseda
     mail: martin.smida@pirati.cz
-    mob: +420 XXX YYY ZZZ
+    mob: +420 721 661 311
   - name: Mgr. et Mgr. Jakub Michálek
     img: jakub-michalek-2.jpg
     function:  3. místopředseda
@@ -24,7 +24,7 @@
     img: ivo-vasicek.jpg
     function: 4. místopředseda
     mail: ivo.vasicek@pirati.cz
-    mob: +420 XXX YYY ZZZ
+    mob: +420 608 240 742
 - name: Krajští zastupitelé
   list:
   - name: Hlavní město Praha
@@ -88,10 +88,10 @@
 - name: Senát
   list:
   - name: Libor Michálek
-    img:
+    img: libor-michalek.jpg
     function: senátor
-    mail:
-    mob:
+    mail: michalekl@senat.cz
+    mob: +420 730 195 926
   - name: Ladislav Kos
     img: ladislav-kos.jpg
     function: senátor
@@ -103,6 +103,6 @@
     mail: renata.chmelova@vlasta10.cz
     mob: +420 724 022 964
   - name: Václav Láska
-    img:
-    mail:
-    mob:
+    img: vaclav-laska.jpg
+    mail: vaclav.laska@vaclavlaska.cz
+    mob: +420 732 963 386
