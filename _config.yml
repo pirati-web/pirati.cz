@@ -23,6 +23,7 @@ markdown: kramdown
 sass:
     style: compressed
 
+permalink: /tiskove-zpravy/:title.html
 collections:
   people:
     output: true

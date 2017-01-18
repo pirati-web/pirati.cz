@@ -31,3 +31,10 @@
 // Import Objects
 @import 'objects/section';
 @import 'objects/media';
+
+#back-top {
+  position: fixed;
+  bottom:20px;
+  right: 2%;
+  z-index: 100;
+}

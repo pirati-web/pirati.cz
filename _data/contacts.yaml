@@ -1,0 +1,41 @@
+ivan:
+  img: ivan-bartos.jpg
+  name: PhDr. Ivan Bartoš, Ph.D.
+  position: Předseda
+  mob: +420 603 415 378
+  mail: ivan.bartos@pirati.cz
+  mail2: rp@pirati.cz
+vojta:
+  img: vojtech-pichal.jpg
+  name: Bc. Vojtěch Pikal
+  position: 1. místopředseda
+  mob: +420 776 635 258
+  mail: vojtech.pikal@pirati.cz
+  mail2: rp@pirati.cz
+jakub:
+  img: jakub-michalek.jpg
+  name: Mgr. et Mgr. Jakub Michálek
+  position: |
+    3. místopředseda<br>
+    Předseda zasupitelského klubu Pirátů ZHMP (viz Praha)
+  mob: +420 775 978 550
+  mail: jakub.michalek@pirati.cz
+  mail2: rp@pirati.cz
+elizabet:
+  img: elizabet-kovaceva.jpg
+  name: Elizabet Kovačeva
+  position: asistentka pro administrativu
+  mob:  +420 778 702 242
+  mail: elizabet.kovaceva@pirati.cz
+ljuba:
+  img: ljuba-polakova.jpg
+  name: Ljuba Poláková
+  position: telefonní kontakt pro veřejnost
+  mob:  +420 608 963 111
+  mail: info@pirati.cz
+miki:
+  img: mikulas-ferjencik.jpg
+  name: Mikuláš Ferjenčík
+  position: vedoucí mediálního odboru
+  mob:  +420 737 943 770
+  mail: mikulas.ferjencik@pirati.cz
