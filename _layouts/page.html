@@ -2,71 +2,34 @@
 layout: default
 ---
 
+{%unless page.nomenu%}
+{% include submenu.html %}
+{% endunless%}
+
 <div class="row">
-  <div class="medium-12 {%if page.full%}large-12{%else%}large-8{%endif%} columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
-        <aside class="o-section-block--spaceBot hide-for-large" data-interchange="[partials/content-widget.html, medium down]"></aside>
+  <div class="medium-12 large-8 columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
         <main class="o-section-block">
-          <div class="o-section-header">
-            <h2 class="o-section__heading">{{ page.title }}</h2>
-            <span class="o-section__dateUpdated">
-              <i class="fa fa-calendar-o" aria-hidden="true"></i> Naposledy upraveno: 08. 07. 2016 </span>
-            <!-- use only once per main page block, as this is in *WebSite* scope -->
-          </div>
           <!-- Article -->
-          <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting" itemscope="">
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <div class="c-BlogPosting-contentWrapper u-cf">
-              <div class="c-BlogPosting-photoBox u-hidden">
-                <!-- BlogPosting image -->
-                <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-                  <img src="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}" alt="Česká pirátská strana">
-                  <meta itemprop="url" content="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}">
-                  <meta itemprop="width" content="">
-                  <meta itemprop="height" content=""> </div>
-              </div>
-              <div class="c-BlogPosting-contentBox">
-                <!-- Headline -->
-                <h1 itemprop="headline" class="c-BlogPosting__title u-hidden">
-                  <a href="#" itemprop="url">{{ page.name }}</a>
-                </h1>
-                <!-- BlogPosting description-->
-                <div itemprop="description" class="c-BlogPosting-content">
-                  {{ content }}
-                </div>
-              </div>
-              <!-- Publisher -->
-              <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
-                <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
-                  <meta itemprop="url" content="{{ '/assets/img/brand/logo.svg' | prepend: site.baseurl }}"> </div>
-                <meta itemprop="name" content="Česká pirátská strana"> </div>
-            </div>
-            <div class="c-BlogPosting-infoBox u-hidden">
-              <!-- Date published -->
-              <span itemprop="description" class="c-BlogPosting__datePublished">
-                <i class="fa fa-calendar-o" aria-hidden="true"></i> 08. 07. 2016
-                <meta itemprop="dateModified" content="">
-                <meta itemprop="datePublished" content=""> </span>
-              <br class="hide-for-medium">
-              <!-- Authors -->
-              <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
-                <i class="fa fa-user" aria-hidden="true"></i>
-                <span itemprop="name" class="c-BlogPosting__author">Česká pirátská strana</span>
-              </span>
+            <h1 itemprop="headline" class="c-BasicPage__title"> {{page.title}} </h1>
+            <div itemprop="description" class="c-BasicPage-content">
+
+              {{content}}
+
             </div>
           </article>
           <!-- /Article -->
         </main>
-        {% include page/relatives.html %}
+
       </div>
-    </section>
+    </div>
   </div>
-  {%unless page.full%}
   {% if page.rbar %}
   <div class="medium-12 large-4 columns">
     {% include right-bar/rbar.html %}
   </div>
   {% endif %}
-  {% endunless%}
 </div>

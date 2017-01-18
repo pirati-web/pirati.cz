@@ -1,5 +1,8 @@
 ---
+title: Připoj se
 layout: page
+rbar: cal
+nomenu: true
 ---
 
 ## Co od stránky očekáváme?
@@ -28,13 +31,11 @@ Stránka by tedy měla mít následující rozložení:
 - Nad seznamem týmů jsou základní možnosti filtrování, odkaz [Odborné týmy], rozklikávací nabídka [Krajská sdružení] a odkaz [Programové týmy]
 - V seznamu týmů by měly být všechny týmy působící v České pirátské straně, z počátku by byly zobrazované jako dlaždice s obrázkem, krátkým popiskem a tagy.
 - Každý tým má přiřazen jedinečný tag (např. #praha pro krajské sdružení Praha, #mo pro mediální odbor) a je opatřen tagy, které umožňují filtrovat tabulku (např. #zastupitele pro kluby zastupitelů, #ks pro krajská sdružení apod.).
-- Po rozkliknutí se objeví úplné informace o týmu https://praha.pirati.cz/pripoj-se/2016-07-07-prazsti-zastupitele/
-- Ty je potřeba standardizovat, podle metadat, viz zdroj https://github.com/pirati-web/praha.pirati.cz/edit/gh-pages/_projects/2016-07-07-prazsti-zastupitele.md
+- Po rozkliknutí se objeví úplné [informace o týmu](https://praha.pirati.cz/pripoj-se/2016-07-07-prazsti-zastupitele/)
+- Ty je potřeba standardizovat, podle metadat, viz [zdroj](https://github.com/pirati-web/praha.pirati.cz/edit/gh-pages/_projects/2016-07-07-prazsti-zastupitele.md)
 - Tým o sobě zveřejňuje aspoň následující údaje: Název týmu, jméno vedoucího týmu a jeho zástupce, internetové stránky týmu, úkoly a nadřízené týmy, místo, den a čas pravidelných jednání, kontakt na vedení týmu, odkaz na používanou komunikační platformu, informace o tom, jak se zapojit, spolupracující týmy a úkolující tým.  
 
 
 
-Lze se inspirovat např. následující stránkou:
-https://praha.pirati.cz/pripoj-se/
-viz zdroj https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/pripoj-se/index.html
-a složku s informacemi o týmech https://github.com/pirati-web/praha.pirati.cz/tree/gh-pages/_projects
+Lze se inspirovat např. následující [stránkou](https://praha.pirati.cz/pripoj-se/), viz [zdroj](https://github.com/pirati-web/praha.pirati.cz/blob/gh-pages/pripoj-se/index.html)
+a složku s [informacemi o týmech](https://github.com/pirati-web/praha.pirati.cz/tree/gh-pages/_projects)
