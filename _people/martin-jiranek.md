@@ -5,7 +5,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - hradec
 img-small: martin-jiranek.jpg           # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description:              		# kratký popis, max 160 znaků
+description: Zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
 mail:
 - martin.jiranek@pirati.cz
 mob:
