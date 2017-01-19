@@ -105,18 +105,9 @@ layout: default
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
-                    <div class="row">
-                        {% for person in site.data.people[0].list %}
-                          {% assign loopindex = forloop.index | modulo: 2 %}
-                          {% if loopindex == 1 %}
-                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          {% endif %}
-                          {% include people/person.html param='person' %}
-                          {% if loopindex == 0 %}
-                          </div>
-                          {% endif %}
-                        {% endfor %}
-                    </div>
+                    {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
+                    {% include people/team.html param=team %}
+                  </div>
                 </li>
               </ul>
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
@@ -125,58 +116,24 @@ layout: default
                   <div class="c-simple-accordion-content" data-tab-content="">
                     <div class="c-simple-accordion-content-block">
                       <h3>Hlavní město Praha</h3>
-                      <div class="row">
-                        {% for person in site.data.people[1].list[0].list %}
-                          {% assign loopindex = forloop.index | modulo: 2 %}
-                          {% if loopindex == 1 %}
-                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          {% endif %}
-                          {% include people/person.html param='person' %}
-                          {% if loopindex == 0 %}
-                          </div>
-                          {% endif %}
-                        {% endfor %}
-                      </div>
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
+                      {% include people/team.html param=team %}
                     </div>
                     <div class="c-simple-accordion-content-block">
                       <h3>Karlovarský kraj</h3>
-                      <div class="row">
-                        {% for person in site.data.people[1].list[1].list %}
-                          {% assign loopindex = forloop.index | modulo: 2 %}
-                          {% if loopindex == 1 %}
-                          <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                          {% endif %}
-                          {% include people/person.html param='person' %}
-                          {% if loopindex == 0 %}
-                          </div>
-                          {% endif %}
-                        {% endfor %}
-                        </div>
+                        {% assign team = site.people | where_exp:"item","item.categories contains 'vary'" %}
+                        {% include people/team.html param=team %}
                       </div>
                     </div>
                     <div class="c-simple-accordion-content-block">
                       <h3>Královéhradecký kraj</h3>
-                      <div class="row">
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                        {% assign person = site.data.people[1].list[2].list[0] %}
-                        {% include people/person.html param='person' %}
-                        </div>
-                      </div>
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'hradec'" %}
+                      {% include people/team.html param=team %}
                     </div>
                     <div class="c-simple-accordion-content-block">
                       <h3>Jihomoravský kraj</h3>
-                      <div class="row">
-                      {% for person in site.data.people[1].list[3].list %}
-                        {% assign loopindex = forloop.index | modulo: 2 %}
-                        {% if loopindex == 1 %}
-                        <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                        {% endif %}
-                        {% include people/person.html param='person' %}
-                        {% if loopindex == 0 %}
-                        </div>
-                        {% endif %}
-                      {% endfor %}
-                      </div>
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'jmk'" %}
+                      {% include people/team.html param=team %}
                     </div>
                 </li>
               </ul>
@@ -184,19 +141,8 @@ layout: default
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
                   <div class="c-simple-accordion-content" data-tab-content="">
-                    <div class="row">
-                      <p>Senátoři zvoleni s Pirátskou podporou. Nominováni byli i dalšími stranami.</p>
-                      {% for person in site.data.people[2].list %}
-                      {% assign loopindex = forloop.index | modulo: 2 %}
-                      {% if loopindex == 1 %}
-                      <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                      {% endif %}
-                      {% include people/person.html param='person' %}
-                      {% if loopindex == 0 %}
-                      </div>
-                      {% endif %}
-                      {% endfor %}
-                    </div>
+                    {% assign team = site.people | where_exp:"item","item.categories contains 'senat'" %}
+                    {% include people/team.html param=team %}
                   </div>
                 </li>
               </ul>

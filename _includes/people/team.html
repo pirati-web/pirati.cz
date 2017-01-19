@@ -1,0 +1,20 @@
+<div class="row">
+{% if 1 == team.size %}
+  <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+  {% assign person = team | first %}
+  {% include people/person.html param='person' %}
+  </div>
+{% else %}
+  {% for person in team %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}
+    <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+    {% endif %}
+    {% include people/person.html param='person' %}
+    {% if loopindex == 0 %}
+    </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+</div>

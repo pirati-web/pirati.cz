@@ -8,9 +8,10 @@ img-full:                 	# větší obrázek zobrazený na podrobném profilu
 description: Předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz
-mob:			  +420607580015
+mob:			      +420607580015
 profiles:
-  github:                 https://twitter.com/ondrej_profant
-  facebook: 		  https://www.facebook.com/ondrej.profant
+  github:       https://github.com/kedrigern/
+  facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
+ordpraha: 2
 ---
