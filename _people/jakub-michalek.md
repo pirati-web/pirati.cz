@@ -1,4 +1,7 @@
 ---
+category:
+- rp
+- praha
 order: 1
 name:        Jakub Michálek
 title: Jakub Michálek

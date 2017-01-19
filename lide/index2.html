@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+RP:
+
+<ul>
+{% for person in site.people %}
+    {% if person.categories contains 'rp' %}
+        <li><a href="{{ person.url }}">{{ person.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Praha:
+
+<ul>
+{% for post in site.people %}
+    {% if post.categories contains 'praha' %}
+        <li><a href="{{ post.url }}">{{ post.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Karlovy Vary
+
+<ul>
+{% for post in site.people %}
+    {% if post.categories contains 'vary' %}
+        <li><a href="{{ post.url }}">{{ post.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Hradec Králové
+
+<ul>
+{% for post in site.people %}
+    {% if post.categories contains 'hradec' %}
+        <li><a href="{{ post.url }}">{{ post.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Jihomoravsky
+
+<ul>
+{% for post in site.people %}
+    {% if post.categories contains 'hradec' %}
+        <li><a href="{{ post.url }}">{{ post.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Senát
+
+<ul>
+{% for post in site.people %}
+    {% if post.categories contains 'hradec' %}
+        <li><a href="{{ post.url }}">{{ post.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

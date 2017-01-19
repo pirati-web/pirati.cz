@@ -1,4 +1,5 @@
 ---
+category: praha
 order: 3
 name:        Mikuláš Ferjenčík
 title: Mikuláš Ferjenčík
