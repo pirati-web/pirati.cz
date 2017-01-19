@@ -1,16 +1,16 @@
 ---
-name:     Jiří Hlavenka	  		# běžně používáné jméno
-fullname: Ing. Jiří Hlavenka  		# jméno s tituly etc.
+name:     Renata Chmelová	  	# běžně používáné jméno
+fullname: Renata Chmelová  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - senat
-img-small: jiri-hlavenka.jpg            # 165 x 220
+img-small: renata-chmelova.jpg          # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description: Zastupitel Jihomoravského kraje, spolunominovan Piráty            	# kratký popis, max 160 znaků
+description: Senátorka za obvod Praha 10, spolunominovaná Piráty            	# kratký popis, max 160 znaků
 mail:
 - renata.chmelova@vlasta10.cz
-mob:			  
+mob:			  +420724022964
 profiles:
   github:                 
-  facebook: 		  https://www.facebook.com/jiri.hlavenka
-  twitter: 		  https://twitter.com/hlavenkajiri
+  facebook: 		  https://www.facebook.com/renata.chmelova.90
+  twitter: 		  https://twitter.com/SenatorkaRenata
 ---
