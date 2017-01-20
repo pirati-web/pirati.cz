@@ -1,19 +1,8 @@
-/* hide #back-top first */
-$("#back-top").hide();
-/* fade in #back-top */
-$(function () {
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > 100) {
-      $('#back-top').fadeIn();
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 50 ) {
+        $('.scrolltop:hidden').stop(true, true).fadeIn();
     } else {
-      $('#back-top').fadeOut();
+        $('.scrolltop').stop(true, true).fadeOut();
     }
-  });
-  /* scroll body to 0px on click */
-  $('#back-top .fi-arrow-up').click(function () {
-    $('body,html').animate({
-      scrollTop: 0
-    }, 800);
-    return false;
-  });
 });
+$(function(){$(".scroll").click(function(){$("html,body").animate({scrollTop:$(".thetop").offset().top},"1000");return false})})
