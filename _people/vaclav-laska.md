@@ -8,7 +8,7 @@ img-full:                 		# větší obrázek zobrazený na podrobném profilu
 description: Senátor za Prahu 5, s podporou Pirátů            	# kratký popis, max 160 znaků
 mail:
 - vaclav.laska@vaclavlaska.cz
-mob:			  +420776709157
+mob:			  +420 776 709 157
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/vaclav.laska

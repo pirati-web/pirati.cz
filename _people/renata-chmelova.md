@@ -8,7 +8,7 @@ img-full:                 		# větší obrázek zobrazený na podrobném profilu
 description: Senátorka za obvod Praha 10, spolunominovaná Piráty            	# kratký popis, max 160 znaků
 mail:
 - renata.chmelova@vlasta10.cz
-mob:			  +420724022964
+mob:			  +420 724 022 964
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/renata.chmelova.90
