@@ -2,7 +2,7 @@
 name:     Jiří Hlavenka	  		# běžně používáné jméno
 fullname: Ing. Jiří Hlavenka  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
+- jmk
 img-small: jiri-hlavenka.jpg            # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
 description: Zastupitel Jihomoravského kraje, spolunominovan Piráty            	# kratký popis, max 160 znaků
@@ -13,6 +13,8 @@ profiles:
   github:                 
   facebook: 		  https://www.facebook.com/jiri.hlavenka
   twitter: 		  https://twitter.com/hlavenkajiri
+order:
+  jmk: 1
 ---
 
 Jiří Hlavenka (26. října 1964, Tišnovsko) je zastupitel Jihomoravského kraje, spolunominován Piráty. Povoláním je podnikatel a investor především na poli internetu. Po listopadu 1989 byl jedním ze zakladatelů vydavatelství a školicí společnosti CCB, která na Brněnsku působí dodnes. V roce 1994 pak spolu se čtyřmi spolupracovníky založil šířeji zaměřené odborné vydavatelství a nakladatelství Computer Press, které se stalo největším vydavatelstvím odborné literatury a časopisů v České republice. 

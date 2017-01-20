@@ -26,6 +26,8 @@
 {% include js/fb.js %}
 {% include js/tw.js %}
 {% include js/search.js %}
+{% if page.url contains 'regiony' %}
 {% include js/kraje.js %}
+{% endif %}
 {% include js/back-top.js %}
 </script>

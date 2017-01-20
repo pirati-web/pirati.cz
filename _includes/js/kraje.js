@@ -1,5 +1,4 @@
 $( function() {
-    console.log("ahoj");
     var settings = {{ site.data.kraje-settings | jsonify }};
     var regions = {{ site.data.kraje | jsonify }};
 

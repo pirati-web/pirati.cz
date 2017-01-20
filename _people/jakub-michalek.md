@@ -4,8 +4,8 @@ fullname: 			Mgr. et Mgr. Jakub Michálek  # jméno s tituly etc.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp
+- carousel
 img-small: 			jakub-michalek-2.jpg    # 165 x 220
-img-full:                       			# větší obrázek zobrazený na podrobném profilu
 description: 			Předseda zastupitelského klubu Pirátů a člen republikového předsednictva Pirátské strany.             	        			# kratký popis, max 160 znaků
 mail:
 - jakub.michalek@pirati.cz
@@ -15,6 +15,11 @@ profiles:
   facebook: https://www.facebook.com/smidak
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
+ordpraha: 1
+ordrp: 4
+ordcar: 3
+carousel:
+  img: jakub-michalek.png
 ---
 
 Jakub Michálek (* 6. února 1989 Louny) je přesdedou zastupitelského klubu Pirátů v Praze, člen republikového předsednictva Pirátské strany a místopředseda Pirátů. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.

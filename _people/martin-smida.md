@@ -13,5 +13,9 @@ profiles:
   github:
   facebook:				https://www.facebook.com/smida.martin
   twitter:				https://twitter.com/Martinpunkie
+<<<<<<< HEAD
   flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=martin%20%C5%A1m%C3%ADda
+=======
+ordrp: 3
+>>>>>>> 56fa755995f9c18a8fac0182d3d14226dfc323cf
 ---

@@ -8,5 +8,7 @@ Pirátská strana jako název politického subjektu občas vzbuzuje představu p
 
 Po sedmi letech existence fungující díky dobrovolnické práci máme starostu v Mariánských lázních, zastupitele v Praze, Brně a v obcích po celé republice. Upozorňujeme na korupční skandály, zveřejňujeme videa a zápisy ze zastupitelstev, organizujeme festivaly svobodné kultury, bojujeme se snahou státu špehovat občany nebo s cenzurou na České televizi. A s vaší podporou toho můžeme zvládnout ještě víc!
 
-* <a href="{{ '/lide/' | relative_url }}">Lidé v našem týmu</a>
-* <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
+* [Lidé v našem týmu]({{ '/lide/' | relative_url }})
+* [Regiony]({{ '/regiony/' | relative_url }})
+* [Program]({{ '/program/' | relative_url}})
+* [Připoj se]({{ '/pripoj-se/' | relative_url}})

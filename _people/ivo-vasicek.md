@@ -15,6 +15,8 @@ profiles:
   facebook: 		  https://www.facebook.com/ivo.vasicek
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ivo%20va%C5%A1%C3%AD%C4%8Dek
+  twitter: 		
+ordrp: 5  
 ---
 
 Ivo Vašíček (* 5. prosince 1961 Olomouc) je zastupitel za Piráty v zastupitelstvu Jihomoravského kraje a člen republikového předsednictva Pirátské strany. Povoláním je učitel; učil na základní i střední škole. Na přelomu roku 1989/90 byl krátce politicky aktivní v Občanském foru. Do roku 1997 v různých manažerských pozicích řídil rozvoj telekomunikační firmy v rámci Evropy. Od roku 1998 poskytuje se svojí firmou odborné manažerské služby českým firmám i nadnárodním korporacím. Největší úspěchy má při formulacích strategií a při krizovém řízení. Nyní řídí vývoj nového software v české IT společnosti.
