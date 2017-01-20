@@ -32,4 +32,11 @@ collections:
     output: true
     permalink: /program/:path/
 
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      collection: people
+    values:
+      layout: "page"
+
 emptyArray: []

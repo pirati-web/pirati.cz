@@ -8,9 +8,10 @@ img-full:                 	# větší obrázek zobrazený na podrobném profilu
 description: Senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou             	# kratký popis, max 160 znaků
 mail:
 - ladislav.kos@gmail.com
-mob:			  +420603780761
+mob: +420 603 780 761
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/kos.ladislav
-  twitter: 		  
+  twitter:
+ordsenat: 3
 ---
