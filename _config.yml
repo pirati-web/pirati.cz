@@ -38,5 +38,6 @@ defaults:   # defaults values for collection scope
       collection: people
     values:
       layout: "page"
+      rbar: "people, foto"
 
 emptyArray: []
