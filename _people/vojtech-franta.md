@@ -10,8 +10,6 @@ mail:
 - vojtech.franta@pirati.cz
 mob:			  +420 607 012 476
 profiles:
-  github:                 
-  facebook: 		  https://www.facebook.com/vojtafranta
-  twitter: 		  
+  facebook: 	https://www.facebook.com/vojtafranta  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20franta
 ---

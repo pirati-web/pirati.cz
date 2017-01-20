@@ -10,12 +10,9 @@ mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 776 635 258
 profiles:
-  github:                 https://github.com/Fafrin
-  facebook: 		  https://www.facebook.com/vpikal
-  twitter: 		  https://twitter.com/VPikal
-<<<<<<< HEAD
-  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
-=======
+  github:     https://github.com/Fafrin
+  facebook: 	https://www.facebook.com/vpikal
+  twitter: 		https://twitter.com/VPikal
+  flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
 ordrp: 2
->>>>>>> 56fa755995f9c18a8fac0182d3d14226dfc323cf
 ---
