@@ -4,8 +4,7 @@ fullname: PhDr. Ivan Bartoš, Ph.D.  # jméno s tituly etc.
 category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - carousel
-img-small: ivan-bartos.jpg # 165 x 220
-img-full:                  # větší obrázek zobrazený na podrobném profilu
+img: people/ivan-bartos.jpg # 165 x 220
 description: Lídr do voleb do Poslanecké sněmovny v roce 2017, předseda Pirátů
 mail:
 - ivan.bartos@pirati.cz

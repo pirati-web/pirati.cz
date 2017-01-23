@@ -3,8 +3,7 @@ name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Vojtěch Pikal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
-img-small: vojtech-pikal.jpg    # 165 x 220
-img-full:                 	# větší obrázek zobrazený na podrobném profilu
+img: people/vojtech-pikal.jpg    # 165 x 220
 description: Člen republikového předsednictva Pirátské strany.             	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz

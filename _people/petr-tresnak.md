@@ -4,8 +4,7 @@ fullname: Ing. Petr Třešňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vary
 - carousel
-img-small: petr-tresnak.jpg # 165 x 220
-img-full:                 	# větší obrázek zobrazený na podrobném profilu
+img: people/petr-tresnak.jpg # 165 x 220
 description: Starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
 description: Starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji             	# kratký popis, max 160 znaků
 mail:

@@ -3,8 +3,7 @@ name:     Adam Zábranský  	# běžně používáné jméno
 fullname: Adam Zábranský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
-img-small: adam-zabransky.jpg   # 165 x 220
-img-full:                 	# větší obrázek zobrazený na podrobném profilu
+img: people/adam-zabransky.jpg   # 165 x 220
 description: Zastupitel klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - adam.zabransky@pirati.cz

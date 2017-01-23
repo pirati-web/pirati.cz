@@ -4,8 +4,7 @@ fullname: PaeDr. Ivo Vašíček  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - jmk
 - rp
-img-small: ivo-vasicek.jpg      # 165 x 220
-img-full:                 	# větší obrázek zobrazený na podrobném profilu
+img: people/ivo-vasicek.jpg      # 165 x 220
 description: Zastupitel Jihomoravského kraje za Pirátskou stranu, 3. místopředseda Pirátů             	# kratký popis, max 160 znaků
 mail:
 - ivo.vasicek@pirati.cz

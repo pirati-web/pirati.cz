@@ -10,7 +10,7 @@ layout: default
           <!-- Article -->
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <h1 itemprop="headline" class="c-BasicPage__title"> Transparentnost </h1>
+            <h1 itemprop="headline" class="c-BasicPage__title"> Otevřenost </h1>
             <div itemprop="description" class="c-BasicPage-content">
               <h2>Náš cíl je veřejná správa, která bude stejně otevřená jako Pirátská strana. Přesvědčte se sami, že to myslíme vážně.</h2>
             </div>
@@ -21,12 +21,14 @@ layout: default
               {% endfor %}
             </div>
 
-            <div itemprop="description" class="c-BasicPage-content">
+            <div itemprop="description" class="c-BasicPage-content o-section-block">
               <div class="o-section-header">
                 <h2 class="o-section__heading o-section__heading--small">Naše úspěchy v oblasti otevřenosti</h2>
               </div>
-              {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
-              {% include people/team.html param=team %}
+            </div>
+            <div itemprop="description" class="c-BasicPage-content o-section-block">
+              {% assign team = site.data.transp-uspechy %}
+              {% include people/list-2col.html param=team %}
             </div>
           </article>
           <!-- /Article -->
