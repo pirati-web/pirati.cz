@@ -18,31 +18,31 @@ rbar: cal, people, video
             <div class="c-BlogPosting-excerpt-photoBox">
               <!-- BlogPosting image -->
               <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
-                <img src="{{ article.img | prepend: '/assets/img/articles/' | prepend: site.baseurl }}" alt="{{img.title}}">
-                <meta itemprop="url" content="{{ article.img | prepend: '/assets/img/articles/' | prepend: site.baseurl }}">
+                <img src="{{ article.img | prepend: '/assets/img/articles/' | relative_url }}" alt="{{img.title}}">
+                <meta itemprop="url" content="{{ article.img | prepend: '/assets/img/articles/' | relative_url }}">
                 <meta itemprop="width" content="">
                 <meta itemprop="height" content=""> </div>
             </div>
             <div class="c-BlogPosting-excerpt-contentBox">
               <!-- Headline -->
               <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
-                <a href="{{article.url}}" itemprop="url">{{article.title}}</a>
+                <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
               </h2>
               <!-- BlogPosting description-->
               <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 }} </div>
-              <a href="{{article.url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+              <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
             </div>
             <!-- Publisher -->
             <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
               <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
-                <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | prepnd: site.baseurl}}"> </div>
+                <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}"> </div>
               <meta itemprop="name" content="Česká pirátská strana"> </div>
           </div>
           <div class="c-BlogPosting-excerpt-infoBox">
             <!-- Date published -->
             <span itemprop="description" class="c-BlogPosting-excerpt__datePublished">
               <i class="fa fa-calendar-o" aria-hidden="true"></i> {{article.date | date: "%d.%m.%Y"}}
-              <meta itemprop="datePublished" content="Insert date in ISO 8601 date format">
+              <meta itemprop="datePublished" content="{{article.date | date_to_xmlschema }}">
               <meta itemprop="dateModified" content=""> </span>
             <br class="hide-for-medium">
             <!-- Authors -->
