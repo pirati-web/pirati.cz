@@ -25,13 +25,13 @@
     <div class="c-BlogPosting-contentBox">
       <!-- Headline -->
       <h1 itemprop="headline" class="c-BlogPosting__title">
-        <a href="{{article.url}}" itemprop="url">{{article.title}}</a>
+        <a href="{{article.url | relative_url }}" itemprop="url">{{article.title}}</a>
       </h1>
       <!-- BlogPosting description-->
       <div itemprop="description" class="c-BlogPosting-content">
         <p>{{ article.excerpt | truncatewords: 45 }}</p>
       </div>
-      <a href="#" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+      <a href="{{article.url | relative_url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
     </div>
     <!-- Publisher -->
     <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
