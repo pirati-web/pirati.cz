@@ -4,7 +4,7 @@
       <img src="{{ person.img-small | prepend: '/assets/img/people/' | relative_url }}" alt="{{person.name}}"> </div>
     <div class="o-media__body">
       <h2 class="o-media__headline">
-        <a href="{{person.url}}">{{person.name}}</a>
+        <a href="{{person.url | relative_url}}">{{person.name}}</a>
       </h2>
       <p> {{person.description}}</p>
       <p> {{person.mob}}

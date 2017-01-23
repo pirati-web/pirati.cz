@@ -7,7 +7,7 @@
       {% comment %}<p class="u-pmarginbottom">{{person.function}}</p>{% endcomment %}
       {{person.carousel.text}}
       <p>
-        <a href="{{person.url}}">Celý profil</a>
+        <a href="{{person.url | relative_url }}">Celý profil</a>
       </p>
     </div>
   </div>
