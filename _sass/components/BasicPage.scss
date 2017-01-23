@@ -63,7 +63,7 @@
   .c-BasicPage__meta-filter-block {
     display: inline-block;
     vertical-align: middle;
-    
+
     @include breakpoint(mobile down) {
       display: block;
     }
@@ -320,7 +320,7 @@
   }
 
   li + li {
-    margin-top: 1.35rem;
+    margin-top: 0.40rem;
   }
 
   ul li {

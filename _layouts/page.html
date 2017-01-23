@@ -7,7 +7,7 @@ layout: default
 {% endunless%}
 
 <div class="row">
-  <div class="medium-12 large-8 columns">
+  <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
     <div class="o-section o-section--spaceBot">
       <div class="o-section-inner">
         <main class="o-section-block">
@@ -24,9 +24,9 @@ layout: default
       </div>
     </div>
   </div>
-  {% if page.rbar %}
+  {% unless page.rbar == blank %}
   <div class="medium-12 large-4 columns">
     {% include right-bar/rbar.html %}
   </div>
-  {% endif %}
+  {% endunless %}
 </div>

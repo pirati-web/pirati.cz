@@ -39,5 +39,11 @@ defaults:   # defaults values for collection scope
     values:
       layout: "page"
       rbar: "people, foto"
+  -
+    scope:
+      collection: program
+    values:
+      layout: "page"
+      rbar: "toc"
 
 emptyArray: []

@@ -1,3 +1,31 @@
+{% if page.url contains 'program' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> Program </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/' | relative_url }}">Vize</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/dlouhodoby/' | relative_url }}">Dlouhodobý</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/volebni' | relative_url }}">Volební</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/zapoj-se' | relative_url }}">Zapojte se do tvorby</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% else %}
 <nav class="c-top-sub-nav u-center-860-down">
   <div class="row">
     <div class="c-top-sub-nav-inner">
@@ -12,18 +40,10 @@
           </li>
           <li class="c-top-sub-nav__item">
             <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
-          </li><!--
-          <li class="c-top-sub-nav__item">
-            <a href="#">Projekty</a>
           </li>
-          <li class="c-top-sub-nav__item">
-            <a href="#">Podporují</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="#">Úspěchy</a>
-          </li>-->
         </ul>
       </div>
     </div>
   </div>
 </nav>
+{% endif %}

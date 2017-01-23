@@ -1,6 +1,7 @@
 ---
-layout: program
+layout: page
 title: Volební programy
+rbar: ""
 ---
 
 - [Poslanecká sněmovna 2017]({{'/program/zapoj-se/' | relative_url }})
