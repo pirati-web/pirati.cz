@@ -7,7 +7,7 @@ img: people/tomas-kolacny.jpg            # 165 x 220
 description: Zastupitel města Brna za Piráty, 3. místopředseda Pirátů Jihomoravského kraje            	# kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
-mob:			  
+mob:	+420 736 661 244
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/kolacnytomas
