@@ -5,7 +5,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp
 - carousel
-img: 		people/jakub-michalek-2.jpg    # 165 x 220
+img: 		people/jakub-michalek.jpg    # 165 x 220
 description: 			Předseda zastupitelského klubu Pirátů a člen republikového předsednictva Pirátské strany.             	        			# kratký popis, max 160 znaků
 mail:
 - jakub.michalek@pirati.cz
