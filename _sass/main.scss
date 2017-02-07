@@ -18,6 +18,7 @@
 @import 'components/banner';
 @import 'components/top-sub-nav';
 @import 'components/widget-accordion';
+@import 'components/content-card';
 @import 'components/card';
 @import 'components/welcome-header';
 @import 'components/tag';
@@ -27,9 +28,10 @@
 @import 'components/Slider';
 @import 'components/simple-accordion';
 @import 'components/hero';
+@import 'components/blockquote';
+@import 'components/cta-button';
 
 // Import Objects
 @import 'objects/section';
 @import 'objects/media';
-
-@import 'scroll-top';
+@import 'objects/space';

@@ -4,15 +4,55 @@
     background-position: top center;
     background-repeat: no-repeat;
     color: #ffffff;
+
+    &--plainbg {
+        background: #343434;
+    }
+
+    overflow: hidden;
 }
 
 .c-hero-container {
     @include clearfix;
+    position: relative;
+    z-index: 2;
     padding: 45px 10px;
+    &.c-hero-img-join-us {
+        position: relative;
+        &:before {
+            z-index: -1;
+            left: 100%;
+            top: 50%;
+            transform: translate(-85%, -50%);
+            content: '';
+            position: absolute;
+            width: 452px;
+            height: 413px;
+            background: url('../img/miscellaneous/header.png');
+            background-repeat: no-repeat;
+            background-position: right center;
+        }
+
+        @include breakpoint(large down) {
+
+            &:before {
+                opacity: 0.25;
+                transform: translate(-85%, -50%) scale(0.75);
+            }
+        }
+
+        @include breakpoint(medium down) {
+
+            &:before {
+                opacity: 0.15;
+                transform: translate(-85%, -50%) scale(0.75);
+            }
+        }
+    }
 }
 
 .c-hero-block + .c-hero-block {
-    margin-top: 45px;
+    margin-top: 40px;
 }
 
 .c-hero__title {
@@ -40,6 +80,21 @@
 
     a:hover {
         text-decoration: none;
+    }
+
+    &.c-hero-content-accent p {
+        font-size: 1.75rem;
+        line-height: 1.4;
+
+        @include breakpoint(medium down) {
+            font-size: 1.45rem;
+        }
+    }
+
+    @include breakpoint(medium down) {
+        &.c-hero-content-accent br {
+            display: none;
+        }
     }
 }
 

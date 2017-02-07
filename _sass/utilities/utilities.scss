@@ -2,7 +2,8 @@
   @include clearfix;
 }
 
-.u-hidden {
+.u-hidden,
+.u-js-hiddenBeforeLoad {
   display: none !important;
 }
 
@@ -30,6 +31,10 @@
     margin-right: -0.8rem !important;
   }
 
+}
+
+.u-pmarginbottom {
+  margin-bottom: 1.5rem;
 }
 
 .u-0margin {

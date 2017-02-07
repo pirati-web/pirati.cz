@@ -63,7 +63,7 @@
   .c-BasicPage__meta-filter-block {
     display: inline-block;
     vertical-align: middle;
-
+    
     @include breakpoint(mobile down) {
       display: block;
     }
@@ -221,12 +221,16 @@
   .c-BasicPage__meta-filter-btn.hover {
     border-radius: 2px 2px 0px 0px;
   }
+
+  @include breakpoint(medium down) {
+    margin-bottom: 2.5rem;
+  }
 }
 
 .c-BasicPage-header--horizontal .c-BasicPage__meta {
   float: right;
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
+  margin-top: 0.45rem;
+  margin-bottom: 0.8rem;
 
   @include breakpoint(mobile down) {
     padding-top: 0.7rem;
@@ -360,6 +364,7 @@
     }
   }
 
+
   h3 {
     font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
     font-weight: bold;
@@ -427,6 +432,21 @@
     }
   }
 
+  .c-BasicPage__title {
+    font-size: 2.55rem;
+    padding-bottom: 0.7em;
+    color: $primary-color;
+    margin-bottom: 0.35em;
+    line-height: inherit;
+
+    @include breakpoint(640px down) {
+      padding-top: 0.7em;
+
+      br {
+        display: none;
+      }
+    }
+  }
 }
 
 .c-BasicPage-content + .c-BasicPage-content  {

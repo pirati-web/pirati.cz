@@ -83,6 +83,7 @@ $wa-ns: '';
   vertical-align: middle;
   line-height: normal;
   color: #fff;
+  white-space: nowrap;
 }
 
 .#{$wa-ns}c-widget-accordion .#{$wa-ns}c-widget-accordion__title--noicon {

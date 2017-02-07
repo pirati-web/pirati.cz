@@ -3,6 +3,15 @@
     @include accordion-container;
 }
 
+.c-simple-accordion.c-simple-accordion--nomargin {
+    margin-bottom: 0;
+}
+
+
+.c-simple-accordion.c-simple-accordion--nomargin :last-child>.c-simple-accordion-content:last-child {
+    padding-bottom: 0;
+}
+
 .c-simple-accordion-item {
     &:before {
         content: '' !important;
