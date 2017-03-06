@@ -29,5 +29,14 @@
 {% if page.url contains 'regiony' %}
 {% include js/kraje.js %}
 {% endif %}
+{% if page.url contains 'pripoj-se' %}
+
+$( function() {
+  $( "#tabs" ).tabs({"active":1});
+} );
+$( function() {
+  $( document ).tooltip();
+} );
+{% endif %}
 {% include js/back-top.js %}
 </script>
