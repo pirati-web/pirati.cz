@@ -3,7 +3,7 @@ title: "Piráti vyhlásili výběrové řízení na krajské koordinátory"
 author: Petra Dvořáková
 tags: stanovisko
 date: 2016-11-22
-img: ivan.jpg
+img: 2016/ivan.jpg
 category:     blog
 layout:       post
 ---

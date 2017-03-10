@@ -4,7 +4,7 @@ category:     blog
 tags:         praha
 layout:       post
 title:        "Hypertransparentní klub. Pražští Piráti získali cenu za otevřenost." 
-img::        2016/predani-ceny-otevreno.jpg
+img:        2016/predani-ceny-otevreno.jpg
 author:       Petra Dvořáková
 ---
 
