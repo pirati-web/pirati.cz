@@ -3,7 +3,7 @@ date:         2016-11-06
 category:     blog
 tags:         Karlovarský-kraj
 layout:       post
-title:        "Vedle voleb běžela referenda: Konopí si legálně bude moci koupit pětina Američanů." 
+title:        "Piráti na Karlovarsku zaveleli ke změně kurzu. Karlovarský kraj směřuje k větší otevřenosti" 
 img: 2016/podpis-koalice-kvk.jpg
 author:       Petr Dvořáková
 ---
