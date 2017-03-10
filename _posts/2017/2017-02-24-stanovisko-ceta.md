@@ -3,7 +3,9 @@ title: "Stanovisko Pirátů ke schválení CETA Evropským parlamentem"
 author: Věra Marušiaková
 tags: stanovisko
 date: 2017-02-24
-img: stop-ceta.jpg
+img: 2017/stop-ceta.jpg
+category:     blog
+layout:       post
 ---
 
 Minulý týden přes protesty desetitisíců občanů schválil Evropský parlament kontroverzní úmluvu CETA (Komplexní hospodářská a obchodní dohoda mezi Kanadou a EU a jejími členskými státy), která je rámcovou dohodou o liberalizaci vzájemného obchodu a ochraně investic. Piráti smlouvu dlouhodobě kritizují. Trvají na tom, že pokud bude ratifikována, jednostranně podpoří už tak silnou pozici nadnárodních korporací a přinese jim další výhody a naopak oslabí občany v oblastech pracovního práva, životního prostředí či ochrany spotřebitelů. Za problematickou považují i skutečnost, že CETA jednoznačně posílí tolik kritizovaný vliv dosazené úřednické exekutivy EU na úkor demokraticky voleného Evropského parlamentu i všech národních parlamentů.

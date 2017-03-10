@@ -3,7 +3,9 @@ title: "Soud zastavil trestní stíhání Pirátské strany kvůli seriálům"
 author: Mikuláš Ferjenčík
 tags: copyright
 date: 2017-01-31
-img: sleduju-serialy.jpg
+img: 2017/sleduju-serialy.jpg
+category:     blog
+layout:       post
 ---
 Obvodní soud pro Prahu 4 dnes zastavil trestní stíhání České pirátské strany kvůli serveru Sledujuserialy.cz.
 

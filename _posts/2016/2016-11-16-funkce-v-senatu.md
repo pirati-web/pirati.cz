@@ -4,7 +4,7 @@ category:     blog
 tags:         senát
 layout:       post
 title:        "Piráti podporují návrh senátora Michálka omezit funkce v Senátu." 
-image:        senator-michalek.jpg
+img:        2016/senator-michalek.jpg
 author:       Věra Marušiaková
 ---
 

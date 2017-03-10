@@ -1,9 +1,10 @@
 ---
+category:     blog
 title: "Libor Michálek: Rejstřík skutečných vlastníků firem musí být veřejný"
 author: Petra Dvořáková
 tags: stanovisko
 date: 2016-10-06
-img: michalek-ferjencik.jpg
+img: 2016/michalek-ferjencik.jpg
 ---
 
 K 1. říjnu 2016 vstoupila v platnost novelizovaná forma zákona o veřejných zakázkách. Hrozí ale, že se i nadále budou rozdělovat veřejné zakázky firmám bez jasné vlastnické struktury. Důvodem je svérázný přístup Poslanecké sněmovny při schvalování zákona o opatřeních proti legalizaci výnosů z trestné činnosti. Senát by se měl pokusit transparentnost posílit.

@@ -3,7 +3,9 @@ title: "Protikuřácký zákon: Racionální regulace kouření místo absolutn�
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-12-09
-img: popelnicek.jpg
+img: 2016/popelnicek.jpg
+category:     blog
+layout:       post
 ---
 
 Dnes byl v Poslanecké sněmovně schválen protikuřácký zákon. Od května 2017 má platit absolutní zákaz kouření v restauracích a nebude možné zřizovat ani kuřárny. Zákon nyní směřuje do Senátu. U kouření, stejně jako u jiných návykových látek, Piráti prosazují cestu informovanosti a racionální regulace. Piráti podporují omezení negativních dopadů pasivního kouření, avšak nikoliv v rovině absolutních zákazů.

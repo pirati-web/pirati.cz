@@ -3,7 +3,9 @@ title: "Piráti vyhlásili výběrové řízení na krajské koordinátory"
 author: Petra Dvořáková
 tags: stanovisko
 date: 2016-11-22
-img: ivan.jpg
+img: 2016/ivan.jpg
+category:     blog
+layout:       post
 ---
 
 V Pirátské straně hledáme v každém krajském sdružení krajského koordinátora, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s dobrovolníky, akce, finance a administrativu, bude přebírat pokyny z celostátního vedení a reportovat mu.

@@ -4,7 +4,7 @@ category:     blog
 tags:         Island
 layout:       post
 title:        "Island dnes volí poslance, Piráti mohou zvítězit." 
-image:        bj2.jpg
+img:        2016/bj2.jpg
 author:       Petr Dvořáková
 ---
 

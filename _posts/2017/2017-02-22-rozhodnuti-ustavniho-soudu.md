@@ -3,7 +3,9 @@ title: "Piráti hlásí výsledky rozhodnutí Ústavního soudu ve věci cenzury
 author: Věra Marušiaková
 tags: cenzura-internetu
 date: 2017-02-22
-img: cenzura-internetu-ustavni-soud.jpg
+img: 2017/cenzura-internetu-ustavni-soud.jpg
+category:     blog
+layout:       post
 ---
 
 Ústavní soud dnes zamítl návrh ve věci zrušení cenzurních paragrafů v Babišově Zákonu o hazardních hrách. Návrh na zrušení paragrafů zavádějících cenzuru na Internet podala v srpnu 2016 skupina senátorů spolu s Piráty a iniciativou Přichází cenzor.

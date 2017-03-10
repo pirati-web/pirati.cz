@@ -3,7 +3,9 @@ title: "Výzva Pirátů poslancům: Nedopusťte plundrování přírody NP Šuma
 author: Věra Marušiaková
 tags: příroda
 date: 2017-02-17
-img: zachrante-sumavu.jpg
+img: 2017/zachrante-sumavu.jpg
+category:     blog
+layout:       post
 ---
 
 Piráti nesouhlasí s podobou senátní verze novely Zákona o ochraně přírody a krajiny, která degraduje koncepční systém ochrany národních parků a ohrožuje samu jejich podstatu. Za senátorskými pozměňovacími návrhy lze číst zájem o finanční zisky z rozvoje území v atraktivních lokalitách, včetně otevřené možnosti těžby dřeva, označované za boj s kůrovcem a komerčního odlovu zvěře. To vše na úkor dlouhodobé perspektivy zejména území Národního parku Šumava. Piráti ve svém programu jednoznačně podporují ochranu přírody, k tématu přistupují s respektem a s vědomím, že za peníze si již nikdy v budoucnu zdravou přírodu nekoupíme.

@@ -4,7 +4,7 @@ category:     blog
 tags:         cenzura
 layout:       post
 title:        "Novela zákona o Vojenském zpravodajství ohrožuje bezpečnost českého Internetu." 
-image:        sledujeme-kazdeho.jpg
+img:        2016/sledujeme-kazdeho.jpg
 author:       Petra Dvořáková
 ---
 

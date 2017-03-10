@@ -3,7 +3,9 @@ title: "Piráti ke svozu odpadních vod v Plzni: Neřízená dotace"
 author: Věra Marušiaková
 tags: plzeň, odpadní-hospodářství
 date: 2017-01-30
-img: kadibudka.jpg
+img: 2017/kadibudka.jpg
+category:     blog
+layout:       post
 ---
 
 Předseda Pirátů Plzeňského kraje Lukáš Bartoň podává podnět Ministerstvu vnitra ČR proti prosincovému usnesení plzeňského zastupitelstva, kterým se stanovuje dotace a způsob placení za vývoz odpadních vod v Plzni 10 - Lhotě. Výhradní příjemce dotace je městem vlastněná společnost Vodárna Plzeň, která zadala bez výběrového řízení vývoz odpadních vod z této části Plzně nejdražší firmě na trhu (Eliod). Město a jeho firma Vodárna Plzeň, tedy všichni Plzeňané, zaplatí několikanásobně vyšší cenu. Dotace nejdražšímu vývozci na trhu je tak vysoká, že při použití ostatních lokálních vývozců by měli občané Lhoty vývoz plně zdarma.
@@ -16,7 +18,7 @@ Dotováním části ceny za svoz odpadních vod jedinou firmou bez předchozího
 
 #### Situační schéma
 
-![Situační schéma](assets/img/articles/schema-plzen.jpg "Příklad současné situace v Plzni")
+![Situační schéma](assets/img/articles/2017/schema-plzen.jpg "Příklad současné situace v Plzni")
 
 Nejdražší vývozce na trhu je dotován Městem Plzní, což zlikviduje konkurenční místní podnikatele. Ve žlutém rámečku je cena účtovaná koncovému zákazníkovi, tedy občanovi Lhoty. Doklady za vývoz dotovaného i nedotovaného vývozce jsou součástí této tiskové zprávy.
 
@@ -43,9 +45,9 @@ Statutární město Plzeň se roku 2002 zavázalo vybudovat kanalizaci v městsk
 * [Výzva Zastupitelstvu města Plzeň](https://www.pirati.cz/_media/tiskove-zpravy/statutarni_mesto_plzen.pdf)
 * [Výzva společnosti Vodárny Plzeň a.s.](https://www.pirati.cz/_media/tiskove-zpravy/vodarna_plzen_a.pdf)
 
-![Cena vody](assets/img/articles/uctenka-plzen.jpg "Cena vody v Plzni")
+![Cena vody](assets/img/articles/2017/uctenka-plzen.jpg "Cena vody v Plzni")
 
-![faktura](assets/img/articles/ppd-plzen.jpg "Příjmový pokladní doklad za vodu v Plzni")
+![faktura](assets/img/articles/2017/ppd-plzen.jpg "Příjmový pokladní doklad za vodu v Plzni")
 
 #### Kontakty
 
