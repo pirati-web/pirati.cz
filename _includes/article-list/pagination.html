@@ -1,6 +1,6 @@
 <ul class="pagination text-center" role="navigation" aria-label="Pagination">
   {% if paginator.page == 1 %}
-  <li class="pagination-previous disabled">Previous</li>
+  <li class="pagination-previous disabled">Předchozí</li>
   {% else %}
   <li class="pagination-previous">
     <a href="{{ paginator.previous_page_path }}" aria-label="Previous page">Předchozí</a>
@@ -27,7 +27,7 @@
   {% endcomment %}
 
   {% if paginator.page == paginator.total_pages %}
-  <li class="pagination-next disabled">Next</li>
+  <li class="pagination-next disabled">Další</li>
   {% else %}
   <li class="pagination-next">
     <a href="{{ paginator.next_page_path }}" aria-label="Next page">Další</a>

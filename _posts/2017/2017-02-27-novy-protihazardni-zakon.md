@@ -20,14 +20,14 @@ Potvrzuje se tak, že Babišova a Závodského údajná péče o lidi a rodiny, 
 
 Odstrašujícím příkladem je město Jablonec nad Nisou, kde po původním zákazu město povolilo 12 kasin v centru. Primátor hájí vysoký počet kasin tím, že jej nemůže nijak snížit, přitom se neopírá o žádný konkrétní paragraf. 350 proherních automatů na 45 tis. obyvatel – tak vypadá regulace hazardu v Jablonci nad Nisou.
 
-#### Související odkazy 
+### Související odkazy
 
 * [Stát udělil českým firmám první licence: Fortuna může spustit on-line kasino, Sazka internetovou Sportku](http://m.ihned.cz/byznys/c1-65637210-stat-udelil-prvni-licenci-k-legalnimu-kasinu-na-internetu-fortuna-spusti-ruletu-behem-par-dnu)
 * [Záznam debaty Ivana Bartoše s Andrejem Babišem, Markem Antošem a Markem Hermanem na téma cenzura internetu](http://www.pokerarena.cz/rubriky/zaklady-pokeru/legislativa/video-regulace-hazardu-a-svoboda-internetu_10612.html)
 * [Akcie Fortuny byly dnes hnacím motorem pražské burzy. Věděl někdo víc než ostatní?](https://www.web4trader.cz/akcie-fortuna-byly-dnes-hnacim-motorem-prazske-burzy-vedel-nekdo-vic-nez-ostatni/)
 * [Piráti hlásí rozhodnutí Ústavního soudu: Cenzura schválena](https://www.pirati.cz/tiskove-zpravy/pirati_hlasi_vysledky_rozhodnuti_ustavniho_soudu_ve_veci_cenzury_internetu._boj_proti_plosnemu_smirovani_obcanu_vojenskou_rozvedkou_pokracuje)
 
-#### Kontakty
+### Kontakty
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
