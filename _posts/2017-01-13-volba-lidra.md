@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "Piráti si volí celostátního lídra pro letošní volby do poslanecké sněmovny" 
-image:        volba-lidra.jpg
+img:        2017/volba-lidra.jpg
 author:       Věra Marušiaková
 ---
 

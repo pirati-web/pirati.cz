@@ -1,9 +1,11 @@
 ---
+category:     blog
 title: "Pirátské volební štáby budou v jednotlivých krajích společně sledovat výsledky voleb"
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-06
 img: olomouc.jpg
+layout:       post
 ---
 
 Piráti a jejich volební štáby budou ve většině krajů sledovat výsledky voleb do krajských zastupitelstev společně. K účasti zvou média i veřejnost. Zveřejňujeme přehled akcí v jednotlivých krají.

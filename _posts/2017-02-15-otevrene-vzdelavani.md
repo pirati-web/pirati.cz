@@ -3,7 +3,9 @@ title: "Piráti podporují Chartu Aliance pro otevřené vzdělávání"
 author: Petra Dvořáková
 tags: vzdělávání
 date: 2017-02-15
-img: oer.jpg
+img: 2017/oer.jpg
+category:     blog
+layout:       post
 ---
 
 Česká pirátská strana se jako první politická strana připojila k Chartě Aliance pro otevřené vzdělávání. Dlouhodobě se snažíme změnit stávající situaci, kdy veřejné instituce financují vzdělávací materiály, výzkum a získávání znalostí, ale výsledky těchto veřejně financovaných projektů nejsou volně dostupné všem občanům, dospělým i dětem.

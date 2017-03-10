@@ -4,7 +4,7 @@ category:     blog
 tags:         robotizace
 layout:       post
 title:        "Česko je v EU druhou zemí nejvíce ohroženou robotizací. Odpovědí by mohl být nepodmíněný základní příjem" 
-image:        robotizace.jpg
+img:        2017/robotizace.jpg
 author:       Petra Dvořáková
 ---
 

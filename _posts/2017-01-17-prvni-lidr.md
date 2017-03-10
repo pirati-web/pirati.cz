@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "První lídr do parlamentních voleb 2017: Piráty povede Ivan Bartoš." 
-image:        ivan-senat.jpg
+img:        2017/ivan-senat.jpg
 author:       Věra Marušiaková
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "Konec spekulacím: Do sněmovních voleb jdou Piráti samostatně." 
-image:        do-voleb-samostatne.jpg
+img:        2016/do-voleb-samostatne.jpg
 author:       Věra Marušiaková
 ---
 

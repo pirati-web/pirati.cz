@@ -3,7 +3,9 @@ title: "Piráti hledají 2 psavce/psavkyně pro mediální odbor - výběrové �
 author: Věra Marušiaková
 tags: stanovisko
 date: 2017-02-26
-img: pice.jpg
+img: 2017/pice.jpg
+category:     blog
+layout:       post
 ---
 
 Mediální odbor Pirátské strany vyhlašuje dvě výběrová řízení na 2 placené pozice:

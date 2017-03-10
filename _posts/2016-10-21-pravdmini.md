@@ -4,7 +4,7 @@ category:     blog
 tags:         cenzura
 layout:       post
 title:        "Piráti ke zřízení útvaru boje proti dezinformacím: Ministerstvo pravdy nechceme." 
-image:        chovanec.jpg
+img:        2016/chovanec.jpg
 author:       Věra Marušiaková
 ---
 

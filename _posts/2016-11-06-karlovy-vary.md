@@ -4,7 +4,7 @@ category:     blog
 tags:         Karlovarský-kraj
 layout:       post
 title:        "Vedle voleb běžela referenda: Konopí si legálně bude moci koupit pětina Američanů." 
-image:        podpis-koalice-kvk.jpg
+img:       2016/ podpis-koalice-kvk.jpg
 author:       Petr Dvořáková
 ---
 

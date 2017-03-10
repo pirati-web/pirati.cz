@@ -3,7 +3,9 @@ title: "Senátor Libor Michálek je nejlepší v plnění slibů Rekonstrukce st
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-01
-img: senator-michalek2.jpg
+category:     blog
+img: 2016/senator-michalek2.jpg
+author:       Věra Marušiaková
 ---
 
 Rekonstrukce státu představila 29. září své průběžné hodnocení politiků, kteří se zavázali k podpoře protikorupčních zákonů z dílny této iniciativy. Ze všech 25 senátorů, kteří zatím připojili svůj podpis alespoň pod jeden z 9 prosazovaných zákonů, nejlépe plní svůj slib Libor Michálek, zvolený za Piráty, lidovce a Zelené. Těsně je následován Václavem Láskou, dalším senátorem s podporou Pirátů.

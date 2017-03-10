@@ -1,4 +1,5 @@
 ---
+category:     blog
 title: "Libor Michálek: Rejstřík skutečných vlastníků firem musí být veřejný"
 author: Petra Dvořáková
 tags: stanovisko

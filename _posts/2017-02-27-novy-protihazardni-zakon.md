@@ -3,7 +3,9 @@ title: "Poslanci se asi nechali napálit: nový protihazardní zákon podpoří 
 author: Věra Marušiaková
 tags: hazard
 date: 2017-02-27
-img: casino.jpg
+img: 2017/casino.jpg
+category:     blog
+layout:       post
 ---
 
 Den po té, co Ústavní soud zamítl stížnost Pirátů a senátorů ohledně blokace internetových stránek ministerskými úředníky bez soudu a opatření označil za necenzurní a standardní, se ledy pohnuly. Bohužel přesně tím směrem, na který Piráti celou dobu upozorňovali. Ministerstvo financí udělilo první licence na online kasíno firmě Fortuna, kde se o nic jiného než klasický hazard nejedná, a na Internet pouští i Sportku. Novelu zákona o hazardních hrách připravovalalo ministrestvo financi ve spolupráci s lobbisty vybraných herních společností. Ty se nyní samy chystají obsadit ve svůj prospěch zregulované prostředí na internetu.

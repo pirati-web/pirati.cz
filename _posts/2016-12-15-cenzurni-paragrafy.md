@@ -4,7 +4,7 @@ category:     blog
 tags:         cenzura
 layout:       post
 title:        "Ministerstvo financí stále neřeklo, jakým způsobem přistoupí k cenzurním paragrafům loterijního zákona" 
-image:        censored.jpg
+img:        2016/censored.jpg
 author:       Věra Marušiaková
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         akce
 layout:       post
 title:        "Piráti a Česká asociace paraplegiků - CZEPA: Bariéry svobody - netradiční oslava svátku 17. listopadu." 
-image:        bariery-svobody.jpg
+img:        2016/bariery-svobody.jpg
 author:       Věra Marušiaková
 ---
 

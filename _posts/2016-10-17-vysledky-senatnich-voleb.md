@@ -3,7 +3,9 @@ title: "Piráti slaví dvojitý úspěch v senátních volbách 2016"
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-17
-img: novi-senatori.jpg
+img: 2016/novi-senatori.jpg
+layout:       post
+category:     blog
 ---
 
 V druhém kole voleb 2016 se o senátorská křesla s podporou Pirátské strany utkali za Prahu 10 Renata Chmelová a za Prahu 11 Ladislav Kos. Máme radost, že oba naši kandidáti uspěli. Blahopřejeme nově zvolené senátorce a senátorovi a děkujeme voličům za účast ve volbách a jejich hlasy.

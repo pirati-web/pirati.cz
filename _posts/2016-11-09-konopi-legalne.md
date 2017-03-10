@@ -4,7 +4,7 @@ category:     blog
 tags:         legalizace
 layout:       post
 title:        "Vedle voleb běžela referenda: Konopí si legálně bude moci koupit pětina Američanů." 
-image:        usa-legalizace.jpg
+img:        2016/usa-legalizace.jpg
 author:       Petr Dvořáková
 ---
 

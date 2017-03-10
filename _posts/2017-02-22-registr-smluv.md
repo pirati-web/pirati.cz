@@ -3,7 +3,9 @@ title: "Stanovisko Pirátů: Registr smluv je mrtvý. Ať žije registr smluv! S
 author: Věra Marušiaková
 tags: stanovisko
 date: 2017-02-22
-img: destrukce-registru.jpg
+img: 2017/destrukce-registru.jpg
+category:     blog
+layout:       post
 ---
 
 Dnešek lze bez nadsázky považovat za pohřeb tolik oslavovaného a politiky vzývaného registru smluv. Postarali se o něj svým dnešním hlasováním v poslanecké sněmovně volení zástupci občanů za ČSSD, KSČM, KDU-ČSL a ODS. Těsnou většinou tak padla povinnost nejen státních podniků, ale i městských firem zveřejňovat smlouvy. Určité úlevy dostaly také Česká televize a Český rozhlas i veřejné vysoké školy. Totálně vykostěný zákon ukládá povinnost zveřejňovat smlouvy snad už jen úřadům a základkám.
