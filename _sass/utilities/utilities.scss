@@ -2,8 +2,8 @@
   @include clearfix;
 }
 
-.u-hidden,
-.u-js-hiddenBeforeLoad {
+.u-hidden/*,
+.u-js-hiddenBeforeLoad*/ {
   display: none !important;
 }
 
