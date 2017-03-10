@@ -11,7 +11,7 @@ rbar: cal, people, video
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts %}
+        {% for article in site.posts limit: 6 %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
           <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
           <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
