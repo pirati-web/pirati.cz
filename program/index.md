@@ -4,4 +4,10 @@ title: Naše vize
 rbar: ""
 ---
 
-Aktivně bojujeme za svobodu slova a informací. Nesouhlasíme s nepřetržitou snahou státu špehovat občany na Internetu či skrz veřejné kamery. Jsme víc a víc vidět díky naší snaze o zavedení transparence všude, kde to umožňuje zákon. Chceme zabránit zbytečným maratonům po úřadech a zdigitalizovat veřejnou správu. Jsme liberální strana, která chce, aby bylo právo srozumitelné i pro obyčejné lidi – laiky a aby platilo pro všechny stejně. Chceme, aby měl každý z vás svobodu volby. Není to jen o boji s Ochranným svazem autorským. Máme komplexní propracovaný program v oblasti školství, zdravotnictví, dopravy a dalších. Nevolte podle letáku, informujte se!
+Usilujeme o otevřenost a férovost ve veřejném prostoru. Chceme fungující moderní politiku, která pomáhá lidem, založenou na využití technologií ve prospěch demokratické společnosti.
+
+Prosazujeme právo člověka na ochranu soukromí i právo sdílet informace. Podporujeme nezávislost médií a svobodu projevu ruku v ruce s&nbsp;odpovědností, tolerancí, kritickým myšlením a vzdělaností.
+
+Chceme funkční stát ve službách občanů, který je nezatěžuje byrokracií ani přílišnou zvědavostí. Přejeme si, aby rozumně hospodařil a investovat tam, kde to lidé nejvíc potřebují.
+
+Správa věcí veřejných má být otevřená. Usilujeme o systém, kde politici nemohou švindlovat, čerpat či odklánět. Občan má právo kontrolovat práci jím volených zástupců i toky veřejných peněz.
