@@ -20,6 +20,11 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-paginate
+paginate_path: "/aktuality/:num/"
+paginate: 8
+
 sass:
     style: compressed
 
