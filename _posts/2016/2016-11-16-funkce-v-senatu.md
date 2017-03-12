@@ -24,5 +24,5 @@ V tomto volebním období bylo v Senátu zřízeno téměř 30 funkcí místopř
 
 #### Kontakty
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * Vít Šimral, vit.simral@pirati.cz, 606 220 985, asistent senátora Michálka za Piráty

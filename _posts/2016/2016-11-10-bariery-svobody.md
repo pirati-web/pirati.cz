@@ -30,5 +30,5 @@ Smyslem akce je připomenout, že mezi námi žije víc než 8 000 vozíčkář�
 
 #### Kontakty
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), 603 415 378, předseda Pirátů
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), 603 415 378, předseda Pirátů
 * Alena Jančíková, jancikova@czepa.cz, 608 124 252, ředitelka České asociace paraplegiků - CZEPA

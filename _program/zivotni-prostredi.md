@@ -1,6 +1,6 @@
 ---
 title: Životní prostředí
-img: 
+img:
 topic: Sdílení
 ---
 

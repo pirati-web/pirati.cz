@@ -29,5 +29,5 @@ Několik pirátských cílů v této oblasti:
 
 #### Kontakty
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
-* [Adam Zábranský](https://www.pirati.cz/lide/adam_zabransky) [adam.zabransky@pirati.cz](adam.zabransky@pirati.cz), pražský zastupitel za Piráty, 721 006 868
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [Adam Zábranský](https://www.pirati.cz/lide/adam_zabransky) [adam.zabransky@pirati.cz](mailto:adam.zabransky@pirati.cz), pražský zastupitel za Piráty, 721 006 868

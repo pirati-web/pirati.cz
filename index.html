@@ -18,7 +18,7 @@ rbar: cal, people, video
             <div class="c-BlogPosting-excerpt-photoBox">
               <!-- BlogPosting image -->
               <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
-                <img src="{{ article.img | prepend: '/assets/img/articles/' | relative_url }}" alt="{{img.title}}">
+                <img src="{{ article.img | prepend: '/assets/img/articles/' | relative_url }}" alt="{{article.title}}">
                 <meta itemprop="url" content="{{ article.img | prepend: '/assets/img/articles/' | relative_url }}">
                 <meta itemprop="width" content="">
                 <meta itemprop="height" content=""> </div>

@@ -33,6 +33,6 @@ V prvním kole volby mají zúčastnění dva hlasy, mohou tedy hlasovat pro oba
 
 #### Kontakt
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
-* [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/Ivan_Bartos), Ph.D., [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů a celostátní lídr pro volby 2017, 603 415 378
-* [Mgr. Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), [mikulas.peksa@pirati.cz](mikulas.peksa@pirati.cz), vedoucí Zahraničního odboru Pirátů, 605 101 249
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/Ivan_Bartos), Ph.D., [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů a celostátní lídr pro volby 2017, 603 415 378
+* [Mgr. Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), [mikulas.peksa@pirati.cz](mailto:mikulas.peksa@pirati.cz), vedoucí Zahraničního odboru Pirátů, 605 101 249

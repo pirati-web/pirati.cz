@@ -16,4 +16,4 @@ Posílíme dostupnost a vymahatelnost práva. Právní řád bude pro všechny d
 
 Pirátská strana zavede ve [služebním zákoně][sluzebni-zakon] postihy pro úředníky, kteří požadavky na kvalitu předpisů a rozhodnutí nerespektují, nebo rozhodují v rozporu se zákonem a judikaturou vyšších soudů. Začleníme do ústavy pojistky proti zneužití veřejné moci, zejména nezávislost státního zastupitelství, aby mohly být náležitě vyšetřeny trestné činy a zajištěn majetek získaný politickou kriminalitou.
 
-[sluzebni-zakon]:(https://www.pirati.cz/program/sluzebni_zakon)
+[sluzebni-zakon]: https://www.pirati.cz/program/sluzebni_zakon

@@ -24,7 +24,7 @@ V organizaci vzdělávacích institucí Pirátská strana prosazuje:
 
 * úpravu pravomocí jednotlivých orgánů školy, aby nebyly soustředěny v rukou jedné osoby (ředitele, rektora, děkana), ale zaručovaly konsensuální pravidla a jejich nezávislou kontrolu ([oddělení moci][delba-moci]).
 
-[svoboda-informaci]:(https://www.pirati.cz/program/svoboda_informaci)
-[prima-demokracie]:(https://www.pirati.cz/program/prima_demokracie)
-[transparence]:(https://www.pirati.cz/program/transparence)
-[delba-moci]:(https://www.pirati.cz/program/delba_moci)
+[svoboda-informaci]: https://www.pirati.cz/program/svoboda_informaci
+[prima-demokracie]: https://www.pirati.cz/program/prima_demokracie
+[transparence]: https://www.pirati.cz/program/transparence
+[delba-moci]: https://www.pirati.cz/program/delba_moci

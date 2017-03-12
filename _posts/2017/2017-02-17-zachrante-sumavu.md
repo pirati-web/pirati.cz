@@ -28,5 +28,5 @@ Hlasování o novele Zákona o ochraně přírody a krajiny uskuteční v Poslan
 #### Kontakty
 
 * [Renata Chmelová](http://renatachmelova.cz/), senátorka s podporou Pirátů, chmelovar@senat.cz
-* [Ing. Dana Balcarová](https://www.pirati.cz/lide/dana_balcarova), [dana.balcarova@pirati.cz](dana.balcarova@pirati.cz), garant programu Životní prostředí České pirátské strany, 732 103 330
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [Ing. Dana Balcarová](https://www.pirati.cz/lide/dana_balcarova), [dana.balcarova@pirati.cz](mailto:dana.balcarova@pirati.cz), garant programu Životní prostředí České pirátské strany, 732 103 330
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

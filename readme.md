@@ -1,5 +1,7 @@
 # pirati.cz
 
+[![Build Status](https://travis-ci.org/pirati-web/pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/pirati.cz)
+
 ## Lokální spuštění
 
 Instalacee na Fedora 25: `dnf install rubygem-jekyll`

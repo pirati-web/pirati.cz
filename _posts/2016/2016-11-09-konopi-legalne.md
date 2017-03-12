@@ -21,4 +21,4 @@ Na federální úrovni je v USA konopí stále nelegální. Můžeme doufat, že
 
 #### Kontakty
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), šéf mediálního odboru, 737 943 770 
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru, 737 943 770 

@@ -100,4 +100,4 @@ Zadavatel nebo výběrová komise může výběrové řízení před uplynutím 
 
 ### Kontakt
 
-* [Barbora Hradečná](https://www.pirati.cz/lide/barbora_hradecna), [barbora.hradecna@pirati.cz](barbora.hradecna@pirati.cz), personální odbor, 778 702 243
+* [Barbora Hradečná](https://www.pirati.cz/lide/barbora_hradecna), [barbora.hradecna@pirati.cz](mailto:barbora.hradecna@pirati.cz), personální odbor, 778 702 243

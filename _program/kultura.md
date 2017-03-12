@@ -20,6 +20,6 @@ Pro široký přístup ke kulturnímu bohatství je nezbytná veřejná podpora.
 
 Piráti si cení památek a kulturního dědictví. Pro nové veřejné stavby a prostory usilujeme o architektonické a urbanistické soutěže, které zohlední i jejich kulturní přínos. Prosazujeme, aby v památkové péči, architektonických soutěžích a grantech v oblasti kultury rozhodovali [odborníci][sluzebni-zakon].
 
-[svoboda-informaci]:(https://www.pirati.cz/program/svoboda-informaci)
-[transparence]:(https://www.pirati.cz/program/transparence)
-[sluzebni-zakon]:(https://www.pirati.cz/program/sluzebni-zakon)
+[svoboda-informaci]: https://www.pirati.cz/program/svoboda-informaci
+[transparence]: https://www.pirati.cz/program/transparence
+[sluzebni-zakon]: https://www.pirati.cz/program/sluzebni-zakon

@@ -15,6 +15,6 @@ Zákon ve verzi Poslanecké sněmovny předpokládá existenci rejstříku, do n
 
 ### Kontakt
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), pražský zastupitel a šéf mediálního odboru, 737 943 770
-* [Mgr. Libor Michálek, MPA](https://www.pirati.cz/lide/libor_michalek), [michalekl@senat.cz](michalekl@senat.cz), senátor
-* [Vít Šimral](https://www.pirati.cz/lide/vit_simral), [vit.simral@pirati.cz](vit.simral@pirati.cz), asistent Libora Michálka, 606 220 985
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), pražský zastupitel a šéf mediálního odboru, 737 943 770
+* [Mgr. Libor Michálek, MPA](https://www.pirati.cz/lide/libor_michalek), [michalekl@senat.cz](mailto:michalekl@senat.cz), senátor
+* [Vít Šimral](https://www.pirati.cz/lide/vit_simral), [vit.simral@pirati.cz](mailto:vit.simral@pirati.cz), asistent Libora Michálka, 606 220 985
