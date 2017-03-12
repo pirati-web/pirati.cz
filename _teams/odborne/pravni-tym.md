@@ -7,6 +7,8 @@ kontaktní osoba:
 region: Praha
 category: 
 - strana
+tags:
+- pravni
 ---
 
 Zabýváme se právní stránkou toho, co Piráti dělají. Připravujeme konzultace, rozbory a sledujeme soudní spory. Sílu nám dodávají spolupracující advokátní kanceláře (AK Michal Šalamoun, AK Filip Hajný, AK Marian Pavlov). 
