@@ -23,6 +23,6 @@ V celostátních tématech se programové cíle liší od cílů jiných stran a
 
 #### Kontakty
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
-* [Ing. et Ing. Martin Šmída](https://www.pirati.cz/lide/martin_smida), [martin.smida@pirati.cz](martin.smida@pirati.cz), místopředseda Pirátů, 721 661 311
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [Ing. et Ing. Martin Šmída](https://www.pirati.cz/lide/martin_smida), [martin.smida@pirati.cz](mailto:martin.smida@pirati.cz), místopředseda Pirátů, 721 661 311
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

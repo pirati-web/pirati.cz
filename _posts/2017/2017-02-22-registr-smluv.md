@@ -23,5 +23,5 @@ Zajímá vás, jak o dalším osudu hlavního protikorupčního zákona hlasoval
 
 ### Kontakty
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

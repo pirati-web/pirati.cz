@@ -24,5 +24,5 @@ Myšlenka základního nepodmíněného příjmu se snaží reagovat právě na 
 
 #### Kontakt
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770 
-* [PaedDr. Ivo Vašíček](https://www.pirati.cz/lide/ivo_vasicek), [ivo.vasicek@pirati.cz](ivo.vasicek@pirati.cz), místopředseda Pirátů
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770 
+* [PaedDr. Ivo Vašíček](https://www.pirati.cz/lide/ivo_vasicek), [ivo.vasicek@pirati.cz](mailto:ivo.vasicek@pirati.cz), místopředseda Pirátů

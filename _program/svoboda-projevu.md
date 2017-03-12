@@ -16,6 +16,7 @@ Zákony, které zaručují svobodu projevu, se musí aktualizovat a rozšířit 
 
 Liberální úprava shromáždění musí respektovat právo lidí pokojně projevit názor. Dokud shromáždění nevyvolávají strach a probíhají pokojně, policie by zásadně neměla používat represi, ale jen oddělit dvě shromáždění, mezi nimiž hrozí konflikt. Piráti požadují zachování anonymity pokojně shromážděných lidí: Protestujeme proti nahrávání pokojně demonstrujících policií a proti změně shromažďovacího zákona, která zakázala setkání v maskách ve všech případech, nikoliv jen na výzvu policie.
 
-Pirátská strana požaduje právní ochranu pro občany, kteří se nebojí vyjádřit svůj názor a upozorní na korupci ([whistleblowing](www.cs.wikipedia.org/wiki/Whistleblowing)).
+Pirátská strana požaduje právní ochranu pro občany, kteří se nebojí vyjádřit svůj názor a upozorní na korupci ([whistleblowing][]).
 
-[internet]:(https://www.pirati.cz/program/internet)
+[internet]: https://www.pirati.cz/program/internet
+[whistleblowing]: www.cs.wikipedia.org/wiki/Whistleblowing

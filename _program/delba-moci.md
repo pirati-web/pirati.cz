@@ -16,6 +16,6 @@ Dělbu moci chceme prosadit jak na úrovni státu, tak na úrovni krajů a obcí
 
 Posilme dělbu moci jako systémový prvek kontroly politické moci. Bude pak daleko větší šance, že pokusy jedné instituce o zasahování do svobod občanů budou zastaveny ostatními institucemi.
 
-[prima-demokracie]:(https://www.pirati.cz/program/prima_demokracie)
-[vzdelani]:((https://www.pirati.cz/program/vzdelani)
-[politicke-strany]:(https://www.pirati.cz/program/politicke_strany)
+[prima-demokracie]: https://www.pirati.cz/program/prima_demokracie
+[vzdelani]: https://www.pirati.cz/program/vzdelani
+[politicke-strany]: https://www.pirati.cz/program/politicke_strany

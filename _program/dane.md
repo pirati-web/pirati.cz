@@ -19,9 +19,9 @@ Prosazujeme následující principy pro zdanění:
 
 Pirátská strana podporuje vyšší zapojení občanů do rozhodování. Občané by měli mít možnost podílet se na tvorbě místního rozpočtu a přispívat veřejně prospěšné organizaci podle vlastního výběru – ovšem pouze za podmínky, že organizace bude [transparentní][transparence], dar do stanovené výše by si mohli odečíst z daní.
 
-[finance]:(https://www.pirati.cz/program/finance)
-[transparence]:(https://www.pirati.cz/program/transparence)
-[e-government]:(https://www.pirati.cz/program/e-government)
-[sluzebni-zakon]:(https://www.pirati.cz/program/sluzebni-zakon)
-[svoboda-informaci]:(https://www.pirati.cz/program/svoboda-informaci)
-[psychotropni-latky]:(https://www.pirati.cz/program/psychotropni-latky)
+[finance]: https://www.pirati.cz/program/finance
+[transparence]: https://www.pirati.cz/program/transparence
+[e-government]: https://www.pirati.cz/program/e-government
+[sluzebni-zakon]: https://www.pirati.cz/program/sluzebni-zakon
+[svoboda-informaci]: https://www.pirati.cz/program/svoboda-informaci
+[psychotropni-latky]: https://www.pirati.cz/program/psychotropni-latky

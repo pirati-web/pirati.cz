@@ -37,6 +37,6 @@ Pirátská strana bude mít také své zástupce ve všech výborech a komisích
 
 #### Kontakty
 
-* [Ing. Josef Janů](https://www.pirati.cz/lide/josef_janu), [josef.janu@pirati.cz](josef.janu@pirati.cz), lídr pirátské kandidátky a zvolený krajský zastupitel za Piráty v KV kraji 606 183 864 
-* [Ing. Petr Třešňák](https://www.pirati.cz/lide/petr_tresnak), [petr.tresnak@pirati.cz](petr.tresnak@pirati.cz), předseda Krajského sdružení Karlovarský kraj a starosta města Mariánské lázně, 606 675 294 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů a pražský zastupitel, 737 943 770
+* [Ing. Josef Janů](https://www.pirati.cz/lide/josef_janu), [josef.janu@pirati.cz](mailto:josef.janu@pirati.cz), lídr pirátské kandidátky a zvolený krajský zastupitel za Piráty v KV kraji 606 183 864 
+* [Ing. Petr Třešňák](https://www.pirati.cz/lide/petr_tresnak), [petr.tresnak@pirati.cz](mailto:petr.tresnak@pirati.cz), předseda Krajského sdružení Karlovarský kraj a starosta města Mariánské lázně, 606 675 294 
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů a pražský zastupitel, 737 943 770

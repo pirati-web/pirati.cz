@@ -27,4 +27,4 @@ Pro volby 2017 Piráti představí svůj aktualizovaný širokospektrý program.
 
 #### Kontakt
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
