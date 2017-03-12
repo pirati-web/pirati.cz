@@ -12,9 +12,13 @@ Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` přip
 
 ## Struktura
 
+Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
+
 Kolekce jsou markdown soubory s yaml frontend v přísliušné složce, na webu jsou použity 4:
 
 - posts (články)
 - people (lidé)
 - program
 - teams (týmy)
+
+Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo json.
