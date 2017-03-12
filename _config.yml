@@ -36,6 +36,11 @@ collections:
   program:
     output: true
     permalink: /program/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:path/
+
+
 
 defaults:   # defaults values for collection scope
   -
