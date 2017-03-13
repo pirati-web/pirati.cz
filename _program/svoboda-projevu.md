@@ -19,4 +19,4 @@ Liberální úprava shromáždění musí respektovat právo lidí pokojně proj
 Pirátská strana požaduje právní ochranu pro občany, kteří se nebojí vyjádřit svůj názor a upozorní na korupci ([whistleblowing][]).
 
 [internet]: https://www.pirati.cz/program/internet
-[whistleblowing]: www.cs.wikipedia.org/wiki/Whistleblowing
+[whistleblowing]: http://www.cs.wikipedia.org/wiki/Whistleblowing
