@@ -26,6 +26,6 @@ Dříve nepřicházelo automatické zveřejňování informací z veřejných in
 
 Jsme přesvědčeni, že náš systém je svobodnější a demokratičtější.
 
-[svoboda-projevu]:(https://www.pirati.cz/program/svoboda_projevu)
-[transparentni-organizace]:(https://www.pirati.cz/program/transparence)
-[vzdelavani]:(https://www.pirati.cz/program/vzdelavani)
+[svoboda-projevu]: https://www.pirati.cz/program/svoboda_projevu
+[transparentni-organizace]: https://www.pirati.cz/program/transparence
+[vzdelavani]: https://www.pirati.cz/program/vzdelavani

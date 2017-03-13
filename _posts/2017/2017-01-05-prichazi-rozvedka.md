@@ -31,5 +31,5 @@ Součástí iniciativy je Výzva Orwellův zákon k veřejné debatě a následn
 
 #### Kontakty
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770

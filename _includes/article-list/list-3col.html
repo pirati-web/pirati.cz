@@ -1,3 +1,4 @@
+{% assign close = close | minus: 2 | modulo: 3 %}
 
 {% for article in posts offset: 2 %}
 {% assign x = forloop.index | modulo: 3 %}
@@ -9,17 +10,15 @@
 {% endif %}
         {% include article-list/standard_article.html param='article'%}
 {% if x == 0 %}
-      </div>
-      <!-- .row -->
-    </div>
-    <!-- .o-section-inner -->
-  </div>
-  <!-- .columns -->
-</div>
-<!-- .row -->
+      </div><!-- .row -->
+    </div><!-- .o-section-inner -->
+  </div><!-- .columns -->
+</div><!-- .row -->
 {% endif %}
 {% endfor %}
-
+{% if close != 0 %}
+</div></div></div></div>
+{% endif %}
 {% comment %}
 <hr>
 

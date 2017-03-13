@@ -23,5 +23,5 @@ Do soutěže letos veřejnost přihlásila rekordních 162 subjektů. Nominace n
 
 ### Kontakt
 
-* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub_michalek), [jakub.michalek@pirati.cz](jakub.michalek@pirati.cz), 775 978 550, pražský zastupitel a předseda pražských Pirátů
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), 737 943 770, vedoucí mediálního odboru
+* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub_michalek), [jakub.michalek@pirati.cz](mailto:jakub.michalek@pirati.cz), 775 978 550, pražský zastupitel a předseda pražských Pirátů
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), 737 943 770, vedoucí mediálního odboru

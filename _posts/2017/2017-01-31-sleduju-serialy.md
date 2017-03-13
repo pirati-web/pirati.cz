@@ -27,5 +27,5 @@ V projednávané věci sice byla obviněná kontaktována Českou protipirátsko
 
 #### Kontakt
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
-* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub_michalek), [jakub.michalek@pirati.cz](jakub.michalek@pirati.cz), místopředseda Pirátů, 775 978 550
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub_michalek), [jakub.michalek@pirati.cz](mailto:jakub.michalek@pirati.cz), místopředseda Pirátů, 775 978 550

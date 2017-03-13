@@ -23,7 +23,7 @@ markdown: kramdown
 gems:
   - jekyll-paginate
 paginate_path: "/aktuality/:num/"
-paginate: 8
+paginate: 11
 
 sass:
     style: compressed
@@ -36,6 +36,11 @@ collections:
   program:
     output: true
     permalink: /program/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:path/
+
+
 
 defaults:   # defaults values for collection scope
   -

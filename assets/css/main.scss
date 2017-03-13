@@ -34,8 +34,6 @@ background: #eee}
 
   .pricing-table .price {
 
-    background-color: #F6F6F6;
-
     color: #333333;
 
     font-size: 1.75rem;
@@ -89,9 +87,14 @@ background-position: 55% 0px;
 
 .ui-tabs .ui-tabs-nav li {
     margin-right: 0.34em;
+    background: #eee;
 }
+
+.ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    background: #007fff !important;}
+
 #tabs .ui-tabs-panel {
-    background: white;
+    background: #eee;
     border-width: 0px 1px 1px 1px;
 }
 

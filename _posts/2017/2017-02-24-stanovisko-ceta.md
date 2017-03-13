@@ -46,6 +46,6 @@ Ačkoliv Piráti vždy podporovali volný obchod, proti nevýhodným obchodním 
 
 ### Kontakt
 
-* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
-* [Mgr. Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), [mikulas.peksa@pirati.cz](mikulas.peksa@pirati.cz), vedoucí zahraničního odboru Pirátů, 605 101 249
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
+* [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
+* [Mgr. Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), [mikulas.peksa@pirati.cz](mailto:mikulas.peksa@pirati.cz), vedoucí zahraničního odboru Pirátů, 605 101 249
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

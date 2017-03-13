@@ -1,0 +1,36 @@
+<ul class="pagination text-center" role="navigation" aria-label="Pagination">
+  {% if paginator.page == 1 %}
+  <li class="pagination-previous disabled">Předchozí</li>
+  {% else %}
+  <li class="pagination-previous">
+    <a href="{{ paginator.previous_page_path }}" aria-label="Previous page">Předchozí</a>
+  </li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+  <li {% if page == paginator.page %} class="current"{% endif %}>
+    {% if page == paginator.page %}
+      {{ forloop.index }}
+    {% else %}
+      {% if forloop.index == 1 %}
+      <a href="/aktuality/" aria-label="Page {{ forloop.index }}">
+    {% else %}
+      <a href="/aktuality/{{forloop.index}}/" aria-label="Page {{ forloop.index }}">
+    {% endif %}
+      {{ forloop.index }}</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+
+  {% comment %}
+  <li class="ellipsis"></li>
+  {% endcomment %}
+
+  {% if paginator.page == paginator.total_pages %}
+  <li class="pagination-next disabled">Další</li>
+  {% else %}
+  <li class="pagination-next">
+    <a href="{{ paginator.next_page_path }}" aria-label="Next page">Další</a>
+  </li>
+  {% endif %}
+</ul>

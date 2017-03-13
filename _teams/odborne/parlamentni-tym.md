@@ -4,6 +4,8 @@ img: teams/parlamentni-tym.png
 kontaktní osoba: Vít Šimral
 region: Praha
 category: 
+- strana
+tags:
 - parlament
 ---
 

@@ -7,6 +7,8 @@ kontaktní osoba:
 region: Praha
 category: 
 - strana
+tags:
+- analytici
 ---
 
 Studujeme všechna dostupná data a zjišťujeme, jak je co nejlépe pro Piráty využít. Připravujeme podklady pro volební kampaň; vyhledáváme a interpretujeme statistiky a pomáháme republikovému předsednictvu i dalším Pirátům získat rychlé přehledy a výstupy ve specifických oblastech.
