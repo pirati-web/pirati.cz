@@ -13,7 +13,7 @@ rbar: ""
   <br>
   <ul>
   {% for item in topic.items %}
-    <li><a href="{{item.url}}">{{item.title}}</a></li>
+    <li><a href="{{item.url | relative_url }}">{{item.title}}</a></li>
   {% endfor %}
   </ul>
 </div>
