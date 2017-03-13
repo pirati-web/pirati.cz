@@ -19,13 +19,13 @@ Na pracovní skupině pořádané ČVUT 8. 12. ministerstvo vágně ujišťovalo
 >  „Úderem nového roku má zákon začít papírově fungovat. Konzultoval jsem vývoj situace s ústavním právníkem Markem Antošem, který za SPIR koordinoval výběr zastupující advokátní kanceláře i podání žádosti na zrušení cenzurních paragrafů k Ústavnímu soudu. Pan Antoš mi potvrdil, že původní termín rozhodnutí soud do konce roku 2016 nestihne. Podobně jako v jiných případech tak ministerstvo, v tomto případě konkrétně Andrej Babiš, znovu poslal tisíce podnikatelů i firem do právní nejistoty, která má bohužel i vzhledem k diletantské definici v zákoně dopady nejen legální, ale zejména provozní a finanční“ upozorňuje předseda Bartoš, který o tomto tématu s ministrem opakovaně jednal a podílel se se senátory a odborníky na přípravě ústavní stížnosti.
 
 
-#### Související odkazy
+### Související odkazy
 
 * [Ministr Babiš na debatě s Piráty i právníkem Antošem](https://www.pirati.cz/lib/exe/fetch.php?hash=1dcfa9&media=http%3A%2F%2Fwww.blesk.cz%2Fclanek%2Fzpravy-politika%2F392199%2Fzapal-plic-vylecil-pres-obed-babis-ve-snemovne-chybel-mezi-studenty-vyrazil.html)
 * [Stránka iniciativy Přichází cenzor](https://www.prichazicenzor.cz/)
 * [Podání stížnosti k Ústavnímu soudu s návrhem zrušit paragrafy](http://www.lupa.cz/clanky/blokovani-webu-miri-k-ustavnimu-soudu-stiznost-podepsalo-21-senatoru/)
 * [Zákon o hazardu znamená likvidaci menších poskytovatelů připojení](https://www.novinky.cz/internet-a-pc/400265-zakon-o-hazardu-znamena-likvidaci-mensich-poskytovatelu-pripojeni-varuje-sef-piratu.html)
 
-#### Kontakt
+### Kontakt
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378

@@ -17,7 +17,7 @@ Senát přijal třicet pozměňovacích návrhů senátora Jaroslava Větrovské
 
 Hlasování o novele Zákona o ochraně přírody a krajiny uskuteční v Poslanecké sněmovně v úterý 21. února. Tento den se pod heslem „Poslanci a poslankyně, hlasujte pro divočinu v národních parcích“ koná demonstrace na Malostranském náměstí od 11,55.
 
-#### Související odkazy 
+### Související odkazy 
 
 * [Fb událost demonstrace za záchranu národních parků](https://www.facebook.com/events/1455643567780190)
 * [Výzva Zachraňte národní parky](https://www.zachranmenarodniparky.cz/)
@@ -25,7 +25,7 @@ Hlasování o novele Zákona o ochraně přírody a krajiny uskuteční v Poslan
 * [Zákon o ochraně přírody a krajiny](https://www.psp.cz/sqw/tisky.sqw?O=7&T=501) - sněmovní tisky
 * [Programový bod Pirátů v oblasti životního prostředí](https://www.pirati.cz/program/zivotni_prostredi)
 
-#### Kontakty
+### Kontakty
 
 * [Renata Chmelová](http://renatachmelova.cz/), senátorka s podporou Pirátů, chmelovar@senat.cz
 * [Ing. Dana Balcarová](https://www.pirati.cz/lide/dana_balcarova), [dana.balcarova@pirati.cz](mailto:dana.balcarova@pirati.cz), garant programu Životní prostředí České pirátské strany, 732 103 330

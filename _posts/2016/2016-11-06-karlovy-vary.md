@@ -19,7 +19,7 @@ Piráti Karlovarského kraje, lídr volební kandidátky Josef Janů a krajský 
 
 Pirátská strana bude mít také své zástupce ve všech výborech a komisích. V některých z nich, jež úzce souvisí s pirátským programem, bude dokonce jejich zastoupení ještě silnější.
 
-#### Konkrétní příklady uplatněných pirátských programových priorit
+### Konkrétní příklady uplatněných pirátských programových priorit
 
 * Zavedení transparentních účtů, rozklikávací rozpočet aktualizovaný min. 1x měsíčně
 * Zveřejňovaní všech krajských smluv i nad rámec požadavků zákona 340/2015 Sb.
@@ -30,12 +30,12 @@ Pirátská strana bude mít také své zástupce ve všech výborech a komisích
 * Vyšetření (audity) všech vratek dotací a škod způsobených Karlovarskému kraji
 * Vytvoření platformy pro větší zapojení občanů do rozhodovacích procesů, včetně možnosti participativního rozpočtu
 
-#### Související odkazy
+### Související odkazy
 
 * [Piráti Karlovarský kraj](http://piratikvk.cz/) 
 * [Pirátský Facebook Karlovarského kraje](https://www.facebook.com/pirati.karlovarsko/)
 
-#### Kontakty
+### Kontakty
 
 * [Ing. Josef Janů](https://www.pirati.cz/lide/josef_janu), [josef.janu@pirati.cz](mailto:josef.janu@pirati.cz), lídr pirátské kandidátky a zvolený krajský zastupitel za Piráty v KV kraji 606 183 864 
 * [Ing. Petr Třešňák](https://www.pirati.cz/lide/petr_tresnak), [petr.tresnak@pirati.cz](mailto:petr.tresnak@pirati.cz), předseda Krajského sdružení Karlovarský kraj a starosta města Mariánské lázně, 606 675 294 

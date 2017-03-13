@@ -10,7 +10,7 @@ layout:       post
 
 Zastupitelé Pirátů na dnešním jednání zastupitelstva předali primátorce Krnáčové symbolický šek na 10 000 Kč, kterými hodlají podpořit vymáhání škod, které způsobil bývalý primátor Pavel Bém Praze mimo jiné v kauze Opencard.
 
-#### Zásadní odpovědnosti:
+### Zásadní odpovědnosti:
 
 * Poslanci KDU-ČSL Jurečka, Kudela a spol. otevřeli návrhem Pandořinu skříňku, ačkoliv si nepochybně byli vědomi, že zákon bude ve sněmovně vykastrován.
 * Zásadní návrh, který vyřazuje státní a městské firmy, předložil poslanec Petr Kudela (KDU-ČSL) a schválily jej ČSSD + KSČM + ODS + Jan Bartošek, Jaroslav Klaška (KDU-ČSL) - utváří se nám zde tedy nová prokorupční koalice.

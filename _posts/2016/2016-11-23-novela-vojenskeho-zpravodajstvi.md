@@ -27,12 +27,12 @@ Novela vůbec neřeší, kdo ponese odpovědnost za případné škody, a vůbec
 
 V praxi rozvědka zabrání jen malému počtu útoků. Spíše odhaluje totožnost pachatele až poté, co útok proběhl. Daleko zásadnější je tak věnovat se pasivním obranným mechanismům jako zabudování bezpečnostních systému do státní počítačové infrastruktury. Piráti vyzývají vládu, aby v zájmu bezpečného Internetu neprodleně zahájila diskuzi s odborníky a novelu upravila.
 
-#### Související odkazy
+### Související odkazy
 
 * [Projednávaná novela](http://www.psp.cz/sqw/text/tiskt.sqw?O=7&CT=931&CT1=0)
 * [Tisková zpráva k předešlé podobě novely](https://www.pirati.cz/tiskove-zpravy/dalsi_pokus_o_omezovani_soukromi_obcanu_zpravodajci_chteji_pravomoc_neomezene_sledovat_internetovy_provoz_-_bez_povoleni_soudu)
 
-#### Kontakty
+### Kontakty
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378

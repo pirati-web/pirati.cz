@@ -18,19 +18,19 @@ Jak je u Pirátů tradicí, v kampani se budou opírat o množství dobrovolník
 
 Pirátský volební program nyní sestavují odborníci z řad Pirátů. Program připomínkují členové a příznivci Pirátů, ale také odborníci z celého politického spektra. Piráti stojí o zpětnou vazbu i od lidí, kteří k nám názorově nezapadají.
 
-#### Profily kandidátů
+### Profily kandidátů
 
 * [Ivan Bartoš](https://www.pirati.cz/lide/Ivan_Bartos), předseda strany, ivan.bartos@pirati.cz, 603 415 378
 * [Mikuláš Peksa](https://www.pirati.cz/lide/mikulas_peksa), vedoucí zahraničního odboru, mikulas.peksa@pirati.cz, 605 101 249
 
-#### Volební systém
+### Volební systém
 
 V prvním kole mají všichni členové Pirátů dva hlasy, případně se mohou hlasování zdržet. Do druhého kola postoupí kandidáti, jejichž podpora překoná 50 % hlasujících. Pokud je postupující kandidát jediný, je zvolen rovnou v prvním kole.
 
-#### Hlasování
+### Hlasování
 
 Volba probíhá hlasováním na [tomto odkazu](https://forum.pirati.cz/hlasovani-celostatniho-fora-f475/cf-19-2016-volba-celostatniho-lidra-hlasovani-1-kolo-t35741.html), kde budou po vypršení doby hlasování vidět i výsledky.
 
-#### Kontakt
+### Kontakt
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770

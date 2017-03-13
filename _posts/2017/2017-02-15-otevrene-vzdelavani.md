@@ -21,13 +21,13 @@ Několik pirátských cílů v této oblasti:
 3. Aplikování principů universal design (design pro všechny) pro vzdělávací materiály a výstupy, které byly podpořeny z veřejných zdrojů
 4. Publikování informací z oblasti vzdělávání ve formátu otevřených dat - ve formě, která usnadní jejich další využití v různých formátech a platformách
 
-#### Související odkazy
+### Související odkazy
 
 * [Charta Aliance pro otevřené vzdělávání](http://otevrenevzdelavani.cz/wp-content/uploads/2015/11/Charta_Aliance_pro_otevrene_vzdelavani-1.pdf)
 * [Aliance pro otevřené vzdělávání](http://www.otevrenevzdelavani.cz/)
 * [Programový bod vzdělání v pirátském programu](https://www.pirati.cz/program/vzdelani)
 
-#### Kontakty
+### Kontakty
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
 * [Adam Zábranský](https://www.pirati.cz/lide/adam_zabransky) [adam.zabransky@pirati.cz](mailto:adam.zabransky@pirati.cz), pražský zastupitel za Piráty, 721 006 868
