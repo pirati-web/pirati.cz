@@ -17,12 +17,12 @@ Opatření by vedla ke zbytečné finanční a administrativní zátěži firem 
 
 Opatření by vedla ke zbytečné finanční a administrativní zátěži firem a ty by tak pravděpodobně počet lidí pracujících doma rapidně snížily. To potvrzuje i průzkum agentury Online People, dle nějž by 88 % dotázaných firem home office omezilo a dokonce celých 93 % dotázaných zaměstnanců by bylo raději, kdyby zákoník práce vůbec neprošel. Možnost pracovat doma je přitom jedním z nejoblíbenějších zaměstnaneckých benefitů, který rádi využívají i lidé pracující obvykle v kanceláři - třeba v případě onemocnění dítěte.
 
-#### Související odkazy
+### Související odkazy
 
 * [Otevřený dopis Pirátů ministryni Michaele Marksové](https://www.pirati.cz/_media/tiskove-zpravy/otevrenydopispiratu_proti_regulaci_home_office.pdf)
 * [Návrh zákoníku práce](https://apps.odok.cz/veklep-detail?pid=RACKA7LFPYY1)
 * [Vláda pohřbívá home office, aby ochránila zaměstnance]()
 
-#### Kontakt
+### Kontakt
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

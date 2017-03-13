@@ -18,7 +18,7 @@ Součástí iniciativy je Výzva Orwellův zákon k veřejné debatě a následn
 
 Česká pirátská strana programově dlouhodobě prosazuje svobodný přístup jednotlivců k informacím, svobodu slova a vyjadřování i maximální zapojení veřejnosti do rozhodování. Zároveň bojuje proti zneužívání zákonů k omezování svobody a potlačování lidských práv. Připojení k iniciativě Přichází rozvědka schválilo republikové předsednictvo strany.
 
-#### Související odkazy
+### Související odkazy
 
 * [Iniciativa Přichází rozvědka](https://prichazi.rozvedka.cz/)
 * [Další pokus o omezování soukromí občanů: Zpravodajci chtějí pravomoc neomezeně sledovat internetový provoz - bez povolení soudu](https://www.pirati.cz/tiskove-zpravy/dalsi_pokus_o_omezovani_soukromi_obcanu_zpravodajci_chteji_pravomoc_neomezene_sledovat_internetovy_provoz_-_bez_povoleni_soudu)
@@ -29,7 +29,7 @@ Součástí iniciativy je Výzva Orwellův zákon k veřejné debatě a následn
 * [Připojte se k Výzvě Orwellův zákon](http://www.petice24.com/orwelluv_zakon)
 * [Babišův zákon o cenzuře Internetu míří k Ústavnímu soudu](https://www.pirati.cz/tiskove-zpravy/pirati_splnili_slib_-_babisuv_zakon_o_cenzure_internetu_miri_k_ustavnimu_soudu)
 
-#### Kontakty
+### Kontakty
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770

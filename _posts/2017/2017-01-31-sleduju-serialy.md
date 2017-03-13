@@ -21,11 +21,11 @@ Pro naplnění základní skutkové podstaty tohoto trestného činu je přitom 
 
 V projednávané věci sice byla obviněná kontaktována Českou protipirátskou unií a upozorněna na závadný a protiprávní obsah svých stránek, Česká protipirátská unie se ovšem žádným způsobem neprokázala jakožto subjekt oprávněný jednat jménem držitelů autorských práv. Ve vztahu k obviněné tedy Česká protipirátská unie jednala z pozice subjektu, který se ničím neodlišuje od subjektů jiných (ať již fyzických či právnických osob). Na tomto závěru nemůže nic změnit ani skutečnost, že Česká protipirátská unie je známá svou specificky zaměřenou činností, kteréžto může účinně vykonávat pouze na základě plných mocí poskytnutých jí držiteli autorských práv. Na základě izolovaných výzev tohoto subjektu, který plné moci obviněné ani přes její výzvu nedodal, tak nelze dovodit vyvrácení presumpce nevědomosti, kdy osoba danou skutečnost ani vědět nemohla.
 
-#### Odkaz na usnesení soudu
+### Odkaz na usnesení soudu
 
 * [Usnesení Městského soudu pro Prahu 4](Usnesení městského soudu pro Prahu 4)
 
-#### Kontakt
+### Kontakt
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
 * [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub_michalek), [jakub.michalek@pirati.cz](mailto:jakub.michalek@pirati.cz), místopředseda Pirátů, 775 978 550

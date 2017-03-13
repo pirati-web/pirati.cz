@@ -14,11 +14,11 @@ Při úterních prezidentských volbách si voliči čtyř amerických států o
 
 Na federální úrovni je v USA konopí stále nelegální. Můžeme doufat, že ne na dlouho. Pokud se podaří tyto ledy prolomit, objevila by se příležitost přepsat například zastaralou Jednotnou úmluvu OSN o omamných látkách, která nelogicky řadí konopí na úroveň heroinu a kokainu. Piráti doufají, že takovou změnu budou Spojené státy iniciovat a byli bychom rádi, kdyby se k tomuto návrhu na přepsání přidala i Česká republika, popřípadě celá Evropská unie.
 
-#### Související odkazy
+### Související odkazy
 
 * [Probíhající sčítání v Maine](http://www.nytimes.com/%20elections/results/maine-%20ballot-measure-1-legalize-%20marijuana)
 * [Zdroj](https://www.washingtonpost.%20com/news/wonk/wp/2016/11/08/%20medical-marijuana-sails-to-%20victory-in-florida/)
 
-#### Kontakty
+### Kontakty
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru, 737 943 770 

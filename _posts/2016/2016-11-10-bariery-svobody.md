@@ -20,7 +20,7 @@ Smyslem akce je připomenout, že mezi námi žije víc než 8 000 vozíčkář�
 
 [Česká asociace paraplegiků - CZEPA](http://www.czepa.cz/) podporuje a provází vozíčkáře od nejtěžšího období krátce po poškození míchy (úrazem páteře nebo nemocí) i během jejich dalšího života. Organizace podporuje a hájí zájmy vozíčkářů po poškození míchy, usiluje o vytvoření podmínek pro jejich plnohodnotný život a pro integraci do většinové společnosti.
 
-#### Souvisejíci odkazy
+### Souvisejíci odkazy
 
 * [Pozvánka na akci na Facebooku](https://www.facebook.com/events/1831053750472622/)
 * [Hvězdný bazar](http://www.hvezdnybazar.cz/)
@@ -28,7 +28,7 @@ Smyslem akce je připomenout, že mezi námi žije víc než 8 000 vozíčkář�
 * [Facebook kavárny Headshot Coffee](https://www.facebook.com/headshotcz/?fref=ts/)
 * [Festival svobody - program oslav 17. listopadu 2016](http://www.festivalsvobody.cz/program//?fref=ts/)
 
-#### Kontakty
+### Kontakty
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), 603 415 378, předseda Pirátů
 * Alena Jančíková, jancikova@czepa.cz, 608 124 252, ředitelka České asociace paraplegiků - CZEPA
