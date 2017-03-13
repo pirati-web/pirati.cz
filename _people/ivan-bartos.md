@@ -17,11 +17,11 @@ profiles:
 ordrp: 1
 ordcar: 1
 carousel:
-  img: ivan-bartos.png
+  img: ivan-bartos.jpg
   text: |
-    <p>Předseda zastupitelského klubu Pirátů v Praze</p>
-    <p>Jakub Michálek (* 6. února 1989 Louny) je právník zaměřující se na svobodný přístup k informacím a autorské právo. Je předsedou Zastupitelského klubu čtyř Pirátů v Praze; místopředseda strany a předseda Kontrolní komise.</p>
-    <p>V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví a navrhl a prosadil participativní rozpočet.</p>
+    <p><strong>Předseda strany</strong>, celostátní lídr a garant volebního programu Pirátů v oblasti kultury</p>
+    <p>PhDr. Ivan Bartoš vystudoval informační vědu a knihovnictví. Profesí je systémový a databázový architekt. Vystupuje jako DJ a hudebník, angažuje se v aktivitách souvisejících s DIY kulturou. </p>
+
 ---
 
 Ivan Bartoš (* 20. března 1980) je lídr Pirátů do voleb do Polanecké sněmovny v roce 2017 a člen Pirátské strany od jejího vzniku. Pochází z Jablonce nad Nisou. Od roku 1999 žije v Praze. Maturoval ve Spojených státech amerických a následně i na gymnáziu U balvanu v Jablonci nad Nisou. Vystudoval Ústav informačních studií a knihovnictví na Filozofické fakultě Univerzity Karlovy v Praze. V roce 2005 získal titul PhDr. v oboru informační věda a dále pokračoval ve studiích jako interní doktorand se specializací na databázové modely, databázové systémy a informační služby internetu. Aktivně spolupracoval s knihovnami, zejména s Národní knihovnou a Státní technickou knihovnou v Praze, na projektech standardizace ve vyhledávání a sdílení informací. Paralelně se angažoval v neziskovém sektoru. Před ukončením studia působil po dobu jednoho semestru na Computer Science Faculty na University of New Orleans.
