@@ -21,7 +21,7 @@
       <ul>
         <li><a href="https://github.com/pirati-byro/transparence">Výkazy práce dle týmu</a></li>
         <li><a href="https://redmine.pirati.cz/time_entries/report?utf8=%E2%9C%93&criteria%5B%5D=user&f%5B%5D=spent_on&op%5Bspent_on%5D=y&f%5B%5D=&c%5B%5D=project&c%5B%5D=spent_on&c%5B%5D=user&c%5B%5D=activity&c%5B%5D=issue&c%5B%5D=comments&c%5B%5D=hours&columns=month&criteria%5B%5D=">Přehled odvedené práce</a></li>
-        <li><a href="https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD">Metodika odměňování</a></li>
+        <li><a href="https://redmine.pirati.cz/projects/po/wiki/odmenovani">Metodika odměňování</a></li>
       </ul>
 -
   name: Rozhodování
@@ -30,7 +30,7 @@
     content: |
       <p>Hlavním úkolem Pirátů je prosazovat Pirátský program v politice. Díky řešení legislativy na internetovém fóru se může zapojit hodně lidí. Také máme archiv programu a tiskových zpráv, abyste viděli, že nefalšujeme historii.</p>
       <ul>
-        <li><a href="https://pirati.cz/program/">Seznam programových dokumentů Pirátů</a>Metodika odměňování</li>
+        <li><a href="https://pirati.cz/program/">Seznam programových dokumentů Pirátů</a></li>
         <li><a href="https://pirati.cz/aktuality/">Tiskové zprávy a stanoviska</a></li>
       </ul>
   - title: Oběh dokumentů
@@ -38,7 +38,7 @@
       <p>Každý občan si může prohlédnout, jaké píšeme a dostáváme dopisy a jak rychle vyřizujeme věci. Díky sdílení se i navzájem inspirujeme!</p>
       <ul>
         <li><a href="https://redmine.pirati.cz/projects/ps/wiki/Podatelna">Podatelny</a></li>
-        <li><a href="https://github.com/pirati-byro">Repozitáře spisové služby/a></li>
+        <li><a href="https://github.com/pirati-byro">Repozitáře spisové služby</a></li>
       </ul>
   - title: Přehledy
     content: |
@@ -55,7 +55,7 @@
       <p>Členové pirátů nejsou mrtvé duše, jak to je někdy u starých politických stran.</p>
       <ul>
         <li><a href="https://pirati.cz/lide/">Významné osobnosti</a></li>
-        <li><a href="https://pirati.cz/kontakt/">Kontakty na členy orgánů apod</a></li>
+        <li><a href="https://pirati.cz/kontakt/">Kontakty na členy orgánů apod.</a></li>
         <li><a href="https://forum.pirati.cz/celostatni-forum-g47.html">Seznam členů strany</a></li>
       </ul>
   - title: Seznam schůzek
@@ -63,9 +63,10 @@
       <p>Máme transparentní pravidla pro schůzky s ostatními politiky a lobbisty. Nemáme žádné tajné schůzky s lobbisty. Navzájem se kontrolujeme, kdo co dělá.</p>
       <ul>
         <li><a href="https://www.pirati.cz/rules/prl">Předpis o lobbingu</a></li>
-        <li><a href="https://forum.pirati.cz/oznameni-f595/evidence-lobbistickych-kontaktu-t13315.html#p161386">Starý registr kontaktů</a></li>
-        <li><a href="https://redmine.pirati.cz/issues?query_id=13">Nový registr kontaktů</a></li>
+        <li><a href="https://forum.pirati.cz/oznameni-f595/evidence-lobbistickych-kontaktu-t13315.html#p161386">Registr kontaktů na fóru</a></li>
+        <li><a href="https://redmine.pirati.cz/issues?query_id=13">Registr schůzek na redmine</a></li>
       </ul>
+      <p>Další údaje najdete na stránkách daného člověka (např. veřejný diář schůzek) či v jeho výkazu práce na redmine.</p>
   - title: Kontrolní orgány
     content: |
       <p>Snažíme se o maximální transparenci a co nejlepší práci. Pokud máte podezření na nekalé jednání některého člena či voleného funkcionáře Pirátů, můžete se na nás <a href="https://redmine.pirati.cz/projects/kk/issues/new">anonymně obrátit</a>.</p>
