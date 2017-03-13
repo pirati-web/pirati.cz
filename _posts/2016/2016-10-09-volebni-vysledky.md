@@ -18,9 +18,9 @@ Příznivou zprávou je i postup dvou kandidátů s podporou Pirátů, kteří s
 
 > „Při každých volbách sledujeme klesající procento lidí, kteří přijdou k volbám. Úkolem pro všechny politiky, nikoliv pouze pro Piráty, je tento trend zvrátit. Není žádoucí, aby se velké strany praly i o ten zbytek aktivních voličů. Všechny strany mluví o nedůvěře lidí v politiku, ale reálně bohužel pro navrácení důvěry v politiku nic nedělají ani se o to nesnaží. Paradoxně z toho pak těží strany, které se zcela vzdálily od funkce politických stran - tedy reprezentovat skutečné zájmy svých voličů a měnit je v konkrétní kroky při řízení země. Pokud se další vývoj bude ubírat tímto směrem, Česko se změny nedočká.“ komentuje nízkou volební účast i nové rozložení politických sil v rámci krajů Ivan Bartoš, předseda Pirátské strany.
 
-### Úspěšní kandidáti v krajských volbách 2016 za Piráty
+## Úspěšní kandidáti v krajských volbách 2016 za Piráty
 
-#### Karlovarský kraj:
+### Karlovarský kraj:
 
 Ing. Josef Janů (47), stavební inženýr, předseda Volejbalového klubu, Karlovy Vary
 Člen Republikového výboru České pirátské strany, člen kontrolního výboru zastupitelstva města Karlovy Vary
@@ -32,7 +32,7 @@ Ing. arch. Vojtěch Franta (31), místostarosta města Mariánské Lázně, arch
 
 [Profily kandidátů Karlovarského kraje](http://piratikvk.cz/)
 
-#### Královéhradecký kraj
+### Královéhradecký kraj
 
 Ing. Martin Jiránek (38), marketingový poradce regionálních firem a zastupitel města Trutnova, Trutnov
 
@@ -42,14 +42,14 @@ Ing. Martin Jiránek (38), marketingový poradce regionálních firem a zastupit
 
 [Profil Martina Jiránka](http://www.piratiazeleni.cz/kandidati/martin_jiranek)
 
-#### Jihomoravský kraj
+### Jihomoravský kraj
 
 Ivo Vašíček (54), Manažer a pedagog, Čejkovice
 Místopředseda České pirátské strany
 
 [Profil Iva Vašíčka](http://www.zeleniapiratijmk.cz/vasicek/)
 
-#### Postupující kandidáti do Senátu s podporou Pirátů
+### Postupující kandidáti do Senátu s podporou Pirátů
 
 Renata Chmelová (45), aktivistka za Prahu 10, Dubeč a Štěrboholy Koalice Vlasta – koalice s podporou Pirátů, LES a KDU-ČSL
 
@@ -59,7 +59,7 @@ Ladislav Kos (58), podnikatel v oblasti chemie za Prahu 11 Hnutí pro Prahu 11 s
 
 [Profil Ladislava Kose](http://www.kosdosenatu.cz/)
 
-### Kontakty
+## Kontakty
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770

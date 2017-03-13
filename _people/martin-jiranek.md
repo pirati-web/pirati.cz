@@ -7,7 +7,7 @@ img: people/martin-jiranek.jpg           # 165 x 220
 description: Zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
 mail:
 - martin.jiranek@pirati.cz
-mob:
+mob: +420 777 719 282
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
