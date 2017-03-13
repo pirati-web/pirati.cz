@@ -18,6 +18,7 @@ tags:
 facebook: https://www.facebook.com/CeskaPiratskaStranaPraha/
 redmine: https://redmine.pirati.cz/projects/kspraha/
 forum: https://forum.pirati.cz/praha-f78/
+url: http://praha.pirati.cz
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
