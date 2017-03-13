@@ -31,12 +31,17 @@
 {% endif %}
 {% if page.url contains 'pripoj-se' %}
 
-$( function() {
-  $( "#tabs" ).tabs({"active":1});
-} );
-$( function() {
-  $( document ).tooltip();
-} );
+	$( function() {
+	  $( "#tabs" ).tabs({"active":1});
+	} );
+	$( function() {
+	  $( document ).tooltip();
+	} );
+	
+	{% include js/subscription-forms.js %}
+
 {% endif %}
+
+
 {% include js/back-top.js %}
 </script>
