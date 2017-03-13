@@ -23,14 +23,14 @@ Rozhodování Ústavního soudu v online přenosu sledovali dnes (22. února) ú
 > „Od vystoupení Kamila Tichého na konferenci Digitální Česko pořádané 16. ledna pracujeme s informací, že ministerstvo obrany pod vedením Martina Stropnického již nakoupilo potřebnou sledovací technologii. Schválení zákona je tedy dle mého názoru opět opičárna pro občany a je pouze formální. Tuto informaci patrně omylem poskytl na konferenci Kamil Tichý, zástupce ředitele Národního centra kybernetických sil,“ komentuje další kritickou legislativu předseda Pirátů Ivan Bartoš.
 V této souvislosti je potřeba připomenout, že plošné sledování tedy sběr provozních a lokalizačních dat spojených s konrétními uživateli a jejich uchovávání pro jiné než provozní účely je v Evropské unii ilegální. Rozhodl o tom v prosinci 2016 Evropský soudní dvůr. Legislativa, která ukládá provozovatelům povinnost plošně sbírat data o elektronické a telefonické komunikaci uživatelů, je v rozporu s právem EU, jež povoluje pouze cílený sběr dat v případě vyšetřování závažného trestného činu.
 
-#### Související odkazy
+### Související odkazy
 
 * [Babišův zákon o cenzuře Internetu míří k Ústavnímu soudu](https://www.pirati.cz/tiskove-zpravy/pirati_splnili_slib_-_babisuv_zakon_o_cenzure_internetu_miri_k_ustavnimu_soudu?s[]=vrecionov%C3%A1)
 * [Tematická konference Stát vs. svoboda internetu](http://www.tuesday.cz/akce/stat-vs-svoboda-internetu/program/)
 * [Ministerstvo financí stále neřeklo, jakým způsobem přistoupí k cenzurním paragrafům loterijního zákona](https://www.pirati.cz/tiskove-zpravy/ministerstvo_stale_nereklo_jakym_zpusobem_pristoupi_k_cenzurnim_paragrafum_loterijniho_zakona?s[]=jak%C3%BDm&s[]=zp%C5%AFsobem&s[]=p%C5%99istoup%C3%AD&s[]=cenzurn%C3%ADm&s[]=paragraf%C5%AFm&s[]=loterijn%C3%ADho&s[]=z%C3%A1kona)
 * [Plošný sběr dat je v EU ilegální, rozhodl Evropský soudní dvůr](https://www.pirati.cz/tiskove-zpravy/plosny_sber_dat_je_v_evropske_unii_ilegalni_rozhodl_evropsky_soudni_dvur._legislativu_musi_zmenit_svedsko_velka_britanie_i_ceska_republika)
 
-#### Kontakty
+### Kontakty
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770

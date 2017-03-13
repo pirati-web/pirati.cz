@@ -16,13 +16,13 @@ Myšlenka základního nepodmíněného příjmu se snaží reagovat právě na 
 
 > „Už nyní v mnoha odvětvích produkce roste, zatímco počet pracujících klesá. Výsledkem je rostoucí nabídka produktů při klesající kupní síle. Pro udržení funkční tržní ekonomiky je proto nutné zachovat poptávku, kterou vytváří spotřeba obyvatel. Roboti nic nakupovat nebudou,“ komentuje nutnost zahájit diskusi na toto téma i v Česku místopředseda Pirátů Ivo Vašíček.
 
-#### Související odkazy
+### Související odkazy
 
 * [Prezentace ze semináře](http://www.slideshare.net/kelantutkimus/reasons-to-experimenting-basic-income-in-finland)
 * [Studie OECD](http://www.oecd.org/employment/Automation-and-independent-work-in-a-digital-economy-2016.pdf)
 * [Žádná práce a zaručený příjem od státu, roboti změní naše životy, tvrdí Musk](http://www.forbes.cz/zadna-prace-a-zaruceny-prijem-od-statu-roboti-zmeni-nase-zivoty-tvrdi-musk/)
 
-#### Kontakt
+### Kontakt
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770 
 * [PaedDr. Ivo Vašíček](https://www.pirati.cz/lide/ivo_vasicek), [ivo.vasicek@pirati.cz](mailto:ivo.vasicek@pirati.cz), místopředseda Pirátů

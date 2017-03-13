@@ -19,12 +19,12 @@ Pro volby 2017 Piráti představí svůj aktualizovaný širokospektrý program.
 
 > „Máme možnost se s politiky i se specialisty z opačné strany barikády setkávat na diskusích, kde ovšem primárně ve velmi krátkém čase prezentujeme každý své postoje. Politika, resp. nepopulistická politika, nevzniká pro palcové titulky a zájem medií. Ať už bude výsledkem plánovaných konzultací cokoliv: získání nových pohledů, vyjasnění si sporných částí, zasazení do konceptu celostátní politiky, nebo naopak tvrdé vymezení se a upevnění našich postojů, věřím, že tenhle postup svůj význam má. Jen hlupák je uzavřený do sebe a neschopen reflexe střílí bonmoty v oblastech, kde mu chybí expertiza nebo tvrdá, nejen makroekonomická data. Schůzky máme zapsány v registru kontaktů mimo jiné proto, aby si novináři nemuseli vymýšlet senzační příběhy a veliká odhalení,“ komentuje mediální konstrukt posledních dní předseda Pirátů Bartoš.
 
-#### Související odkazy
+### Související odkazy
 
 * [Informace o všeobecném základním příjmu](https://www.pirati.cz/rp/program/prac/psoc/vzp)
 * [Programový bod Sociální systém Pirátského programu](https://www.pirati.cz/program/socialni_system)
 * [Zaručený příjem pro všechny. Finsko ho otestuje jako první stát EU](http://zpravy.idnes.cz/zaruceny-prijem-pro-vsechny-finsko-d6a-/zahranicni.aspx?c=A160826_062000_zahranicni_pas)
 
-#### Kontakt
+### Kontakt
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378

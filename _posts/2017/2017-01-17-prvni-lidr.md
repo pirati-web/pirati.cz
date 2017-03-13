@@ -18,11 +18,11 @@ Piráty povede do parlamentních voleb Ivan Bartoš
 
 Už tento víkend vyráží čerstvě zvolený lídr na tři krajské pirátské srazy. V pátek 20. ledna přijede Ivan Bartoš na setkání v Mladé Boleslavi ve Středních Čechách, které si pravděpodobně vybere jako svůj volební obvod do parlamentních voleb. O den později podpoří svou účastí pirátské akce v Liberci a v Ústí nad Labem. Na programu krajských otevřených setkání je představení Pirátů veřejnosti a diskuze na horká místní témata, pirátský program na letošní rok a primární volby pro obsazení kandidátek, které jsou rovněž otevřené pro programově spřízněné subjekty i jednotlivce.
 
-#### Volební systém použitý pro volbu leadera
+### Volební systém použitý pro volbu leadera
 
 V prvním kole volby mají zúčastnění dva hlasy, mohou tedy hlasovat pro oba kandidáty. Do druhého kola postupují pouze ti s nadpoloviční podporou. Ivan Bartoš tedy zvítězil již v prvním kole. Výsledky hlasování jsou dostupné [zde](https://forum.pirati.cz/hlasovani-celostatniho-fora-f475/cf-19-2016-volba-celostatniho-lidra-hlasovani-1-kolo-t35741.html)
 
-#### Související odkazy
+### Související odkazy
 
 * [Výsledky hlasování](https://forum.pirati.cz/hlasovani-celostatniho-fora-f475/cf-19-2016-volba-celostatniho-lidra-hlasovani-1-kolo-t35741.html)
 * [Profil Ivana Bartoše](https://www.pirati.cz/lide/Ivan_Bartos)
@@ -31,7 +31,7 @@ V prvním kole volby mají zúčastnění dva hlasy, mohou tedy hlasovat pro oba
 * [FB událost Krajské setkání Pirátů Libereckého kraje](https://www.facebook.com/events/249433425478071/)
 * [FB událost Krajské setkání Pirátů Ústeckého kraje.](https://www.facebook.com/events/372410589781993/)
 
-#### Kontakt
+### Kontakt
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
 * [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/Ivan_Bartos), Ph.D., [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů a celostátní lídr pro volby 2017, 603 415 378
