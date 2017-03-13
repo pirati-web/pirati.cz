@@ -6,6 +6,15 @@
 
 Instalacee na Fedora 25: `dnf install rubygem-jekyll`
 
+Instalace ubuntu 16.04: 
+
+```
+sudo apt-get install ruby-dev gcc make libghc-zlib-dev 
+gem install rubygems-update 
+gem install jekyll bundler
+bundle
+```
+
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
 `jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
