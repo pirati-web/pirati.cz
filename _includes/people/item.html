@@ -4,7 +4,7 @@
       <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}{{item.title}}"> </div>
     <div class="o-media__body">
       <h2 class="o-media__headline">
-        {% if item.url | truncate: 2 == 'http' %}
+        {% if item.url contains 'http' %}
           {% assign url = item.url %}
         {% else %}
           {% assign url = item.url | relative_url %}
