@@ -18,7 +18,7 @@ tags:
 facebook: https://www.facebook.com/CeskaPiratskaStranaPraha/
 redmine: https://redmine.pirati.cz/projects/kspraha/
 forum: https://forum.pirati.cz/praha-f78/
-# do popisku akce níže vložte, jak se tým schází
+# do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
 Máme 4 Piráty na pražském Magistrátu a 11 zastupitelů na městských částech.
