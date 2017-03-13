@@ -12,7 +12,7 @@
               <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
         </h3>
         <div class="c-content-card-content">
-        {% if item.category contains 'program' %}<p>Garant: {{ item.vedouci }}</p>{% endif %}
+        {% if item.category contains 'program' %}<p>Garant: {{ item['vedoucí týmu'] }}</p>{% endif %}
           <p>{{item.excerpt}}</p>
         </div>
         <div class="c-content-card-meta">
