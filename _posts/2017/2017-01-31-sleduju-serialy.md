@@ -23,7 +23,7 @@ V projednávané věci sice byla obviněná kontaktována Českou protipirátsko
 
 #### Odkaz na usnesení soudu
 
-* [Usnesení Městského soudu pro Prahu 4](Usnesení městského soudu pro Prahu 4)
+* [Usnesení Městského soudu pro Prahu 4]({{ '/assets/pdf/pirati_436871814_0_usnesenizastaveni.pdf' | relative_url}})
 
 #### Kontakt
 
