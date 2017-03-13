@@ -1,15 +1,24 @@
 ---
 name: Krajské sdružení Praha
 img: teams/praha.jpg
+vedoucí týmu: Ondřej Profant
+zástupci:
+- Tomáš Murňák
+- Pavel Hájek
+- Viktor Mahrik
+- Roman Kučera
 kontaktní osoba:
 - Michal Jokeš
-- Ondřej Profant
 region: Praha
 url: http://praha.pirati.cz
 categories:
 - regiony
 tags:
 - praha
+facebook: https://www.facebook.com/CeskaPiratskaStranaPraha/
+redmine: https://redmine.pirati.cz/projects/kspraha/
+forum: https://forum.pirati.cz/praha-f78/
+# do popisku akce níže vložte, jak se tým schází
 ---
 
 Máme 4 Piráty na pražském Magistrátu a 11 zastupitelů na městských částech.
@@ -22,3 +31,6 @@ Možnosti zapojení:
   vždy první čtvrtek v měsíci v Pirátském centru od 18:00.
 * Přijďte se podívat na **Pirátská úterý**, což jsou pravidelné
   přednášky pro veřejnost, v Pirátském centru od 18:00 hodin.
+
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+abyste se ujistili, že akce bude.
