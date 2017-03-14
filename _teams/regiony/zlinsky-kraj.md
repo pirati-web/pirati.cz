@@ -1,0 +1,29 @@
+---
+name: Krajské sdružení Zlínského kraje
+img: teams/zlin.jpg
+vedoucí týmu: Josef Hruboš
+zástupci:
+- Kamila Gáliková
+- Jaromír Fojtů
+kontaktní osoba:
+- Eliška Holšánová
+region: Zlínský kraj
+url: https://www.pirati.cz/regiony/zlinsko/start
+categories:
+- regiony
+tags:
+- zlinsky-kraj
+facebook: https://www.facebook.com/piratizl
+redmine: https://redmine.pirati.cz/projects/zlinsky-kraj
+forum: https://forum.pirati.cz/zlinsky-kraj-f82/
+# do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
+---
+
+Jsme krajské sdružení Pirátů v Zlínském kraji! Máme regionální organizace ve Valašském Meziříčí a ve Vsetíně. Působíme ale v celém  kraji!
+
+Možnosti zapojení:
+
+Pravidelná setkání se konají v různých místech Zlínského kraje jednou měsíčně. Sledujte náš [Facebook](https://www.facebook.com/pg/piratizl/events/).
+
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+abyste se ujistili, že akce bude. Pro bližší informace napište koordinátorce Elišce Holšánové na eliska.holsanova(аt)pirati.cz.
