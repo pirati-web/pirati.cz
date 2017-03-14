@@ -1,5 +1,5 @@
 <div class="text-right show-for-medium-up">
-      <a href="https://github.com/pirati-web/pirati.cz/edit/gh-pages/{{ page.path }}" class="button secondary">
+      <a href="https://github.com/pirati-web/pirati.cz/edit/gh-pages/{{ page.path }}" class="label secondary" style="background-color:#bbb">
           <i class="fa fa-pencil"></i>
  Navrhni úpravu</a>
 </div>
@@ -23,7 +23,7 @@
               <h3 class="c-vertical-navigation__title">O nás</h3>
               <ul class="c-vertical-navigation-items">
                 <li class="c-vertical-navigation__item">
-                  <a href="{{ '/lide/' | relative_url }}">Tým</a>
+                  <a href="{{ '/lide/' | relative_url }}">Lidé</a>
                 </li>
                 <li class="c-vertical-navigation__item">
                   <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
@@ -45,17 +45,19 @@
               <h3 class="c-vertical-navigation__title">Připoj se</h3>
               <ul class="c-vertical-navigation-items">
                 <li class="c-vertical-navigation__item">
-                  <a href="#">Členství</a>
+                  <a href="{{ '/pripoj-se/' | relative_url }}">Dej nám vedět</a>
                 </li>
                 <li class="c-vertical-navigation__item">
-                  <a href="#">Stáže</a>
+                  <a href="{{ '/pripoj-se/tymy/' | relative_url }}">Naše týmy</a>
                 </li>
+<!--
                 <li class="c-vertical-navigation__item">
                   <a href="#">Přispěj</a>
                 </li>
                 <li class="c-vertical-navigation__item">
                   <a href="#">Nezávislý aktivista</a>
                 </li>
+-->
               </ul>
             </nav>
           </div>
@@ -63,16 +65,16 @@
             <nav class="c-vertical-navigation u-center-medium-only">
               <h3 class="c-vertical-navigation__title">Makáme</h3>
               <ul class="c-vertical-navigation-items">
-                <li class="c-vertical-navigation__item">
-                  <a href="#">Aktivity</a>
+                  <li class="c-vertical-navigation__item">
+                    <a href="{{ '/aktuality/' | relative_url }}">Aktuality</a>
+                  </li>
+                                  <li class="c-vertical-navigation__item">
+                  <a href="{{ '/pripoj-se/kalendar/' | relative_url }}">Kalendář</a>
                 </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="#">Kalendář</a>
-                </li>
+<!--
                 <li class="c-vertical-navigation__item">
                   <a href="#">Pro členy</a>
                 </li>
-                <!--
                 <li class="c-vertical-navigation__item">
                   <a href="#">Udělali jsme pro vás</a>
                 </li>-->

@@ -19,11 +19,10 @@ ordpraha: 1
 ordrp: 4
 ordcar: 3
 carousel:
-  img: jakub-michalek.png
+  img: jakub-michalek.jpg
   text: |
-    <p>Předseda zastupitelského klubu Pirátů v Praze</p>
-    <p>Jakub Michálek (* 6. února 1989 Louny) je právník zaměřující se na svobodný přístup k informacím a autorské právo. Je předsedou zastupitelského klubu čtyř Pirátů v Praze; místopředseda strany a předseda Kontrolní komise.</p>
-    <p>V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví a navrhl a prosadil participativní rozpočet.</p>
+    <p><strong>Předseda pražských zastupitelů</strong> za Piráty, místopředseda Pirátské strany a garant volebního programu pro vnitro a veřejnou správu.</p>
+    <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník a nyní i jako šéf pražských zastupitelů na plný úvazek. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
 ---
 
 Jakub Michálek (* 6. února 1989 Louny) je předsedou zastupitelského klubu Pirátů v Praze, člen republikového předsednictva Pirátské strany a místopředseda Pirátů. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.

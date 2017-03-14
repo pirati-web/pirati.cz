@@ -10,8 +10,8 @@
   <div class="c-Person-preview-contentBox">
     <!-- Person Image -->
     <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-Person-preview__image" itemscope="">
-      <img src="{{ person.img | prepend: '/assets/img/'}}" alt="{{person.name}}" style="width: 92px">
-      <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/'}}"> </div>
+      <img src="{{ person.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}" style="width: 92px">
+      <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
     <!-- Person description -->
     <p itemprop="description" class="c-Person-preview-content">{{person.description}}</p>
   </div>
