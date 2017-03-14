@@ -1,4 +1,6 @@
+{% if contains 'regiony' %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.1/raphael.min.js"></script>
+{% endif %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.js"></script>
@@ -30,7 +32,6 @@
 {% include js/kraje.js %}
 {% endif %}
 {% if page.url contains 'pripoj-se' %}
-
 $( function() {
   $( "#tabs" ).tabs({"active":1});
 } );
