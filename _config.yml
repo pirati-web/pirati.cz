@@ -25,6 +25,10 @@ gems:
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 sass:
     style: compressed
 
@@ -40,18 +44,16 @@ collections:
     output: true
     permalink: /pripoj-se/:path/
 
-
-
 defaults:   # defaults values for collection scope
   -
     scope:
-      collection: people
+      path: "_people"
     values:
       layout: "page"
       rbar: "people, foto"
   -
     scope:
-      collection: program
+      path: "_program"
     values:
       layout: "page"
       rbar: "toc"
