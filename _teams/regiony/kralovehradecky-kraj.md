@@ -25,5 +25,5 @@ Možnosti zapojení:
 
 * Kontaktujte předsedu krajského sdružení pro Královéhradecký kraj Pavla Bulíčka (pavel.bulicek(at)pirati.cz). V nepravidelných intervalech se v Hradci Králové konají setkání Pirátů.
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.

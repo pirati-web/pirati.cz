@@ -27,5 +27,5 @@ Máme svého zastupitele v zastupitelstvu Jihomoravského kraje (Ivo Vašíček)
 
 Možnosti zapojení:
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude. Pro bližší informace napište koordinátorovi Michalu Vítovi na michal.vit(аt)pirati.cz

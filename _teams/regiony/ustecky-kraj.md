@@ -25,5 +25,5 @@ Možnosti zapojení:
 
 * Kontaktujte koordinátora pro ústecký kraj Miroslava Brože (miroslav.broz(at)pirati.cz). V nepravidelných intervalech se v Ústí nad Labem a dalších městech kraje konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/pirati.ulk/events/) a náš [twitter](https://twitter.com/PiratiUstecko).
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.

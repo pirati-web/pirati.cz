@@ -25,5 +25,5 @@ Možnosti zapojení:
 
 Pravidelná setkání se konají v různých místech Zlínského kraje jednou měsíčně. Sledujte náš [Facebook](https://www.facebook.com/pg/piratizl/events/).
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude. Pro bližší informace napište koordinátorce Elišce Holšánové na eliska.holsanova(аt)pirati.cz.

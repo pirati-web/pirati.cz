@@ -27,5 +27,5 @@ Možnosti zapojení:
 
 * Kontaktujte koordinátorku pro Jihočeský kraj Janu Rohovou na jana.rohova(аt)pirati.cz. Aktivní sdružení Pirátů jsou v Českých Budějovicích, Písku, Strakonicích a v Jindřichově Hradci.
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude. Sledujte náš [Facebook](https://www.facebook.com/pg/pirati.jck/events/)

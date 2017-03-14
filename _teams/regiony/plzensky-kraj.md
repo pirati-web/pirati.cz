@@ -28,5 +28,5 @@ Možnosti zapojení:
 
 * Kontaktujte koordinátorku pro Plzeňský kraj Miluši Kotišovou (milus.kotisova(at)pirati.cz). V nepravidelných intervalech se v Plzni konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/plzenska.piratska.strana/events/). 
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.

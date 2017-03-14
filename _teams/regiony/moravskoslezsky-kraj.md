@@ -27,5 +27,5 @@ Možnosti zapojení:
 
 Kontaktujte koordinátora Pirátů pro Moravskoslezský kraj, Michala Gilla na michal.gill(аt)pirati.cz pro více informací o nadcházejících akcích!
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ /pripoj-se/kalendar/ | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
