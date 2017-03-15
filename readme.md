@@ -37,3 +37,5 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 **CSS** je ve složce `_sass` a je automaticky kompilováno a minifikován do jednoho souboru `main.css`.
 
 **JavaScript** je ve složce `_include/js`. Knihovny jsou linkovány skrze CDN v minifikované podobě. Další JS je v spojen do jednoho scriptu bez minifikace (zatím).
+
+Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)

@@ -1,0 +1,17 @@
+---
+---
+[
+  {% for person in site.people %}
+    {
+      "name"     : "{{ person.name | escape }}",
+      "fullname" : "{{ person.fullname }}",
+      "category" : "{{ person.categories | join: ' ' }}",
+      "img"      : "{{ person.img }}",
+      "mail"     : "{{ person.mail | join: ','}}",
+      "mob"      : "{{ person.mob | join: ','}}",
+      "profiles" : "{{ person.mail | join: ','}}",
+      "content"	 : "{{ person.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url"      : "{{ person.url | relative_url}}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
