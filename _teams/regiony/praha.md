@@ -1,4 +1,5 @@
 ---
+cid: praha
 name: Praha
 fullname: Krajské sdružení Praha
 img: teams/praha.jpg

@@ -1,6 +1,7 @@
 ---
 name: Karlovarský kraj
 fullname: Krajské sdružení Karlovarský kraj
+cid: vary
 img: teams/karlovy-vary.jpg
 vedoucí týmu: Ing. Petr Třešňák
 zástupci:
@@ -21,7 +22,7 @@ twitter: https://twitter.com/Pirati_KaKr
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Hájí nás tři stateční zastupitelé na úrovni celého kraje. V Mariánských Lázních je starostou historicky první Pirát, a to Petr Třešňák. V obecním zastupitelstvu s ním zasedají další čtyři Piráti, a to Ondřej Knotek, Vojtěch Franta, Zdeněk Třešňák a Martin Kalina. V obci Valeč je naším zastupitelem Josef Úlehla. 
+Hájí nás tři stateční zastupitelé na úrovni celého kraje. V Mariánských Lázních je starostou historicky první Pirát, a to Petr Třešňák. V obecním zastupitelstvu s ním zasedají další čtyři Piráti, a to Ondřej Knotek, Vojtěch Franta, Zdeněk Třešňák a Martin Kalina. V obci Valeč je naším zastupitelem Josef Úlehla.
 
 Možnosti zapojení:
 

@@ -1,4 +1,5 @@
 ---
+cid: hradec
 name: Královéhradecký kraj
 fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
@@ -15,7 +16,7 @@ categories:
 tags:
 - královéhradecký-kraj
 facebook: https://www.facebook.com/pirati.khk/
-redmine: 
+redmine:
 forum: https://forum.pirati.cz/kralovehradecky-kraj-f86/
 twitter: https://twitter.com/PiratiKhk
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit

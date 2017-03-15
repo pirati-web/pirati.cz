@@ -1,11 +1,10 @@
 $( function() {
-    var settings = {{ site.data.kraje-settings | jsonify }};
-    var regions = {{ site.data.kraje | jsonify }};
+  var makemap = function(data) {
+    var settings = data[0].settings;
 
     $(settings.id).width(settings.size.width);
     $(settings.id).height(settings.size.height);
     var R = Raphael(settings.id, settings.size.width, settings.size.height);
-
 
     $("#region-description>div").hide();
 
@@ -14,6 +13,7 @@ $( function() {
     var reg_list = $('#regions-list');
     var reg_list2 = $('#regions-list-2');
 
+    var regions = data[0].regions;
     $.each(regions, function(index, region) {
       if(i < 7 ) {
         var li = $('<li/>').appendTo(reg_list);
@@ -24,18 +24,15 @@ $( function() {
       }
       i++;
 
-      /* Create path for one region */
       var custom_attrs = {"title": region.name};
       var attrs = $.extend(settings.region_attrs, custom_attrs);
 
-      /* Black of colorful regions schema */
       if(settings.colors) {
         region.color = Raphael.getColor();
       } else {
         region.color = "#666";
       }
       var path_def = null;
-
       var reg_id = region.id;
 
       $.each(region.paths, function(index, path) {
@@ -43,7 +40,7 @@ $( function() {
           settings.size.scale,
           settings.size.scale,
           0,0).attr(attrs);
-          /* Functions */
+
           var click = function() {
             window.open(region.url);
           };
@@ -63,4 +60,9 @@ $( function() {
           path[0].onmouseout = out;
       });
     });
+  };
+
+  $.get("{{'api/regions.json' | relative_url }}")
+    .done(function(data) { makemap(data); })
+    .fail(function(data) { console.log("Error: map"); });
 });

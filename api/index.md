@@ -10,6 +10,7 @@ Přístupné je:
 - program: [/api/program.json]({{'/api/program.json' | relative_url}})
 - lidé: [/api/people.json]({{'/api/people.json' | relative_url}})
 - týmy: [/api/teams.json]({{'/api/teams.json' | relative_url}})
+  - regiony: [/api/regions.json]({{'/api/regions.json' | relative_url}})
 - stručný obsah [/api/search.json]({{'/api/search.json' | relative_url}})
 
 ## Přístup
