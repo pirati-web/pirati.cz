@@ -28,3 +28,10 @@ rbar: ""
     <!-- /. o-section -->
   </div>
 </div>
+
+{% comment %}
+{% assign program = site.program | where: "category","psp2017" %}
+<ul>{% for p in program %}
+  <li><a href="{{p.url | relative_url}}">{{p.title}}</a></li>
+{% endfor %}</ul>
+{% endcomment %}
