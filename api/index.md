@@ -1,7 +1,8 @@
 ---
+layout: null
 ---
 
-# pirati.cz/api
+# [pirati.cz]({{'/' | relative_url}})/api
 
 Přístupné je:
 
@@ -32,7 +33,11 @@ $.get('/api/search.json')
 
 ```python
 from urllib.request import urlopen
-url = 'localhost:4000/api/search.json'
+from json import loads
+
+url = 'http://localhost:4000/api/search.json'
+
 response = urlopen(url)
 text = response.read().decode("utf-8")
+var = loads(text)
 ```
