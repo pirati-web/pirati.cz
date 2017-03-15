@@ -1,5 +1,4 @@
 $( function() {
-  console.log('Hello world');
 
   var mail = $("#mail");
   var mailsub = $("#mailsub");
@@ -22,15 +21,17 @@ $( function() {
   });
   mailsub.click();
 
-  var availableNames = [
-    {% for post in site.posts %}{ label: "{{ post.title }}", value: "{{ post.url | relative_url }}" },{% endfor %}
-    {% for person in site.people %}{ label: "{{ person.name }}", value: "{{ person.url | relative_url }}" },{% endfor %}
-    {% for page in site.pages %}{ label: "{{ page.title }}", value: "{{ page.url | relative_url }}" },{% endfor %}
-  ];
-  search.autocomplete({
-    source: availableNames,
-    select: function( event, ui ) {
-      window.location.href = ui.item.value;
-    }
-  });
+  $.get("{{'api/search.json' | relative_url}}")
+      .done(function(availableNames) {
+        search.autocomplete({
+          source: availableNames,
+          select: function( event, ui ) {
+            window.location.href = ui.item.value;
+          }
+        });
+      })
+      .fail(function(data) {
+          console.log('Error in search:');
+          console.log(data);
+      });
 });

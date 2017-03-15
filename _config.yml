@@ -26,6 +26,7 @@ paginate_path: "/aktuality/:num/"
 paginate: 11
 
 exclude:
+  - readme.md
   - Gemfile
   - Gemfile.lock
 
