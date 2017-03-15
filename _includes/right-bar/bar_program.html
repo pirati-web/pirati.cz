@@ -1,0 +1,35 @@
+<div class="o-section-block--spaceBot show-for-large">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Program</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          <h4 class="c-widget-accordion-list__heading">Dlouhodobý program</h4>
+          <ul class="c-widget-accordion-list">
+            {% assign program = site.program | where: "category","dlouhodoby" | group_by:"topic" %}
+            {% for topic in program %}
+              {{topic.name}}<ul>
+              {% for item in topic.items %}
+              <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>
+              {% endfor %}</ul>
+              {% endfor%}
+          </ul>
+          <!--
+          <h4 class="c-widget-accordion-list__heading">Parlament 2017</h4>
+          <ul class="c-widget-accordion-list">
+            {% assign program = site.program | where: "category","psp2017" %}
+            {% for item in program %}
+            <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>
+            {% endfor %}
+          </ul>
+          -->
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

@@ -7,7 +7,7 @@ topic: Hospodářství
 
 Prosazujeme přehledné a spravedlivé daně, ze kterých lze financovat kvalitní veřejné služby. Pokud navíc lidé uvidí, že s jejich penězi stát hospodaří efektivně, budou mít při placení daní lepší pocit.
 
-Naším cílem je vyrovnání veřejných rozpočtů a odstranění dluhu v rámci reformy [finančního systému][finance]. Výdaje uspoříme zejména díky [průhlednému hospodaření][transparance] úřadů, [e-governmentu][e-government], snížení byrokracie a zavedení [majetkové odpovědnosti][sluzebni-zakon] politiků a úředníků. Odmítáme zvyšování daní, dokud nebudou vybrané prostředky využívány hospodárně.
+Naším cílem je vyrovnání veřejných rozpočtů a odstranění dluhu v rámci reformy [finančního systému][finance]. Výdaje uspoříme zejména díky [průhlednému hospodaření][transparence] úřadů, [e-governmentu][e-government], snížení byrokracie a zavedení [majetkové odpovědnosti][sluzebni-zakon] politiků a úředníků. Odmítáme zvyšování daní, dokud nebudou vybrané prostředky využívány hospodárně.
 
 Prosazujeme následující principy pro zdanění:
 
