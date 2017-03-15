@@ -16,12 +16,11 @@ tags:
 facebook: https://www.facebook.com/cpslbc/
 redmine: https://redmine.pirati.cz/projects/liberecky-kraj
 forum: https://forum.pirati.cz/liberecky-kraj-f87/
+twitter: https://twitter.com/piratilik
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Libereckém kraji!
-
-Sledujeme, co se děje v celém kraji.
+Máme 2 zastupitele v České Lípě (Tomáše Martínka a Jiřího Wawrečku), jednoho v Mimoni (Jindřicha Krouse).
 
 Možnosti zapojení:
 

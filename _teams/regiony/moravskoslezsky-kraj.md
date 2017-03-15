@@ -21,7 +21,7 @@ twitter: https://twitter.com/PiratiMSK
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Moravskoslezském kraji! Aktivní jsme na území celého kraje. Místní sdružení máme také v Karviné.
+V Opavě máme dva nezávislé zastupitele (Petr Pavlíček, Hana Brňáková). Máme Ostravské pirátské centrum. V Karviné provozujeme místní sdružení Pirátské stany, ale aktivní jsme na území celého kraje!
 
 Možnosti zapojení:
 

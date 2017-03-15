@@ -16,10 +16,11 @@ tags:
 facebook: https://www.facebook.com/pirati.khk/
 redmine: 
 forum: https://forum.pirati.cz/kralovehradecky-kraj-f86/
+twitter: https://twitter.com/PiratiKhk
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Královéhradeckém kraji! Máme svého zastupitele Martina Jiránka v zastupitelstvu Královéhradeckého kraje a také města Trutnova. Aktivní jsme po celém území kraje.
+Máme svého zastupitele Martina Jiránka v zastupitelstvu města Trutnova a Královéhradeckého kraje. Aktivní jsme po celém území kraje.
 
 Možnosti zapojení:
 

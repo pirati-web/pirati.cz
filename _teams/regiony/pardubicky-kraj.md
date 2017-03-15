@@ -19,7 +19,7 @@ forum: https://forum.pirati.cz/pardubicky-kraj-f85/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Pardubickém kraji!
+Jsme krajské sdružení Pirátů v Pardubickém kraji! V Chrudimi máme vlastní Pirátské centrum – CPICE.
 
 Možnosti zapojení:
 

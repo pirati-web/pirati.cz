@@ -15,13 +15,12 @@ tags:
 - kraj-vysocina
 facebook: http://www.facebook.com/pirati.vysocina
 redmine: https://redmine.pirati.cz/projects/kraj-vysocina
-forum: https://forum.pirati.cz/vysocina-f84/
+forum: https://forum.pirati.cz/vysocina-f84/)
+twitter: https://twitter.com/pirativys
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v kraji Vysočina!
-
-Sledujeme, co se děje v celém kraji. Aktivní sdružení Pirátů jsou v Plzni a v Tachově.
+V Chotěboři a Havlíčkově Brodě máme místní sdružení, aktivně ale působíme na území celého kraje.
 
 Možnosti zapojení:
 

@@ -17,12 +17,11 @@ tags:
 facebook: https://www.facebook.com/plzenska.piratska.strana
 redmine: https://redmine.pirati.cz/projects/plzensky-kraj
 forum: https://forum.pirati.cz/plzensky-kraj-f89/
+twitter: https://twitter.com/piratskaplzen
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Plzeňském kraji!
-
-Sledujeme, co se děje v celém kraji. Aktivní sdružení Pirátů jsou v Plzni a v Tachově.
+Naším zastupitelem ve Stříbře je Jaroslav Heis. Aktivní sdružení Pirátů jsou v Plzni a v Tachově, ale působíme všude v Plzeňském kraji.
 
 Možnosti zapojení:
 

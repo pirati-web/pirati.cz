@@ -16,10 +16,11 @@ tags:
 facebook: https://www.facebook.com/piratizl
 redmine: https://redmine.pirati.cz/projects/zlinsky-kraj
 forum: https://forum.pirati.cz/zlinsky-kraj-f82/
+twitter: https://twitter.com/PiratePartyZlin
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Zlínském kraji! Máme regionální organizace ve Valašském Meziříčí a ve Vsetíně. Působíme ale v celém  kraji!
+Místní sdružení máme ve Vsetíně a ve Zlíně, ale působíme na území celého kraje od slovenské hranice až po Uherské Hradiště.
 
 Možnosti zapojení:
 

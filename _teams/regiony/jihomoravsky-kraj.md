@@ -18,12 +18,11 @@ tags:
 facebook: https://www.facebook.com/groups/95998498639
 redmine: https://redmine.pirati.cz/projects/pardubicky-kraj
 forum: https://forum.pirati.cz/pardubicky-kraj-f85/
+twitter: https://twitter.com/PiratiJMK
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Jsme krajské sdružení Pirátů v Jihomoravském kraji! 
-
-Máme svého zastupitele v zastupitelstvu Jihomoravského kraje (Ivo Vašíček) a v Lomnici (Barbara Pavlišová). V Brně máme dva členy Rady města Brna, kteří byli zvoleni na kandidátní listině hnutí Žít Brno (Jiří Ulip a Tomáš Koláčný). Jsme aktivní v Brně a máme svá místní sdružení v Lomnici, na Slovácku a ve Znojmě. 
+Máme svého zastupitele v zastupitelstvu Jihomoravského kraje (Ivo Vašíček) a v Lomnici (Barbara Pavlišová). V Brně máme dva členy Rady města Brna, kteří byli zvoleni na kandidátní listině hnutí Žít Brno (Jiří Ulip a Tomáš Koláčný). Jsme aktivní v Brně – kde máme Pirate Space Brno – a máme svá místní sdružení v Lomnici, na Slovácku a ve Znojmě. 
 
 Možnosti zapojení:
 
