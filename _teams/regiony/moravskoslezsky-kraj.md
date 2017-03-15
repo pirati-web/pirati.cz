@@ -1,4 +1,5 @@
 ---
+cid: ostrava
 name: Moravskoslezský kraj
 fullname: Krajské sdružení Moravskoslezský kraj
 img: teams/ostrava.jpg

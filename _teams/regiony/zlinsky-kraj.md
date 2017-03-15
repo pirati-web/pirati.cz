@@ -1,4 +1,5 @@
 ---
+cid: zlin
 name: Zlínský kraj
 fullname: Krajské sdružení Zlínský kraj
 img: teams/zlin.jpg

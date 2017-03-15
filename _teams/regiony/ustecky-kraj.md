@@ -1,4 +1,5 @@
 ---
+cid: usti
 name: Ústecký kraj
 fullname: Krajské sdružení Ústecký kraj
 img: teams/usti-nad-labem.jpg

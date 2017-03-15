@@ -1,0 +1,24 @@
+---
+---
+
+{% assign regions = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+{% assign map = site.data.region-map %}
+[
+  {"regions":
+      [{% for region in regions %}
+      {% assign id = region.cid %}
+      {
+        "id"       : "{{ id }}",
+        "name"     : "{{ region.name }}",
+        "fullanme" : "{{ region.fullname }}",
+        "category" : "{{ region.categories | join: ' ' }}",
+        "img"      : "{{ region.img | prepend: 'assets/img/' | relative_url }}",
+        "content"	 : "{{ region.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+        "url"      : "{{ region.url | relative_url}}",
+        "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "settings": {{map.settings | jsonify}}
+  }
+]
