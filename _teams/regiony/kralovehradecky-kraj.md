@@ -1,6 +1,6 @@
 ---
 name: Královéhradecký kraj
-fullname: Krajské sdružení Královéhradeckého kraje
+fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
 vedoucí týmu: Pavel Bulíček
 zástupci:

@@ -1,6 +1,6 @@
 ---
 name: Pardubický kraj
-fullname: Krajské sdružení Pardubického kraje
+fullname: Krajské sdružení Pardubický kraj
 img: teams/pardubice.jpg
 vedoucí týmu: Pavel Štěpánek
 zástupci:

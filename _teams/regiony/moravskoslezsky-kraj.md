@@ -1,6 +1,6 @@
 ---
 name: Moravskoslezský kraj
-fullname: Krajské sdružení Moravskoslezského kraje
+fullname: Krajské sdružení Moravskoslezský kraj
 img: teams/ostrava.jpg
 vedoucí týmu: Jiří Demel
 zástupci:

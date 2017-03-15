@@ -1,6 +1,6 @@
 ---
 name: Kraj Vysočina
-fullname: Krajské sdružení na Vysočině
+fullname: Krajské sdružení Vysočina
 img: teams/jihlava.jpg
 vedoucí týmu: Jan Pošvář 
 zástupci:
