@@ -7,9 +7,9 @@ vedoucí týmu: Jiří Demel
 zástupci:
 - Pavel Kořízek
 - Martin Rédr
-- Ing. Radek Simkanič, DiS
+- Radek Simkanič, DiS
 kontaktní osoba:
-- Bc. Michal Gill
+- Michal Gill
 region: Moravskoslezský kraj
 url: https://redmine.pirati.cz/projects/moravskoslezsky-kraj
 categories:
@@ -27,7 +27,7 @@ V Opavě máme dva nezávislé zastupitele (Petr Pavlíček, Hana Brňáková). 
 
 Možnosti zapojení:
 
-Kontaktujte koordinátora Pirátů pro Moravskoslezský kraj, Michala Gilla na michal.gill(аt)pirati.cz pro více informací o nadcházejících akcích!
+Kontaktujte koordinátora Pirátů pro Moravskoslezský kraj, Michala Gilla, na michal.gill(аt)pirati.cz pro více informací o nadcházejících akcích!
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
