@@ -5,4 +5,6 @@ gem "jekyll-redirect-from"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
-gem "html-proofer"
+group :development, :test do
+  gem "html-proofer"
+end
