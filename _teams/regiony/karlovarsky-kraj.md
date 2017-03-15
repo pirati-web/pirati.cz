@@ -2,9 +2,9 @@
 name: Karlovarský kraj
 fullname: Krajské sdružení Karlovarský kraj
 img: teams/karlovy-vary.jpg
-vedoucí týmu: Ing. Petr Třešňák
+vedoucí týmu: Petr Třešňák
 zástupci:
-- Ing. Josef Janů
+- Josef Janů
 - Barbora Hradečná
 kontaktní osoba:
 - Daniela Bílá

@@ -7,7 +7,7 @@ zástupci:
 - Michaela Skokanová
 - Miloš Zmeškal
 kontaktní osoba:
-- Bc. Jakub Vrzala
+- Jakub Vrzala
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start
 categories:
