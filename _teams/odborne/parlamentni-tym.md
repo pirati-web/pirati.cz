@@ -1,12 +1,21 @@
 ---
 name: Parlamentní tým
+fullname: Parlamentní tým
 img: teams/parlamentni-tym.png
-kontaktní osoba: Vít Šimral
-region: Praha
-category: 
+vedoucí týmu: Vít Šimral
+zástupci:
+- Jakub Michálek
+kontaktní osoba: 
+- Vít Šimral
+region: 
+- praha
+categories: 
 - strana
 tags:
 - parlament
+facebook: https://www.facebook.com/groups/691037824392869/
+redmine: https://redmine.pirati.cz/projects/medialni-odbor
+forum: https://forum.pirati.cz/medialni-odbor-f181/
 ---
 
 Bedlivě sledujeme, co dělá Senát i Poslanecká sněmovna. Připravujeme stanoviska k návrhům, které vycházejí z úst zavedených politických stran. Připravujeme volební program do podzimních voleb a školíme garanty programových bodů Pirátů.

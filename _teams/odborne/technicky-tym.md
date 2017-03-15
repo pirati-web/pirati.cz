@@ -1,13 +1,22 @@
 ---
 name: Technický tým
+fullname: Technický tým
 img: teams/technicky-tym.png
+vedoucí týmu: Ondřej Profant
+zástupci:
+- Stanislav Štipl
+- Zdeněk Kubala
 kontaktní osoba: 
 - Ondřej Profant
-region: Praha
-category: 
+region: 
+- praha
+categories: 
 - strana
 tags:
 - technika
+facebook: 
+redmine: https://redmine.pirati.cz/projects/to
+forum: https://forum.pirati.cz/technicky-odbor-f183/
 ---
 
 Díky nám funguje technická infrastruktura Pirátské stany, jako například [hlavní webové stránky](https://www.pirati.cz/portal?redirect=1), systém [Redmine](https://redmine.pirati.cz/) pro správu úkolů, nebo [Pirátské fórum](https://forum.pirati.cz/). Díky nám mohou Piráti efektivně spolupracovat a sdílet informace. A sdílení je aktem lásky. 
