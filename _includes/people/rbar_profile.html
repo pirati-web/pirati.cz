@@ -14,5 +14,12 @@
       <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
     <!-- Person description -->
     <p itemprop="description" class="c-Person-preview-content">{{person.description}}</p>
+
   </div>
 </article>
+{% if include.param == 'contacts' %}
+<div class="clear">
+{% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
+{% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+</div>
+{% endif %}

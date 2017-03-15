@@ -43,7 +43,7 @@ collections:
     permalink: /program/:path/
   teams:
     output: true
-    permalink: /pripoj-se/:path/
+    permalink: /pripoj-se/:title/
 
 defaults:   # defaults values for collection scope
   -
@@ -58,5 +58,11 @@ defaults:   # defaults values for collection scope
     values:
       layout: "page"
       rbar: "program"
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "page"
+      rbar: "team-summary, teams-toc"
 
 emptyArray: []
