@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Ústeckého kraje
+name: Ústecký kraj
+fullname: Krajské sdružení Ústeckého kraje
 img: teams/usti-nad-labem.jpg
 vedoucí týmu: František Navrkal
 zástupci:

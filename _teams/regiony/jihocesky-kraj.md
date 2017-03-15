@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Jihočeský kraj
+name: Jižní Čechy
+fullname: Krajské sdružení Jihočeský kraj
 img: teams/ceske-budejovice.jpg
 vedoucí týmu: Lukáš Kolařík
 zástupci:

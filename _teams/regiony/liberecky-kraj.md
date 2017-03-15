@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Libereckého kraje
+name: Liberecký kraj
+fullname: Krajské sdružení Libereckého kraje
 img: teams/liberec.jpg
 vedoucí týmu: Ondřej Kolek
 zástupci:

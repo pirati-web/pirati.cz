@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Karlovarského kraje
+name: Karlovarský kraj
+fullname: Krajské sdružení Karlovarský kraj
 img: teams/karlovy-vary.jpg
 vedoucí týmu: Ing. Petr Třešňák
 zástupci:

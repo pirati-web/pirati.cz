@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Praha
+name: Praha
+fullname: Krajské sdružení Praha
 img: teams/praha.jpg
 vedoucí týmu: Ondřej Profant
 zástupci:

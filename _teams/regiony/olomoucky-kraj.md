@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Olomouckého kraje
+name: Olomoucký kraj
+fullname: Krajské sdružení Olomouckého kraje
 img: teams/olomouc.jpg
 vedoucí týmu: Petr Kapounek
 zástupci:

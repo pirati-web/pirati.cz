@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Zlínského kraje
+name: Zlínský kraj
+fullname: Krajské sdružení Zlínského kraje
 img: teams/zlin.jpg
 vedoucí týmu: Josef Hruboš
 zástupci:

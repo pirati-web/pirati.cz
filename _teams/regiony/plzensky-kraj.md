@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Plzeňského kraje
+name: Plzeňský kraj
+fullname: Krajské sdružení Plzeňského kraje
 img: teams/plzen.jpg
 vedoucí týmu: Lukáš Bartoň
 zástupci:

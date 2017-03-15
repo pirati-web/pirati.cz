@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Středočeský kraj
+name: Střední Čechy
+fullname: Krajské sdružení Středočeský kraj
 img: teams/stredni-cechy.jpg
 vedoucí týmu: Dominika Michailidu
 zástupci:

@@ -1,5 +1,6 @@
 ---
-name: Krajské sdružení Jihomoravského kraje
+name: Jižní Morava
+fullname: Krajské sdružení Jihomoravský kraj
 img: teams/brno.jpg
 vedoucí týmu: Róbert Čuma
 zástupci:
