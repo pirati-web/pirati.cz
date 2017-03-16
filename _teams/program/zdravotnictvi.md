@@ -7,8 +7,7 @@ kontaktní osoba:
 - Zdeněk Hřib
 category:
 - program
-tags:
-- zdravotnictví
+uid: zdravotnictví
 forum: https://forum.pirati.cz/zdravotnictvi-f549/
 rbar: teams-toc
 ---

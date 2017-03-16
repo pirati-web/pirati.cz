@@ -7,8 +7,7 @@ kontaktní osoba:
 - Aleš Jakl
 category:
 - program
-tags:
-- zemědělství
+uid: zemědělství
 forum: https://forum.pirati.cz/zemedelstvi-f556/
 rbar: teams-toc
 ---

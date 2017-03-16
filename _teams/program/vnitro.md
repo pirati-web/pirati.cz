@@ -7,8 +7,7 @@ kontaktní osoba:
 - Jakub Michálek
 category:
 - program
-tags:
-- vnitro
+uid: vnitro
 forum: https://forum.pirati.cz/piratsky-program-f402/vnitro-a-verejna-sprava-koncept-t35637.html
 rbar: teams-toc
 nadřízený tým: programový tým

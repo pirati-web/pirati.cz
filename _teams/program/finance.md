@@ -7,8 +7,7 @@ kontaktní osoba:
 - Ivo Vašíček
 category:
 - program
-tags:
-- finance
+uid: finance
 forum: https://forum.pirati.cz/piratsky-program-f402/volebni-program-finance-t35919.html
 rbar: teams-toc
 ---

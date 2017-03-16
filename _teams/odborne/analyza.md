@@ -2,7 +2,7 @@
 name: analytický tým
 fullname: analytický tým
 img: teams/analyticky-tym.png
-vedoucí týmu:
+vedoucí týmu: Marek Paris
 zástupci:
 -
 -
@@ -12,8 +12,7 @@ kontaktní osoba:
 region: Praha
 categories:
 - strana
-tags:
-- analytici
+uid: analyza
 facebook:
 redmine: https://redmine.pirati.cz/projects/anal
 forum: https://forum.pirati.cz/pracovni-prostor-pro-clenske-iniciativy-f632/analyticko-informacni-tym-t34652-70.html
