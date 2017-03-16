@@ -1,10 +1,12 @@
 ---
+uid: jakub.michalek
 name:                           Jakub Michálek  	# běžně používáné jméno
 fullname: 			Mgr. et Mgr. Jakub Michálek  # jméno s tituly etc.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 - rp
 - carousel
+- ga
 img: 		people/jakub-michalek.jpg    # 165 x 220
 description: 			Předseda zastupitelského klubu Pirátů v Praze a 3. místopředseda Pirátů             	        			# kratký popis, max 160 znaků
 mail:
@@ -18,6 +20,7 @@ profiles:
 ordpraha: 1
 ordrp: 4
 ordcar: 3
+ordga: 8
 carousel:
   img: jakub-michalek.jpg
   text: |

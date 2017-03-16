@@ -1,4 +1,5 @@
 ---
+uid: martin.smida
 name:     Martin Šmída      		# běžně používáné jméno
 fullname: Ing. et Ing. Martin Šmída  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

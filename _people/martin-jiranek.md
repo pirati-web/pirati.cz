@@ -1,4 +1,5 @@
 ---
+uid: martin.jiranek
 name:     Martin Jiránek      		# běžně používáné jméno
 fullname: Ing. Martin Jiránek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

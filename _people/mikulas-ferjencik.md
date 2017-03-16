@@ -1,4 +1,5 @@
 ---
+uid: mikulas.ferjencik
 name:     Mikuláš Ferjenčík  	# běžně používáné jméno
 fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat

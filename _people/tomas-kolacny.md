@@ -1,4 +1,5 @@
 ---
+uid: tomas.kolacny
 name:     Tomáš Koláčný	  		# běžně používáné jméno
 fullname: Bc. Tomáš Kolačný  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

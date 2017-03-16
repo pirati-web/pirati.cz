@@ -1,4 +1,5 @@
 ---
+uid: josef.janu
 name:     Josef Janů      		# běžně používáné jméno
 fullname: Ing. Josef Janů  			# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

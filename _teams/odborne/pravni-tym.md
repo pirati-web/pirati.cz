@@ -1,27 +1,22 @@
 ---
-name: Finanční tým
-fullname: Finanční tým
-img: teams/financni-tym.png
-vedoucí týmu: Jaroslav Beránek
+name: Právní tým
+fullname: Právní tým
+img: teams/pravni-tym.png
+vedoucí týmu: Viktorie Kalhousová
 zástupci:
-- Tobias Esner
+- Adam Kudrlička
 - Jakub Michálek
-- Petr Vileta
-- Lukáš Černohorský
-- Vojtěch Pikal
-- Martin Hrádela
-- Petros Michailidis
 kontaktní osoba: 
-- Tobias Esner
+- Viktorie Kalhousová
 region: 
 - praha
 categories: 
 - strana
 tags:
-- financni
-facebook: https://www.facebook.com/groups/1785918768326550/
-redmine: https://redmine.pirati.cz/projects/fo
-forum: https://forum.pirati.cz/financni-odbor-f184/
+- pravni
+facebook: https://www.facebook.com/groups/691037824392869/
+redmine: https://redmine.pirati.cz/projects/pravni-tym
+forum:
 ---
 
-Řešíme finanční stránku fungování Pirátů. Hlídáme rozpočty Pirátské strany a proplácíme její výdaje. 
+Zabýváme se právní stránkou toho, co Piráti dělají. Připravujeme konzultace, rozbory a sledujeme soudní spory. Sílu nám dodávají spolupracující advokátní kanceláře (AK Michal Šalamoun, AK Filip Hajný, AK Marian Pavlov). 

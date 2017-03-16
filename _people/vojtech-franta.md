@@ -1,4 +1,5 @@
 ---
+uid: vojtech.franta
 name:     Vojtěch Franta	  	# běžně používáné jméno
 fullname: Ing. arch. Vojtěch Franta  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

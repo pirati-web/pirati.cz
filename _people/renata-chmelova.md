@@ -1,4 +1,5 @@
 ---
+uid: renata.chmelova
 name:     Renata Chmelová	  	# běžně používáné jméno
 fullname: Renata Chmelová  	# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

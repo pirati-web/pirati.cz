@@ -1,4 +1,5 @@
 ---
+uid: ladislav.kos
 name:     Ladislav Kos  	# běžně používáné jméno
 fullname: Ing. Ladislav Kos  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat

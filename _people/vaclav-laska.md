@@ -1,4 +1,5 @@
 ---
+uid: vaclav.laska
 name:     Václav Láska	  		# běžně používáné jméno
 fullname: Mgr. Václav Láska  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat

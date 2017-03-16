@@ -1,4 +1,5 @@
 ---
+uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Vojtěch Pikal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat

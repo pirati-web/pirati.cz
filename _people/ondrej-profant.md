@@ -1,4 +1,5 @@
 ---
+uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 fullname: Ondřej Profant  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
