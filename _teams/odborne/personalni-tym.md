@@ -1,7 +1,7 @@
 ---
 name: Personální tým
 fullname: Personální tým
-img: teams/personalni-tym.png
+img: teams/personalni-tym.jpg
 vedoucí týmu: Jan Novák
 zástupci:
 - Barbora Hrůzová
