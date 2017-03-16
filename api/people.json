@@ -3,6 +3,7 @@
 [
   {% for person in site.people %}
     {
+      "uid"      : "{{ person.uid }}",
       "name"     : "{{ person.name | escape }}",
       "fullname" : "{{ person.fullname }}",
       "category" : "{{ person.categories | join: ' ' }}",
