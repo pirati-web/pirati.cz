@@ -31,8 +31,9 @@
 {% include js/fb.js %}
 {% include js/tw.js %}
 {% include js/search.js %}
+{% include js/back-top.js %}
 {% if page.url contains 'regiony' %}
-{% include js/kraje.js %}
+  {% include js/kraje.js %}
 {% endif %}
 {% if page.url contains 'pripoj-se' %}
 	$( function() {
@@ -41,10 +42,6 @@
 	$( function() {
 	  $( document ).tooltip();
 	} );
-
 	{% include js/subscription-forms.js %}
 {% endif %}
-
-
-{% include js/back-top.js %}
 </script>

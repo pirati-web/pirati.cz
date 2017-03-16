@@ -1,4 +1,5 @@
 ---
+cid: pardubice
 name: Pardubický kraj
 fullname: Krajské sdružení Pardubický kraj
 img: teams/pardubice.jpg
@@ -24,7 +25,7 @@ Jsme krajské sdružení Pirátů v Pardubickém kraji! V Chrudimi máme vlastn�
 
 Možnosti zapojení:
 
-* Přijďte na naše pravidelné setkání! Konají se pravidelně vždy jednou měsíčně v jednom z měst Pardubického kraje. Kontaktujte Pavla Štěpánka (pavel.stepanek(аt)pirati.cz) pro více informací o tom, kdy se bude konat další schůze Pirátů Pardubického kraje. Sledujte [náš Facebook](https://www.facebook.com/groups/95998498639/events/). 
+* Přijďte na naše pravidelné setkání! Konají se pravidelně vždy jednou měsíčně v jednom z měst Pardubického kraje. Kontaktujte Pavla Štěpánka (pavel.stepanek(аt)pirati.cz) pro více informací o tom, kdy se bude konat další schůze Pirátů Pardubického kraje. Sledujte [náš Facebook](https://www.facebook.com/groups/95998498639/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.

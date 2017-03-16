@@ -1,4 +1,5 @@
 ---
+cid: sck
 name: Střední Čechy
 fullname: Krajské sdružení Středočeský kraj
 img: teams/stredni-cechy.jpg

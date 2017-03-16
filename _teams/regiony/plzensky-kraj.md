@@ -1,4 +1,5 @@
 ---
+cid: plzen
 name: Plzeňský kraj
 fullname: Krajské sdružení Plzeňský kraj
 img: teams/plzen.jpg
@@ -26,7 +27,7 @@ Naším zastupitelem ve Stříbře je Jaroslav Heis. Aktivní sdružení Pirát�
 
 Možnosti zapojení:
 
-* Kontaktujte koordinátorku pro Plzeňský kraj Miluši Kotišovou (milus.kotisova(at)pirati.cz). V nepravidelných intervalech se v Plzni konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/plzenska.piratska.strana/events/). 
+* Kontaktujte koordinátorku pro Plzeňský kraj Miluši Kotišovou (milus.kotisova(at)pirati.cz). V nepravidelných intervalech se v Plzni konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/plzenska.piratska.strana/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
