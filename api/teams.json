@@ -3,6 +3,7 @@
 [
   {% for team in site.teams %}
     {
+      "uid"      : "{{ team.uid }}",
       "name"     : "{{ team.name | escape }}",
       "category" : "{{ team.categories | join: ' ' }}",
       "tags"     : "{{ team.tags | join: ' '}}",
