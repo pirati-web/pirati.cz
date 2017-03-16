@@ -1,6 +1,6 @@
 ---
 name: Práce a sociální věci
-img: teams/prace-a-socialni-veci.jpg
+img: teams/prace-socialni-veci.jpg
 vedoucí týmu: Vít Šimral
 zástupci:
 kontaktní osoba:
