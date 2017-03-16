@@ -1,7 +1,7 @@
 ---
 name: Administrativní tým
 fullname: Administrativní tým
-img: teams/administrativni-tym.png
+img: teams/admini-tym.png
 vedoucí týmu: Martin Kučera
 zástupci:
 - Martin Kučera
