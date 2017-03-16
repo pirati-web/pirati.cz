@@ -10,10 +10,11 @@ permalink: 'pripoj-se/tymy/'
     <section class="o-section o-section--noSpaceBottom">
       <div class="o-section-inner">
         <div class="c-BasicPage">
+
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
-                <h1 class="c-BasicPage__title"> Seznam týmů </h1>
+                <h1 class="c-BasicPage__title"> Odborné týmy </h1>
                 <!--<div class="c-BasicPage__meta">
                   <div class="c-BasicPage__meta-filters">
                     <div class="c-BasicPage__meta-filter-block">
@@ -80,6 +81,9 @@ permalink: 'pripoj-se/tymy/'
               </div>
             </div>
           </div>
+
+
+
 <!--          <div class="row vspace-nb-m">
             <div class="large-8 small-12 columns end o-section-mediumdown-divided-small">
               <div class="row vspace-nb-m">
@@ -105,6 +109,7 @@ permalink: 'pripoj-se/tymy/'
         </div> -->
           <div class="vspace-nb-m">
 
+{% comment %}
             <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
               <li class="c-simple-accordion-item" data-accordion-item="">
                 <a href="#" class="c-simple-accordion-title">Regionální týmy</a>
@@ -115,15 +120,23 @@ permalink: 'pripoj-se/tymy/'
               </li>
             </ul>
 
+            {% endcomment %}
+
             <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                <a href="#" class="c-simple-accordion-title">Odborné týmy</a>
+                <a href="#" class="c-simple-accordion-title">Seznam týmů</a>
+
+
 
                 {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'strana'" %}
                 {% include team/list-3col.html param=myteams %}
 
+
               </li>
             </ul>
+
+            {% comment %}
+
 
             <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
@@ -134,7 +147,7 @@ permalink: 'pripoj-se/tymy/'
 
               </li>
             </ul>
-
+{% endcomment %}
 
             <!-- Last one has nomargin class modifier
             <ul class="c-simple-accordion c-simple-accordion--nomargin" data-accordion="" data-options="allowAllClosed: true">

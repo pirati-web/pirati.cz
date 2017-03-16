@@ -1,6 +1,6 @@
 ---
-name: Finanční tým
-fullname: Finanční tým
+name: finanční tým
+fullname: finanční tým
 img: teams/financni-tym.jpg
 vedoucí týmu: Jaromír Beránek
 zástupci:
@@ -12,17 +12,16 @@ zástupci:
 - Martin Hrádela
 - Vojtěch Pikal
 - Petra Smutná
-kontaktní osoba: 
+kontaktní osoba:
 - Tobias Esner
 region: Praha
-categories: 
+categories:
 - strana
-tags:
-- finanční
+uid: financni
 facebook: https://www.facebook.com/groups/1785918768326550/
 redmine: https://redmine.pirati.cz/projects/fo/
 forum: https://forum.pirati.cz/financni-odbor-f184/
+nadřízený tým: republikové předsednictvo
 ---
 
-Řešíme finanční stránku fungování Pirátů. Hlídáme rozpočty a proplácíme výdaje. 
-
+Řešíme finanční stránku fungování Pirátů. Hlídáme rozpočty a proplácíme výdaje.

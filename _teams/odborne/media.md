@@ -10,9 +10,9 @@ kontaktní osoba:
 region:
 categories:
 - strana
+uid: media
 tags:
 - komunikace
-- média
 facebook: https://www.facebook.com/groups/1026979867364264/
 redmine: https://redmine.pirati.cz/projects/medialni-odbor
 forum: https://forum.pirati.cz/medialni-odbor-f181/

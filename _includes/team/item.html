@@ -3,6 +3,9 @@
       <div class="c-content-card-img">
         <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}"> </div>
       <div class="c-content-card-content-box">
+    {% comment %}
+          <a href="{{url}}" class="c-tag" class="text-right">#{{item.uid}}</a>
+    {% endcomment %}
         <h3 class="c-content-card-title">
           {% if item.url | truncate: 2 == 'http' %}
             {% assign url = item.url %}
@@ -11,7 +14,7 @@
           {% endif %}
           <a href="{{url}}">{% if item.name %}{{item.name | capitalize }}{% else %}{{item.title}}{% endif %}</a>
         </h3>
-        <div class="c-content-card-content">
+    {% comment %}    <div class="c-content-card-content">
           {% if item.category contains 'program' %}<p>Garant: {{ item['vedoucí týmu'] }}</p>{% endif %}
           {{item.excerpt}}
         </div>
@@ -20,6 +23,7 @@
             <a href="{{ tag | prepend: '/tags/#' | relative_url }}" class="c-tag">#{{tag}}</a>
           {% endfor %}
         </div>
+        {% endcomment %}
       </div>
     </div>
 </div>

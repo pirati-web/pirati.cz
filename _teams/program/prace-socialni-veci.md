@@ -7,9 +7,7 @@ kontaktní osoba:
 - Vít Šimral
 category:
 - program
-tags:
-- práce
-- sociální-věci
+uid: sociální věci
 forum: https://forum.pirati.cz/piratsky-program-f402/prace-a-socialni-koncept-bodu-pro-volebni-program-ps-2017-t35834.html
 rbar: teams-toc
 ---

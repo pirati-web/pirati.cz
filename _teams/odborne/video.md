@@ -11,8 +11,7 @@ kontaktní osoba:
 region: Praha
 categories:
 - strana
-tags:
-- video
+uid: video
 facebook:
 redmine: https://redmine.pirati.cz/projects/anal
 forum:

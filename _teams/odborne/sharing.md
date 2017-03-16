@@ -1,7 +1,7 @@
 ---
-name: social-media tým
-fullname: social-media tým
-img: teams/social-media-tym.png
+name: tým pro sociální sítě
+fullname: tým pro sociální sítě
+img: teams/socky.png
 vedoucí týmu: Mikuláš Ferjenčík
 zástupci:
 - Ivan Bartoš
@@ -11,8 +11,7 @@ kontaktní osoba:
 region:
 categories:
 - strana
-tags:
-- facebook
+uid: sharing
 facebook:
 redmine:
 forum: https://forum.pirati.cz/pracovni-prostor-pro-clenske-iniciativy-f632/social-media-tym-t36174.html

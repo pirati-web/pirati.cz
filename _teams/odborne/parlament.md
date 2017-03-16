@@ -11,8 +11,7 @@ region:
 - praha
 categories:
 - strana
-tags:
-- parlament
+uid: parlament
 facebook: https://www.facebook.com/groups/691037824392869/
 redmine: https://redmine.pirati.cz/projects/medialni-odbor
 forum: https://forum.pirati.cz/medialni-odbor-f181/

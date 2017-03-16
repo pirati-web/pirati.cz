@@ -2,17 +2,14 @@
 name: volební štáb
 fullname: volební štáb
 img: teams/volebni-stab.png
-vedoucí týmu: Jakub Michálek
+vedoucí týmu: Štěpán Strebl
 zástupci:
-- Martin Kučera
-- Jan Novák
 kontaktní osoba:
-- Vít Šimral
+- Štěpán Strebl
 region:
 categories:
 - strana
-tags:
-- volby
+uid: volby
 facebook: https://www.facebook.com/groups/316533975398022/
 redmine: https://redmine.pirati.cz/projects/volby2017
 forum:

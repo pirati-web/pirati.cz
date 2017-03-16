@@ -1,20 +1,19 @@
 ---
-uid: pravni
-name: Právní tým
-fullname: Právní tým
+name: právní tým
+fullname: právní tým
 img: teams/pravni-tym.png
-vedoucí týmu: Viktorie Kalhousová
+vedoucí týmu: Jakub Michálek
 zástupci:
+- Adam Zábranský
+- Viktorie Kalhousová
 - Adam Kudrlička
-- Jakub Michálek
 kontaktní osoba:
 - Viktorie Kalhousová
 region:
 - praha
 categories:
 - strana
-tags:
-- pravni
+uid: pravni
 facebook: https://www.facebook.com/groups/691037824392869/
 redmine: https://redmine.pirati.cz/projects/pravni-tym
 forum:
