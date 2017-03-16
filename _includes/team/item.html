@@ -9,7 +9,7 @@
           {% else %}
             {% assign url = item.url | relative_url %}
           {% endif %}
-          <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
+          <a href="{{url}}">{% if item.name %}{{item.name | capitalize }}{% else %}{{item.title}}{% endif %}</a>
         </h3>
         <div class="c-content-card-content">
           {% if item.category contains 'program' %}<p>Garant: {{ item['vedoucí týmu'] }}</p>{% endif %}

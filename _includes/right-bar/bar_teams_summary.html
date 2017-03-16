@@ -2,7 +2,7 @@
   <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
     <li class="c-widget-accordion-item is-active" data-accordion-item="">
       <a href="#" class="c-widget-accordion-link">
-        <span class="c-widget-accordion__title">Info o týmu</span>
+        <span class="c-widget-accordion__title">Kontakty</span>
         <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
           <i class="fa fa-users fa-lg"></i>
         </span>
@@ -10,37 +10,11 @@
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-inner">
 
-            <h3>{% if page.fullname%} {{page.fullname}} {% else %}{{ page.name }}{% endif %}</h3>
 
-            <img src="{{ page.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}">
+            {% include people/rbar_profile2.html param="contacts"%}
 
-Týmové kontakty:
 
-<div id="contacts">
-{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
-{% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">{{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
-{% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}
-{% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">{{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
-{% if page.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.redmine }}">úkoly</a>{% endif %}
-</div>
 
-            {% assign thisleader = page['vedoucí týmu'] %}
-            {% assign thiscontact = page['kontaktní osoba'] | first %}
-
-            Vedoucí týmu{% if thiscontact and thisleader == thiscontact %} a kontaktní osoba{% endif %}:
-
-            {% assign person = site.people | where_exp:"item","item.name contains thisleader" | first %}
-            {% include people/rbar_profile.html param="contacts"%}
-
-            {% if thiscontact and thisleader != thiscontact %}
-            Kontaktní osoba:
-            {% assign person = site.people | where_exp:"item","item.name contains thiscontact" | first %}
-            {% include people/rbar_profile.html param="contacts"%}
-            {% endif %}
-
-        </div>
-        <div class="c-widget-accordion-content__cta">
-          <a class="expanded button large" href="{{ '/lide/' | relative_url }}"> Poznejte celý náš tým! </a>
         </div>
       </div>
     </li>
