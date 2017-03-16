@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{%unless page.nomenu%}
+{% include submenu.html %}
+{% endunless%}
+
+<div class="row">
+  <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            {% if page['nadřízený tým'] %}
+
+            <ul class="breadcrumbs">
+                <li><a href="{{ '/pripoj-se/tymy/' | relative_url }}">Seznam týmů</a></li>
+            {% assign thisteam = page['nadřízený tým'] %}
+            {% assign superior = site.teams | where_exp: "item", "item.name == thisteam" | first %}
+            <li><a href="{{ superior.url}}">{{ thisteam | capitalize }}</a></li>
+            <li class="current">{{page.name | capitalize }}</li>
+            </ul>
+
+            {% endif %}
+            <h1 itemprop="headline" class="c-BasicPage__title">
+                {{page.name | capitalize }}
+            </h1>
+            <div itemprop="description" class="c-BasicPage-content">
+              {{content}}
+            </div>
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  {% unless page.rbar == blank %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html %}
+  </div>
+  {% endunless %}
+</div>

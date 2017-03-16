@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: 'pripoj-se/organizacni-struktura/'
+---
+
+{% include submenu.html %}
+
+Seznam týmů:
+
+{% assign myteams = site.teams | where_exp: "item", "item['nadřízený tým'] == 'republikové předsednictvo'" %}
+{% for team in myteams %}
+ {% assign thisteam = team.name %}
+ Tým: {{ thisteam }}
+
+ <ul>
+ {% assign mysubteams = site.teams | where_exp: "item", "item['nadřízený tým'] == thisteam" %}
+
+ {% for subteam in mysubteams %}
+ {% assign thissubteam = subteam.name %}
+ <li>Subtým: {{ thissubteam}}</li>
+ {% endfor %}
+ </ul>
+{% endfor %}

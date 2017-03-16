@@ -1,0 +1,42 @@
+{% assign thisleader = page['vedoucí týmu'] %}
+{% assign thiscontact = page['kontaktní osoba'] | first %}
+{% assign person = site.people | where_exp:"item","item.name contains thisleader" | first %}
+
+<article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
+  <!-- Name -->
+    <!-- Person Image -->
+    <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-Person-preview__image" itemscope="">
+      <img src="{{ person.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}" style="width: 92px">
+      <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
+    <!-- Person description -->
+    <p itemprop="description" class="c-Person-preview-content">
+        <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
+        vedoucí týmu </br>
+
+    {% if !thiscontact or thisleader == thiscontact %}
+    {% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
+    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+
+    {% elsif thiscontact and thisleader != thiscontact %}
+    {% assign person = site.people | where_exp:"item","item.name contains thiscontact" | first %}
+    <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
+    kontaktní osoba
+    {% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
+    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+    {% include people/rbar_profile2.html param="contacts"%}
+    {% endif %}
+    </p>
+
+</article>
+{% if include.param == 'contacts' %}
+<div class="clear">
+</div>
+{% endif %}
+
+<div id="contacts">
+{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
+{% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">{{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
+{% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}
+{% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">{{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
+{% if page.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.redmine }}">úkoly</a>{% endif %}
+</div>

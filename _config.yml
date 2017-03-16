@@ -62,7 +62,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_teams"
     values:
-      layout: "page"
+      layout: "team"
       rbar: "team-summary, teams-toc"
 
 emptyArray: []
