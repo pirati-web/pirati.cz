@@ -27,6 +27,13 @@
     <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.' | relative_url }}">
     <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.' | relative_url }}">
     <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.' | relative_url }}">
+    {% if page.layout == 'post' %}
+    <meta property="og:url"           content="{{page.url | relative_url}}" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Piráti: {{page.title}}" />
+    <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
+    {% endif %}
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
