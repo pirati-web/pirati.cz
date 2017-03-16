@@ -1,24 +1,12 @@
 $( function() {
-  var mail = $("#mail");
-  var mailsub = $("#mailsub");
   var search = $("#search");
   var searchsub = $("#searchsub");
 
   searchsub.click(function() {
-    mail.hide();
-    search.show();
-    searchsub.click(function() {
-      console.log("Hledám ", search.val());
-    });
+    var exp = search.val();
+    var url = "https://www.google.cz/?q=inurl:pirati.cz+" + exp;
+    window.location.href = url;
   });
-  mailsub.click(function() {
-    search.hide();
-    mail.show();
-    mailsub.click(function() {
-      console.log("Jste zařazen:", mail.val());
-    });
-  });
-  mailsub.click();
 
   $.get("{{'api/search.json' | relative_url}}")
       .done(function(availableNames) {
