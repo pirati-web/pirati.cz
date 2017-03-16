@@ -1,5 +1,4 @@
 $( function() {
-
   var mail = $("#mail");
   var mailsub = $("#mailsub");
   var search = $("#search");

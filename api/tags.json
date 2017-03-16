@@ -28,8 +28,8 @@
     {% if teams.size > 0 %}{% if posts.size > 0%},{% endif %}{% endif %}
     {% for team in teams %}
       {
-        "uid"    : "{{team.uid}}",   
-        "title"  : "{{team.title}}",
+        "uid"    : "{{team.uid}}",
+        "title"  : "Tým: {{team.title}}",
         "excerpt": "{{team.excerpt | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
         "url"    : "{{team.url | relative_path}}"
       }

@@ -32,6 +32,9 @@
 {% include js/tw.js %}
 {% include js/search.js %}
 {% include js/back-top.js %}
+{% if page.url contains 'tiskove-zpravy' %}
+  {% include js/relatives.js %}
+{% endif %}
 {% if page.url contains 'regiony' %}
   {% include js/kraje.js %}
 {% endif %}
