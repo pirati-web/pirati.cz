@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: blank
 ---
 
 # [pirati.cz]({{'/' | relative_url}})/api
