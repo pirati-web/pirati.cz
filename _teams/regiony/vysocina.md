@@ -1,13 +1,14 @@
 ---
+uid: vysocina
 cid: jihlava
 name: Kraj Vysočina
 fullname: Krajské sdružení Vysočina
 img: teams/jihlava.jpg
-vedoucí týmu: Jan Pošvář
-zástupci:
+leader: Jan Pošvář
+deputy:
 - Michaela Vodová
 - Lukáš Hejduk
-kontaktní osoba:
+contact:
 - Michaela Vodová
 region: Kraj Vysočina
 url: https://www.pirati.cz/regiony/vysocina/start

@@ -67,3 +67,5 @@ defaults:   # defaults values for collection scope
       rbar: "team-summary, teams-toc"
 
 emptyArray: []
+exclude: [vendor]
+

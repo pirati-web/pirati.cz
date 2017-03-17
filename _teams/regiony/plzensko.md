@@ -1,14 +1,15 @@
 ---
+uid: plzensko
 cid: plzen
 name: Plzeňský kraj
 fullname: Krajské sdružení Plzeňský kraj
 img: teams/plzen.jpg
-vedoucí týmu: Lukáš Bartoň
-zástupci:
+leader: Lukáš Bartoň
+deputy:
 - Petr Bohuslav
 - Honza Pošvář
 - Pavel Šrámek
-kontaktní osoba:
+contact:
 - Miluš Kotišová
 region: Plzeňský kraj
 url: https://plzensky.pirati.cz

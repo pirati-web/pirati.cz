@@ -1,13 +1,14 @@
 ---
+uid: pardubicko
 cid: pardubice
 name: Pardubický kraj
 fullname: Krajské sdružení Pardubický kraj
 img: teams/pardubice.jpg
-vedoucí týmu: Pavel Štěpánek
-zástupci:
+leader: Pavel Štěpánek
+deputy:
 - Zdeněk Kubala
 - Ondřej Češík
-kontaktní osoba:
+contact:
 - Pavel Štěpánek
 region: Pardubický kraj
 url: https://www.pirati.cz/regiony/pardubicko/start

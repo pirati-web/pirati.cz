@@ -1,13 +1,14 @@
 ---
+uid: ustecko
 cid: usti
 name: Ústecký kraj
 fullname: Krajské sdružení Ústecký kraj
 img: teams/usti-nad-labem.jpg
-vedoucí týmu: František Navrkal
-zástupci:
+leader: František Navrkal
+deputy:
 - Vít Konečný
 - Michaela Schwarzová
-kontaktní osoba:
+contact:
 - Miroslav Brož
 region: Ústecký kraj
 url: https://ustecky.pirati.cz

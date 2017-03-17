@@ -1,13 +1,14 @@
 ---
+uid: liberecko
 cid: liberec
 name: Liberecký kraj
 fullname: Krajské sdružení Liberecký kraj
 img: teams/liberec.jpg
-vedoucí týmu: Ondřej Kolek
-zástupci:
+leader: Ondřej Kolek
+deputy:
 - Petr Vyhnal
 - Martin Rejman
-kontaktní osoba:
+contact:
 - Zuzana Jíchová
 region: Liberecký kraj
 url: https://www.pirati.cz/regiony/liberecko/start

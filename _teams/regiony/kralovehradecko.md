@@ -1,13 +1,14 @@
 ---
+uid: kralovehradecko
 cid: hradec
 name: Královéhradecký kraj
 fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
-vedoucí týmu: Pavel Bulíček
-zástupci:
+leader: Pavel Bulíček
+deputy:
 - Martin Jiránek
 - Miroslav Čaky
-kontaktní osoba:
+contact:
 - Pavel Bulíček
 region: Královéhradecký kraj
 url: https://kralovehradecky.pirati.cz

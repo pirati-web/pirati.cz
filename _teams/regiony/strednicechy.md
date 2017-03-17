@@ -1,13 +1,14 @@
 ---
+uid: strednicechy
 cid: sck
 name: Střední Čechy
 fullname: Krajské sdružení Středočeský kraj
 img: teams/stredni-cechy.jpg
-vedoucí týmu: Dominika Michailidu
-zástupci:
+leader: Dominika Michailidu
+deputy:
 - Petr Procházka
 - Antonín Schejbal
-kontaktní osoba:
+contact:
 - Zuzana Dohnalová
 region: Středočeský kraj
 url: https://strednicechy.pirati.cz

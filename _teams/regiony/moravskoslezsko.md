@@ -1,10 +1,11 @@
 ---
+uid: moravskoslezsko
 cid: ostrava
 name: Moravskoslezský kraj
 fullname: Krajské sdružení Moravskoslezský kraj
 img: teams/ostrava.jpg
-vedoucí týmu: Jiří Demel
-zástupci:
+leader: Jiří Demel
+deputy:
 - Pavel Kořízek
 - Martin Rédr
 - Radek Simkanič, DiS
