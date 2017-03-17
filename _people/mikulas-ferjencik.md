@@ -10,8 +10,8 @@ mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
 profiles:
-  github:       https://github.com/adamzabransky
-  facebook:     https://www.facebook.com/adam.zabransky
+  github:       https://github.com/mifer
+  facebook:     https://www.facebook.com/mikfer
   twitter: 		  https://twitter.com/Mikiferjencik
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=mikul%C3%A1%C5%A1%20ferjen%C4%8D%C3%ADk
 ordpraha: 3
