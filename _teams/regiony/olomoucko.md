@@ -1,13 +1,14 @@
 ---
+uid: olomoucko
 cid: olomouc
 name: Olomoucký kraj
 fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
-vedoucí týmu: Petr Kapounek
-zástupci:
+leader: Petr Kapounek
+deputy:
 - Michaela Skokanová
 - Miloš Zmeškal
-kontaktní osoba:
+contact:
 - Jakub Vrzala
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start

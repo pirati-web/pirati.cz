@@ -1,13 +1,14 @@
 ---
+uid: jiznicechy
 name: Jižní Čechy
 fullname: Krajské sdružení Jihočeský kraj
 cid: budejice
 img: teams/ceske-budejovice.jpg
-vedoucí týmu: Lukáš Kolařík
-zástupci:
+leader: Lukáš Kolařík
+deputy:
 - Petr Procházka
 - Antonín Schejbal
-kontaktní osoba:
+contact:
 - Jana Rohová
 region: Jihočeský kraj
 url: https://jihocesky.pirati.cz

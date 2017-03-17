@@ -1,13 +1,14 @@
 ---
+uid: karlovarsko
 name: Karlovarský kraj
 fullname: Krajské sdružení Karlovarský kraj
 cid: vary
 img: teams/karlovy-vary.jpg
-vedoucí týmu: Petr Třešňák
-zástupci:
+leader: Petr Třešňák
+deputy:
 - Josef Janů
 - Barbora Hradečná
-kontaktní osoba:
+contact:
 - Daniela Bílá
 region: Karlovarský kraj
 url: http://kvk.pirati.cz/

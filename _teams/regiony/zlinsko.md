@@ -1,13 +1,14 @@
 ---
+uid: zlinsko
 cid: zlin
 name: Zlínský kraj
 fullname: Krajské sdružení Zlínský kraj
 img: teams/zlin.jpg
-vedoucí týmu: Josef Hruboš
-zástupci:
+leader: Josef Hruboš
+deputy:
 - Kamila Gáliková
 - Jaromír Fojtů
-kontaktní osoba:
+contact:
 - Eliška Holšánová
 region: Zlínský kraj
 url: https://www.pirati.cz/regiony/zlinsko/start
