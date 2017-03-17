@@ -35,9 +35,11 @@
     <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
     {% endif %}
     <!-- Fonts -->
+    {% if page.layout != 'blank' %}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{'assets/css/main.css' | relative_url }}">
+    {% endif %}
 </head>
