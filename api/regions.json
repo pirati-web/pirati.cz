@@ -9,7 +9,7 @@
   {"regions":
     [
       {
-        "id"       : "{{ prahaid  }}",
+        "id"       : "{{ id }}",
         "name"     : "{{ praha[0].name }}",
         "fullanme" : "{{ praha[0].fullname }}",
         "category" : "{{ praha[0].categories | join: ' ' }}",
@@ -22,7 +22,7 @@
       {% if region.uid == 'praha' %}{% continue %}{% endif %}
       {% assign id = region.uid %}
       {
-        "id"       : "{{ id  }}",
+        "id"       : "{{ id }}",
         "name"     : "{{ region.name }}",
         "fullanme" : "{{ region.fullname }}",
         "category" : "{{ region.categories | join: ' ' }}",
