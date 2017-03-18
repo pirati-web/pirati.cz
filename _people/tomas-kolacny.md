@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - jmk
 - carousel
 img: people/tomas-kolacny.jpg            # 165 x 220
-description: Zastupitel města Brna za Piráty, 3. místopředseda Pirátů Jihomoravského kraje            	# kratký popis, max 160 znaků
+description: Radní města Brna za Piráty, 3. místopředseda Pirátů Jihomoravského kraje            	# kratký popis, max 160 znaků
 mail:
 - tomas.kolacny@pirati.cz
 mob:	+420 736 661 244
