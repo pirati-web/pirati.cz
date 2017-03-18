@@ -25,9 +25,11 @@ twitter: https://twitter.com/pirativys
 
 V Chotěboři a Havlíčkově Brodě máme místní sdružení, aktivně ale působíme na území celého kraje.
 
-Možnosti zapojení:
+### Možnosti zapojení
 
 * Přijďte na naše pravidelné setkání! Konají se pravidelně vždy první neděli v měsíci v lichém týdnu od 16:00 hodin. Pro více informací kontaktujte koordinátorku krajské organizace na Vysočině, Michaelu Vodovou (michaela.vodova(аt)pirati.cz).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
+
+Více na [wiki](https://wiki.pirati.cz/regiony/vysocina/start).
