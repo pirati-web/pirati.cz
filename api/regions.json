@@ -1,14 +1,28 @@
 ---
 ---
-
+{% assign praha = site.teams | where: "uid","praha" %}
+{% assign id = praha[0].uid %}
 {% assign regions = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
 {% assign map = site.data.region-map %}
+
 [
   {"regions":
-      [{% for region in regions %}
-      {% assign id = region.cid %}
+    [
       {
-        "id"       : "{{ id }}",
+        "id"       : "{{ prahaid  }}",
+        "name"     : "{{ praha[0].name }}",
+        "fullanme" : "{{ praha[0].fullname }}",
+        "category" : "{{ praha[0].categories | join: ' ' }}",
+        "img"      : "{{ praha[0].img | prepend: 'assets/img/' | relative_url }}",
+        "content"	 : "{{ praha[0].content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+        "url"      : "{{ praha[0].url | relative_url}}",
+        "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
+      },
+      {% for region in regions %}
+      {% if region.uid == 'praha' %}{% continue %}{% endif %}
+      {% assign id = region.uid %}
+      {
+        "id"       : "{{ id  }}",
         "name"     : "{{ region.name }}",
         "fullanme" : "{{ region.fullname }}",
         "category" : "{{ region.categories | join: ' ' }}",
