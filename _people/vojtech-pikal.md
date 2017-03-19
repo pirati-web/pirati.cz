@@ -1,9 +1,10 @@
 ---
 uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
-fullname: Vojtěch Pikal  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
+category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
+- olomouc
 img: people/vojtech-pikal.jpg    # 165 x 220
 description: 1. místopředseda Pirátů             	# kratký popis, max 160 znaků
 mail:
@@ -17,6 +18,10 @@ profiles:
 ordrp: 2
 ---
 
-Vojtěch Pikal (19. února 1987) je místopředseda Pirátů a člen republikového předsednictva; je rovněž členem kontrolního výboru zastupitelstva města Olomouc. Po vystudování přírodovědné větve Slovanského Gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském. Členem Pirátů je od roku února 2012, aktivně se do fungování zapojuje o trochu déle. Jeho hlavním cílem ve straně je její profesionalizace jejího vnitřního fungování tak, aby mohla být efektivní politickou silou v prosazování vlastního programu a udržení strany v ekonomicko-politickém středu při zachování liberálního přístupu k občanským svobodám.
+Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů; je rovněž členem kontrolního výboru zastupitelstva města Olomouc. Po vystudování přírodovědné větve Slovanského Gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském. 
 
-Je členem krajského, a celostátního administrativního odboru a dělá předsedajícího na internetových jednáních celostátního fóra. Dále je členem zahraničního odboru. V minulosti sloužil v kontrolní komisi a byl předsedou a místopředsedou Olomouckého krajského sdružení a místopředsedou Olomouckého místního sdružení.
+V reálné politice zastupuje Piráty ve městě Olomouci v kontrolním výboru, komisi pro informační technologie a komisi městské části Chválkovice.
+
+Členem Pirátů je od února 2012, aktivně se do fungování zapojuje o trochu déle. Jeho hlavním cílem ve straně je její profesionalizace jejího vnitřního fungování tak, aby mohla být efektivní politickou silou v prosazování vlastního programu a udržení strany v ekonomicko-politickém středu při zachování liberálního přístupu k občanským svobodám.
+
+Je členem krajského a celostátního administrativního odboru a předsedá na internetových jednáních celostátního fóra. Dále je členem zahraničního, finančního a personálního odboru. V minulosti byl vedoucím administrativního odboru, sloužil v kontrolní komisi a byl předsedou a místopředsedou Olomouckého krajského sdružení a místopředsedou Olomouckého místního sdružení. Zapojuje se také na mezinárodní úrovni, například v letech 2013 až 2014 byl spolpředsedou pirátské internacionály.
