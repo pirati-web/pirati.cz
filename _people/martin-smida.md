@@ -8,7 +8,7 @@ img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
 description: 				2. místopředseda Pirátů             		# kratký popis, max 160 znaků
 mail:
-- josef.janu@pirati.cz
+- martin.smida@pirati.cz
 mob:					+420 721 661 311
 profiles:
   github:
