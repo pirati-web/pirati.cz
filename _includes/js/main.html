@@ -1,14 +1,11 @@
-{% if page.url contains 'regiony' %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.1/raphael.min.js"></script>
-{% endif %}
 {% if page.url contains 'pripoj-se' %}
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 {% endif %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
 <script>
+  {% include js/jquery.min.js %}
+  {% include js/jquery-ui.min.js %}
+  {% include js/foundation.min.js %}
+  {% include js/motion-ui.min.js %}
   Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
   $(document).foundation();
   $(document).on('replaced.zf.interchange', function(e)
@@ -37,6 +34,7 @@
   {% include js/relatives.js %}
 {% endif %}
 {% if page.url contains 'regiony' %}
+  {% include js/raphael.min.js %}
   {% include js/kraje.js %}
 {% endif %}
 {% if page.url contains 'pripoj-se' %}
