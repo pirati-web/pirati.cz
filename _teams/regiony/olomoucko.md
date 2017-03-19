@@ -22,7 +22,7 @@ forum: https://forum.pirati.cz/olomoucky-kraj-f80/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V Majetíně je pirátským zastupitelem obce Matěj Šmída. V Šumperku je zastupitelkou Zdeňka Dvořáková-Kocourová. Máme regionální organizace v Majetíně (sdružení Pirátská Tvrz), v Olomouci, v Prostějově, v Přerově a v Jeseníku. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek.
+V Majetíně je pirátským zastupitelem obce Martin Šmída. V Šumperku je zastupitelkou Zdeňka Dvořáková-Kocourová. Máme regionální organizace v Majetíně (sdružení Pirátská Tvrz), v Olomouci, v Prostějově, v Přerově a v Jeseníku. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek.
 
 Možnosti zapojení:
 
