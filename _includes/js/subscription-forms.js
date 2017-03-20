@@ -18,8 +18,70 @@ $(document).ready(function(){
 		MakeFieldsRequired();
 		SwitchRadio(this);
 	});
+	
+	/*PSC
+
+	var PSClist = (function () {
+		var json = null;
+		$.ajax({
+			'async': true,
+			'global': true,
+			'url': '/api/psc-kraj-l-mini.json',
+			'dataType': "json",
+			'success': function (data) {
+				json = data;
+			}
+		});
+		return json;
+	})();*/
+
+	$.extend({
+		getValues: function(url) {
+			var result = null;
+			$.ajax({
+				url: '/api/psc-kraj-l-mini.json',
+				type: 'get',
+				dataType: 'json',
+				async: false,
+				success: function(data) {
+					result = data;
+				}
+			});
+		   return result;
+		}
+	});
+	
+	$('#mce-MMERGE3').change(
+		function(){
+				SwitchKraj($('#mce-MMERGE3'))}			
+		);
 
 }); //!document ready
+
+function SwitchKraj(PSC){	
+	var PSClist = $.getValues("url string");
+	Selector = '[name=group\\[28477\\]]';
+
+	switch(PSClist[PSC["0"].value.replace(/\s+/g, '')]) {
+		case 'A': $(Selector).val(64);		break; // Jihočeský				 			
+		case 'B' : $(Selector).val(32768); 	break; // Jihomoravský
+		case 'C' : $(Selector).val(256); 	break; // Karlovarský
+		case 'D' : $(Selector).val(2048); 	break; // Královéhradecký
+		case 'E' : $(Selector).val(1024); 	break; // Liberecký
+		case 'F' : $(Selector).val(16384); 	break; // Moravskoslezský
+		case 'G' : $(Selector).val(8192); 	break; // Olomoucký
+		case 'H' : $(Selector).val(4096); 	break; // Pardubický
+		case 'I' : $(Selector).val(128); 	break; // Plzeňský
+		case 'K' : $(Selector).val(16); 	break; // Praha		
+		case 'L' : $(Selector).val(32); 	break; // Středočeský
+		case 'M' : $(Selector).val(512); 	break; // Ústecký
+		case 'N' : $(Selector).val(131072); break; // Vysočina
+		case 'O' : $(Selector).val(65536); 	break; // Zlínský			
+		default  : $(Selector).val(''); 	break;
+	}
+
+	
+}
 
 function MakeFieldsRequired() {
 	$('#mce-FNAME').addClass('required');
@@ -99,6 +161,7 @@ function submitSubscribeForm($form, $resultElement) {
         $resultElement.html("Pro dokončení registrace klikněte, prosím, na link zaslaný na Vámi zadaný email.");
 			  $('#hlaska-uspech').show();
 			  $('#tlacitko').hide();
+			  $('#tabs').css('pointer-events', 'none' );
       }
     }
   });
