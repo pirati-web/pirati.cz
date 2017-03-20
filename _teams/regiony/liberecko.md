@@ -23,7 +23,7 @@ twitter: https://twitter.com/piratilik
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme 2 zastupitele v České Lípě (Tomáše Martínka a Jiřího Wawrečku), jednoho v Mimoni (Jindřicha Krouse).
+Máme zastupitele v České Lípě (Tomáš Martínek) a v Mimoni (Jindřich Krous).
 
 Možnosti zapojení:
 
