@@ -13,11 +13,12 @@
           <ul class="c-widget-accordion-list">
             {% assign program = site.program | where: "category","dlouhodoby" | group_by:"topic" %}
             {% for topic in program %}
+              {% if topic.name != 'meta' %}
               {{topic.name}}<ul>
               {% for item in topic.items %}
               <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>
-              {% endfor %}</ul>
-              {% endfor%}
+              {% endfor %}</ul>{%endif%}
+            {% endfor%}
           </ul>
           <!--
           <h4 class="c-widget-accordion-list__heading">Parlament 2017</h4>

@@ -3,9 +3,20 @@ layout: page
 title: Dlouhodobý program
 rbar: ""
 ---
-
 {% assign program = site.program | where: "category","dlouhodoby" | group_by:"topic" %}
+{% assign meta = program | where_exp: "item", "item.name == 'meta'" | first %}
+{% assign metatop = meta.items | reverse %}
+
+{% for point in metatop %}
+<div class="medium-12 large-4 columns o-section-block--medium">
+  <ul>
+    <li><a href="{{point.url}}">{{point.title}}</a></li>
+  </ul>
+</div>
+{% endfor %}
+
 {% for topic in program %}
+{% if topic.name != 'meta' %}
 <div class="medium-12 large-4 columns o-section-block--medium">
   <div class="o-section-header">
     <h2 class="o-section__heading o-section__heading--small">{{topic.name}}</h2>
@@ -17,4 +28,5 @@ rbar: ""
   {% endfor %}
   </ul>
 </div>
+{% endif %}
 {% endfor %}
