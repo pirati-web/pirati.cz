@@ -27,7 +27,7 @@ Máme 2 zastupitele v České Lípě (Tomáše Martínka a Jiřího Wawrečku), 
 
 Možnosti zapojení:
 
-* Kontaktujte koordinátorku pro Plzeňský kraj Zuzanu Jíchovou (zuzana.jichova(at)pirati.cz). V nepravidelných intervalech se konají setkání místních Pirátů v Liberci. Sledujte [náš Facebook](https://www.facebook.com/pg/cpslbc/events/).
+* Kontaktujte koordinátorku pro Liberecký kraj Zuzanu Jíchovou (zuzana.jichova(at)pirati.cz). V nepravidelných intervalech se konají setkání místních Pirátů v Liberci. Sledujte [náš Facebook](https://www.facebook.com/cpslbc/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
