@@ -19,6 +19,7 @@ tags:
 facebook: https://www.facebook.com/olomoucko.pirati/
 redmine: https://redmine.pirati.cz/projects/olk
 forum: https://forum.pirati.cz/olomoucky-kraj-f80/
+web: https://wiki.pirati.cz/regiony/olomoucko/start
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
