@@ -32,4 +32,4 @@ Možnosti zapojení:
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
 
-**Informace na této stránce jsou v procesu vzniku, migrujeme informace z [naší wiki](https://wiki.pirati.cz/regiony/liberecko/start), která může být zatím aktuálnější a jako zdroj releventních informací vhodnější.**
+**Informace na této stránce jsou v procesu vzniku, migrujeme informace z [naší wiki](https://wiki.pirati.cz/regiony/liberecko/start), která může být zatím aktuálnější a jako zdroj relevantních informací vhodnější.**
