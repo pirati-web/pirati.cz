@@ -23,7 +23,7 @@ twitter: https://twitter.com/piratilik
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme 2 zastupitele v České Lípě (Tomáše Martínka a Jiřího Wawrečku), jednoho v Mimoni (Jindřicha Krouse).
+Máme zastupitele v České Lípě (Tomáš Martínek) a v Mimoni (Jindřich Krous).
 
 Možnosti zapojení:
 
@@ -32,4 +32,4 @@ Možnosti zapojení:
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
 
-**Informace na této stránce jsou v procesu vzniku, migrujeme informace z [naší wiki](https://wiki.pirati.cz/regiony/liberecko/start), která může být zatím aktuálnější a jako zdroj releventních informací vhodnější.**
+**Informace na této stránce jsou v procesu vzniku, migrujeme informace z [naší wiki](https://wiki.pirati.cz/regiony/liberecko/start), která může být zatím aktuálnější a jako zdroj relevantních informací vhodnější.**
