@@ -28,7 +28,7 @@ Máme místní sdružení v Majetíně (sdružení Pirátská Tvrz), Olomouci, P
 
 Možnosti zapojení:
 
-Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Kontaktujte koordinátora Jakuba Vrzalu na adrese jakub.vrzala(аt)pirati.cz pro podrobnosti.
+Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Napište koordinátorovi Jakubu Vrzalovi na adrese jakub.vrzala(аt)pirati.cz pro podrobnosti.
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
