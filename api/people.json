@@ -10,6 +10,7 @@
       "img"      : "{{ person.img | prepend: '/assets/img/' | relative_url }}",
       "mail"     : "{{ person.mail | join: ','}}",
       "mob"      : "{{ person.mob | join: ','}}",
+      "description" : "{{ person.description | escape }}",
       "profiles" : "{{ person.mail | join: ','}}",
       "content"	 : "{{ person.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
       "url"      : "{{ person.url | relative_url }}"
