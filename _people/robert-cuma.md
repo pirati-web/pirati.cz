@@ -3,7 +3,7 @@ uid: robert.cuma
 name:     Róbert Čuma  	# běžně používáné jméno
 fullname: Róbert Čuma  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- jmk
+- brno
 img: people/robert-cuma.jpg   # 165 x 220
 description: předseda krajského sdružení Jihomoravského kraje           	# kratký popis, max 160 znaků
 mail:

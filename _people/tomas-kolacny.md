@@ -3,7 +3,7 @@ uid: tomas.kolacny
 name:     Tomáš Koláčný	  		# běžně používáné jméno
 fullname: Bc. Tomáš Kolačný  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- jmk
+- brno
 - carousel
 img: people/tomas-kolacny.jpg            # 165 x 220
 description: Radní města Brna za Piráty, 3. místopředseda Pirátů Jihomoravského kraje            	# kratký popis, max 160 znaků
@@ -15,7 +15,7 @@ profiles:
   facebook: 		  https://www.facebook.com/kolacnytomas
   twitter: 		  
 order:
-  jmk: 1
+  brno: 1
 ordcar: 4 		 
 carousel:
   img: tomas-kolacny.jpg

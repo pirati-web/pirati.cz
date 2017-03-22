@@ -3,7 +3,7 @@ uid: jiri.ulip
 name:                           Jiří Ulip  	# běžně používáné jméno
 fullname: 			Mgr. Jiří Ulip  # jméno s tituly etc.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
-- jmk
+- brno
 img: 		people/jiri-ulip.jpg    # 165 x 220
 description: 			Zastupitel za Piráty v zastupitelstvu města Brna          	        			# kratký popis, max 160 znaků
 mail:
