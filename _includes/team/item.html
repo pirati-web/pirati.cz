@@ -9,7 +9,7 @@
           {% else %}
             {% assign url = item.url | relative_url %}
           {% endif %}
-          <a href="{{url | relative_url}}">{% if item.name %}{{item.name | capitalize }}{% else %}{{item.title}}{% endif %}</a>
+          <a href="{{url | relative_url}}">{% if item.name %}{{item.name  }}{% else %}{{item.title}}{% endif %}</a>
       </div>
     </div>
 </div>

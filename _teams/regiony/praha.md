@@ -38,3 +38,5 @@ Možnosti zapojení:
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
+
+Více informací na krajském webu [praha.pirati.cz](https://praha.pirati.cz).
