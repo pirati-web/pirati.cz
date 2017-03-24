@@ -22,13 +22,13 @@ forum: https://forum.pirati.cz/olomoucky-kraj-f80/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je zastupitelkou Zdeňka Dvořáková-Kocourová. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek. Petr Kapounek působí též v komisi kraje pro Informatiku. V Přerově zastupuje v orgánech města Piráty Martin Švadlenka, v Olomouci Vojtěch Pikal, Jakub Nepejchal a další.
+V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je zastupitelkou Zdeňka Dvořáková-Kocourová. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek. Petr Kapounek působí též v komisi kraje pro informatiku. V Přerově zastupuje v orgánech města Piráty Martin Švadlenka, v Olomouci Vojtěch Pikal, Jakub Nepejchal a další.
 
-Máme regionální organizace v Majetíně (sdružení Pirátská Tvrz), Olomouci, Prostějově, Přerově a Jeseníku.
+Máme místní sdružení v Majetíně (sdružení Pirátská Tvrz), Olomouci, Prostějově, Přerově a Jeseníku.
 
 Možnosti zapojení:
 
-Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Kontaktujte koordinátora Jakuba Vrzalu na adrese jakub.vrzala(аt)pirati.cz pro podrobnosti.
+Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Napište koordinátorovi Jakubu Vrzalovi na adrese jakub.vrzala(аt)pirati.cz pro podrobnosti.
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
