@@ -3,7 +3,8 @@ uid: petr.kapounek
 name:     Petr Kapounek  	# běžně používáné jméno
 fullname: Petr Kapounek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- olomouc
+- olomoucko
+position: krajský předseda
 img: people/petr-kapounek.jpg   # 165 x 220
 description: předseda krajského sdružení Olomouckého kraje, zastupitel v Prostějově          	# kratký popis, max 160 znaků
 mail:
