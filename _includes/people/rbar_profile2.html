@@ -1,5 +1,5 @@
-{% assign thisleader = page['vedoucí týmu'] %}
-{% assign thiscontact = page['kontaktní osoba'] | first %}
+{% assign thisleader = page['leader'] %}
+{% assign thiscontact = page['contact'] | first %}
 {% assign person = site.people | where_exp:"item","item.name contains thisleader" | first %}
 
 <article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
