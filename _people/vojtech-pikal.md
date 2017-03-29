@@ -4,7 +4,7 @@ name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
-- olomouc
+- olomoucko
 img: people/vojtech-pikal.jpg    # 165 x 220
 description: 1. místopředseda Pirátů             	# kratký popis, max 160 znaků
 mail:
