@@ -1,7 +1,7 @@
 ---
 date:         2017-04-04
 category:     blog
-tags:         odvolání, přímá demokracie
+tags:         odvolání, přímá_demokracie
 layout:       post
 title:        "Česká pirátská strana předvedla odvolatelnost politiků v praxi, Piráti odvolali místopředsedu Ivo Vašíčka" 
 img:        2017/ivo-vasicek.jpg
