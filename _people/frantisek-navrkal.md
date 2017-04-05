@@ -8,12 +8,12 @@ img: people/frantisek-navrkal.jpg   # 165 x 220
 description: předseda krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
 mail:
 - frantisek.navrkal@pirati.cz
-mob:			  
+mob:			  +420 778 702 710
 profiles:
-  github:                 
+  github:         https://github.com/FNj        
   facebook: 		  https://www.facebook.com/frantisek.navrkal/
   twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20navrkal&view_all=1
+  flickr:     		https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20navrkal&view_all=1
 ---
 
 František Navrkal (* 15. září 1992, Děčín) je předsedou krajského sdružení Ústeckého kraje a rozhodčí komise Pirátů. Studoval na gymnáziu v Děčíně a na ČVUT. 
