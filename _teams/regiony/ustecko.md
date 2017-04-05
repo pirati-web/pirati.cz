@@ -6,8 +6,10 @@ fullname: Krajské sdružení Ústecký kraj
 img: teams/usti-nad-labem.jpg
 leader: František Navrkal
 deputy:
-- Vít Konečný
+- Mikuláš Peksa
 - Michaela Schwarzová
+- Vladimír Charvát
+- Barbora Přibylová-Kočková
 contact:
 - Miroslav Brož
 region: Ústecký kraj
