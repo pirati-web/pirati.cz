@@ -1,5 +1,5 @@
-{% assign thisleader = page['vedoucí týmu'] %}
-{% assign thiscontact = page['kontaktní osoba'] | first %}
+{% assign thisleader = page['leader'] %}
+{% assign thiscontact = page['contact'] | first %}
 {% assign person = site.people | where_exp:"item","item.name contains thisleader" | first %}
 
 <article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
@@ -15,14 +15,14 @@
 
     {% if !thiscontact or thisleader == thiscontact %}
     {% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
-    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ person.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
 
     {% elsif thiscontact and thisleader != thiscontact %}
     {% assign person = site.people | where_exp:"item","item.name contains thiscontact" | first %}
     <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
     kontaktní osoba
     {% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
-    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+    {% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ person.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
     {% include people/rbar_profile2.html param="contacts"%}
     {% endif %}
     </p>
