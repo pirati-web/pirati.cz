@@ -31,7 +31,7 @@
         </h1>
         <!-- BlogPosting description-->
         <div itemprop="description" class="c-BlogPosting-content">
-          <p>Zastupitelskému klubu Pirátů v roce 2015 nabídl zastupitel za ČSSD Karel Březina lístky na mistrovství světa v ledním hokeji (Piráti je odmítli). Minimálně členové klubu ANO zase v témže roce získali vstupenky do VIP.</p>
+          <p>{{ article.excerpt | truncatewords: 45 }}</p>
         </div>
         <a href="{{article.url | relative_url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
       </div>
