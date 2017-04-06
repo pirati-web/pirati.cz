@@ -1,7 +1,7 @@
 ---
 title: "Piráti k novele stavebního zákona: poslanecká tvořivost povolování staveb neurychlí"
 author: Mikuláš Ferjenčík
-tags: praha, stavebni-zakon
+tags: praha stavební-zákon
 date: 2017-04-03
 img: 2017/stavba.jpg
 category:     blog
