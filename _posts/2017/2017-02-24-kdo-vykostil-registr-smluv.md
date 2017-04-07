@@ -8,7 +8,7 @@ category:     blog
 layout:       post
 ---
 
-Zastupitelé Pirátů na dnešním jednání zastupitelstva předali primátorce Krnáčové symbolický šek na 10 000 Kč, kterými hodlají podpořit vymáhání škod, které způsobil bývalý primátor Pavel Bém Praze mimo jiné v kauze Opencard.
+Piráti analyzovali jednotlivá hlasování o registru smluv v poslanecké sněmovně, která ve středu 22. února udělala ze zákona o registru smluv cár papíru. Své obchodní smlouvy nově nemusí zveřejňovat státní, městské ani obecní firmy, ve kterých se ročně protočí 300 miliard korun.
 
 ### Zásadní odpovědnosti:
 
