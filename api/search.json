@@ -1,6 +1,26 @@
 ---
 ---
 [
+  { "label": "Stanovy Pirátské strany", "value": "{{'o-nas/stanovy' | relative_url}}"},
+  { "label": "Registr smluv Pirátské strany", "value": "http://smlouvy.pirati.cz"},
+  { "label": "Úkolovník", "value": "http://redmine.pirati.cz"},
+  { "label": "Výkaz práce", "value": "http://redmine.pirati.cz"},
+  { "label": "Otevřenost", "value": "{{'otevrenost' | relative_url }}"},
+  { "label": "Transparence", "value": "{{'otevrenost' | relative_url }}"},
+  { "label": "Transparenost", "value": "{{'otevrenost' | relative_url }}"},
+  { "label": "Kalendář", "value": "{{'pripoj-se/kalendar' | relative_url }}"},
+  { "label": "Akce", "value": "{{'pripoj-se/kalendar' | relative_url }}"},
+  { "label": "Události", "value": "{{'pripoj-se/kalendar' | relative_url }}"},
+  { "label": "Transparentní účet", "value": "https://www.fio.cz/ib2/transparent?a=2100048174"},
+  { "label": "Otevřené účetnictví", "value": "https://wiki.pirati.cz/fo/otevrene_ucetnictvi"},
+  { "label": "Pirátské listy", "value": "https://piratskelisty.cz"},
+  { "label": "Noviny", "value": "https://piratskelisty.cz"},
+  { "label": "Dlouhodobý program Pirátské strany", "value": "{{'program/strana.html' | relative_url }}"},
+  { "label": "Připoj se", "value": "{{'pripoj-se' | relative_url }}"},
+  { "label": "Přidej se", "value": "{{'pripoj-se' | relative_url }}"},
+  { "label": "Členství ve straně", "value": "{{'pripoj-se' | relative_url }}"},
+  { "label": "Newsletter", "value": "{{'pripoj-se' | relative_url }}"},
+  { "label": "Novinky na e-mail", "value": "{{'pripoj-se' | relative_url }}"},
   {% for post in site.posts %}
     { "label": "{{ post.title }}", "value": "{{ post.url | relative_url }}"},
   {% endfor %}
