@@ -22,7 +22,7 @@ forum: https://forum.pirati.cz/oblastni-sdruzeni-f93/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme zastupitele v Kralupech nad Vltavou (Luboš Šuda) a v Sadské (Martin Schánil). Využíváme Pirátského centra v Praze.
+Máme zastupitele v Kralupech nad Vltavou (Luboš Šuda) a v Sadské (Martin Shánil). Využíváme Pirátského centra v Praze.
 
 Možnosti zapojení:
 

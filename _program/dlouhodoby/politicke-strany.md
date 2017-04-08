@@ -19,6 +19,6 @@ Uvědomujeme si, že politické strany k demokratickému fungování společnost
 
 [^fn-1]: Například stát vyplatí politické straně, která přesáhla v parlamentních volbách hranici 0,5 %, stejnou částku, kterou jí celkem darovali občané, a to až do výše 5000 Kč na občana za rok.
 
-[transparence]: https://www.pirati.cz/program/transparence
-[svoboda-projevu]: https://www.pirati.cz/program/svoboda_projevu
-[prima-demokracie]: https://www.pirati.cz/program/prima_demokracie
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[svoboda-projevu]: https://www.pirati.cz/program/dlouhodoby/svoboda_projevu
+[prima-demokracie]: https://www.pirati.cz/program/dlouhodoby/prima_demokracie

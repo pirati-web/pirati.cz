@@ -23,4 +23,4 @@ Není úkolem státu předepsat, jak konkrétně by rodina měla fungovat. Stát
 
 Respektujeme přirozené právo dítěte na rodičovskou výchovu, i když se rodiče rozhodli žít odděleně. Pokud se rodiče na péči o dítě nedohodnou, budeme prosazovat rovnocennou možnost obou rodičů se na výchově svého dítěte podílet, kdykoliv to připadá v úvahu.
 
-[vzdelani]: https://www.pirati.cz/program/rovnopravnost
+[vzdelani]: https://www.pirati.cz/program/dlouhodoby/rovnopravnost

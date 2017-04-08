@@ -22,9 +22,9 @@ Některé podmínky dokonalé konkurence není možné splnit. Aby nebyli lidé 
 
 Je třeba si uvědomit hranice tržních principů: Máme za to, že společné statky by neměly být uměle privatizovány (např. informace, státní moc, životní prostředí, veřejná zdravotní péče a jiné veřejné služby), a případné výjimky by měly být odůvodněné a přiměřené.
 
-[transparence]: https://www.pirati.cz/program/transparence
-[e-government]: https://www.pirati.cz/program/e-government
-[pravni-stat]: https://www.pirati.cz/program/pravni-stat
-[svoboda-informaci]: https://www.pirati.cz/program/svoboda-informaci
-[transparence]: https://www.pirati.cz/program/transparence
-[soukromi]: https://www.pirati.cz/program/soukromi
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[e-government]: https://www.pirati.cz/program/dlouhodoby/e-government
+[pravni-stat]: https://www.pirati.cz/program/dlouhodoby/pravni-stat
+[svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda-informaci
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[soukromi]: https://www.pirati.cz/program/dlouhodoby/soukromi

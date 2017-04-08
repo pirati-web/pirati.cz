@@ -17,4 +17,4 @@ Služební zákon by měl dále zavést osobní odpovědnost úředníků za jej
 
 V současném ústavním systému chybí [oddělení zákonodárné a výkonné moci][delba-moci]. Uvědomujeme si, že náprava vyžaduje ústavní změny a potrvá ještě dlouho. Pokud se nám podaří v současném systému získat křeslo ministra, vybereme z řad členů a příznivců odborníka v dané oblasti, který předloží nejlepší záruky plnění Pirátského programu. Volba ministrů, jejich odvolání a stanovení odborných požadavků na funkci ministra budou spadat do výlučných pravomocí celostátního fóra.
 
-[delba-moci]: https://www.pirati.cz/program/delba_moci
+[delba-moci]: https://www.pirati.cz/program/dlouhodoby/delba_moci

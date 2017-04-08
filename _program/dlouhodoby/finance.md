@@ -19,4 +19,4 @@ Navrhujeme následující opatření na omezení vlivu globálního finančního
 
 Jsme přesvědčeni, že bez změny stávajícího finančního systému se budou krize podobné té z roku 2008 ustavičně opakovat. Zadlužování státu a financování stávajícího dluhu současným způsobem považujeme za dlouhodobě neudržitelné, předpokládá neustálý ekonomický růst a znemožňuje budoucím vládám vykonávat nezávislou politiku. Považujeme ho za selhání politiků v roli správců země.
 
-[dane]:https://www.pirati.cz/program/dane
+[dane]:https://www.pirati.cz/program/dlouhodoby/dane

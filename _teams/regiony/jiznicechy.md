@@ -22,7 +22,7 @@ forum: https://forum.pirati.cz/jihocesky-kraj-f90/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme zastupitele v Písku (Martin Brož), v Soběslavi (Martin Kákona a Iveta Matějů), v Táboře jsme součástí hnutí JINAK! které má tři zastupitele. Spolu s Volbou pro město prosazujeme pirátský program i v Trhových Svinech.
+Máme zastupitele v Písku (Martin Brož), v Soběslavi (Martin Kákona a Iveta Matějů), v Táboře jsme součástí hnutí JINAK!, které má tři zastupitele. Spolu s Volbou pro město prosazujeme pirátský program i v Trhových Svinech.
 
 Možnosti zapojení:
 
