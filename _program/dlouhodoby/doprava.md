@@ -23,7 +23,7 @@ V oblasti osobní a nákladové přepravy prosazujeme:
 
 Zvláštní ohled bereme v dopravní politice na [ochranu životního prostředí][zivotni-prostredi], stav silniční sítě a další externality (např. problémy způsobené kamionovou dopravou).
 
-[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace
 [soukromi]: https://www.pirati.cz/program/dlouhodoby/soukromi
 [zivotni-prostredi]: https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi
 [Open Data]: http://www.opendata.cz
