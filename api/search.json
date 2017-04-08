@@ -1,7 +1,7 @@
 ---
 ---
 [
-  { "label": "Stanovy Pirátské strany", "value": "{{'o-nas/stanovy' | relative_url}}"},
+  { "label": "Stanovy Pirátské strany", "value": "{{'o-nas/stanovy.html' | relative_url}}"},
   { "label": "Registr smluv Pirátské strany", "value": "http://smlouvy.pirati.cz"},
   { "label": "Úkolovník", "value": "http://redmine.pirati.cz"},
   { "label": "Výkaz práce", "value": "http://redmine.pirati.cz"},
