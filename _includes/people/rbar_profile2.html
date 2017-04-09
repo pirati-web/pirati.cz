@@ -38,5 +38,6 @@
 {% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">{{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
 {% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}
 {% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">{{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
+{% if page.forum %}<i class="fa fa-comments-o"></i> <a href="{{ page.forum }}">{{ page.forum | remove: "https://forum.pirati.cz/" }}</a><br/>{% endif %}
 {% if page.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.redmine }}">úkoly</a>{% endif %}
 </div>
