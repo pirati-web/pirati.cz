@@ -20,7 +20,7 @@ tags:
 - jihomoravsky-kraj
 facebook: https://www.facebook.com/CPS.JMK
 redmine: https://redmine.pirati.cz/projects/jmk
-forum: https://forum.pirati.cz/zajemci-o-clenstvi-jihomoravsky-kraj-f436/
+forum: https://forum.pirati.cz/jihomoravsky-kraj-f83/
 twitter: https://twitter.com/PiratiJMK
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---

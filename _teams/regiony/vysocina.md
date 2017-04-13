@@ -18,7 +18,7 @@ tags:
 - kraj-vysocina
 facebook: http://www.facebook.com/pirati.vysocina
 redmine: https://redmine.pirati.cz/projects/kraj-vysocina
-forum: https://forum.pirati.cz/vysocina-f84/)
+forum: https://forum.pirati.cz/vysocina-f84/
 twitter: https://twitter.com/pirativys
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
