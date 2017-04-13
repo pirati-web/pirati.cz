@@ -10,7 +10,8 @@
       <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
     <!-- Person description -->
     <p itemprop="description" class="c-Person-preview-content">
-        <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
+        <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2><br/>
+        
         vedoucí týmu </br>
 
     {% if !thiscontact or thisleader == thiscontact %}
