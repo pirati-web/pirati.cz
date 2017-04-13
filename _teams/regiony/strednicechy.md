@@ -18,7 +18,7 @@ tags:
 - střední-čechy
 facebook: https://www.facebook.com/pirati.stc
 redmine: https://redmine.pirati.cz/projects/stredni-cechy
-forum: https://forum.pirati.cz/oblastni-sdruzeni-f93/
+forum: https://forum.pirati.cz/stredocesky-kraj-f276/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
