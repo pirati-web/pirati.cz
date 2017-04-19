@@ -2,10 +2,10 @@
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 {% endif %}
 <script>
-  {% include js/jquery.min.js %}
-  {% include js/jquery-ui.min.js %}
-  {% include js/foundation.min.js %}
-  {% include js/motion-ui.min.js %}
+{% include js/jquery.min.js %}
+{% include js/jquery-ui.min.js %}
+{% include js/foundation.min.js %}
+{% include js/motion-ui.min.js %}
   Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
   $(document).foundation();
   $(document).on('replaced.zf.interchange', function(e)

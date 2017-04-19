@@ -20,7 +20,6 @@ tags:
 facebook: https://www.facebook.com/plzenska.piratska.strana
 redmine: https://redmine.pirati.cz/projects/plzensky-kraj
 forum: https://forum.pirati.cz/plzensky-kraj-f89/
-twitter: https://twitter.com/piratskaplzen
 ---
 
 Naším zastupitelem ve Stříbře je Jiří Bohuslav (nezávislý, zvolený za Piráty). Aktivní sdružení Pirátů jsou v Plzni a v Tachově a Klatovech, ale působíme všude v Plzeňském kraji.
