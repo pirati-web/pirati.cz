@@ -34,6 +34,7 @@
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
     <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
     {% endif %}
+    {% feed_meta %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
