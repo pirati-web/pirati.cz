@@ -3,7 +3,7 @@ date:         2017-04-19
 category:     blog
 tags:         registr-smluv
 layout:       post
-title:        "Piráti senátorům: Odmítněte likvidací zákona o zveřejňování smluv" 
+title:        "Piráti senátorům: Odmítněte likvidaci zákona o zveřejňování smluv" 
 img:        2017/ivan-registr.jpg
 author:       Mikuláš Ferjenčík
 ---
