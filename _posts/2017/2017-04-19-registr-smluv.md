@@ -8,7 +8,7 @@ img:        2017/ivan-registr.jpg
 author:       Mikuláš Ferjenčík
 ---
 
-Jedním z projednávaných bodů na schůzi Senátu dne 19. 4. 2017 Senátu byla novela Zákona o registru smluv. Hlasování senátorů o tomto klíčovém návrhu ukáže, jestli Horní komora skutečně plní roli pojistky a kontroly vůči Poslanecké sněmovně, nebo jestli jsou senátoři jen poslušnými figurkami v rukou lobbistů stojících za nynějšími parlamentními stranami. Pirátská strana upozorňuje, že už pouze Senát může smysl tohoto zákona zachránit.
+Jedním z projednávaných bodů na schůzi Senátu dne 19. 4. 2017 Senátu je novela Zákona o registru smluv. Hlasování senátorů o tomto klíčovém návrhu ukáže, jestli Horní komora skutečně plní roli pojistky a kontroly vůči Poslanecké sněmovně, nebo jestli jsou senátoři jen poslušnými figurkami v rukou lobbistů stojících za nynějšími parlamentními stranami. Pirátská strana upozorňuje, že už pouze Senát může smysl tohoto zákona zachránit.
 
 Plošné výjimky, týkající firem s většinovým podílem států a obcí, které poslanci v pozměňovacích návrzích schválili, umožňují účelové vyvádění peněz samospráv do státních a městských firem. Právě přes městské firmy teče nejvyšší množství investičních prostředků. Například skrze Dopravní podnik hl. města Prahy, nebo přes České dráhy tečou desítky miliard korun ročně. 
 
