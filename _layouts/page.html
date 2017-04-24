@@ -15,7 +15,7 @@ layout: default
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
             <h1 itemprop="headline" class="c-BasicPage__title">
-                {{page.title}}
+              {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
             </h1>
             <div itemprop="description" class="c-BasicPage-content">
               {{content}}
