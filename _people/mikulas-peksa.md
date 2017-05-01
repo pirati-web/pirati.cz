@@ -4,6 +4,7 @@ name:     Mikuláš Peksa  	# běžně používáné jméno
 fullname: Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
+- rp
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: Garant programového bodu zahraničí             	# kratký popis, max 160 znaků
 mail:
