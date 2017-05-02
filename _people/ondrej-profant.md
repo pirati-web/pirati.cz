@@ -19,8 +19,32 @@ ordpraha: 2
 ordga: 4
 ---
 
-Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského sdružení v Praze. Byl členem přípravného výboru České pirátské strany.
+Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
 
-Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke Svobodné kultuře obecně a následně i k pirátství. Je živnostníkem se specializací na DTP (sazba knih ve svobodném systému LaTeX) a programování (PHP - Nette Framework, C# - Mono) a skriptování (Bash, JavaScript, Python).
+### Motivace
 
-Angažuje se ve svobodné kultuře – především v komunitě okolo Linuxu (Debian, Ubuntu - profil, Fedora). Angažuje se také ve spolku Otevřená města. Poslední dobou spíše formou propagační činnosti v rámci aktivit u Pirátů. Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Používá Fedoru a Firefox OS.
+Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke **svobodné kultuře** obecně a následně i k pirátství. Je živnostníkem se specializací na DTP (sazba knih ve svobodném systému LaTeX), programování a skriptování.
+
+### Aktivity
+
+Mimo Piráty je členem výboru spolku [Otevřená města][], kde se stará například o přípravu opensource aplikace **Cityvizor**, která je nástupcem [oceněné][] aplikace [Supervizor][].
+
+Obecně se angažuje ve svobodné kultuře. V komunitách okolo Linuxu, svobodných filmů apod.
+
+U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
+
+V rámci Prahy stojí za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
+
+### Osobně
+
+Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rád [šifrovačky][]. Používá Fedoru, programuje v Pythonu. Oblíbený citát:
+
+> „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *Aaron Swartz*.
+
+[sdružení v Praze]: https://praha.pirati.cz
+[Otevřená města]: http://otevrenamesta.cz
+[Supervizor]: http://data.mfcr.cz/supervizor/ 
+[otevřených dat]: http://opendata.praha.eu 
+[šifrovačky]: http://sifrovacky.cz 
+[oceněné]: http://www.otevrenadata.cz/soutez/rocnik-2015/ 
+
