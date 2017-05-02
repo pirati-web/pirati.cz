@@ -13,7 +13,7 @@ Mikuláš Peksa je programátor, od dubna 2013 je členem Pirátské strany, za 
 
 Nový místopředseda reprezentuje myšlenkový proud, který mezinárodní i evropskou spolupráci vnímá realisticky a střízlivě. Vnímá spolupráci jako přínos, zároveň ale odmítá nekritický a ideologizovaný postoj vůči Evropské unii i dalším organizacím: „Podporujme Evropskou unii a mezinárodní spolupráci všude tam, kde to má smysl. Jedním dechem dodávám, že také vidíme řadu chyb a nedostatků v současném systému fungování Unie. Ty je třeba řešit.“
 
-Spolupráci v rámci Evropské unie tedy neprosazuje za každou cenu. Přínos společné politiky spatřuje zejména ve strategických a bezpečnostních otázkách: „V Evropě musí fungovat princip subsidiarity. Věci, které se dají řešit na národní úrovni, nechť se tak řeší. Společné otázky, jako je třeba obrana vnějších hranic, musíme řešit společně na úrovni Evropské unie.”;
+Spolupráci v rámci Evropské unie tedy neprosazuje za každou cenu. Přínos společné politiky spatřuje zejména ve strategických a bezpečnostních otázkách: „V Evropě musí fungovat princip subsidiarity. Věci, které se dají řešit na národní úrovni, nechť se tak řeší. Společné otázky, jako je třeba obrana vnějších hranic, musíme řešit společně na úrovni Evropské unie.”
 
 Vedení České pirátské strany je nyní kompletní a skládá se z předsedy Ivana Bartoše a místopředsedů Vojtěcha Pikala, Martina Šmídy, Jakuba Michálka a nově zvoleného Mikuláše Peksy. 
 
