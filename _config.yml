@@ -56,6 +56,11 @@ defaults:   # defaults values for collection scope
       rbar: "people, foto"
   -
     scope:
+      path: "_elections"
+    values:
+      layout: "team"
+  -
+    scope:
       path: "_program"
     values:
       layout: "page"
