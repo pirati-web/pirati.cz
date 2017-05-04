@@ -31,7 +31,7 @@ Mimo Piráty je členem výboru spolku [Otevřená města][], kde se stará nap�
 
 Obecně se angažuje ve svobodné kultuře. V komunitách okolo Linuxu, svobodných filmů apod.
 
-U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
+U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení [pražské radiové sítě][]. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
 
 V rámci Prahy stojí za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
 
@@ -47,4 +47,4 @@ Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rá
 [otevřených dat]: http://opendata.praha.eu 
 [šifrovačky]: http://sifrovacky.cz 
 [oceněné]: http://www.otevrenadata.cz/soutez/rocnik-2015/ 
-
+[pražské radiové sítě]: https://youtu.be/JRdjRJjWEx0 
