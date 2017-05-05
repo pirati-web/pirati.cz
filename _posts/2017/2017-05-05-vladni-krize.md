@@ -1,7 +1,7 @@
 ---
 date:         2017-05-04
 category:     post
-tags:         konopí
+tags:         vláda, prezident
 layout:       post
 title:        "Vláda je nedůvěryhodná, vyměnit se ale dá jen ve volbách. Piráti jsou připraveni" 
 img:        2017/sobotka-babis.jpg
