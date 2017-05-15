@@ -4,7 +4,7 @@ category:     blog
 tags:         pirati
 layout:       post
 title:        "Pirátům bude online reklamu dělat AdHackers Jana Řeháka" 
-img:          2017/adhackers.JPG
+img:          2017/adhackers.jpg
 author:       Ivan Bartoš
 ---
 
