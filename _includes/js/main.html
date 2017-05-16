@@ -25,11 +25,10 @@
   });
   window.onload = function() {};
 
-{% include js/fb.js %}
-{% include js/tw.js %}
-{% include js/ga.js %}
 {% include js/search.js %}
 {% include js/back-top.js %}
+{% include js/handlebars.min.js %}
+{% include js/rbar_people.js %}
 {% if page.url contains 'tiskove-zpravy' %}
   {% include js/relatives.js %}
 {% endif %}
@@ -46,4 +45,7 @@
 	} );
 	{% include js/subscription-forms.js %}
 {% endif %}
+{% include js/fb.js %}
+{% include js/tw.js %}
+{% include js/ga.js %}
 </script>

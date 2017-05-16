@@ -9,12 +9,7 @@
       </a>
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-inner">
-          {% assign person = site.people | where_exp:"item","item.name contains 'Michálek'" | first %}
-          {% include people/rbar_profile.html param=""%}
-          {% assign person = site.people | where_exp:"item","item.name contains 'Profant'" | first %}
-          {% include people/rbar_profile.html param=""%}
-          {% assign person = site.people | where_exp:"item","item.name contains 'Ferjen'" | first %}
-          {% include people/rbar_profile.html param=""%}
+          <div id="people"></div>
         </div>
         <div class="c-widget-accordion-content__cta">
           <a class="expanded button large" href="{{ '/lide/' | relative_url }}"> Poznejte celý náš tým! </a>
