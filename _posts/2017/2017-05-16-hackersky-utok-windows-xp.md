@@ -3,14 +3,14 @@ date:         2017-05-16
 category:     blog
 tags:         bezpecnost
 layout:       post
-title:        "Vlády vydávají miliardy na vývoj malwaru, který pak samy nejsou schopny uchovat v bezpečí. Jde o podobné nebezpečí jako chemické zbraně."
+title:        "Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní."
 img:          2017/hacker.jpg
 author:     Ondřej Profant
 ---
 
-V posledních dnech je svět ohromen škodlivým počítačovým programem z rodiny ransomware[^1] WannaCry. Ukázalo se, že nejen veřejné instituce nebyly schopny své systémy před touto hrozbou zabezpečit. Odstrašujícím případem jsou pak britské nemocnice, které přestaly příjímat pacienty.
+V posledních dnech je svět ohromen škodlivým počítačovým programem z rodiny ransomware[^1] WannaCry. Ukázalo se, že nejen veřejné instituce nebyly schopny své systémy před touto hrozbou ochránit. Odstrašujícím případem jsou pak britské nemocnice, které přestaly příjímat pacienty. Vlády samy vydávají miliardy na hledání bezpečnostních slabin, ale následně je nedokáží zabezpečit. Je to podobné nebezpečí jako chemické zbraně. 
 
-Uvědomme si, kde jsou skutečné problémy. Vytvoření tohoto červa umožnila Národní bezpečnostní agentura (NSA), špionážní organizace Spojených států amerických. Bohužel nedokázala tento průnik zabezpečit před odcizením, nebo nahlásit výrobci, který by mohl vydat opravu. Nyní ho útočníci zneužili ve velkém. Avšak dopady by nikdy nebyly tak dramatické, kdyby instituce dodržovaly základní zásady počítačové bezpečnosti. Šíření napomohlo užívání léta nepodporovaných operačních systémů Windows XP, běžní uživatelé přihlášení na administrátotské heslo, špatně tvořená infrastruktura s nedostatečným zálohováním a podobné elementární chyby. 
+Uvědomme si, kde jsou skutečné problémy. Vytvoření tohoto červa umožnila Národní bezpečnostní agentura (NSA), špionážní organizace Spojených států amerických. Bohužel nedokázala tento průnik zabezpečit před odcizením, nebo nahlásit výrobci, který by mohl vydat opravu. Nyní ho útočníci zneužili ve velkém. Avšak dopady by nikdy nemohly být tak dramatické, kdyby instituce dodržovaly základní zásady počítačové bezpečnosti. Šíření napomohlo užívání nepodporovaných operačních systémů Windows XP, běžní uživatelé přihlášení na administrátotské heslo, špatně tvořená infrastruktura s nedostatečným zálohováním a podobné elementární chyby. 
 
 Je potřeba zdůraznit, že v tomto případě se nejedná o žádný sofistikovaný útok nebo software, jde o ty nejprostší základy. Přestože instituce vydávají miliony na počítačovou bezpečnost, v praxi nemají zajištěné dodržování základních zásad bezpečnosti, ani dostatečně proškolený personál. Je zcela běžné, že instituce si platí drahé bezpečnostní audity, ale v každodenním provozu se jimi nedokáží řídit. 
 
