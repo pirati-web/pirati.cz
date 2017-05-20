@@ -41,9 +41,9 @@ nebude ale přebírat agendu IT za jiné úřady.
 
 - **Prosadíme kvalitní otevřená data (open data)**: Pomůže to nastartovat
 ekonomiku a zvýšit kvalitu služeb v soukromém i veřejném sektoru.
-- **Podpoříme rozvoj open-source software, ve školách i na úřadě**: Budeme
+- **Podpoříme rozvoj <abbr title="Software s veřejným zdrojovým kódem. Lze ho tedy upravovat a přizpůsobovat. Nevzniká tedy nežádoucí vazba na jendoho výhradního dodavatele">open-source</abbr> software, ve školách i na úřadě**: Budeme
 tak následovat USA, UK a státy EU, které již jeho výhody využívají.
 - **Zvýšíme kyberbezpečnost státních systémů**: A to bez zbytečného šmírování
 občanů.
 - **Budeme požadovat zodpovědnost dodavatelů za chyby v jejich produktech a službách.**
-- **bráníme svobodu Internetu.** Zachováme síťovou neutralitu.
+- **Bráníme svobodu Internetu.** Zachováme <abbr title="Je princip rovnoprávnosti přenášených dat po internetu. Tedy poskytoval nesmí blokovat služby, které se mu nelíbí. Typickým příkladem mohou být torrenty.">síťovou neutralitu</abbr>.
