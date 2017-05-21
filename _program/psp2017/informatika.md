@@ -46,4 +46,4 @@ tak následovat USA, UK a státy EU, které již jeho výhody využívají.
 - **Zvýšíme kyberbezpečnost státních systémů**: A to bez zbytečného šmírování
 občanů.
 - **Budeme požadovat zodpovědnost dodavatelů za chyby v jejich produktech a službách.**
-- **Bráníme svobodu Internetu.** Zachováme <abbr title="Je princip rovnoprávnosti přenášených dat po internetu. Tedy poskytoval nesmí blokovat služby, které se mu nelíbí. Typickým příkladem mohou být torrenty.">síťovou neutralitu</abbr>.
+- **Bráníme svobodu Internetu**: Zachováme <abbr title="Je princip rovnoprávnosti přenášených dat po internetu. Tedy poskytoval nesmí blokovat služby, které se mu nelíbí. Typickým příkladem mohou být torrenty.">síťovou neutralitu</abbr>.

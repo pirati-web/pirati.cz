@@ -22,13 +22,13 @@ Chceme z České republiky udělat ekonomického tygra. Žije mezi námi spousta
 
 ## Férové mobilní tarify a levný internet
 
-* **Zajistíme snížení cen volání a dat.** Zastavíme lobbing telefonních operátorů. Inspirujeme se v Polsku a donutíme trh mobilních operátorů ke konkurenci.
-* **Evropské dotace na lepší Internet rozdělíme bez narušení tržního prostředí:** K dispozici je 14 miliard korun.
+* **Zajistíme snížení cen volání a dat**: Zastavíme lobbing telefonních operátorů. Inspirujeme se v Polsku a donutíme trh mobilních operátorů ke konkurenci.
+* **Evropské dotace na lepší Internet rozdělíme bez narušení tržního prostředí**: K dispozici je 14 miliard korun.
 * **Razantně zpřísníme sankce vůči firmám cíleně poškozujícím zákazníky.**
 
 ## Dostupnější energie
 
 * **Snížíme ceny koncovým odběratelům:** Spravedlivě rozdělíme náklady na výrobu a přenosovou síť. Zastavíme podporu velkým solárním parkům a bioplynkám.
-* **Zachováme programy pro úsporu energie v budovách, kotlíkové dotace a podpoříme energetickou soběstačnost.** K podpoře musí mít přístup i domácnosti (např. solární panely na střechách) a drobní podnikatelé.
+* **Zachováme programy pro úsporu energie v budovách, kotlíkové dotace a podpoříme energetickou soběstačnost**: K podpoře musí mít přístup i domácnosti (např. solární panely na střechách) a drobní podnikatelé.
 * **Zaměříme se na inovace v jaderné energetice:** Viz [dlouhodobý program](https://www.pirati.cz/program/dlouhodoby/energetika/).
 * **Nesouhlasíme s prolomením limitů těžby uhlí.**

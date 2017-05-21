@@ -8,15 +8,16 @@ garant: jakub-michalek
 Naší vizí je důvěryhodný stát, který se občanům zodpovídá za kvalitu veřejných
 služeb. Důsledné uplatňování transparentního přístupu ze strany státních institucí
 podpoří důvěru lidí i firem. Důsledkem otevřeného státu pak je omezení korupce.
-Boj proti korupci nejen na papíře
 
-* **Prosadíme novelu zákona o registru smluv:** Všechny státní firmy včetně
+## Boj proti korupci nejen na papíře
+
+* **Prosadíme novelu zákona o registru smluv**: Všechny státní firmy včetně
   ČEZ budou zveřejňovat smlouvy.
-* **Došlápneme si na politiky a vysoké úředníky.** Majetková přiznání se
+* **Došlápneme si na politiky a vysoké úředníky**: Majetková přiznání se
   stanou úplnými díky hrozbě propadnutí majetku. Zavedeme veřejné diáře.
-* **Opravíme služební zákon:** Odpolitizujeme státní správu a ochráníme
+* **Opravíme služební zákon**: Odpolitizujeme státní správu a ochráníme
   oznamovatele korupce.
-* **Rozšíříme působnost NKÚ na celý veřejný sektor:** Zrychlíme jeho kontroly.
+* **Rozšíříme působnost NKÚ na celý veřejný sektor**: Zrychlíme jeho kontroly.
 * [Další body jsou v protikorupční strategii Pirátů.](https://wiki.pirati.cz/navrhy/program/protikorupcni-strategie)
 
 ## Otevřený stát a kvalitní veřejná správa

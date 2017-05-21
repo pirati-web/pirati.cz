@@ -5,7 +5,9 @@ approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-27-2016
 garant: zdenek-hrib
 ---
 
-Pacient bude váženým klientem s reálnou možností informované a svobodné volby. Digitalizace změní zdravotnické bludiště na přívětivý systém. Zavedeme jasná a důsledně dodržovaná pravidla včetně ochrany zdravotních údajů. Rozhoduje zájem pacienta a ne farmaceutické společnosti
+Pacient bude váženým klientem s reálnou možností informované a svobodné volby. Digitalizace změní zdravotnické bludiště na přívětivý systém. Zavedeme jasná a důsledně dodržovaná pravidla včetně ochrany zdravotních údajů.
+
+## Rozhoduje zájem pacienta a ne farmaceutické společnosti
 
 * **Prosadíme transparentnost:**​ Došlápneme si na farmaceutické firmy, které
 korumpují lékaře, aby předepisovali jejich výrobky, zpětné bonusy a
