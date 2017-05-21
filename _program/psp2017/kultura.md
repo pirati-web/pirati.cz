@@ -15,7 +15,7 @@ Cílem Pirátů je podpora kultury a lidí, kteří ji vytvářejí. Podpoříme
   financování a pěstuje kulturu nebo jinou veřejně prospěšnou činnost.
 - **Veřejnoprávní média slouží všem**: 
   Zrušíme koncesionářské poplatky.
-  Příjem ČT a ČRo nahradíme pevným podílem na výběru DPH. Zvýšíme možnosti příjmů z reklamy, ovšem přísně regulované. Omezíme politické tlaky na vedení televize a rozhlasu, viz [stanovisko](https://www.pirati.cz/tiskove-zpravy/novela-zakona-o-ct.html)
+  Příjem ČT a ČRo nahradíme pevným podílem na výběru DPH. Zvýšíme možnosti příjmů z reklamy, ovšem přísně regulované. Omezíme politické tlaky na vedení televize a rozhlasu, viz [stanovisko](https://www.pirati.cz/tiskove-zpravy/novela-zakona-o-ct.html).
 - **Kultura pro města a obce**. Zavedeme architektonické soutěže u veřejných staveb jako standard. Vyhradíme u státních staveb aspoň 1 % rozpočtu na výtvarná díla. Zajistíme, že kulturní granty budou dostupné i pro menší obce.
 
 ## Dáme autorskému právu smysl
