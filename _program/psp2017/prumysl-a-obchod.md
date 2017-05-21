@@ -29,6 +29,6 @@ Chceme z České republiky udělat ekonomického tygra. Žije mezi námi spousta
 ## Dostupnější energie
 
 * **Snížíme ceny koncovým odběratelům:** Spravedlivě rozdělíme náklady na výrobu a přenosovou síť. Zastavíme podporu velkým solárním parkům a bioplynkám.
-* **Zachováme programy pro úsporu energie v budovách, kotlíkové dotace a podpoříme energetickou soběstačnost.** ​K podpoře musí mít přístup i domácnosti (např. solární panely na střechách) a drobné podnikatele.
+* **Zachováme programy pro úsporu energie v budovách, kotlíkové dotace a podpoříme energetickou soběstačnost.** K podpoře musí mít přístup i domácnosti (např. solární panely na střechách) a drobní podnikatelé.
 * **Zaměříme se na inovace v jaderné energetice:** Viz [dlouhodobý program](https://www.pirati.cz/program/dlouhodoby/energetika/).
 * **Nesouhlasíme s prolomením limitů těžby uhlí.**
