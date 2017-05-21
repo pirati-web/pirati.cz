@@ -5,9 +5,7 @@ approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-25-2016
 garant:
 ---
 
-Cílem Pirátů je podpora kultury a lidí, kteří ji vytvářejí. Podpoříme knihovny, galerie, divadla či muzea, která budou splňovat podmínky průhledného hospodaření.
-
-Svobodná společnost je pestrá, a taková je i její kultura.
+Cílem Pirátů je podpora kultury a lidí, kteří ji vytvářejí. Podpoříme knihovny, galerie, divadla či muzea, která budou splňovat podmínky průhledného hospodaření. Svobodná společnost je pestrá, a taková je i její kultura.
 
 
 ## Zajistíme financování kultury
