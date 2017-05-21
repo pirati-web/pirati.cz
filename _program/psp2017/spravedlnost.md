@@ -26,6 +26,5 @@ Chceme efektivní justici, která slouží spravedlnosti, nikoliv formalitám, n
 
 - **Odpolitizujeme státní zastupitelství.**
 - **Inspirujeme se zeměmi s fungující spravedlností při přípravě trestního řádu**: Zamezíme zbytečnému opakovaní důkazů, nežádoucím formalitám a kličkám, kvůli kterým unikají zločinci a politici usvědčení z korupce.
-- **Podpoříme lepší zajištění majetku trestně stíhaných**
-: Zvýšíme důraz na peněžité tresty a propadnutí majetku.
+- **Podpoříme lepší zajištění majetku trestně stíhaných**: Zvýšíme důraz na peněžité tresty a propadnutí majetku.
 - Podpoříme alternativní tresty s přínosem pro společnost, programy pro nápravu, návrat do společnosti a prevenci recidivy.
