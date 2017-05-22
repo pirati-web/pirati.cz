@@ -45,6 +45,9 @@
 	} );
 	{% include js/subscription-forms.js %}
 {% endif %}
+{% if page.url contains 'psp2017/kalkulacka' %}
+  {% include js/kalkulacka.js %}
+{% endif %}
 {% include js/fb.js %}
 {% include js/tw.js %}
 {% include js/ga.js %}
