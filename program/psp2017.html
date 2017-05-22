@@ -5,70 +5,76 @@ rbar: ""
 ---
 
 <style>
-
+  .program-icon {
+    width: 125px;
+    height: 125px;
+  }
 </style>
 
-<div class="row align-right">
-
-<div class="columns medium-12">
-<p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
-  jednotlivých ministerstvech. V současnosti je scháleno prvních 7 kapitol:</p>
-  <br>
+<div class="row">
+  <div class="columns medium-12">
+  <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
+    jednotlivých ministerstvech. V současnosti je scháleno prvních 7 kapitol:</p>
+    <br>
+  </div>
 </div>
 
-<div class="columns medium-3">
-  <h2>Finance</h2>
-  <a href="{{'program/psp2017/finance/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/finance.png' | relative_url}}">
-  </a>
+<div class="row small-up-2 medium-up-3 large-up-4">
+  <div class="column column-block">
+    <h2>Finance</h2>
+    <a href="{{'program/psp2017/finance/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/finance.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Informatika</h2>
+    <a href="{{'program/psp2017/informatika/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/digital.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Kultura</h2>
+    <a href="{{'program/psp2017/kultura/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/kultura.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Průmysl a obchod</h2>
+    <a href="{{'program/psp2017/prumysl-a-obchod/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/prumysl.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Spravedlnost</h2>
+    <a href="{{'program/psp2017/spravedlnost/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/spravedlnost.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Vnitro a otevřený stát</h2>
 
-  <br />
+    <a href="{{'program/psp2017/vnitro/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/vnitro.png' | relative_url}}">
+    </a>
+  </div>
+  <div class="column column-block">
+    <h2>Zdravotnictví</h2>
 
-  <h2>Informatika</h2>
-  <a href="{{'program/psp2017/informatika/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/digital.png' | relative_url}}">
-  </a>
+    <a href="{{'program/psp2017/zdravotnictvi/' | relative_url }}">
+      <img class="program-icon" src="{{ 'assets/img/program/zdravotnictvi.png' | relative_url}}">
+    </a>
+  </div>
 </div>
-<div class="columns medium-3">
-  <h2>Kultura</h2>
-  <a href="{{'program/psp2017/kultura/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/kultura.png' | relative_url}}">
-  </a>
 
-  <br>
-
-  <h2>Průmysl a obchod</h2>
-  <a href="{{'program/psp2017/prumysl-a-obchod/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/prumysl.png' | relative_url}}">
-  </a>
-</div>
-<div class="columns medium-3">
-  <h2>Spravedlnost</h2>
-  <a href="{{'program/psp2017/spravedlnost/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/spravedlnost.png' | relative_url}}">
-  </a>
-
-  <br>
-
-  <h2>Vnitro a otevřený stát</h2>
-
-  <a href="{{'program/psp2017/vnitro/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/vnitro.png' | relative_url}}">
-  </a>
-</div>
-<div class="columns medium-3">
-  <h2>Zdravotnictví</h2>
-
-  <a href="{{'program/psp2017/zdravotnictvi/' | relative_url }}">
-    <img style="width: 125px; height: 125px;" src="{{ 'assets/img/program/zdravotnictvi.png' | relative_url}}">
-  </a>
-</div>
-
-<div class="columns medium-12">
 <br>
-<p>Další várku programových bodů představí Piráti do konce června po schválenní
-  Republikovým výborem Pirátské strany.</p>
+
+<div class="row">
+  <div class="columns medium-12">
+    <p>Další várku programových bodů představí Piráti do konce června po schválenní
+      Republikovým výborem Pirátské strany.</p>
+  </div>
 </div>
+
 {% comment %}
   <ul>
   {% assign program = site.program | where: "category","psp2017" %}
