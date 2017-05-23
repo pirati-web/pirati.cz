@@ -28,11 +28,11 @@
     <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.' | relative_url }}">
     <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.' | relative_url }}">
     {% if page.layout == 'post' or page.layout == 'page' %}
-    <meta property="og:url"           content="{{page.url | relative_url}}" />
+    <meta property="og:url"           content="{{page.url | absolute_url }}" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Piráti: {{page.title}}" />
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | absolute_url }}" />
     {% endif %}
     {% feed_meta %}
     <!-- Fonts -->
