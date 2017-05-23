@@ -30,7 +30,7 @@
 {% include js/handlebars.min.js %}
 {% include js/rbar_people.js %}
 {% if page.url contains 'tiskove-zpravy' %}
-  {% include js/relatives.js %}
+  {% include js/rbar_relatives.js %}
 {% endif %}
 {% if page.url contains 'regiony' %}
   {% include js/raphael.min.js %}
@@ -47,6 +47,9 @@
 {% endif %}
 {% if page.url contains 'kalkulacka' %}
   {% include js/kalkulacka.js %}
+{% endif %}
+{% if page.url contains 'psp2017' %}
+  {% include js/rbar_garant.js %}
 {% endif %}
 {% include js/fb.js %}
 {% include js/tw.js %}

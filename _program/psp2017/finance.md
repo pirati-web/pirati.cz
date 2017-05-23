@@ -1,11 +1,23 @@
 ---
 title: Finance
 category: psp2017
+img: finance.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-26-2016-program-2017-finance-r-h-3-k-t36942.html
 garant:
 ---
 
-Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.
+<div class="media-object">
+  <div class="media-object-section">
+    <div class="thumbnail">
+      <img src="{{ page.img | prepend: 'assets/img/program/' | relative_url}}" style="height: 100px;">
+    </div>
+  </div>
+  <div class="media-object-section">
+    <p>Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.</p>
+  </div>
+</div>
+
+
 
 - **Daně: Jde to i jednoduše!** Zavedeme skutečně rovnou daň – stejnou sazbu celkového zdanění práce (včetně odvodů) pro všechny příjmové skupiny. Slevu na dani ponecháme v současné výši.
 - **Snížíme sazbu zdanění práce o 1,6 procentního bodu**: Zaměstnanec s průměrnou mzdou díky tomu ušetří přibližně 7 500 Kč ročně. Celkový dopad naší reformy na státní rozpočet bude cca 1 až 2 mld. Kč. Dle možností budeme usilovat o další snižování zdanění práce o procentní bod každý rok.

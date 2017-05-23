@@ -1,3 +1,4 @@
+/* TODO: remove itself */
 $( function() {
   var show_relatives = function(data) {
     var ul = $("#relatives");

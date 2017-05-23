@@ -1,6 +1,7 @@
 ---
 title: Kultura
 category: psp2017
+img: kultura.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-25-2016-program-2017-kultura-r-h-3-k-t36941.html
 garant:
 ---

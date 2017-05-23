@@ -62,6 +62,12 @@ defaults:   # defaults values for collection scope
       rbar: "program"
   -
     scope:
+      path: "_program/psp2017"
+    values:
+      layout: "page"
+      rbar: "program program_item"
+  -
+    scope:
       path: "_teams"
     values:
       layout: "team"
