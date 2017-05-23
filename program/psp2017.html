@@ -25,7 +25,7 @@ rbar: ""
 <div class="column column-block">
   <h2>{{item.title}}</h2>
   <a href="{{item.url | relative_url }}">
-    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}">
+    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}">
   </a>
 </div>
 {% endfor %}
