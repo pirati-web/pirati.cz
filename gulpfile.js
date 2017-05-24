@@ -8,7 +8,7 @@ const concat = require('gulp-concat'),
       run = require('gulp-run');
 
 const b = 'bower_components';
-const libs = [
+const libsjs = [
   b + '/jquery/dist/jquery.js',
   b + '/jquery-ui/jquery-ui.min.js',
   /* TODO: replace: */
@@ -22,15 +22,33 @@ const libs = [
   b + '/handlebars/handlebars.js',
   b + '/raphael/raphael.js'
 ];
+const c = '_includes/js/'
+const customjs = [
+  c + 'custom.js',
+  c + 'kalkulacka.js',
+  c + 'ga.js',
+  c + 'tw.js',
+  c + 'fb.js'
+];
 
 // Concatenate & Minify JS
-gulp.task('scripts', function() {
-    return gulp.src(libs)
+gulp.task('scripts-libs', function() {
+    return gulp.src(libsjs)
       .pipe(concat('common-libs.js'))
       .pipe(rename({suffix: '.min'}))
       .pipe(uglify())
       .pipe(gulp.dest('assets/js'));
 });
+
+gulp.task('scripts-custom', function() {
+    return gulp.src(customjs)
+      .pipe(concat('custom.js'))
+      .pipe(rename({suffix: '.min'}))
+      .pipe(uglify())
+      .pipe(gulp.dest('assets/js'));
+});
+
+gulp.task('scripts', ['scripts-libs', 'scripts-custom']);
 
 // Deploy css
 gulp.task('styles', function() {

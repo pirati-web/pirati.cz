@@ -1,40 +1,12 @@
-<script src="{{'assets/js/common-libs.min.js' | relative_url}}"></script>
 <script>
-  Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
-  $(document).foundation();
-  $(document).on('replaced.zf.interchange', function(e)
-  {
-    $(this).foundation();
-  });
-  $("button[data-toggle]").on("click", function()
-  {
-    if ($(this).parent().hasClass("js-button-toggled"))
-    {
-      $(this).parent().removeClass("js-button-toggled");
-    }
-    else
-    {
-      $(this).parent().addClass("js-button-toggled");
-    }
-  });
-  window.onload = function() {};
-
-{% include js/search.js %}
-{% include js/back-top.js %}
-{% include js/rbar_people.js %}
-{% if page.url contains 'tiskove-zpravy' %}
-  {% include js/rbar_relatives.js %}
-{% endif %}
-{% if page.url contains 'regiony' %}
-  {% include js/kraje.js %}
-{% endif %}
-{% if page.url contains 'kalkulacka' %}
-  {% include js/kalkulacka.js %}
-{% endif %}
-{% if page.url contains 'psp2017' %}
-  {% include js/rbar_garant.js %}
-{% endif %}
-{% include js/fb.js %}
-{% include js/tw.js %}
-{% include js/ga.js %}
+/* Global variables from jekyll */
+var api_people = "{{'api/people.json' | relative_url}}";
+var api_search = "{{'api/search.json' | relative_url}}";
+var api_tags = "{{'api/tags.json' | relative_url}}";
+var api_regions = "{{'api/regions.json' | relative_url}}";
+var snippet_profile = "{{'assets/snippet/profile.html' | relative_url}}";
+var page_garant = "{{page.garant}}";
+var page_tags = {% if page.tags %}{{page.tags | split: ' '}}{% else %}[]{%endif%};
 </script>
+<script src="{{'assets/js/common-libs.min.js' | relative_url}}"></script>
+<script src="{{'assets/js/custom.min.js' | relative_url}}"></script>
