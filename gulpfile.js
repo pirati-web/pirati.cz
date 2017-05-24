@@ -2,12 +2,13 @@
 var gulp = require('gulp');
 
 // Include plugins
-var concat = require('gulp-concat');
-var uglify = require('gulp-uglify');
-var rename = require('gulp-rename');
+const concat = require('gulp-concat'),
+      uglify = require('gulp-uglify'),
+      rename = require('gulp-rename'),
+      run = require('gulp-run');
 
-var b = 'bower_components'
-var libs = [
+const b = 'bower_components';
+const libs = [
   b + '/jquery/dist/jquery.js',
   b + '/jquery-ui/jquery-ui.min.js',
   /* TODO: replace: */
@@ -22,7 +23,6 @@ var libs = [
   b + '/raphael/raphael.js'
 ];
 
-
 // Concatenate & Minify JS
 gulp.task('scripts', function() {
     return gulp.src(libs)
@@ -32,5 +32,19 @@ gulp.task('scripts', function() {
       .pipe(gulp.dest('assets/js'));
 });
 
+// Deploy css
+gulp.task('styles', function() {
+    return gulp.src([b + '/foundation-sites/scss/'])
+      .pipe(gulp.dest('_sass/foundation'));
+});
+
+// Runs Jekyll build
+gulp.task('build', ['scripts', 'styles'], function() {
+  var shellCommand = 'bundle exec jekyll build';
+
+  return gulp.src('.')
+    .pipe(run(shellCommand));
+});
+
 // Default Task
-gulp.task('default', ['scripts']);
+gulp.task('default', ['scripts', 'styles']);
