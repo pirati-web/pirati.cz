@@ -1,11 +1,5 @@
-{% if page.url contains 'pripoj-se' %}
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-{% endif %}
+<script src="{{'assets/js/common-libs.min.js' | relative_url}}"></script>
 <script>
-{% include js/jquery.min.js %}
-{% include js/jquery-ui.min.js %}
-{% include js/foundation.min.js %}
-{% include js/motion-ui.min.js %}
   Foundation.Interchange.SPECIAL_QUERIES['medium down'] = 'screen and (max-width: 63.9375em)';
   $(document).foundation();
   $(document).on('replaced.zf.interchange', function(e)
@@ -27,23 +21,12 @@
 
 {% include js/search.js %}
 {% include js/back-top.js %}
-{% include js/handlebars.min.js %}
 {% include js/rbar_people.js %}
 {% if page.url contains 'tiskove-zpravy' %}
   {% include js/rbar_relatives.js %}
 {% endif %}
 {% if page.url contains 'regiony' %}
-  {% include js/raphael.min.js %}
   {% include js/kraje.js %}
-{% endif %}
-{% if page.url contains 'pripoj-se' %}
-	$( function() {
-	  $( "#tabs" ).tabs({"active":1});
-	} );
-	$( function() {
-	  $( document ).tooltip();
-	} );
-	{% include js/subscription-forms.js %}
 {% endif %}
 {% if page.url contains 'kalkulacka' %}
   {% include js/kalkulacka.js %}
