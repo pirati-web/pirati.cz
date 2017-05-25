@@ -4,7 +4,7 @@
 
 ## Lokální spuštění
 
-Instalacee na Fedora 25: `dnf install rubygem-jekyll`
+Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
 
 Instalace ubuntu 16.04:
 
@@ -13,6 +13,15 @@ sudo apt-get install ruby-dev gcc make libghc-zlib-dev
 gem install rubygems-update
 gem install jekyll bundler
 bundle
+```
+
+**Společné**
+
+```
+npm install
+bower install
+bundle install
+gulp
 ```
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).

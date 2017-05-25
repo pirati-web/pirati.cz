@@ -51,10 +51,28 @@ gulp.task('scripts-custom', function() {
 gulp.task('scripts', ['scripts-libs', 'scripts-custom']);
 
 // Deploy css
-gulp.task('styles', function() {
-    return gulp.src([b + '/foundation-sites/scss/'])
+gulp.task('styles-foundation', function() {
+    return gulp.src([b + '/foundation-sites/scss/*/*'])
       .pipe(gulp.dest('_sass/foundation'));
 });
+
+gulp.task('styles-jquery-ui', function() {
+    return gulp.src([b + '/jquery-ui/themes/base/jquery-ui.css'])
+      .pipe(rename({extname: '.scss'}))
+      .pipe(gulp.dest('_sass/'));
+});
+
+gulp.task('styles-font-awesome-css', function() {
+    return gulp.src([b + '/font-awesome/scss/*'])
+      .pipe(gulp.dest('_sass/font-awesome'));
+});
+
+gulp.task('styles-font-awesome-font', function() {
+    return gulp.src([b + '/font-awesome/fonts/*'])
+      .pipe(gulp.dest('assets/fonts'));
+});
+
+gulp.task('styles', ['styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui']);
 
 // Runs Jekyll build
 gulp.task('build', ['scripts', 'styles'], function() {
