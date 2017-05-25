@@ -1,29 +1,29 @@
-       function formatNumber(number, sign) {
-            var stringValue = '';
-            if (number != null) {
-                stringValue = number.toString();
-                blockCount = Math.floor((stringValue.length - 1) / 3);
-                for (var index = 0; index < blockCount; index++) {
-                    stringValue = stringValue.slice(0, stringValue.length - 3 * (index + 1) - index) + " " + stringValue.slice(stringValue.length - 3 * (index + 1) - index);
-                }
-                if (number != 0 && sign != null) {
-                    stringValue = sign + stringValue + ",-";
-                } else {
-                    stringValue += ",-";
-                }
-            }
-            return stringValue;
-        }
+ function formatNumber(number, sign) {
+      var stringValue = '';
+      if (number != null) {
+          stringValue = number.toString();
+          blockCount = Math.floor((stringValue.length - 1) / 3);
+          for (var index = 0; index < blockCount; index++) {
+              stringValue = stringValue.slice(0, stringValue.length - 3 * (index + 1) - index) + " " + stringValue.slice(stringValue.length - 3 * (index + 1) - index);
+          }
+          if (number != 0 && sign != null) {
+              stringValue = sign + stringValue + ",-";
+          } else {
+              stringValue += ",-";
+          }
+      }
+      return stringValue;
+  }
 
-        function formatPercent(number) {
-            var stringValue = '';
-            if (number != null) {
-                stringValue = Math.abs(number).toString();
-                stringValue.replace('.', ',');
-                stringValue = (number > 0 ? "-" : "+") + stringValue + " %";
-            }
-            return stringValue;
-        }
+  function formatPercent(number) {
+      var stringValue = '';
+      if (number != null) {
+          stringValue = Math.abs(number).toString();
+          stringValue.replace('.', ',');
+          stringValue = (number > 0 ? "-" : "+") + stringValue + " %";
+      }
+      return stringValue;
+  }
 
         function calculate() {
 
@@ -171,30 +171,31 @@
             }
         }
 
-        function calculateClick() {
-            var inputMzda = $('#dane-akt-hruba-in');
-            var hrubaMzda = inputMzda.val();
-            if (hrubaMzda != null && hrubaMzda >= 11000) {
-                $('#div-calculator').removeClass('hidden-start');
-                $('#div-calculator-info').removeClass('hidden-start');
-                $('#div-calculator-text').removeClass('hidden-start');
-                calculate();
-                $('html, body').animate({
-                    scrollTop: $("#div-calculator").offset().top
-                }, 500);
-            } else {
-                $('#dane-error-in').removeClass('hidden');
-            }
-        }
+function calculateClick() {
+    var inputMzda = $('#dane-akt-hruba-in');
+    var hrubaMzda = inputMzda.val();
+    if (hrubaMzda != null && hrubaMzda >= 11000) {
+        $('#div-calculator').removeClass('hidden-start');
+        $('#div-calculator-info').removeClass('hidden-start');
+        $('#div-calculator-text').removeClass('hidden-start');
+        $('#div-chcete-vedet-vic').removeClass('hidden-start');
+        calculate();
+        $('html, body').animate({
+            scrollTop: $("#div-calculator").offset().top
+        }, 500);
+    } else {
+        $('#dane-error-in').removeClass('hidden');
+    }
+}
 
-        $().ready(function () {
-            $('#dane-button-calculate').on("click", calculateClick);
-            $('#dane-akt-hruba-in').on("keyup", calculate).on("change", calculate);
-            $('#dane-akt-deti').on("keyup", calculate).on("change", calculate);
-            $('#dane-akt-student').on("change", calculate);
-            $('#dane-akt-hruba-in').on("focus", function () {
-                if (!$(this).hasClass("hidden")) {
-                    $('#dane-error-in').addClass('hidden');
-                }
-            });
-        });
+$().ready(function () {
+    $('#dane-button-calculate').on("click", calculateClick);
+    $('#dane-akt-hruba-in').on("keyup", calculate).on("change", calculate);
+    $('#dane-akt-deti').on("keyup", calculate).on("change", calculate);
+    $('#dane-akt-student').on("change", calculate);
+    $('#dane-akt-hruba-in').on("focus", function () {
+        if (!$(this).hasClass("hidden")) {
+            $('#dane-error-in').addClass('hidden');
+        }
+    });
+});
