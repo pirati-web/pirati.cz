@@ -1,28 +1,26 @@
 ---
-date:         2017-05-16
+date:         2017-05-26
 category:     blog
-tags:         bezpecnost
+tags:         kampan praha volby
 layout:       post
-title:        "Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní."
-img:          2017/hacker.jpg
-author:     Ondřej Profant
+title:        "Piráti zahájili kampaň: Pusťte nás na ně! vyzýval voliče lídr strany Bartoš."
+img:          2017/ivan-vyskakuje.jpg
+author:     Mikuláš Ferjenčík
 ---
 
-V posledních dnech je svět ohromen škodlivým počítačovým programem z rodiny ransomware[^1] WannaCry. Ukázalo se, že nejen veřejné instituce nebyly schopny své systémy před touto hrozbou ochránit. Odstrašujícím případem jsou pak britské nemocnice, které přestaly příjímat pacienty. Vlády samy vydávají miliardy na hledání bezpečnostních slabin, ale následně je nedokáží zabezpečit. Je to podobné nebezpečí jako chemické zbraně. 
+Praha, 22. května 2017 – Černé na bílém! Takový název nese program, se kterým se Piráti utkají o křesla ve volbách do Poslanecké sněmovny PČR na podzim letošního roku. „Politici už nám toho naslibovali mnoho, zlaté zítřky, modré z nebe, nasazovali nám růžové brýle, Piráti už mají podobných slibů dost. Víme, co funguje, co je skutečně potřeba změnit, aby se v Česku žilo svobodněji, pohodlněji a aby země bohatla díky technologiím. Přinášíme voličům čtyři pilíře našeho programu – černé na bílém!” vysvětlil hned na úvod tiskové konference na pražském Rašínově nábřeží šéf Pirátské strany Ivan Bartoš.
 
-Uvědomme si, kde jsou skutečné problémy. Vytvoření tohoto červa umožnila Národní bezpečnostní agentura (NSA), špionážní organizace Spojených států amerických. Bohužel nedokázala tento průnik zabezpečit před odcizením, nebo nahlásit výrobci, který by mohl vydat opravu. Nyní ho útočníci zneužili ve velkém. Avšak dopady by nikdy nemohly být tak dramatické, kdyby instituce dodržovaly základní zásady počítačové bezpečnosti. Šíření napomohlo užívání nepodporovaných operačních systémů Windows XP, běžní uživatelé přihlášení na administrátotské heslo, špatně tvořená infrastruktura s nedostatečným zálohováním a podobné elementární chyby. 
+Obsah programu tentokrát Piráti shrnuli do čtyř hlavních bodů: kontrola moci a mocných, zjednodušení státu pomocí technologií, ochrana občanů před šikanou a obrana svobody. „Po osmi letech existence strany už za námi stojí konkrétní výsledky, dokázali jsme, že naše sliby držíme. Voliči se o tom mohou přesvědčit dnes a denně nejen v Praze, ale i v Mariánských Lázních, Brně a dalších městech, kde úspěšně pracují naši zastupitelé. A své kandidáty máme i v Senátu,” upozorňuje Bartoš. 
 
-Je potřeba zdůraznit, že v tomto případě se nejedná o žádný sofistikovaný útok nebo software, jde o ty nejprostší základy. Přestože instituce vydávají miliony na počítačovou bezpečnost, v praxi nemají zajištěné dodržování základních zásad bezpečnosti, ani dostatečně proškolený personál. Je zcela běžné, že instituce si platí drahé bezpečnostní audity, ale v každodenním provozu se jimi nedokáží řídit. 
+Skvělou práci odvádí například pirátský starosta Mariánských Lázní a volební lídr Pirátů v Karlovarském kraji Petr Třešňák. Ten k zahájení volební kampaně říká: „V Mariánských Lázních jsme v krajských volbách získali 30 % hlasů. Jsem si proto jistý, že jméno Piráti voličům nevadí. Takového výsledku jsme dosáhli díky naprosto konkrétním věcem – v našem městě můžete platit v MHD jakoukoli bezkontaktní platební kartou. Žádný monopol Opencard nebo Lítačky. Máme na městě transparentní účty, mají je městské organizace, na internetu je přístupný i můj kalendář,“ dodává Třešňák. Do vedení Mariánských Lázní se Piráti dostali v roce 2014 a jejich hlavním heslem byla otevřenost a účast občanů na rozhodování. „Leckdo po volbách prorokoval, že to byla jen hesla, kterými se nebudeme řídit. My jim teď dokazujeme opak. Doufám, že naše práce v Mariánkách, Praze, Brně i celostátně už lidi přesvědčila, že to myslíme vážně“ uzavírá sympatický starosta.
 
-Tento útok se proto nesmí stát zaminkou pro omezování svobod lidí na internetu. Pokud bychom danou situaci přirovnali k fyzickému světu, přišel čas, kdy se instituce musí naučit zamykat dveře, nikoliv hned vyhlásit stanné právo.
+Do boje o poslanecká křesla jdou Piráti s konkrétními požadavky. Komunikace s úřady musí být dostupná i online, daňová správa musí mít přátelský helpdesk a call centrum, firmu musí být možné založit za den. Daně musí být takové, aby je každý pochopil. Piráti budou chránit občany před šikanou: EET pro živnostníky bude zrušeno. Peníze, které nyní odchází do daňových rájů, musí být vysledovány a použity efektivněji, dle Pirátů především na platy ve zdravotnictví či školství. V neposlední řadě Piráti prosadí odvolatelnost politiků.
 
-Znovu se ukazuje, že do řízení veřejných instucí je především potřeba nastolit standardy 21. století. Jedině tak lze čelit a účinně předcházet dalším útokům a z nich plynoucím škodám. Software musí být aktualizovaný a jeho pořizovací a udržovací (maintanance) náklady nesmějí být předražené. Správci infrastruktury musí být zkušení lidé s odpovídající kvalifikací. 
+Volební kampaň Pirátů bude stát zhruba 5 milionů korun a opírá se o dva hlavní pilíře. Online kampaň pro představení Pirátského programu skrze pirátský web www.cernenabilem2017.cz a dobrovolnickou kampaň pro přímé oslovování voličů. Plánujeme dobrovolnicky rozdat přibližně 750 000 kusů tištěných Pirátských listů a na dobrovolníky spoléháme i u outdoorové reklamy. Především půjdeme cestou plachet na plotech a balkónech, polepů aut a tisíců lidí v Pirátském tričku v ulicích. Piráti počítají s tím, že ve volbách překonají hranici 10 % hlasů.
 
-Veřejné instituce nesmí podléhat marketingu velkých společností, které tlačí své nové produkty, jež nejsou nezbytné pro bezpečný provoz. Namísto toho je kriticky důležité začít správně řešit samotné jádro infrastruktury. To musí být moderní, modulární a být spravováno kvalifikovaným personálem. „Počítačová bezpečnost se nevyřeší speciálními dotacemi pro tuto oblast. Vyřeší ji jedině kvalitní, sebevědomý a schopný vnitřní útvar pro IT, který bude vytvářet moderní IT provozy. Nikoliv jen objednávat blbosti z katalogů dodavatelů.“ Shrnuje pražský zastupitel za Piráty Ondřej Profant.
-
-[^1]: ransomware = druh školivého software, který zabraňuje přístupu k uloženým datům. Tento program zpravidla vyžaduje zaplacení výkupného (anglicky ransom) za příslib zpřístupnění dat.
+Piráti jsou celosvětové hnutí, působící v 55 zemích světa, nebojíme se. „Pusťte nás na ně,” uzavřel Bartoš. Základní étos mladé politické strany, která v průzkumu STEM již překročila pětiprocentní hranici pro vstup do Sněmovny, se nese v duchu volání po obraně svobody. "Ne každý chce pracovat v obří paštikárně. Více svobody, méně buzerace!" žádají Piráti na stránkách cernenabilem2017.cz, kde představili své programové teze a žádají voliče o zapojení.
 
 ### Kontakty
 
-* [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant/), garant programového bodu informatika, ondrej.profant@pirati.cz, tel. 607 580 015
-* [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/), předseda Pirátů, ivan.bartos@pirati.cz, tel. 603 415 378
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/) – vedoucí mediálního odboru, email: mikulas.ferjencik@pirati.cz, telefon: 737 943 770
+* Štěpán Štrébl – volební manažer, email: stepan.strebl@pirati.cz, telefon: 776 764 422
