@@ -14,8 +14,9 @@
             <ul>
             {% assign program = site.program | where: "category","psp2017" %}
             {% for item in program %}
-            <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>
+            <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>  
             {% endfor %}
+            <li><a href="{{'/kalkulacka/' | relative_url}}">Daňová kalkulačka</a></li>
             </ul>
           </ul>
           <h4 class="c-widget-accordion-list__heading">Dlouhodobý program</h4>
