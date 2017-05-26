@@ -1,6 +1,5 @@
 ---
 title: Kodex Pirátského poslance
-category: psp2017
 ---
 
 Tento kodex je určen všem kandidátům na kandidátní listině Pirátů do volby do Poslanecké sněmovny. Kandidát vyplní svůj písemný souhlas s kodexem v prohlášení kandidáta, na základě kterého se kodexem zavazuje řídit, pokud bude zvolen do Poslanecké sněmovny.

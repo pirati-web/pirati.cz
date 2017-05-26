@@ -4,7 +4,7 @@
 
 ## Lokální spuštění
 
-Instalacee na Fedora 25: `dnf install rubygem-jekyll`
+Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
 
 Instalace ubuntu 16.04:
 
@@ -15,11 +15,20 @@ gem install jekyll bundler
 bundle
 ```
 
+**Společné**
+
+```
+npm install
+bower install
+bundle install
+gulp
+```
+
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
-`jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+`bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
-Popřípadě můžeme spustit jen: `jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
 
 ## Struktura
 
@@ -36,6 +45,6 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 
 **CSS** je ve složce `_sass` a je automaticky kompilováno a minifikován do jednoho souboru `main.css`.
 
-**JavaScript** je ve složce `_include/js`. Knihovny jsou linkovány skrze CDN v minifikované podobě. Další JS je v spojen do jednoho scriptu bez minifikace (zatím).
+**JavaScript** je ve složce `_include/js`. Knihovny jsou definovány v `bower.json` a produkční soubor je tvořen gulpem.
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)

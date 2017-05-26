@@ -1,0 +1,41 @@
+---
+layout: page
+title: Volební program pro volby do Poslanecké sněmovny 2017
+rbar: ""
+---
+
+<style>
+  .program-icon {
+    width: 125px;
+    height: 125px;
+  }
+</style>
+
+<div class="row">
+  <div class="columns medium-12">
+  <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
+    jednotlivých ministerstvech. V současnosti je schváleno prvních 7 kapitol:</p>
+    <br>
+  </div>
+</div>
+
+{% assign program = site.program | where: "category","psp2017" %}
+<div class="row small-up-2 medium-up-3 large-up-4">
+{% for item in program %}
+<div class="column column-block">
+  <h2>{{item.title}}</h2>
+  <a href="{{item.url | relative_url }}">
+    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}">
+  </a>
+</div>
+{% endfor %}
+</div>
+
+<br>
+
+<div class="row">
+  <div class="columns medium-12">
+    <p>Další várku programových bodů představí Piráti do konce června po schválenní
+      Republikovým výborem Pirátské strany.</p>
+  </div>
+</div>

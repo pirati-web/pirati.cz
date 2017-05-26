@@ -2,11 +2,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
@@ -27,20 +24,21 @@
     <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.' | relative_url }}">
     <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.' | relative_url }}">
     <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.' | relative_url }}">
-    {% if page.layout == 'post' %}
-    <meta property="og:url"           content="{{page.url | relative_url}}" />
+    {% if page.layout == 'post' or page.layout == 'page' %}
+    <meta property="og:url"           content="{{page.url | absolute_url }}" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Piráti: {{page.title}}" />
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | relative_url}}" />
+    {% endif %}{% if page.layout == 'post' %}
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | absolute_url }}" />
+    {% endif %}{% if page.layout == 'page' %}
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
     {% endif %}
     {% feed_meta %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
-    <link href="{{'assets/css/font-awesome-4.7.0/css/font-awesome.min.css' | relative_url}}" rel="stylesheet">
-    <link href="{{'assets/css/jquery/jquery-ui.min.css' | relative_url}}" rel="stylesheet">
     <link href="{{'assets/css/main.css' | relative_url }}" rel="stylesheet">
     {% endif %}
 </head>

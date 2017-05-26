@@ -1,0 +1,282 @@
+---
+layout: page
+title: Daně, které každý pochopí
+nomenu: true
+rbar: program
+---
+
+<style>
+  {%comment%}TODO: Přesunout do _sass, odstranit duplicity{%endcomment%}
+  .hidden {
+      visibility: hidden;
+  }
+
+  .hidden-start {
+      display: none;
+  }
+
+  .dane-cell-primary {
+      padding-left: 20px !important;
+  }
+
+  .dane-cell-secondary {
+      padding-left: 40px !important;
+  }
+
+  .right-text {
+      text-align: right;
+  }
+
+  .dane-cell-percent {
+      text-align: right;
+      width: 20%;
+  }
+
+  .dane-cell-value {
+      text-align: right;
+      width: 25%;
+  }
+
+  .dane-button {
+      padding: 10px;
+      background-color: #5CB85C;
+      color: white;
+  }
+
+  tr.dane-row-space-under > td {
+      padding-bottom: 60px;
+  }
+
+  table.dane > tbody > tr {
+      border-top-style: none !important;
+  }
+
+  table.dane > tr {
+      border-top-style: none !important;
+  }
+
+  .dane-result-plus {
+      color: #5CB85C;
+  }
+
+  .dane-result-minus {
+      color: #CC0303;
+  }
+
+  hr.dane-divider {
+      background: #808080;
+  }
+</style>
+
+<p>Největší zjednodušení daní zaměstnanců za posledních 25 let.</p>
+
+<div class="row">
+  <div class="medium-6 large-6 columns">
+      <table class="dane" style="margin-top:60px;">
+          <tbody>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Hrubá mzda</strong></td>
+                  <td class="dane-cell-value"><input id="dane-akt-hruba-in" class="right-text" type="number" /></td>
+              </tr>
+              <tr class="hidden-start">
+                  <td class="dane-cell-primary"><strong>Počet dětí</strong></td>
+                  <td class="dane-cell-value"><input id="dane-akt-deti" class="right-text" type="number" value="0" /></td>
+              </tr>
+              <tr class="hidden-start">
+                  <td class="dane-cell-primary"><strong>Student</strong></td>
+                  <td class="dane-cell-value"><input id="dane-akt-student" type="checkbox" /></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><span id="dane-error-in" class="hidden">Hrubá mzda musí být alespoň 11000 Kč</span></td>
+                  <td class="dane-cell-value"><button id="dane-button-calculate" class="dane-button" type="button">Spočítat</button></td>
+              </tr>
+          </tbody>
+      </table>
+  </div>
+  <div class="medium-6 large-6 columns">
+    <img src="{{ 'assets/img/program/k01_jedna_sazba.png' | relative_url}}" alt="Jedna sazba">
+  </div>
+</div>
+<div class="row">
+  <div>&nbsp;</div>
+</div>
+
+<div id="div-calculator" class="row hidden-start">
+  <div class="medium-6 large-6 columns">
+      <h1>Dnes</h1>
+      <hr class="dane-divider" />
+      <table class="dane">
+          <tbody>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Superhrubá mzda</strong></td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><b><span id="dane-akt-superhruba"></span></b></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Sociální poj. - zaměstnavatel</td>
+                  <td class="dane-cell-percent">25 %</td>
+                  <td class="dane-cell-value"><span id="dane-akt-socialni"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Zdravotní poj. - zaměstnavatel</td>
+                  <td class="dane-cell-percent">9 %</td>
+                  <td class="dane-cell-value"><span id="dane-akt-zdravotni"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Hrubá mzda</strong></td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><span id="dane-akt-hruba"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Sociální poj.</td>
+                  <td class="dane-cell-percent">6,5 %</td>
+                  <td class="dane-cell-value"><span id="dane-akt-socialni-obc"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Zdravotní poj.</td>
+                  <td class="dane-cell-percent">4,5 %</td>
+                  <td class="dane-cell-value"><span id="dane-akt-zdravotni-obc"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Daň z příjmu</td>
+                  <td class="dane-cell-percent">*<i>15,0 %</i></td>
+                  <td class="dane-cell-value"><span id="dane-akt-dan"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Solidární daň</td>
+                  <td class="dane-cell-percent">7,0 %</td>
+                  <td class="dane-cell-value"><span id="dane-akt-solidarni"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Sleva na poplatníka</td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><span id="dane-akt-slevy"></span></td>
+              </tr>
+              <tr class="hidden-start">
+                  <td class="dane-cell-secondary">Daňové zvýhodnění</td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><span id="dane-akt-bonus"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Čistá mzda</strong></td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><b><span id="dane-akt-cista"></span></b></td>
+              </tr>
+              <tr class="dane-row-space-under">
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Vaše efektivní zdanění:</strong></td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><span id="dane-akt-efektivni"></span></td>
+              </tr>
+          </tbody>
+      </table>
+  </div>
+  <div class="medium-6 large-6 columns">
+      <h1>Po reformě</h1>
+      <hr class="dane-divider" />
+      <table class="dane">
+          <tbody>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Nová hrubá mzda</strong></td>
+                  <td class="dane-cell-percent"></td>
+                  <td class="dane-cell-value"><b><span id="dane-pir-hruba"></span></b></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary hidden">Sociální poj. - zaměstnavatel</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary hidden">Zdravotní poj. - zaměstnavatel</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Rovná daň</td>
+                  <td class="dane-cell-percent">47 %</td>
+                  <td class="dane-cell-value"><span id="dane-pir-dan"></span></td>
+              </tr>
+              <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-secondary">Sleva na poplatníka</td>
+                  <td></td>
+                  <td class="dane-cell-value"><span id="dane-pir-slevy"></span></td>
+              </tr>
+              <tr class="hidden-start">
+                  <td class="dane-cell-secondary">Daňové zvýhodnění</td>
+                  <td></td>
+                  <td class="dane-cell-value"><span id="dane-pir-bonus"></span></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Čistá mzda</strong></td>
+                  <td></td>
+                  <td class="dane-cell-value"><b><span id="dane-pir-cista"></span></b></td>
+              </tr>
+              <tr class="dane-row-space-under">
+                  <td class="dane-cell-primary"><strong>Rozdíl</strong></td>
+                  <td></td>
+                  <td class="dane-cell-value"><b><span id="dane-rozdil" class="dane-result-plus"></span></b></td>
+              </tr>
+              <tr>
+                  <td class="dane-cell-primary"><strong>Vaše efektivní zdanění:</strong></td>
+                  <td></td>
+                  <td class="dane-cell-value"><span id="dane-pir-efektivni"></span></td>
+              </tr>
+          </tbody>
+      </table>
+  </div>
+</div>
+<div class="row hidden-start" id="div-chcete-vedet-vic"><div class="columns small-3 small-centered"><a href="#div-calculator-text" class="button">Chci vědět víc</a></div></div>
+<div id="div-calculator-info" class="row hidden-start">
+  <div class="columns medium-12">
+    <p>* - <i>Daň z příjmu se počítá ze superhrubé mzdy</i></p>
+    <p>Reforma počítá se zachováním slev na dani v plném rozsahu.</p>
+  </div>
+</div>
+<div id="div-calculator-text" class="row hidden-start" style="margin-top:55px;">
+  <img src="{{ 'assets/img/program/k02_dane_sazby.png' | relative_url}}" alt="Daně sazby" style="margin-bottom:60px;" />
+  <p><b>Skutečně rovná daň pro všechny</b></p>
+  <p>Málokdo si uvědomí, že téměř polovinu toho, co vydělá, tvoří daně a odvody.
+    Dnešní zdanění práce se totiž počítá příliš složitě na to, aby mu kdokoli rozuměl.
+    Tak proč vše neschovat do jednoho hezkého čísla, aby každý viděl, kolik platí?
+    Aby si každý mohl snadno z hlavy spočítat, kolik státu odvede?</p>
+  <p>Dnešní zdanění práce je výsledkem různých přílepků a dalších nepromyšlených úprav.
+    Topolánkova reforma z roku 2008 údajně zavedla „rovnou daň“. Ve však
+    skutečnosti vedla k degresi, kdy práce lidí s příjmem do 112 tisíc Kč měsíčně
+    je daněna kombinovanou sazbou (bez slev) 48,6 %. Jakýkoli příjem nad tuto částku
+    je daněn pouze sazbou 33,8 %.</p>
+  <p>Česká pirátská strana prosazuje <b>zjednodušení</b> daňového systému.
+    <b>Navrhujeme v prvním roce snížit zdanění práce o 1,6 procentního bodu na
+      hodnotu 47 % - jednu rovnou daň pro všechny zaměstnance.</b> Dle možností
+    ekonomiky chceme snižovat zdanění práce o 1 procentní bod ročně, abychom se
+    dostali na přijatelné hodnoty zdanění. České zdanění práce je dnes totiž
+    <a href="http://www.oecd.org/ctp/tax-policy/taxing-wages-20725124.htm" target="_blank">osmé nejvyšší mezi zeměmi OECD</a>.</p>
+  <p>Dnešní hrubá mzda je imaginárním číslem bez vypovídací hodnoty. <b>Všechny
+    odvody se schovají do jedné daně – jednoho „čísla“.</b> Na výplatní pásce tak
+    zaměstnanec najde <b>hrubou mzdu, daň, slevu a čistou mzdu – to je vše.</b>
+    Díky tomu <b>každý uvidí, kolik skutečně státu odvádí.</b> A samozřejmě ušetří…</p>
+  <img src="{{ 'assets/img/program/k03_mezni_sazby.png' | relative_url}}" alt="Srovnání sazeb" style="display:block;margin:auto;margin-top:60px;" />
+</div>

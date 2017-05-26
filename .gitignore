@@ -6,3 +6,6 @@ _podklady/html/pirati.cz/
 
 Gemfile.lock
 desktop.ini
+
+node_modules
+bower_components

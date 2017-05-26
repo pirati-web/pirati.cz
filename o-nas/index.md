@@ -12,3 +12,4 @@ Po sedmi letech existence fungující díky dobrovolnické práci máme starostu
 * [Regiony]({{ '/regiony/' | relative_url }})
 * [Program]({{ '/program/' | relative_url}})
 * [Připoj se]({{ '/pripoj-se/' | relative_url}})
+* [Stanovy Pirátské strany]({{ 'o-nas/stanovy.html' | relative_url }})

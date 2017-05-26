@@ -1,46 +1,31 @@
 ---
-title: Ministerstvo spravedlnosti
+title: Spravedlnost
 category: psp2017
+img: spravedlnost.png
+approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-23-2017-program-2017-ministerstvo-spravedlnosti-rh1k-t36876.html
+garant:
 ---
 
-<div class="callout warning">
-  <h4>Pracovní verze</h4>
-  <p>Tento prohgramový dokument musí ještě schválit Republikový výbor.</p>
-</div>
+Chceme efektivní justici, která slouží spravedlnosti, nikoliv formalitám, nebo dokonce ochraně zločinců pomocí právních kliček.
 
-Podle [BIS][] je česká justice infikována korupcí, se kterou se nedaří bojovat. Chceme justici, která slouží spravedlnosti, nikoliv formalitám nebo dokonce ochraně zločinců pomocí právních kliček.
+## Zodpovědní soudci
 
-## Obroda justice
+- **Prosadíme otevřený výběr**: Kandidáti na soudce budou vybíráni ve veřejných výběrových řízeních za jasných podmínek.
+- **Zařídíme větší transparentnost**: Na soudce se musí vztahovat zákon o střetu zájmů, veřejná majetková přiznání, veřejný diář schůzek a lobbingu, prověrka NBÚ.
+- **Zavedeme veřejnou kartu soudce**: Se záznamy o jeho osobě a výsledcích, hodnocení jeho práce nejméně jednou za 5 let s možností postihu a odvolání soudce. Pravomoc k tomu bude mít kárný senát, kde by měla být většina ne-soudců.
+- **Chceme osobní zodpovědnost za excesy při vydávání nezákonných rozhodnutí**: Odpovědnost posoudí soud vyššího stupně, který shledá exces.
 
-- Na soudce se musí vztahovat zákon o střetu zájmů, veřejná majetková přiznání, veřejný diář schůzek a lobbingu, prověrka NBÚ.
-- Zavedeme veřejnou kartu soudce se záznamy o jeho osobě a výsledcích, hodnocení jeho práce nejméně jednou za 5 let s možností iniciovat kárné řízení a odvolání soudce. Většinu kárného senátu budou tvořit ne-soudci.
-- Kandidáti na soudce budou vybíráni v otevřených výběrových řízeních.
-- Nominace představitelů justice by měl projednávat i Senát.
+## Rychlejší přístup ke spravedlnosti
+- **Prosadíme rychlé řešení situace dlužníků s více exekucemi**:  Sloučením exekucí dle místní příslušnosti dlužníka s přiměřenou srážkou z chráněného bankovního účtu.
+- **Zavedeme elektronický soudní spis**: Prosadíme judikáty na Internetu a další online služby.
+- **Podpoříme zjednodušení soudní soustavy**: Jen tři úrovně.
+- **Přeneseme více věcí na správní úřady**, stejně jako je tomu například v telekomunikacích (ČTÚ). Soudní přezkum rozhodnutí bude zachován.
+- **Omezíme důvody, kdy začíná řízení od znova.** Typicky věci vrací odvolací soud. Ten by se případu „nezbavil“, ale musel by chybu sám napravit.
+- **Umožníme hromadné žaloby a přednostní jednání o věci s dopadem na více lidí.**
 
-## Zrychlíme přístup ke spravedlnosti
+## Efektivní stíhání zločinců a náprava odsouzených
 
-- Zavedeme elektronický spis, judikáty na Internetu a další bezplatné online služby
-- Posílíme koncentraci řízení a zastavíme ping-pong mezi státními institucemi.
-- Podpoříme přenesení některých věcí na úřady (např. rejstříky, opatrovníci)
-- Umožníme hromadné žaloby a přednostní projednání věcí s dopadem na mnoho lidí
-- Stát více podpoří alternativní řešení sporů (např. mediace) a tresty
-
-## Zefektivníme trestní řízení
-
-- Chceme, aby se připravovaný nový trestní řád inspiroval v zemích s efektivní justicí a zmizely právní kličky umožňující zločincům vyhýbat se spravedlnosti.
-- Schválíme nový zákon o státním zastupitelství v podobě, která omezí politický vliv na státní zástupce (viz [Rekonstrukce státu][])
-- Státní zástupci nesou zodpovědnost za obžalobu a měli by veřejnost informovat o důvodech, proč některá trestní řízení trvají extrémně dlouho.
--Podpoříme lepší zajištění majetku trestně stíhaných, větší důraz na peněžité tresty a propadnutí majetku (např. u korupce)
-
-## Další opatření v resortu justice:
-- Prosadíme okamžitou úlevu pro oběti exekucí – sloučení exekucí dle místní příslušnosti, zálohu a strop na náklady a chráněný bankovní účet
-- Vytvoříme na úřadu vlády tým nejlepších expertů na plný úvazek v různých oborech pro odbornou přípravu nových zákonů
-další opatření jsou v dlouhodobém programu [Právní stát][]
-
-## Zdroje
-
-[Česká justice otázka správy a nezávislosti](http://osf.cz/wp-content/uploads/2015/08/justice_TIC.pdf)
-
-[BIS]: http://www.cak.cz/scripts/detail.php?id=7745
-[Rekonstrukce státu]: http://www.rekonstrukcestatu.cz/cs/statni-zastupitelstvi-bez-politickych-zasahu-do-vysetrovani
-[Právní stát]: {{ '/program/dlouhodoby/pravni-stat/' | relative_url }}
+- **Odpolitizujeme státní zastupitelství.**
+- **Inspirujeme se zeměmi s fungující spravedlností při přípravě trestního řádu**: Zamezíme zbytečnému opakovaní důkazů, nežádoucím formalitám a kličkám, kvůli kterým unikají zločinci a politici usvědčení z korupce.
+- **Podpoříme lepší zajištění majetku trestně stíhaných**: Zvýšíme důraz na peněžité tresty a propadnutí majetku.
+- Podpoříme alternativní tresty s přínosem pro společnost, programy pro nápravu, návrat do společnosti a prevenci recidivy.

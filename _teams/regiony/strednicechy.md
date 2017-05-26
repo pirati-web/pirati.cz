@@ -4,10 +4,12 @@ cid: sck
 name: Střední Čechy
 fullname: Krajské sdružení Středočeský kraj
 img: teams/stredni-cechy.jpg
-leader: Dominika Michailidu
+leader: Petr Procházka
 deputy:
-- Petr Procházka
+- František Kopřiva
 - Antonín Schejbal
+- Petra Smutná
+- Jan Lukášek
 contact:
 - Zuzana Dohnalová
 region: Středočeský kraj
@@ -17,6 +19,7 @@ categories:
 tags:
 - střední-čechy
 facebook: https://www.facebook.com/pirati.stc
+twitter: https://twitter.com/pirati_sck 
 redmine: https://redmine.pirati.cz/projects/stredni-cechy
 forum: https://forum.pirati.cz/stredocesky-kraj-f276/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
