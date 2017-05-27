@@ -3,14 +3,14 @@ uid: praha
 name: Praha
 fullname: Krajské sdružení Praha
 img: teams/praha.jpg
-leader: Ondřej Profant
+leader: ondrej.profant
 deputy:
 - Tomáš Murňák
 - Pavel Hájek
 - Viktor Mahrik
 - Roman Kučera
 contact:
-- Michal Jokeš
+- michal.jokes
 region: Praha
 url: http://praha.pirati.cz
 categories:

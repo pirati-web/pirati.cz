@@ -4,7 +4,7 @@ cid: liberec
 name: Liberecký kraj
 fullname: Krajské sdružení Liberecký kraj
 img: teams/liberec.jpg
-leader: Ondřej Kolek
+leader: ondrej.kolek
 deputy:
 - Petr Vyhnal
 - Martin Rejman

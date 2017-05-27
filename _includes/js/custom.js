@@ -25,7 +25,6 @@ window.onload = function() {};
 var choice_n_random = function(data, n) {
   n = (typeof n !== 'undefined') ?  n : 3;
   var choice = [];
-  console.log('choice', n, data);
   while(true) {
     var value = data[Math.floor(Math.random()*data.length)];
     if(value.description) {
@@ -35,7 +34,6 @@ var choice_n_random = function(data, n) {
       }
     }
   }
-  console.log(choice);
   return choice;
 };
 
@@ -44,22 +42,30 @@ var choice_n_random = function(data, n) {
 * @param {collection} data
 * @param {string} uid
 **/
-var choice_person = function(data, uid) {
+var choice_person = function(data, uid, role) {
+  role = (typeof role !== 'undefined') ?  role : null;
   var person = null;
+  var result = null;
   $.each(data, function(index, person){
     if(person.uid==uid) {
-      garant=person;
+      result=person;
+      result['role'] = role;
       return;
     }
   });
-  console.log('choice_person', uid, garant);
-  return [garant];
+  if(result) {
+    return [result];
+  } else {
+    return [{'name': uid, 'role': role}];
+  }
 }
 
-/**
- * @param {collection} data
- **/
-var choice_garant = function(data) { return choice_person(data, page_garant); };
+/** @param {collection} data **/
+var choice_garant = function(data) { return choice_person(data, page_garant, 'garant'); };
+/** @param {collection} data **/
+var choice_leader = function(data) { return choice_person(data, page_leader, 'vedoucí týmu'); };
+/** @param {collection} data **/
+var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktní osoba'); };
 
 /**
  * Show people in the #people
@@ -68,10 +74,8 @@ var choice_garant = function(data) { return choice_person(data, page_garant); };
  * @param {string} where - #id
  **/
 var show_people = function(data, who, where) {
-  if(where.length) {
-    console.log('lidi', who, data, where);
-    choice = who(data); //choice_n_random(data, 3)
-    console.log('lidi', choice);
+  if(where.length) { /* Only if proper div exists */
+    choice = who(data);
     $.get(snippet_profile, function (template) {
       var template=Handlebars.compile(template);
       $.each(choice, function(index, value) {
@@ -138,7 +142,7 @@ var show_relatives = function(data) {
 }
 
 /**
- * Make map of czech regions
+ * Make map of czech regions for pirati.cz/regiony
  * @param {collection} data
  **/
 var makemap = function(data) {
@@ -217,7 +221,9 @@ $(function() {
   $.get(api_people)
     .done(function(data) {
       show_people(data, choice_n_random, $('#people'));
-      show_people(data, choice_garant, $('#garant'));
+      show_people(data, choice_garant,   $('#garant'));
+      show_people(data, choice_leader,   $('#leader'));
+      show_people(data, choice_contact,  $('#contact'));
     })
     .fail(function(data) { console.log('Error in relatives articles:', data); });
 
@@ -230,7 +236,6 @@ $(function() {
 
   /* Regions */
   if($('#regions-map').length) {
-    console.log('regiony');
     $.get(api_regions)
       .done(function(data) { makemap(data); })
       .fail(function(data) { console.log("Error: map"); });

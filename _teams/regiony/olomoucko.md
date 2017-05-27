@@ -4,7 +4,7 @@ cid: olomouc
 name: Olomoucký kraj
 fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
-leader: Petr Kapounek
+leader: petr.kapounek
 deputy:
 - Michaela Skokanová
 - Miloš Zmeškal

@@ -4,14 +4,14 @@ name: Jižní Morava
 fullname: Krajské sdružení Jihomoravský kraj
 cid: brno
 img: teams/brno.jpg
-leader: Róbert Čuma
+leader: robert.cuma
 deputy:
 - Ondřej Kotas
 - Tomáš Koláčný
 - Mária Vašíčková
 - Radek Holomčík
 contact:
-- Michal Vít
+- michal.vit
 region: Jihomoravský kraj
 url: https://www.pirati.cz/regiony/jiznimorava/start
 categories:
