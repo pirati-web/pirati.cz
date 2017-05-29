@@ -3,7 +3,7 @@ date:         2017-05-26
 category:     blog
 tags:         volby ekonomika dane
 layout:       post
-title:        "Piráti zahájili kampaň: Pusťte nás na ně! vyzýval voliče lídr strany Bartoš."
+title:        "Piráti zjednodušují daně pro zaměstnance, spustili daňovou kalkulačku."
 img:          2017/dane.png
 author:     Mikuláš Ferjenčík
 ---
