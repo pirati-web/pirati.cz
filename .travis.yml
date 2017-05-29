@@ -4,7 +4,7 @@ rvm:
 
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#" ./_site
+  - bundle exec htmlproofer --assume-extension --disable-external --url-ignore "#,#fn:1" --file-ignore "./_site/assets/snippet/profile.html" ./_site
 
 branches:
   only:

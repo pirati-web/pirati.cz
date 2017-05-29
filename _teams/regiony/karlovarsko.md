@@ -4,7 +4,7 @@ name: Karlovarský kraj
 fullname: Krajské sdružení Karlovarský kraj
 cid: vary
 img: teams/karlovy-vary.jpg
-leader: Petr Třešňák
+leader: petr.tresnak
 deputy:
 - Josef Janů
 - Barbora Hradečná

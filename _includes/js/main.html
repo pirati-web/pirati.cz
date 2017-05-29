@@ -6,6 +6,8 @@ var api_tags = "{{'api/tags.json' | relative_url}}";
 var api_regions = "{{'api/regions.json' | relative_url}}";
 var snippet_profile = "{{'assets/snippet/profile.html' | relative_url}}";
 var page_garant = "{{page.garant}}";
+var page_leader = "{{page.leader}}";
+var page_contact ="{{page.contact | first}}";
 var page_tags = {% if page.tags %}{{page.tags | split: ' '}}{% else %}[]{%endif%};
 </script>
 <script src="{{'assets/js/common-libs.min.js' | relative_url}}"></script>

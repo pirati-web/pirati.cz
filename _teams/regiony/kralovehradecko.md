@@ -4,7 +4,7 @@ cid: hradec
 name: Královéhradecký kraj
 fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
-leader: Pavel Bulíček
+leader: pavel.bulicek
 deputy:
 - Martin Jiránek
 - Miroslav Čaky

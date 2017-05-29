@@ -4,7 +4,7 @@ cid: plzen
 name: Plzeňský kraj
 fullname: Krajské sdružení Plzeňský kraj
 img: teams/plzen.jpg
-leader: Lukáš Bartoň
+leader: lukas.barton
 deputy:
 - Petr Bohuslav
 - Honza Pošvář

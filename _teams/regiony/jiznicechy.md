@@ -4,7 +4,7 @@ name: Jižní Čechy
 fullname: Krajské sdružení Jihočeský kraj
 cid: budejice
 img: teams/ceske-budejovice.jpg
-leader: Lukáš Kolařík
+leader: lukas.kolarik
 deputy:
 - Petr Procházka
 - Antonín Schejbal

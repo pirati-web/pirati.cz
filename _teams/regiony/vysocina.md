@@ -4,7 +4,7 @@ cid: jihlava
 name: Kraj Vysočina
 fullname: Krajské sdružení Vysočina
 img: teams/jihlava.jpg
-leader: Jan Pošvář
+leader: jan.posvar
 deputy:
 - Michaela Vodová
 - Lukáš Hejduk
