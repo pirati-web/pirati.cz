@@ -20,7 +20,7 @@ bundle
 ```
 npm install
 bower install
-bundle install
+bundle install --path vendor/bundle --without test development
 gulp
 ```
 
