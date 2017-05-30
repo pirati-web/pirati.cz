@@ -8,7 +8,7 @@ img:          2017/dane.png
 author:     Mikuláš Ferjenčík
 ---
 
-Česká pirátská strana prosazuje daně, které každý pochopí. Nástrojem k tomu má být „superrovná daň“. Jak by na vás dopadla, nyní můžete zjistit sami na stránce **[www.pirati.cz/kalkulacka](www.pirati.cz/kalkulacka)**. Drtivá většina zaměstnanců by si polepšila.
+Česká pirátská strana prosazuje daně, které každý pochopí. Nástrojem k tomu má být „superrovná daň“. Jak by na vás dopadla, nyní můžete zjistit sami na stránce **[www.pirati.cz/kalkulacka](https://www.pirati.cz/kalkulacka/)**. Drtivá většina zaměstnanců by si polepšila.
 
 Je superrovná, protože má stejnou sazbu pro všechny příjmové skupiny, zatímco dnes vysokopříjmové skupiny daní méně. Současná „rovná“ daň a změť sazeb odvodů okolo má jediný cíl, a to skrýt před lidmi skutečné zdanění, které ve skutečnosti není rovné ani spravedlivé. Díky superrovné dani bude každý jasně vidět, kolik platí,“ vysvětluje místopředseda strany a pražský lídr Jakub Michálek.
 
@@ -18,7 +18,7 @@ Pirátský návrh počítá se sloučením všech dílčích sazeb daní a odvod
 
 Superrovná daň usnadní život i zaměstnavatelům. „Budou odvádět jednu daň na jeden účet a komunikovat s jedním úřadem. Naše kalkulačka ukazuje, že navrhujeme snadné a proveditelné řešení,“ uzavírá Michálek.
 
-Více na **[www.pirati.cz/kalkulacka](www.pirati.cz/kalkulacka)**
+Více na **[www.pirati.cz/kalkulacka](https://www.pirati.cz/kalkulacka/)**
 
 ### Kontakty:
 
