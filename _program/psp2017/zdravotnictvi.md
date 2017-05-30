@@ -28,7 +28,7 @@ Pacient bude váženým klientem s reálnou možností informované a svobodné 
   odlišovat rozsahem hrazených služeb a mírou spoluúčasti a příplatku k
   pojistnému (se zákonným základem a limitem).
 * **Umožníme veřejnou kontrolu bez zákulisního politikaření:** Umožníme
-  přímou volbu zástupce pojištěnců do správní a dozorčí rady zdravotní pojišťovny.
+  přímou volbu zástupců pojištěnců do správní a dozorčí rady zdravotní pojišťovny.
 * **Nastavíme jasná pravidla:** Prosadíme spravedlivé úhrady nemocnicím
   namísto dotací vyvoleným a nesystémových záplat.
 
