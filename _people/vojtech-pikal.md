@@ -20,9 +20,9 @@ ordrp: 2
 ---
 
 Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů; je rovněž členem kontrolního výboru zastupitelstva města Olomouc. Po vystudování přírodovědné větve Slovanského Gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
-V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester software v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 pracuje jako softwarový analytik v Praze.
+V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester software v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
 
-Vojtěch žil a snad vždy bude v Olomouci. Nyní ovšem bydlí v Praze. Je svobodný.
+Vojtěch žil a snad vždy bude v Olomouci.
 
 V reálné politice zastupuje Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie) a [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice).
 
@@ -39,3 +39,5 @@ Kromě politiky se dlouhodobě věnuje organizaci LARPů a dalších her pro ml�
 Své výdělky z veřejných prostředků si nenechává jen pro sebe a tak je [donátorem NFPK](http://www.nfpk.cz/cz/donatori-12), a přispívá na [Místo pro přírodu](http://www.mistoproprirodu.cz/), [Kohovolit.eu](http://kohovolit.eu/) a [Rekonstrukci státu](http://www.rekonstrukcestatu.cz/cs).
 
 Mezi jeho zájmy kromě rolových her patří společenský tanec, sledování infotainmentu na youtube či četba fantasy a sci-fi literatury.
+
+Politický kompas: [1](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=54.3&d=57.4&g=71.9&s=71.9)
