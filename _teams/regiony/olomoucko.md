@@ -9,7 +9,7 @@ deputy:
 - Michaela Skokanová
 - Miloš Zmeškal
 contact:
-- Jakub Vrzala
+- Michal Gill
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start
 categories:
@@ -29,7 +29,7 @@ Máme místní sdružení v Majetíně (sdružení Pirátská Tvrz), Olomouci, P
 
 Možnosti zapojení:
 
-Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Napište koordinátorovi Jakubu Vrzalovi na adrese jakub.vrzala(аt)pirati.cz pro podrobnosti.
+Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Napište koordinátorovi Michalu Gillovi na adrese michal.gill@pirati.cz nebo na telefonu 770 113 644 pro podrobnosti.
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
