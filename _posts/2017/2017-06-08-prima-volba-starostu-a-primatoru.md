@@ -1,7 +1,7 @@
 ---
 date:         2017-06-08
 category:     blog
-tags:         obrana
+tags:         volby samosprava
 layout:       post
 title:        "Piráti předložili návrh na přímou volbu a odvolatenost starostů a primátorů"
 img:          2017/retez.jpg
