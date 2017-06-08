@@ -8,7 +8,7 @@ img:          2017/retez.jpg
 author:     Jakub Michálek
 ---
 
-Jakub Michálek na výboru pražského zastupitelstva pro legislativu představil návrh klubu Pirátů na přímou volbu starostů a primátorů včetně primátora hl. m. Prahy. Podle Pirátů by se měl pražský primátor volit v přímé volbě, nemělo by ho volit zastupitelstvo jako dosud. Nový systém by přivedl do politiky více čerstvých osobností. Praha je oprávněna předkládat návrhy zákonů Poslanecké sněmovně a její stanovisko bude pro případné zavedení přímé volby a odvolatelnosti politiků v celém státě klíčové. Výbor doporučil, aby teď Piráti projednali návrh přímé volby s předsedy klubů.
+Jakub Michálek na legislativním výboru ZHMP představil návrh klubu Pirátů na přímou volbu starostů a primátorů včetně primátora hl. m. Prahy. Podle Pirátů by se měl pražský primátor volit v přímé volbě, nemělo by ho volit zastupitelstvo jako dosud. Nový systém by přivedl do politiky více čerstvých osobností. Praha je oprávněna předkládat návrhy zákonů Poslanecké sněmovně a její stanovisko bude pro případné zavedení přímé volby a odvolatelnosti politiků v celém státě klíčové. Výbor doporučil, aby teď Piráti projednali návrh přímé volby s předsedy klubů.
 
 > „V minulém volebním období jsme v Praze zaznamenali 3 různé podoby Rady hlavního města Prahy a v tomto volebním období klinickou smrt pražské koalice. Pod primátorkou Krnáčovou se křeslo kymácelo asi půl roku a fungování Rady se prakticky zastavilo. Není správné, aby občané byli rukojmí špatně nastaveného systému. Každý zastupitel dnes musel dostat politickou trafiku s příjmem 100 tisíc měsíčně, aby se primátorka Krnáčová udržela ve funkci. Piráti důsledně prosazují požadavek většinové populace, aby si lidé mohli svého starostu zvolit a nešlo jen o výsledek politikaření. Svého předsedu si dnes volí každý spolek, tak proč by si svého primátora nemohli zvolit Pražané?“ říká předseda klubu Pirátů Jakub Michálek.
 
@@ -16,13 +16,13 @@ Příkladem úspěšného systému přímé volby je například referendum, kte
 
 ### Základní teze přímé volby a odvolatelnosti primátora (příp. starosty) podle Pirátů: 
 
-* primátor a jeho náměstek budou voleni jako dvojice přímo občany hl. m. Prahy (podobně jako v amerických prezidentských volbách) 
-* bude stačit jednokolová volba spolu s volbami do zastupitelstva a krajskými volbami (prakticky to znamená, že přibude na hlasovacím lístku jedno políčko pro kandidáta na primátora u každé strany),
-* primátor bude mít na starosti exekutivu, zatímco zastupitelstvo bude mít vyhrazeno dlouhodobá koncepční rozhodnutí a kontrolní oprávnění (konkrétní pravomoci jako schvalování rozpočtu a dispozice s majetkem budou podobně jako dnes vyjmenovány v zákoně)
-* primátor bude odvolatelný v referendu, které bude vyhlášeno na základě petice občanů anebo usnesení zastupitelstva,
-* Rada bude nepovinným poradním orgánem primátora; člena rady jmenuje primátor se souhlasem zastupitelstva; primátor bude oprávněn z části přenést své kompetence na člena rady,
-* primátor bude oprávněn rozpustit Zastupitelstvo, po čemž se automaticky budou konat volby do Zastupitelstva i nová volba primátora, 
-* zastupitelstvo získá vůči radě další kontrolní oprávnění, prostřednictvím kontrolního výboru; primátor, člen rady a zaměstnanec města bude povinen na vyzvání výboru v případě důvodného podezření vypovídat pod přísahou a budou povinni poskytnout všechny dokumenty.
+* Primátor a jeho náměstek budou voleni jako dvojice přímo občany hl. m. Prahy (podobně jako v amerických prezidentských volbách). 
+* Bude stačit jednokolová volba spolu s volbami do zastupitelstva a krajskými volbami (prakticky to znamená, že přibude na hlasovacím lístku jedno políčko pro kandidáta na primátora u každé strany).
+* Primátor bude mít na starosti exekutivu, zatímco zastupitelstvo bude mít vyhrazeno dlouhodobá koncepční rozhodnutí a kontrolní oprávnění (konkrétní pravomoci jako schvalování rozpočtu a dispozice s majetkem budou podobně jako dnes vyjmenovány v zákoně).
+* Primátor bude odvolatelný v referendu, které bude vyhlášeno na základě petice občanů anebo usnesení zastupitelstva.
+* Rada bude nepovinným poradním orgánem primátora; člena rady jmenuje primátor se souhlasem zastupitelstva; primátor bude oprávněn z části přenést své kompetence na člena rady.
+* Primátor bude oprávněn rozpustit Zastupitelstvo, po čemž se automaticky budou konat volby do Zastupitelstva i nová volba primátora. 
+* Zastupitelstvo získá vůči radě další kontrolní oprávnění, prostřednictvím kontrolního výboru; primátor, člen rady a zaměstnanec města bude povinen na vyzvání výboru v případě důvodného podezření vypovídat pod přísahou a budou povinni poskytnout všechny dokumenty.
 
 ### Výhody přímé volby:
 
