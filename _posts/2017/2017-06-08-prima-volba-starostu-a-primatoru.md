@@ -8,7 +8,7 @@ img:          2017/retez.jpg
 author:     Jakub Michálek
 ---
 
-Jakub Michálek na legislativním výboru ZHMP představil návrh klubu Pirátů na přímou volbu starostů a primátorů včetně primátora hl. m. Prahy. Podle Pirátů by se měl pražský primátor volit v přímé volbě, nemělo by ho volit zastupitelstvo jako dosud. Nový systém by přivedl do politiky více čerstvých osobností. Praha je oprávněna předkládat návrhy zákonů Poslanecké sněmovně a její stanovisko bude pro případné zavedení přímé volby a odvolatelnosti politiků v celém státě klíčové. Výbor doporučil, aby teď Piráti projednali návrh přímé volby s předsedy klubů.
+Jakub Michálek na legislativním výboru ZHMP představil [návrh klubu Pirátů na přímou volbu starostů a primátorů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/prima-volba-starostu-a-primatoru.pdf) včetně primátora hl. m. Prahy. Podle Pirátů by se měl pražský primátor volit v přímé volbě, nemělo by ho volit zastupitelstvo jako dosud. Nový systém by přivedl do politiky více čerstvých osobností. Praha je oprávněna předkládat návrhy zákonů Poslanecké sněmovně a její stanovisko bude pro případné zavedení přímé volby a odvolatelnosti politiků v celém státě klíčové. Výbor doporučil, aby teď Piráti projednali návrh přímé volby s předsedy klubů.
 
 > „V minulém volebním období jsme v Praze zaznamenali 3 různé podoby Rady hlavního města Prahy a v tomto volebním období klinickou smrt pražské koalice. Pod primátorkou Krnáčovou se křeslo kymácelo asi půl roku a fungování Rady se prakticky zastavilo. Není správné, aby občané byli rukojmí špatně nastaveného systému. Každý zastupitel dnes musel dostat politickou trafiku s příjmem 100 tisíc měsíčně, aby se primátorka Krnáčová udržela ve funkci. Piráti důsledně prosazují požadavek většinové populace, aby si lidé mohli svého starostu zvolit a nešlo jen o výsledek politikaření. Svého předsedu si dnes volí každý spolek, tak proč by si svého primátora nemohli zvolit Pražané?“ říká předseda klubu Pirátů Jakub Michálek.
 
@@ -35,3 +35,7 @@ Příkladem úspěšného systému přímé volby je například referendum, kte
 Piráti také zároveň upozorňují na rizika přímé volby. Zejména jsme mysleli na případ, aby primátor a zastupitelstvo spolupracovali. Proto se budou volit na společném hlasovacím lístku a vedle toho bude mít primátor pravomoc rozpustit zastupitelstvo, čímž budou vyhlášeny nové volby. Jiným rizikem je, že si občané zvolí populisty jako je pan Kotleba na Slovensku, ale v konečném důsledku je věcí občanů daného města, koho si chtějí zvolit.
 
 Pro princip přímé volby starostů se historicky vedle Pirátů vyjádřily i hnutí ANO, STAN a KSČM a v případě menších obcí i ČSSD. Piráti by také podpořili, aby přímá volba i odvolatelnost starosty/primátora byla výslovně upravena v Ústavě, která dnes mluví pouze o obecním zastupitelstvu. 
+
+### Dokumenty 
+
+* [Návrh Pirátů na přímou volbu starostů a primátorů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/prima-volba-starostu-a-primatoru.pdf)
