@@ -1,13 +1,13 @@
 -
   name: Hospodaření
   items:
-  - title: Smlouvy, faktury a účty
+  - title: Smlouvy, finance a výroční zprávy
     content: |
       <p>Naši lidé hospodaří transparentně v Pirátské straně, a proto to zvládnou i ve státě.</p>
       <ul>
         <li><a href="https://smlouvy.pirati.cz">Registr smluv</a></li>
-        <li><a href="https://www.fio.cz/ib2/transparent?a=2100048174">Hlavní bankovní účet</a></li>
-        <li><a href="https://www.pirati.cz/fo/seznam_uctu">Všechny bankovní účty</a></li>
+        <li><a href="https://wiki.pirati.cz/fo/seznam_uctu">Bankovní účty</a></li>
+        <li><a href="vyrocni-zpravy">Výroční zprávy</a></li>
       </ul>
   - title: Dodavatelé a výběrová řízení
     content: |

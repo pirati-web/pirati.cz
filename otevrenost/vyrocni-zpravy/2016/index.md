@@ -1,3 +1,9 @@
+---
+layout: page
+title: Výroční zpráva České pirátské strany za rok 2016
+rbar: otevrenost
+---
+
 * Na Valích 510, IČO: 25408232,
 * OR Ústí nad Labem, odd. c, vl. 16000
 
@@ -72,7 +78,7 @@ Dále je naší povinností:
 
 Naší povinností je informovat republikové předsednictvo mimo jiné o plánovaném rozsahu a načasování auditu a o významných zjištěních, která jsme v jeho průběhu učinili, včetně zjištěných významných nedostatků ve vnitřním kontrolním systému.
 
-Datum zprávy auditora: 31. března 2017 
+Datum zprávy auditora: 31. března 2017
 
 .......................... 			....................
 Ing. Hora, jednatel								Ing. Hora, auditor
@@ -84,12 +90,12 @@ v plném rozsahu
 
 ke dni 31.12.2016
 
-(v celých tisících Kč) 
+(v celých tisících Kč)
 
 Název a sídlo účetní jednotky
 Česká pirátská strana
 
- 
+
 
 IČO v v
 Rehorova 943
@@ -97,7 +103,7 @@ Praha
 
 71339698 13000
 
- 
+
 
 |Označení a|Aktiva b|Stav k prvnímu dni účetního období 1|stav k poslednímu dni účetního období 2|
 |---|---|---|---|
@@ -223,7 +229,7 @@ Praha
 |15.|Závazky ke společníkům sdruženým ve společnosti|0|0|
 |16.|Závazky z pevných termínovanýc hoperací a opcí|0|0|
 |17.|Jiné závazky|0|0|
-|18.|Krátkodobé úvěry|0|0| 
+|18.|Krátkodobé úvěry|0|0|
 |19.|Eskortní úvěry|0|0|
 |20.|Vydané krátkodobé dluhopisy|0|0|
 |21.|Vlastní dluhopisy|0|0|
@@ -252,7 +258,7 @@ IČO: 71339698
 * Řehořova 943
 * Praha
 * 13000
- 
+
 |Označení a|NÁKLADY b|Činnost hlavní 1|Činnost hospodářská 2|Činnost celkem 3|
 |---|---|---|---|---|
 |A.I.|Spotřebované náklu a nakupované služby (součet A.I.1 až A.I.6)|4685||4685|
@@ -404,7 +410,7 @@ Odměna auditora za rok 2016 činí 30 250,00 Kč (včetně DPH).
 
 **Odst. 6 - Údaje o zaměstnancích**
 
-* Účetní jednotka zaměstnávala 6 pracovníků v zaměstnaneckém poměru* 
+* Účetní jednotka zaměstnávala 6 pracovníků v zaměstnaneckém poměru*
 
 * Osobní náklady: 50 576,61 Kč
 
@@ -638,4 +644,3 @@ Přílohou této zprávy jsou darovací smlouvy
 * [Darovací smlouva se Stranou zelených ze dne 20. 9. 2016](https://smlouvy.pirati.cz/smlouvy/2016/09/20/dar-sz-kos-35/)
 * [Darovací smlouva se Stranou zelených ze dne 1. 8. 2016](https://smlouvy.pirati.cz/smlouvy/2016/07/10/dar-sz-haus-50/)
 * [Darovací smlouva se Stranou zelených ze dne 22. 7. 2016](https://smlouvy.pirati.cz/smlouvy/2016/07/22/dar-sz-kos-100/)
-
