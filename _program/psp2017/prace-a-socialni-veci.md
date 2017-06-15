@@ -1,7 +1,7 @@
 ---
 title: Práce a sociální věci
 category: psp2017
-img: prace-a-socialni-veci.png
+img: prace-a-socialni.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-36-2017-program-2017-prace-a-socialni-veci-r-h-1-k-t37129-10.html
 garant: vit.simral
 ---
