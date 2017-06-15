@@ -14,7 +14,7 @@ rbar: ""
 <div class="row">
   <div class="columns medium-12">
   <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
-    jednotlivých ministerstvech. V současnosti je schváleno prvních 7 kapitol:</p>
+    jednotlivých ministerstvech.</p>
     <br>
   </div>
 </div>
@@ -23,18 +23,11 @@ rbar: ""
 <div class="row small-up-2 medium-up-3 large-up-4">
 {% for item in program %}
 <div class="column column-block">
+  <br>
   <h2>{{item.title}}</h2>
   <a href="{{item.url | relative_url }}">
     <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}">
   </a>
 </div>
 {% endfor %}
-</div>
-
-<br>
-
-<div class="row">
-  <div class="columns medium-12">
-    <p>Další várku programových bodů představíme do konce června po schválení republikovým výborem Pirátů.</p>
-  </div>
 </div>
