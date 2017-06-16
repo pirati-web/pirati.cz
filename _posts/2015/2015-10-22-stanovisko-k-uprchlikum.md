@@ -16,7 +16,7 @@ K řešení přispívá pomoc jednotlivých lidí, spolků a charit. Nesouhlasí
 
 Miliony uprchlíků zůstávají v táborech v Turecku a dalších státech sousedících se Sýrií, kde žijí v nuzných podmínkách. Celou strukturu uprchlíků ukazuje následující graf:
 
-![Situační schéma]({{ 'azyl-ostatní.png' | prepend: '/assets/img/articles/2015/' | relative_url }} "Příklad současné situace ve světě")
+![Situační schéma]({{ 'azyl-ostatni.png' | prepend: '/assets/img/articles/2015/' | relative_url }} "Příklad současné situace ve světě")
 
 Pro řešení migrační vlny je třeba prosadit změny v azylové politice Evropské unie, neboť jde o celoevropský problém. Následující graf ukazuje počet žadatelů o azyl v jednotlivých členských státech:
 
