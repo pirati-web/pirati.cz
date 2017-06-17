@@ -8,8 +8,7 @@ leader: petr.kapounek
 deputy:
 - Michaela Skokanová
 - Miloš Zmeškal
-contact:
-- Michal Gill
+contact: michal.gill
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start
 categories:
