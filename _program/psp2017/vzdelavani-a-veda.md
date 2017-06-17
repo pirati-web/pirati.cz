@@ -35,14 +35,14 @@ kódem a zdarma si student vyzkouší ve škole a může ho používat i doma.
 * **Prosazujeme stabilní institucionální podporu.** Podstatné jsou kvalita a
 výsledky v mezinárodním měřítku. Zpřehledníme a zjednodušíme granty.
 * **Usilujeme o transparentní financování veřejných výzkumných institucí.**
-* **Podporujeme pěstování vědeckých talentů**
+* **Podporujeme pěstování vědeckých talentů.**
 
 ## A něco navíc:
 
 * **Učebnice a výsledky výzkumu vzniklé s veřejnou podporou učiníme zdarma veřejně dostupnými.**
 * **Zavedeme jednotný registr závěrečných prací na VŠ.** Prodloužíme dobu,
 po kterou je možné přezkoumat regulérnost studia na VŠ ze 3 na 15 let.
-* **Transparentní podpora sportu:** Podporujeme přímou a transparentní
-podporu tělovýchovných organizací a dotování využívání sportovišť dětmi a
+* **Transparentní podpora sportu.** Podporujeme přímou a transparentní
+podporu tělovýchovných organizací a dotování sportovišť využívaných dětmi a
 veřejností, viz bod [volnočasové aktivity](https://www.pirati.cz/program/dlouhodoby/volnocasove-aktivity/)
 
