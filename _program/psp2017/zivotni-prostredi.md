@@ -32,8 +32,8 @@ výrobků.
 ## Vzduch a voda – podmínky života
 
 * **Budeme bojovat proti nedostatku vody:** Podpoříme vytváření a revitalizaci
-rybníků, malých nádrží, pramenišť, mokřadů, čímž zlepšíme retenční schopnosti
-krajiny.
+rybníků, malých nádrží, pramenišť, mokřadů, čímž zlepšíme schopnosti
+krajiny zadržet vodu.
 * **Udržíme férovou cenu za vodné a stočné.** Prosadíme důslednou ochranu
 vodních zdrojů před privatizací.
 * **Aby nás smog nedusil:** Zavedeme nástroje pro rychlou regulaci a prevenci vzniku
