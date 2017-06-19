@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vit-simral.jpg    # 165 x 220
 description: garant programového bodu práce a sociální věci             	# kratký popis, max 160 znaků
 mail:
-- vojtech.pikal@pirati.cz
+- vit.simral@pirati.cz
 mob:			  
 profiles:
   github:     
