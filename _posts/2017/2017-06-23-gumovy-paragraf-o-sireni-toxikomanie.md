@@ -5,7 +5,7 @@ tags:         konopí
 layout:       post
 title:        "Lze kuchařkou šířit toxikomanii? Podle Ústavního soudu ano."
 img:          2017/vajgly.jpg
-author:     Jana Michailidu
+author:     Jana Michailidu, Tomáš Vymazal, Markéta Gregorová, Roman Kučera
 ---
 
 
