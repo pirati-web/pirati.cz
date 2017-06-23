@@ -3,7 +3,7 @@ date:         2017-06-23
 category:     blog
 tags:         konopí
 layout:       post
-title:        "Gumový paragraf o šíření toxikomanie"
+title:        "Lze kuchařkou šířit toxikomanii? Podle Ústavního soudu ano."
 img:          2017/vajgly.jpg
 author:     Jana Michailidu
 ---
@@ -13,7 +13,7 @@ author:     Jana Michailidu
 
 > „(1) Kdo svádí jiného ke zneužívání jiné návykové látky než alkoholu nebo ho v tom podporuje anebo kdo zneužívání takové látky jinak podněcuje nebo šíří, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.“
 
-Po kauze growshopy je tento případ příkladem ještě rozsáhlejšího ohýbání paragrafu o šíření toxikomanie. Tehdy byla stanovena jakási hranice, kdy jedna prodejna nesměla prodávat zároveň nástroje a pomůcky k pěstování i zpracování konopí (knihy, semínka, pěstební potřeby, apod.). Už to byl ze strany soudů velice spekulativní postup. V kauze „Recepty z konopí“ však zašly ještě dál. Samotné udělení souhlasu k vydání knihy bylo tentokrát dostatečným důvodem pro stíhání a odsouzení nakladatele. Důkazem nebezpečnosti knihy má být mimo jiné to, že je psána žoviálním způsobem, neupozorňujícím na možné negativní dopady užívání konopí. 
+Po kauze growshopy je tento případ příkladem ještě rozsáhlejšího ohýbání paragrafu o šíření toxikomanie. Tehdy byla stanovena jakási hranice, kdy jedna prodejna nesměla prodávat zároveň nástroje a pomůcky k pěstování i zpracování konopí (knihy, semínka, pěstební potřeby, apod.) Už to byl ze strany soudů velice spekulativní postup. V kauze „Recepty z konopí“ však zašly ještě dál. Samotné udělení souhlasu k vydání knihy bylo tentokrát dostatečným důvodem pro stíhání a odsouzení nakladatele. Důkazem nebezpečnosti knihy má být mimo jiné to, že je psána žoviálním způsobem, neupozorňujícím na možné negativní dopady užívání konopí. 
 
 Nejvyšší soud a státní zastupitelství se také nedokázali při popírání svobody slova rozhodnout, zdali své rozhodnutí zdůvodnit tím, že kniha nepřispívá k veřejné diskusi směřující k legalizaci, či naopak tím, že ohrožuje veřejný zájem na ochraně společnosti. Pirátský garant svobody projevu Roman Kučera k tomu dodává: „Myslím, že i Ústavní soud si ve svém výroku protiřečí. Na jedné straně připouští politickou diskusi, na straně druhé mluví o porušování zákonů. Nebylo prokázáno, že by vydání takové knihy někomu ublížilo. Vedle toho je zjevné, že publikace tohoto typu navzdory domněnkám soudů k politické diskusi přispívají. V době, kdy v moderním světě stále více států a regionů liberalizuje svůj přístup ke konopí v důsledku tíhy faktických poznatků vědecké sféry, je výrok ÚS absurdní.“
 
