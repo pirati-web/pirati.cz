@@ -4,11 +4,11 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online"
-img:          2017/retez.jpg
-author:     Jakub Michálek
+img:          2017/bartos.jpg
+author:     Mikuláš Ferjenčík
 ---
 
-Založit firmu za jediný den – Piráti přichází s reálnou vizí, kdy budou mít občané možnost založit obchodní společnost z domova za den. Aby dokázali, že to myslí vážně, vytvořili jako modelový příklad internetovou stránku https://urad.pirati.cz, kde si může prvních 10 zájemců zaregistrovat firmu přímo z domu.
+Založit firmu za jediný den – Piráti přichází s reálnou vizí, kdy budou mít občané možnost založit obchodní společnost z domova za den. Aby dokázali, že to myslí vážně, vytvořili jako modelový příklad internetovou stránku **[https://urad.pirati.cz](https://urad.pirati.cz)**, kde si může prvních 10 zájemců zaregistrovat firmu přímo z domu.
 
 „Nejedná se o „trénink”, ale o reálně fungující web, který firmu skutečně založí. Ostatní strany nabízí jen vize a prázdné sliby toho, co prý bude za 20 let. My chceme, aby naše sliby byly hmatatelné. Proto přinášíme konkrétní řešení - černé na bílém,” říká předseda Pirátů Ivan Bartoš.
 
@@ -20,4 +20,5 @@ Na rozdíl od jiných politiků, kteří o rušení formulářů pouze mluví, t
 
 ### Odkazy 
 
-* [Prezentace Pirátů k problematice zakládání firem online]()
+* [Prezentace Pirátů k problematice zakládání firem online](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/na-urad-z-domova.pdf)
+* [Stránka https://urad.pirati.cz, kde si lze vyzkoušet, jak bude vypadat založení firmy online](https://urad.pirati.cz) 
