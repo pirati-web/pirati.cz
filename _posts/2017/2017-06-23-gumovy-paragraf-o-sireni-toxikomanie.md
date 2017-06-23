@@ -23,8 +23,5 @@ Piráti bojují za racionální přístup k řešení problematiky psychotropní
 
 ### Zdroje:
 
-* [článek ČTK o rozhodnutí ústavního soudu](http://www.ceskenoviny.cz/zpravy/ustavni-soud-potvrdil-nakladateli-podminku-za-recepty-z-konopi/1493331)
 * [Rozhodnutí ústavního soudu](http://kraken.slv.cz/III.US3489/16)
-* [§ 287 trestního zákoníku](https://www.zakonyprolidi.cz/cs/2009-40#p287)
-* [vaříme s alkofetem](https://www.bux.cz/kucharky-ostatni/varime-s-alkoholem-1)
 
