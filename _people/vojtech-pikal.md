@@ -6,7 +6,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - olomoucko
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: 1. místopředseda Pirátů             	# kratký popis, max 160 znaků
+description: 1. místopředseda Pirátů, lídr pro Olomoucký kraj, 2. místopředseda Olomouckého kraje	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
