@@ -18,6 +18,6 @@ Veřejná podpora by měla být poskytována podle následujících zásad:
 * Veřejná podpora volnočasových aktivit zejména s účastí soukromých firem musí mít jasná pravidla, aby nedocházelo k odklánění veřejných subvencí do soukromých rukou. Rozhodování o veřejné podpoře na úrovni obce, kraje či státu by mělo probíhat co nejblíže občanům a s jejich zapojením.
 * Výsledky placené byť částečně z veřejných prostředků budou dále [svobodně][svoboda-informaci] využitelné občany i komerčním sektorem (fotografie, počítačové programy apod.)
 
-[svoboda-informaci]: https://www.pirati.cz/program/svoboda_informaci
+[svoboda-informaci]: https://www.pirati.cz/program/svoboda-informaci
 [transparence]: https://www.pirati.cz/program/transparence
 [politicke-strany]: https://www.pirati.cz/program/politicke-strany

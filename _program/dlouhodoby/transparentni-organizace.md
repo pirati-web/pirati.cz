@@ -22,4 +22,4 @@ Podle modelu transparentní organizace musí fungovat všechny úřady, zdravotn
 
 Pro splnění povinností transparentní organizace nechá stát vytvořit [svobodný software][svoboda-informaci], který transparentní organizaci maximálně zjednoduší plnění povinností a ušetří náklady.
 
-[svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda_informaci
+[svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda-informaci
