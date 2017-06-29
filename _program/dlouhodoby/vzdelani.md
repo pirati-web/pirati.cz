@@ -20,12 +20,10 @@ Každý učitel musí mít možnost učební materiály aktualizovat, upravovat 
 V organizaci vzdělávacích institucí Pirátská strana prosazuje:
 
 * zásadní [demokratizaci][prima-demokracie] základního, středního a vysokého školství. Studenti a učitelé by měli být vždy informováni o záležitostech školy a v rámci svých schopností by se měli podílet na rozhodování (školní rady s účastí i nezletilých studentů, větší role akademických senátů),
-
 * zavedení modelu [transparentní organizace][transparence], včetně zveřejňování statistických informací o úspěchu žáků v soutěžích a vědomostních testech a v počtu přijatých na vysoké školy jako měřítka kvality,
-
 * úpravu pravomocí jednotlivých orgánů školy, aby nebyly soustředěny v rukou jedné osoby (ředitele, rektora, děkana), ale zaručovaly konsensuální pravidla a jejich nezávislou kontrolu ([oddělení moci][delba-moci]).
 
-[svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda_informaci
-[prima-demokracie]: https://www.pirati.cz/program/dlouhodoby/prima_demokracie
-[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
-[delba-moci]: https://www.pirati.cz/program/dlouhodoby/delba_moci
+[svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda-informaci
+[prima-demokracie]: https://www.pirati.cz/program/dlouhodoby/prima-demokracie
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace
+[delba-moci]: https://www.pirati.cz/program/dlouhodoby/delba-moci
