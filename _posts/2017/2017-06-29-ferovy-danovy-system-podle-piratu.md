@@ -26,13 +26,15 @@ TOP 09 zruší solidární daň, je přece top. Plat zaměstnanců by se příli
 
 ČSSD chce danit progresivně. Dávný sen sociálních demokratů je má spasit ve volbách. Pro zaměstnance s hrubými platy 25 a 50 tisíc by to byla úspora kolem tisíce korun. Babiše by opatření stálo více než 9 milionů, což je šestina výdělku z korunových dluhopisů.
 
+![Vyčíslení politických slibů](/assets/img/articles/2017/vycisleni.png "Vyčíslení – jaké dopady budou mít daňové sliby hlavních politických stran?")
+
 Hnutí ANO navrhuje zrušení superhrubé mzdy, které mělo od začátku v koaliční smlouvě a usilovně na tom makalo, ale nepovedlo se. Navíc jako třešničku chce slíbit 500 korun navíc každému zaměstnanci, což Andrej Babiš přirovnal k výdajovým paušálům živnostníků. Jen další nesystémové zkomplikování daňového systému. Nesmyslnost tohoto přirovnání je navíc tak do očí bijící, že mu to projde.
 
 Piráti nemusí brát ohledy na vlastníky velkých firem, sponzory a lobbisty. Chceme férový systém pro zaměstnance, živnostníky i podnikatele. Náš program myslíme vážně, nikoliv jako předvolební rétorické cvičení. Je reálný a transparentní: Černý na bílém.
 
 ### Odkazy
 
-* [Vyčíslení návrhu Pirátů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/porovnani-dani.pdf)
+* **[Vyčíslení politických slibů dle Pirátů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/porovnani-dani.pdf)**
 
 ### Kontakty:
 
