@@ -8,8 +8,6 @@ img:          2017/vysvedceni.jpg
 author:     Mikuláš Ferjenčík
 ---
 
-Piráti 
-
 Právě v ruce držíte **[vysvědčení pro pomalu dosluhující Vládu České republiky](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/vysvedceni-vlade-2017.pdf)**. Jeden z důležitých volebních cílů Pirátů je modernizace českého školství. Abychom šli příkladem, přidali jsme ke klasické známce i slovní hodnocení.
 
 Garanti Pirátského programu ohodnotili práci ministrů poměrně přísně. Tři z nich dokonce nechali propadnout. Pevně věříme, že na rozdíl od skutečných studentů nebudou opakovat. Průměrná známka odpovídá lepší čtyřce, stejně jako ohodnocení premiéra Bohuslava Sobotky. O něm Ivan Bartoš soudí, že „Nese odpovědnost za působení jednotlivých ministrů, odstrašující příklad je působení naštěstí již bývalého ministra průmyslu Jana Mládka, který působil spíše jako lobbista mobilních operátorů, než jako zástupce občanů.“
