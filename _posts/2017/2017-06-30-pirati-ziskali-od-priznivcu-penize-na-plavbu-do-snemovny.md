@@ -14,7 +14,7 @@ Piráti spustili na serveru Hithit crowdfundingový projekt, který měl za cíl
 
 Plavba Pirátské lodi je součástí kampaně k volbám do Poslanecké sněmovny. Odstartuje v půli srpna a postupně budeme navštěvovat města na dolních tocích Vltavy a Labe. Budeme představovat Pirátský program a kandidáty a zároveň pořádat doprovodné akce jako přednášky, akce pro děti nebo koncerty. 
 
-„Máme obrovskou radost a vzhledem k masivní podpoře projektu, který má vyhrazeno na sběr peněz ještě 43 dní, nyní plánujeme rozšíření plavby. Zvažujeme například pokračování plavby i na Moravě,“ dodal Bartoš. Stav Pirátského fundraisingu můžete sledovat zde: [https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny](https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny)
+„Máme obrovskou radost a vzhledem k masivní podpoře projektu, který má vyhrazeno na sběr peněz ještě 43 dní, nyní plánujeme rozšíření plavby. Zvažujeme například pokračování plavby i na Moravě,“ dodal Bartoš. Stav Pirátského fundraisingu můžete sledovat zde, kde můžete i sami přispět: [https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny](https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny)
 
 Děkujeme za podporu! Tohle léto bude na Pirátské vlně. Pusťte nás na ně!
 
