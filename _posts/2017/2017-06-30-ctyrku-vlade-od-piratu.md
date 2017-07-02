@@ -22,7 +22,7 @@ Od Jakuba Michálka a Ondřeje Profanta dostal ministr vnitra Milan Chovanec rov
 
 Poměrně shovívavou trojku dostal ministr zahraničí Lubomír Zaorálek, který podle Mikuláše Peksy „přispěl k debatě o kybernetické bezpečnosti, když se jeho mailová schránka stala objektem hackerského útoku.“
 
-Závěrem se sluší říct, že Sobotkova vláda bohužel řadu věcí neudělala – digitalizace státu i rozvoj dopravní infrastruktury a se prakticky zastavily na místě – ale s výjimkou mizerné implementace EET ani nezpůsobila větší škody. V říjnu vládu oznámkují voliči.
+Závěrem se sluší říct, že Sobotkova vláda bohužel řadu věcí neudělala – digitalizace státu i rozvoj dopravní infrastruktury se prakticky zastavily na místě – ale s výjimkou mizerné implementace EET ani nezpůsobila větší škody. V říjnu vládu oznámkují voliči.
 
 ### Kontakt:
 
