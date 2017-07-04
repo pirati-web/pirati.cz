@@ -8,7 +8,7 @@ img:          2017/stavba-povolena.jpg
 author:     Jan Nezhyba
 ---
 
->„Novela stavebního zákona – tak jak byla schválena – je naprosto antiliberální. Odporuje základním demokratickým principům, jde proti ústavním právům a mezinárodním dohodám, jako je Ahurská úmluva.“ říká garant pirátského programu v oblasti životního prostředí Jan Nezhyba.
+>„Novela stavebního zákona – tak jak byla schválena – je naprosto antiliberální. Odporuje základním demokratickým principům, jde proti ústavním právům a mezinárodním dohodám, jako je Aarhuská úmluva.“ říká garant pirátského programu v oblasti životního prostředí Jan Nezhyba.
 
 „Za naprostý faul považujeme autoritářskou novelu stavebního zákona, vyřazující veřejnost z rozhodování na úrovni územního a stavebního řízení. Salámová metoda ukrajování a omezování svobod se opět vyplácí. Po okleštění zákona o EIA přichází další promyšlený krok, který znovu ubírá na právech občanů, a dokonce ještě pod rouškou jejich blaha. Tažení proti nevládním organizacím a jejich účasti v řízeních je jen účelovým odstraněním překážek pro absolutní ovládnutí jinak právně chráněného prostředí před zlovůlí developerů a lobbistů, prosazujících své zájmy. Poprvé od roku 1989 poslanci výrazně omezují právo občanů spolurozhodovat o své zemi,“ doplňuje Nezhyba. 
 
