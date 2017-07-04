@@ -2,157 +2,160 @@
 layout: default
 ---
 {% include submenu.html %}
-<div class="c-hero">
-  <div class="row">
-    <div class="c-hero-container">
-      <div class="small-12 columns">
-        <div class="c-hero-block">
-          <h1 class="c-hero__title">Naši lidé</h1>
-        </div>
-        <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
-          <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
-            <button class="orbit-previous">
-              <span class="show-for-sr">Předchozí záložka</span>
-              <i class="fa fa-chevron-left" aria-hidden="true"></i>
-            </button>
-            <button class="orbit-next">
-              <span class="show-for-sr">Další záložka</span>
-              <i class="fa fa-chevron-right" aria-hidden="true"></i>
-            </button>
-            <ul class="orbit-container">
-              {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
-              {% for person in team %}
-              {% include people/carousel.html param='person' %}
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section">
-      <div class="o-section-inner">
-        <main class="o-section-block">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
-              {% comment %}
-              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
-                <h1 class="c-BasicPage__title"> Organizace </h1>
-                <div class="c-BasicPage__meta">
-                  <div class="c-BasicPage__meta-filters">
-                    <div class="c-BasicPage__meta-filter-block">
-                      <div class="c-BasicPage__meta-filters__title">Filtr</div>
-                    </div>
-                    <div class="c-BasicPage__meta-filter-block">
-                      <div class="c-BasicPage__meta-filter">
-                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
-                        <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
-                          <ul>
-                            <li>
-                              <input type="checkbox" name="group[]" id="group1" value="">
-                              <label for="group1">Předsednictvo strany</label>
-                            </li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="group2" value="">
-                              <label for="group2">Krajští zastupitelé</label>
-                            </li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="group3" value="">
-                              <label for="group3">Senátoři s podporou Pirátů</label>
-                            </li>
-                            <li class="spacer"></li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="group5" value="" checked="">
-                              <label for="group5">Všechny kategorie</label>
-                            </li>
-                          </ul>
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+                            {% comment %}
+                            <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                                <h1 class="c-BasicPage__title"> Organizace </h1>
+                                <div class="c-BasicPage__meta">
+                                    <div class="c-BasicPage__meta-filters">
+                                        <div class="c-BasicPage__meta-filter-block">
+                                            <div class="c-BasicPage__meta-filters__title">Filtr</div>
+                                        </div>
+                                        <div class="c-BasicPage__meta-filter-block">
+                                            <div class="c-BasicPage__meta-filter">
+                                                <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
+                                                <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
+                                                    <ul>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group1" value="">
+                                                            <label for="group1">Předsednictvo strany</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group2" value="">
+                                                            <label for="group2">Krajští zastupitelé</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group3" value="">
+                                                            <label for="group3">Senátoři s podporou Pirátů</label>
+                                                        </li>
+                                                        <li class="spacer"></li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group5" value="" checked="">
+                                                            <label for="group5">Všechny kategorie</label>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="c-BasicPage__meta-filter-block">
+                                            <div class="c-BasicPage__meta-filter">
+                                                <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="region-filters">Všechny kraje</button>
+                                                <div class="c-BasicPage__meta-filter-dropdown" id="region-filters" style="display: none; " data-toggler="is-open">
+                                                    <ul>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="region_group1" value="">
+                                                            <label for="region_group1">Středočeský kraj</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="region_group2" value="">
+                                                            <label for="region_group2">Moravskoslezský kraj</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="region_group3" value="">
+                                                            <label for="region_group3">Zlínský kraj</label>
+                                                        </li>
+                                                        <li class="spacer"></li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="region_group4" value="" checked="">
+                                                            <label for="region_group4">Všechny kraje</label>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endcomment %}
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
+                                    <div id="rp" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#zastupitele" class="c-simple-accordion-title">Krajští zastupitelé</a>
+                                    <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
+                                        <div class="c-simple-accordion-content-block">
+                                            <h3>Hlavní město Praha</h3>
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
+                                            {% include people/list-2col.html param=team %}
+                                        </div>
+                                        <div class="c-simple-accordion-content-block">
+                                            <h3>Karlovarský kraj</h3>
+                                            {% assign team = site.people | where_exp:"item","item.categories contains 'vary'" %}
+                                            {% include people/list-2col.html param=team %}
+                                        </div>
+                                    </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Královéhradecký kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'hradec'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Jihomoravský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'jmk'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
+                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat'" | sort:"ordsenat" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
-                      </div>
                     </div>
-                    <div class="c-BasicPage__meta-filter-block">
-                      <div class="c-BasicPage__meta-filter">
-                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="region-filters">Všechny kraje</button>
-                        <div class="c-BasicPage__meta-filter-dropdown" id="region-filters" style="display: none; " data-toggler="is-open">
-                          <ul>
-                            <li>
-                              <input type="checkbox" name="group[]" id="region_group1" value="">
-                              <label for="region_group1">Středočeský kraj</label>
-                            </li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="region_group2" value="">
-                              <label for="region_group2">Moravskoslezský kraj</label>
-                            </li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="region_group3" value="">
-                              <label for="region_group3">Zlínský kraj</label>
-                            </li>
-                            <li class="spacer"></li>
-                            <li>
-                              <input type="checkbox" name="group[]" id="region_group4" value="" checked="">
-                              <label for="region_group4">Všechny kraje</label>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {% endcomment %}
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
-                  <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
-                    {% include people/list-2col.html param=team %}
-                  </div>
-                </li>
-              </ul>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#zastupitele" class="c-simple-accordion-title">Krajští zastupitelé</a>
-                  <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                    <div class="c-simple-accordion-content-block">
-                      <h3>Hlavní město Praha</h3>
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
-                      {% include people/list-2col.html param=team %}
-                    </div>
-                    <div class="c-simple-accordion-content-block">
-                      <h3>Karlovarský kraj</h3>
-                        {% assign team = site.people | where_exp:"item","item.categories contains 'vary'" %}
-                        {% include people/list-2col.html param=team %}
-                      </div>
-                    </div>
-                    <div class="c-simple-accordion-content-block">
-                      <h3>Královéhradecký kraj</h3>
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'hradec'" %}
-                      {% include people/list-2col.html param=team %}
-                    </div>
-                    <div class="c-simple-accordion-content-block">
-                      <h3>Jihomoravský kraj</h3>
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'jmk'" %}
-                      {% include people/list-2col.html param=team %}
-                    </div>
-                </li>
-              </ul>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#senat" class="c-simple-accordion-title">Senátoři s podporou Pirátů</a>
-                  <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'senat'" | sort:"ordsenat" %}
-                    {% include people/list-2col.html param=team %}
-                  </div>
-                </li>
-              </ul>
+                </main>
             </div>
-          </div>
-        </main>
-      </div>
-    </section>
-    <!-- /. o-section -->
-  </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>
+{% comment %}
+# CSS_HACK: aby nebyl bílej proužek pod sliderem
+<div class="c-hero" style="margin-bottom: -1.5rem;position: relative;">
+{% endcomment %}
+<div class="c-hero">
+        <div class="row">
+            <div class="c-hero-container">
+            <div class="small-12 columns">
+                <div class="c-hero-block">
+                    <h1 class="c-hero__title">Naši lidé</h1>
+                </div>
+                <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
+                    <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
+                        <button class="orbit-previous">
+                            <span class="show-for-sr">Předchozí záložka</span>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                        </button>
+                        <button class="orbit-next">
+                            <span class="show-for-sr">Další záložka</span>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                        </button>
+                        <ul class="orbit-container">
+                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
+                            {% for person in team %}
+                            {% include people/carousel.html param='person' %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
