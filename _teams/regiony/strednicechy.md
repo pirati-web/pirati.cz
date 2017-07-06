@@ -33,5 +33,8 @@ Možnosti zapojení:
 * Přijďte se podívat na **Pirátská úterý**, což jsou pravidelné
   přednášky pro veřejnost, v Pirátském centru v Praze od 18:00 hodin.
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
-abyste se ujistili, že akce bude.
+Podívejte se na konkrétní termíny akcí v kalendáři:
+
+```html
+<iframe src="https://calendar.google.com/calendar/embed?src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+```
