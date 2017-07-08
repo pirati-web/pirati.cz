@@ -17,7 +17,7 @@ layout: default
             <h1 itemprop="headline" class="c-BasicPage__title">
               {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
             </h1>
-            <div itemprop="description" class="c-BasicPage-content">
+            <div itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
             </div>
           </article>
