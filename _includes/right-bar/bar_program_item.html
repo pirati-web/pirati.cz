@@ -37,3 +37,29 @@
   </ul>
 </div>
 {% endif %}
+
+{% if page.relatives %}
+<div class="o-section-block--spaceBot show-for-large">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Související</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          <ul class="c-widget-accordion-list">
+            <ul>
+            {% for item in page.relatives %}
+            <li><a href="{{item.url}}" alt="{{item.alt}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{% endif %}
