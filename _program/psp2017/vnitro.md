@@ -4,6 +4,12 @@ category: psp2017
 img: vnitro.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-24-2017-program-2017-ministerstvo-vnitra-r-h-1-k-t36875-10.html
 garant: jakub.michalek
+relatives:
+  - name: Doplňující
+    items:
+    - title: Vnitro a digitální stát
+      alt: Programoví garanti vysvětlují vnitro a digitální stát
+      url: http://www.piratskelisty.cz/clanek-1703-programovi-garanti-vysvetluji-vnitro-a-otevreny-stat
 ---
 
 Naší vizí je důvěryhodný stát, který se občanům zodpovídá za kvalitu veřejných
