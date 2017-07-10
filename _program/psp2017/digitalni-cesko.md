@@ -4,7 +4,7 @@ category:
 garant: ondrej.profant
 ---
 
-**Autor textu: Michal Bláha, s využitím podkladů a myšlenek Patricka Zandla**
+**Autor textu: [Michal Bláha](https://www.hlidacstatu.cz/), s využitím podkladů a myšlenek Patricka Zandla**
 
 E-government není digitalizace stávajících agend. Je to nový návrh agend tak, aby naplnily potřeby
 občanů s vědomím a využitím výhod digitálního prostředí.
@@ -36,8 +36,8 @@ občanů s vědomím a využitím výhod digitálního prostředí.
 - změna procesů zajišťující agendy
 - minimálně nutná změna zákonů, vyhlášek a metodik umožňující a podporující digitalizaci agend
 - proobčaský přístup
-  - pochopení občana jako klienta, zákazníka
-  - primární je uspokojení potřeb občana, nikoliv zjednodušení práce úředníka
+  1. pochopení občana jako klienta, zákazníka
+  2. primární je uspokojení potřeb občana, nikoliv zjednodušení práce úředníka
 - informační otevřenost
 - agilní proces vývoje
   - modulární vývoj meniších celků
@@ -134,6 +134,8 @@ ale pomůckou v jejich práci a rozhodování
 rozhodování.
 
 ## Odkazy
+
+- [**Hlídač státu**](https://www.hlidacstatu.cz/)
 
 **Důležité GDS.UK dokumenty**
 
