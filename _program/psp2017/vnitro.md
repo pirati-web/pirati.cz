@@ -7,7 +7,7 @@ garant: jakub.michalek
 relatives:
   - name: Doplňující
     items:
-    - title: Vnitro a digitální stát
+    - title: Programoví garanti vysvětlují vnitro a digitální stát
       alt: Programoví garanti vysvětlují vnitro a digitální stát
       url: http://www.piratskelisty.cz/clanek-1703-programovi-garanti-vysvetluji-vnitro-a-otevreny-stat
 ---
