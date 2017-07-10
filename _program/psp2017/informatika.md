@@ -5,12 +5,19 @@ img: digital.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-21-2017-program-2017-informatika-r-h-1-k-t36873.html
 garant: ondrej.profant
 relatives:
-  - title: Digitální česko
-    alt: Vize digitaizace českého státu
-    url: http://www.pirati.cz/program/psp2017/digitalni-cesko/
-  - title: Díky Pirátům teď může každý založit firmu online
-    alt: Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online
-    url: https://www.pirati.cz/tiskove-zpravy/zalozeni-firmy-online.html
+  - name: Doplňující
+    items:
+    - title: Digitální česko
+      alt: Vize digitaizace českého státu
+      url: http://www.pirati.cz/program/psp2017/digitalni-cesko/
+  - name: Aktuality
+    items:
+    - title: Díky Pirátům teď může každý založit firmu online
+      alt: Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online
+      url: https://www.pirati.cz/tiskove-zpravy/zalozeni-firmy-online.html
+    - title: Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.
+      alt: Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.
+      url: https://www.pirati.cz/tiskove-zpravy/vladam-unika-malware-ktery-samy-financuji.html
 ---
 
 Digitalizace je služba pro občany, k nimž budeme přistupovat jako k váženým
