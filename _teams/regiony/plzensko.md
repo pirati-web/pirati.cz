@@ -30,3 +30,8 @@ Naším zastupitelem ve Stříbře je Jiří Bohuslav (nezávislý, zvolený za 
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
+
+### Volby 2017
+
+* [kandidátní listina](https://www.pirati.cz/volby/2017/plzensko/)
+* [představení kandidátů na Pirátských listech](http://www.piratskelisty.cz/stitek/Plze%C5%88sk%C3%BD%20kraj)
