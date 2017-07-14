@@ -28,6 +28,5 @@ Pirátská strana nesmyslnou šikanu zastaví. Po úřadech mají obíhat data, 
 
 * Štěpán Štrébl, volební manažer
 * E-mail: stepan.strebl@pirati.cz
-* Tel.: +420 776 76 44 22
  
 
