@@ -7,6 +7,9 @@ garant: ondrej.profant
 relatives:
   - name: Doplňující
     items:
+    - title: Digitalizace znamená méně úřadů
+      alt: Podrobné vysvětlení programu v oblasti informatiky
+      url: http://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame
     - title: Digitální česko
       alt: Vize digitaizace českého státu
       url: http://www.pirati.cz/program/psp2017/digitalni-cesko/
@@ -56,7 +59,7 @@ nebude ale přebírat agendu IT za jiné úřady.
 
 - **Prosadíme kvalitní otevřená data (open data)**: Pomůže to nastartovat
 ekonomiku a zvýšit kvalitu služeb v soukromém i veřejném sektoru.
-- **Podpoříme rozvoj <abbr title="Software s veřejným zdrojovým kódem. Lze ho tedy upravovat a přizpůsobovat. Nevzniká tedy nežádoucí vazba na jendoho výhradního dodavatele">open-source</abbr> software, ve školách i na úřadě**: Budeme
+- **Podpoříme rozvoj <abbr title="Software s veřejně dostupným zdrojovým kódem. Lze ho tedy upravovat a přizpůsobovat. Nevzniká tedy nežádoucí vazba na jednoho výhradního dodavatele.">open-source</abbr> software, ve školách i na úřadě**: Budeme
 tak následovat USA, UK a státy EU, které již jeho výhody využívají.
 - **Zvýšíme kyberbezpečnost státních systémů**: A to bez zbytečného šmírování
 občanů.
