@@ -4,14 +4,12 @@
       <img src="{{ people[id].img | prepend: '/assets/img/people/' | relative_url }}" alt="{{people[id].name}}"> </div>
     <div class="o-media__body">
       <h2 class="o-media__headline">
-        <a href="#">{{people[id].name}}</a>
+        <a href="{{person.url | relative_url }}">{{people[id].name}}</a>
       </h2>
       <p> {{people[id].position}} </p>
       <p> {{people[id].mob}}
         <br>
         <a href="mailto:{{people[id].mail}}">{{people[id].mail}}</a>
-        <br>
-        <a href="mailto:rp@pirati.cz">rp@pirati.cz</a>
         <br> </p>
     </div>
   </div>
