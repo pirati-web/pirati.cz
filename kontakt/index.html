@@ -177,7 +177,7 @@ layout: default
               <div class="row">
                 <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
                   <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                     {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-mo'" | sort:"orkontakty" %}
+                     {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-mo'" | sort:"ordkontakty" %}
                      {% include people/list-2col.html param=team %}
                   </div>
                 </div>
@@ -186,10 +186,8 @@ layout: default
               <h2>Kontakt pro veřejnost</h2>
               <div class="row">
                 <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  {% assign id = 'ljuba.polakova' %}
-                  {% include people/item.html param='id' %}
-                  {% assign id = 'elizabet.kovaceva' %}
-                  {% include people/item.html param='id' %}
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-ao'" | sort:"ordkontakty" %}
+                  {% include people/list-2col.html param=team %}
                 </div>
               </div>
             </div>
