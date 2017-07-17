@@ -16,6 +16,7 @@ profiles:
   facebook:
   twitter: 	
   flickr:
+ordkontakty: 1
 ---
 
 Ljuba Poláková (* 6. května 1977 Jindřichův Hradec). V Pirátech členka od dubna 2011.
