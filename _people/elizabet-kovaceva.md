@@ -15,6 +15,7 @@ profiles:
   facebook: https://www.facebook.com/elizabeth.anvil
   twitter: 	
   flickr:
+ordkontakty: 2
 ---
 
 Elizabet Kovačeva (* 12. května 1992) má v Pirátské straně funkci Asistenta pro administrativu. Elizabet pochází z Prahy.
