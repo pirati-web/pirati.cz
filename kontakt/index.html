@@ -165,7 +165,6 @@ layout: default
   </div>
 </div>
 <hr>
-{% assign people = site.data.contacts %}
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-12 columns">
     <section class="o-section o-section--spaceBot">
@@ -174,22 +173,12 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2>Kontakt pro média</h2>
-              <div class="row">
-                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                     {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-mo'" | sort:"ordkontakty" %}
-                     {% include people/list-2col.html param=team %}
-                  </div>
-                </div>
-              </div>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'"  | sort:"ordkontakty" %}
+                {% include people/list-2col.html param=team %}
               <br>
               <h2>Kontakt pro veřejnost</h2>
-              <div class="row">
-                <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-ao'" | sort:"ordkontakty" %}
-                  {% include people/list-2col.html param=team %}
-                </div>
-              </div>
+                {% assign team = site.people | where_exp:"item","item.categories contains 'ao-contact'" | sort:"ordkontakty" %}
+                {% include people/list-2col.html param=team %}
             </div>
           </div>
         </div>
