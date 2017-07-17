@@ -174,14 +174,18 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <h2>Kontakt pro média</h2>
+              {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'" %}
+              {% include people/list-2col.html param=team %}
+              {% comment %}
               <div class="row">
                 <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
                   {% assign id = 'karolina.sadilkova' %}
-                  {% include kontakt/contact-card.html param='people' param='id' %}
+                  {% include peple/item.html item='people' param='id' %}
                   {% assign id = 'miki' %}
                   {% include kontakt/contact-card.html param='people' param='id' %}
                 </div>
               </div>
+              {% endcomment %}
               <br>
               <h2>Kontakt pro veřejnost</h2>
               <div class="row">
