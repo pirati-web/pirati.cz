@@ -176,10 +176,10 @@ layout: default
               <h2>Kontakt pro média</h2>
               <div class="row">
                 <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
-                  {% assign id = 'karolina.sadilkova' %}
-                  {% include people/item.html param='id' %}
-                  {% assign id = 'mikulas.ferjencik' %}
-                  {% include people/item.html param='id' %}
+                  <div id="rp" class="c-simple-accordion-content" data-tab-content="">
+                     {% assign team = site.people | where_exp:"item","item.categories contains 'kontakty-mo'" | sort:"orkontakty" %}
+                     {% include people/list-2col.html param=team %}
+                  </div>
                 </div>
               </div>
               <br>
