@@ -5,7 +5,7 @@ fullname: Bc. Elizabet Kovačeva  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ao-contact
 img: people/elizabet-kovaceva.jpg    # 165 x 220
-description: Administrativní pomocnice předsednictva           	# kratký popis, max 160 znaků
+description: Kontakt pro členy, administrativní pomoc předsednictva           	# kratký popis, max 160 znaků
 mail:
 - elizabet.kovaceva@pirati.cz
 mob:
