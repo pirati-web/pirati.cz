@@ -7,7 +7,7 @@ garant: zdenek.hrib
 relatives:
   - name: Doplňující
     items:
-    - title: Podrobnější vysvětlení
+    - title: Podrobnější vysvětlení programu pro zdravotnictví
       alt: Podrobné vysvětlení programu v oblasti zdravotnictví
       url: http://www.piratskelisty.cz/clanek-1706-dame-svobodu-rozhodovani-pacientum-i-zdravotnikum
     - title: Články o zdravotnictví na Pirátských listech
