@@ -4,6 +4,15 @@ category: psp2017
 img: zdravotnictvi.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-27-2016-program-2017-zdravotnictvi-r-h-1-k-t36869-10.html
 garant: zdenek.hrib
+relatives:
+  - name: Doplňující
+    items:
+    - title: Podrobnější vysvětlení
+      alt: Podrobné vysvětlení programu v oblasti zdravotnictví
+      url: http://www.piratskelisty.cz/clanek-1706-dame-svobodu-rozhodovani-pacientum-i-zdravotnikum
+    - title: Články o zdravotnictví na Pirátských listech
+      alt: Články o zdravotnictví na Pirátských listech
+      url: http://www.piratskelisty.cz/stitek/Zdravotnictv%C3%AD
 ---
 
 Pacient bude váženým klientem s reálnou možností informované a svobodné volby. Digitalizace změní zdravotnické bludiště na přívětivý systém. Zavedeme jasná a důsledně dodržovaná pravidla včetně ochrany zdravotních údajů. Rozhoduje zájem pacienta a ne farmaceutické společnosti
