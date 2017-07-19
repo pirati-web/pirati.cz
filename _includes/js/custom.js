@@ -41,6 +41,7 @@ var choice_n_random = function(data, n) {
 * Choice one person by uid
 * @param {collection} data
 * @param {string} uid
+* @param {string} role
 **/
 var choice_person = function(data, uid, role) {
   role = (typeof role !== 'undefined') ?  role : null;
