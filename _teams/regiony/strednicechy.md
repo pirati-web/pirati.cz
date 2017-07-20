@@ -11,7 +11,7 @@ deputy:
 - Petra Smutná
 - Jan Lukášek
 contact:
-- Zuzana Dohnalová
+- Zuzana Petrůvová
 region: Středočeský kraj
 url: https://strednicechy.pirati.cz
 categories:
@@ -25,11 +25,11 @@ forum: https://forum.pirati.cz/stredocesky-kraj-f276/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme zastupitele v Kralupech nad Vltavou (Luboš Šuda) a v Sadské (Martin Shánil). Využíváme Pirátského centra v Praze.
+Využíváme Pirátské centrum v Praze.
 
 Možnosti zapojení:
 
-* Přijďte na pravidelnou **krajskou schůzi**, která se koná v Pirátském centru v nepravidelných časech. Kontaktujte koordinátorku Středočeského kraje Zuzanu Dohnalovou (zuzana.dohnalova(аt)pirati.cz) pro informace o nadcházejícím termínu schůze.
+* Přijďte na pravidelnou **krajskou schůzi**, která se koná v Pirátském centru v nepravidelných časech. Kontaktujte koordinátorku Středočeského kraje Zuzanu Petrůvovou (zuzana.petruvova(аt)pirati.cz) pro informace o nadcházejícím termínu schůze.
 * Přijďte se podívat na **Pirátská úterý**, což jsou pravidelné
   přednášky pro veřejnost, v Pirátském centru v Praze od 18:00 hodin.
 
