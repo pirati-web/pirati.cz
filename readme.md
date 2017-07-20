@@ -36,8 +36,8 @@ Samotné stránky jsou v markdownu nebo v html (složitější struktura, např.
 
 Kolekce jsou markdown soubory s yaml hlavičkou v příslušné složce, na webu jsou použity 4:
 
-- posts (články)
-- people (lidé)
+- posts (články), foto 1300x744
+- people (lidé), foto 165x220
 - program
 - teams (týmy)
 
