@@ -5,11 +5,14 @@ category: témata
 class: tema
 ---
 
-Chceme jednoduchý daňový systém. Dejte nám 7,5 minuty a na 8 slajdech vám vysvětlíme, jak na to chceme jít. Po naší reformě si každý zvládne spočítat svoje daně, zvýší se čisté mzdy, ušetříme miliony hodin na byrokracii. Nižší daně nakopnou ekonomiku.
+​1. Chceme jednoduchý daňový systém 
+
+Dejte nám 7,5 minuty a na 8 slajdech vám vysvětlíme, jak na to chceme jít. Po naší reformě si každý zvládne spočítat svoje daně, zvýšíme čisté mzdy, ušetříme miliony hodin na byrokracii a nekopneme ekonomiku.
 
 ![Pirátská daňová reforma](dane_na_web3-01.png)
 
-1. Po čtyřech letech vládnutí nám Andrej nechává v daních stejný borčus, jako když se stal ministrem
+
+​2. Po čtyřech letech vládnutí nám Andrej nechává v daních stejný borčus, jako když se stal ministrem
 ------
 
 Byrokracie spojená s daněmi zabere v Čechách v průměru **5krát déle než v Norsku**. Světová banka si všimla, že Česko naposledy zjednodušilo daně v roce 2013.
@@ -24,7 +27,8 @@ Systém je **brutálně nevýhodný pro střední třídu**. Politikům se poda�
 
 Tak třeba Andrej, ten si jako zaměstnanec vlastní firmy vyplatil 50 milionů a na daních **odvedl 34 %**. Jeho průměrný zaměstnanec však platí daně o čtvrtinu více – 43 %. Andrej totiž platí sociální pojištění jen z prvního milionu.
 
-3. Pirátská strana staví systém od základu znova
+
+​3. Pirátská strana staví systém od základu znova
 -------------
 
 Navrhujeme největší zjednodušení daní od jejich vzniku a největší změnu systému od roku 2008. Složitý systém netransparentních sazeb nahradí jedna, skutečně rovná sazba.
@@ -34,7 +38,8 @@ Navrhujeme největší zjednodušení daní od jejich vzniku a největší změn
 Pirátská „superrovná“ daň **nahrazuje všech 6 daní**, které se dnes platí: daň z příjmu, odvody na sociální a zdravotní zaměstnance i firem a solidární daň.
 
 
-4. Pro vás to konkrétně znamená nejen jednodušší daně, ale také že trochu ušetříte
+
+​4. Pro vás to konkrétně znamená nejen jednodušší daně, ale také že trochu ušetříte
 ---------------
 
 Slevy na dani zůstanou jako dnes. Díky Pirátům tedy každý zaplatí menší daně o 1,6 procentního bodu, tedy ušetří přibližně **pětistovku**.
@@ -45,7 +50,8 @@ Tedy skoro každý... Andrej a podobní zaměstnanci s hrubou mzdou nad 120 tis�
 
 Každý rok bychom chtěli zdanění dále **snižovat o 1 procentní bod**.
 
-5. Podívejme se, jak by to vypadalo v praxi
+
+​5. Podívejme se, jak by to vypadalo v praxi
 -------------
 
 Spočítali jsme daně a odvody na straně zaměstnance a zaměstnavatele, které lidé platí dnes. Lidé to často nevědí, ale **už dnes daní sazbou 48,6 %**.
@@ -60,7 +66,8 @@ Nejsme asociálové, takže od daní bude samozřejmě možné si jako doteď **
 
 Ačkoliv se naše sazba 47,0 % zdá vysoká, ve skutečnosti jde skutečně o **snížení daní o 1,6 procentního bodu**, které pocítíte ve své peněžence. 
 
-6. Zjednodušení nás osvobodí od nesmyslných formulářů
+
+​6. Zjednodušení nás osvobodí od nesmyslných formulářů
 -----------
 
 Jedna daň znamená, že zdravotní a sociální pojištění bude „v ceně“. **Zlikvidujeme formuláře přehledů** vyplňované pro zdravotní pojišťovny a ČSSZ, které jsou noční můrou všech podnikatelů.
@@ -70,7 +77,8 @@ Jedna daň znamená, že zdravotní a sociální pojištění bude „v ceně“
 
 Středně velká firma tak **ušetří 87 hodin ročně** na mzdové účetní. Stovky státních úředníků budou moci jít dělat užitečnější práci. Stát si všechno přečte v daňovém přiznání a peníze příslušným úřadům sám přepošle.
 
-7. A co na to tradiční politické strany?
+
+​7. A co na to tradiční politické strany?
 -----
 
 Ostatní strany pouze záplatují současný systém, štelují dva nebo tři parametry. Návrh Pirátů je **jednoduchý a přímý**...
@@ -86,7 +94,8 @@ Ostatní strany pouze záplatují současný systém, štelují dva nebo tři pa
 ČSSD chce zdanit více vyšší střední třídu. ODS chce už tradičně snížit daně těm, co už dnes mají nejvyšší čisté příjmy. Návrh ODS by navíc znamenal výpadek příjmů státního rozpočtu v řádu desítek miliard korun.
 
 
-8. Takže pojďme si to zrekapitulovat...
+
+​8. Takže pojďme si to zrekapitulovat...
 ------
 
 Současné strany v Parlamentu nepřinesly žádné zjednodušení daní. Určitě to nezvládnou vyřešit. **Superrovná daň** Pirátů je nové řešení na problémy, které ostatní přehlížejí nebo záplatují.
@@ -105,7 +114,8 @@ Současné strany v Parlamentu nepřinesly žádné zjednodušení daní. Určit
 
 Bonusová část pro nadšence:
 
-9. Za 2 roky už to může fungovat
+
+​9. Za 2 roky už to může fungovat
 -----
 
 Pokud nám dáte dost hlasů ve volbách do sněmovny, nemusí tento plán zůstat jen na papíře. 
@@ -116,7 +126,8 @@ Nejsme dogmatici a máme politické zkušenosti. Chápeme, že ostatní politick
 
 Každopádně tohle je **náš styl řešení problémů** a jednodušší daně jsou ve vyjednávání naše priorita.
 
-10. Máme lidi, kteří to zvládnou připravit. Budou za vás kopat mladí, ale zkušení odborníci
+
+​10. Máme lidi, kteří to zvládnou připravit. Budou za vás kopat mladí, ale zkušení odborníci
 ---------------
 
 Pirátskou daňovou reformu jsme konzultovali s odborníky z oblasti práva a ekonomie. Připravil ji pro vás náš tým:
