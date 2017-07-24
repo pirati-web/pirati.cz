@@ -8,7 +8,6 @@ img: people/ljuba-polakova.jpg    # 165 x 220
 description: Kontakt pro veřejnost   	# kratký popis, max 160 znaků
 mail:
 - info@pirati.cz
-- ljuba.polakova@pirati.cz
 mob:
 - +420 608 963 111
 profiles:
