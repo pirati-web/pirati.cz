@@ -6,6 +6,7 @@ class: tema
 ---
 
 ​1. Chceme jednoduchý daňový systém 
+-------
 
 Dejte nám 7,5 minuty a na 8 slajdech vám vysvětlíme, jak na to chceme jít. Po naší reformě si každý zvládne spočítat svoje daně, zvýšíme čisté mzdy, ušetříme miliony hodin na byrokracii a nekopneme ekonomiku.
 
@@ -25,7 +26,7 @@ Výsledek odpovídá tomu, že se v daňových zákonech 20 let vršily kompromi
 
 Systém je **brutálně nevýhodný pro střední třídu**. Politikům se podařilo utajit před lidmi, že **bohatí dnes platí méně než chudí** (tzv. degrese). Jinými slovy člověk s milionovými příjmy platí procentuálně menší daně než průměrný Čech.
 
-Tak třeba Andrej, ten si jako zaměstnanec vlastní firmy vyplatil 50 milionů a na daních **odvedl 34 %**. Jeho průměrný zaměstnanec však platí daně o čtvrtinu více – 43 %. Andrej totiž platí sociální pojištění jen z prvního milionu.
+Tak třeba Andrej, ten si jako zaměstnanec vlastní firmy vyplatil 50 milionů a na daních **odvedl 34%**. Jeho průměrný zaměstnanec však platí daně o čtvrtinu více – 43 %. Andrej totiž platí sociální pojištění jen z prvního milionu.
 
 
 ​3. Pirátská strana staví systém od základu znova
