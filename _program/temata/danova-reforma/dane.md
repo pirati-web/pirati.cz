@@ -1,9 +1,5 @@
----
-title: Daně, které každé pochopí
-img: https://www.pirati.cz/_media/rp/program/korporace.png
-category: témata
-class: tema
----
+Daně, které každé pochopí
+=========================
 
 Chceme jednoduchý daňový systém. Dejte nám 7,5 minuty a na 8 slajdech vám vysvětlíme, jak na to chceme jít. Po naší reformě si každý zvládne spočítat svoje daně, zvýší se čisté mzdy, ušetříme miliony hodin na byrokracii. Nižší daně nakopnou ekonomiku.
 
@@ -58,7 +54,7 @@ Nejsme asociálové, takže od daní bude samozřejmě možné si jako doteď **
 
 ![Slevy zůstanou jako dnes](dane_na_web3-07.png)
 
-Ačkoliv se naše sazba 47,0 % zdá vysoká, ve skutečnosti jde skutečně o **snížení daní o 1,6 procentního bodu**, které pocítíte ve své peněžence. 
+Ačkoliv se naše sazba 47,0 % zdá vysoká, ve skutečnosti jde skutečně o **snížení daní o 1,6 procentního bodu**, které pocítíte ve své peněžence.  
 
 6. Zjednodušení nás osvobodí od nesmyslných formulářů
 -----------
@@ -77,11 +73,11 @@ Ostatní strany pouze záplatují současný systém, štelují dva nebo tři pa
 
 ...**jako pravítko** na obrázku níže:
 
-![Srovnání s konkurencí - pravítko a kurvítka](dane_na_web3-09.png)
+![Srovnání s konkurencí](dane_na_web3-09.png)
 
 ...nebo **jako přímka** v grafu:
 
-![Srovnání s konkurencí - grafy](dane_na_web3-10.png)
+![Srovnání s konkurencí](dane_na_web3-10.png)
 
 ČSSD chce zdanit více vyšší střední třídu. ODS chce už tradičně snížit daně těm, co už dnes mají nejvyšší čisté příjmy. Návrh ODS by navíc znamenal výpadek příjmů státního rozpočtu v řádu desítek miliard korun.
 
@@ -108,11 +104,9 @@ Bonusová část pro nadšence:
 9. Za 2 roky už to může fungovat
 -----
 
-Pokud nám dáte dost hlasů ve volbách do sněmovny, nemusí tento plán zůstat jen na papíře. 
+Pokud nám dáte dost hlasů ve volbách do sněmovny, nemusí tento plán zůstat jen na papíře. Nejsme dogmatici a máme politické zkušenosti. Chápeme, že ostatní politické strany mají jiné představy a budeme o řešení **tvrdě, ale konstruktivně vyjednávat**.
 
 ![Co může následovat](dane_na_web3-12.png)
-
-Nejsme dogmatici a máme politické zkušenosti. Chápeme, že ostatní politické strany mají jiné představy a budeme o řešení **tvrdě, ale konstruktivně vyjednávat**.
 
 Každopádně tohle je **náš styl řešení problémů** a jednodušší daně jsou ve vyjednávání naše priorita.
 
@@ -121,7 +115,7 @@ Každopádně tohle je **náš styl řešení problémů** a jednodušší daně
 
 Pirátskou daňovou reformu jsme konzultovali s odborníky z oblasti práva a ekonomie. Připravil ji pro vás náš tým:
 
-![Autorský tým daňové reformy](dane_na_web3-13.png)
+![Proč je v daňových zákonech takový bordel](dane_na_web3-13.png)
 
 
 Zdroje
