@@ -44,7 +44,7 @@ var choice_n_random = function(data, n) {
 * @param {string} role
 **/
 var choice_person = function(data, uid, role) {
-  role = (typeof role !== 'undefined') ?  role : null;
+  role = (typeof role !== 'undefined') ? role : null;
   var person = null;
   var result = null;
   $.each(data, function(index, person){
@@ -57,6 +57,7 @@ var choice_person = function(data, uid, role) {
   if(result) {
     return [result];
   } else {
+    console.log("Proper profile for " + uid + " not exists.");
     return [{'name': uid, 'role': role}];
   }
 }
@@ -76,12 +77,12 @@ var choice_contact= function(data) { return choice_person(data, page_contact, 'k
  **/
 var show_people = function(data, who, where) {
   if(where.length) { /* Only if proper div exists */
-    choice = who(data);
+    var choice = who(data);
     $.get(snippet_profile, function (template) {
-      var template=Handlebars.compile(template);
+      var compiled=Handlebars.compile(template);
       $.each(choice, function(index, value) {
-        var html = template(value);
-        $(where).append(html);
+        var html = compiled(value);
+        where.append(html);
       });
     }, 'html')
   }
@@ -224,7 +225,9 @@ $(function() {
       show_people(data, choice_n_random, $('#people'));
       show_people(data, choice_garant,   $('#garant'));
       show_people(data, choice_leader,   $('#leader'));
-      show_people(data, choice_contact,  $('#contact'));
+      if(page_leader != page_contact) {
+        show_people(data, choice_contact,  $('#contact'));
+      }
     })
     .fail(function(data) { console.log('Error in relatives articles:', data); });
 
