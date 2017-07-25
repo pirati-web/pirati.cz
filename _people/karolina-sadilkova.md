@@ -11,10 +11,11 @@ mail:
 mob:
 - +420 776 505 557
 profiles:
-  github:   https://www.linkedin.com/in/karolína-sadílková-020a8990  
+  github:     
   facebook: https://www.facebook.com/karolina.kyselova
   twitter: 	
   flickr:
+  linkedin: https://www.linkedin.com/in/karolína-sadílková-020a8990
 ordkontakty: 2
 ---
 
