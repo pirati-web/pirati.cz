@@ -1,0 +1,24 @@
+<div class="o-section-block">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Kontakty</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
+          <i class="fa fa-users fa-lg"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        <div class="c-widget-accordion-content-inner">
+            {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
+            {% if page.mob %}<i class="fa fa-phone-o"></i> {{ page.mob }}<br/>{% endif %}
+            {% if page.profiles.wikipedia %}<i class="fa fa-wikipedia-w"></i> <a href="{{ page.profiles.wikipedia }}">W: {{ page.profiles.wikipedia | remove: "https://cs.wikipedia.org/wiki/" }}</a><br/>{% endif %}
+            {% if page.profiles.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.profiles.facebook }}">FB: {{ page.profiles.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
+            {% if page.profiles.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.profiles.twitter }}">TW: {{ page.profiles.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
+            {% if page.profiles.github %}<i class="fa fa-github"></i> <a href="{{ page.profiles.github }}">GH: {{ page.profiles.github | remove: "https://github.com/"}}</a><br/>{% endif %}
+            {% if page.profiles.forum %}<i class="fa fa-comments-o"></i> <a href="{{ page.profiles.forum }}">Forum: {{ page.profiles.forum | remove: "https://forum.pirati.cz/" }}</a><br/>{% endif %}
+            {% if page.profiles.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.profiles.redmine }}">Úkoly</a>{% endif %}
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
