@@ -6,8 +6,8 @@ fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
 leader: petr.kapounek
 deputy:
-- Michaela Skokanová
-- Miloš Zmeškal
+- milos.zmeskal
+- vojtech.pikal
 contact: michal.gill
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start
