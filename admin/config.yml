@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
-      - {label: "Plakatek", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Plakatek", name: "img", widget: "image", required: false, tagname: "", media_folder: "assets/img/articles/2017"}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Tagy", name: "tags", widget: "text", required: true}
     card: {type: "image", image: "image", text: "title", required: true}
@@ -33,8 +33,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
-      - {label: "Plakatek", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Plakatek", name: "img", widget: "image", required: false, tagname: "", media_folder: "assets/img/articles/2016"}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Tagy", name: "tags", widget: "text", required: true}
     card: {type: "image", image: "image", text: "title", required: true}
-
