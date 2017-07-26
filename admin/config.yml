@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Plakatek", name: "img", widget: "image", required: false, tagname: "", media_folder: "assets/img/articles/2017", public_folder: "2017"}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Tagy", name: "tags", widget: "text", required: true}
-    card: {type: "image", image: "image", text: "title", required: true}
+    card: {type: "image", image: "img", text: "title", required: true}
   - name: "posts 2016" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "články 2016" # Used in the UI, ie.: "New Post"
     folder: "_posts/2016"
@@ -36,4 +36,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Plakatek", name: "img", widget: "image", required: false, tagname: "", media_folder: "assets/img/articles/2016", public_folder: "2016"}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
       - {label: "Tagy", name: "tags", widget: "text", required: true}
-    card: {type: "image", image: "image", text: "title", required: true}
+    card: {type: "image", image: "img", text: "title", required: true}
