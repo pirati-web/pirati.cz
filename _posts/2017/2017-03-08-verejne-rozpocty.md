@@ -3,7 +3,7 @@ title: "Piráti vyzývají senátory, aby podpořili veřejnou dostupnost děl p
 author: Věra Marušiaková
 tags: legislativa
 date: 2017-03-08
-img: 2017/glass.jpg
+image: /assets/img/articles/2017/glass.jpg
 category:     blog
 layout:       post
 ---

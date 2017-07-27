@@ -3,8 +3,8 @@ date:         2015-10-22
 category:     blog
 tags:         uprchlici imigrace
 layout:       post
-title:        "Postoj České pirátské strany k vlně uprchlíků" 
-img:        2015/cyklista.jpg
+title:        "Postoj České pirátské strany k vlně uprchlíků"
+image:        /assets/img/articles/2015/cyklista.jpg
 author:       
 ---
 
@@ -16,11 +16,11 @@ K řešení přispívá pomoc jednotlivých lidí, spolků a charit. Nesouhlasí
 
 Miliony uprchlíků zůstávají v táborech v Turecku a dalších státech sousedících se Sýrií, kde žijí v nuzných podmínkách. Celou strukturu uprchlíků ukazuje následující graf:
 
-![Situační schéma]({{ 'azyl-ostatni.png' | prepend: '/assets/img/articles/2015/' | relative_url }} "Příklad současné situace ve světě")
+![Situační schéma]({{ '/assets/img/articles/2015/azyl-ostatni.png' | relative_url }} "Příklad současné situace ve světě")
 
 Pro řešení migrační vlny je třeba prosadit změny v azylové politice Evropské unie, neboť jde o celoevropský problém. Následující graf ukazuje počet žadatelů o azyl v jednotlivých členských státech:
 
-![Situační schéma]({{ 'evropa.jpg' | prepend: '/assets/img/articles/2015/' | relative_url }} "Příklad současné situace v Evropě")
+![Situační schéma]({{ '/assets/img/articles/2015/evropa.jpg' | relative_url }} "Příklad současné situace v Evropě")
 
 **Prosazujeme následující východiska řešení problému vlny uprchlíků na evropské úrovni:**
 
@@ -59,7 +59,7 @@ Bezpečnostní a preferenční opatření
 
 Uprchlíci z válečných oblastí nemají velký zájem o azyl v České republice. Většinou svůj pobyt na území České republiky berou jako nežádoucí překážku na cestě do vysněného Německa. Jak ukazuje následující graf, mezi žadateli o azyl v České republice (2014) převládají Ukrajinci:
 
-![Situační schéma]({{ 'azyl-cr.png' | prepend: '/assets/img/articles/2015/' | relative_url }} "Příklad současné situace v České republice")
+![Situační schéma]({{ '/assets/img/articles/2015/azyl-cr.png' | relative_url }} "Příklad současné situace v České republice")
 
 Přesto by měla být Česká republika připravena na zvýšení počtu migrantů zadržených na našem území cestou do Německa, jakož i na zvýšení počtu žadatelů o azyl, až Německu začnou docházet kapacity.
 
@@ -116,4 +116,3 @@ Děkujeme také všem, kteří měli tu trpělivost dočíst tento text až do s
 * [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/), jakub.michalek@pirati.cz, 775 987 550 - vedoucí zastupitelského klubu Pirátů v Praze a autor původního návrhu stanoviska
 * [Ing. Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/), lukas.cernohorsky@pirati.cz, 601 573 955 - předseda Pirátské strany
 * [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/), Ph.D., ivan.bartos@pirati.cz, 603 415 378 - mediální odbor Pirátů
-

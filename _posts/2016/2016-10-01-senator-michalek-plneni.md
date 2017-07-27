@@ -4,7 +4,7 @@ author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-01
 category:     blog
-img: 2016/senator-michalek2.jpg
+image: /assets/img/articles/2016/senator-michalek2.jpg
 author:       Věra Marušiaková
 ---
 

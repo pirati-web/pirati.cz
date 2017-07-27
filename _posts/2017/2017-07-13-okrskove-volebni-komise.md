@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Piráti obsazují okrskové volební komise."
-img:          2017/urna-listky.jpg
+image:          /assets/img/articles/2017/urna-listky.jpg
 author:     Karolína Sadílková
 ---
 
@@ -16,7 +16,4 @@ Piráti dlouhodobě sázejí na zapojení dobrovolníků. Touto cestou chtějí 
 
 Piráti již před několika dny obnovili registrační formulář na stránce **[ovk.pirati.cz](http://ovk.pirati.cz/)**. Nejprve byli osloveni lidé, kteří na sebe zanechali kontakt již při minulých volbách, aby měli určitý náskok a mohli se registrovat, dokud je všude volno. Této možnosti využilo 2500 občanů. Nyní již probíhá nábor z řad široké veřejnosti, který budou Piráti propagovat pomocí svých informačních kanálů.
 
-Piráti programově dbají na ochranu osobních udajů a důsledne dodržují všechny zásady pro jejich shromažďování. 
-
- 
-
+Piráti programově dbají na ochranu osobních udajů a důsledne dodržují všechny zásady pro jejich shromažďování.

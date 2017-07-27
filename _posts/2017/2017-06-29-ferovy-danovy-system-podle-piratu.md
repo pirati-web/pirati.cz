@@ -4,7 +4,7 @@ category:     blog
 tags:         program
 layout:       post
 title:        "Chceme férový daňový systém pro zaměstnance, živnostníky i podnikatele."
-img:          2017/cerne-na-bilem.jpg
+image:          /assets/img/articles/2017/cerne-na-bilem.jpg
 author:     Mikuláš Ferjenčík, Jakub Michálek, Tibor Vansa
 ---
 

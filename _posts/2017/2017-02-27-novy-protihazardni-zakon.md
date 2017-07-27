@@ -3,7 +3,7 @@ title: "Poslanci se asi nechali napálit: nový protihazardní zákon podpoří 
 author: Věra Marušiaková
 tags: hazard
 date: 2017-02-27
-img: 2017/casino.jpg
+image: /assets/img/articles/2017/casino.jpg
 category:     blog
 layout:       post
 ---

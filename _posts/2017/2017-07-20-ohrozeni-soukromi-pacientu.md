@@ -4,7 +4,7 @@ category:     blog
 tags:         čez
 layout:       post
 title:        "Piráti upozorňují na bezprecedentní omezení soukromí našich pacientů"
-img:          2017/datadata.png
+image:          /assets/img/articles/2017/datadata.png
 author:     Zdeněk Hřib
 ---
 

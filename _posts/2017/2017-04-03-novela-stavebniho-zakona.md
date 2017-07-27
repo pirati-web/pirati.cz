@@ -3,7 +3,7 @@ title: "Piráti k novele stavebního zákona: poslanecká tvořivost povolován�
 author: Mikuláš Ferjenčík
 tags: praha stavební-zákon
 date: 2017-04-03
-img: 2017/stavba.jpg
+image: /assets/img/articles/2017/stavba.jpg
 category:     blog
 layout:       post
 ---

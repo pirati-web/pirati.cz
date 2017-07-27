@@ -3,8 +3,8 @@ date:         2016-11-25
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Konec spekulacím: Do sněmovních voleb jdou Piráti samostatně." 
-img:        2016/do-voleb-samostatne.jpg
+title:        "Konec spekulacím: Do sněmovních voleb jdou Piráti samostatně."
+image:        /assets/img/articles/2016/do-voleb-samostatne.jpg
 author:       Věra Marušiaková
 ---
 
@@ -16,7 +16,7 @@ V celostátních tématech se programové cíle liší od cílů jiných stran a
 
 >„Rozhodnutí členů i republikového výboru jít do voleb samostatně osobně vítám. Těším se, že na našich kandidátkách objeví řada zajímavých lidí, kteří jsou občansky i politicky aktivní, třeba i v rámci regionálních politických subjektů nebo subjektů, které samostatné kandidátky stavět nebudou,“ komentuje strategii Pirátů předseda Ivan Bartoš. „Zároveň bych chtěl vyvrátit mediální zkratky, se kterými se dnes a denně setkávám. Politické strany se mezi sebou pochopitelně baví. Byly nám předloženy různé nabídky a jistě nám ještě další předloženy budou. O všech těchto jednáních ale Piráti poctivě pořizují zápisy do svého registru lobbistických kontaktů, který je veřejný. Tam si může kdokoliv historicky dohledat záznam z jakékoliv v minulosti uskutečněné schůzky,“ dodává.
 
-### Související odkazy 
+### Související odkazy
 
 * [Rozhodnutí republikového výboru Pirátské strany](https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-58-2016-rozhodnuti-o-samostatne-kandidatce-r-h-1-k-t35380.html#p478181)
 * [Registr lobbistických kontaktů Pirátů](https://forum.pirati.cz/oznameni-f595/evidence-lobbistickych-kontaktu-t13315.html)

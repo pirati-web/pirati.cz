@@ -3,7 +3,7 @@ title: "Na Celorepublikovém fóru Pirátů se představují lídři krajských 
 author: Věra Marušiaková
 tags: volby
 date: 2017-03-19
-img: 2017/lidri.jpg
+image: /assets/img/articles/2017/lidri.jpg
 category:     blog
 layout:       post
 ---

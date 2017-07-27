@@ -4,7 +4,7 @@ category:     blog
 tags:         volby ekonomika dane
 layout:       post
 title:        "Piráti zjednodušují daně pro zaměstnance, spustili daňovou kalkulačku."
-img:          2017/dane.png
+image:          /assets/img/articles/2017/dane.png
 author:     Mikuláš Ferjenčík
 ---
 

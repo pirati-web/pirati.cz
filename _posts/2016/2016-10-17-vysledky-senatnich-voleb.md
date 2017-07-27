@@ -3,7 +3,7 @@ title: "Piráti slaví dvojitý úspěch v senátních volbách 2016"
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-17
-img: 2016/novi-senatori.jpg
+image: /assets/img/articles/2016/novi-senatori.jpg
 layout:       post
 category:     blog
 ---

@@ -3,7 +3,7 @@ title: "Piráti ke svozu odpadních vod v Plzni: Neřízená dotace"
 author: Věra Marušiaková
 tags: plzeň, odpadní-hospodářství
 date: 2017-01-30
-img: 2017/kadibudka.jpg
+image: /assets/img/articles/2017/kadibudka.jpg
 category:     blog
 layout:       post
 ---
@@ -18,7 +18,7 @@ Dotováním části ceny za svoz odpadních vod jedinou firmou bez předchozího
 
 ### Situační schéma
 
-![Situační schéma]({{ 'schema-plzen.jpg' | prepend: '/assets/img/articles/2017/' | relative_url }} "Příklad současné situace v Plzni")
+![Situační schéma]({{ '/assets/img/articles/2017/schema-plzen.jpg' | relative_url }} "Příklad současné situace v Plzni")
 
 Nejdražší vývozce na trhu je dotován Městem Plzní, což zlikviduje konkurenční místní podnikatele. Ve žlutém rámečku je cena účtovaná koncovému zákazníkovi, tedy občanovi Lhoty. Doklady za vývoz dotovaného i nedotovaného vývozce jsou součástí této tiskové zprávy.
 
@@ -40,9 +40,9 @@ Statutární město Plzeň se roku 2002 zavázalo vybudovat kanalizaci v městsk
 * [Výzva Zastupitelstvu města Plzeň](https://www.pirati.cz/_media/tiskove-zpravy/statutarni_mesto_plzen.pdf)
 * [Výzva společnosti Vodárny Plzeň a.s.](https://www.pirati.cz/_media/tiskove-zpravy/vodarna_plzen_a.pdf)
 
-![Cena vody]({{'uctenka-plzen.jpg' | prepend: '/assets/img/articles/2017/' | relative_url }} "Cena vody v Plzni")
+![Cena vody]({{'/assets/img/articles/2017/uctenka-plzen.jpg'| relative_url }} "Cena vody v Plzni")
 
-![faktura]({{'ppd-plzen.jpg' | prepend: '/assets/img/articles/2017/' | relative_url }} "Příjmový pokladní doklad za vodu v Plzni")
+![faktura]({{'/assets/img/articles/2017/ppd-plzen.jpg' | relative_url }} "Příjmový pokladní doklad za vodu v Plzni")
 
 ### Kontakty
 

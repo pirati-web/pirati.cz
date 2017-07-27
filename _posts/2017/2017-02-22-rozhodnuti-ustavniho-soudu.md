@@ -3,7 +3,7 @@ title: "Piráti hlásí výsledky rozhodnutí Ústavního soudu ve věci cenzury
 author: Věra Marušiaková
 tags: cenzura-internetu
 date: 2017-02-22
-img: 2017/cenzura-internetu-ustavni-soud.jpg
+image: /assets/img/articles/2017/cenzura-internetu-ustavni-soud.jpg
 category:     blog
 layout:       post
 ---
@@ -34,4 +34,3 @@ V této souvislosti je potřeba připomenout, že plošné sledování tedy sbě
 
 * [PhDr. Ivan Bartoš, Ph.D.](https://www.pirati.cz/lide/ivan_bartos), [ivan.bartos@pirati.cz](mailto:ivan.bartos@pirati.cz), předseda Pirátů, 603 415 378
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
-

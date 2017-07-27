@@ -3,7 +3,7 @@ title: "Piráti si vybrali volebního manažera, bude jím absolvent Cambridge �
 author: Věra Marušiaková
 tags: volby
 date: 2017-03-08
-img: 2017/strebl.jpg
+image: /assets/img/articles/2017/strebl.jpg
 category:     blog
 layout:       post
 ---

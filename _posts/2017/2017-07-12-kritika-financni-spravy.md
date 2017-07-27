@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Piráti svědky nesmyslné státní byrokracie. V otevřeném dopise kritizují šikanu Finanční správy ČR."
-img:          2017/paperwork.jpg
+image:          /assets/img/articles/2017/paperwork.jpg
 author:     Karolína Sadílková
 ---
 
@@ -28,5 +28,3 @@ Pirátská strana nesmyslnou šikanu zastaví. Po úřadech mají obíhat data, 
 
 * Štěpán Štrébl, volební manažer
 * E-mail: stepan.strebl@pirati.cz
- 
-

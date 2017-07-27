@@ -3,7 +3,7 @@ title: "Protikuřácký zákon: Racionální regulace kouření místo absolutn�
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-12-09
-img: 2016/popelnicek.jpg
+image: /assets/img/articles/2016/popelnicek.jpg
 category:     blog
 layout:       post
 ---

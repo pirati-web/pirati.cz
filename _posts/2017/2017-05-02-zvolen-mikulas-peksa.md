@@ -3,8 +3,8 @@ date:         2017-05-02
 category:     post
 tags:         přímá demokracie
 layout:       post
-title:        "Piráti si zvolili za místopředsedu programátora a biofyzika Mikuláše Peksu" 
-img:        2017/mikulas-peksa.jpg
+title:        "Piráti si zvolili za místopředsedu programátora a biofyzika Mikuláše Peksu"
+image:        /assets/img/articles/2017/mikulas-peksa.jpg
 author:       Mikuláš Ferjenčík
 ---
 Členové České pirátské strany rozhodli o tom, že novým místopředsedou se stal Mikuláš Peksa. Získal nadpoloviční většinu hlasů hned v prvním kole hlasování. Nově zvolený místopředseda nahradil Iva Vašíčka, kterého členové strany odvolali v celorepublikovém referendu 4. dubna 2017.
@@ -15,10 +15,9 @@ Nový místopředseda reprezentuje myšlenkový proud, který mezinárodní i ev
 
 Spolupráci v rámci Evropské unie tedy neprosazuje za každou cenu. Přínos společné politiky spatřuje zejména ve strategických a bezpečnostních otázkách: „V Evropě musí fungovat princip subsidiarity. Věci, které se dají řešit na národní úrovni, nechť se tak řeší. Společné otázky, jako je třeba obrana vnějších hranic, musíme řešit společně na úrovni Evropské unie.”
 
-Vedení České pirátské strany je nyní kompletní a skládá se z předsedy Ivana Bartoše a místopředsedů Vojtěcha Pikala, Martina Šmídy, Jakuba Michálka a nově zvoleného Mikuláše Peksy. 
+Vedení České pirátské strany je nyní kompletní a skládá se z předsedy Ivana Bartoše a místopředsedů Vojtěcha Pikala, Martina Šmídy, Jakuba Michálka a nově zvoleného Mikuláše Peksy.
 
 ### Kontakty
 
 * [Mikuláš Peksa](https://www.pirati.cz/lide/mikulas-peksa/), [mikulas.peksa@pirati.cz](mailto:mikulas.peksa@pirati.cz), místopředseda Pirátů
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru Pirátů, 737 943 770
-

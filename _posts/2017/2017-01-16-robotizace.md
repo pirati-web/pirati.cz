@@ -3,8 +3,8 @@ date:         2017-01-16
 category:     blog
 tags:         robotizace
 layout:       post
-title:        "Česko je v EU druhou zemí nejvíce ohroženou robotizací. Odpovědí by mohl být nepodmíněný základní příjem" 
-img:        2017/robotizace.jpg
+title:        "Česko je v EU druhou zemí nejvíce ohroženou robotizací. Odpovědí by mohl být nepodmíněný základní příjem"
+image:        /assets/img/articles/2017/robotizace.jpg
 author:       Petra Dvořáková
 ---
 
@@ -24,5 +24,5 @@ Myšlenka základního nepodmíněného příjmu se snaží reagovat právě na 
 
 ### Kontakt
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770 
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů, 737 943 770
 * [PaedDr. Ivo Vašíček](https://www.pirati.cz/lide/ivo_vasicek), [ivo.vasicek@pirati.cz](mailto:ivo.vasicek@pirati.cz), místopředseda Pirátů

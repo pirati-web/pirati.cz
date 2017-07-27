@@ -4,7 +4,7 @@ category:     blog
 tags:         volby samosprava
 layout:       post
 title:        "Piráti předložili návrh na přímou volbu a odvolatenost starostů a primátorů"
-img:          2017/retez.jpg
+image:          /assets/img/articles/2017/retez.jpg
 author:     Jakub Michálek
 ---
 
@@ -14,14 +14,14 @@ Jakub Michálek na legislativním výboru ZHMP představil [návrh klubu Pirát�
 
 Příkladem úspěšného systému přímé volby je například referendum, kterým byla v roce 1998 zavedena pozice starosty Londýna a bylo zřízeno londýnské zastupitelstvo. Pro přímou volbu starosty se tehdy vyslovilo 72 % občanů. V přímé volbě starosty největšího britského města uspěl např. starosta Boris Johnson. Přímou volbu starosty mají také metropole jako New York nebo Chicago a myslíme si, že by Praze také slušela. Ve všech okolních státech je přímá volba starostů již zavedena.
 
-### Základní teze přímé volby a odvolatelnosti primátora (příp. starosty) podle Pirátů: 
+### Základní teze přímé volby a odvolatelnosti primátora (příp. starosty) podle Pirátů:
 
-* Primátor a jeho náměstek budou voleni jako dvojice přímo občany hl. m. Prahy (podobně jako v amerických prezidentských volbách). 
+* Primátor a jeho náměstek budou voleni jako dvojice přímo občany hl. m. Prahy (podobně jako v amerických prezidentských volbách).
 * Bude stačit jednokolová volba spolu s volbami do zastupitelstva a krajskými volbami (prakticky to znamená, že přibude na hlasovacím lístku jedno políčko pro kandidáta na primátora u každé strany).
 * Primátor bude mít na starosti exekutivu, zatímco zastupitelstvo bude mít vyhrazeno dlouhodobá koncepční rozhodnutí a kontrolní oprávnění (konkrétní pravomoci jako schvalování rozpočtu a dispozice s majetkem budou podobně jako dnes vyjmenovány v zákoně).
 * Primátor bude odvolatelný v referendu, které bude vyhlášeno na základě petice občanů anebo usnesení zastupitelstva.
 * Rada bude nepovinným poradním orgánem primátora; člena rady jmenuje primátor se souhlasem zastupitelstva; primátor bude oprávněn z části přenést své kompetence na člena rady.
-* Primátor bude oprávněn rozpustit Zastupitelstvo, po čemž se automaticky budou konat volby do Zastupitelstva i nová volba primátora. 
+* Primátor bude oprávněn rozpustit Zastupitelstvo, po čemž se automaticky budou konat volby do Zastupitelstva i nová volba primátora.
 * Zastupitelstvo získá vůči radě další kontrolní oprávnění, prostřednictvím kontrolního výboru; primátor, člen rady a zaměstnanec města bude povinen na vyzvání výboru v případě důvodného podezření vypovídat pod přísahou a budou povinni poskytnout všechny dokumenty.
 
 ### Výhody přímé volby:
@@ -34,8 +34,8 @@ Příkladem úspěšného systému přímé volby je například referendum, kte
 
 Piráti také zároveň upozorňují na rizika přímé volby. Zejména jsme mysleli na případ, aby primátor a zastupitelstvo spolupracovali. Proto se budou volit na společném hlasovacím lístku a vedle toho bude mít primátor pravomoc rozpustit zastupitelstvo, čímž budou vyhlášeny nové volby. Jiným rizikem je, že si občané zvolí populisty jako je pan Kotleba na Slovensku, ale v konečném důsledku je věcí občanů daného města, koho si chtějí zvolit.
 
-Pro princip přímé volby starostů se historicky vedle Pirátů vyjádřily i hnutí ANO, STAN a KSČM a v případě menších obcí i ČSSD. Piráti by také podpořili, aby přímá volba i odvolatelnost starosty/primátora byla výslovně upravena v Ústavě, která dnes mluví pouze o obecním zastupitelstvu. 
+Pro princip přímé volby starostů se historicky vedle Pirátů vyjádřily i hnutí ANO, STAN a KSČM a v případě menších obcí i ČSSD. Piráti by také podpořili, aby přímá volba i odvolatelnost starosty/primátora byla výslovně upravena v Ústavě, která dnes mluví pouze o obecním zastupitelstvu.
 
-### Dokumenty 
+### Dokumenty
 
 * [Návrh Pirátů na přímou volbu starostů a primátorů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/prima-volba-starostu-a-primatoru.pdf)

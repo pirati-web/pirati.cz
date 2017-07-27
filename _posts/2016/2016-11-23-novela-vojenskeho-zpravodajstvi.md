@@ -3,8 +3,8 @@ date:         2016-11-23
 category:     blog
 tags:         cenzura
 layout:       post
-title:        "Novela zákona o Vojenském zpravodajství ohrožuje bezpečnost českého Internetu." 
-img:        2016/sledujeme-kazdeho.jpg
+title:        "Novela zákona o Vojenském zpravodajství ohrožuje bezpečnost českého Internetu."
+image:        /assets/img/articles/2016/sledujeme-kazdeho.jpg
 author:       Petra Dvořáková
 ---
 

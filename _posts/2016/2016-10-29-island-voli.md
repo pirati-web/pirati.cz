@@ -3,8 +3,8 @@ date:         2016-10-29
 category:     blog
 tags:         Island
 layout:       post
-title:        "Island dnes volí poslance, Piráti mohou zvítězit." 
-img:        2016/bj2.jpg
+title:        "Island dnes volí poslance, Piráti mohou zvítězit."
+image:        /assets/img/articles/2016/bj2.jpg
 author:       Petr Dvořáková
 ---
 

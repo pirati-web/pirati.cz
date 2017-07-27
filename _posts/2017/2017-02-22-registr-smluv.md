@@ -3,7 +3,7 @@ title: "Stanovisko Pirátů: Registr smluv je mrtvý. Ať žije registr smluv! S
 author: Věra Marušiaková
 tags: stanovisko
 date: 2017-02-22
-img: 2017/destrukce-registru.jpg
+image: /assets/img/articles/2017/destrukce-registru.jpg
 category:     blog
 layout:       post
 ---

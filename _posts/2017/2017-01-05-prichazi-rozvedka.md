@@ -3,8 +3,8 @@ date:         2017-01-05
 category:     blog
 tags:         šmírování
 layout:       post
-title:        "Novela zákona o Vojenském zpravodajství: Piráti se připojují k iniciativě Přichází rozvědka" 
-img:        2016/prichazi-rozvedka.jpg
+title:        "Novela zákona o Vojenském zpravodajství: Piráti se připojují k iniciativě Přichází rozvědka"
+image:        /assets/img/articles/2016/prichazi-rozvedka.jpg
 author:       Věra Marušiaková
 ---
 
