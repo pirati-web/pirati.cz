@@ -9,7 +9,7 @@ Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
 Instalace ubuntu 16.04:
 
 ```
-sudo apt-get install ruby-dev gcc make libghc-zlib-dev
+sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev
 gem install rubygems-update
 gem install jekyll bundler
 bundle
