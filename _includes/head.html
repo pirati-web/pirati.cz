@@ -30,7 +30,7 @@
     <meta property="og:title"         content="Piráti: {{page.title}}" />
     <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
     {% endif %}{% if page.layout == 'post' %}
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/articles/' | absolute_url }}" />
+    <meta property="og:image"         content="{{page.image | absolute_url }}" />
     {% endif %}{% if page.layout == 'page' %}
     <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
     {% endif %}

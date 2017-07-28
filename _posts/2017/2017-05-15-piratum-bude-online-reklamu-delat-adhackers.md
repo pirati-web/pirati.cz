@@ -3,8 +3,8 @@ date:         2017-05-15
 category:     blog
 tags:         pirati
 layout:       post
-title:        "Pirátům bude online reklamu dělat AdHackers Jana Řeháka" 
-img:          2017/adhackers.jpg
+title:        "Pirátům bude online reklamu dělat AdHackers Jana Řeháka"
+image:          /assets/img/articles/2017/adhackers.jpg
 author:       Ivan Bartoš
 ---
 
@@ -19,4 +19,3 @@ Agentura AdHackers vytvářela komunikační koncept například pro značku Boh
 ### Kontakty
 
 Ivan Bartoš, předseda Pirátů, ivan.bartos@pirati.cz, tel. 603 415 378
-

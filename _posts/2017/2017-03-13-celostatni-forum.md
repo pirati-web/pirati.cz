@@ -3,7 +3,7 @@ title: "V sobotu 18. března zasedá Celostátní fórum Pirátské strany"
 author: Věra Marušiaková
 tags: volby
 date: 2017-03-08
-img: 2017/cf2017.jpg
+image: /assets/img/articles/2017/cf2017.jpg
 category:     blog
 layout:       post
 ---

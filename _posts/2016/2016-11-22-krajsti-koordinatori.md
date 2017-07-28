@@ -3,7 +3,7 @@ title: "Piráti vyhlásili výběrové řízení na krajské koordinátory"
 author: Petra Dvořáková
 tags: stanovisko
 date: 2016-11-22
-img: 2016/ivan.jpg
+image: /assets/img/articles/2016/ivan.jpg
 category:     blog
 layout:       post
 ---
@@ -83,13 +83,13 @@ Personální odbor se může v průběhu výběrového řízení i po termínu p
 
 **Hodnocení nabídek:** V prvním kole proběhne kontrola, zda uchazeč splňuje požadavky. Ve druhém kole bude komise hodnotit na základě pohovoru a všech dalších zdrojů následující kritéria:
 
-* Celkový dojem: 20 
-* Pořádání akcí a práce s lidmi: 30 
-* Vlastní realizovaná aktivita k prosazení Pirátského programu: 10 
-* Zkušenosti s administrativou: 10 
-* Písemný projev:	10 
-* Práce s technickými systémy: 10 
-* Výše uvedené výhody: 10 
+* Celkový dojem: 20
+* Pořádání akcí a práce s lidmi: 30
+* Vlastní realizovaná aktivita k prosazení Pirátského programu: 10
+* Zkušenosti s administrativou: 10
+* Písemný projev:	10
+* Práce s technickými systémy: 10
+* Výše uvedené výhody: 10
 
 Zadavatel nebo výběrová komise může výběrové řízení před uplynutím termínu prodloužit, upravit hodnotící kritéria či využít libovolné další zdroje pro ohodnocení kvalit uchazeče.
 

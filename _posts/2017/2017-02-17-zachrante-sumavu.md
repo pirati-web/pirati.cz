@@ -3,7 +3,7 @@ title: "Výzva Pirátů poslancům: Nedopusťte plundrování přírody NP Šuma
 author: Věra Marušiaková
 tags: příroda
 date: 2017-02-17
-img: 2017/zachrante-sumavu.jpg
+image: /assets/img/articles/2017/zachrante-sumavu.jpg
 category:     blog
 layout:       post
 ---
@@ -17,7 +17,7 @@ Senát přijal třicet pozměňovacích návrhů senátora Jaroslava Větrovské
 
 Hlasování o novele Zákona o ochraně přírody a krajiny uskuteční v Poslanecké sněmovně v úterý 21. února. Tento den se pod heslem „Poslanci a poslankyně, hlasujte pro divočinu v národních parcích“ koná demonstrace na Malostranském náměstí od 11,55.
 
-### Související odkazy 
+### Související odkazy
 
 * [Fb událost demonstrace za záchranu národních parků](https://www.facebook.com/events/1455643567780190)
 * [Výzva Zachraňte národní parky](https://www.zachranmenarodniparky.cz/)

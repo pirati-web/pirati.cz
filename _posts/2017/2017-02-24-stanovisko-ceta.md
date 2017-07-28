@@ -3,7 +3,7 @@ title: "Stanovisko Pirátů ke schválení CETA Evropským parlamentem"
 author: Věra Marušiaková
 tags: stanovisko
 date: 2017-02-24
-img: 2017/stop-ceta.jpg
+image: /assets/img/articles/2017/stop-ceta.jpg
 category:     blog
 layout:       post
 ---

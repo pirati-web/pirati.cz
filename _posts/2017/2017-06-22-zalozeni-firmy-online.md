@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online"
-img:          2017/bartos.jpg
+image:          /assets/img/articles/2017/bartos.jpg
 author:     Mikuláš Ferjenčík
 ---
 
@@ -18,7 +18,7 @@ Na rozdíl od jiných politiků, kteří o rušení formulářů pouze mluví, t
 
 Česko je dle údajů Světové banky až 81. ze 190 ekonomik v jednoduchosti založení firmy. Přitom na Novém Zélandu založení firmy trvá půl dne a podnikateli stačí jeden krok. I mnoho rozvojových zemí je před námi. Pro srovnání v Česku obnáší založení firmy minimálně osm kroků a zabere nejméně týden, reálně spíše dva až tři. I jinde v Evropě je proces mnohem snazší. Tak proč to nejde i u nás?
 
-### Odkazy 
+### Odkazy
 
 * [Prezentace Pirátů k problematice zakládání firem online](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/na-urad-z-domova.pdf)
-* [Stránka https://urad.pirati.cz, kde si lze vyzkoušet, jak bude vypadat založení firmy online](https://urad.pirati.cz) 
+* [Stránka https://urad.pirati.cz, kde si lze vyzkoušet, jak bude vypadat založení firmy online](https://urad.pirati.cz)

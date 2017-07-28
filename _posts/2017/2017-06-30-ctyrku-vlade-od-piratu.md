@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Piráti dali vládě čtyřku, tři ministři podle nich propadli."
-img:          2017/vysvedceni.jpg
+image:          /assets/img/articles/2017/vysvedceni.jpg
 author:     Mikuláš Ferjenčík
 ---
 

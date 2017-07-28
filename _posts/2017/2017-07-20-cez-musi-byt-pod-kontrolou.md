@@ -4,7 +4,7 @@ category:     blog
 tags:         čez ustavni-soud infozákon
 layout:       post
 title:        "Piráti navrhnou změnu Zákona o svobodném přístupu k informacím, ČEZ musí být pod kontrolou občanů"
-img:          2017/cez.png
+image:          /assets/img/articles/2017/cez.png
 author:     Jakub Michálek
 ---
 

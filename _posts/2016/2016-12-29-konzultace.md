@@ -3,8 +3,8 @@ date:         2016-12-29
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Piráti konzultují své programové teze napříč politickým spektrem" 
-img:        2016/zakladni-prijem-bern.jpg
+title:        "Piráti konzultují své programové teze napříč politickým spektrem"
+image:        /assets/img/articles/2016/zakladni-prijem-bern.jpg
 author:       Věra Marušiaková
 ---
 

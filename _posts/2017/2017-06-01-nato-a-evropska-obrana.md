@@ -4,7 +4,7 @@ category:     blog
 tags:         obrana
 layout:       post
 title:        "Stanovisko Pirátů ke kolektivní obraně v rámci EU a NATO"
-img:          2017/nato.jpg
+image:          /assets/img/articles/2017/nato.jpg
 author:     Mikuláš Ferjenčík
 ---
 

@@ -3,8 +3,8 @@ date:         2017-05-04
 category:     post
 tags:         konopí
 layout:       post
-title:        "Legalizace konopí: Získáme miliardy do zdravotnictví a tisíce nových pracovních míst" 
-img:        2017/legalizace.jpg
+title:        "Legalizace konopí: Získáme miliardy do zdravotnictví a tisíce nových pracovních míst"
+image:        /assets/img/articles/2017/legalizace.jpg
 author:       Jakub Michálek
 ---
 
@@ -12,7 +12,7 @@ Piráti dnes navrhli konkrétní podobu reformy, která by legalizovala, zregulo
 
 „Naše reforma počítá nejenom s legalizací, ale i s regulací a zdaněním podnikání s konopím. Přinese zvýšení bezpečnosti, ale i více než 3,2 miliardy korun, které se vyberou na daních. Dojde ke snížení výdajů spojených s neúčinnou represí. Konopí už se nebude prodávat na ulici, kde k němu mají přístup děti. Předpokladem úspěšné regulace návykových látek je také maximální omezení reklamy,“ uvedl Jakub Michálek, místopředseda Pirátů.
 
-Legalizace konopí byla úspěšně uskutečněna v řadě států USA, např. v Kalifornii, Oregonu, Washingtonu, Coloradu, Maine a dalších. Jenom v Coloradu vytvořila legalizace konopí  18000 nových pracovních míst. Legalizaci konopí navrhuje i předseda kanadské vlády Justin Trudeau z liberální strany. 
+Legalizace konopí byla úspěšně uskutečněna v řadě států USA, např. v Kalifornii, Oregonu, Washingtonu, Coloradu, Maine a dalších. Jenom v Coloradu vytvořila legalizace konopí  18000 nových pracovních míst. Legalizaci konopí navrhuje i předseda kanadské vlády Justin Trudeau z liberální strany.
 
 „Vláda za 4 roky nedokázala zajistit konopí v lékárnách ani pacientům, kteří ho akutně potřebují. Mohu slíbit, že v případě vítězství ve volbách nebudeme dovážet konopí z Nizozemska, ale budeme ho pěstovat u nás v Česku. V Nizozemsku můžou dále pěstovat tulipány. Díky naší reformě najdeme skutečně účinný způsob, jak skoncovat s černým trhem. V Česku jde minimálně o 60 tun konopí ročně,“ říká pražský zastupitel a místopředseda Pirátů Jakub Michálek.
 

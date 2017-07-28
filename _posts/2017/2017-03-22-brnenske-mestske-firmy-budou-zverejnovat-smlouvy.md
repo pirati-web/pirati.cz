@@ -3,7 +3,7 @@ title: "Brno bude dál zveřejňovat smlouvy městských firem. Navzdory vykost�
 author: Tomáš Koláčný
 tags: brno
 date: 2017-03-22
-img: 2017/pero.jpg
+image: /assets/img/articles/2017/pero.jpg
 category:     blog
 layout:       post
 ---

@@ -3,8 +3,8 @@ date:         2017-04-26
 category:     blog
 tags:         ct cro
 layout:       post
-title:        "Piráti s výhradami podporují návrh novely zákona o České televizi a Českém Rozhlasu" 
-img:          2017/zakon_ct_cro.JPG
+title:        "Piráti s výhradami podporují návrh novely zákona o České televizi a Českém Rozhlasu"
+image:          /assets/img/articles/2017/zakon_ct_cro.JPG
 author:       Roman Kučera
 ---
 

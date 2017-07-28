@@ -3,8 +3,8 @@ date:         2016-10-09
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti ve volbách 2016: těší nás pět nových zastupitelů v krajích a dva senátorští kandidáti v druhém kole." 
-img:        2016/vysledky7.jpg
+title:        "Piráti ve volbách 2016: těší nás pět nových zastupitelů v krajích a dva senátorští kandidáti v druhém kole."
+image:        /assets/img/articles/2016/vysledky7.jpg
 author:       Věra Marušiaková
 ---
 

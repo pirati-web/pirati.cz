@@ -3,8 +3,8 @@ date:         2016-11-06
 category:     blog
 tags:         Karlovarský-kraj
 layout:       post
-title:        "Piráti na Karlovarsku zaveleli ke změně kurzu. Karlovarský kraj směřuje k větší otevřenosti" 
-img: 2016/podpis-koalice-kvk.jpg
+title:        "Piráti na Karlovarsku zaveleli ke změně kurzu. Karlovarský kraj směřuje k větší otevřenosti"
+image:        /assets/img/articles/2016/podpis-koalice-kvk.jpg
 author:       Petr Dvořáková
 ---
 
@@ -32,11 +32,11 @@ Pirátská strana bude mít také své zástupce ve všech výborech a komisích
 
 ### Související odkazy
 
-* [Piráti Karlovarský kraj](http://piratikvk.cz/) 
+* [Piráti Karlovarský kraj](http://piratikvk.cz/)
 * [Pirátský Facebook Karlovarského kraje](https://www.facebook.com/pirati.karlovarsko/)
 
 ### Kontakty
 
-* [Ing. Josef Janů](https://www.pirati.cz/lide/josef_janu), [josef.janu@pirati.cz](mailto:josef.janu@pirati.cz), lídr pirátské kandidátky a zvolený krajský zastupitel za Piráty v KV kraji 606 183 864 
-* [Ing. Petr Třešňák](https://www.pirati.cz/lide/petr_tresnak), [petr.tresnak@pirati.cz](mailto:petr.tresnak@pirati.cz), předseda Krajského sdružení Karlovarský kraj a starosta města Mariánské lázně, 606 675 294 
+* [Ing. Josef Janů](https://www.pirati.cz/lide/josef_janu), [josef.janu@pirati.cz](mailto:josef.janu@pirati.cz), lídr pirátské kandidátky a zvolený krajský zastupitel za Piráty v KV kraji 606 183 864
+* [Ing. Petr Třešňák](https://www.pirati.cz/lide/petr_tresnak), [petr.tresnak@pirati.cz](mailto:petr.tresnak@pirati.cz), předseda Krajského sdružení Karlovarský kraj a starosta města Mariánské lázně, 606 675 294
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik), [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), vedoucí mediálního odboru Pirátů a pražský zastupitel, 737 943 770

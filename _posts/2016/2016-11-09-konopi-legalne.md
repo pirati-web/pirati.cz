@@ -3,8 +3,8 @@ date:         2016-11-09
 category:     blog
 tags:         legalizace
 layout:       post
-title:        "Vedle voleb běžela referenda: Konopí si legálně bude moci koupit pětina Američanů." 
-img:        2016/usa-legalizace.jpg
+title:        "Vedle voleb běžela referenda: Konopí si legálně bude moci koupit pětina Američanů."
+image:        /assets/img/articles/2016/usa-legalizace.jpg
 author:       Petr Dvořáková
 ---
 
@@ -21,4 +21,4 @@ Na federální úrovni je v USA konopí stále nelegální. Můžeme doufat, že
 
 ### Kontakty
 
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru, 737 943 770 
+* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas_ferjencik) [mikulas.ferjencik@pirati.cz](mailto:mikulas.ferjencik@pirati.cz), šéf mediálního odboru, 737 943 770

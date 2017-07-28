@@ -4,7 +4,7 @@ category:     blog
 tags:         kampan praha volby
 layout:       post
 title:        "Piráti zahájili kampaň: Pusťte nás na ně! vyzýval voliče lídr strany Bartoš."
-img:          2017/ivan-vyskakuje.jpg
+image:          /assets/img/articles/2017/ivan-vyskakuje.jpg
 author:     Mikuláš Ferjenčík
 ---
 

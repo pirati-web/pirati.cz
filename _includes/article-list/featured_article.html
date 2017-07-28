@@ -4,8 +4,8 @@
     <div class="c-BlogPosting-photoBox">
       <!-- BlogPosting image -->
       <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-        <img src="{{article.img | prepend: '/assets/img/articles/' | relative_url }}" alt="{{article.title}}">
-        <meta itemprop="url" content="{{article.img | prepend: '/assets/img/articles/' | relative_url }}">
+        <img src="{{article.image | relative_url }}" alt="{{article.title}}">
+        <meta itemprop="url" content="{{article.image | relative_url }}">
         <meta itemprop="width" content="">
         <meta itemprop="height" content=""> </div>
     </div>

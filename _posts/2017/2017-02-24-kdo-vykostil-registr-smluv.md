@@ -3,7 +3,7 @@ title: "Kdo vykostil zákon o smlouvách na Internetu? KDU-ČSL, ČSSD, ODS a KS
 author: Mikuláš Ferjenčík
 tags: registr-smluv
 date: 2017-02-24
-img: 2017/registr-smluv.jpg
+image: /assets/img/articles/2017/registr-smluv.jpg
 category:     blog
 layout:       post
 ---

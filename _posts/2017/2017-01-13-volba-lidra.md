@@ -3,13 +3,13 @@ date:         2017-01-13
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Piráti si volí celostátního lídra pro letošní volby do poslanecké sněmovny" 
-img:        2017/volba-lidra.jpg
+title:        "Piráti si volí celostátního lídra pro letošní volby do poslanecké sněmovny"
+image:        /assets/img/articles/2017/volba-lidra.jpg
 author:       Věra Marušiaková
 ---
 
 > Ivan Bartoš ke své kandidatuře říká: „Každým rokem Piráti zapouštějí kořeny v reálné politice České republiky. Z dat, která máme k dispozici, odhaduji, že mezi voliči i nevoliči máme potenciál téměř 15 procent. Věřím, že výsledky dosavadní práce v krajích, městech i v celostátní politice ukazují, že volbou Pirátů mohou občané jedině získat. Jsem přesvědčený, že se nám letos dobrou strategií podaří výsledek „těsně před branami“ pokořit a sněmovnu dobudeme. Pirát ví.“
- 
+
 > Mikuláš Peksa, druhý kandidát na volebního lídra Pirátů říká: „Chci ukázat, že už nejsme jen parta nadšenců, ale významná mezinárodně propojená protikorupční síla, schopná dlouhodobě obstát i na parlamentní úrovni. Musíme být tou přirozenou první volbou pro sociálně-liberální voliče, která v české politice dosud chyběla,“
 
 Do letošních sněmovních voleb se Piráti rozhodli jít samostatně. Je to vůle velké většiny členské základny. Budou mít otevřené kandidátky, na kterých mohou být i aktivní osobnosti mimo stranu, například z lokálních politických subjektů, se kterými nalezneme programovou shodu.

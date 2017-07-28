@@ -4,13 +4,13 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Stojíme za ústavními právy občanů, lidé mají právo rozhodovat o svých životech. Svá práva musejí dostat zpět."
-img:          2017/stavba-povolena.jpg
+image:          /assets/img/articles/2017/stavba-povolena.jpg
 author:     Jan Nezhyba
 ---
 
 >„Novela stavebního zákona – tak jak byla schválena – je naprosto antiliberální. Odporuje základním demokratickým principům, jde proti ústavním právům a mezinárodním dohodám, jako je Aarhuská úmluva.“ říká garant pirátského programu v oblasti životního prostředí Jan Nezhyba.
 
-„Za naprostý faul považujeme autoritářskou novelu stavebního zákona, vyřazující veřejnost z rozhodování na úrovni územního a stavebního řízení. Salámová metoda ukrajování a omezování svobod se opět vyplácí. Po okleštění zákona o EIA přichází další promyšlený krok, který znovu ubírá na právech občanů, a dokonce ještě pod rouškou jejich blaha. Tažení proti nevládním organizacím a jejich účasti v řízeních je jen účelovým odstraněním překážek pro absolutní ovládnutí jinak právně chráněného prostředí před zlovůlí developerů a lobbistů, prosazujících své zájmy. Poprvé od roku 1989 poslanci výrazně omezují právo občanů spolurozhodovat o své zemi,“ doplňuje Nezhyba. 
+„Za naprostý faul považujeme autoritářskou novelu stavebního zákona, vyřazující veřejnost z rozhodování na úrovni územního a stavebního řízení. Salámová metoda ukrajování a omezování svobod se opět vyplácí. Po okleštění zákona o EIA přichází další promyšlený krok, který znovu ubírá na právech občanů, a dokonce ještě pod rouškou jejich blaha. Tažení proti nevládním organizacím a jejich účasti v řízeních je jen účelovým odstraněním překážek pro absolutní ovládnutí jinak právně chráněného prostředí před zlovůlí developerů a lobbistů, prosazujících své zájmy. Poprvé od roku 1989 poslanci výrazně omezují právo občanů spolurozhodovat o své zemi,“ doplňuje Nezhyba.
 
 Piráti si uvědomují, že desetiletá zpoždění ve výstavbě klíčové dopravní infrastruktury jsou obrovský problém, ale řešení vidíme jinde než v omezení práva veřejnosti účastnit se příslušných řízení. Výrazně může pomoci přijetí zákona o liniových stavbách, citlivě nastaveného s ohledem k občanům a k životnímu prostředí. Zcela zásadní potom je kvalitní práce úřadů a úředníků, diky jejichž pochybením řada záměrů postupuje velice pomalu.
 
@@ -24,4 +24,4 @@ Novela stavebního zákona měla především zrychlit liniové stavby, to v prv
 
 ### Signál občanům je jasný
 
-Aktuálně napříč celým politickým spektrem (ANO, ODS, ČSSD, KSČM) vládne shoda na tom, že do toho, co se kde staví, nemá řadový občan „vůbec co kecat, natož spolurozhodovat“. Zato mizerná práce úředníků a účelová opominutí, mnohdy i svévole politiků, budou pořád hlavní příčinou zdržení většiny liniových staveb a dalších stavebních projektů. Naproti tomu široká veřejnost přichází o cenné právo a možnost využít odborných rad a zastoupení v řízeních. Občan je nově vydán napospas benevolenci úřadů a politiků, bez šance na rozhodování a zákonnou obranu, kterou mohl doposud využívat. 
+Aktuálně napříč celým politickým spektrem (ANO, ODS, ČSSD, KSČM) vládne shoda na tom, že do toho, co se kde staví, nemá řadový občan „vůbec co kecat, natož spolurozhodovat“. Zato mizerná práce úředníků a účelová opominutí, mnohdy i svévole politiků, budou pořád hlavní příčinou zdržení většiny liniových staveb a dalších stavebních projektů. Naproti tomu široká veřejnost přichází o cenné právo a možnost využít odborných rad a zastoupení v řízeních. Občan je nově vydán napospas benevolenci úřadů a politiků, bez šance na rozhodování a zákonnou obranu, kterou mohl doposud využívat.

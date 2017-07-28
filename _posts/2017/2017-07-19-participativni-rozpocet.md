@@ -4,7 +4,7 @@ category:     blog
 tags:         participace brno prima-demokracie
 layout:       post
 title:        "Piráti v Brně vyhodnotili první výsledky participativního rozpočtu a představili další návrhy na zavedení přímé demokracie v zemi"
-img:          2017/paro-brno.png
+image:          /assets/img/articles/2017/paro-brno.png
 author:     Karolína Sadílková, Tomáš Koláčný
 ---
 

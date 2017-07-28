@@ -4,7 +4,7 @@ title: "Pirátské volební štáby budou v jednotlivých krajích společně sl
 author: Věra Marušiaková
 tags: stanovisko
 date: 2016-10-06
-img: 2016/olomouc.jpg
+image: /assets/img/articles/2016/olomouc.jpg
 layout:       post
 ---
 
