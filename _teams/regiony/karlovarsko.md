@@ -27,7 +27,7 @@ Hájí nás tři stateční zastupitelé na úrovni celého kraje. V Mariánský
 
 Možnosti zapojení:
 
-* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Danielu Bílou (daniela.bila(аt)pirati.cz).
+* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
