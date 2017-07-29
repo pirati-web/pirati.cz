@@ -3,9 +3,9 @@
   name: Mgr. et Mgr. Jakub Michálek (28), právník a předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
   description: "Bojuju proti korupci na Magistrátě. Odmítl jsem jednat s pravomocně odsouzeným podvodníkem Karlem Březinou (ČSSD). Piráti prosazují transparentní stát. Pusťte nás na ně i do parlamentu!"
 -
- img: dana-balcarova.jpg
- name: Ing. Dana Balcarová (59), manažerka, expertka na životní prostředí a zastupitelka na Praze 9
-description: "Jako zastupitelka na Praze 9 jsem zachránila park před developery. Ve sněmovně budu prosazovat, aby občané dostali informace o tom, co se má stavět v jejich okolí, a mohli to ovlivnit."
+  img: dana-balcarova.jpg
+  name: Ing. Dana Balcarová (59), manažerka, expertka na životní prostředí a zastupitelka na Praze 9
+  description: "Jako zastupitelka na Praze 9 jsem zachránila park před developery. Ve sněmovně budu prosazovat, aby občané dostali informace o tom, co se má stavět v jejich okolí, a mohli to ovlivnit."
 -
   img: ondrej-profant.jpg
   name: Ondřej Profant (29), informatik specializovaný na zavádění svobodného software a zastupitel hl. m. Prahy
@@ -62,17 +62,15 @@ description: "Jako zastupitelka na Praze 9 jsem zachránila park před developer
   img: barbora-hruzova.jpg
   name: Barbora Hrůzová (55), dokumentátorka v Archeologickém ústavu Akademie věd ČR
   description:
-  -
+-
   img: michael-polak.jpg 
   name: Michael Polák (43), poskytovatel internetového připojení
   description: 
-  -
+-
   img: martin-duska.jpg 
   name: Bc. Martin Duška(24), student politologie
   description: 
-  -
+-
   img: michaela-krupickova.jpg 
   name: Michaela Krupičková, (44),  referentka služeb klientům VZP
   description:
-
-
