@@ -3,9 +3,9 @@
   name: Mgr. et Mgr. Jakub Michálek (28), právník a předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
   description: "Bojuju proti korupci na Magistrátě. Odmítl jsem jednat s pravomocně odsouzeným podvodníkem Karlem Březinou (ČSSD). Piráti prosazují transparentní stát. Pusťte nás na ně i do parlamentu!"
 -
-  img: dana-balcarova.jpg
-  name: Ing. Dana Balcarová (59), manažerka, expertka na životní prostředí a zastupitelka na Praze 9
-  description: "Jako zastupitelka na Praze 9 jsem zachránila park před developery. Ve sněmovně budu prosazovat, aby občané dostali informace o tom, co se má stavět v jejich okolí, a mohli to ovlivnit."
+ img: dana-balcarova.jpg
+ name: Ing. Dana Balcarová (59), manažerka, expertka na životní prostředí a zastupitelka na Praze 9
+description: "Jako zastupitelka na Praze 9 jsem zachránila park před developery. Ve sněmovně budu prosazovat, aby občané dostali informace o tom, co se má stavět v jejich okolí, a mohli to ovlivnit."
 -
   img: ondrej-profant.jpg
   name: Ondřej Profant (29), informatik specializovaný na zavádění svobodného software a zastupitel hl. m. Prahy
@@ -14,3 +14,65 @@
   img: olga-richterova.jpg
   name: Olga Richterová (32), korpusová lingvistka, překladatelka a zastupitelka městské části Praha 10
   description: "Pečovala jsem o svou nemocnou babičku, přitom jsem vychovávala syna a ve volném čase se angažovala na radnici nejlidnatější městské části. Chce, aby lidé dosáhli na státní pomoc i bez složitého papírování. V Parlamentu se zasadí o to, aby byl majetek státu efektivně využíván a ušetřené prostředky se použily pro ty, kdo to opravdu potřebují."
+-
+  img: jan-lipavsky.jpg
+  name: Jan Lipavský (32), analytik a manažer projektů v oblasti informačních technologií v bankovnictví
+  description:
+-
+  img: vaclav-fortik.jpg
+  name: Václav Fořtík (46), tvůrce hádanek a hlavolamů, OSVČ 
+  description:
+-
+  img: robert-veverka.jpg
+  name: Robert Veverka (40), vydavatel magazínu Legalizace, OSVČ
+  description:
+-
+  img: viktor-mahrik.jpg
+  name: Viktor Mahrik (36), specialista internetových výzkumů
+  description:
+-
+  img: tomas-murnak.jpg
+  name:Tomáš Murňák (37), softwarový operátor, zastupitel městské části Praha 13
+  description:
+-
+  img:lydie-franka-bartosova.jpg 
+  name: Lydie Franka Bartošová (34), knihovnice
+  description:
+-
+  img:adam-zabransky.jpg 
+  name: Adam Zábranský (23), zastupitel hlavního města Prahy, wikipedista a aktivista za práva zvířat
+  description:
+-
+  img: pavel-hajek.jpg
+  name: Ing. Pavel Hájek (33), učitel a zeměměřič
+  description:
+-
+  img: alexandr-mansurov jpg
+  name: Alexandr Mansurov (23), specialista informační bezpečnosti
+  description:
+-
+  img: vera-marusiakova jpg
+  name: Mgr. Věra Marušiaková (46), odbornice v oblasti komunikace a facilitace (usnadňovač jednání), copywriter v cestovním ruchu
+  description: 
+-
+  img: daniel-mazur.jpg
+  name: RNDr. Daniel Mazur, Ph.D. (39), fyzik a projektový manažer 
+  description:
+-
+  img: barbora-hruzova.jpg
+  name: Barbora Hrůzová (55), dokumentátorka v Archeologickém ústavu Akademie věd ČR
+  description:
+  -
+  img: michael-polak.jpg 
+  name: Michael Polák (43), poskytovatel internetového připojení
+  description: 
+  -
+  img: martin-duska.jpg 
+  name: Bc. Martin Duška(24), student politologie
+  description: 
+  -
+  img: michaela-krupickova.jpg 
+  name: Michaela Krupičková, (44),  referentka služeb klientům VZP
+  description:
+
+
