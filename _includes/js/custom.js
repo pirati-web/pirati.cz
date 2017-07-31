@@ -65,7 +65,7 @@ var choice_person = function(data, uid, role) {
 /** @param {collection} data **/
 var choice_garant = function(data) { return choice_person(data, page_garant, 'garant'); };
 /** @param {collection} data **/
-var choice_leader = function(data) { return choice_person(data, page_leader, 'vedoucí týmu'); };
+var choice_leader = function(data) { return choice_person(data, page_leader, 'předseda'); };
 /** @param {collection} data **/
 var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktní osoba'); };
 
