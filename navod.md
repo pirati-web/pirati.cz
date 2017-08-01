@@ -96,3 +96,7 @@ Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s
 1. Kolekce začínají podtržítkem a jsou definovány v config.yaml. Včetně některých defaultních hodnot (např. obsah pravého sloupce).
 2. Stránky jsou obvykle samostatné složky obsahující soubor `index.html` nebo `index.md`. Mohou zde být i další stránky např. `pripoj-se/kalendar.html`.
 3. Hlavička, patička, pravý sloupec jsou ve složce `_includes`
+
+Članky: 1300x744
+People (lidé), foto 165x220
+
