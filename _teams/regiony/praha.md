@@ -24,7 +24,7 @@ url: http://praha.pirati.cz
 twitter: https://twitter.com/piratipraha
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
-
+# test věta
 Máme 4 Piráty na pražském magistrátu a 11 zastupitelů na městských částech.
 Na magistrátu jsme v opozici, prosazujeme průhledné hospodaření a rozhodování.
 Krajské sdružení se schází v **Pirátském centru**, Řehořova 19, Praha 3.
