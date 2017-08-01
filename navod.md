@@ -1,8 +1,15 @@
 # Návod pro Pirátský web
 
+Zdrojové kódy webu: **https://github.com/pirati-web/pirati.cz**
+
+Web je staticky kompilovaný v době změny, čili v repozitáři je opravdu všechno.
+
+Správci webu: Ondřej Profant, Stanislav Štipl, Jakub Michálek, Vojta Pikal, Jan Loužek
+
 ## 1. Markdown a yaml
 
 Je třeba znát značkovací **markdown**, který je velmi podobný grafickému plaintextu.
+Markdown si můžete vyzkoušet i v [online editoru](http://dillinger.io/) s náhledem.
 
 ```md
 # Nadpis 1. úrovně
