@@ -1,8 +1,10 @@
 ---
 layout: post
 category: CLANKY
-title: Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna na festivalu High Jump
-date: 2017-07-31T10:53:16+02:00
+title: >-
+  Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna na festivalu
+  High Jump
+date: 2017-07-31T08:53:16.000Z
 author: Karolina Sadílková
 image: /assets/img/articles/2017/freeride.jpg
 tags: psp2017 volby parlament
@@ -22,17 +24,18 @@ A pirátský boj za svobodu podporují i účinkující: *„Svoboda je pro mě 
 
 https://www.facebook.com/events/120120718622918
 
-| **Datum** | **Město** |
-|----------:|-----------|
-|  4.8.2017 | Hříměždice |
-| 15.8.2017 | Kladno |
-| 22.8.2017 | Kolín |
-| 28.8.2017 | Mělník |
-| 31.8.2017 | Poděbrady |
-|  1.9.2017 | Nymburk |
-|  6.9.2017 | Mladá Boleslav |
-| 10.9.2017 | Praha |
-| 13.9.2017 | Rakovník |
-| 15.9.2017 | Kladno |
-| 21.9.2017 | Kutná Hora |
-| 27.9.2017 | Příbram |
+| **Datum**   | **Město** |
+|------------:|:---------:|
+|  4. 8. 2017 | Hříměždice |
+| 15. 8. 2017 | Kladno |
+| 22. 8. 2017 | Kolín |
+| 28. 8. 2017 | Mělník |
+| 31. 8. 2017 | Poděbrady |
+|  1. 9. 2017 | Nymburk |
+|  6. 9. 2017 | Mladá Boleslav |
+| 10. 9. 2017 | Praha |
+| 13. 9. 2017 | Rakovník |
+| 15. 9. 2017 | Kladno |
+| 21. 9. 2017 | Kutná Hora |
+| 27. 9. 2017 | Příbram |
+
