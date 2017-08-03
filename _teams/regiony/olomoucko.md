@@ -26,6 +26,8 @@ V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je zastupit
 
 Máme místní sdružení v Majetíně (sdružení Pirátská Tvrz), Olomouci, Prostějově, Přerově a Jeseníku.
 
+Další informace můžete nalézt na [starém webu](https://wiki.pirati.cz/regiony/olomoucko/start).
+
 Možnosti zapojení:
 
 Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také schází místní sdružení. Napište koordinátorovi Michalu Gillovi na adrese michal.gill@pirati.cz nebo na telefonu 770 113 644 pro podrobnosti.
