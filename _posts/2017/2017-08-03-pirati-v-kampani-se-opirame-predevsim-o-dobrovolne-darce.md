@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Piráti: V kampani se opíráme především o dobrovolné dárce'
 date: 2017-07-26T11:10:40+02:00
