@@ -31,7 +31,7 @@ rbar: cal, people, video
                 <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
               </h2>
               <!-- BlogPosting description-->
-              <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 }} </div>
+              <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 | xml_escape }} </div>
               <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
             </div>
             <!-- Publisher -->
