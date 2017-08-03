@@ -1,9 +1,7 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
-title: >-
-  Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna na festivalu
-  High Jump
+title: Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna na festivalu High Jump
 date: 2017-07-31T10:53:16+02:00
 author: Karolina Sadílková
 image: /assets/img/articles/2017/freeride.jpg
