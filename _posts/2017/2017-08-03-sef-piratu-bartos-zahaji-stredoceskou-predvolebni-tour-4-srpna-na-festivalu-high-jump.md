@@ -22,7 +22,7 @@ A pirátský boj za svobodu podporují i účinkující: *„Svoboda je pro mě 
 **Podrobnější informace k Freeride tour najdete na FACEBOOKU:**
 [https://www.facebook.com/groups/251133982062512/](https://www.facebook.com/groups/251133982062512/)
 
-https://www.facebook.com/events/120120718622918
+[https://www.facebook.com/events/120120718622918](https://www.facebook.com/events/120120718622918)
 
 | **Datum**   | **Město** |
 |------------:|:---------:|
@@ -38,4 +38,5 @@ https://www.facebook.com/events/120120718622918
 | 15. 9. 2017 | Kladno |
 | 21. 9. 2017 | Kutná Hora |
 | 27. 9. 2017 | Příbram |
+
 
