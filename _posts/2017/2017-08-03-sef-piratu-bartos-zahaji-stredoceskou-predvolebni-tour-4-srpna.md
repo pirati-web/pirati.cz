@@ -1,17 +1,14 @@
 ---
 layout: post
 category: CLANKY
-title: >-
-  Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna na festivalu
-  High Jump
+title: Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpna
 date: 2017-07-31T08:53:16.000Z
 author: Karolina Sadílková
-image: /assets/img/articles/2017/freeride.jpg
+image: /assets/img/articles/2017/freeride2.jpg
 tags: psp2017 volby parlament
 ---
-**31. srpna 2017 – Jedenáct měst středních Čech a Prahu navštíví během srpna
-a září lídr České pirátské strany Ivan Bartoš, a to v rámci předvolební Freeride tour. Společně s ním vystoupí na tour legendy české hiphopové a elektronické scény jako James Cole, MessenJah, Jan Vrobel GnostaG, DJ Lynx, Selector Boldrik, Vůdůkrů nebo Rastafari DJ’s. Zahájení pirátské kampaně proběhne v pátek 4. srpna na hříměždickém festivalu High Jump, kde lídr
-Bartoš promluví na speciální REPRESENT Pirate Stage.**
+
+**Jedenáct měst středních Čech a Prahu navštíví během srpna a září lídr České pirátské strany Ivan Bartoš, a to v rámci předvolební Freeride tour. Společně s ním vystoupí na tour legendy české hiphopové a elektronické scény jako James Cole, MessenJah, Jan Vrobel GnostaG, DJ Lynx, Selector Boldrik, Vůdůkrů nebo Rastafari DJ’s. Zahájení pirátské kampaně proběhne v pátek 4. srpna v pražském klubu Uhelna na Smíchově.**
 
 „*Rozhodl jsem se oslovit své známé, umělce a lidi, kterých si vážím, aby podpořili naši pirátskou středočeskou kampaň. Výsledkem je myslím hodně zajímavý mix účinkujících, kteří se různě prostřídají na jedenácti pirátských zastávkách v kraji*,“ říká Bartoš. Výběrem interpretů cílí FreeRide tour na mladší generaci. I když to neplatí absolutně. Koncerty jsou samozřejmě přístupné všem. Bartoš se zároveň chystá oslovit mladou generaci dopisem, v němž mimo jiné autenticky vzpomene na svou revoltu vůči šedi systému, která byla kreativní a nezávislou cestou k vlastní svobodě. Do politiky přešel podle svých slov ve chvíli, kdy pochopil, že život ostatních anarchií nezmění a z periferie svobodu neuhájí. Po osmi letech práce pro Piráty je Ivan Bartoš přesvědčen o tom, že jím vedená strana tentokrát překoná pětiprocentní hranici, nutnou pro vstup do Sněmovny. Věří totiž v sílu lidí, kteří kvůli převládajícímu populismu zatím odmítali volit.
 
