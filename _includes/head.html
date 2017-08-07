@@ -33,6 +33,7 @@
     <meta property="og:image"         content="{{page.image | absolute_url }}" />
     {% endif %}{% if page.layout == 'page' %}
     <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
+    <meta property="og:description"   content="{{page.description }}" />
     {% endif %}
     {% feed_meta %}
     <!-- Fonts -->
