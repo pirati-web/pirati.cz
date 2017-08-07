@@ -17,8 +17,8 @@ profiles:
 ---
 
 
-Michal Gill (* 30. dubna 1987) je narozen a žije v Karviné. 
-Je členem Pirátské strany, konkrétně koordinátorem dobrovolníků pro [Moravskoslezský](https://www.pirati.cz/piznam/kraje/msk/start) a [Olomoucký](https://wiki.pirati.cz/regiony/olomoucko/start) kraj. 
+Michal Gill (* 30. dubna 1987) je narozen a žije v Karviné.
+Je členem Pirátské strany, konkrétně koordinátorem dobrovolníků pro [Moravskoslezský](https://www.pirati.cz/piznam/kraje/msk/start) a [Olomoucký](https://wiki.pirati.cz/regiony/olomoucko/start) kraj.
 Před profesionální prací pro stranu (1.2. 2017) byl místopředsedou krajského sdružení Moravskoslezského kraje a členem [Republikového výboru](https://www.pirati.cz/rv/start) strany. Nadále zůstává místopředsedou [místního sdružení Karvinsko](https://www.pirati.cz/regiony/moravskoslezsko/karvinsko/start); od března 2015 do července 2016 byl také garantem programového bodu [Rovnoprávnost](https://www.pirati.cz/program/rovnopravnost).
 Aktuálně jej živí zčásti práce pro Piráty a zčásti překladatelská činnost.
 
