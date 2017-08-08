@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Michálek: Zákon o povinném přístupu i informacím se má týkat i politických stran"
+title: "Michálek: Zákon o povinném přístupu k informacím se má týkat i politických stran"
 date: 2017-08-08T13:44:49+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/michalek-strana.jpg
