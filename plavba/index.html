@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% comment %}
+http://www.csvjson.com/csv2json
+{% endcomment %}
+
+<div class="row">
+  <div class="large-12 colums">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <h1 itemprop="headline" class="c-BasicPage__title"> Pirátská plavba do sněmovny <img style="height: 35px;" src="https://www.joshuanava.biz/pencil/images/1849_16_47-how-draw-glass-bottle-with-ellipse.jpg"></h1>
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  <div class="large-6 columns">
+    <img src="http://rexik.zoznam.sk/images/sk/omalovanky/Lod.jpg">
+    <ul>
+      {% for event in site.data.plavba %}
+        <li>{{event.Den}}: <strong><a href="{{event.Url}}">{{event.Kde}}</a></strong>, {{event.Co}}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="large-6 columns">
+    <img width="298px" src="http://media.gizmodo.co.uk/wp-content/uploads/2014/01/FactsaboutLondonBusesIMG8.jpeg">
+    <ul>
+      {% for event in site.data.plavba %}
+        <li>{{event.Den}}: <strong><a href="{{event.Url}}">{{event.Kde}}</a></strong>, {{event.Co}}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-3 large-offset-4 colums">
+    <h1 class="text-center">Vzkazy v lahvi</h1>
+  </div>
+  {% for vzkaz in site.data.vzkazy %}
+  <div class="row">
+  <div class="large-3 large-offset-4 columns">
+    <div class="callout">
+    {{ vzkaz.note }}<br>-- {{ vzkaz.name }}
+    </div>
+  </div>
+</div>
+  {% endfor %}
+</div>

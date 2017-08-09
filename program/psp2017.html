@@ -15,7 +15,8 @@ rbar: ""
   <div class="columns medium-12">
   <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
     jednotlivých ministerstvech. V každé kapitole píšeme jasně a střízlivě,
-    co chceme během 4 let ve sněmovně prosadit.</p>
+    co chceme během 4 let ve sněmovně prosadit.
+    Naši kandidáti podepsali <a href="{{'/program/psp2017/kodex-poslance/' | relative_url }}">Kodex poslance</a>.</p>
     <br>
   </div>
 </div>
@@ -23,9 +24,9 @@ rbar: ""
 {% assign program = site.program | where: "category","psp2017" %}
 <div class="row small-up-2 medium-up-3 large-up-4">
 {% for item in program %}
-<div class="column column-block">
+<div class="column column-block"  tyle="margin-top: 10px">
   <br>
-  <h2>{{item.title}}</h2>
+  <h2><a href="{{item.url | relative_url }}">{{item.title}}</a></h2>
   <a href="{{item.url | relative_url }}">
     <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}">
   </a>
@@ -33,9 +34,8 @@ rbar: ""
 {% endfor %}
 </div>
 
-<div class="row">
+<div class="row" style="margin-top: 20px">
   <div class="columns medium-12">
   <p>Kapitoly obrana, doprava a místní rozvoj budou doplněny.</p>
   </div>
 </div>
-

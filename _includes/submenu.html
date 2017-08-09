@@ -4,24 +4,24 @@
     <div class="c-top-sub-nav-inner">
       <div class="u-cf">
         <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> Program </div>
+          <div class="c-top-sub-nav__heading"> <a href="{{'/program/' | relative_url }}">Program</a> </div>
         </div>
         <div class="c-top-sub-nav-divider"></div>
         <ul class="c-top-sub-nav-items">
           <li class="c-top-sub-nav__item">
-            <a href="{{'/program/' | relative_url }}">Vize</a>
-          </li>
-          <li class="c-top-sub-nav__item">
             <a href="{{'/program/psp2017.html' | relative_url }}">Parlament 2017</a>
           </li>
+          {% comment %}
           <li class="c-top-sub-nav__item">
             <a href="{{'/program/psp2017/kodex-poslance/' | relative_url }}">Kodex poslance</a>
           </li>
+          {% endcomment %}
           <li class="c-top-sub-nav__item">
-            <a href="{{'/program/strana.html' | relative_url }}">Dlouhodobý</a>
+            <a href="{{'/program/strana.html' | relative_url }}">Dlouhodobý program</a>
           </li>
           <li class="c-top-sub-nav__item">
-            <a href="{{'/kalkulacka/' | relative_url }}">Kalkulačka</a>
+            <a href="{{'/kalkulacka/' | relative_url }}">Daňová kalkulačka</a>
+            &nbsp;<i class="fa fa-calculator" aria-hidden="true"></i>
           </li>
         </ul>
       </div>
