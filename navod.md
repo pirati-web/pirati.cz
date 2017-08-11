@@ -84,14 +84,22 @@ Pro jednoduchou úpravu textu stačí tlačítko vpravo dole nad patičkou "Navr
 
 ![Animace znázorňující navržení úpravy](/assets/img/navod/uprava.gif)
 
+Vpravo dole je "Navrhni úpravu":
 ![](/assets/img/navod/u1.png)
+Přihlásíme se:
 ![](/assets/img/navod/u2.png)
+Klikneme na "Fork this repository and propose changes"
 ![](/assets/img/navod/u3.png)
+Nyní můžeme soubor editovat:
 ![](/assets/img/navod/u4.png)
+Můžeme si i zobrazit náhled s vyznačenými změnami:
 ![](/assets/img/navod/u5.png)
 ![](/assets/img/navod/u6.png)
+Napíšeme popis změn a klikneme na "Propose file change":
 ![](/assets/img/navod/u7.png)
+Nyní vidíme souhrn změn:
 ![](/assets/img/navod/u8.png)
+Vytvoříme nový pull request:
 ![](/assets/img/navod/u9.png)
 
 ## Složitější změny
@@ -104,7 +112,7 @@ Zatím jsme prošli základy. Ale většinou není více potřeba. Pro opravdov�
 
 ### HTML
 
-Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s HTML není obsahem tohoto návodu. 
+Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s HTML není obsahem tohoto návodu.
 
 ### Struktura webu
 
