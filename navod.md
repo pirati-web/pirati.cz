@@ -6,10 +6,13 @@ Web je staticky kompilovaný v době změny, čili v repozitáři je opravdu vš
 
 Správci webu: Ondřej Profant, Stanislav Štipl, Jakub Michálek, Vojta Pikal, Jan Loužek
 
+Správci obsahu: Alexandr Kamarýt, Pavel Králíček, Jan Loužek
+
 ## 1. Markdown a yaml
 
 Je třeba znát značkovací **markdown**, který je velmi podobný grafickému plaintextu.
 Markdown si můžete vyzkoušet i v [online editoru](http://dillinger.io/) s náhledem.
+Není třeba se ho bát. Do markdownu též můžete vložit přímo html. Například pokud chcete vložit složitější tabulku nebo google kalendář.
 
 ```md
 # Nadpis 1. úrovně
@@ -59,25 +62,37 @@ Nejlépe je to srozumitelné na [příkladu](https://raw.githubusercontent.com/p
 
 ## Github
 
-Jedná se o systém pro sdílení verzítextových dokumentů (jako např. náš web). Umí toho mnohem více. Pro vás je důležité vytvořit si registraci.
+Jedná se o systém pro sdílení verzí textových dokumentů (jako např. náš web).
+Umí toho mnohem více. Pro vás je důležité vytvořit si registraci.
 
 Návrhy na změnu (pull request) se projeví až po schválení. Ale i pokud máte přímo právo zápisu, tak se změny neobjeví zcela okamžitě.
 
 ## Články
 
-Články (aktuality) je možno přidávat v grafickém rozhraní:
-
+Články (aktuality) je možno přidávat v grafickém rozhraní:  
 [**www.pirati.cz/admin**](https://www.pirati.cz/admin)
+Avšak potřebuje příslušná práva. Pro celostátní web je má MO.
 
 ### Tagy
 
-Tagy neoddělujeme čárkami, ale pouze mezerou. Zvolit správný tag není jednoduché - musí být vystižný, ale zároveň dost obecný, aby dával smysl i u dalších článků.
+Tagy neoddělujeme čárkami, ale pouze mezerou.
+Zvolit správný tag není jednoduché - musí být vystižný, ale zároveň dost obecný, aby dával smysl i u dalších článků.
 
 ## Lidé a další stránky
 
 Pro jednoduchou úpravu textu stačí tlačítko vpravo dole nad patičkou "Navrhni úpravu".
 
 ![Animace znázorňující navržení úpravy](/assets/img/navod/uprava.gif)
+
+![](/assets/img/navod/u1.png)
+![](/assets/img/navod/u2.png)
+![](/assets/img/navod/u3.png)
+![](/assets/img/navod/u4.png)
+![](/assets/img/navod/u5.png)
+![](/assets/img/navod/u6.png)
+![](/assets/img/navod/u7.png)
+![](/assets/img/navod/u8.png)
+![](/assets/img/navod/u9.png)
 
 ## Složitější změny
 
@@ -89,7 +104,7 @@ Zatím jsme prošli základy. Ale většinou není více potřeba. Pro opravdov�
 
 ### HTML
 
-Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s HTML není obsahem tohoto návodu.
+Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s HTML není obsahem tohoto návodu. 
 
 ### Struktura webu
 
@@ -99,4 +114,3 @@ Některé stránky jsou složitější a je potřeba znalost HTML. Seznámení s
 
 Članky: 1300x744
 People (lidé), foto 165x220
-
