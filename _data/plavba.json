@@ -1,158 +1,157 @@
 [
   {
-    "Den": "17.8.",
-    "Kde": "od 12:00 (předtím zubař)",
-    "Co": "Velké Žernoseky, Libochovany, Dolní Zálezly",
-    "Url": ""
+    "Den": "2017-08-10",
+    "Kde": "",
+    "Co": ""
   },
   {
-    "Den": "17.8.",
+    "Den": "2017-08-17",
+    "Kde": "od 12:00",
+    "Co": "Velké Žernoseky, Libochovany, Dolní Zálezly"
+  },
+  {
+    "Den": "2017-08-17",
     "Kde": "večer",
-    "Co": "Příjezd před ústí",
-    "Url": ""
+    "Co": "Příjezd do Církvic"
   },
   {
-    "Den": "18.8.",
-    "Kde": "celý den",
-    "Co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov",
-    "Url": ""
+    "Den": "2017-08-18",
+    "Kde": "dopoledne",
+    "Co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov"
   },
   {
-    "Den": "19.8.",
+    "Den": "2017-08-18",
+    "Kde": "od 12:00:00",
+    "Co": "Ústí - centrum a nábřeží"
+  },
+  {
+    "Den": "2017-08-18",
+    "Kde": "od 10:00",
+    "Co": "Příjezd do Děčína - kampan na  nabrezi"
+  },
+  {
+    "Den": "2017-08-19",
     "Kde": "přes den",
-    "Co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov",
-    "Url": ""
+    "Co": "Přejezd do Píšťan s malými zastávkami po cestě"
   },
   {
-    "Den": "19.8.",
-    "Kde": "večer",
-    "Co": "Příjezd do Děčína",
-    "Url": ""
+    "Den": "2017-08-19",
+    "Kde": "od 10:00",
+    "Co": "Lovosice"
   },
   {
-    "Den": "20.8.",
-    "Kde": "přes den, do 18:00 potřeba odjet zpět do Ústí",
-    "Co": "Děčín",
-    "Url": ""
+    "Den": "2017-08-20",
+    "Kde": "od 10:00",
+    "Co": "Litoměřice"
   },
   {
-    "Den": "21.8.",
-    "Kde": "",
-    "Co": "Lovosice",
-    "Url": ""
+    "Den": "2017-08-21",
+    "Kde": "od 10:00",
+    "Co": "Roudnice"
   },
   {
-    "Den": "22.8.",
-    "Kde": "",
-    "Co": "Litoměřice",
-    "Url": ""
+    "Den": "2017-08-22",
+    "Kde": "od 10:00",
+    "Co": "Štětí"
   },
   {
-    "Den": "23.8.",
-    "Kde": "",
-    "Co": "Roudnice",
-    "Url": ""
-  },
-  {
-    "Den": "24.8.",
-    "Kde": "",
-    "Co": "Štětí",
-    "Url": ""
-  },
-  {
-    "Den": "25.8.",
+    "Den": "2017-08-22",
     "Kde": "odpoledne",
-    "Co": "Kralupy",
-    "Url": ""
+    "Co": "Kralupy"
   },
   {
-    "Den": "26.8.",
+    "Den": "2017-08-23",
     "Kde": "",
-    "Co": "Roztoky, Libčice",
-    "Url": ""
+    "Co": "Roztoky, Libčice"
   },
   {
-    "Den": "27.8.",
+    "Den": "2017-08-24",
     "Kde": "",
-    "Co": "Přejezd zěpt do Mělníka",
-    "Url": ""
+    "Co": "Přejezd zěpt do Mělníka"
   },
   {
-    "Den": "28.8.",
+    "Den": "2017-08-25",
     "Kde": "",
-    "Co": "Mělník",
-    "Url": ""
+    "Co": "Mělník"
   },
   {
-    "Den": "29.8.",
+    "Den": "2017-08-26",
     "Kde": "",
-    "Co": "Neratovice, Kostelec",
-    "Url": ""
+    "Co": "Neratovice, Kostelec"
   },
   {
-    "Den": "30.8.",
+    "Den": "2017-08-27",
     "Kde": "",
-    "Co": "Brandýs",
-    "Url": ""
+    "Co": ""
   },
   {
-    "Den": "31.8.",
+    "Den": "2017-08-28",
     "Kde": "",
-    "Co": "Poděbrady",
-    "Url": ""
+    "Co": "Poděbrady"
   },
   {
-    "Den": "1.9.",
+    "Den": "2017-08-29",
     "Kde": "",
-    "Co": "Nymburk",
-    "Url": ""
+    "Co": "Nymburk"
   },
   {
-    "Den": "2.9.",
+    "Den": "2017-08-30",
     "Kde": "",
-    "Co": "Kolín",
-    "Url": ""
+    "Co": "Kolín"
   },
   {
-    "Den": "3.9.",
+    "Den": "2017-08-31",
     "Kde": "celý den přejezd do Prahy",
-    "Co": "",
-    "Url": ""
+    "Co": ""
   },
   {
-    "Den": "4.9.",
+    "Den": "2017-09-01",
     "Kde": "celý den přejezd do Prahy",
-    "Co": "dojet do Prahy",
-    "Url": ""
+    "Co": "dojet do Prahy"
   },
   {
-    "Den": "5.9.",
+    "Den": "2017-09-02",
     "Kde": "",
-    "Co": "Praha",
-    "Url": ""
+    "Co": "Praha"
   },
   {
-    "Den": "6.9.",
+    "Den": "2017-09-03",
     "Kde": "",
-    "Co": "Praha",
-    "Url": ""
+    "Co": "Praha"
   },
   {
-    "Den": "7.9.",
+    "Den": "2017-09-04",
     "Kde": "",
-    "Co": "Praha",
-    "Url": ""
+    "Co": "Praha"
   },
   {
-    "Den": "8.9.",
+    "Den": "2017-09-05",
     "Kde": "",
-    "Co": "Praha",
-    "Url": ""
+    "Co": "Praha"
   },
   {
-    "Den": "9.9.",
+    "Den": "2017-09-06",
     "Kde": "",
-    "Co": "",
-    "Url": ""
+    "Co": "Praha"
+  },
+  {
+    "Den": "2017-09-07",
+    "Kde": "",
+    "Co": "Praha"
+  },
+  {
+    "Den": "2017-09-08",
+    "Kde": "",
+    "Co": ""
+  },
+  {
+    "Den": "2017-09-09",
+    "Kde": "",
+    "Co": ""
+  },
+  {
+    "Den": "2017-09-10",
+    "Kde": "",
+    "Co": ""
   }
 ]
