@@ -1,8 +1,8 @@
 [
   {
     "Den": "2017-08-10",
-    "Kde": "",
-    "Co": ""
+    "Kde": "od 12:00",
+    "Co": "Cvičný event"
   },
   {
     "Den": "2017-08-17",
@@ -21,78 +21,78 @@
   },
   {
     "Den": "2017-08-18",
-    "Kde": "od 12:00:00",
-    "Co": "Ústí - centrum a nábřeží"
+    "Kde": "od 12:00",
+    "Co": "Ústí - nábřeží a Zanádraží u Benešova mostu"
   },
   {
     "Den": "2017-08-18",
-    "Kde": "od 10:00",
-    "Co": "Příjezd do Děčína - kampan na  nabrezi"
+    "Kde": "od 18:00",
+    "Co": "Piráti na Královce - hospůdka s Ivanem Bartošem"
   },
   {
     "Den": "2017-08-19",
-    "Kde": "přes den",
-    "Co": "Přejezd do Píšťan s malými zastávkami po cestě"
+    "Kde": "od 12:00",
+    "Co": "Děčín - kampaň na Smetanově nábřeží pod zámkem"
   },
   {
     "Den": "2017-08-19",
-    "Kde": "od 10:00",
-    "Co": "Lovosice"
+    "Kde": "od 18:00",
+    "Co": "Pirátská party s koncertem v clubu Klub Děčín"
   },
   {
     "Den": "2017-08-20",
     "Kde": "od 10:00",
-    "Co": "Litoměřice"
+    "Co": "Děčín - Ústí - Brná  Píšťany"
   },
   {
     "Den": "2017-08-21",
     "Kde": "od 10:00",
-    "Co": "Roudnice"
+    "Co": "Lovosice"
   },
   {
     "Den": "2017-08-22",
     "Kde": "od 10:00",
-    "Co": "Štětí"
+    "Co": "Litoměřice - Střelecký ostrov a centrum"
   },
   {
     "Den": "2017-08-22",
-    "Kde": "odpoledne",
-    "Co": "Kralupy"
+    "Kde": "od 17:00",
+    "Co": "Hospoda u Letního kina Litoměřice"
   },
   {
     "Den": "2017-08-23",
-    "Kde": "",
-    "Co": "Roztoky, Libčice"
+    "Kde": "od 10:00",
+    "Co": "Roudnice a večerní debata s Piráty v Marině"
   },
   {
     "Den": "2017-08-24",
-    "Kde": "",
-    "Co": "Přejezd zěpt do Mělníka"
+    "Kde": "od 10:00",
+    "Co": "Štětí - korzování na přístavišti"
   },
   {
     "Den": "2017-08-25",
     "Kde": "",
-    "Co": "Mělník"
+    "Co": "Kralupy"
   },
   {
     "Den": "2017-08-26",
     "Kde": "",
-    "Co": "Neratovice, Kostelec"
+    "Co": "Roztoky, Libčice"
   },
   {
     "Den": "2017-08-27",
     "Kde": "",
-    "Co": ""
+    "Co": "Mělník"
   },
   {
     "Den": "2017-08-28",
     "Kde": "",
-    "Co": "Poděbrady"
+    "Co": "Mělník"
   },
   {
     "Den": "2017-08-29",
     "Kde": "",
-    "Co": "Nymburk"
+    "Co": "Neratovice - Kostelec"
   },
   {
     "Den": "2017-08-30",
@@ -138,20 +138,5 @@
     "Den": "2017-09-07",
     "Kde": "",
     "Co": "Praha"
-  },
-  {
-    "Den": "2017-09-08",
-    "Kde": "",
-    "Co": ""
-  },
-  {
-    "Den": "2017-09-09",
-    "Kde": "",
-    "Co": ""
-  },
-  {
-    "Den": "2017-09-10",
-    "Kde": "",
-    "Co": ""
   }
 ]
