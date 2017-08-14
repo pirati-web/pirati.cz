@@ -10,7 +10,7 @@ deputy:
 - Martin Rédr
 - Radek Simkanič, DiS
 kontaktní osoba:
-- Michal Gill
+- michal.gill
 region: Moravskoslezský kraj
 url: https://redmine.pirati.cz/projects/moravskoslezsky-kraj
 categories:

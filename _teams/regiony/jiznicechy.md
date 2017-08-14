@@ -9,7 +9,7 @@ deputy:
 - Petr Procházka
 - Antonín Schejbal
 contact:
-- Jana Rohová
+- jana.rohova
 region: Jihočeský kraj
 url: https://jihocesky.pirati.cz
 categories:

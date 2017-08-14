@@ -10,7 +10,7 @@ deputy:
 - Michaela Schwarzová
 - Vladimír Charvát
 contact:
-- Barbora Přibylová
+- barbora.pribylova
 region: Ústecký kraj
 url: https://ustecky.pirati.cz
 categories:

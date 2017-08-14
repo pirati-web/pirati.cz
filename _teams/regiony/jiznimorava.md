@@ -11,7 +11,7 @@ deputy:
 - Mária Vašíčková
 - Radek Holomčík
 contact:
-- michal.vit
+- Radek Holomčík
 region: Jihomoravský kraj
 url: https://www.pirati.cz/regiony/jiznimorava/start
 categories:

@@ -5,7 +5,7 @@ fullname: Bc. Michal Gill  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/michal-gill.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Moravskoslezdský a Olomoucký kraj# kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Moravskoslezdský a Olomoucký kraj # kratký popis, max 160 znaků
 mail:
 - michal.gill@pirati.cz
 mob: +420 770 113 644
