@@ -27,8 +27,8 @@ http://www.csvjson.com/csv2json
     <ul class="boattrip">
       {% for event in site.data.plavba %}
         <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}:
-        {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Kde}}</strong>{% if event.url%}</a>{% endif %},
-        {{event.Co}}</li>
+          {{event.Kde}}
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Co}}</strong>{% if event.url%}</a>{% endif %}</li>
       {% endfor %}
     </ul>
   </div>
@@ -36,6 +36,7 @@ http://www.csvjson.com/csv2json
     <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" style="margin-bottom: 15px;">
 
     <p>Trasu pro vás připravujeme.</p>
+    <p>Zatím si náš autobus můžete <a href="https://www.pirati.cz/tiskove-zpravy/babisi-sobotko-jedeme-pro-vas.html">prohlédnout na fotkách</a>.</p>
   </div>
 </div>
 
