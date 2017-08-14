@@ -5,7 +5,7 @@ fullname: Daniela Bílá  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/daniela-bila.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Karlovarský  kraj # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Karlovarský kraj # kratký popis, max 160 znaků
 mail:
 - daniela.bila@pirati.cz
 mob: 
