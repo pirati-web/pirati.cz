@@ -1,7 +1,7 @@
 ---
 uid: jana.rohova
 name:     Jana Rohová      		# běžně používáné jméno
-fullname: Jana Rohová  		# jméno s tituly etc.
+fullname: Bc. Jana Rohová  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/jana-rohova.jpg           # 165 x 220
