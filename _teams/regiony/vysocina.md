@@ -9,7 +9,7 @@ deputy:
 - Michaela Vodová
 - Lukáš Hejduk
 contact:
-- Michaela Vodová
+- michaela.vodova
 region: Kraj Vysočina
 url: https://www.pirati.cz/regiony/vysocina/start
 categories:
