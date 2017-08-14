@@ -9,6 +9,7 @@ deputy:
 - Zdeněk Kubala
 - Ondřej Češík
 contact:
+- daniel.lebduska
 region: Pardubický kraj
 url: https://www.pirati.cz/regiony/pardubicko/start
 categories:
