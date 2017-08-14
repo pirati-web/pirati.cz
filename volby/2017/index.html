@@ -1,0 +1,32 @@
+---
+layout: default
+img:
+description:
+---
+
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <h1>Kandidátní listiny Pirátů pro PS Parlamentu 2017</h1>
+          <div class="vspace-nb-m">
+            <ul>
+              {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+              {% for item in myteams%}
+              {% if site.data.elections.y2017[item.uid] %}
+              <li>
+                <a href="{{item.uid | prepend: 'volby/2017/' | relative_url}}">
+                  {{item.name}}
+                </a>
+              </li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
