@@ -1,142 +1,176 @@
 [
   {
-    "Den": "2017-08-10",
-    "Kde": "od 12:00",
-    "Co": "Cvičný event"
-  },
-  {
     "Den": "2017-08-17",
     "Kde": "od 12:00",
-    "Co": "Velké Žernoseky, Libochovany, Dolní Zálezly"
-  },
-  {
-    "Den": "2017-08-17",
-    "Kde": "večer",
-    "Co": "Příjezd do Církvic"
+    "Co": "Velké Žernoseky, Libochovany, Dolní Zálezly",
+    "url": ""
   },
   {
     "Den": "2017-08-18",
     "Kde": "dopoledne",
-    "Co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov"
+    "Co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov",
+    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
   },
   {
     "Den": "2017-08-18",
     "Kde": "od 12:00",
-    "Co": "Ústí - nábřeží a Zanádraží u Benešova mostu"
+    "Co": "Ústí - nábřeží a Zanádraží u Benešova mostu",
+    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
   },
   {
     "Den": "2017-08-18",
     "Kde": "od 18:00",
-    "Co": "Piráti na Královce - hospůdka s Ivanem Bartošem"
+    "Co": "Piráti na Královce - hospůdka s Ivanem Bartošem",
+    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
   },
   {
     "Den": "2017-08-19",
     "Kde": "od 12:00",
-    "Co": "Děčín - kampaň na Smetanově nábřeží pod zámkem"
+    "Co": "Děčín - kampaň na Smetanově nábřeží pod zámkem",
+    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
   },
   {
     "Den": "2017-08-19",
     "Kde": "od 18:00",
-    "Co": "Pirátská party s koncertem v clubu Klub Děčín"
+    "Co": "Pirátská party s koncertem v clubu Klub Děčín",
+    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
   },
   {
     "Den": "2017-08-20",
     "Kde": "od 10:00",
-    "Co": "Děčín - Ústí - Brná  Píšťany"
+    "Co": "Děčín - Ústí - Brná  Píšťany",
+    "url": ""
   },
   {
     "Den": "2017-08-21",
     "Kde": "od 10:00",
-    "Co": "Lovosice"
+    "Co": "Lovosice",
+    "url": ""
   },
   {
     "Den": "2017-08-22",
     "Kde": "od 10:00",
-    "Co": "Litoměřice - Střelecký ostrov a centrum"
+    "Co": "Litoměřice - Střelecký ostrov a centrum",
+    "url": ""
   },
   {
     "Den": "2017-08-22",
     "Kde": "od 17:00",
-    "Co": "Hospoda u Letního kina Litoměřice"
+    "Co": "Hospoda u Letního kina Litoměřice",
+    "url": ""
   },
   {
     "Den": "2017-08-23",
     "Kde": "od 10:00",
-    "Co": "Roudnice a večerní debata s Piráty v Marině"
+    "Co": "Roudnice a večerní debata s Piráty v Marině",
+    "url": ""
   },
   {
     "Den": "2017-08-24",
     "Kde": "od 10:00",
-    "Co": "Štětí - korzování na přístavišti"
+    "Co": "Štětí - korzování na přístavišti",
+    "url": ""
   },
   {
     "Den": "2017-08-25",
-    "Kde": "",
-    "Co": "Kralupy"
+    "Kde": "odpoledne",
+    "Co": "Kralupy",
+    "url": ""
   },
   {
     "Den": "2017-08-26",
     "Kde": "",
-    "Co": "Roztoky, Libčice"
+    "Co": "Roztoky, Libčice",
+    "url": ""
   },
   {
     "Den": "2017-08-27",
     "Kde": "",
-    "Co": "Mělník"
+    "Co": "Mělník",
+    "url": ""
   },
   {
     "Den": "2017-08-28",
     "Kde": "",
-    "Co": "Mělník"
+    "Co": "Mělník",
+    "url": ""
   },
   {
     "Den": "2017-08-29",
     "Kde": "",
-    "Co": "Neratovice - Kostelec"
+    "Co": "Neratovice - Kostelec",
+    "url": ""
   },
   {
     "Den": "2017-08-30",
     "Kde": "",
-    "Co": "Kolín"
+    "Co": "Bradnýs nad Labem",
+    "url": ""
   },
   {
     "Den": "2017-08-31",
-    "Kde": "celý den přejezd do Prahy",
-    "Co": ""
+    "Kde": "",
+    "Co": "Poděbrady",
+    "url": ""
   },
   {
     "Den": "2017-09-01",
-    "Kde": "celý den přejezd do Prahy",
-    "Co": "dojet do Prahy"
+    "Kde": "",
+    "Co": "Nymburk",
+    "url": ""
   },
   {
     "Den": "2017-09-02",
     "Kde": "",
-    "Co": "Praha"
+    "Co": "Kolín",
+    "url": ""
   },
   {
     "Den": "2017-09-03",
-    "Kde": "",
-    "Co": "Praha"
+    "Kde": "celý den přejezd do Prahy",
+    "Co": "",
+    "url": ""
   },
   {
     "Den": "2017-09-04",
-    "Kde": "",
-    "Co": "Praha"
+    "Kde": "celý den přejezd do Prahy",
+    "Co": "",
+    "url": ""
   },
   {
     "Den": "2017-09-05",
     "Kde": "",
-    "Co": "Praha"
+    "Co": "Praha",
+    "url": ""
   },
   {
     "Den": "2017-09-06",
     "Kde": "",
-    "Co": "Praha"
+    "Co": "Praha",
+    "url": ""
   },
   {
     "Den": "2017-09-07",
     "Kde": "",
-    "Co": "Praha"
+    "Co": "Praha",
+    "url": ""
+  },
+  {
+    "Den": "2017-09-08",
+    "Kde": "",
+    "Co": "Praha",
+    "url": ""
+  },
+  {
+    "Den": "2017-09-09",
+    "Kde": "",
+    "Co": "Praha",
+    "url": ""
+  },
+  {
+    "Den": "2017-09-10",
+    "Kde": "",
+    "Co": "Praha",
+    "url": ""
   }
 ]

@@ -151,7 +151,7 @@ var hideOldEvents = function() {
   var showed = 0;
   $('.boattrip').children().each(function() {
     var day = new Date(this.attributes[0].value);
-    if( day < today || showed > 12 ) {
+    if( day < today /*|| showed > 12*/ ) {
       $this = $(this);
       $this.hide();
     } else {
