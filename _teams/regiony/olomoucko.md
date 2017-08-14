@@ -9,7 +9,7 @@ deputy:
 - milos.zmeskal
 - vojtech.pikal
 contact:
-- ?.?
+- Miloš Zmeškal
 region: Olomoucký kraj
 url: https://www.pirati.cz/regiony/olomoucko/start
 categories:
