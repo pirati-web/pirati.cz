@@ -26,7 +26,9 @@ http://www.csvjson.com/csv2json
     <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" style="margin-bottom: 15px;">
     <ul class="boattrip">
       {% for event in site.data.plavba %}
-        <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}: <strong>{{event.Kde}}</strong>, {{event.Co}}</li>
+        <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}:
+        {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Kde}}</strong>{% if event.url%}</a>{% endif %},
+        {{event.Co}}</li>
       {% endfor %}
     </ul>
   </div>
