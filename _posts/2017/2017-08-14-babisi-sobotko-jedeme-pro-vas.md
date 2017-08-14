@@ -4,7 +4,7 @@ category: CLANKY
 title: "Piráti: Babiši, Sobotko, jedeme si pro vás!"
 date: 2017-08-14T10:39:00+02:00
 author: Karolína Sadílková
-image: /assets/img/articles/2017/veznobus-1.jpg
+image: /assets/img/articles/2017/veznobus-2.jpg
 tags: kamapn
 ---
 
@@ -12,7 +12,7 @@ Piráti vyráží na silnice – speciální vězeňský autobus, který mají k
 
 > „Neutrácíme za supermoderní kamion a podobné výstřelky jako Andrej Babiš. Vězeňský autobus poslouží ideálně svému účelu – po celý zbytek kampaně bude lidem v celé zemi připomínat kauzy, za které nikdo nebyl dohnán k odpovědnosti. Naopak většina těchto aktérů stále působí ve vysoké politice,“ vysvětluje předseda strany Ivan Bartoš.
 
-![Kdo doplní řadu cestujících?]({{ '/assets/img/articles/2017/veznobus-2.jpg' | relative_url }} "Kdo doplní řadu cestujících?")
+![Kdo doplní řadu cestujících?]({{ '/assets/img/articles/2017/veznobus-1.jpg' | relative_url }} "Kdo doplní řadu cestujících?")
  
 Autobus vyjede 14. srpna a doplní plavbu pirátské solární lodi po Labi a Vltavě. Kam nedopluje loď, tam jistě potkáte pirátský autobus. Prostřednictvím těchto dvou plavidel navštívíme během nadcházejících dvou měsíců celou zemi. „Náš autobus na silnici určitě nikdo nepřehlédne. Ne proto, že bychom jezdili jako piráti silnic, ale kvůli podobě, kterou žádný jiný autobus nemá,“ uzavírá předseda.
 
