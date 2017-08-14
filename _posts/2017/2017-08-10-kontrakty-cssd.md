@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/lasesmed.jpg
 tags: kauzy, cssd
 ---
 
-Piráti rozkryli síť podnikatelských vztahů Zdeňka Zadiny a Petra Ženíška, jejichž firmy mají s různými subjekty ovládanými Prahou uzavřené smlouvy za více než 1,5 miliardy korun. Zadina a Ženíšek jsou členové ČSSD na Praze 14 a jsou známi tím, že se drží v pozadí.
+Piráti rozkryli síť podnikatelských vztahů Zdeňka Zadiny a Petra Ženíška, jejichž firmy mají s různými subjekty ovládanými Prahou uzavřené smlouvy za více než 1,5 miliardy korun. Zadina a Ženíšek jsou členové ČSSD na Praze 14 a jsou známi tím, že se drží v pozadí. Vedle Pirátů kauzu rozkryly i Hospodářské noviny a Aktuálně.cz.
 
 Zadinova firma Lasesmed od svého vzniku v roce 2008 uzavřela s pražskými veřejnými subjekty smlouvy minimálně za necelých 400 milionů Kč. Nejhodnotnější zakázky má od Technické správy komunikací, Dopravního podniku a Pražských služeb.
 
@@ -17,6 +17,7 @@ Zadinova firma Lasesmed od svého vzniku v roce 2008 uzavřela s pražskými ve�
 Ženíškovy i Zadinovy firmy sídlí v areálu Na Třebešíně na Praze 10, který v roce 2010 prodal Dopravní podnik Zadinově firmě AZ Premika za 20,5 milionu Kč.
 
 > „Aktivity pana Ženíška a Zadiny jsou podle mě jasnou ukázkou klientelistické sítě pražské ČSSD. Služby dodávají převážně subjektům, ve kterých je znám silný vliv ČSSD. Jejich firmy dle mých výpočtů žijí převážně z těchto zakázek. Z účetních závěrek Lasesmedu a Premio Investu můžeme vyčíst závratný růst, kterého by bez zakázek od politicky spřízněných organizací těžko dosáhli,“ shrnuje pražský zastupitel za Piráty Adam Zábranský, který kauzu rozkryl. „Určitě se na zářijovém zasedání zastupitelstva budu ptát, jak je tohle možné,“ dodává.
+
 
 #### Aktivity pana Zadiny:
 
