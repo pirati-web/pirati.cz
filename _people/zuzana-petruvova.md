@@ -1,4 +1,4 @@
-v---
+---
 uid: zuzana.petruvova
 name:     Zuzana Petrůvová      	# běžně používáné jméno
 fullname: Zuzana Petrůvová  		# jméno s tituly etc.
