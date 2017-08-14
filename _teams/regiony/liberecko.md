@@ -9,7 +9,7 @@ deputy:
 - Petr Vyhnal
 - Martin Rejman
 contact:
-- Zuzana Jíchová
+- zuzana.jichova
 region: Liberecký kraj
 url: https://www.pirati.cz/regiony/liberecko/start
 categories:

@@ -11,7 +11,7 @@ deputy:
 - Petra Smutná
 - Jan Lukášek
 contact:
-- Zuzana Petrůvová
+- zuzana.petruvova
 region: Středočeský kraj
 url: https://strednicechy.pirati.cz
 categories:

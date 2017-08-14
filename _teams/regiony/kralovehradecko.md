@@ -9,7 +9,7 @@ deputy:
 - Martin Jiránek
 - Miroslav Čaky
 contact:
-- Pavel Bulíček
+- jakub.zitko
 region: Královéhradecký kraj
 url: https://kralovehradecky.pirati.cz
 categories:
