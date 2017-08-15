@@ -1,0 +1,19 @@
+---
+layout: team
+---
+
+{% assign i = 0 %}
+
+<table>
+  {% for person in site.data.elections.y2017[page.uid] %}
+  {% assign i = i | plus: 1 %}{% assign imgsrc = person.img | prepend: '/assets/img/people/' %}
+  <tr>
+    <td></td>
+    <td><strong>{{i}}. {{person.name}}</strong></td>
+  </tr>
+  <tr>
+    <td> <img src="{{imgsrc}}" alt="Drawing" style="height: 200px; max-width: 150px; margin-right: 10px;"/></td>
+    <td> {{person.description}} </td>
+  </tr>
+  {% endfor %}
+</table>

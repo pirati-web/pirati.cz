@@ -146,6 +146,23 @@ var show_relatives = function(data) {
 }
 
 /**
+ * Hides old event at page plavba
+ **/
+var hideOldEvents = function() {
+  var today = new Date();
+  var showed = 0;
+  $('.boattrip').children().each(function() {
+    var day = new Date(this.attributes[0].value);
+    if( day < today /*|| showed > 12*/ ) {
+      $this = $(this);
+      $this.hide();
+    } else {
+      showed += 1;
+    }
+  });
+}
+
+/**
  * Make map of czech regions for pirati.cz/regiony
  * @param {collection} data
  **/
@@ -220,6 +237,8 @@ $(function() {
 
   /* Back to top */
   back_top();
+
+  hideOldEvents();
 
   /* People and garant */
   $.get(api_people)

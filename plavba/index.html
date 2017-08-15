@@ -13,7 +13,9 @@ http://www.csvjson.com/csv2json
         <main class="o-section-block">
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <h1 itemprop="headline" class="c-BasicPage__title"> Pirátská plavba do sněmovny <img style="height: 35px;" src="https://www.joshuanava.biz/pencil/images/1849_16_47-how-draw-glass-bottle-with-ellipse.jpg"></h1>
+            <h1 itemprop="headline" class="c-BasicPage__title"> Pirátská plavba do sněmovny
+              <a href="#vzkazy"><img  src="{{'assets/img/plavba/lahev_1A.png' | relative_url}}"></a>
+            </h1>
           </article>
           <!-- /Article -->
         </main>
@@ -21,26 +23,26 @@ http://www.csvjson.com/csv2json
     </div>
   </div>
   <div class="large-6 columns">
-    <img src="http://rexik.zoznam.sk/images/sk/omalovanky/Lod.jpg">
-    <ul>
+    <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" style="margin-bottom: 15px;">
+    <ul class="boattrip">
       {% for event in site.data.plavba %}
-        <li>{{event.Den}}: <strong><a href="{{event.Url}}">{{event.Kde}}</a></strong>, {{event.Co}}</li>
+        <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}:
+          {{event.Kde}}
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Co}}</strong>{% if event.url%}</a>{% endif %}</li>
       {% endfor %}
     </ul>
   </div>
   <div class="large-6 columns">
-    <img width="298px" src="http://media.gizmodo.co.uk/wp-content/uploads/2014/01/FactsaboutLondonBusesIMG8.jpeg">
-    <ul>
-      {% for event in site.data.plavba %}
-        <li>{{event.Den}}: <strong><a href="{{event.Url}}">{{event.Kde}}</a></strong>, {{event.Co}}</li>
-      {% endfor %}
-    </ul>
+    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" style="margin-bottom: 15px;">
+
+    <p>Trasu pro vás připravujeme.</p>
+    <p>Zatím si náš autobus můžete <a href="https://www.pirati.cz/tiskove-zpravy/babisi-sobotko-jedeme-pro-vas.html">prohlédnout na fotkách</a>.</p>
   </div>
 </div>
 
 <div class="row">
   <div class="large-3 large-offset-4 colums">
-    <h1 class="text-center">Vzkazy v lahvi</h1>
+    <h1 class="text-center" id="vzkazy">Vzkazy v lahvi</h1>
   </div>
   {% for vzkaz in site.data.vzkazy %}
   <div class="row">
