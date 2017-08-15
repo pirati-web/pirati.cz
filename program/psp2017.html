@@ -9,6 +9,12 @@ rbar: ""
     width: 125px;
     height: 125px;
   }
+  .column {
+    margin-bottom: 0.9em;
+  }
+  .column a {
+    color: #000;
+  }
 </style>
 
 <div class="row">
@@ -24,11 +30,10 @@ rbar: ""
 {% assign program = site.program | where: "category","psp2017" %}
 <div class="row small-up-2 medium-up-3 large-up-4">
 {% for item in program %}
-<div class="column column-block"  tyle="margin-top: 10px">
-  <br>
-  <h2><a href="{{item.url | relative_url }}">{{item.title}}</a></h2>
+<div class="column column-block">
   <a href="{{item.url | relative_url }}">
-    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}">
+    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}" />
+    <h2>{{item.title}}</h2>
   </a>
 </div>
 {% endfor %}
