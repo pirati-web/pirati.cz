@@ -130,14 +130,16 @@ var show_relatives = function(data) {
   if(ul.length) {
     var global_tags = data[0];
 
-    if(!post_tags.length) {
+    if(!page_tags.length) {
       $('#relatives-box').hide();
     }
 
     $.each(page_tags, function(index, tag) {
       $.each(global_tags[tag], function(index, post) {
-        var li = $('<li/>').appendTo(ul);
-        var a = $('<a/>').text(post.title).attr('href',post.url).appendTo(li);
+        if(post.url != page_url) {
+          var li = $('<li/>').appendTo(ul);
+          var a = $('<a/>').text(post.title).attr('href',post.url).appendTo(li);
+        }
       });
     });
   }
