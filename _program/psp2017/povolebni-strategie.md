@@ -47,7 +47,7 @@ Tyto konkrétní priority budeme prosazovat během čtyřletého volebního obdo
 5) Aktivní účast na rozhodování v EU
 
 
-Celý program je na webu [www.pirati.cz/program].
+Celý program je na webu [www.pirati.cz/program](https://www.pirati.cz/program/).
 
 ## Během voleb
 * Výsledky voleb budeme společně sledovat na volebním štábu. 
