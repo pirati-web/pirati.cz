@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-
 {% comment %}
-http://www.csvjson.com/csv2json
+Soubory s daty o eventech jsou:
+  _data/plavba.json
+  _data/roadtrip.json
+Konvertor: http://www.csvjson.com/csv2json
 {% endcomment %}
 
 <div class="row">
@@ -23,29 +25,29 @@ http://www.csvjson.com/csv2json
     </div>
   </div>
   <div class="large-6 columns">
-    <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" style="margin-bottom: 15px;">
+    <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" style="margin-bottom: 17px;">
     <ul id="boattrip">
       {% for event in site.data.plavba %}
-        <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}:
-          {{event.Kde}}
-          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Co}}</strong>{% if event.url%}</a>{% endif %}</li>
+        <li data-day="{{event.den}}">{{event.den | date:"%d. %m."}}:
+          {{event.kdy}}
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}</li>
       {% endfor %}
     </ul>
   </div>
   <div class="large-6 columns">
-    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" style="margin-bottom: 15px;">
-    {% if site.data.roadtrip.length %}
-      <ul id="roadtrip">
-      {% for event in site.data.roadtrip %}
-        <li data-day="{{event.Den}}">{{event.Den | date:"%d. %m."}}:
-          {{event.Kde}}
-          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.Co}}</strong>{% if event.url%}</a>{% endif %}</li>
-      {% endfor %}
-      </ul>
-    {% else %}
-      <p>Trasu pro vás připravujeme.</p>
-      <p>Zatím si o nášem autobusu můžete přečíst a <a href="https://www.pirati.cz/tiskove-zpravy/babisi-sobotko-jedeme-pro-vas.html">prohlédnout si ho na fotkách</a>.</p>
-    {% endif %}
+    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" style="margin-bottom: 17px;">
+    <ul id="roadtrip">
+    {% for event in site.data.roadtrip %}
+      <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:
+        {{event.kdy}}
+        {% if event.co == "" %}
+        přesné místo plánujeme, bude doplněno v nejbližší době
+        {%else %}
+        {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
+        {%endif%}
+      </li>
+    {% endfor %}
+    </ul>
   </div>
 </div>
 
