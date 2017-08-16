@@ -1,5 +1,5 @@
 ---
-uid: vysocina
+uid: karlovarsko
 name: Kandidátka Karlovarský kraj
 fullname: Kandidátka do PS Parlamentu ČR Karlovarský kraj 2017
 img: teams/vary.jpg
