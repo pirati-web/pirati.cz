@@ -9,7 +9,7 @@ deputy:
 - Kamila Gáliková
 - Jaromír Fojtů
 contact:
-- eliska.holsanova
+- yveta.martinkova
 region: Zlínský kraj
 url: https://www.pirati.cz/regiony/zlinsko/start
 categories:
