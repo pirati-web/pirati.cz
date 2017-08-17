@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/ivan-cf.jpg
 tags: kampan
 ---
 
-Členové České pirátské strany 15. srpna v internetovém hlasování schválili svou **[povolební strategii](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/povolebni-strategie.pdf)** – dokument, který stanoví vyjednávací priority Pirátů a vymezuje, s kým budou moci pirátští poslanci vyjednávat o vládě a za jakých podmínek. Piráti si schválili dvacet konkrétních opatření, která chtějí v Poslanecké sněmovně PČR prosadit. 
+Členové České pirátské strany 15. srpna v internetovém hlasování schválili svou **[povolební strategii](/program/psp2017/povolebni-strategie/)** – dokument, který stanoví vyjednávací priority Pirátů a vymezuje, s kým budou moci pirátští poslanci vyjednávat o vládě a za jakých podmínek. Piráti si schválili dvacet konkrétních opatření, která chtějí v Poslanecké sněmovně PČR prosadit. 
  
 > „V žádném případě nepodpoříme vládu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi, tj. zejména s účastí KSČM a SPD. Nepodpoříme ani vládu s převahou ministrů ANO,“ stanoví pirátská strategie. 
  
@@ -18,4 +18,4 @@ Ivan Bartoš, předseda Pirátů, ke schválenému dokumentu říká: „Upřím
  
 ### Odkazy
 
-* [Schválená povolební strategie Pirátů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/povolebni-strategie.pdf)
+* [Schválená povolební strategie Pirátů](https://www.pirati.cz/program/psp2017/povolebni-strategie/)
