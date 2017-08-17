@@ -20,5 +20,5 @@ Lídr Bartoš poprvé na plavidlo přistoupí na konci týdne, a to pátek v Ús
 
 ### Odkazy 
 
-* [Program pirátské plavby](www.pirati.cz/plavba)
+* [Program pirátské plavby](https://www.pirati.cz/plavba/)
 * [Fundraising na pirátskou plavbu do Sněmovny](https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny)
