@@ -1,5 +1,11 @@
 [
   {
+    "den": "",
+    "kdy": "",
+    "co": "Pro aktuální polohu volejte přímo do autobusu na 770 113 644.",
+    "url": ""
+  },
+  {
     "den": "2017-08-11",
     "kdy": "",
     "co": "Prostějov",
@@ -20,25 +26,25 @@
   {
     "den": "2017-08-14",
     "kdy": "",
-    "co": "11-18 přejezd Prostějov-Mariánky",
+    "co": "přejezd Prostějov-Mariánské lázně",
     "url": ""
   },
   {
     "den": "2017-08-15",
     "kdy": "",
-    "co": "Kladno",
+    "co": "Kladno (2. Free Ride)",
     "url": ""
   },
   {
     "den": "2017-08-16",
     "kdy": "",
-    "co": "Kladno, Slaný, Kralupy nad Vltavou, Neratovice, Brandýs nad Labem, Benátky nad Jizerou, Ml. Boleslav",
+    "co": "Kladno, Slaný, Mělník, Ml. Boleslav",
     "url": ""
   },
   {
     "den": "2017-08-17",
     "kdy": "",
-    "co": "Ml. Boleslav, Bělá pod Bezdězem, Mšeno, Mělník, Mělnické Vtelno, Ml. Boleslav",
+    "co": "Ml. Boleslav: Dobrovice 8:30, dále Olympia, bývalý Dřevák, Bondy centrum kolem 14:00",
     "url": "https://www.facebook.com/events/1964743293803842/"
   },
   {
@@ -56,31 +62,31 @@
   {
     "den": "2017-08-20",
     "kdy": "",
-    "co": "Střední Čechy",
+    "co": "Příbram, Dobříš (+ případně Jílové)",
     "url": ""
   },
   {
     "den": "2017-08-21",
     "kdy": "",
-    "co": "Střední Čechy",
+    "co": "Benešov /trhy/, Sázava, Český Brod",
     "url": ""
   },
   {
     "den": "2017-08-22",
     "kdy": "",
-    "co": "Kolín",
+    "co": "Kutná Hora, Čáslav, Kolín (Free Ride 14:00)",
     "url": ""
   },
   {
     "den": "2017-08-23",
     "kdy": "",
-    "co": "Střední Čechy",
+    "co": "Lysá nad Labem, Brandýs, Benátky",
     "url": ""
   },
   {
     "den": "2017-08-24",
     "kdy": "",
-    "co": "Střední Čechy",
+    "co": "Mnichovo Hr., Dolní Bousov/Sobotka (Bakov)",
     "url": ""
   },
   {
@@ -110,7 +116,7 @@
   {
     "den": "2017-08-29",
     "kdy": "",
-    "co": "Mariánkské Lázně",
+    "co": "Mariánské Lázně",
     "url": ""
   },
   {
@@ -122,25 +128,25 @@
   {
     "den": "2017-08-31",
     "kdy": "",
-    "co": "",
+    "co": "Moravskoslezský kraj",
     "url": ""
   },
   {
     "den": "2017-09-01",
     "kdy": "",
-    "co": "",
+    "co": "Moravskoslezský kraj",
     "url": ""
   },
   {
     "den": "2017-09-02",
     "kdy": "",
-    "co": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
     "den": "2017-09-03",
     "kdy": "",
-    "co": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
