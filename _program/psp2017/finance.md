@@ -3,7 +3,18 @@ title: Finance
 category: psp2017
 img: finance.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-26-2016-program-2017-finance-r-h-3-k-t36942.html
-garant:
+garant: tibor.vansa
+relatives:
+  - name: Doplňující
+    items:
+    - title: DZjednodušíme placení daní a zavedeme skutečně rovnou daň
+      alt: Podrobné vysvětlení programu v oblasti financí
+      url: http://www.piratskelisty.cz/clanek-1720-zjednodusime-placeni-dani-a-zavedeme-skutecne-rovnou-dan
+  - name: Aktuality
+    items:
+    - title: Daně, které každý pochopí
+      alt: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
+      url: https://www.pirati.cz/kalkulacka/
 ---
 
 Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.
