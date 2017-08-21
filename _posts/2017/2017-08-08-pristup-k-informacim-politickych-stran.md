@@ -14,4 +14,4 @@ Nejvyšší správní soud rozhodl, že politické strany, které dostávají od
 
 ### Odkazy
 
-* [https://www.pirati.cz/otevrenost/](Pirátský rozcestník k problematice otevřenosti státní správy)
+* [Pirátský rozcestník k problematice otevřenosti státní správy](https://www.pirati.cz/otevrenost/)
