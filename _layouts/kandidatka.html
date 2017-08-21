@@ -6,7 +6,12 @@ layout: team
 
 <table>
   {% for person in site.data.elections.y2017[page.uid] %}
-  {% assign i = i | plus: 1 %}{% assign imgsrc = person.img | prepend: '/assets/img/people/' %}
+  {% assign i = i | plus: 1 %}
+  {% if person.img or person.img == '' %}
+    {% assign imgsrc = person.img | prepend: '/assets/img/people/' | relative_url %}
+  {% else %}
+    {% assign imgsrc = '/assets/img/placeholders/flag-object-person.png' | relative_url %}
+  {% endif %}
   <tr>
     <td></td>
     <td><strong>{{i}}. {{person.name}}</strong></td>
