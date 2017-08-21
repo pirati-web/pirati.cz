@@ -16,7 +16,7 @@ Konvertor: http://www.csvjson.com/csv2json
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
             <h1 itemprop="headline" class="c-BasicPage__title"> Pirátská plavba do sněmovny
-              <a href="#vzkazy"><img  src="{{'assets/img/plavba/lahev_1A.png' | relative_url}}"></a>
+              <a href="#vzkazy"><img  src="{{'assets/img/plavba/lahev_1A.png' | relative_url}}" alt="vzkaz v láhvi"></a>
             </h1>
           </article>
           <!-- /Article -->
@@ -25,7 +25,7 @@ Konvertor: http://www.csvjson.com/csv2json
     </div>
   </div>
   <div class="large-6 columns">
-    <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" style="margin-bottom: 17px;">
+    <img src="{{'assets/img/plavba/lod_1.png' | relative_url}}" alt="loď" style="margin-bottom: 17px;">
     <ul id="boattrip">
       {% for event in site.data.plavba %}
         <li data-day="{{event.den}}">{{event.den | date:"%d. %m."}}:
@@ -35,7 +35,7 @@ Konvertor: http://www.csvjson.com/csv2json
     </ul>
   </div>
   <div class="large-6 columns">
-    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" style="margin-bottom: 17px;">
+    <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
     <ul id="roadtrip">
     {% for event in site.data.roadtrip %}
       <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:
