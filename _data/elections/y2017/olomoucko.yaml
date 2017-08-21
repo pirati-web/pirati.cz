@@ -1,92 +1,92 @@
 -
   img: vojtech-pikal.jpg
-  name: Bc. Vojtěch Pikal (30), analytik, programátor, tester, člen kontrolního výboru a IT komise statutárního města Olomouce, Game designer, ORGanizátor akcí pro mládež
-  description:
+  name: Bc. Vojtěch Pikal (30), Olomouc, Piráti 
+  description: analytik, programátor, tester, člen kontrolního výboru a IT komise statutárního města Olomouce, Game designer, ORGanizátor akcí pro mládež
 -
   img: martin-smida.jpg
-  name: Ing. et Ing. Martin Šmída (32), odborník v oblasti kompostování bio-odpadu a recyklace stavebního odpadu, zastupitel obce Majetín, muzikant a ochotník
-  description: 
+  name: Ing. et Ing. Martin Šmída (32), Majetín, Piráti 
+  description: odborník v oblasti kompostování bio-odpadu a recyklace stavebního odpadu, zastupitel obce Majetín, muzikant a ochotník
 -
   img: petr-kapounek.jpg
-  name: Petr Kapounek (30), manažer v telekomunikacích, projektant, programátor, zastupitel statutárního města Prostějova, člen komise informatiky Olomouckého kraje
-  description: 
+  name: Petr Kapounek (30), Prostějov, Piráti
+  description: manažer v telekomunikacích, projektant, programátor, zastupitel statutárního města Prostějova, člen komise informatiky Olomouckého kraje
 -
   img: zdenka-wagnerova.jpg
-  name: Zdenka Wagnerová (65), analytička, administrátorka Klubu přátel demokracie, aktivní důchodkyně
-  description: 
+  name: Zdenka Wagnerová (65), Olomouc, bezpp 
+  description:  analytička, administrátorka Klubu přátel demokracie, aktivní důchodkyně
 -
   img: petr-lysek.jpg
-  name: Ing. Petr Lysek (51), projektant, zastupitel statutárního města Prostějova
-  description: 
+  name: Ing. Petr Lysek (51), Prostějov, Piráti
+  description: projektant, zastupitel statutárního města Prostějova
 - 
   img: tomas-karlik.jpg
-  name: Bc. Tomáš Karlík (25), student logistiky, muzikant, likvidátor černých skládek, cetovatel
-  description: 
+  name: Bc. Tomáš Karlík (25), Přerov, Piráti
+  description: student logistiky, muzikant, likvidátor černých skládek, cetovatel
 -
   img: martin-svadlenka.jpg
-  name: Martin Švadlenka (42), předseda komise pro otevřenou radnici města Přerova, propagátor svobodné hudby, aktivista za pravdu o 11. září, elektromechanik
-  description: 
+  name: Martin Švadlenka (42), Přerov, Piráti
+  description: předseda komise pro otevřenou radnici města Přerova, propagátor svobodné hudby, aktivista za pravdu o 11. září, elektromechanik
 -
   img: jakub-nepejchal.jpg
-  name: Bc. Jakub Nepejchal (29), vedoucí sociální služby, člen představenstva DPMO a. s., člen komise městské části Olomouc-střed
-  description: 
+  name: Bc. Jakub Nepejchal (29), Olomouc, Piráti
+  description: vedoucí sociální služby, člen představenstva DPMO a. s., člen komise městské části Olomouc-střed
 -
-  img: zdenka-kocourkova.jpg
-  name: Bc. Zdeňka Dvořáková Kocourková (34), OSVČ, zastupitelka města Šumperka, malířka dětských pokojů, ambasadorka Rekontrukce státu, členka Pro-Region
-  description: 
+    img: petra-minarova.jpg
+  name: Petra Minářová Ošťádalová (41), Bílovice-Lutotín, Piráti
+  description: administrativní pracovnice, biofarmářka a chovatelka koz, ekologická propagátorka a nezdolná optimistka
 -
   img: milos-zmeskal.jpg
-  name: Miloš Zmeškal (30), aktivista za práva řidičů, garážmistr
-  description: 
+  name: Miloš Zmeškal (30), Olomouc, Piráti
+  description: aktivista za práva řidičů, garážmistr
 -
   img: martin-foltyn.jpg
-  name: Martin Foltýn (30), programátor, pomoc handikepovaným
-  description: 
+  name: Martin Foltýn (30), Jeseník, Piráti
+  description: programátor, pomoc handikepovaným
 -
   img: miroslav-hasa.jpg
-  name: Miroslav Hasa (42), provozovatel hudebního klubu
-  description: 
+  name: Miroslav Hasa (42), Prostějov, Piráti
+  description: provozovatel hudebního klubu
 -
-  img: petra-minarova.jpg
-  name: Petra Minářová Ošťádalová (41), administrativní pracovnice, biofarmářka a chovatelka koz, ekologická propagátorka a nezdolná optimistka
-  description: 
+  img: zdenka-kocourkova.jpg
+  name: Bc. Zdeňka Dvořáková Kocourková (34), Šumperk, bezpp
+  description: OSVČ, zastupitelka města Šumperka, malířka dětských pokojů, ambasadorka Rekontrukce státu, členka Pro-Region
 -
   img: radek-sis.jpg
-  name: Radek Sís (30), zmrzlinář
-  description: 
+  name: Radek Sís (30), Olomouc, Piráti
+  description: zmrzlinář
 -
   img: alena-dvorakova.jpg
-  name: Alena Dvořáková (28), asistentka prodeje chovatelských potřeb na mateřské dovolené
-  description: 
+  name: Alena Dvořáková (28), Lipník nad Bečvou, Piráti
+  description: asistentka prodeje chovatelských potřeb na mateřské dovolené
 -
   img: jakub-burget.jpg  
-  name: Mgr. Jakub Burget (28), právník, advokátní koncipient
-  description: 
+  name: Mgr. Jakub Burget (28), Konice, Piráti
+  description:  právník, advokátní koncipient
 -
   img: radek-vojtek.jpg
-  name: Radek Vojtek (28), manažer obchodu, kapitán klubu malé kopané, hudební redaktor, pořadatel koncertů a dalších kulturních akcí
-  description: 
+  name: Radek Vojtek (28), Brodek u Přerova, Piráti
+  description: manažer obchodu, kapitán klubu malé kopané, hudební redaktor, pořadatel koncertů a dalších kulturních akcí
 -
   img: zdenek-schenk.jpg
-  name: Mgr. Zdeněk Schenk (36), archeolog, zastupitel statutárního města Přerova, vysokoškolský učitel, popularizátor dějin přerovska
-  description: 
+  name: Mgr. Zdeněk Schenk (36), Přerov, bezpp
+  description: archeolog, zastupitel statutárního města Přerova, vysokoškolský učitel, popularizátor dějin přerovska
 -
   img: marek-blaha.jpg
-  name: Marek Blaha (34), koordinátor distribuční sitě tiskovin, muzikant, produkční hudebního klubu
-  description: 
+  name: Marek Blaha (34), Zábřeh, Piráti
+  description: koordinátor distribuční sitě tiskovin, muzikant, produkční hudebního klubu
 -
   img: radim-studeny.jpg
-  name: Ing. et Ing. Radim Studený (27), IT specialista, software tester, rizikový inženýr, muzikant
-  description: 
+  name: Ing. et Ing. Radim Studený (27), Majetín, Piráti
+  description:  IT specialista, software tester, rizikový inženýr, muzikant
 -
   img: vlastimil-efraim.jpg
-  name: Vlastimil Efraim (33), freelancer, rentiér, designer ftipných triček
-  description: 
+  name: Vlastimil Efraim (33), Olomouc, Piráti
+  description: freelancer, rentiér, designer ftipných triček
 -
   img: lukas-kresta.jpg
-  name: Lukáš Kresta (27), OSVČ, zámečník
-  description: 
+  name: Lukáš Kresta (27), Lipník nad Bečvou, Piráti
+  description:  OSVČ, zámečník
 -
   img: michal-blaho.jpg
-  name: Michal Blaho (42), pingl v Ponorce
-  description: 
+  name: Michal Blaho (42), Hlušovice, bezpp
+  description: pingl v Ponorce
