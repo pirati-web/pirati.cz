@@ -4,6 +4,12 @@ category: psp2017
 img: vzdelani.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-35-2017-program-2017-vzdelavani-a-veda-r-h-1-k-t37117.html
 garant: daniel.mazur
+relatives:
+  - name: Doplňující
+    items:
+    - title: Víc peněz do vzdělání a méně papíru
+      alt: Podrobné vysvětlení programu v oblasti školství
+      url: http://www.piratskelisty.cz/clanek-1709-vic-penez-do-vzdelani-a-mene-papiru
 ---
 
 Vzdělání je hodnota sama o sobě, jeho cíl nelze zužovat jen na uplatnění na trhu

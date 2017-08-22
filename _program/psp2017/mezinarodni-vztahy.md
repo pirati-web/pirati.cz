@@ -4,6 +4,12 @@ category: psp2017
 img: mezinarodni-vztahy.png
 approved: https://forum.pirati.cz/post512857.html
 garant: mikulas.peksa
+relatives:
+  - name: Doplňující
+    items:
+    - title: Chceme EU blíž občanům a férovější přístup k rozvojovým zemím
+      alt: Podrobné vysvětlení programu v oblasti mezinárodních vztahů
+      url: http://www.piratskelisty.cz/clanek-1710-chceme-eu-bliz-obcanum-a-ferovejsi-pristup-k-rozvojovym-zemim
 ---
 
 Naše základní zahraniční politika je orientována směrem na vyspělé evropské

@@ -10,6 +10,10 @@ relatives:
     - title: Programoví garanti vysvětlují vnitro a digitální stát
       alt: Programoví garanti vysvětlují vnitro a digitální stát
       url: http://www.piratskelisty.cz/clanek-1703-programovi-garanti-vysvetluji-vnitro-a-otevreny-stat
+    items:
+    - title: Piráti odpolitizují státní správu a rozvážou ruce policii
+      alt: Podrobné vysvětlení programu v oblasti fungování resortu vnitra
+      url: http://www.piratskelisty.cz/clanek-1703-pirati-odpolitizuji-statni-spravu-a-rozvazou-ruce-policii
 ---
 
 Naší vizí je důvěryhodný stát, který se občanům zodpovídá za kvalitu veřejných

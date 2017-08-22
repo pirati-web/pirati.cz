@@ -4,6 +4,12 @@ category: psp2017
 img: zivotni-prostredi.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-34-2017-program-2017-zivotni-prostredi-r-h-1-k-t37128-10.html
 garant: dana.balcarova
+relatives:
+  - name: Doplňující
+    items:
+    - title: Šetrně k lidem, šetrně k přírodě
+      alt: Podrobné vysvětlení programu v oblasti životního prostředí
+      url: http://www.piratskelisty.cz/clanek-1719-setrne-k-lidem-setrne-k-prirode
 ---
 
 Šetrně k lidem – šetrně k přírodě. Politiku životního prostředí stavíme na přirozené

@@ -4,6 +4,16 @@ category: psp2017
 img: zemedelstvi.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-33-2017-program-2017-zemedelstvi-r-h-1-k-t37116.html
 garant: ales.jakl
+relatives:
+  - name: Doplňující
+    - title: Nenechme si ničit krajinu a podporujme vlastní produkci
+      alt: Jak bychom měli hospodařit s krajinou a půdou? 
+      url: http://www.piratskelisty.cz/clanek-1713-nenechme-si-nicit-krajinu-a-podporujme-vlastni-produkci
+  - name: Videa
+    items:
+    - title: Pirátská představa digitalizace České republiky
+      alt: Video Pirátů k problematice informatiky
+      url: https://www.youtube.com/watch?v=KW0Pe_ei1x8
 ---
 
 Změníme strukturu zemědělských dotací, aby z nich méně těžily gigantické agrární

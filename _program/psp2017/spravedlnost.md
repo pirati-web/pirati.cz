@@ -4,6 +4,17 @@ category: psp2017
 img: spravedlnost.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-23-2017-program-2017-ministerstvo-spravedlnosti-rh1k-t36876.html
 garant:
+relatives:
+  - name: Doplňující
+    - title: Chceme spravedlnost pro všechny ještě v tomto století.
+      alt: Jak by měla fungovat justice?
+      url: http://www.piratskelisty.cz/clanek-1716-chceme-spravedlnost-pro-vsechny-jeste-v-tomto-stoleti
+  - name: Videa
+    items:
+    - title: Piráti zavedou veřejnou kontrolu soudců
+      alt: Video Pirátů k problematice justice
+      url: https://www.youtube.com/watch?v=Sic3fX8elIU&t=4s
+
 ---
 
 Chceme efektivní justici, která slouží spravedlnosti, nikoliv formalitám, nebo dokonce ochraně zločinců pomocí právních kliček.
