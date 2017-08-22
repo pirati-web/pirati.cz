@@ -1,53 +1,5 @@
 [
   {
-    "den": "2017-08-17",
-    "kdy": "od 12:00",
-    "co": "Velké Žernoseky, Libochovany, Dolní Zálezly",
-    "url": ""
-  },
-  {
-    "den": "2017-08-18",
-    "kdy": "dopoledne",
-    "co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-18",
-    "kdy": "od 12:00",
-    "co": "Ústí - nábřeží a Zanádraží u Benešova mostu",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-18",
-    "kdy": "od 18:00",
-    "co": "Piráti na Královce - hospůdka s Ivanem Bartošem",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-19",
-    "kdy": "od 12:00",
-    "co": "Děčín - kampaň na Smetanově nábřeží pod zámkem",
-    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-19",
-    "kdy": "od 18:00",
-    "co": "Pirátská party s koncertem v clubu Klub Děčín",
-    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-20",
-    "kdy": "od 10:00",
-    "co": "Děčín - Ústí - Brná  Píšťany",
-    "url": ""
-  },
-  {
-    "den": "2017-08-21",
-    "kdy": "od 10:00",
-    "co": "Lovosice",
-    "url": "https://www.facebook.com/events/1910059472579330"
-  },
-  {
     "den": "2017-08-22",
     "kdy": "od 10:00",
     "co": "Litoměřice - Střelecký ostrov a centrum",
@@ -87,13 +39,13 @@
     "den": "2017-08-27",
     "kdy": "",
     "co": "Mělník",
-    "url": ""
+    "url": "https://www.facebook.com/events/297660904036287/"
   },
   {
     "den": "2017-08-28",
     "kdy": "",
     "co": "Mělník",
-    "url": ""
+    "url": "https://www.facebook.com/events/297660904036287/"
   },
   {
     "den": "2017-08-29",
@@ -111,13 +63,13 @@
     "den": "2017-08-31",
     "kdy": "",
     "co": "Poděbrady",
-    "url": ""
+    "url": "https://www.facebook.com/events/111553989535373/"
   },
   {
     "den": "2017-09-01",
     "kdy": "",
     "co": "Nymburk",
-    "url": ""
+    "url": "https://www.facebook.com/events/351653545263410/"
   },
   {
     "den": "2017-09-02",
