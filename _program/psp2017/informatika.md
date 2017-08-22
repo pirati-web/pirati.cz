@@ -21,6 +21,11 @@ relatives:
     - title: Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.
       alt: Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.
       url: https://www.pirati.cz/tiskove-zpravy/vladam-unika-malware-ktery-samy-financuji.html
+  - name: Videa
+    items:
+    - title: Piráti neschvalují dotace korporacím
+      alt: Video Pirátů k problematice zemědělství
+      url: https://www.youtube.com/watch?v=xkjgLVr4QAs
 ---
 
 Digitalizace je služba pro občany, k nimž budeme přistupovat jako k váženým

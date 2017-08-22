@@ -15,10 +15,17 @@
   name: Zdenka Wagnerová (65), Olomouc, bezpp 
   description:  analytička, administrátorka Klubu přátel demokracie, aktivní důchodkyně
 -
+<<<<<<< HEAD
   img: petr-lysek.jpg
   name: Ing. Petr Lysek (51), Prostějov, Piráti
   description: projektant, zastupitel statutárního města Prostějova
 -
+=======
+  img: 
+  name: Ing. Petr Lysek (51), projektant, zastupitel statutárního města Prostějova
+  description: 
+- 
+>>>>>>> dec0a3cc045df8357ec9c12a0fc608df0bbe6b8e
   img: tomas-karlik.jpg
   name: Bc. Tomáš Karlík (25), Přerov, Piráti
   description: student logistiky, muzikant, likvidátor černých skládek, cetovatel
@@ -31,14 +38,21 @@
   name: Bc. Jakub Nepejchal (29), Olomouc, Piráti
   description: vedoucí sociální služby, člen představenstva DPMO a. s., člen komise městské části Olomouc-střed
 -
+<<<<<<< HEAD
   img: petra-minarova.jpg
   name: Petra Minářová Ošťádalová (41), Bílovice-Lutotín, Piráti
   description: administrativní pracovnice, biofarmářka a chovatelka koz, ekologická propagátorka a nezdolná optimistka
+=======
+  img: 
+  name: Bc. Zdeňka Dvořáková Kocourková (34), OSVČ, zastupitelka města Šumperka, malířka dětských pokojů, ambasadorka Rekontrukce státu, členka Pro-Region
+  description: 
+>>>>>>> dec0a3cc045df8357ec9c12a0fc608df0bbe6b8e
 -
   img: milos-zmeskal.jpg
   name: Miloš Zmeškal (30), Olomouc, Piráti
   description: aktivista za práva řidičů, garážmistr
 -
+<<<<<<< HEAD
   img: martin-foltyn.jpg
   name: Martin Foltýn (30), Jeseník, Piráti
   description: programátor, pomoc handikepovaným
@@ -58,19 +72,47 @@
   img: alena-dvorakova.jpg
   name: Alena Dvořáková (28), Lipník nad Bečvou, Piráti
   description: asistentka prodeje chovatelských potřeb na mateřské dovolené
+=======
+  img: 
+  name: Martin Foltýn (30), programátor, pomoc handikepovaným
+  description: 
+-
+  img: 
+  name: Miroslav Hasa (42), provozovatel hudebního klubu
+  description: 
+-
+  img: 
+  name: Petra Minářová Ošťádalová (41), administrativní pracovnice, biofarmářka a chovatelka koz, ekologická propagátorka a nezdolná optimistka
+  description: 
+-
+  img: 
+  name: Radek Sís (30), zmrzlinář
+  description: 
+-
+  img: 
+  name: Alena Dvořáková (28), asistentka prodeje chovatelských potřeb na mateřské dovolené
+  description: 
+>>>>>>> dec0a3cc045df8357ec9c12a0fc608df0bbe6b8e
 -
   img: jakub-burget.jpg  
   name: Mgr. Jakub Burget (28), Konice, Piráti
   description:  právník, advokátní koncipient
 -
+<<<<<<< HEAD
   img: radek-vojtek.jpg
   name: Radek Vojtek (28), Brodek u Přerova, Piráti
   description: manažer obchodu, kapitán klubu malé kopané, hudební redaktor, pořadatel koncertů a dalších kulturních akcí
+=======
+  img: 
+  name: Radek Vojtek (28), manažer obchodu, kapitán klubu malé kopané, hudební redaktor, pořadatel koncertů a dalších kulturních akcí
+  description: 
+>>>>>>> dec0a3cc045df8357ec9c12a0fc608df0bbe6b8e
 -
   img: zdenek-schenk.jpg
   name: Mgr. Zdeněk Schenk (36), Přerov, bezpp
   description: archeolog, zastupitel statutárního města Přerova, vysokoškolský učitel, popularizátor dějin přerovska
 -
+<<<<<<< HEAD
   img: marek-blaha.jpg
   name: Marek Blaha (34), Zábřeh, Piráti
   description: koordinátor distribuční sitě tiskovin, muzikant, produkční hudebního klubu
@@ -90,3 +132,24 @@
   img: michal-blaho.jpg
   name: Michal Blaho (42), Hlušovice, bezpp
   description: pingl v Ponorce
+=======
+  img: 
+  name: Marek Blaha (34), koordinátor distribuční sitě tiskovin, muzikant, produkční hudebního klubu
+  description: 
+-
+  img: 
+  name: Ing. et Ing. Radim Studený (27), IT specialista, software tester, rizikový inženýr, muzikant
+  description: 
+-
+  img: 
+  name: Vlastimil Efraim (33), freelancer, rentiér, designer ftipných triček
+  description: 
+-
+  img: 
+  name: Lukáš Kresta (27), OSVČ, zámečník
+  description: 
+-
+  img: 
+  name: Michal Blaho (42), pingl v Ponorce
+  description: 
+>>>>>>> dec0a3cc045df8357ec9c12a0fc608df0bbe6b8e
