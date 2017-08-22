@@ -6,6 +6,7 @@ approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-33-2017
 garant: ales.jakl
 relatives:
   - name: Doplňující
+    items:
     - title: Nenechme si ničit krajinu a podporujme vlastní produkci
       alt: Jak bychom měli hospodařit s krajinou a půdou? 
       url: http://www.piratskelisty.cz/clanek-1713-nenechme-si-nicit-krajinu-a-podporujme-vlastni-produkci

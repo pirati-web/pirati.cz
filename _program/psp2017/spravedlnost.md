@@ -6,6 +6,7 @@ approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-23-2017
 garant:
 relatives:
   - name: Doplňující
+    items:
     - title: Chceme spravedlnost pro všechny ještě v tomto století.
       alt: Jak by měla fungovat justice?
       url: http://www.piratskelisty.cz/clanek-1716-chceme-spravedlnost-pro-vsechny-jeste-v-tomto-stoleti
