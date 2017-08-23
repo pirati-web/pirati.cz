@@ -26,7 +26,7 @@
   {
     "den": "2017-08-14",
     "kdy": "",
-    "co": "přejezd Prostějov-Mariánské lázně",
+    "co": "přejezd Prostějov-Karlovy Vary (služební den)",
     "url": ""
   },
   {
@@ -74,14 +74,14 @@
   {
     "den": "2017-08-22",
     "kdy": "",
-    "co": "Kutná Hora, Čáslav, Kolín (Free Ride 14:00)",
-    "url": ""
+    "co": "Kutná Hora (10:00), Čáslav (12:00), Kolín (Free Ride od 14:00)",
+    "url": "https://www.facebook.com/events/763456627159602/"
   },
   {
     "den": "2017-08-23",
     "kdy": "",
-    "co": "Lysá nad Labem, Brandýs, Benátky",
-    "url": ""
+    "co": "Lysá nad Labem (Husovo nám., 10:00), Brandýs n. L. (Masarykovo nám., 12:00), Benátky n. J. (5. května, 15:00)",
+    "url": "https://www.facebook.com/events/111307699589091/"
   },
   {
     "den": "2017-08-24",
@@ -99,18 +99,18 @@
     "den": "2017-08-26",
     "kdy": "přes den",
     "co": "Cheb",
-    "url": ""
+    "url": "https://www.facebook.com/events/166875493881877/"
   },
   {
     "den": "2017-08-27",
     "kdy": "přes den, do 18:00 potřeba odjet zpět do Ústí",
-    "co": "",
+    "co": "Severočeský kraj",
     "url": ""
   },
   {
     "den": "2017-08-28",
     "kdy": "",
-    "co": "",
+    "co": "Severočeský kraj",
     "url": ""
   },
   {
@@ -122,7 +122,7 @@
   {
     "den": "2017-08-30",
     "kdy": "",
-    "co": "přesun na Moravu",
+    "co": "přesun na Moravu - služební jízda",
     "url": ""
   },
   {
@@ -152,277 +152,271 @@
   {
     "den": "2017-09-04",
     "kdy": "",
-    "co": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-05",
     "kdy": "",
-    "co": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-06",
     "kdy": "",
-    "co": "",
+    "co": "Havlíčků Brod",
     "url": ""
   },
   {
     "den": "2017-09-07",
     "kdy": "",
-    "co": "",
+    "co": "Žďár nad Sázavou",
     "url": ""
   },
   {
     "den": "2017-09-08",
     "kdy": "",
-    "co": "",
+    "co": "Královéhradecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-09",
     "kdy": "",
-    "co": "",
+    "co": "Královéhradecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-10",
     "kdy": "",
-    "co": "",
+    "co": "Královéhradecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-11",
     "kdy": "",
-    "co": "",
+    "co": "Liberecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-12",
     "kdy": "",
-    "co": "",
+    "co": "Liberecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-13",
     "kdy": "",
-    "co": "",
+    "co": "Freeride Rakovník",
     "url": ""
   },
   {
     "den": "2017-09-14",
     "kdy": "",
-    "co": "",
+    "co": "Středočeský kraj",
     "url": ""
   },
   {
     "den": "2017-09-15",
     "kdy": "",
-    "co": "",
+    "co": "Strakonice",
     "url": ""
   },
   {
     "den": "2017-09-16",
     "kdy": "",
-    "co": "",
+    "co": "Tábor, Soběslav",
     "url": ""
   },
   {
     "den": "2017-09-17",
     "kdy": "",
-    "co": "",
+    "co": "Jindřichův Hradec",
     "url": ""
   },
   {
     "den": "2017-09-18",
     "kdy": "",
-    "co": "",
+    "co": "Praha",
     "url": ""
   },
   {
     "den": "2017-09-19",
     "kdy": "",
-    "co": "",
+    "co": "Praha",
     "url": ""
   },
   {
     "den": "2017-09-20",
     "kdy": "",
-    "co": "",
+    "co": "Praha",
     "url": ""
   },
   {
     "den": "2017-09-21",
     "kdy": "",
-    "co": "",
+    "co": "Kutná Hora - free ride",
     "url": ""
   },
   {
     "den": "2017-09-22",
     "kdy": "",
-    "co": "",
+    "co": "Středočeský kraj",
     "url": ""
   },
   {
     "den": "2017-09-23",
     "kdy": "",
-    "co": "",
+    "co": "České Budějovice",
     "url": ""
   },
   {
     "den": "2017-09-24",
     "kdy": "",
-    "co": "",
+    "co": "Týn nad Vltavou",
     "url": ""
   },
   {
     "den": "2017-09-25",
     "kdy": "",
-    "co": "",
+    "co": "Vsetín",
     "url": ""
   },
   {
     "den": "2017-09-26",
     "kdy": "",
-    "co": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-27",
     "kdy": "",
-    "co": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-28",
     "kdy": "",
-    "co": "",
+    "co": "Zlínský kraj",
     "url": ""
   },
   {
     "den": "2017-09-29",
     "kdy": "",
-    "co": "",
+    "co": "Zlínský kraj",
     "url": ""
   },
   {
     "den": "2017-09-30",
     "kdy": "",
-    "co": "",
+    "co": "Moravskoslezský kraj + Ostrava: Ivan Bartoš ve Fabriku",
     "url": ""
   },
   {
     "den": "2017-10-01",
     "kdy": "",
-    "co": "",
-    "url": ""
-  },
-  {
-    "den": "2017-10-01",
-    "kdy": "",
-    "co": "",
+    "co": "Moravskoslezský kraj",
     "url": ""
   },
   {
     "den": "2017-10-02",
     "kdy": "",
-    "co": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
     "den": "2017-10-03",
     "kdy": "",
-    "co": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
     "den": "2017-10-04",
     "kdy": "",
-    "co": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
     "den": "2017-10-05",
     "kdy": "",
-    "co": "",
+    "co": "Zlínský kraj",
     "url": ""
   },
   {
     "den": "2017-10-06",
     "kdy": "",
-    "co": "",
+    "co": "Zlínský kraj",
     "url": ""
   },
   {
     "den": "2017-10-07",
     "kdy": "",
-    "co": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-10-08",
     "kdy": "",
-    "co": "",
+    "co": "Přesun na západ - služební den",
     "url": ""
   },
   {
     "den": "2017-10-09",
     "kdy": "",
-    "co": "",
+    "co": "Loket - vinobraní",
     "url": ""
   },
   {
     "den": "2017-10-10",
     "kdy": "",
-    "co": "",
+    "co": "Západočeský kraj",
     "url": ""
   },
   {
     "den": "2017-10-11",
     "kdy": "",
-    "co": "",
+    "co": "Západočeský kraj",
     "url": ""
   },
   {
     "den": "2017-10-12",
     "kdy": "",
-    "co": "",
+    "co": "Západočeský kraj",
     "url": ""
   },
   {
     "den": "2017-10-13",
     "kdy": "",
-    "co": "",
+    "co": "Pardubický kraj",
     "url": ""
   },
   {
     "den": "2017-10-14",
     "kdy": "",
-    "co": "",
+    "co": "Pardubický kraj",
     "url": ""
   },
   {
     "den": "2017-10-15",
     "kdy": "",
-    "co": "",
+    "co": "Pardubický kraj",
     "url": ""
   },
   {
     "den": "2017-10-16",
     "kdy": "",
-    "co": "",
+    "co": "Liberecký kraj",
     "url": ""
   },
   {
     "den": "2017-10-17",
     "kdy": "",
-    "co": "",
+    "co": "Liberecký kraj",
     "url": ""
   },
   {
     "den": "2017-10-18",
     "kdy": "",
-    "co": "",
+    "co": "Liberecký kraj",
     "url": ""
   },
   {
