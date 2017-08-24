@@ -102,6 +102,10 @@ Nyní vidíme souhrn změn:
 Vytvoříme nový pull request:
 ![](/assets/img/navod/u9.png)
 
+## Sociální sítě
+
+Stránku je dobré otestovat ve [FB debbuger](https://developers.facebook.com/tools/debug/), aby se správně zobrazovala při sdílení. [Správné rozměry obrázku](https://developers.facebook.com/docs/sharing/best-practices#images) (1200 x 630)
+
 ## Složitější změny
 
 Zatím jsme prošli základy. Ale většinou není více potřeba. Pro opravdové změny je třeba ještě znát:
