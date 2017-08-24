@@ -10,16 +10,11 @@ relatives:
     - title: Zjednodušíme placení daní a zavedeme skutečně rovnou daň
       alt: Podrobné vysvětlení programu v oblasti financí
       url: http://www.piratskelisty.cz/clanek-1720-zjednodusime-placeni-dani-a-zavedeme-skutecne-rovnou-dan
-  - name: Aktuality
-    items:
     - title: Daně, které každý pochopí
       alt: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
       url: https://www.pirati.cz/kalkulacka/
-  - name: Videa
-    items:
-    - title: Piráti jsou pro rovnou a spravedlivou daň
-      alt: Video Pirátů k daňové problematice
-      url: https://www.youtube.com/watch?v=haVUq0Fx2NY
+videa:
+  - haVUq0Fx2NY
 ---
 
 Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.

@@ -17,6 +17,8 @@ profiles:
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
 ordpraha: 2
 ordga: 4
+videa:
+  - JRdjRJjWEx0
 ---
 
 Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
@@ -43,8 +45,8 @@ Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rá
 
 [sdružení v Praze]: https://praha.pirati.cz
 [Otevřená města]: http://otevrenamesta.cz
-[Supervizor]: http://data.mfcr.cz/supervizor/ 
-[otevřených dat]: http://opendata.praha.eu 
-[šifrovačky]: http://sifrovacky.cz 
-[oceněné]: http://www.otevrenadata.cz/soutez/rocnik-2015/ 
-[pražské radiové sítě]: https://youtu.be/JRdjRJjWEx0 
+[Supervizor]: http://data.mfcr.cz/supervizor/
+[otevřených dat]: http://opendata.praha.eu
+[šifrovačky]: http://sifrovacky.cz
+[oceněné]: http://www.otevrenadata.cz/soutez/rocnik-2015/
+[pražské radiové sítě]: https://youtu.be/JRdjRJjWEx0

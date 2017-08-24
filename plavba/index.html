@@ -35,9 +35,11 @@ Konvertor: http://www.csvjson.com/csv2json
           {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}</li>
       {% endfor %}
     </ul>
+    <p><a href="https://www.facebook.com/groups/PiratskaPlavba/">Sledujte Pirátskou plavbu na Facebooku!</a></p>
   </div>
   <div class="large-6 columns">
     <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
+    <p>Pro aktuální polohu volejte přímo do autobusu na 770 113 644.</p>
     <ul id="roadtrip">
     {% for event in site.data.roadtrip %}
       <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:

@@ -8,13 +8,10 @@ relatives:
   - name: Doplňující
     items:
     - title: Nenechme si ničit krajinu a podporujme vlastní produkci
-      alt: Jak bychom měli hospodařit s krajinou a půdou? 
+      alt: Jak bychom měli hospodařit s krajinou a půdou?
       url: http://www.piratskelisty.cz/clanek-1713-nenechme-si-nicit-krajinu-a-podporujme-vlastni-produkci
-  - name: Videa
-    items:
-    - title: Pirátská představa digitalizace České republiky
-      alt: Video Pirátů k problematice informatiky
-      url: https://www.youtube.com/watch?v=KW0Pe_ei1x8
+videa:
+  - xkjgLVr4QAs
 ---
 
 Změníme strukturu zemědělských dotací, aby z nich méně těžily gigantické agrární

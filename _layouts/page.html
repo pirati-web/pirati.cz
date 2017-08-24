@@ -19,6 +19,17 @@ layout: default
             </h1>
             <div itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
+
+              {% if page.videa %}
+              <h2>Doprovodná videa</h2>
+              {% for video in page.videa %}
+              <div class="responsive-embed">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
+              </div>
+              {% endfor %}
+              {% endif %}
+
+
             </div>
           </article>
           <!-- /Article -->
