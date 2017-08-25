@@ -15,6 +15,8 @@ relatives:
     - title: Piráti zavedou veřejnou kontrolu soudců
       alt: Video Pirátů k problematice justice
       url: https://www.youtube.com/watch?v=Sic3fX8elIU&t=4s
+videa:
+  - Sic3fX8elIU
 
 ---
 
