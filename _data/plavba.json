@@ -1,182 +1,434 @@
 [
   {
-    "den": "2017-08-17",
-    "kdy": "od 12:00",
-    "co": "Velké Žernoseky, Libochovany, Dolní Zálezly",
+    "den": "",
+    "kdy": "",
+    "co": "Pro aktuální polohu volejte přímo do autobusu na 770 113 644.",
+    "url": ""
+  },
+  {
+    "den": "2017-08-11",
+    "kdy": "",
+    "co": "Prostějov",
+    "url": ""
+  },
+  {
+    "den": "2017-08-12",
+    "kdy": "",
+    "co": "Prostějov",
+    "url": ""
+  },
+  {
+    "den": "2017-08-13",
+    "kdy": "",
+    "co": "Prostějov",
+    "url": ""
+  },
+  {
+    "den": "2017-08-14",
+    "kdy": "",
+    "co": "přejezd Prostějov-Karlovy Vary (služební den)",
+    "url": ""
+  },
+  {
+    "den": "2017-08-15",
+    "kdy": "",
+    "co": "Kladno (2. Free Ride)",
+    "url": ""
+  },
+  {
+    "den": "2017-08-16",
+    "kdy": "",
+    "co": "Kladno, Slaný, Mělník, Ml. Boleslav",
     "url": ""
   },
   {
     "den": "2017-08-17",
-    "kdy": "večer",
-    "co": "Velké Žernoseky, Libochovany, Dolní Zálezly",
-    "url": ""
+    "kdy": "",
+    "co": "Ml. Boleslav: Dobrovice 8:30, dále Olympia, bývalý Dřevák, Bondy centrum kolem 14:00",
+    "url": "https://www.facebook.com/events/1964743293803842/"
   },
   {
     "den": "2017-08-18",
-    "kdy": "dopoledne",
-    "co": "Ústí - cyklokemp Brná, Vanovské přístaviště, hrad Střekov",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-18",
-    "kdy": "od 12:00",
-    "co": "Ústí - nábřeží a Zanádraží u Benešova mostu",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-18",
-    "kdy": "od 18:00",
-    "co": "Piráti na Královce - hospůdka s Ivanem Bartošem",
-    "url": "https://www.facebook.com/events/1953200241590119/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Setkání lodě a autobusu v Ústí",
+    "url": "https://www.facebook.com/events/1953200241590119/"
   },
   {
     "den": "2017-08-19",
-    "kdy": "od 12:00",
-    "co": "Děčín - kampaň na Smetanově nábřeží pod zámkem",
-    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
-  },
-  {
-    "den": "2017-08-19",
-    "kdy": "od 18:00",
-    "co": "Pirátská party s koncertem v clubu Klub Děčín",
-    "url": "https://www.facebook.com/events/125393238088565/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Setkání lodě a autobusu v Děčíně",
+    "url": "https://www.facebook.com/events/125393238088565/"
   },
   {
     "den": "2017-08-20",
-    "kdy": "od 10:00",
-    "co": "Děčín - Ústí - Brná  Píšťany",
-    "url": ""
+    "kdy": "",
+    "co": "Příbram, Beroun",
+    "url": "https://www.facebook.com/events/125524944751667/"
   },
   {
     "den": "2017-08-21",
-    "kdy": "od 10:00",
-    "co": "Lovosice",
-    "url": "https://www.facebook.com/events/1910059472579330/?acontext=%7B%22action_history%22%3A[%7B%22surface%22%3A%22dashboard%22%2C%22mechanism%22%3A%22calendar_tab_event%22%2C%22extra_data%22%3A%22%7B%5C%22dashboard_filter%5C%22%3A%5C%22upcoming%5C%22%7D%22%7D]%2C%22ref%22%3A2%2C%22source%22%3A2%7D"
+    "kdy": "",
+    "co": "Benešov /trhy/, Sázava, Český Brod",
+    "url": ""
   },
   {
     "den": "2017-08-22",
-    "kdy": "od 10:00",
-    "co": "Litoměřice - Střelecký ostrov a centrum",
-    "url": "https://www.facebook.com/events/162957890932196/?acontext=%7B\"action_history\"%3A[%7B\"surface\"%3A\"dashboard\"%2C\"mechanism\"%3A\"calendar_tab_event\"%2C\"extra_data\"%3A\"%7B%5C\"dashboard_filter%5C\"%3A%5C\"upcoming%5C\"%7D\"%7D]%2C\"ref\"%3A2%2C\"source\"%3A2%7D"
-  },
-  {
-    "den": "2017-08-22",
-    "kdy": "od 17:00",
-    "co": "Hospoda u Letního kina Litoměřice",
-    "url": "https://www.facebook.com/events/162957890932196/?acontext=%7B\"action_history\"%3A[%7B\"surface\"%3A\"dashboard\"%2C\"mechanism\"%3A\"calendar_tab_event\"%2C\"extra_data\"%3A\"%7B%5C\"dashboard_filter%5C\"%3A%5C\"upcoming%5C\"%7D\"%7D]%2C\"ref\"%3A2%2C\"source\"%3A2%7D"
+    "kdy": "",
+    "co": "Kutná Hora (10:00), Čáslav (12:00), Kolín (Free Ride od 14:00)",
+    "url": "https://www.facebook.com/events/763456627159602/"
   },
   {
     "den": "2017-08-23",
-    "kdy": "od 10:00",
-    "co": "Roudnice a večerní debata s Piráty v Marině",
-    "url": "https://www.facebook.com/events/1322171657900568/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Lysá nad Labem (Husovo nám., 10:00), Brandýs n. L. (Masarykovo nám., 12:00), Benátky n. J. (5. května, 15:00)",
+    "url": "https://www.facebook.com/events/111307699589091/"
   },
   {
     "den": "2017-08-24",
-    "kdy": "od 10:00",
-    "co": "Štětí - korzování na přístavišti",
-    "url": "https://www.facebook.com/events/787620961409095/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Bakov nad Jizerou (10:00), Mnichovo Hradiště (12:00)",
+    "url": "https://www.facebook.com/events/122179161763942/"
   },
   {
     "den": "2017-08-25",
-    "kdy": "od 15:00",
-    "co": "Kralupy",
-    "url": "https://www.facebook.com/events/1356025384514240/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "12:00 Ostrov, Mírové náměstí/Lidická; 14.00 Chodov; 14.45 Sokolov, Nádraží; 16.00 Loket, předmostí (vstup do amfíku); 16.45 K.Vary, Moskevská; 17.15 K.Vary, areál Rolava",
+    "url": "https://www.facebook.com/events/465490540480133/"
   },
   {
     "den": "2017-08-26",
-    "kdy": "od 12:00",
-    "co": "Roztoky",
-    "url": "https://www.facebook.com/events/850333645134631/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "12:00 Cheb, místo bude upřesněno",
+    "url": "https://www.facebook.com/events/166875493881877/"
   },
   {
     "den": "2017-08-27",
-    "kdy": "od 12:00",
-    "co": "Mělník",
-    "url": "https://www.facebook.com/events/297660904036287/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "12:00 Chomutov, OC Chomutovka (celé odpoledne)",
+    "url": "https://www.facebook.com/events/122786318368153/"
   },
   {
     "den": "2017-08-28",
-    "kdy": "od rána",
-    "co": "Mělník",
-    "url": "https://www.facebook.com/events/297660904036287/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "14:00 Most, místo bude upřesněno (celé odpoledne)",
+    "url": ""
   },
   {
     "den": "2017-08-29",
-    "kdy": "od 12:00",
-    "co": "Neratovice - Kostelec",
-    "url": "https://www.facebook.com/events/1512989938766754/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Mariánské Lázně - 14:00 Kaufland, 17:00 Penny Market",
+    "url": "https://www.facebook.com/events/1975830942651241/"
   },
   {
     "den": "2017-08-30",
-    "kdy": "od 12:00",
-    "co": "Brandýs nad Labem - kotviště vpravo u zdymadel",
-    "url": "https://www.facebook.com/events/112596849428162/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "přesun na Moravu - služební jízda",
+    "url": "---"
   },
   {
     "den": "2017-08-31",
-    "kdy": "od 12:00",
-    "co": "Poděbrady - Restaurace Marína",
-    "url": "https://www.facebook.com/events/111553989535373/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Bruntál, Krnov, Opava",
+    "url": "https://www.facebook.com/events/1489802047767552/"
   },
   {
     "den": "2017-09-01",
-    "kdy": "od 12:00",
-    "co": "Nymburk - volná plavba",
-    "url": "https://www.facebook.com/events/351653545263410/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Frýdecko, Karvinsko",
+    "url": ""
   },
   {
     "den": "2017-09-02",
-    "kdy": "od 12:00",
-    "co": "Kolín - Klub vodních sportů",
-    "url": "https://www.facebook.com/events/142664989660398/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A109323929038%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A109323929038%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
+    "kdy": "",
+    "co": "Olomoucký kraj",
+    "url": ""
   },
   {
     "den": "2017-09-03",
-    "kdy": "celý den přejezd do Prahy",
-    "co": "",
+    "kdy": "",
+    "co": "Olomoucký kraj",
     "url": ""
   },
   {
     "den": "2017-09-04",
-    "kdy": "celý den přejezd do Prahy",
-    "co": "",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-05",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-09-06",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Havlíčků Brod",
     "url": ""
   },
   {
     "den": "2017-09-07",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Žďár nad Sázavou",
     "url": ""
   },
   {
     "den": "2017-09-08",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Královéhradecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-09",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Královéhradecký kraj",
     "url": ""
   },
   {
     "den": "2017-09-10",
     "kdy": "",
-    "co": "Praha - předběžně / bude potvrzeno",
+    "co": "Královéhradecký kraj",
     "url": ""
+  },
+  {
+    "den": "2017-09-11",
+    "kdy": "",
+    "co": "Liberecký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-12",
+    "kdy": "",
+    "co": "Liberecký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-13",
+    "kdy": "",
+    "co": "Freeride Rakovník",
+    "url": ""
+  },
+  {
+    "den": "2017-09-14",
+    "kdy": "",
+    "co": "Středočeský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-15",
+    "kdy": "",
+    "co": "Strakonice",
+    "url": ""
+  },
+  {
+    "den": "2017-09-16",
+    "kdy": "",
+    "co": "Tábor, Soběslav",
+    "url": ""
+  },
+  {
+    "den": "2017-09-17",
+    "kdy": "",
+    "co": "Jindřichův Hradec",
+    "url": ""
+  },
+  {
+    "den": "2017-09-18",
+    "kdy": "",
+    "co": "Praha",
+    "url": ""
+  },
+  {
+    "den": "2017-09-19",
+    "kdy": "",
+    "co": "Praha",
+    "url": ""
+  },
+  {
+    "den": "2017-09-20",
+    "kdy": "",
+    "co": "Praha",
+    "url": ""
+  },
+  {
+    "den": "2017-09-21",
+    "kdy": "",
+    "co": "Kutná Hora - free ride",
+    "url": ""
+  },
+  {
+    "den": "2017-09-22",
+    "kdy": "",
+    "co": "Středočeský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-23",
+    "kdy": "",
+    "co": "České Budějovice",
+    "url": ""
+  },
+  {
+    "den": "2017-09-24",
+    "kdy": "",
+    "co": "Týn nad Vltavou",
+    "url": ""
+  },
+  {
+    "den": "2017-09-25",
+    "kdy": "",
+    "co": "Vsetín",
+    "url": ""
+  },
+  {
+    "den": "2017-09-26",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-27",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-28",
+    "kdy": "",
+    "co": "Zlínský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-29",
+    "kdy": "",
+    "co": "Zlínský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-09-30",
+    "kdy": "",
+    "co": "Moravskoslezský kraj + Ostrava: Ivan Bartoš ve Fabriku",
+    "url": ""
+  },
+  {
+    "den": "2017-10-01",
+    "kdy": "",
+    "co": "Moravskoslezský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-02",
+    "kdy": "",
+    "co": "Olomoucký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-03",
+    "kdy": "",
+    "co": "Olomoucký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-04",
+    "kdy": "",
+    "co": "Olomoucký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-05",
+    "kdy": "",
+    "co": "Zlínský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-06",
+    "kdy": "",
+    "co": "Zlínský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-07",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-08",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-09",
+    "kdy": "",
+    "co": "Jihomoravský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-10",
+    "kdy": "",
+    "co": "Karlovarský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-11",
+    "kdy": "",
+    "co": "Karlovarský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-12",
+    "kdy": "",
+    "co": "Karlovarský kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-13",
+    "kdy": "",
+    "co": "Pardubický kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-14",
+    "kdy": "",
+    "co": "Pardubický kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-15",
+    "kdy": "",
+    "co": "Pardubický kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-16",
+    "kdy": "",
+    "co": "Liberecký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-17",
+    "kdy": "",
+    "co": "Liberecký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-18",
+    "kdy": "",
+    "co": "Liberecký kraj",
+    "url": ""
+  },
+  {
+    "den": "2017-10-19",
+    "kdy": "",
+    "co": "",
+    "url": ""
+  },
+  {
+    "den": "",
+    "kdy": "",
+    "co": "Pirátská plavba na Facebooku!",
+    "url": "https://www.facebook.com/groups/PiratskaPlavba/"
   }
 ]
