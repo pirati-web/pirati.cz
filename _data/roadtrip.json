@@ -1,5 +1,11 @@
 [
   {
+    "den": "",
+    "kdy": "",
+    "co": "Pro aktuální polohu volejte přímo do autobusu na 770 113 644.",
+    "url": ""
+  },
+  {
     "den": "2017-08-11",
     "kdy": "",
     "co": "Prostějov",
@@ -38,7 +44,7 @@
   {
     "den": "2017-08-17",
     "kdy": "",
-    "co": "Ml. Boleslav: Dobrovice 8:30, dále Olympia, bývalý Dřevák",
+    "co": "Ml. Boleslav: Dobrovice 8:30, dále Olympia, bývalý Dřevák, Bondy centrum kolem 14:00",
     "url": "https://www.facebook.com/events/1964743293803842/"
   },
   {
@@ -49,7 +55,7 @@
   },
   {
     "den": "2017-08-19",
-    "kdy": "14,00",
+    "kdy": "",
     "co": "Setkání lodě a autobusu v Děčíně",
     "url": "https://www.facebook.com/events/125393238088565/"
   },
@@ -57,7 +63,7 @@
     "den": "2017-08-20",
     "kdy": "",
     "co": "Příbram, Beroun",
-    "url": "https://www.facebook.com/events/125524944751667/?ti=cl"
+    "url": "https://www.facebook.com/events/125524944751667/"
   },
   {
     "den": "2017-08-21",
@@ -74,61 +80,61 @@
   {
     "den": "2017-08-23",
     "kdy": "",
-    "co": "Lysá nad Labem (10:00), Brandýs n. L. (12:00), Benátky n. J. (15:00)",
+    "co": "Lysá nad Labem (Husovo nám., 10:00), Brandýs n. L. (Masarykovo nám., 12:00), Benátky n. J. (5. května, 15:00)",
     "url": "https://www.facebook.com/events/111307699589091/"
   },
   {
     "den": "2017-08-24",
     "kdy": "",
-    "co": "Mnichovo Hr., Dolní Bousov/Sobotka (Bakov)",
-    "url": ""
+    "co": "Bakov nad Jizerou (10:00), Mnichovo Hradiště (12:00)",
+    "url": "https://www.facebook.com/events/122179161763942/"
   },
   {
     "den": "2017-08-25",
-    "kdy": "celý den",
-    "co": "Karlovarsko",
-    "url": ""
+    "kdy": "",
+    "co": "12:00 Ostrov, Mírové náměstí/Lidická; 14.00 Chodov; 14.45 Sokolov, Nádraží; 16.00 Loket, předmostí (vstup do amfíku); 16.45 K.Vary, Moskevská; 17.15 K.Vary, areál Rolava",
+    "url": "https://www.facebook.com/events/465490540480133/"
   },
   {
     "den": "2017-08-26",
-    "kdy": "přes den",
-    "co": "Cheb",
+    "kdy": "",
+    "co": "12:00 Cheb, místo bude upřesněno",
     "url": "https://www.facebook.com/events/166875493881877/"
   },
   {
     "den": "2017-08-27",
-    "kdy": "přes den, do 18:00 potřeba odjet zpět do Ústí",
-    "co": "Severočeský kraj",
-    "url": ""
+    "kdy": "",
+    "co": "12:00 Chomutov, OC Chomutovka (celé odpoledne)",
+    "url": "https://www.facebook.com/events/122786318368153/"
   },
   {
     "den": "2017-08-28",
     "kdy": "",
-    "co": "Severočeský kraj",
+    "co": "14:00 Most, místo bude upřesněno (celé odpoledne)",
     "url": ""
   },
   {
     "den": "2017-08-29",
     "kdy": "",
-    "co": "Mariánské Lázně",
-    "url": ""
+    "co": "Mariánské Lázně - 14:00 Kaufland, 17:00 Penny Market",
+    "url": "https://www.facebook.com/events/1975830942651241/"
   },
   {
     "den": "2017-08-30",
     "kdy": "",
     "co": "přesun na Moravu - služební jízda",
-    "url": ""
+    "url": "---"
   },
   {
     "den": "2017-08-31",
     "kdy": "",
-    "co": "Moravskoslezský kraj",
-    "url": ""
+    "co": "Bruntál, Krnov, Opava",
+    "url": "https://www.facebook.com/events/1489802047767552/"
   },
   {
     "den": "2017-09-01",
     "kdy": "",
-    "co": "Moravskoslezský kraj",
+    "co": "Frýdecko, Karvinsko",
     "url": ""
   },
   {
@@ -350,31 +356,31 @@
   {
     "den": "2017-10-08",
     "kdy": "",
-    "co": "Přesun na západ - služební den",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-10-09",
     "kdy": "",
-    "co": "Loket - vinobraní",
+    "co": "Jihomoravský kraj",
     "url": ""
   },
   {
     "den": "2017-10-10",
     "kdy": "",
-    "co": "Západočeský kraj",
+    "co": "Karlovarský kraj",
     "url": ""
   },
   {
     "den": "2017-10-11",
     "kdy": "",
-    "co": "Západočeský kraj",
+    "co": "Karlovarský kraj",
     "url": ""
   },
   {
     "den": "2017-10-12",
     "kdy": "",
-    "co": "Západočeský kraj",
+    "co": "Karlovarský kraj",
     "url": ""
   },
   {
@@ -418,5 +424,11 @@
     "kdy": "",
     "co": "",
     "url": ""
+  },
+  {
+    "den": "",
+    "kdy": "",
+    "co": "Pirátská plavba na Facebooku!",
+    "url": "https://www.facebook.com/groups/PiratskaPlavba/"
   }
 ]
