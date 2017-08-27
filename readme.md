@@ -28,7 +28,20 @@ Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www
 
 `bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
+V případě puštění v kontejneru při selhání konverze scss zkontrolujte nastavení `locale`. Mělo by být nastaveno `utf-8`.
+Je-li `POSIX`, doinstalujte např. balíček:
+`sudo apt-get install locales`
+
+A potom `dpkg-reconfigure locales` - zde vyberte třeba `92. cs_CZ.UTF-8 UTF-8`  
+A vložte do ~/.bashrc
+```
+export LC_ALL=cs_CZ.UTF-8
+export LANG=cs_CZ.UTF-8
+export LANGUAGE=cs_CZ.UTF-8
+```
+
 Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
+
 
 ## Struktura
 
