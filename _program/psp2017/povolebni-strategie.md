@@ -20,30 +20,47 @@ Tyto konkrétní priority budeme prosazovat během čtyřletého volebního obdo
 
 ### Kontrola moci a mocných
 1) Vymáhání hmotné osobní odpovědnosti politiků a úředníků
+
 2) Konec praxe politických trafik - důsledně otevřená výběrová řízení na všechny pozice
+
 3) Zabráníme únikům zisků z ČR do daňových rájů
+
 4) Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací
+
 5) Donutíme ČEZ a státní firmy zveřejňovat smlouvy
 
 ### Ochrana občanů před šikanou
 1) Zrušení EET pro e-shopy, platby kartou, řemeslníky a drobné podnikatele
+
 2) Umožnit pojištěncům volit si své zástupce do správní a dozorčí rady zdravotní pojišťovny, aby mohli spolurozhodovat o úhradách
+
 3) Skutečná dostupnost konopí pro léčbu vážně nemocných a regulovaná legalizace  léčebného i rekreačního pěstování pro osobní potřebu 
+
 4) Stop hromadění exekucí - zásada 1 dlužník = 1 exekutor v místě bydliště
+
 5) Konec šikany ze strany OSA, zrušení poplatků za prázdná média a celková aktualizace autorského práva
 
 ### Zjednodušení státu
 1) Daně, které každý pochopí - místo 6 různých daní z práce jen jedna a nižší
+
 2) Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů
+
 3) Podpora malých podnikatelů - založení firmy za 1 den
+
 4) Zrychlení soudů - zavedení elektronického spisu a standardů rozhodování
+
 5) Možnost vyřídit si běžné věci na Czech Pointu a jednotné inkasní místo pro podnikatele
 
 ### Obrana svobody
+
 1) Nekompromisní rozkrývání korupčních vazeb a odvaha nazývat věci pravými jmény
+
 2) Zrušení plošného sledování telefonů, stejně jako šmírování a cenzury Internetu
+
 3) Svobodný výběr školy a okamžité zvýšení platů učitelů o 20 %, protože vzdělanou společnost považujeme za nejlepší záruku svobody 
+
 4) Možnost darovat ze svých daní až 2000 Kč nezávislým médiím a projektům
+
 5) Aktivní účast na rozhodování v EU
 
 
