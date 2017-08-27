@@ -27,12 +27,6 @@ forum: https://forum.pirati.cz/stredocesky-kraj-f276/
 
 Využíváme Pirátské centrum v Praze.
 
-Možnosti zapojení:
+Možnosti zapojení: naleznete v kalendáři níže. 
 
-* Přijďte na pravidelnou **krajskou schůzi**, která se koná v Pirátském centru v nepravidelných časech. Kontaktujte koordinátorku Středočeského kraje Zuzanu Petrůvovou (zuzana.petruvova(аt)pirati.cz) pro informace o nadcházejícím termínu schůze.
-* Přijďte se podívat na **Pirátská úterý**, což jsou pravidelné
-  přednášky pro veřejnost, v Pirátském centru v Praze od 18:00 hodin.
-
-Podívejte se na konkrétní termíny akcí v kalendáři:
-
-<iframe src="https://calendar.google.com/calendar/embed?src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
