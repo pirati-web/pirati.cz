@@ -26,6 +26,6 @@ garant: david.witosz
 - **Prosadíme výstavbu vysokorychlostních tratí v co nejkratších termínech a s účastí českých vysokých škol.** Vysokorychlostní železnice znamená provozní rychlost minimálně 250 km/h.
 - **Zastavíme politické trafiky v Českých drahách** a prosadíme, aby zveřejňovaly smlouvy v registru smluv. 
 
-##A něco navíc
+## A něco navíc
 
 - Cyklisté jsou náš respektovaný partner při plánování a výstavbě cest.
