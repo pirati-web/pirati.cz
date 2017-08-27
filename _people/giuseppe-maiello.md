@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/giuseppe-maiello.jpg    # 165 x 220
 description: garant programového bodu obrana             	# kratký popis, max 160 znaků
 mail:
-- vojtech.pikal@pirati.cz
+- guiseppe.maiello@pirati.cz
 mob:			  
 profiles:
   github:     
