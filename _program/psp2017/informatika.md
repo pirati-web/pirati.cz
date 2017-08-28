@@ -12,7 +12,7 @@ relatives:
       url: http://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame
     - title: Digitální česko
       alt: Vize digitaizace českého státu
-      url: http://www.pirati.cz/program/psp2017/digitalni-cesko/
+      url: http://www.pirati.cz/program/temata/digitalni-cesko/
   - name: Aktuality
     items:
     - title: Díky Pirátům teď může každý založit firmu online
