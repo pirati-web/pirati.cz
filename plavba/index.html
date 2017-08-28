@@ -37,6 +37,13 @@ Konvertor: http://www.csvjson.com/csv2json
       {% endfor %}
     </ul>
     <p><a href="https://www.facebook.com/groups/PiratskaPlavba/">Sledujte Pirátskou plavbu na Facebooku!</a></p>
+
+    <h2>Freeride <small>koncerty s Ivanem Bartošem</small></h2>
+    <ul>
+      {% for event in site.data.freeride %}
+      <li>{{event.datum}}: <strong>{{event.mesto}}</strong>, {{event.misto}}</li>
+      {% endfor %}
+    </ul>
   </div>
   <div class="large-6 columns">
     <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
