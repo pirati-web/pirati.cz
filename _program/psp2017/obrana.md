@@ -4,7 +4,6 @@ category: psp2017
 img: obrana2.svg
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-46-2017-program-2017-obrana-r-h-1-k-t37508.html
 garant: giuseppe.maiello
-relatives: []
 ---
 
 Moderní, akceschopná a přísně kontrolovaná armáda je základním pilířem české a evropské bezpečnosti. Ochráníme náš stát před kybernetickými útoky. Armáda bude efektivně financována.
