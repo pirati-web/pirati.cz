@@ -24,7 +24,7 @@ garant: david.witosz
 
 - **Zajistíme dlouhodobé zdroje a stabilní plánování.** Ze SFDI vyčleníme fond pro investice do výstavby železnic a stanovíme limity pro její dlouhodobé úvěrové financování.
 - **Prosadíme výstavbu vysokorychlostních tratí v co nejkratších termínech a s účastí českých vysokých škol.** Vysokorychlostní železnice znamená provozní rychlost minimálně 250 km/h.
-- **Zastavíme politické trafiky v Českých drahách** a prosadíme, aby zveřejňovaly smlouvy v registru smluv. 
+- **Zastavíme politické trafiky v Českých drahách** a prosadíme, aby zveřejňovaly smlouvy v registru smluv.
 
 ## A něco navíc
 
