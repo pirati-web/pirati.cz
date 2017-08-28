@@ -1,7 +1,7 @@
 ---
 title: Informatika
 category: psp2017
-img: digital.png
+img: informatika.svg
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-21-2017-program-2017-informatika-r-h-1-k-t36873.html
 garant: ondrej.profant
 relatives:

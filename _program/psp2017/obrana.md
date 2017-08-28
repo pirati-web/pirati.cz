@@ -1,7 +1,7 @@
 ---
 title: Obrana
 category: psp2017
-img: obrana.png
+img: obrana2.svg
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-46-2017-program-2017-obrana-r-h-1-k-t37508.html
 garant: giuseppe.maiello
 relatives: []

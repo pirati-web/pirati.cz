@@ -1,0 +1,24 @@
+<svg id="zdravotnictvi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #000119;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="27.66" y="27.91" width="86.23" height="86.24"/>
+    </clipPath>
+  </defs>
+  <title>zdravotnictvi</title>
+  <g class="cls-2">
+    <path class="cls-3" d="M97.63,81.16V60.91H80.91V44.19H60.66V60.91H43.94V81.16H60.66V97.88H80.91V81.16ZM105.84,71A35.06,35.06,0,1,1,70.78,36,35.09,35.09,0,0,1,105.84,71m8.06,0a43.12,43.12,0,1,0-43.11,43.12A43.16,43.16,0,0,0,113.89,71"/>
+  </g>
+</svg>

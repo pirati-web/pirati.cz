@@ -1,0 +1,24 @@
+<svg id="vnitro_a_otevreny_stat" data-name="vnitro a otevreny stat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #000119;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="17.74" y="34.73" width="106.08" height="72.61"/>
+    </clipPath>
+  </defs>
+  <title>vnitro a otevreny stat</title>
+  <g class="cls-2">
+    <path class="cls-3" d="M78.26,96.2H17.74v7.23H78.26Zm-22-15.26H17.74v7.23h49.7c-4.87-1.26-7.69-3.8-11.16-7.23M48.53,57.64A27.87,27.87,0,0,1,50.4,50.4H17.74v7.23ZM17.74,72.9H51a27.85,27.85,0,0,1-2.26-7.23h-31Zm62.56-9.26H63.81c.51,4.6,4,9.07,7.81,11.29h8.67Zm-16.64-3.9H80.37V48.3H70.06a17,17,0,0,0-6.41,11.44M97,61A18.85,18.85,0,1,1,78.16,42.13,18.87,18.87,0,0,1,97,61m25.36,37.93-22.8-22.8A26.24,26.24,0,1,0,92.48,83l22.91,22.93a4.94,4.94,0,1,0,7-7"/>
+  </g>
+</svg>
