@@ -1,11 +1,5 @@
 [
   {
-    "den": "",
-    "kdy": "",
-    "co": "Pro aktuální polohu volejte přímo do autobusu na 770 113 644.",
-    "url": ""
-  },
-  {
     "den": "2017-08-11",
     "kdy": "",
     "co": "Prostějov",
@@ -104,14 +98,14 @@
   {
     "den": "2017-08-27",
     "kdy": "",
-    "co": "12:00 Chomutov, OC Chomutovka (celé odpoledne)",
+    "co": "11:00 Kláštěrec nad Ohří, nám. E. Beneše; 13:00 Chomutov, OC Chomutovka (celé odpoledne)",
     "url": "https://www.facebook.com/events/122786318368153/"
   },
   {
     "den": "2017-08-28",
     "kdy": "",
-    "co": "14:00 Most, místo bude upřesněno (celé odpoledne)",
-    "url": ""
+    "co": "14:00 Chomutov (OC Chomutovka)",
+    "url": "https://www.facebook.com/events/122786318368153/"
   },
   {
     "den": "2017-08-29",
@@ -128,14 +122,14 @@
   {
     "den": "2017-08-31",
     "kdy": "",
-    "co": "Bruntál, Krnov, Opava",
+    "co": "10:00 Krnov, Hlavní náměstí; 12:30 Bruntál, zámek; 15:00 Hradec nad Moravicí, zámek; 16:00 Opava, Horní náměstí",
     "url": "https://www.facebook.com/events/1489802047767552/"
   },
   {
     "den": "2017-09-01",
     "kdy": "",
-    "co": "Frýdecko, Karvinsko",
-    "url": ""
+    "co": "10:00 Karviná (centrum), 13:00 Ostrava (u Magistrátu), 15:00 Frýdek-Místek (náměstí v Místku), 18:00 Český Těšín (optional)",
+    "url": "https://www.facebook.com/events/1878129012505747/"
   },
   {
     "den": "2017-09-02",
@@ -429,6 +423,6 @@
     "den": "",
     "kdy": "",
     "co": "Pirátská plavba na Facebooku!",
-    "url": "https://www.facebook.com/groups/PiratskaPlavba/"
+    "url": "https://www.facebook.com/groups/PiratskyBus/"
   }
 ]
