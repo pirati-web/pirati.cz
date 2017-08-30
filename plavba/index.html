@@ -33,7 +33,8 @@ Konvertor: http://www.csvjson.com/csv2json
       {% for event in site.data.plavba %}
         <li data-day="{{event.den}}">{{event.den | date:"%d. %m."}}:
           {{event.kdy}}
-          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}</li>
+          {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.co}}</strong>{% if event.url%}</a>{% endif %}
+        </li>
       {% endfor %}
     </ul>
     <p><a href="https://www.facebook.com/groups/PiratskaPlavba/">Sledujte Pirátskou plavbu na Facebooku!</a></p>
@@ -41,7 +42,10 @@ Konvertor: http://www.csvjson.com/csv2json
     <h2>Freeride <small>koncerty s Ivanem Bartošem</small></h2>
     <ul>
       {% for event in site.data.freeride %}
-      <li>{{event.datum}}: <strong>{{event.mesto}}</strong>, {{event.misto}}</li>
+      <li data-day="{{event.den}}">{{event.datum | date:"%d. %m."}}:
+        {{event.kdy}}
+        {% if event.url != ""%}<a href="{{event.url}}">{% endif %}<strong>{{event.mesto}}</strong>: {{event.misto}}{% if event.url%}</a>{% endif %}
+      </li>
       {% endfor %}
     </ul>
   </div>
