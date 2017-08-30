@@ -1,5 +1,5 @@
 ---
-uid: zlin
+uid: zlinsko
 name: Kandidátka zlínský kraj
 fullname: Kandidátka do PS Parlamentu ČR zlínský kraj 2017
 img: teams/zlin.jpg
