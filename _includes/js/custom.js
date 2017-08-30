@@ -169,8 +169,9 @@ var hideOldEvents = function() {
 /**
  * Make map of czech regions for pirati.cz/regiony
  * @param {collection} data
+ * @param {string} url attribute to use as url
  **/
-var makemap = function(data) {
+var makemap = function(data, url) {
   var settings = data[0].settings;
 
   $(settings.id).width(settings.size.width);
@@ -188,10 +189,10 @@ var makemap = function(data) {
   $.each(regions, function(index, region) {
     if(i < 7 ) {
       var li = $('<li/>').appendTo(reg_list);
-      var span = $('<a/>').text(region.name).attr('href',region.url).appendTo(li);
+      var span = $('<a/>').text(region.name).attr('href', region[url]).appendTo(li);
     } else {
       var li2 = $('<li/>').appendTo(reg_list2);
-      var span2 = $('<a/>').text(region.name).attr('href',region.url).appendTo(li2);
+      var span2 = $('<a/>').text(region.name).attr('href', region[url]).appendTo(li2);
     }
     i++;
 
@@ -213,10 +214,10 @@ var makemap = function(data) {
         0,0).attr(attrs);
 
         var click = function() {
-          window.open(region.url);
+          $(location).attr('href',region[url]);
         };
         var dblclick = function() {
-          window.open(region.url);
+          window.open(region[url]);
         };
         var over = function() {
           path.animate({fill: region.color}, 500).attr({'cursor': "pointer"});
@@ -265,8 +266,12 @@ $(function() {
 
   /* Regions */
   if($('#regions-map').length) {
+    var use = 'url';  /* Default link in map */
+    if(page_url == '/volby/2017/') {
+      use = 'kandidatka';
+    }
     $.get(api_regions)
-      .done(function(data) { makemap(data); })
+      .done(function(data) { makemap(data, use); })
       .fail(function(data) { console.log("Error: map"); });
   }
 });

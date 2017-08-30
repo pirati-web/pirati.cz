@@ -1,5 +1,9 @@
 ---
 ---
+{% comment %}
+Praha musí být první, kvůli vykreslování
+{% endcomment %}
+
 {% assign praha = site.teams | where: "uid","praha" %}
 {% assign id = praha[0].uid %}
 {% assign regions = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
@@ -16,6 +20,7 @@
         "img"      : "{{ praha[0].img | prepend: 'assets/img/' | relative_url }}",
         "content"	 : "{{ praha[0].content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
         "url"      : "{{ praha[0].url | relative_url}}",
+        "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
         "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
       },
       {% for region in regions %}
@@ -29,6 +34,7 @@
         "img"      : "{{ region.img | prepend: 'assets/img/' | relative_url }}",
         "content"	 : "{{ region.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
         "url"      : "{{ region.url | relative_url}}",
+        "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
         "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}

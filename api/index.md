@@ -14,6 +14,9 @@ Přístupné je:
   - regiony: [api/regions.json]({{'/api/regions.json' | relative_url}})
 - tags [api/tags.json]({{'/api/tags.json' | relative_url}})
 - stručný obsah [ api/search.json]({{'/api/search.json' | relative_url}})
+- další služby
+  - graph api [graph.pirati.cz](https://graph.pirati.cz)
+  - data z účetnictví [pirati.alvarium.cz](http://pirati.alvarium.cz)
 
 ## Přístup
 
