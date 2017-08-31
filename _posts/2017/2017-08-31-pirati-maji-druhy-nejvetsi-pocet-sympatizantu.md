@@ -12,7 +12,7 @@ tags: kampan
 
 Ukázalo se, že veřejnost má k Pirátům daleko větší sympatie, než co běžně měří jiné agentury. U 14 % oprávněných voličů se Piráti dostávají do užšího výběru stran, mezi kterými se lidé rozhodují a 2 % oprávněných voličů jsou napevno odhodlaná Piráty volit. Tato 2 % podpory rozhodnutých v praxi znamenají spíše 3 % u voleb (volební účast bývá okolo 60 %). Pirátům tedy ke vstupu do Sněmovny stačí získat každého desátého podporovatele z širšího jádra sympatizujících (opět vzhledem k očekávané volební účasti 60 %) a přesvědčit je, aby skutečně dorazili k volbám, a vstoupí do Sněmovny. 
 
-Ivan Bartoš, předseda Pirátů, k výsledkům průzkumu říká: „Mám velkou radost, když vidím, kolik lidí o nás uvažuje. Výzkum potvrdil, že zacílení naší kampaně je správné a že volební ambice 10 % hlasů je reálná. O tom, kolik lidí nás nakonec skutečně bude volit, rozhodne především volební účast našich podporovatelů. Proto se je snažíme zvednout ze židlí rozsáhlou kontaktní kampaní po celé republice.“
+„Mám velkou radost, když vidím, kolik lidí o nás uvažuje. Výzkum potvrdil, že zacílení naší kampaně je správné a že volební ambice 10 % hlasů je reálná. O tom, kolik lidí nás nakonec skutečně bude volit, rozhodne především volební účast našich podporovatelů. Proto se je snažíme zvednout ze židlí rozsáhlou kontaktní kampaní po celé republice,“ říká k výsledkům průzkum Ivan Bartoš, předseda Pirátů.
 
 Čtyřicet procent volebního potenciálu Pirátů jsou dosavadní nevoliči. To mohou být jak prvovoliči, kteří dříve volit nemohli, ale také lidé, kteří dosud "neměli koho volit". Potěšující potom je, že s Piráty sympatizuje druhý největší počet oprávněných voličů. 
 
