@@ -1,21 +1,20 @@
 ---
 layout: post
 category: CLANKY
-title: "Nucené zavádění eReceptů ohrožuje dostupnost lékařské péče v regionech."
+title: "Průzkum financovaný lidmi: Piráti mají druhý největší počet sympatizantů za všech stran ."
 date: 2017-08-30T13:28:00+02:00
 author: Karolína Sadílková
-image: /assets/img/articles/2017/erecept.jpg
-tags: zdravotnictví
+image: /assets/img/articles/2017/behavio.jpg
+tags: kampan
 ---
 
-Piráti vyzývají Ministerstvo zdravotnictví ČR, aby v připravované vyhlášce umožnilo v samostatných ambulancích dosud nevybavených výpočetní technikou vystavovat papírové recepty i po 1. 1. 2018.
+Český výzkumný Startup Behavio udělal trochu jiný předvolební průzkum. Průzkum, který se nesnaží odhadnout výsledek voleb, ale zjišťuje, nejen koho budou volit už rozhodnutí voliči, ale především mezi jakými stranami se rozhodují voliči, kteří ještě jasno nemají. Současně se Behavio snaží simulovat reálnou volební situaci, takže respondenti dostali "volební lístky" stran a s těmi v ruce se teprve rozhodovali. Na tento projekt vybralo Behavio peníze přímo od lidí skrze crowdfundingový portál Hit-Hit. 
 
-Piráti zastávají názor, že elektronizaci zdravotnictví není vhodné prosazovat silou a už vůbec ne na úkor dostupnosti zdravotní péče. Řada starších praktických lékařů i specialistů v odlehlých regionech se chystá z důvodu povinné ePreskripce ukončit praxi. Dosud není plně dořešen ani problém způsobený nevhodným zásahem do rezidenčního programu praktického lékařství, který ohrožuje proškolení zhruba 100 nových praktiků. Samostatné ambulance praktických lékařů jsou také nesmyslně zahrnuty do povinné EET od 1. 3. 2018. Podíl hotovostních plateb je přitom u nich zanedbatelný, přitom povinnost EET s hrozbou likvidačních pokut je dalším důvodem k ukončení jejich praxe bez náhrady.
+Ukázalo se, že veřejnost má k Pirátům daleko větší sympatie, než co běžně měří jiné agentury. U 14 % oprávněných voličů se Piráti dostávají do užšího výběru stran, mezi kterými se lidé rozhodují a 2 % oprávněných voličů jsou napevno odhodlaná Piráty volit. Tato 2 % podpory rozhodnutých v praxi znamenají spíše 3 % u voleb (volební účast bývá okolo 60 %). Pirátům tedy ke vstupu do Sněmovny stačí získat každého desátého podporovatele z širšího jádra sympatizujících (opět vzhledem k očekávané volební účasti 60 %) a přesvědčit je, aby skutečně dorazili k volbám, a vstoupí do Sněmovny. 
 
-Díky nešťastné kombinaci těchto kroků nyní hrozí, že se zbytečně sníží dostupnost služeb praktických lékařů pro pacienty. Elektronizace zdravotnictví by měla být legislativně ukotvena tak, aby její používání přinášelo zúčastněným zdravotníkům benefity, které je budou k elektronizaci samy pozitivně motivovat. Zákon o léčivech by proto měl být především upraven tak, aby mohl být plně využit potenciál elektronické preskripce k prospěchu zdravotníků i pacientů při zachování ochrany soukromí pacientů. Legislativně nezvládnutá elektronizace zdravotnictví může být i poslední kapkou pro odchod řady zdravotníků z ČR do zahraničí. 
+Ivan Bartoš, předseda Pirátů, k výsledkům průzkumu říká: „Mám velkou radost, když vidím, kolik lidí o nás uvažuje. Výzkum potvrdil, že zacílení naší kampaně je správné a že volební ambice 10 % hlasů je reálná. O tom, kolik lidí nás nakonec skutečně bude volit, rozhodne především volební účast našich podporovatelů. Proto se je snažíme zvednout ze židlí rozsáhlou kontaktní kampaní po celé republice.“
 
-> „Je zbytečné a nesmyslné dělat z elektronizace zdravotnictví další nástroj státní šikany. Smyslem akce je přece dosáhnout lepší efektivity tam, kde to jde, ne samoúčelně vyhnat zkušené staré lékaře, za které navíc nemáme náhradu. Dostupnost zdravotní péče pro obyčejné lidi se takhle ve finále spíše zhorší, než zlepší,“ říká místopředseda Pirátů a lídr kandidátky v Ústeckém kraji Mikuláš Peksa.
+Čtyřicet procent volebního potenciálu Pirátů jsou dosavadní nevoliči. To mohou být jak prvovoliči, kteří dříve volit nemohli, ale také lidé, kteří dosud "neměli koho volit". Potěšující potom je, že s Piráty sympatizuje druhý největší počet oprávněných voličů. 
 
-Z obdobných důvodů žádají Piráti také Ministerstvo financí ČR, aby neprodleně podniklo kroky k vyjmutí samostatných ambulancí lékařů z třetí vlny EET.
+Behavio dnes zveřejnilo kompletní mapu voličů včetně programových priorit voličů a překryvů mezi stranami, naleznete ji zde: **[https://mapavolicu.behavio.cz/](https://mapavolicu.behavio.cz/)**
 
-Piráti dále doporučují Ministerstvu zdravotnictví ČR, aby pro hladký náběh ePreskripce z vyhlášek 54/2008 Sb. a 84/2008 Sb. odstranilo povinnost elektronického podpisu předpisu a výdeje s pomocí kvalifikovaného či uznávaného certifikátu. U online systému typu Centrálního úložiště elektronických receptů nedává tento požadavek v celkovém kontextu smysl a to zejména s ohledem na nové EU nařízení eIDAS.
