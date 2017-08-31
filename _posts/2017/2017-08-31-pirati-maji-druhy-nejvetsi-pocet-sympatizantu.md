@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Průzkum financovaný lidmi: Piráti mají druhý největší počet sympatizantů za všech stran ."
+title: "Průzkum financovaný lidmi: Piráti mají druhý největší počet sympatizantů ze všech stran"
 date: 2017-08-30T13:28:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/behavio.jpg
