@@ -1,32 +1,42 @@
 -
   img: vojtech-pikal.jpg
   name: Bc. Vojtěch Pikal (30), Olomouc, Piráti
-  description: analytik, programátor, tester, člen kontrolního výboru a IT komise statutárního města Olomouce, Game designer, ORGanizátor akcí pro mládež
+  description: >
+   <p>„Občan má právo znát a ovlivňovat strategii a plány své země, kraje či obce. Měl by mít možnost kdykoliv si zkontrolovat, jak pracuje jeho zastupitel. Zůčastnil se zasedání? Co tam dělal a říkal? O čem a s kým jednal? Jak využívá čas ve své placené funkci, do které jej lidé zvolili a která je financována z peněz daňových poplatníků?“</p>
+   <p> analytik, programátor, tester, člen kontrolního výboru a IT komise statutárního města Olomouce, Game designer, ORGanizátor akcí pro mládež </p>
 -
   img: martin-smida.jpg
   name: Ing. et Ing. Martin Šmída (32), Majetín, Piráti
-  description: odborník v oblasti kompostování bio-odpadu a recyklace stavebního odpadu, zastupitel obce Majetín, muzikant a ochotník
+  description: >
+   <p>„Svobodně myslet a pohodlně žít, to je oč tu běží. Piráti, jakožto hlavní liberální síla na české politické scéně, mohou této republice jedině prospět.“</p>
+   <p> Otec dvou dětí a manžel, odborník v oblasti kompostování bio-odpadu a recyklace stavebního odpadu,  muzikant a ochotník, místopředseda České pirátské strany a zastupitel obce Majetín, která se vyznačuje tím, že má zavedený transparentní účet, vyniká v třídění odpadů a každoročně hostí festival svobodné kultury Kytary in Majetín.</p>
 -
   img: petr-kapounek.jpg
   name: Petr Kapounek (30), Prostějov, Piráti
-  description: manažer v telekomunikacích, projektant, programátor, zastupitel statutárního města Prostějova, člen komise informatiky Olomouckého kraje
+  description: manažer v telekomunikacích, projektant, programátor, zastupitel statutárního města Prostějova, člen komise informatiky Olomouckého kraje, předseda olomouckého krajského sdružení
 -
   img: zdenka-wagnerova.jpg
   name: Zdenka Wagnerová (65), Olomouc, bezpp
-  description:  analytička, administrátorka Klubu přátel demokracie, aktivní důchodkyně
+  description: >
+   <p>„Chci věci zjednodušovat. Protože je to přirozené, stejně jako logika, zdravý rozum a spokojený život.“</p>
+   <p> analytička, administrátorka Klubu přátel demokracie, aktivní důchodkyně </p>
 -
   img: petr-lysek.jpg
   name: Ing. Petr Lysek (51), Prostějov, Piráti
-  description: projektant, zastupitel statutárního města Prostějova
+  description: >
+   <p>„Do roku 2013 jsem nebyl členem žádné politické strany, politiku jsem však dlouhodobě, čím dál tím více znechuceně, sledoval a postupně si uvědomoval, že pokud chci na současném neutěšeném stavu něco změnit, nezbývá nic jiného, než se o to pokusit.“</p>
+   <p>projektant, zastupitel statutárního města Prostějova</p>
 -
   img: tomas-karlik.jpg
   name: Bc. Tomáš Karlík (25), Přerov, Piráti
-  description: student logistiky, muzikant, likvidátor černých skládek, cestovatel
+  description: >
+   <p>„Do politiky jsem vstoupil, abych bojoval za transparentní hospodaření státu, omezení byrokracie, změnu protidrogové politiky a zdravé životní prostředí. Též jsem nespokojen s praktikami veřejnoprávních médií a bující korupcí ve státní správě.“</p>
+   <p>student logistiky, muzikant, likvidátor černých skládek, cestovatel</p>
 -
   img: martin-svadlenka.jpg
   name: Martin Švadlenka (42), Přerov, Piráti
   description: >
-    <p>"Osvobodil jsem desítky provozovatelů od poplatků OSA a Intergramu. Pomůžu i Vám."</p>
+    <p>„Osvobodil jsem desítky provozovatelů od poplatků OSA a Intergramu. Pomůžu i Vám.“</p>
     <p>předseda komise pro otevřenou radnici města Přerova, propagátor svobodné hudby, aktivista za pravdu o 11. září, elektromechanik</p>
 -
   img: jakub-nepejchal.jpg
@@ -77,7 +87,7 @@
   name: Marek Blaha (34), Zábřeh, Piráti
   description: koordinátor distribuční sitě tiskovin, muzikant, produkční hudebního klubu
 -
-  img: 
+  img:
   name: Ing. et Ing. Radim Studený (27), Majetín, Piráti
   description: IT specialista, software tester, rizikový inženýr, muzikant
 -
@@ -89,6 +99,8 @@
   name: Lukáš Kresta (27), Lipník nad Bečvou, Piráti
   description: OSVČ, zámečník
 -
-  img:
+  img: michal-blaho.jpg
   name: Michal Blaho (42), Hlušovice, bezpp
-  description: pingl v Ponorce
+  description: >
+   <p>„Volte blaho!“</p>
+   <p>pingl v Ponorce</p>
