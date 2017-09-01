@@ -1,7 +1,7 @@
 .c-welcome-header {
   height: 350px;
   position: relative;
-  background: url('../img/header/boat.jpg') no-repeat;
+  background: url('../img/header/banner-1366x400.jpg') no-repeat;
   background-size: cover;
   background-position: center 70%;
   overflow: hidden;
@@ -11,8 +11,10 @@
   }
 
   @include breakpoint(medium down) {
-    height: 390px;
-    background-size: 150%;
+    background: url('../img/header/banner-mobile-1080x2522px-scroll.jpg') no-repeat;
+    //background: url('../img/header/banner-1080x400.jpg') no-repeat;
+    height: 2500px;
+    background-size: 100%;
     background-position: 20% 70%;
   }
 

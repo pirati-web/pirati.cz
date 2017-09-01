@@ -10,3 +10,6 @@
 - link: Pirátské listy
   url: http://www.piratskelisty.cz
   icon: fa fa-newspaper-o
+- link: Obchod
+  url: https://www.piratskyobchod.cz
+  icon: fa fa-shopping-basket
