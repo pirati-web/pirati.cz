@@ -12,14 +12,15 @@
 
   @include breakpoint(medium down) {
     background: url('../img/header/banner-mobile-1080x2522px-scroll.jpg') no-repeat;
-    //background: url('../img/header/banner-1080x400.jpg') no-repeat;
-    height: 2500px;
+    height: 1700px;
     background-size: 100%;
     background-position: 20% 70%;
   }
 
   @include breakpoint(640px down) {
-    background-size: 190%;
+    background: url('../img/header/banner-mobile-432-scroll.jpg') no-repeat;
+    height: 1000px;
+    background-size: 100%;
     background-position: 27% 85%;
   }
 }
