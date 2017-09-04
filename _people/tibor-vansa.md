@@ -8,10 +8,10 @@ img: people/tibor-vansa.jpg       # 165 x 220
 description: Garant programového bodu finance # kratký popis, max 160 znaků
 mail:
 - tibor.vansa@pirati.cz
-mob:
+mob: +420 776 555 622
 profiles:
   github:
-  facebook:				
+  facebook: https://www.facebook.com/tibor.vansa				
   twitter:
   linkedin:
 ---
