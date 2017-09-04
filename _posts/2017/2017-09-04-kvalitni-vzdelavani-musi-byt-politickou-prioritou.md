@@ -25,4 +25,4 @@ Obě strany se také shodují v tom, že **obsah výuky** je nutné přizpůsobi
 ### Kontakty
 
 * [Daniel Mazur](https://www.pirati.cz/lide/daniel-mazur/), garant programového bodu vzdělávání, daniel.mazur@pirati.cz
-* [Kryštof Kozák], předseda strany 5 % pro vzdělání, petprocent@gmail.com
+* Kryštof Kozák, předseda strany 5 % pro vzdělání, petprocent@gmail.com
