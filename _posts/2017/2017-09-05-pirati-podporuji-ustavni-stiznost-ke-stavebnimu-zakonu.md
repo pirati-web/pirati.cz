@@ -1,18 +1,19 @@
 ---
 layout: post
 category: CLANKY
-title: "Česká zemědělská politika je pod vlivem obludného střetu zájmů Andreje Babiše a dalších představitelů agrokorporací."
-date: 2017-09-05T09:27:00+02:00
-author: Ivan Bartoš
-image: /assets/img/articles/2017/babis-hnizdo.jpg
-tags: kampan
+title: "Piráti podporují ústavní stížnost senátorů proti novele stavebního zákona."
+date: 2017-09-05T13:25:00+02:00
+author: Dana Balcarová
+image: /assets/img/articles/2017/ustavni-soud.jpg
+tags: stavebni-zakon
 ---
 
-Média v těchto dnech informovala o smutném faktu, že Česká republika je jednou ze dvou zemí v EU (spolu se Slovenskem) bojujících proti zastropování přímých plateb v zemědělství. Tento stav dlouhodobě nahrává velkým agrokorporacím, poškozuje malé zemědělce a je hlavním důvodem, proč Agrofert v loňském roce dostal na dotacích více, než zaplatil na daních. Česká zemědělská politika je pod vlivem obludného střetu zájmů pánů Babiše, Faltýnka a dalších představitelů agrokorporací. 
+Piráti podporují ústavní stížnost skupiny 17 senátorů, kteří minulý týden napadli u Ústavního soudu (ÚS) novelu stavebního zákona. Ta totiž omezuje účast občanů na stavebním řízení.
 
-Situace je o to horší, že hnutí ANO představilo plán na sloučení ministerstev zemědělství a životního prostředí. Tedy přesně těch, která jsou pro byznys Andreje Babiše (vedle resortu financí) klíčová. Bude-li tento plán realizován, lze očekávat zvyšování podpory Agrofertu, likvidaci jeho konkurence a další znepřehlednění systému podpory zemědělství. A jestliže je jedním ze základních problémů ČR sucho, povede sloučení a následná privatizace těchto dvou ministerstev k výraznému zhoršování stavu české krajiny a její schopnosti držet vodu.
+Senátoři mají za to, že některé paragrafy jsou protiústavní a novela jako celek nepovede ke zrychlení stavebního řízení. Piráti dlouhodobě prosazují obranu svobody, tedy i demokratické principy a zapojení lidí do rozhodování. 
 
-### Kontakty
+> „Vždy budeme chránit právo obyvatel podílet se na rozhodování o životním prostředí ve svém okolí,“ říká Dana Balcarová, garantka programu pro životní prostředí České pirátské strany.
 
-* [Radek Holomčík](https://pirati.cz/lide/radek_holomcik), lídr kandidátky Pirátů v Jihomoravském kraji, radek.holomcik(at)pirati.cz
+> Piráti proti podobě novely již delší dobu aktivně vystupují. „Poukazujeme na protiprávnost a nefunkčnost novely. Novela totiž přináší složitější a méně transparentní rozhodování o stavbách a zásadní omezení účasti veřejnosti na rozhodování, namísto požadovaného zkrácení správních řízení a zjednodušení a zpřehlednění stávající legislativy,“ dodává Balcarová.
 
+Pod stížností jsou podepsání také všichni čtyři senátoři zvolení s podporou Pirátů - Ladislav Kos, Libor Michálek, Václav Láska a Renata Chmelová.
