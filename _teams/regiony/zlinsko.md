@@ -4,7 +4,7 @@ cid: zlin
 name: Zlínský kraj
 fullname: Krajské sdružení Zlínský kraj
 img: teams/zlin.jpg
-leader: Josef Hruboš
+leader: petr.tkadlec
 deputy:
 - Kamila Gáliková
 - Jaromír Fojtů
