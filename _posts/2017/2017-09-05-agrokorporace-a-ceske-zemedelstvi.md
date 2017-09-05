@@ -14,5 +14,5 @@ Situace je o to horší, že hnutí ANO představilo plán na sloučení ministe
 
 ### Kontakty
 
-* [Radek Holomčík](https://pirati.cz/lide/radek_holomcik), lídr kandidátky Pirátů v Jihomoravském kraji. 
+* [Radek Holomčík](https://pirati.cz/lide/radek_holomcik), lídr kandidátky Pirátů v Jihomoravském kraji, radek.holomcik(at)pirati.cz
 
