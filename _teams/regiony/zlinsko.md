@@ -23,6 +23,7 @@ twitter: https://twitter.com/PiratePartyZlin
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
+
 Místní sdružení máme ve Vsetíně, Valašském Meziříčí a ve Zlíně, ale působíme na území celého kraje od slovenské hranice 
 až po Uherské Hradiště.
 
@@ -32,6 +33,7 @@ Pravidelná setkání se konají v různých místech Zlínského kraje jednou m
 [Facebook](https://www.facebook.com/pg/piratizl/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
+
 abyste se ujistili, že akce bude. 
 Pro bližší informace napište koordinátorce Yvetě Martínkové na yveta.martinkova@pirati.cz
 
@@ -40,4 +42,3 @@ která může být zatím aktuálnější a jako zdroj relevantních informací 
 
 ### Volby 2017
 * [kandidátní listina](https://www.pirati.cz/volby/2017/zlinsko/)
-
