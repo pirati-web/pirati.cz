@@ -26,5 +26,5 @@ Je třeba si uvědomit hranice tržních principů: Máme za to, že společné 
 [e-government]: https://www.pirati.cz/program/dlouhodoby/e-government
 [pravni-stat]: https://www.pirati.cz/program/dlouhodoby/pravni-stat
 [svoboda-informaci]: https://www.pirati.cz/program/dlouhodoby/svoboda-informaci
-[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace
 [soukromi]: https://www.pirati.cz/program/dlouhodoby/soukromi
