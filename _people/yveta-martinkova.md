@@ -8,7 +8,7 @@ img: people/yveta-martinkova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Zlínský kraj # kratký popis, max 160 znaků
 mail:
 - yveta.martinkova@pirati.cz
-mob: 775 901 639
+mob: 770 113 648
 profiles:
   github:
   facebook:

@@ -4,7 +4,7 @@ cid: zlin
 name: Zlínský kraj
 fullname: Krajské sdružení Zlínský kraj
 img: teams/zlin.jpg
-leader: Josef Hruboš
+leader: Petr Tkadlec
 deputy:
 - Kamila Gáliková
 - Jaromír Fojtů
@@ -23,11 +23,11 @@ twitter: https://twitter.com/PiratePartyZlin
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Místní sdružení máme ve Vsetíně a ve Zlíně, ale působíme na území celého kraje od slovenské hranice až po Uherské Hradiště.
+Místní sdružení máme ve Vsetíně, Valašském Meziříčí a ve Zlíně, ale působíme na území celého kraje od slovenské hranice až po Uherské Hradiště.
 
 Možnosti zapojení:
 
 Pravidelná setkání se konají v různých místech Zlínského kraje jednou měsíčně. Sledujte náš [Facebook](https://www.facebook.com/pg/piratizl/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
-abyste se ujistili, že akce bude. Pro bližší informace napište koordinátorce Elišce Holšánové na eliska.holsanova(аt)pirati.cz.
+abyste se ujistili, že akce bude. Pro bližší informace napište koordinátorce Yvetě Martinikové na yveta.martinikova(аt)pirati.cz.
