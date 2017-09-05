@@ -31,7 +31,7 @@ Svůj aktivní občanský život jsem započal v Hnutí [Brontosaurus][brontosau
 Pocházím z Rychvaldu (Ostravsko), ale od dob studií žiji trvale v Praze. Jsem ženatý a mám 3-letou dceru.
 
 [rest]: http://www.rekonstrukcestatu.cz/cs
-[idealiste]: idealiste.cz
+[idealiste]: http://idealiste.cz
 [brontosaurus]: http://brontosaurus.cz
 [rozruch]: http://rozruch.brontosaurus.cz/
 [velkyvuz]: http://www.velkyvuz.cz/web/
