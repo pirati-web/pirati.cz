@@ -22,6 +22,6 @@ Více na **[www.pirati.cz/kalkulacka](https://www.pirati.cz/kalkulacka/)**
 
 ### Kontakty:
 
-* Štěpán Štrébl, volební manažer Pirátů, stepan.strebl@pirati.cz, telefon: 776 76 44 22
+* Štěpán Štrébl, volební manažer Pirátů, stepan.strebl@pirati.cz
 * [Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/), místopředseda Pirátů a volební lídr v Praze, spoluautor Pirátské daňové reformy, 775 978 550
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/), vedoucí mediálního odboru Pirátů, 737 943 770

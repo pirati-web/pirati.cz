@@ -4,7 +4,7 @@ category: CLANKY
 title: "Všichni nekradou! Piráti představili programové priority do horké fáze kampaně."
 date: 2017-09-07T12:34:00+02:00
 author: Karolína Sadílková
-image: /assets/img/articles/2017/jakub-temata.jpg
+image: /assets/img/articles/2017/ivan-texty.jpg
 tags: kauzy
 ---
  
@@ -17,9 +17,9 @@ Cílem politiky Pirátů je svobodná a digitálně propojená společnost. Prot
  
 > „Chceme, aby Česko prosperovalo, a proto jsme vybrali jako volební slogan ostré části kampaně: VŠICHNI NEKRADOU! V Česku je spousta úspěšných firem či technologických start-upů, do budoucnosti se díváme s důvěrou, odmítáme negativistické osočování ve stylu, že všichni kradou – není to pravda,“ vysvětluje volební lídr Pirátů Ivan Bartoš.
 
-### Podrobný program jednotlivých pilířů
+## Podrobný program jednotlivých pilířů
 
-#### Zjednodušení státu pomocí technologií 
+### Zjednodušení státu pomocí technologií 
 
 1. **Daně, které každý pochopí – jedna nižší daň namísto 6 různých forem zdanění**
 Jsme jediná strana se skutečně rovnou daní. Jedna sazba bude platit pro všechny. Svůj plat si spočítáte z hlavy. Zaměstnanec s průměrnou mzdou ušetří 7,5 tisíce ročně. 
@@ -33,7 +33,7 @@ Už nyní funguje web urad.pirati.cz, kde si můžete založit firmu za jediný 
 4. **Česko nesmí být montovnou a skladištěm Evropy**
 Pobídky budeme směřovat do vědy, výzkumu a inovací. Máme např. výborný automobilový průmysl a antivirové firmy. Chceme v Česku takové podmínky, abychom vyváželi samořídící elektromobily do světa a měli tu něco jako Sillicon Valley pro Evropskou unii.
 
-#### Kontrola moci a mocných
+### Kontrola moci a mocných
 
 5. **Vymáhání hmotné odpovědnosti politiků a úředníků**
 Za jednu zakázku musí být vždy zodpovědný konkrétní člověk. Už se nesmí opakovat situace, kdy se zodpovědnost za korupční kauzy rozptýlí mezi tolik lidí, že nikdo ve finále nenese zodpovědnost. (CASA, atd)
@@ -47,7 +47,7 @@ Chceme pestré zemědělství, ne širé žluté lány řepky. Kdo dostává če
 8. **Donutíme ČEZ a další státní firmy zveřejňovat smlouvy**
 Firmy, které slouží občanům, musí podléhat i jejich kontrole. Schválené podoba novely zákona o registru smluv je nefunkční vykastrovaný paskvil, který zdaleka neodpovídá slibům, ke kterým se zavázala většina politiků současné Sněmovny těsně po volbách. Není možné, aby se Zákon o svobodném přístupu k informacím nevztahoval na firmy typu ČEZ. Změníme to.
 
-#### Ochrana občanů před šikanou
+### Ochrana občanů před šikanou
 
 9. **Stop hromadění exekucí – zásada jeden dlužník = jeden exekutor** 
 Exekuce se sloučí dle místní příslušnosti dlužníka. Nechceme ožebračování dlužníků. Poplatky na vymáhání dluhů nesmí být vyšší než samotný dluh. Kde nic není ani smrt nebere. 
@@ -55,7 +55,7 @@ Exekuce se sloučí dle místní příslušnosti dlužníka. Nechceme ožebračo
 10. **Konec šikany ze strany OSA**
 Autorské právo se musí vrátit ke svému původnímu účelu. Odmítáme poplatky za prázdná média. Už žádné ohlašování koncertů 20 dní předem a výpalné za produkci své vlastní hudby.
 
-#### Obrana svobody
+### Obrana svobody
 
 11. **Svobodný výběr školy a okamžité zvýšení platů učitelů o 20 %**
 Vzdělání je nejlepší investice do budoucna. Vzdělaná společnost je zárukou svobody a prosperity, nepodléhá propagandě a manipulacím. Chceme rozmanitý vzdělávací systém, v němž si každý vybere nejvhodnější školu i způsob výuky.
