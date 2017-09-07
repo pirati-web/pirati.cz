@@ -174,9 +174,9 @@ prosazovat oddělení investičních a obchodních bank.
 <h2>FAQ</h2>
 
 
-<p >V
+<b >V
 minulé krizi ale stát banky zachraňovat nemusel, nestačí
-současný stav?</p>
+současný stav?</b>
 <p >Banky
 sice vyšly z předchozí krize dobře, ale především díky tomu,
 že finanční inovace ze západu v podobě různých složitých
@@ -186,8 +186,8 @@ Navíc úrokové sazby jsou a pravděpodobně ještě dlouho budou
 blízko nule - ČNB tak už nemá k dispozici klasický nástroj
 první pomoci.</p>
 
-<p >Neměly
-by se krachující banky nechat úplně padnout?</p>
+<b >Neměly
+by se krachující banky nechat úplně padnout?</b>
 <p >I
 když ČR nemusela během krize pomáhat svým bankám, snížení
 příjmů státního rozpočtu vedlo ke zvýšení státního
@@ -207,8 +207,8 @@ solventnosti bank a států je silná i na evropské úrovni.</p>
 <p ><br/>
 
 </p>
-<p >Proč
-teď?</p>
+<b >Proč
+teď?</b>
 <p >Jak
 již bylo řečeno výše, český bankovní sektor je na tom v
 porovnání s eurozónou dobře. Počty nesplácených hypoték jsou
@@ -224,8 +224,8 @@ postupy explicitně zakotvit do zákonů.
 <p ><br/>
 
 </p>
-<p >Neměly
-by se omezi odměny bankéřů?</p>
+<b >Neměly
+by se omezi odměny bankéřů?</b>
 <p >Rozložení
 těchto odměn a limitace její variabilní složky je již EU
 regulována dostatečně, za to její třeba také pochválit. Stále
@@ -243,7 +243,7 @@ finančním sektoru nebo na jiných vysokých postech.
 
 </p>
 <br/>
-
+![ Další opatření](banky_dan8.png)
 </p>
 <p>
 <font size="2" style="font-size: 9pt">Zdroj
