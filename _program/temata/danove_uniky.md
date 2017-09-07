@@ -5,7 +5,7 @@ category: témata
 class: tema
 ---
 
-​*1. PIRÁTI A DAŇOVÉ OPTIMALIZACE
+​1. PIRÁTI A DAŇOVÉ OPTIMALIZACE
 -------
 
 
