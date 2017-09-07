@@ -243,7 +243,7 @@ finančním sektoru nebo na jiných vysokých postech.
 
 
 <br/>
-![Další opatření](banky_dan8.png)
+![Další opatření](banky_dan8.jpg)
 
 
 <font size="2" style="font-size: 9pt">Zdroj
