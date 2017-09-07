@@ -5,10 +5,10 @@ category: témata
 class: tema
 ---
 
-Pirátské EET FAQ
+<h1>Pirátské EET FAQ</h1>
 -------
 
-<h1>1. Zrušíte EET?</h1>
+<h2>1. Zrušíte EET?</h2>
 <p >Výrazně
 jej omezíme a přepracujeme. EET se dá bez nadsázky přirovnat ke
 kauze Opencard - netransparetně zadaný, předražený projekt, s
@@ -80,18 +80,13 @@ Navrhujeme např. tyto opatření</p>
 	jiným IČ. Bez účetnictví se nedá vyčíslit škoda u zkrácení
 	daně, a bez přesně vyčíslené škody nelze z procesních důvodů
 	odsoudit někoho za zkrácení daně. 
-	<li/>
-Znemožnění
+	<li/>Znemožnění
 	vydat oprávnění jednat plnou mocí jménem firmy bez toho, aby se
 	na dotyčného převedlo i ručení za závazky firmy. 
-
-	<li/>
-A další
+	<li/>A další
 	drobnosti, např. povinnost sdělovat FÚ všechny účty firmy, ne
 	pouze jeden, zpřísněním pravidel pro ověření totožnosti u
-	notářů apod. 
-
-</ul>
+	notářů apod.</ul>
 <p >Především se
 ale chceme zaměřit na <a href="index.php?target=uniky&amp;content=uniky.php">daňové úniky velkých korporací</a> a
 karuselové podvody.
