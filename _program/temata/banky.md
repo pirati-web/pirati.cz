@@ -204,9 +204,9 @@ správně vybalancovat. Její zadlužení je čistě virtuální
 soukromým investorům. Americký FED navíc ukázal, že na takovéto
 pomoci bankám lze i vydělat. Snaha oddělit propojenost
 solventnosti bank a států je silná i na evropské úrovni.</p>
-<p ><br/>
+<br/>
 
-</p>
+
 <b >Proč
 teď?</b>
 <p >Jak
@@ -221,9 +221,9 @@ těchto krizových situacích se nemá s akcionáři vyjednávat, ale
 postupovat rychle, efektivně a podle platného práva. Je třeba
 postupy explicitně zakotvit do zákonů. 
 </p>
-<p ><br/>
+<br/>
 
-</p>
+
 <b >Neměly
 by se omezi odměny bankéřů?</b>
 <p >Rozložení
@@ -239,13 +239,13 @@ v jiných finančních institucích. V případě, že banka nečekaně
 padne, měla by být jejím manažerům zakázána další práce ve
 finančním sektoru nebo na jiných vysokých postech. 
 </p>
-<p ><br/>
-
-</p>
 <br/>
-![ Další opatření](banky_dan8.png)
-</p>
-<p>
+
+
+<br/>
+![Další opatření](banky_dan8.png)
+
+
 <font size="2" style="font-size: 9pt">Zdroj
-obrázku: ihned.cz</font></p>
+obrázku: ihned.cz</font>
 
