@@ -5,8 +5,8 @@ category: témata
 class: tema
 ---
 
-Finance podrobně
--------
+<h1>Finance podrobně</h1>
+
 
 
 <p>Naším cílem je zjednodušit systém daní v České republice. Hodláme 
