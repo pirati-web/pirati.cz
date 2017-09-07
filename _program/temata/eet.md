@@ -6,7 +6,7 @@ class: tema
 ---
 
 <h1>Pirátské EET FAQ</h1>
--------
+
 
 <h2>1. Zrušíte EET?</h2>
 <p >Výrazně
