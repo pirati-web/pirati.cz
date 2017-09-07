@@ -67,3 +67,9 @@ Svěřenské fondy a nadace
 -----
 S trusty seznámil českou veřejnost Andrej Babiš. Ten svůj majetek předal do formálního vlastnictví svěřenského fondu, řízeného jeho manželkou a dalšími dvěma svěřenci. Formálně tak již majetek nevlastní, ale podle smlouvy jsou tito svěřenci vázaní povinností jednat v jeho zájmu a způsobem, který jim předepsal. Tento „svůj“ majetek může zase kdykoliv nabýt. Tento institut tedy umožňuje právní separaci majetku od jeho vlastníka, čímž jej chrání před věřiteli původního vlastníka, daněmi, finančními úřady a dalšími nepříjemnostmi, které by ho mohli „ohrozit“. Svěřenské fondy by proto také byly na černé listině právních forem.
 Velmi podobnou formou je nadace, slovo které má většina veřejnosti spojené s dobročinnou činností. Toho zneužívají země jako Lichtenštejnsko nebo Panama, které jim přidaly všechny vlastnosti vyžadované pro úspěšné ukrývání majetku. Opravdová nadace se od trustu liší maximální transparentností - veřejnou registrací včetně dobročinného účelu a stanov, seznamem největších dárců i obdarovaných, neomezeným trváním, transparentním účtem atd. V opačném případě s nimi budeme zacházet stejně jako se svěřenskými fondy.
+
+![Zatočíme s daňovými ráji](uniky1.png )
+Po vzoru Estonska snížíme daň ze zisku, který se nevyplatí vlastníkům.[4] Firmy neodlévají kapitál do daňových rájů jen kvůli obohacení vlastníků. Významným motivem nadnárodních firem je i rychlejší akumulace kapitálu pro další zahraniční akvizice. Podpoříme tím reinvestice firem zpět v ČR. Zároveň tím i usnadníme život drobným podnikatelům, kteří si budou moci snáze našetřit na větší investice. Odstraníme tím absurdní datování faktur ke konci roku nebo nákup zbytných statků, kterými si drobní živnostníci snaží snížit daňový základ.
+
+![Shrnutí 1 ](uniky4.png )
+![Shrnutí 2 ](uniky7.png )
