@@ -5,14 +5,18 @@ img: finance.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-26-2016-program-2017-finance-r-h-3-k-t36942.html
 garant: tibor.vansa
 relatives:
-  - name: Doplňující
+  - name: Podrobný program
     items:
-    - title: Zjednodušíme placení daní a zavedeme skutečně rovnou daň
+    - title: Podrobné vysvětlení programu v oblasti financí
       alt: Podrobné vysvětlení programu v oblasti financí
-      url: http://www.piratskelisty.cz/clanek-1720-zjednodusime-placeni-dani-a-zavedeme-skutecne-rovnou-dan
-    - title: Daně, které každý pochopí
+      url: https://www.pirati.cz/program/temata/finance_podrobne/
+    - title: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
       alt: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
       url: https://www.pirati.cz/kalkulacka/
+    - title: Euro
+      alt: Euro
+      url: https://www.pirati.cz/program/temata/euro/
+      
 videa:
   - haVUq0Fx2NY
 ---
@@ -21,7 +25,7 @@ Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výbě
 
 - **Daně: Jde to i jednoduše!** Zavedeme skutečně rovnou daň – stejnou sazbu celkového zdanění práce (včetně odvodů) pro všechny příjmové skupiny. Slevu na dani ponecháme v současné výši.
 - **Snížíme sazbu zdanění práce o 1,6 procentního bodu**: Zaměstnanec s průměrnou mzdou díky tomu ušetří přibližně 7 500 Kč ročně. Celkový dopad naší reformy na státní rozpočet bude cca 1 až 2 mld. Kč. Dle možností budeme usilovat o další snižování zdanění práce o procentní bod každý rok.
-- **Usnadníme placení daní**: Daně a odvody živnostníků sjednotíme do jedné platby a zavedeme jednotné inkasní místo. Jednoduchý daňový formulář budete moci vyplnit online během 10 minut.
+- **Usnadníme placení daní**: Daně a odvody [živnostníků](https://www.pirati.cz/program/temata/finance_faq/) sjednotíme do jedné platby a zavedeme jednotné inkasní místo. Jednoduchý daňový formulář budete moci vyplnit online během 10 minut.
 - **Zahájíme diskuzi o změnách daňových sazeb v souvislosti s robotizací.**
 
 ## Stop vyvádění zisků nadnárodních firem
