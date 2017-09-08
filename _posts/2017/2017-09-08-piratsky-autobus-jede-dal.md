@@ -17,7 +17,3 @@ Ani stojící postavu s neidentifikovatelným předmětem u opasku soud nespatř
 Nečasová se proti rozhodnutí odvolala. 
  
 > „Soud jednoznačně potvrdil, že v naší zemi stále platí svoboda projevu a že karikatura politických kauz je legální a není důvod ji z karoserie vězeňského autobusu odstraňovat. Nesouhlasíme s odvoláním paní Nečasové, že je ryze soukromou osobou, která nikdy ve volbách nekandidovala, ani jejím obviněním, že zasahujeme do nezávislosti soudů. Autobusem navštěvujeme voliče po celé republice, nikoliv soudy. Předběžný soudní zákaz karikatury, který nadále požaduje paní Nečasová, považujeme za absurdní,“ říká právník a místopředseda Pirátů Jakub Michálek.
-
-### Odkazy
-
-* [Rozhodnutí obvodního soudu pro Prahu 3 o předběžném opatření]()
