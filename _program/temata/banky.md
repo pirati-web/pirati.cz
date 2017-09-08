@@ -239,10 +239,7 @@ v jiných finančních institucích. V případě, že banka nečekaně
 padne, měla by být jejím manažerům zakázána další práce ve
 finančním sektoru nebo na jiných vysokých postech. 
 </p>
-<br/>
 
-
-<br/>
 ![Další opatření](banky_dan8.jpg)
 
 
