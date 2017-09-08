@@ -88,7 +88,7 @@ Navrhujeme např. tyto opatření</p>
 	pouze jeden, zpřísněním pravidel pro ověření totožnosti u
 	notářů apod.</ul>
 <p >Především se
-ale chceme zaměřit na <a href="index.php?target=uniky&amp;content=uniky.php">daňové úniky velkých korporací</a> a
+ale chceme zaměřit na <a href="https://www.pirati.cz/program/temata/danove_uniky/">daňové úniky velkých korporací</a> a
 karuselové podvody.
 </p>
 <h2>4. Co Pirátům vadí na EET?</h2>
