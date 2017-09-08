@@ -93,8 +93,8 @@ var show_people = function(data, who, where) {
  **/
 var search = function(data) {
   $("#searchsub").click(function() {
-    var exp = search.val();
-    var url = "https://www.google.cz/?q=inurl:pirati.cz+" + exp;
+    var exp = $("#search").val();
+    var url = "https://duckduckgo.com/?q=site:pirati.cz+" + exp;
     window.location.href = url;
   });
   $("#search").autocomplete({
