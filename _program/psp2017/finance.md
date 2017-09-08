@@ -41,3 +41,5 @@ Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výbě
 - **Nepodpoříme nezodpovědné zadlužování budoucích generací.**
 - **Zlegalizujeme konopí a zdaníme jeho prodej**: Zdanění přinese do rozpočtu dle odhadu 3,2 mld. korun, viz [stanovisko](https://www.pirati.cz/tiskove-zpravy/legalizace-konopi.html). Drobné pěstování bude osvobozeno od daní.
 - **Omezíme EET**: Zrušíme EET pro e-shopy, platby kartou a drobné podnikatele.
+
+[Podrobnější verze vysvětlení programu v oblasti financí](https://www.pirati.cz/program/temata/finance_podrobne/)
