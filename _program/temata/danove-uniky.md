@@ -22,10 +22,12 @@ Finanční krize přiměla jednotlivé státy, aby se začaly zabývat daňovým
 ![Odtajníme anonymní struktury](/assets/img/program/finance/uniky11.png)
 
 Proti nadnárodním koncernům státy musí postupovat společně, je nutné zastavit tzv. závod na dno ve výši korporátních daní a různých výjimek. Piráti proto podporují zavedení společného konsolidovaného základu daně právnických osob navrhovaný EU (CCCTB), který znesnadňuje daňovou optimalizaci a ve své druhé fázi lépe rozděluje zisk podle místa vzniku. V orgánech Rady Evropské unie budeme usilovat o co nejvýhodnější stanovení parametrů pro rozdělení konsolidované daně z příjmů právnických osob, který bude reflektovat nižší mzdovou úroveň v ČR.
+
 Druhou důležitou Evropskou směrnicí je implementace vybraných doporučení OECD proti daňové optimalizaci. Prvním z nich jsou tzv. CFC pravidla. Po zavedení ve Velké Británii získaly i přezdívku „Google tax“, neboť byly reakcí na chování této firmy. Pravidla stanovují, že zdanění podléhají i zisky dceřiných společností v zahraničí, pokud tamní legislativa umožňuje jejich výrazně nižší efektivní zdanění. EU navrhuje považovat za výrazně nižší zdanění snížení daně o  50%, ale umožňuje i přísnější nastavení kritéria. Například v USA stačí pokles o 10%. České ministerstvo financí se spokojí s 50%, Piráti si vezmou za vzor USA.
+
 Oblíbeným způsobem, kterým korporace optimalizují daně, je pomocí řetězu půjček mezi svými dceřinými společnosti. Tím si svůj zisk snižují splátkami nadměrných úroků. Problém je nyní řešen v ČR zákonem o nízké kapitalizaci. Směrnice volí z ekonomického hlediska vhodnější kritérium, ale s poměrně benevoletní hranicí.  Piráti prosadí nižší hranici pro hodnocení půjček od spřízněných subjektů.
 
-![ ](/assets/img/program/finance/uniky10.png)  
+![ATAD](/assets/img/program/finance/uniky10.png)  
 
 Zasadíme se o co nejrychlejší zavedení těchto pravidel, na rozdíl od současného vedení ministerstva, které hodlá využít výjimku pro jejich pozdější uvedení. Nechceme ale jen čekat, až se rozhoupe byrokratická mašinérie EU. Piráti proto prosazují jednostranné zavedení přísnějšího výpočtu daňového základu pro firmy s obratem v ČR nad 10 miliard Kč, nebo obratem skupiny v EU nad 720 miliónů EUR. Ten bude stanovovat přísnější podmínky zamezující umělému snižování zisku pomocí konzultačních a marketingových služeb, licenčních poplatků.
 

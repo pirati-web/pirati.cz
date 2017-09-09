@@ -1,12 +1,9 @@
 ---
-title: Banky
+title: Banky, které se postarají samy o sebe
 img: https://www.pirati.cz/_media/rp/program/korporace.png
 category: témata
 class: tema
 ---
-
-Banky, které se postarají samy o sebe
--------
 
 Pirátská strana dlouhodobě kritizuje ekonomický model postavený na
 neustálém růstu zadlužení, který je dlouhodobě neudržitelný.
@@ -14,24 +11,20 @@ Ostře odmítáme záchranu bank z peněz daňových poplatníků,
 bankovní sektor si musí sám vytvořit dostatečný finanční
 polštář, aby ustál otřesy finančního trhu. Sektorovou daň pro
 banky vnímáme jako nejvhodnější prostředek, jak v rámci
-současných evropských pravidel k tomuto cíli dospět. 
+současných evropských pravidel k tomuto cíli dospět.
 
 
-![Proč bankovní daň? ](banky_dan3.png)
+![Proč bankovní daň? ](/assets/img/program/finance/banky_dan3.png)
 
-<p >O
-přesné <a href="https://www.novinky.cz/ekonomika/55697-prechod-k-trzni-ekonomice-stal-cr-700-miliard-korun.html">výši
+O přesné <a href="https://www.novinky.cz/ekonomika/55697-prechod-k-trzni-ekonomice-stal-cr-700-miliard-korun.html">výši
 nákladů</a> na bankovní krize se můžeme dohadovat, s
 určitostí se ale dá říci, že jde o stovky miliard, naproti tomu
 v případě bankovní daně se bavíme o přínosu 10 miliardách
 ročně.
-</p>
 
+![Kolik stojí bankovní krize? ](/assets/img/program/finance/banky_dan1.png)
 
-![Kolik stojí bankovní krize? ](banky_dan1.png)
-
-<p >Během
-předchozí krize v roce 2008 náš stát sice banky zachraňovat
+Během předchozí krize v roce 2008 náš stát sice banky zachraňovat
 nemusel, přesto pokles ekonomiky způsobil sta miliardové státní
 deficity. Za příchod globální krize sice české banky nemůžou,
 ale čím zadluženější budou česká podniky, občané nebo stát,
@@ -39,9 +32,8 @@ tím horší budou dopady.  Levné půjčky, hypotéky a úvěry mají
 i svou <a href="https://www.imf.org/external/np/seminars/eng/2010/paris/pdf/090110.pdf">odvrácenou
 tvář.</a> A s určitostí se dá také říct, že další
 krize <a href="http://www.euro.cz/byznys/10-dobrych-duvodu-proc-se-svetove-trhy-opet-propadnou-1348243">příjde.</a>
-</p>
 
-![Jsou banky po krizi v lepší kondici ](banky_dan2.png)
+![Jsou banky po krizi v lepší kondici ](/assets/img/program/finance/banky_dan2.png)
 
 <p >Po
 krizi v roce 2008 vznikla řada opatření (BASEL II, BASEL III,
@@ -56,7 +48,7 @@ Postupné navyšování kapitálu těchto bank je <a href="http://www.mckinsey.c
 až do roku 2025</a>.  
 </p>
 
-![Evropský stabilizační mechanismus ](banky_dan4.png)
+![Evropský stabilizační mechanismus ](/assets/img/program/finance/banky_dan4.png)
 
 <p >Na
 falešnou jistotu, kterou současná bankovní regulace vytváří,
@@ -81,7 +73,7 @@ potíží českého bankovního sektoru. Výši daně nastavíme tak,
 aby v roce 2024 dosáhl výše požadovaných 40 miliard.</p>
 
 
-![Dopady krizí ](banky_dan5.png)
+![Dopady krizí ](/assets/img/program/finance/banky_dan5.png)
 
 
 <p >Bankovní
@@ -95,7 +87,7 @@ proto přiléhavé pojmenovat tento fond jako “Fond na záchranu
 zahraničních matek” (FZZM).
 </p>
 
-![Kolik má ČR našetřeno ](banky_dan7.png)
+![Kolik má ČR našetřeno ](/assets/img/program/finance/banky_dan7.png)
 
 <p >V
 případě bankrotu banky v ČR by ČNB nejprve čerpala peníze z
@@ -132,7 +124,7 @@ podobně jako v ostatních evropských zemích, kde je založena na
 velikosti a rizikovosti finančních aktiv banky.
 </p>
 
-![ Další opatření](banky_dan6.png)
+![ Další opatření](/assets/img/program/finance/banky_dan6.png)
 
 <p >Zavést
 bankovní daň však nestačí. Je třeba omezit morální hazard
@@ -238,7 +230,7 @@ padne, měla by být jejím manažerům zakázána další práce ve
 finančním sektoru nebo na jiných vysokých postech.
 </p>
 
-![Další opatření](banky_dan8.jpg)
+![Další opatření](/assets/img/program/finance/banky_dan8.jpg)
 
 
 <font size="2" style="font-size: 9pt">Zdroj
