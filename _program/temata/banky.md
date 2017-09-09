@@ -8,15 +8,13 @@ class: tema
 Banky, které se postarají samy o sebe
 -------
 
-<p >Pirátská
-strana dlouhodobě kritizuje ekonomický model postavený na
+Pirátská strana dlouhodobě kritizuje ekonomický model postavený na
 neustálém růstu zadlužení, který je dlouhodobě neudržitelný.
 Ostře odmítáme záchranu bank z peněz daňových poplatníků,
 bankovní sektor si musí sám vytvořit dostatečný finanční
 polštář, aby ustál otřesy finančního trhu. Sektorovou daň pro
 banky vnímáme jako nejvhodnější prostředek, jak v rámci
 současných evropských pravidel k tomuto cíli dospět. 
-</p>
 
 
 ![Proč bankovní daň? ](banky_dan3.png)
@@ -26,7 +24,7 @@ přesné <a href="https://www.novinky.cz/ekonomika/55697-prechod-k-trzni-ekonomi
 nákladů</a> na bankovní krize se můžeme dohadovat, s
 určitostí se ale dá říci, že jde o stovky miliard, naproti tomu
 v případě bankovní daně se bavíme o přínosu 10 miliardách
-ročně. 
+ročně.
 </p>
 
 
@@ -94,7 +92,7 @@ miliard korun, na daních českému státu odvedou cca 13-15 miliard
 korun. Považujeme proto za logické vybrat potřebných 40 mld.
 vyšším zdaněním právě jejich českých dcer. Přišlo by nám
 proto přiléhavé pojmenovat tento fond jako “Fond na záchranu
-zahraničních matek” (FZZM). 
+zahraničních matek” (FZZM).
 </p>
 
 ![Kolik má ČR našetřeno ](banky_dan7.png)
@@ -103,7 +101,7 @@ zahraničních matek” (FZZM).
 případě bankrotu banky v ČR by ČNB nejprve čerpala peníze z
 Garančního systému finančního trhu. Ten se nyní skládá ze
 dvou částí - zaštiťuje Fond pojištění vkladů a Fond pro
-řešení krize. 
+řešení krize.
 </p>
 
 
@@ -118,11 +116,11 @@ Posuneme tuto hranici snížení až ke 2%.</p>
 <p >Fond
 pro řešení krize slouží k financování bank, které se dostanou
 do potíží, ale jsou ještě životaschopné. Fond byl založen
-loňského roku s plánem dosáhnout financí ve výši 1% 
+loňského roku s plánem dosáhnout financí ve výši 1%
 pojištěných vkladů v roce 2024. Existence fondu je v EU povinná
 i pro země bez eura. S přistoupením k eurozóně se tento fond
 automaticky převede do evropského Jednotného fondu pro řešení
-krizí. Proto je třeba pro účely ESM zřídit další fond. 
+krizí. Proto je třeba pro účely ESM zřídit další fond.
 </p>
 <p >Fond
 je v okolních státech financován právě z bankovní daně. Bývalý
@@ -131,7 +129,7 @@ bankovní daně, fond samotný však zřídit musíme. Klasická
 švejkovina - sektorovou bankovní daň banky platit nemusí, jenom
 příspěvky do fondu :-). Novou bankovní daň proto navrhneme
 podobně jako v ostatních evropských zemích, kde je založena na
-velikosti a rizikovosti finančních aktiv banky. 
+velikosti a rizikovosti finančních aktiv banky.
 </p>
 
 ![ Další opatření](banky_dan6.png)
@@ -158,7 +156,7 @@ pravidla o rozpočtové kázni byla také vyžadována pouze do doby,
 než se do obtíží dostalo Německo. Současná legislativa tyto
 postupy umožňuje, nikoliv vynucuje. Je třeba je explicitně
 zakotvit do zákonů, aby politici v rozhodujících situacích
-odolali lobbistům. 
+odolali lobbistům.
 </p>
 <p >Dále
 je třeba odmítnout současnou praxi, kdy se krach menší banky
@@ -168,7 +166,7 @@ které byly příliš velké na to aby padly, během krize ještě
 narostly. Proto je třeba před prodejem krachují banky jiné velké
 bance preferovat obnovení její samostatné funkce s novými
 akcionáři, případně ji ještě dále rozdělit. Dále je třeba
-prosazovat oddělení investičních a obchodních bank. 
+prosazovat oddělení investičních a obchodních bank.
 </p>
 
 <h2>FAQ</h2>
@@ -212,14 +210,14 @@ teď?</b>
 <p >Jak
 již bylo řečeno výše, český bankovní sektor je na tom v
 porovnání s eurozónou dobře. Počty nesplácených hypoték jsou
-na minimální úrovni, ceny bytů letí do závratných výšin. 
+na minimální úrovni, ceny bytů letí do závratných výšin.
 Právě proto je dobrá doba diskutovat o tom, co bude, až tomu tak
 nebude. Dosud totiž platí, že v případě potíží velkých bank
 státy vydávají narychlo a na míru šité zákony a vlády
 podléhají vlivu různých lobbistických skupin. To je špatně. V
 těchto krizových situacích se nemá s akcionáři vyjednávat, ale
 postupovat rychle, efektivně a podle platného práva. Je třeba
-postupy explicitně zakotvit do zákonů. 
+postupy explicitně zakotvit do zákonů.
 </p>
 <br/>
 
@@ -237,7 +235,7 @@ vysokých bankovních manažerů nebyl a nejspíše ani nebude za
 finanční krizi potrestán. Naopak dále pobírají vysoké odměny
 v jiných finančních institucích. V případě, že banka nečekaně
 padne, měla by být jejím manažerům zakázána další práce ve
-finančním sektoru nebo na jiných vysokých postech. 
+finančním sektoru nebo na jiných vysokých postech.
 </p>
 
 ![Další opatření](banky_dan8.jpg)
@@ -245,4 +243,3 @@ finančním sektoru nebo na jiných vysokých postech.
 
 <font size="2" style="font-size: 9pt">Zdroj
 obrázku: ihned.cz</font>
-

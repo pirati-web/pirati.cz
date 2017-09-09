@@ -1,39 +1,36 @@
 ---
-title: EET
+title: Pirátské EET FAQ
 img: https://www.pirati.cz/_media/rp/program/korporace.png
 category: témata
 class: tema
 ---
 
-<h1>Pirátské EET FAQ</h1>
+## 1. Zrušíte EET?
 
-
-<h2>1. Zrušíte EET?</h2>
-<p >Výrazně
-jej omezíme a přepracujeme. EET se dá bez nadsázky přirovnat ke
+Výrazně jej omezíme a přepracujeme. EET se dá bez nadsázky přirovnat ke
 kauze Opencard - netransparetně zadaný, předražený projekt, s
 vysokými provozními náklady, kterého se ale není lehké zbavit.
 Na druhou stranu, pokud má finanční správa držet krok s daňovými
 podvodníky a umožnit občanům pohodlnější podávání daňových
 přiznání, elektronizaci se nevyhne.  Otázka tedy nezní, zda EET
 zrušit nebo ne, ale čím ho nahradit  a jaký režim zvolit v
-mezidobí.  
-</p>
+mezidobí.
 
-<p >Dočasné
-zachování EET podmiňujeme:</p>
+Dočasné zachování EET podmiňujeme:
+
 <ul>
 	<li/>zastavením	dalšího rozšiřování
 	<li/>výjimkami pro drobné podnikatele - např. vesnické hospůdky a prodejny, kulturní akce a farmářské trhy
 	<li/>výjimkou	pro seniory
-	<li/>výjimkou	pro platby kartou a přizpůsobením internetovému podnikání</p>
+	<li/>výjimkou	pro platby kartou a přizpůsobením internetovému podnikání
 	<li/>základním	otevřeným softwarem od státu zdarma 	
 	<li/>regulovanými	poplatky za připojení</p>
 	<li/>revizí	smlouvy s IBM
 </ul>
-<h2>2. Proč nemá mít EET např. i malíř pokojů?</h2>
-<p >Zkušenosti
-ze zahraničí ukazují, že mimo pohostinství a maloobchod neměly
+
+## 2. Proč nemá mít EET např. i malíř pokojů?
+
+Zkušenosti ze zahraničí ukazují, že mimo pohostinství a maloobchod neměly
 registrační pokladny či EET prokazatelný účinek a rozšíření
 tak nedává smysl. Pro funkčnost EET je klíčová možnost
 kontroly ze strany veřejnosti pomocí účtenkové loterie. Ta je
@@ -47,15 +44,15 @@ svoji živnost vykonávat po celé republice. Chybí tak pojítko
 mezi velikostí tržeb a sídlem firmy, které by umožnilo snáze
 odhalit podezřelé podniky. Zapojení ostatní sektorů tedy bude
 čistě dobrovolné, motivované ulehčením s byrokracií, které po
-zavedení jednotného inkasního místa nabídne. 
-</p>
-<h2>3. Jak odhalíte daňové podvody bez rozšíření EET?</h2>
-<p >Abychom
-postihli daňové podvody i v ostatních odvětvích a zároveň
+zavedení jednotného inkasního místa nabídne.
+
+## 3. Jak odhalíte daňové podvody bez rozšíření EET?
+
+Abychom postihli daňové podvody i v ostatních odvětvích a zároveň
 ulehčili občanům běhání po úřadech,  propojíme proto data z
 katastru nemovitostí, registru vozidel, správy sociálního
-zabezpečení a dalších státních institucí tak, abychom 
-</p>
+zabezpečení a dalších státních institucí tak, abychom
+
 <ul>
 	<li/>Občanům	co nejvíce ulehčili vyplnění daňového přiznání - většinu	údajů má stát již k dispozici a může je předvyplnit
 	<li/>Odhalili	výrazné nesrovnalosti mezi vykazovanými příjmy a skutečným	majetkem</ul>
@@ -79,10 +76,10 @@ Navrhujeme např. tyto opatření</p>
 	novou společnost se podobným názvem, stejnou provozovnou jen
 	jiným IČ. Bez účetnictví se nedá vyčíslit škoda u zkrácení
 	daně, a bez přesně vyčíslené škody nelze z procesních důvodů
-	odsoudit někoho za zkrácení daně. 
+	odsoudit někoho za zkrácení daně.
 	<li/>Znemožnění
 	vydat oprávnění jednat plnou mocí jménem firmy bez toho, aby se
-	na dotyčného převedlo i ručení za závazky firmy. 
+	na dotyčného převedlo i ručení za závazky firmy.
 	<li/>A další
 	drobnosti, např. povinnost sdělovat FÚ všechny účty firmy, ne
 	pouze jeden, zpřísněním pravidel pro ověření totožnosti u
@@ -91,7 +88,9 @@ Navrhujeme např. tyto opatření</p>
 ale chceme zaměřit na <a href="https://www.pirati.cz/program/temata/danove_uniky/">daňové úniky velkých korporací</a> a
 karuselové podvody.
 </p>
-<h2>4. Co Pirátům vadí na EET?</h2>
+
+## 4. Co Pirátům vadí na EET?
+
 <p >Piráti
 zavedení EET vytrvale kritizují od samého začátku. Zavedení EET
 bylo projevem arogance moci, kdy Andrej Babiš označil všechny
@@ -105,22 +104,18 @@ vidět ruka zkušeného manažera. Zdá se, že skutečným cílem
 zavedení EET bylo získání citlivých informací o trhu, které
 mají pro ministra, který zároveň podniká v řadě oblastí
 výroby, zemědělství, obchodu, médií i zdravotnictví, velkou
-cenu. 
+cenu.
 </p>
-<h2>
-5. Jaké jsou hlavní
-problémy a jak je vyřešíte?</h2>
-<h3>
-Možnost
-zneužití obchodních informací</h3>
-<p >Získáním
-podrobných informací o trhu argumentuje samo ministerstvo a uvádí,
+
+## 5. Jaké jsou hlavní problémy a jak je vyřešíte?
+
+### Možnost zneužití obchodních informací
+
+Získáním podrobných informací o trhu argumentuje samo ministerstvo a uvádí,
 že díky nim bude moci lépe cílit kontroly. Jeho přístup k
 uchovávání citlivých informacím je však naprosto nezodpovědný.
- 
-</p>
-<p >Úvodní
-studie sloužící k přípravě výběrového řízení obsahuje
+
+Úvodní studie sloužící k přípravě výběrového řízení obsahuje
 řadu elementárních  chyb a rozporů (bližší info <a href="https://www.lupa.cz/clanky/videl-jsem-specifikaci-projektu-elektronicka-evidence-trzeb/">zde</a>.
 ) a i praktická implementaci má řadu nedostatků. I naprostý laik
 ví, že rodné číslo je citlivý osobní údaj. Ministerstvo
@@ -131,13 +126,12 @@ bezpečnostního úřadu, na které se běžně čeká řadu týdnů.
 V případě projektu EET byl však během tří dnů vyhotoven pouze
 dvoustránkový dokument s odkazy na paragrafy a s vágním
 odůvodněním. To je výsměch, ne analýza.  
-</p>
-<p >Problematický
-není jen únik informací ze strany státu, ale i během přenosu
+
+Problematický není jen únik informací ze strany státu, ale i během přenosu
 mezi podnikatelem a státem. Prosadíme
 proto, aby státu odcházely jednotlivé účtenky pouze zakódované
 a povinnost sdělovat FÚ pravidelně měsíční výši tržeb. FÚ
-tak nebude mít k údajům z jednotlivých účtenek přístup, 
+tak nebude mít k údajům z jednotlivých účtenek přístup,
 dokud mu během kontroly podnikatel sám nesdělí privátní klíč.
 Ten bude muset být povinně uložen na Czech Pointu nebo u notáře.
 Klíčové vlastnosti EET umožňující lepší výběr daní ale
@@ -146,11 +140,11 @@ pomoci účtenkové loterie, bude znemožněno vyřadit z účetnictví
 část již vydaných účtenek. Účetnictví již nebude možno
 ztratit, zavřít firmu a zároveň si otevřít novou s de facto
 stejným typem podnikání. Na základě historie zasílaných
-záznamů bude možnost lépe cílit fyzické kontroly ze strany FÚ.</p>
-<h3>Velká
-finanční zátěž pro nejmenší podnikatele</h3>
-<p >Pro
-větší restauraci pravidelný měsíční výdaj v řádu stovek
+záznamů bude možnost lépe cílit fyzické kontroly ze strany FÚ.
+
+### Velká finanční zátěž pro nejmenší podnikatele
+
+Pro větší restauraci pravidelný měsíční výdaj v řádu stovek
 není problém. Pro člověka, který si svou živností vydělává
 lehce nad minimálním příjmem, jen aby nemusel být na pracáku,
 to problém je. Stejně tak je EET problém pro důchodce, ženy na
@@ -166,7 +160,8 @@ vzhledem k výši obratu a slevám na dítě, manželku atd. stejně
 žádnou významnou daň neodvedou i v případě naprosto poctivého
 účetnictví, je prostě buzerace. Navíc i 5000Kč je pro tyto
 podnikatele významná překážka k tomu začít takto podnikat a
-nespoléhat se jen na sociální pomoc státu.</p>
+nespoléhat se jen na sociální pomoc státu.
+
 <p>Prosadíme
 proto výjimky pro</p>
 <ul>
@@ -227,13 +222,13 @@ liší, ale pod 2-3 miliardy ročně nejdou, nemluvě o počátečních
 investicích. Česko má dnes nejdražší výběr daní v <a href="http://zpravy.e15.cz/domaci/ekonomika/cesko-ma-nejdrazsi-vyber-dani-v-eu-cestu-ukazuje-estonsko-1286456">EU</a>,
 a i pokud vezmeme nejoptimističtější odhady ministerstva financí
 ohledně výše dodatečně vybraných daní, efektivita výběru
-daní dále klesne. 
+daní dále klesne.
 </p>
 <p >Klíčové
 smlouvy s firmou IBM jsou dosud stále tajné, nicméně se zdá, že
 vzhledem k vysokým provozním nákladů a nutnosti zásadních změn,
 bude v případě zachování EET výhodnější vypsat nové
-výběrové řízení a celý projekt znovu od nuly. 
+výběrové řízení a celý projekt znovu od nuly.
 </p>
 
 
@@ -290,7 +285,7 @@ Evropské unie. Jsou to Itálie, Maďarsko, Slovensko, Chorvatsko,
 Polsko, Belgie, Litva, Malta, Švédsko, Rumunsko, Bulharsko, Řecko,
 Kypr, Slovinsko a Rakousko. Dále je třeba říci, že se nárůst
 tržeb v pohostinství se často prokázal, a např. Belgie má
-evidenci tržeb pouze právě u pohostinství. 
+evidenci tržeb pouze právě u pohostinství.
 </p>
 
 
@@ -381,7 +376,7 @@ vyplňovaných dotazníků, jejichž pravdivost se příliš
 neověřuje. Až pak MF ve svém <a href="http://www.mfcr.cz/cs/verejny-sektor/dane/informace-financni-a-celni-spravy/2017/cisla-financni-spravy-o-rustu-trzeb-27598">vyjádření</a>
 poskytlo hodnověrnější čísla na celém vzorku. Metodiky obou
 institucí jsou rozdílné, nicméně nárůst vykazovaných tržeb v
-desítkách procent se zdá reálný. 
+desítkách procent se zdá reálný.
 </p>
 <h3 >Kvůli
 EET končí stovky restaurací, hlavně na vesnici, tvrdí pivovary</h3>
@@ -424,7 +419,7 @@ jej mohlo posílit z důvodů obav, že by daňová správa mohla na
 základě porovnávání vykazovaných tržeb s předchozími
 obdobími zahájit důkladnou daňovou kontrolu a doměření daně
 za uplynulé roky. Ukončením činnosti tak přerušili kontinuitu
-podnikání a po formální stránce se tomuto riziku vyhnuli. 
+podnikání a po formální stránce se tomuto riziku vyhnuli.
 </p>
 <p >Podnikatele
 mohly k ukončení činnosti přimět i další chystaná regulace  -
@@ -437,14 +432,14 @@ a neúměrný počet státních kontrol. Podle <a href="https://www.irozhlas.cz/
 zavírají hlavně menší hospody především na vesnicích.
 Nejčastěji se jedná o podniky, které nemají kuchyně a jejich
 provoz je tak závislý na prodeji alkoholu, na který se snížení
-sazby DPH ovšem nevztahuje. 
+sazby DPH ovšem nevztahuje.
 </p>
 <p >I
 když z těchto uvedených statistik jednoznačný závěr udělat
 nelze, počty podniků, které kvůli EET zavřely nebo se přeměnili
 v soukromé kluby, se určitě počítají na stovky. Piráti prosadí
 do EET takové výjimky, aby se drobné vesnické hospůdky mohly
-vrátit zpět. 
+vrátit zpět.
 </p>
 <h3 >Řemeslník
 si k Vám domů musí přinést kromě nářadí i tiskárnu</h3 >
@@ -452,5 +447,5 @@ si k Vám domů musí přinést kromě nářadí i tiskárnu</h3 >
 s řádově desítkami vydaných účtenek stačí chytrý mobil,
 není třeba tiskárnu, stačí opsat na 4 číselný kód na
 připravenou účtenku (zbytek číslic se nemění, lze si je
-připravit předem). 
+připravit předem).
 </p>
