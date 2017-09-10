@@ -23,4 +23,4 @@ Piráti jsou celosvětové hnutí, působící v 55 zemích světa, nebojíme se
 ### Kontakty
 
 * [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/) – vedoucí mediálního odboru, email: mikulas.ferjencik@pirati.cz, telefon: 737 943 770
-* Štěpán Štrébl – volební manažer, email: stepan.strebl@pirati.cz, telefon: 776 764 422
+* Štěpán Štrébl – volební manažer, email: stepan.strebl@pirati.cz

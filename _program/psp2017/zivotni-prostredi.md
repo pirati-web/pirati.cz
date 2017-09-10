@@ -40,8 +40,7 @@ výrobků.
 * **Budeme bojovat proti nedostatku vody:** Podpoříme vytváření a revitalizaci
 rybníků, malých nádrží, pramenišť, mokřadů, čímž zlepšíme schopnosti
 krajiny zadržet vodu.
-* **Udržíme férovou cenu za vodné a stočné.** Prosadíme důslednou ochranu
-vodních zdrojů před privatizací.
+* **Zastavíme neúměrné zdražování pitné vody.** Prosadíme ochranu vodních zdrojů a dodavatelských služeb před privatizací.
 * **Aby nás smog nedusil:** Zavedeme nástroje pro rychlou regulaci a prevenci vzniku
 extrémních smogových situací. Prosadíme pokračování výměny starých uhelných
 kotlů a kamen, tak aby na ni dosáhli všichni.

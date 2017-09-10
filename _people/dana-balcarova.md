@@ -5,7 +5,7 @@ fullname: Dana Balcarová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 img: people/dana-balcarova.jpg   # 165 x 220
-description: garant programového bodu životní prostředí             	# kratký popis, max 160 znaků
+description: garantka programového bodu životní prostředí             	# kratký popis, max 160 znaků
 mail:
 - dana.balcarova@pirati.cz
 mob:			  +420 732 103 330

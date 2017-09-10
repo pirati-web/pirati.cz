@@ -15,12 +15,29 @@
   { "label": "Otevřené účetnictví", "value": "https://wiki.pirati.cz/fo/otevrene_ucetnictvi"},
   { "label": "Pirátské listy", "value": "https://piratskelisty.cz"},
   { "label": "Noviny", "value": "https://piratskelisty.cz"},
-  { "label": "Dlouhodobý program Pirátské strany", "value": "{{'program/strana.html' | relative_url }}"},
+  { "label": "Dlouhodobý program Pirátské strany",
+    "value": "{{'program/strana.html' | relative_url }}"},
   { "label": "Připoj se", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Přidej se", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Členství ve straně", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Newsletter", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Novinky na e-mail", "value": "{{'pripoj-se' | relative_url }}"},
+  { "label": "Kandidátky", "value": "{{'volby/2017/' | relative_url }}"},
+  { "label": "Kandidátní listiny", "value": "{{'volby/2017/' | relative_url }}"},
+  { "label": "Volby 2017", "value": "{{'volby/2017/' | relative_url }}"},
+  { "label": "Volby do Poslanecké sněmovny",
+    "value": "{{'volby/2017/' | relative_url }}"},
+  {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+  {% for item in myteams %}
+  {% if site.data.elections.y2017[item.uid] %}
+    { "label": "{{item.name}}",
+      "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
+    { "label": "Kandidátní listina {{item.name}}",
+      "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
+    { "label": "Kandidátka {{item.name}}",
+      "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
+  {% endif %}
+  {% endfor %}
   {% for post in site.posts %}
     { "label": "{{ post.title }}", "value": "{{ post.url | relative_url }}"},
   {% endfor %}
