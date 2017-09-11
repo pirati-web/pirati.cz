@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Voda a její správa se musí vrátit zpět do rukou městských nebo krajských vodáren."
 date: 2017-09-11T11:59:00+02:00
-author: Karolína Sadílková
+author: Tomáš Čabla
 image: /assets/img/articles/2017/voda.jpg
 tags: kampan
 ---
@@ -26,4 +26,8 @@ Vodovody a kanalizace v České republice se staly byznysem pro samozvané. To, 
 
 ### Odkazy
 * Pirátský programový bod v oblasti životního prostření zde: [https://www.pirati.cz/program/psp2017/zivotni-prostredi/](https://www.pirati.cz/program/psp2017/zivotni-prostredi/)
+
+### Kontakty
+* Tomáš Čabla, tomas.cabla@pirati.cz, tel. 728 121 552  , zastupitelstva města Napajedla, kandidát za Zlínský kraj
+* Dana Balcarová, dana.balcarova@pirati.cz, tel: 732 103 330, dvojka pražské kandidátky Pirátů a garantka programu v oblasti životního 
 
