@@ -9,7 +9,7 @@ relatives:
     items:
     - title: Podrobné vysvětlení programu v oblasti financí
       alt: Podrobné vysvětlení programu v oblasti financí
-      url: https://www.pirati.cz/program/temata/finance_podrobne/
+      url: https://www.pirati.cz/program/temata/finance-podrobne/
     - title: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
       alt: Vyzkoušejte si Pirátskou daňovou kalkulačku a spočítejte si kolik ušetříte na daních
       url: https://www.pirati.cz/kalkulacka/
