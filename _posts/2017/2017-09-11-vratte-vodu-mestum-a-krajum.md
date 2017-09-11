@@ -25,6 +25,5 @@ Vodovody a kanalizace v České republice se staly byznysem pro samozvané. To, 
 > „Každý občan má právo na sociálně únosnou cenu vody. Vodárenství musí být služba nikoliv kšeft. Voda, vodárenská infrastruktura a její správa se musí vrátit do rukou státu či samosprávných celků. Jedním z našich prvních kroků v poslanecké sněmovně bude právě toto téma a iniciace práce na Statní vodárenské koncepci,“ dodává Dana Balcarová, garantka programu pro oblast životního prostředí České pirátské strany.
 
 ### Odkazy
-
 * Pirátský programový bod v oblasti životního prostření zde: [https://www.pirati.cz/program/psp2017/zivotni-prostredi/](https://www.pirati.cz/program/psp2017/zivotni-prostredi/)
 
