@@ -4,7 +4,7 @@ category: CLANKY
 title: "Voda a její správa se musí vrátit zpět do rukou městských nebo krajských vodáren."
 date: 2017-09-11T11:59:00+02:00
 author: Tomáš Čabla
-image: /assets/img/articles/2017/voda.jpg
+image: /assets/img/articles/2017/voda2.jpg
 tags: kampan
 ---
  
