@@ -12,9 +12,9 @@ Voda je strategická a klíčová světová komodita. Na vodě závisí vše. Pr
 
 Zpráva OSN z roku 2015 s názvem Voda pro udržitelný světový rozvoj varuje světové lídry před fatálním nedostatkem vody do 15 let, pokud světoví lídři nepřehodnotí své současné vodohospodářské politiky. Z hlediska dlouhodobého plánování je třeba napravit neskutečný fakt, kdy distribuci a obchod s vodou neovládají obce, města či kraje, ale soukromé firmy s jediným cílem a tím je vydělat. 
 
-Voda se místo veřejnou službou, stala zdrojem neskutečných praktik, což dokazuje Vrchní soud v Olomouci, který vydal v roce 2016 přelomové usnesení pro celou ČR. Soudci v něm popsali ukázkový příklad, jakým pokoutným způsobem předali místní „politici“ monopol vody nadnárodní společnosti a tento proces proběhl obdobně v řadě okresů ČR.
+Voda se místo veřejnou službou, stala zdrojem neskutečných praktik, což dokazuje Vrchní soud v Brně, který vydal v roce 2016 přelomové usnesení pro celou ČR. Soudci v něm popsali ukázkový příklad, jakým pokoutným způsobem předali místní „politici“ monopol vody nadnárodní společnosti a tento proces proběhl obdobně v řadě okresů ČR.
 
-Soudce Krajského soudu v Olomouci počínání organizované skupiny působící po celé ČR označil za mimořádně nemravné a pokoutné. Podobná jednání nahlodávají důvěru v obchodně závazkových vztazích, jako základ ekonomických vztahů ve společnosti. Soudci odhalili kolaboraci v politických kruzích a jednání řady politiků ve prospěch koncernů, na úkor vlastních měst, obcí, vodáren i občanů. Viníci, patří před soudy, ale zatím jsou politickou garniturou chráněni.
+Soudce Krajského soudu v Brně počínání organizované skupiny působící po celé ČR označil za mimořádně nemravné a pokoutné. Podobná jednání nahlodávají důvěru v obchodně závazkových vztazích, jako základ ekonomických vztahů ve společnosti. Soudci odhalili kolaboraci v politických kruzích a jednání řady politiků ve prospěch koncernů, na úkor vlastních měst, obcí, vodáren i občanů. Viníci, patří před soudy, ale zatím jsou politickou garniturou chráněni.
 
 Pirátská strana se zasadí, aby toto skončilo. Voda a její správa se musí vrátit zpět do rukou městských nebo krajských vodáren. V Parlamentu ČR prosadíme zákon, kde voda jako strategická surovina bude postupně vrácena pod správu měst a obcí a prosadíme sjednocení agendy pod jedno ministerstvo. Požadujeme takový systém, který znemožní do budoucna kšeftovat s vodou.
 
@@ -28,6 +28,6 @@ Vodovody a kanalizace v České republice se staly byznysem pro samozvané. To, 
 * Pirátský programový bod v oblasti životního prostření zde: [https://www.pirati.cz/program/psp2017/zivotni-prostredi/](https://www.pirati.cz/program/psp2017/zivotni-prostredi/)
 
 ### Kontakty
-* Tomáš Čabla, tomas.cabla@pirati.cz, tel. 728 121 552  , zastupitelstva města Napajedla, kandidát za Zlínský kraj
-* Dana Balcarová, dana.balcarova@pirati.cz, tel: 732 103 330, dvojka pražské kandidátky Pirátů a garantka programu v oblasti životního 
+* Tomáš Čabla, tomas.cabla@pirati.cz, tel. 728 121 552, člen zastupitelstva města Napajedla, kandidát za Zlínský kraj
+* Dana Balcarová, dana.balcarova@pirati.cz, tel: 732 103 330, dvojka pražské kandidátky Pirátů a garantka programu v oblasti životního prostředí.
 
