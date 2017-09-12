@@ -16,7 +16,7 @@ categories:
 - regiony
 tags:
 - olomoucky-kraj
-facebook: https://www.facebook.com/olomoucko.pirati/
+facebook: https://www.facebook.com/piratiOlomoucko
 redmine: https://redmine.pirati.cz/projects/olk
 forum: https://forum.pirati.cz/olomoucky-kraj-f80/
 web: https://wiki.pirati.cz/regiony/olomoucko/start
@@ -38,3 +38,6 @@ abyste se ujistili, že akce bude.
 
 ### Volby 2017
 * [kandidátní listina](https://www.pirati.cz/volby/2017/olomoucko/)
+
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
