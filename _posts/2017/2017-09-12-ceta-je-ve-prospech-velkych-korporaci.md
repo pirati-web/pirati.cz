@@ -5,7 +5,7 @@ title: "Přijetím smlouvy CETA hrozí další zahlcení českého právního ř
 date: 2017-09-12T11:34:00+02:00
 author: Mikuláš Peksa
 image: /assets/img/articles/2017/stopceta.jpg
-tags: kampan
+tags: ekonomika
 ---
  
 Sněmovna dnes, 12. září, definitivně rozhodne o tom, zda dojde k ratifikaci smlouvy CETA Českou republikou. Poslanci tak mají poslední příležitost odmítnout těchto zhruba 500 stránek textu (2 300 včetně všech příloh), který hrozí dalším zahlcením českého právního řádu, a to ve prospěch velkých nadnárodních korporací. CETA je logickým důsledkem netransparentního vyjednávání, kde chybělo jasné zadání s veřejnou podporou a k pracovním verzím byl dokonce omezen i přístup samotným voleným zástupcům. Přínos CETA pro menší výrobce, zaměstnanost i ekonomický růst je dle studií mizivý, či dokonce záporný. Piráti žádají současné sněmovní strany, aby dohodu odmítly.
