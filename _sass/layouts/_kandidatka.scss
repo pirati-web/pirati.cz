@@ -7,6 +7,24 @@
     &:nth-of-type(even) &-img{
       order: 2;
     }
+    @include breakpoint(mobile up) {
+      &:nth-of-type(n+5) &-img{
+        width: 20%;
+      }
+      &:nth-of-type(n+5) &-data{
+        width: 80%;
+      }
+      &:nth-of-type(n+5) .l-kan__name{
+        margin-top: 0;
+      }
+    }
+
+    @include breakpoint(mobile down) {
+      &-img, &-data{
+        width: auto;
+      }
+    }
+
     &-img{
 
     }
