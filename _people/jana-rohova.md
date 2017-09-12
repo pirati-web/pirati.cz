@@ -8,7 +8,7 @@ img: people/jana-rohova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Jihočeský kraj # kratký popis, max 160 znaků
 mail:
 - jana.rohova@pirati.cz
-mob: 770 113 650
+mob: 770 113 643
 profiles:
   github:
   facebook: https://www.facebook.com/milus.kotisova
