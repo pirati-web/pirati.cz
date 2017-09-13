@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Piráti chtějí omezit dotace pro největší zemědělce a naopak podpořit ty menší ."
+title: "Piráti chtějí omezit dotace pro největší zemědělce a naopak podpořit ty menší"
 date: 2017-09-13T10:40:00+02:00
 author: Radek Holomčík
 image: /assets/img/articles/2017/claas.jpg
