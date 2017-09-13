@@ -63,7 +63,7 @@
   .c-BasicPage__meta-filter-block {
     display: inline-block;
     vertical-align: middle;
-    
+
     @include breakpoint(mobile down) {
       display: block;
     }
@@ -303,19 +303,46 @@
   }
 
   ol {
-    position: relative;
     counter-reset: item;
     list-style-type: none;
   }
 
   ul {
     position: relative;
-    margin-left: 0;
   }
 
   ol,
   ul {
     margin-bottom: 1.5em;
+    margin-left: 0;
+    & > li{
+      position: relative;
+      padding-left: 1.25rem;
+      &:before{
+        position: absolute;
+        left: -1.25rem;
+      }
+    }
+    ol,ul{
+      margin-top: .5em;
+      margin-bottom: .5em;
+    }
+  }
+
+  ol > li:before {
+    content: counter(item) "  ";
+    counter-increment: item
+  }
+
+  ul > li:before {
+    display: inline-block;
+    content: '\f10c';
+    font-family: 'FontAwesome';
+    font-size: 0.75rem;
+    vertical-align: middle;
+    padding-right: 1rem;
+    color: #2785ce;
+    line-height: 2.75;
   }
 
   li {
@@ -324,29 +351,9 @@
   }
 
   li + li {
-    margin-top: 0.40rem;
+    margin-top: 0.5rem;
   }
 
-  ul li {
-    padding-left: 0;
-  }
-
-  ol li:before {
-    position: absolute;
-    left: -1.25rem;
-    content: counter(item) "  ";
-    counter-increment: item
-  }
-
-  ul li:before {
-    display: inline-block;
-    content: '\f10c';
-    font-family: 'FontAwesome';
-    font-size: 0.75rem;
-    vertical-align: middle;
-    padding-right: 1rem;
-    color: #2785ce;
-  }
 
   h2 {
     font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
