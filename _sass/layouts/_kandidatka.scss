@@ -1,0 +1,78 @@
+.l-kan{
+  $kandidate__margin: .85em;
+  &__item{
+    display: flex;
+    border-top: 1px solid rgba(black, .1);
+    padding-top: 4*$kandidate__margin;
+    &:nth-of-type(even) &-img{
+      order: 2;
+    }
+    @include breakpoint(mobile up) {
+      &:nth-of-type(n+5) &-img{
+        width: 20%;
+      }
+      &:nth-of-type(n+5) &-data{
+        width: 80%;
+      }
+      &:nth-of-type(n+5) .l-kan__name{
+        margin-top: 0;
+      }
+    }
+
+    @include breakpoint(mobile down) {
+      &-img, &-data{
+        width: 100%;
+      }
+    }
+
+    &-img{
+
+    }
+    &-data{
+
+    }
+    & + & {
+      margin-top: 5*$kandidate__margin;
+    }
+  }
+  &__name{
+    margin-top: 3*$kandidate__margin;;
+  }
+  &__role{
+    opacity: .75;
+    margin-top: $kandidate__margin;
+    margin-bottom: 2*$kandidate__margin;
+  }
+  &__map{
+    position: sticky;
+    bottom: 0;
+    background: white;
+    padding: $kandidate__margin;
+    margin: 0 -18px;
+    border-top: 1px solid black;
+    margin-top: 2*$kandidate__margin;
+    //text-align: center;
+    //transform: translateY(404px);
+    //&:hover{
+    //  transform: translateY(0);
+    //}
+    svg{
+      path{
+        fill: transparent !important;
+        stroke: black !important;
+        stroke-width: 2px;
+        &:hover{
+          fill: black !important;
+        }
+      }
+    }
+    h4{
+      margin: .5em;
+    }
+  }
+  &__region{
+    &-select{
+      margin: 0;
+    }
+  }
+}

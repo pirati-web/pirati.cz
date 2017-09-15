@@ -1,10 +1,10 @@
 ---
-layout: team
+layout: volebni_kandidatka
 ---
 
 {% assign i = 0 %}
 
-<table>
+<div class="l-kan">
   {% for person in site.data.elections.y2017[page.uid] %}
   {% assign i = i | plus: 1 %}
   {% if person.img or person.img == '' %}
@@ -12,13 +12,13 @@ layout: team
   {% else %}
     {% assign imgsrc = '/assets/img/placeholders/flag-object-person.png' | relative_url %}
   {% endif %}
-  <tr>
-    <td></td>
-    <td><strong>{{i}}. {{person.name}}</strong></td>
-  </tr>
-  <tr>
-    <td> <img src="{{imgsrc}}" alt="Drawing" style="height: 200px; max-width: 150px; margin-right: 10px;"/></td>
-    <td> {{person.description}} </td>
-  </tr>
+  <div class="l-kan__item row">
+    <div class="l-kan__item-img columns medium-5 large-6"> <img src="{{imgsrc}}" alt="{{person.name}}"/></div>
+    <div class="l-kan__item-data columns medium-7 large-6">
+      <h2 class="l-kan__name"><strong>{{i}}. {{person.name}}</strong></h2>
+      <div class="l-kan__role">{{person.role}}</div>
+      <div class="l-kan__desc">{{person.description}}</div>
+    </div>
+  </div>
   {% endfor %}
-</table>
+</div>
