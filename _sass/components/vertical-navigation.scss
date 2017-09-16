@@ -30,25 +30,18 @@ $vn-ns: '';
   }
 
   &.#{$vn-ns}c-vertical-navigation-items--horizontal {
+    display: flex;
 
     .#{$vn-ns}c-vertical-navigation__item +
     .#{$vn-ns}c-vertical-navigation__item  {
-      margin-left: 13px;
+      margin-left: 10px;
+      margin-top: 0;
     }
 
   }
 
   @include breakpoint(medium down) {
-
-    &.#{$vn-ns}c-vertical-navigation-items--horizontal {
-
-      .#{$vn-ns}c-vertical-navigation__item +
-      .#{$vn-ns}c-vertical-navigation__item  {
-        margin-left: 10px;
-      }
-
-    }
-
+     justify-content: center;
   }
 
   &.#{$vn-ns}c-vertical-navigation-items--horizontal
