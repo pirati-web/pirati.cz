@@ -7,6 +7,7 @@ img: teams/olomouc.jpg
 leader: petr.kapounek
 deputy:
 - vojtech.pikal
+- martin.smida
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
