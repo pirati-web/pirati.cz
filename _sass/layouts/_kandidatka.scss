@@ -10,11 +10,12 @@
     @include breakpoint(mobile up) {
       &:nth-of-type(n+5) &-img{
         width: 20%;
+        order: 0;
       }
       &:nth-of-type(n+5) &-data{
         width: 80%;
       }
-      &:nth-of-type(n+5) .l-kan__name{
+      &:nth-of-type(n+6) .l-kan__name{
         margin-top: 0;
       }
     }
@@ -26,7 +27,13 @@
     }
 
     &-img{
-
+      display:flex;
+      align-items: center;
+      justify-content: center;
+      img{
+        position: sticky;
+        top: $kandidate__margin;
+      }
     }
     &-data{
 
