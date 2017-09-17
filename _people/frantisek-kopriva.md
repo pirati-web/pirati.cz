@@ -5,16 +5,16 @@ fullname: František Kopřiva  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - strednicechy
-img: people/frantisek-kopriva-1.jpg   # 165 x 220
+img: people/frantisek-kopriva.jpg   # 165 x 220
 description: Jednatel Republikového výboru, místopředseda a kandidát ve Středočeském kraji             	# kratký popis, max 160 znaků
 mail:
 - frantisek.kopriva@pirati.cz
 mob:	+420 736 749 464		  
 profiles:
   github:       
-  facebook:     https://www.facebook.com/frantisek.kopriva.5 
-  twitter: 		  https://twitter.com/FrantiekKopiva 
-  instagram:    https://www.instagram.com/koprivafrantisek 
+  facebook:     https://www.facebook.com/frantisek.kopriva.5
+  twitter: 		  https://twitter.com/FrantiekKopiva
+  instagram:    https://www.instagram.com/koprivafrantisek
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=franti%C5%A1ek%20kop%C5%99iva
 ---
 
