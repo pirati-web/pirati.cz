@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Ivan Bartoš vyzývá radnici v Soběslavi k větší otevřenosti"
 date: 2017-09-17T18:19:00+02:00
-author: Ivan Bartoš
+author: Věra Marušiaková
 image: /assets/img/articles/2017/sobeslav.jpg
 tags: volby
 ---
