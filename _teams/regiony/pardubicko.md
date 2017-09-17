@@ -41,4 +41,4 @@ abyste se ujistili, kdy a kde na akci budeme.
 
 * Přijďte na naše pravidelné setkání! Konají se pravidelně vždy jednou měsíčně v jednom z měst Pardubického kraje. Kontaktujte Pavla Štěpánka (pavel.stepanek(аt)pirati.cz) pro více informací o tom, kdy se bude konat další schůze Pirátů Pardubického kraje.
 
-Více informací na krajském webu pardubicky.pirati.cz.
+Více informací na krajském webu [pardubicky.pirati.cz](https://pardubicky.pirati.cz).
