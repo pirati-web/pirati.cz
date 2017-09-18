@@ -48,10 +48,14 @@ Jakmile budeme znát vaší práci, tak se můžeme individuálně dohodnout na 
 
 Pro systémové adminy by mohla být zajímavá naše infrastruktura:
 
+- os
+  - debian
+  - centOS
 - virtualizace
   - kvm
   - docker
 - aplikace
+  - nginx
   - postfix
   - redmine
 
