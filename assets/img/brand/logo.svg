@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="127.56px" height="99.21px" viewBox="0 0 127.56 99.21" enable-background="new 0 0 127.56 99.21" xml:space="preserve">
-<path id="path2827-0" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="4.2423" d="M64.173,91.931
-	c-23.483,0-42.52-19.037-42.52-42.52s19.037-42.52,42.52-42.52c23.483,0,42.52,19.037,42.52,42.52S87.656,91.931,64.173,91.931
-	L64.173,91.931z"/>
-<path id="path2827" inkscape:connector-curvature="0" fill="#FFFFFF" stroke="#000000" stroke-width="3.8514" d="M64.181,88.004
-	c-21.319,0-38.602-17.282-38.602-38.601c0-21.319,17.283-38.601,38.602-38.601c21.318,0,38.601,17.282,38.601,38.601
-	C102.781,70.723,85.499,88.004,64.181,88.004z"/>
-<path id="path8" inkscape:connector-curvature="0" d="M44.859,28.156c4.248-1.238,22.16,1.201,18.5,18.528
-	c-1.332,6.306-8.641,9.377-12.183,12.031c-8.386,6.28-1.164,21.194-1.164,21.194s-3.907-11.601,4.793-17.089
-	c8.005-5.05,35.603-2.678,35.508-18.253C90.133,14.725,43.632,25.491,44.859,28.156z"/>
-<rect id="rect10" x="48.431" y="19.622" width="3.538" height="43.875"/>
+	 viewBox="0 0 52.2 55.2" style="enable-background:new 0 0 52.2 55.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+</style>
+<g>
+	<path d="M24.7,7.2c-5.9,0-11.4,2.3-15.5,6.4C5,17.7,2.7,23.3,2.7,29.1C2.7,35,5,40.5,9.1,44.7c4.2,4.1,9.7,6.4,15.5,6.4
+		c5.9,0,11.4-2.3,15.5-6.4c4.2-4.1,6.4-9.7,6.4-15.5c0-5.9-2.3-11.4-6.4-15.5C36.1,9.4,30.6,7.2,24.7,7.2 M24.7,49
+		c-11,0-19.9-8.9-19.9-19.9c0-11,8.9-19.9,19.9-19.9c11,0,19.9,8.9,19.9,19.9C44.6,40.1,35.7,49,24.7,49"/>
+	<path d="M18.1,16.1V13h-1.9v3.6c-1.3,0.4-2.1,0.8-1.9,1.1c0.4-0.1,1.1-0.2,1.9-0.1V36c-2,3.8,0.9,9.7,0.9,9.7s-2.1-6.3,2.6-9.3
+		c4.3-2.7,19.3-1.5,19.2-9.9C38.8,14.6,25,14.6,18.1,16.1 M24.2,27.7c-0.7,3.2-4.1,4.8-6.2,6.2V17.8C21.5,18.6,25.6,21.3,24.2,27.7"
+		/>
+</g>
+<rect class="st0" width="52.2" height="55.2"/>
 </svg>
