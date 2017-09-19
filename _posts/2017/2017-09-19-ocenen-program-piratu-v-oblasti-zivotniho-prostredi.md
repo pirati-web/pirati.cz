@@ -5,7 +5,7 @@ title: "Nezávislí experti ocenili kvalitu pirátského programu v oblasti živ
 date: 2017-09-19T11:54:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/krajina.jpg
-tags: zdravotnictvi
+tags: zivotni-prostredi
 ---
  
 Nezávislí experti z Hnutí DUHA a Zelený kruh ohodnotili volební programy politických stran (vybraných dle volebního modelu CVVM) a zaměřili se patnáct oblastí návrhů řešení ekologických problémů. Jeden z nejlepších programů mají podle expertů Piráti.
