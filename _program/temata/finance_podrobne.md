@@ -167,7 +167,8 @@ stejně snadno jako v internetových obchodech. &nbsp;</li>
 <h3>Myslíme na budoucnost</h3>
 
 <ul>
-<li>Zahájíme diskuzi o daňových změnách v souvislosti s robotizací. Už i 
+<li>Zahájíme diskuzi o daňových změnách v souvislosti s 
+<a href="https://www.pirati.cz/program/temata/robotizace/">robotizací</a>. Už i 
 OECD se začíná ozývat, že kromě snížení zdanění práce je třeba více 
 zdanit i kapitál. Po Švýcarském vzoru začneme připravovat majetková 
 přiznání pro dolarové multimilionáře.</li>
