@@ -23,7 +23,9 @@ Pokud si to chcete ještě více zjednodušit, [Piráti pomáhají studentům za
 
 | Město | Datum           | Čas         | Místo    |
 |-------|-----------------|-------------|----------|
-| Praha | Neděle 1. října | 18:00-20:00 | před NTK |
+| Praha | 2.-5. října | bude upřesněno | před NTK |
+| Brno  | 2.-5. října |  bude upřesněno | bude upřesněno |
+| Ostrava | 2.-5. října |  bude upřesněno | bude upřesněno |
 
 [prukazy]: https://www.pirati.cz/tiskove-zpravy/pirati-budou-vyrizovat-volicske-prukazy.html
 [ou]: https://www.statnisprava.cz/rstsp/ciselniky.nsf/i/d0055
