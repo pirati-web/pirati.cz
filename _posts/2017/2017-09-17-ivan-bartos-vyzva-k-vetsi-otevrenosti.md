@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/sobeslav.jpg
 tags: volby
 ---
  
-Přesně po dvou letech od vykázání pirátského petičního stánku ze Soběslavských slavností 2015 přijede do města na stejnou akci předseda Pirátů Ivan Bartoš doprovázený pirátským autobusem, aby symbolicky předal městu výzvu k větší otevřenosti a toleranci k alternativním názorům. 
+Přesně po dvou letech od vykázání pirátského petičního stánku ze Soběslavských slavností 2015 přijel do města na stejnou akci předseda Pirátů Ivan Bartoš doprovázený pirátským autobusem, aby symbolicky předal městu výzvu k větší otevřenosti a toleranci k alternativním názorům. 
 
 Nejvyšší soud dal svým rozhodnutím z 28. dubna 2017 za pravdu soběslavskému zastupiteli, Pirátovi Martinovi Kákonovi, který byl v roce 2015 vyveden městskou policií z městských slavností. Zdejší politické reprezentaci se nelíbilo, že v petičním stánku volební strany Piráti pro Soběslav sbíral podpisy za lepší řešení centra města a požadoval vypsání architektonické soutěže.
 
