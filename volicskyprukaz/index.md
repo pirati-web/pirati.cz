@@ -1,7 +1,8 @@
 ---
 layout: page
 img: volby/prukazy.png
-description: Jak vyřídit voličsky průkaz? Piráti poradí...
+ogtitle: Jak vyřídit voličský průkaz? Piráti pomohou!
+description: Česká pirátská strana nabízí pomoc všem voličům, kteří nemohou 20. a 21. října volit ve svém okrsku. Podívejte se na možnosti, které nabízíme...
 rbar: calendar
 ---
 
