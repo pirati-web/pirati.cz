@@ -21,11 +21,11 @@ rbar: calendar
 
 Pokud si to chcete ještě více zjednodušit, [Piráti pomáhají studentům zařídit voličské průkazy][prukazy]. V tyto časy a na těchto místech lze voličský průkaz zařídit přímo. Žádost vyplníte a podpis ověříte na místě a pak už jen počkáte, než vám průkaz přijde.
 
-| Město | Datum           | Čas         | Místo    |
-|-------|-----------------|-------------|----------|
-| Praha | 2.-5. října | bude upřesněno | před NTK |
-| Brno  | 2.-5. října |  bude upřesněno | bude upřesněno |
-| Ostrava | 2.-5. října |  bude upřesněno | bude upřesněno |
+| Město | Datum           | Čas            | Místo          |
+|-------|-----------------|----------------|----------------|
+| Praha | 2.-5. října     | bude upřesněno | bude upřesněno |
+| Brno  | 2.-5. října     | bude upřesněno | bude upřesněno |
+| Ostrava | 2.-5. října   | bude upřesněno | bude upřesněno |
 
 [prukazy]: https://www.pirati.cz/tiskove-zpravy/pirati-budou-vyrizovat-volicske-prukazy.html
 [ou]: https://www.statnisprava.cz/rstsp/ciselniky.nsf/i/d0055
