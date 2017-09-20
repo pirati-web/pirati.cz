@@ -1,5 +1,7 @@
 ---
 layout: page
+img: volby/prukazy.png
+description: Jak vyřídit voličsky průkaz? Piráti poradí...
 rbar: calendar
 ---
 
