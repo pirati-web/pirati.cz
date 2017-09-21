@@ -14,7 +14,7 @@ relatives:
       alt: Články o zdravotnictví na Pirátských listech
       url: http://www.piratskelisty.cz/stitek/Zdravotnictv%C3%AD
       
- videa:
+videa:
   - 3g29tkI1_9Q
 ---
 
