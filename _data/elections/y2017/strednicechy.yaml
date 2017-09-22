@@ -1,5 +1,5 @@
 -
-  img: ivan-bartos-2.jpg
+  img: ivan-bartos.png
   name: PhDr. Ivan Bartoš, Ph.D. (38), systémový architekt, hudebník, Praha
   description: >
     <p>Lídr Pirátů pro volby do Poslanecké sněmovny v roce 2017 je členem České pirátské strany od jejího vzniku. Pochází z Jablonce nad Nisou, od roku 1999 žije v Praze. Maturoval ve Spojených státech amerických a následně i na gymnáziu U Balvanu v Jablonci nad Nisou. Poté vystudoval Ústav informačních studií a knihovnictví na Filozofické fakultě Univerzity Karlovy v Praz, kde v roce 2005 získal titul PhDr. v oboru informační věda, a dále pokračoval ve studiích jako interní doktorand se specializací na databázové modely, databázové systémy a informační služby internetu. Aktivně spolupracoval s knihovnami, zejména s Národní knihovnou a Státní technickou knihovnou v Praze, na projektech standardizace ve vyhledávání a sdílení informací. Paralelně se angažoval v neziskovém sektoru. Před ukončením studia působil po dobu jednoho semestru na Computer Science Faculty na University of New Orleans.</p>
@@ -8,7 +8,7 @@
 
     <p>Českou pirátskou stranu chápe jako jedinou skutečně demokratickou politickou platformu, která se pokouší reflektovat realitu třetího tisíciletí： „Technologie, které máme nyní k dispozici, nám mohou úžasně pomáhat a ve finále všem lidem ulehčit život. Nesmí se ovšem stát nástrojem digitální totality“. Nejdůležitějšími hodnotami jsou pro něj svoboda a vzájemná tolerance.</p>
 -
-  img: lenka-kozlova.jpg
+  img: lenka-kozlova.png
   name: Lenka Kozlová (56), pedagog, Milín
   description: >
     <p>Členka Republikového výboru České pirátské strany prošla několika zaměstnáními, z nichž nejdůležitější pro ni bylo pětileté působení ve funkci samostatného provozního technika v Pražském dopravním podniku, na metru. Zde získala nejcennější zkušenosti - osvojila si spoustu technických znalostí a zároveň se naučila pracovat s podřízenými a vést kolektiv. Po ukončení rodičovské dovolené a přestěhování se z Prahy do Příbrami byla nucena zcela změnit obor činnosti. Doplnila si vzdělání a poté pracovala 13 let jako vychovatelka v dětském domově. Tuto profesi zastává dodnes a práce ji stále baví.</p>
@@ -96,82 +96,113 @@
   name: Miroslav Kozák (64), důchodce, OSVČ, trenér, Praha
   description: V roce 1977 vystudoval Vysokou školu ekonomickou a poté našel uplatnění v mezinárodním obchodě. V roce 1987 nastoupil do podniku TESSEK (dle vlastních slov se jednalo o zárodek kapitalismu na území ČSSR), kde pracoval čtyři roky. Od roku 1991 působil v soukromém sektoru - pro zahraniční vlastníky zakládal a vedl české pobočky jejich podniků, a během svého pracovního života získal zkušenosti i v logistice. Od letošního roku je v důchodu, ovšem stále obchodně aktivní.  Ve volném čase hraje badminton a v tomto sportu zároveň trénuje mládež, avšak tím nejdůležitejším pro něj jsou jeho dvě malé děti. Miroslav Kozák je jedním ze zakládajících členů strany 5 % pro vzdělání.
 -
-  img: 
-  name: Jan Jurik (32), elektrikář, Kladno
-  description: 
+  img: jan-jurik.jpg
+  name: Jan Jurik (32), elektrikář, provozovatel e-shopů, Kladno
+  description: >
+    <p>Po maturitě na 1. KŠPA v Kladně odcestoval na zkušenou do Plymouth ve Velké Británii. Zde získal pracovní zkušenosti v oboru elektrikář a instalatér, a zároveň na Plymouth University složil mezinárodní zkoušky z anglického jazyka střední úrovně. Po návratu do ČR pak našel uplatnění u ČSA, odkud po třech letech odešel do ČEZ na pozici elektrikáře a dodnes zde pracuje. Kromě toho v roce 2012 pod značkou Sexaten založil firmu na výrobu a prodej lůžkovin a módního oblečení ze saténu. Během pěti let založil dva prosperující internetové obchody a nyní připravuje spuštění třetího.</p>
+    <p>Jelikož miluje hudbu a zvuky obecně, ve volném čase působí jako DJ. Relaxuje v divoké přírodě.</p>
+    <p>Jelikož není spokojen se současnou politickou situací v ČR, rozhodl se aktivně pomáhat Pirátům, a následně se stal členem strany. Inicioval založení místního sdružení v Kladně, jehož předsedou byl následně zvolen.</p>
 -
   img: jan-licka.jpg
-  name: Ing. Jan Lička (36), projektový manažer, konzultant logistiky
-  description: 
+  name: Ing. Jan Lička (36), projektový manažer, konzultant logistiky, Struhařov u Benešova
+  description: V České pirátské straně spolupracuje na programové sekci Dopravy, se specializací na automobilovou dopravu a nové technologie. Pochází z Frýdku, většinu života však prožil v Kralupech nad Vltavou, a od roku 2015 hospodaří na statku u Benešova. Po maturitě na fracouzském lyceu Jana Nerudy v Praze vystudoval Vysokou školu ekonomickou, obor Mezinárodní obchod - logistika. Inženýrský titul obdržel za studii optimalizace lidských zdrojů ve vnitropodnikové logistice, ktereou vypracoval na základě stáže v Jaguar Cars Birmingham ve Velké Británii. Pracovní zkušenosti získal v několika nadnárodních společnostech a dnes pracuje jako externí konzultant v automobilovém průmyslu. Ve volném čase rekonstruuje statek, věnuje se zvěři a historickým řemeslům, a především své rodině. 
 -
   img: jakub-vaclavovic.jpg
-  name: Jakub Václavovič (22), volnočasový pedagog, žonglér
-  description: 
+  name: Jakub Václavovič (22), volnočasový pedagog, žonglér, Plzeň
+  description: >
+    <p>První místopředseda místního sdružení Kladno je původem z Plzně.  Po maturitě v oboru Veřejnosprávní činnost pracoval v USA a v Německu. Jakožto dlouholetý skaut, táborový vedoucí a spoluzakladatel skautských příměstských táborů v Plzni miluje práci s dětmi, proto absolvoval mnohé vzdělávací kurzy a následně absolvoval studijní program Vychovatelství, což se promítlo i do jeho pracovní kariéry. Dnes je zaměstnán jako vychovatel a volnočasový pedagog na základní škole, jejíž koncept je inspirovaný svobodnými školami v zahraničí.</p>
+    <p>Občas překlá texty z nebo do angličtiny. Žonglování, nový cirkus a busking je další oblast, které se profesionálně věnuje - jako fire performer má za sebou mnoho individuálních i skupinových vystoupení. Rád cestuje, vzdělává se a jezdí na koloběžce.</p>  
+    <p>Do České pirátské strany vstoupil, protože na současné politické scéně nevidí alternativu, která hájí pro něj důležité hodnoty jako svobodnou volbu, prevenci korupce, či komunikaci státních úřadů s občany na bázi technologií 21. století.</p>
+-
+  img: vojtech-ertl.jpg
+  name: Ing. arch. Vojtěch Ertl (30), architekt, Kolín
+  description: Člen České pirátské strany pochází z Kladna, kde dodnes žije. Po maturitě na církevním gymnáziu v Kutné Hoře vystudoval obor Architektura a urbanismus na Fakultě architektury ČVUT v Praze, kde v současné době působí jako odborný asistent a doktorand. Je spoluzakladatelem neformálního sdružení architektů KOarch.cz v Kolíně, které pořádá kulturní akce a reflektuje rozvoj města. Mottem platformy je "přemítání o obrazu města Kolín". Vojtěch Ertl též čtvrtým rokem spolupořádá v Kolíně apolitický festival Den architektury. Od roku 2014 působí v komisi rady města Kolína pro výstavbu a rozvoj města. Pro město Kolín připravoval odbornou část výběrového řízení na nového městského architekta v Kolíně. Pracuje jako architekt a včelař.
+-
+  img: pavel-mladek.jpg
+  name: Pavel Mládek, DiS (26), zdravotnický záchranář, Křeč 
+  description: >
+    <p>Po maturitě na střední zdravotnické škole v Táboře vystudoval obor Zdravotnický záchranář na vyšší odborné škole v Praze. Posléze nastoupil k záchranné službě Asociace Samaritánů ČR a dodnes zde jako zdravotnický záchranář pracuje. Zároveň pracuje na zkrácený úvazek na oddělení ARO v nemocnici Kladno.</p>
+    <p> Pochází z malé vísky na Vysočině, ale již 4. rokem žije se svojí rodinou na Kladně, kde ve volném čase zahradničí na své střešní zahrádce, provozuje geocaching, nebo se jen tak prochází přírodou se svojí rodinou a psem. Mezi jeho koníčky dále patří horolezectví a cestování s rodinou vyřazenou sanitkou, kterou přestavuje na obytný automobil.</p>
+    <p> K aktivní politice jej přivedl jeho tchán, který v současnosti působí jako Pirátský zastupitel na Městském úřadě v Soběslavi. Pavel Mládek je od počátku vzniku členem místního sdružení v Kladně. Do Poslanecké sněmovny kandiduje zejména proto, aby své dceři do budoucna zajistil alespoň stejnou míru svobody, v jaké vyrůstala jeho generace.</p>
 -
   img: 
-  name: Ing. arch. Vojtěch Ertl (30), architekt
-  description: 
--
-  img: 
-  name: Pavel Mládek, DiS (26), zdravotnický záchranář 
-  description: 
--
-  img: 
-  name: Tomáš Krejčí (28), IT databáze, konzultant
-  description: 
+  name: Tomáš Krejčí (28), IT databáze, konzultant, Kladno
+  description: >
+    <p>Je členem Pirátské strany. Pochází z Kladna, ale v současné době žije v Praze. Vystudoval osmileté gymnázium v Kladně a následně pokračoval ve studiu IT nejprve na Karlově univerzitě a pak na Univerzitě J. E. Purkyně v Ústí nad Labem. V průběhu studia se mimo jiné podílel na projektu implementace RFID čipů do knihoven a jiných institucí.</p> 
+    <p>Již za studií pracoval ve firmě zabývající se inventarizací zboží, kde se dostal na pozici vedoucího úseku. Následně nastoupil jako zástupce vedoucího prodejny supermarketu. V současnosti pracuje ve svém oboru, konkrétně jako databázový programátor a IT konzultant v menší softwarové firmě.</p>
+    <p>Mezi jeho zájmy patří geocaching, taneční hudba, cestování, cyklistika a míčové sporty.</p>
 -
   img: michal-limberk.jpg
-  name: Michal Limberk (35), OSVČ, otec v domácnosti
-  description: 
+  name: Michal Limberk (35), OSVČ, Děčín
+  description: >
+    <p>Je původem z Děčína, kde v současnosti žije. Vystudoval obchodní akademii a pracovní kariéru začal v Komerční bance. Poté nastoupil do firmy zabývající se vývojem webových aplikací a open source softwarem, zastával funkci šéfredaktora linuxového portálu openSUSE a technické podpory pro openSUSE. Technické znalosti i manažerské zkušenosti následně zúročil jako ředitel společnosti zaměstnávající lidi se zdravotním znevýhodněním. V tomto zaměstnání se mimo jiné podílel na tvorbě unikátního projektu, kde zdravotně znevýhodnění malují miniatury wargamingových figurek pro zahraniční klienty. Od března 2017 podniká jako vývojář webových stránek.</p>
+    <p>Je ženatý, má tři syny. Aktivně se věnuje futsalu, zajímá se o cyberpunk, roboty a Anime.</p> 
+    <p>Členem Pirátů je od října 2012. Dává přednost prosazování myšlenek Pirátské strany kreativní činností (workshopy, pořádání akcí pro veřejnost, debaty,...).</p>
+-
+  img: robert-sip.jpg 
+  name: Robert Šíp (29), kuchař, prodavač, Žatec
+  description: Člen České pirátské strany žije v Kladně. Vyučil se na střední odborné škole v oboru kuchař - číšník a poté nastoupil jako prodavač do hypermarketu Tesco. V současné době pracuje v McDonald's. Ve volném čase rád jezdí na kole, prochází se přírodou, či poslouchá hudbu. Miluje zvířata a nedávno si osvojil psa. Do Poslanecké sněmovny kandiduje proto, že se chce prosadit opatření snižující byrokratickou zátěž a efektivněji upravující sazby DPH. 
 -
   img: 
-  name: Robert Šíp (29), kuchař, prodavač
-  description: 
+  name: Petr Malínský (29), provozovatel klubu, promotér, Dolní Branná
+  description: >
+    <p>Člen České pirátské strany pochází z Tábora. Během studií na hotelové škole v Poděbradech získal mnoho kontaktů v oboru gastronomie, které následně využil v praxi - po škole pracoval v managementu prestižních hotelů. Před devíti lety otevřel undergroundový klub v Poděbradech, kde se snaží podporovat undergroundovou scénu a rozšiřovat kulturní obzory obyvatel Poděbrad. Během 9 let fungování klubu se zde vystřídalo velké množství zahraničních kapel, DJ, tuzemských divadel a performerů. Kromě toho se snaží rozšiřovat klientům povědomí o alternativních způsobech stravování.</p>
+    <p>Ve volném čase se zajímá o světové dění, baví ho sport, filmy a hudba. K Pirátům vstoupil zejména proto, aby podpořil procesy vedoucí k větší transparenstnosti fungování státního aparátu a efektivnějšímu využívání dostupných technologií tak, abychom zajistili občanům ČR důstojný a kvalitní život v 21. století.</p>
 -
-  img: 
-  name: Petr Malínský (29), provozovatel klubu, promotér
-  description: 
--
-  img: 
+  img: tomas-felix.jpg
   name: Tomáš Felix (28), saunový mistr
-  description: 
+  description: Pirát Tomáš Felix je saunovým mistrem a kromě toho se angažuje jako člen ekologické komise v Kralupech nad Vltavou. Ve volném čase moderuje společenské akce, hraje ochotnicky divadlo a můžete jej zahlédnout i v menších rolích v některých filmech. Kromě toho všeho má rád sportuje. Ze své pozice chce především podpořit čelní kandidáty.
 -
-  img: 
+  img: pavel-mendl.jpg
   name: Ing. Pavel Mendl (53), softwarový inženýr
-  description: 
+  description: >
+    <p>Absolvent oboru Technická kybernetika na ČVUT se živí programováním a výpočetní technikou, což je mu zároveň největším koníčkem. Od roku 2000 samostatně podniká jako programátor a konzultant, se specializací na telekomunikace a zabezpečení dat. V rámci České pirátské strany se proto angažuje zejména v oblasti přímé demokracie a systémů e-Government.</p>
+    <p>Mezi jeho další zájmy patří sporty (včetně adrenalinových) a hry. V mládí jej zaujala hlavní myšlenka knižní série Nadace od Isaaca Asimova a od té doby se ve volném čase věnuje hledání exaktních prognostických postupů. Tím největším koníčkem mu však jsou jeho tři děti.</p>
+    <p>Pavel Mendl je od založení České pirátské strany registrovaným příznivcem, členem se stal v roce 2013. Aktivně prosazuje rozvíjení přímé demokracie spolu s implementací jejích bezpečnostních standardů, a angažuje se i v oblasti týkající se vzdělávání a sociálně právní ochrany dětí.</p>
+-
+  img: pavel-kviz.jpg
+  name: Pavel Kvíz (30), barman, hudební producent, Sadská
+  description: >
+    <p>Člen Pirátů po absolvování SOU společného stravování v oboru kuchař a následného nástavbového studia na SOU Dr. Beneše v Poděbradech započal svoji pracovní kariéru v oboru gastronomie. Nyní pracuje jako barman v poděbradském undergroundovém Boss Baru.</p> 
+    <p>Mezi jeho záliby patří DJing, vlastní hudební produkce, zpracovávání grafických projektů spojených s hudební činností, pořádání hudebních akcí, kultura obecně a v neposlední řadě sledování politického dění doma i ve světě a aktivní účast v České pirátské straně.</p>
 -
   img: 
-  name: Pavel Kvíz (30), barman, hudební producent
-  description: 
+  name: Kateřina Valenčíková (37), rodičovská dovolená, Kladno
+  description: >
+    <p>Do Pirátské strany strany vstoupila letos, kdy se situace na domácí politické scéně ubrala pro ni neakceptovatelným směrem. Kandidaturou do Poslanecké sněmovny za Českou pirátskou stranu chce přispět k lepším životním podmínkám v naší zemi pro život.</p>
 -
-  img: 
-  name: Kateřina Valenčíková (37), rodičovská dovolená
-  description: 
--
-  img: 
-  name: Mgr. Jiřina Přikrylová (34), učitelka ZŠ
-  description: 
+  img: jirina-prikrylova.jpg
+  name: Mgr. Jiřina Přikrylová (34), učitelka ZŠ, Dolní Cerekev
+  description: >
+    <p>Pochází z Jihlavy, kde žila a studovala do roku 2002. Odtud šla za svým snem do Prahy - na Pedagogické fakultě Univerity Karlovy vystudovala obor učitelství pro 2. stupeň ZŠ a SŠ s aprobací biologie - rodinná výchova. Od roku 2008 učí na základní škole v Praze, převážně na prvním stupni.</p> 
+    <p>Téměř celý život ji provází skauting, jenž formoval i její životní hodnoty, jako pozitivní vztah k přírodě, sdílení a prožívání opravdových zážitků. Tento odkaz se nejen ve svém profesním životě snaží předávat dál, proto se s láskou věnuje pořádání letních táborů, realizaci dětských divadelních představení a školních pobytů i výletů do přírody. Mezi její další zájmy pak patří hudba, turistika a plavání.</p>
+    <p>S Piráty ji spojuje potřeba svobodného žití, snaha o zachování zdravého rozumu a týmová spolupráce.</p>
 -
   img: antonin-klejzar.jpg
-  name: Antonín Klejzar (27), specialista technické podpory
-  description: 
+  name: Antonín Klejzar (27), specialista technické podpory, Praha
+  description: V roce 2009 vystudoval SPŠE Františka Křižíka v Praze, kde získal všeobecný přehled o elektrotechnice. Od té doby prošel řadou zaměstnání, momentálně pracuje pro české zastoupení společnosti Legrand jako Specialista technické podpory.  Od mala ho zajímají počítače a IT obecně, mezi jeho další záliby patří hudba, automobilismus, PC hry a moderní technologie. Jako dítě hrál fotbal za obec Bášť, kde vyrůstal. 
+-
+  img: jana-vodrhankova.jpg
+  name: Ing. Jana Vodrhánková (54), zemědělec, provozovatelka první pomoci v krizi, Ondřejov
+  description: >
+    <p>Členka strany evropani.cz vystudovala obor Strojař - ekonom na ČVUT, aby se následně profesně věnovala zemědělství, realitám, financím a sociální problematice. Založila a vede o.p.s. PPK - PRVNÍ POMOC V KRIZI, kde pomáhá lidem v nouzi, snaží se je postavit na nohy.</p> 
+    <p>Mezi její zájmy patří sport a cestování s batohem na zádech, terénní auta, vzdělávání se, malování a rodina - 3 děti, 3 vnoučata, 2 psi, 1 kočka a manžel.</p>
+    <p>Do Poslanecké sněmovny kandiduje na společné kandidátce s Piráty proto, že jí vadí, co se u nás děje. Je přesvědčená, že když s tím nebudeme nic dělat, naše děti nebudou mít žádnou budoucnost.</p>
 -
   img: 
-  name: Ing. Jana Vodrhánková (54), zemědělec, provozovatelka první pomoci v krizi
-  description: 
+  name: Ing. Bc. Robert Koželský, LL.M, DBA (41), podnikatel ve stavebnictví a dopravě, lektor, Dolní Břežany
+  description: >
+    <p>Člen strany evropani.cz vystudoval právní specializace, hospodářskou politiku a správu v Praze. Titul LL.M. získal v oboru právo a titul DBA taktéž v oboru právo. Nyní má vlastní firmu, věnuje se podnikání a působí jako odborný lektor. Je svobodný, bezdětný.</p>
+    <p>Při studiích se aktivně věnoval sportu, provozoval veřejné tělovýchovné školy, získal kvalifikaci trenéra a rozhodčího v bojovém umění Karate. Dále též získal kvalifikaci trenéra kulturistiky a instruktora fitness. Několik let působil jako předseda revizní komise Pražského svazu karate. Ve volném čase  se zajímá o kulturu a sport. Své rozsáhlé zkušenosti by rád zúročil ve prospěch naší společnosti.</p>
 -
-  img: 
-  name: Ing. Bc. Robert Koželský, LL.M, DBA (41), podnikatel ve stavebnictví a dopravě, lektor
-  description: 
--
-  img: 
-  name: Petr Korecký (25), nástrojář
-  description: 
+  img: petr-korecky.jpg
+  name: Petr Korecký (25), nástrojář, Příbram
+  description: Nestraník.
 -
   img: martin-polak.jpg
-  name: Martin Polák (32), polygraf
-  description: 
+  name: Martin Polák (32), polygraf, Kolín
+  description: Dobrovolník Pirátů se narodil v Kolíně, kde stále žije, a pracuje v oblasti polygrafie. O Českou pirátskou stranu se zajímá už od jejího vzniku, a proto není divu, že již v roce 2010 kandidoval v komunálních volbách.  V současné době je jeho hlavní radostí čerstvě narozená dcera. 
 -
   img: 
-  name: Pavel Janeček (52), strážník městské policie hl. m. Prahy
-  description: 
+  name: Pavel Janeček (52), strážník městské policie hl. m. Prahy, Dobřichovice
+  description: Člen strany evropani.cz 

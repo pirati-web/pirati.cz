@@ -54,7 +54,7 @@
       {% if page.url != '/' %}
       <div class="top-bar-title">
         <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/img/brand/logo.png' | relative_url }}" alt="Pirátská strana">
+          <img src="{{ '/assets/img/brand/logo_napis.svg' | relative_url }}" alt="Pirátská strana">
         </a>
       </div>
       {% endif %}
@@ -88,7 +88,7 @@
               </li>
               {% if page.url == '/' %}
               <li>
-                <a href="{{'/volby' | relative_url}}">Volby</a>
+                <a href="{{'/volby/2017' | relative_url}}">Volby</a>
               </li>
               {% endif %}
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>

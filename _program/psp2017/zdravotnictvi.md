@@ -13,6 +13,9 @@ relatives:
     - title: Články o zdravotnictví na Pirátských listech
       alt: Články o zdravotnictví na Pirátských listech
       url: http://www.piratskelisty.cz/stitek/Zdravotnictv%C3%AD
+      
+videa:
+  - 3g29tkI1_9Q
 ---
 
 Pacient bude váženým klientem s reálnou možností informované a svobodné volby. Digitalizace změní zdravotnické bludiště na přívětivý systém. Zavedeme jasná a důsledně dodržovaná pravidla včetně ochrany zdravotních údajů. Rozhoduje zájem pacienta a ne farmaceutické společnosti

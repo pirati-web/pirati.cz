@@ -10,6 +10,9 @@ relatives:
     - title: Víc peněz do vzdělání a méně papíru
       alt: Podrobné vysvětlení programu v oblasti školství
       url: http://www.piratskelisty.cz/clanek-1709-vic-penez-do-vzdelani-a-mene-papiru
+      
+videa:
+  - mA_Ht1Wl-CE
 ---
 
 Vzdělání je hodnota sama o sobě, jeho cíl nelze zužovat jen na uplatnění na trhu

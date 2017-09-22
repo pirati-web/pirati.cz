@@ -10,6 +10,8 @@ relatives:
     - title: Chceme EU blíž občanům a férovější přístup k rozvojovým zemím
       alt: Podrobné vysvětlení programu v oblasti mezinárodních vztahů
       url: http://www.piratskelisty.cz/clanek-1710-chceme-eu-bliz-obcanum-a-ferovejsi-pristup-k-rozvojovym-zemim
+videa:
+  - Lkg8jIKITsw
 ---
 
 Naše základní zahraniční politika je orientována směrem na vyspělé evropské
