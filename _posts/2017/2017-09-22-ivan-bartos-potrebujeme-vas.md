@@ -20,5 +20,5 @@ Prosíme, pomozte nám a dejte lidem okolo sebe vědět, že volíte Piráty! Pr
 
 Jsme jediná strana nespojená se skandály, korupcí a byrokracií. Pomozte zvolit do parlamentu lidi, kteří budou hájit svobodu, změní státní správu pomocí digitalizace a budou zastupovat vás.
 
-Pusťte nás na ně - porveme se za vás!
+**Pusťte nás na ně – porveme se za vás!**
 
