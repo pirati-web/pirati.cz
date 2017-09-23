@@ -40,7 +40,6 @@ Konvertor: http://www.csvjson.com/csv2json
     </ul>
 
     <h2>Freeride <small>koncerty s Ivanem Bartošem</small></h2>
- <p><a href="https://www.facebook.com/groups/PirateFreeRide2017">Sledujte Pirátskou Free Ride na Facebooku!</a></p>
     <ul>
       {% for event in site.data.freeride %}
       <li data-day="{{event.den}}">{{event.datum | date:"%d. %m."}}:
@@ -53,6 +52,7 @@ Konvertor: http://www.csvjson.com/csv2json
   <div class="large-6 columns">
     <img src="{{'assets/img/plavba/bus_1.png' | relative_url}}" alt="autobus" style="margin-bottom: 17px;">
     <p>Pro aktuální polohu volejte přímo do autobusu na 770 113 644. </p>
+    <p><a href="https://www.facebook.com/groups/PiratskyBus">Sledujte Pirátskou jízdu na Facebooku!</a></p>
     <ul id="roadtrip">
     {% for event in site.data.roadtrip %}
       <li data-day="{{event.Den}}">{{event.den | date:"%d. %m."}}:
