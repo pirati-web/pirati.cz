@@ -41,6 +41,13 @@
 <div class="c-top-bar">
   <div class="row">
     <div class="c-top-bar-inner u-cf">
+      {% if page.url != '/' %}
+      <div class="top-bar-title">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/img/brand/logo_napis.svg' | relative_url }}" alt="Pirátská strana">
+        </a>
+      </div>
+      {% endif %}
       <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
         <li>
           <input type="search" id="search" placeholder="Hledaný výraz">
@@ -51,13 +58,6 @@
           </button>
         </li>
       </ul>
-      {% if page.url != '/' %}
-      <div class="top-bar-title">
-        <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/img/brand/logo_napis.svg' | relative_url }}" alt="Pirátská strana">
-        </a>
-      </div>
-      {% endif %}
       <div class="menu-toggle-container hide-for-large">
         <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
           <button class="" type="button" data-toggle="">
