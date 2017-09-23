@@ -16,7 +16,7 @@ Prosíme, pomozte nám a dejte lidem okolo sebe vědět, že volíte Piráty! Pr
 
 * Potvrdíte účast na [Volíme Piráty 15 do sněmovny!](https://www.facebook.com/events/274271136398027)
 * Pozvete na událost a k volbám své přátele. Vybavíte svou profilovou fotku [pirátským proužkem](www.facebook.com/profilepicframes) a napíšete k ní důvody, proč volíte Piráty.
-* Koupíte propagační [dámský](bit.ly/DámskýPirátskýBalíček), nebo [pánský](bit.ly/PánskýPirátskýBalíček) pirátský balíček (obsahující tričko, noviny a placku). Noviny odneste tam, kam se naši dobrovolníci nedostanou. V tričku choďte do práce, na trénink a do hospod.
+* Koupíte propagační [dámský](https://bit.ly/DámskýPirátskýBalíček), nebo [pánský](https://bit.ly/PánskýPirátskýBalíček) pirátský balíček (obsahující tričko, noviny a placku). Noviny odneste tam, kam se naši dobrovolníci nedostanou. V tričku choďte do práce, na trénink a do hospod.
 
 Jsme jediná strana nespojená se skandály, korupcí a byrokracií. Pomozte zvolit do parlamentu lidi, kteří budou hájit svobodu, změní státní správu pomocí digitalizace a budou zastupovat vás.
 
