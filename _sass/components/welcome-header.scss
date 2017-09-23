@@ -172,3 +172,9 @@
   }
 
 }
+
+@include breakpoint(mobile down) {
+  .c-banner .c-card-image-wrapper .c-card__image {
+    min-height: auto;
+  }
+}
