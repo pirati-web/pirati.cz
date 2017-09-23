@@ -424,6 +424,9 @@
     float: left;
     width: auto;
     padding: 0;
+    @include breakpoint(medium down) {
+      max-width: 55%;
+    }
   }
 
   @include breakpoint(large) {
@@ -474,10 +477,10 @@
     }
 
     .c-top-bar-searchbar .c-top-bar-searchbar__submit {
-      width: 40px;
+      width: auto;
 
       button {
-        padding: 0em 1em;
+        padding: 0em 0.8em;
         font-size: 1.1rem;
         margin-right: 0;
       }
