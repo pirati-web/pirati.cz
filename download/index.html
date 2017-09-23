@@ -1,0 +1,95 @@
+---
+layout: page
+title: Ke stažení
+rbar: people
+filexts1:
+  - png
+  - svg
+  - pdf
+  - ai
+---
+
+<div class="row">
+
+<div class="columns large-6">
+  <div class="media-object">
+    <div class="media-object-section">
+      <div class="thumbnail">
+        <img src="{{'/assets/img/brand/logo.svg' | relative_url}}" alt="Logo Piráti" style="width: 80px;"/>
+      </div>
+    </div>
+    <div class="media-object-section">
+      <h3>Logo</h3>
+      <p>Klasické: {% for e in page.filexts1 %}
+      <a href="{{e | prepend: '/assets/img/brand/logo.' | relative_url}}">{{e}}</a>, {% endfor %}
+      bílé (iverzní):
+      {% for e in page.filexts1 %}
+      <a href="{{e | prepend: '/assets/img/brand/logo_white.' | relative_url}}">{{e}}</a>, {% endfor %}</p>
+    </div>
+  </div>
+</div>
+
+<div class="columns large-6">
+  <div class="media-object">
+    <div class="media-object-section">
+      <div class="thumbnail">
+        <img src="{{'/assets/img/brand/logo_napis.svg' | relative_url}}" alt="Logo Piráti s textem bílé" style="width: 80px;"/>
+      </div>
+    </div>
+    <div class="media-object-section">
+      <h3>Logo s textem</h3>
+      <p>
+        Klasické: {% for e in page.filexts1 %}
+        <a href="{{e | prepend: '/assets/img/brand/logo_napis.' | relative_url}}">{{e}}</a>, {% endfor %}
+        bílé (inverzní): {% for e in page.filexts1 %}
+        <a href="{{e | prepend: '/assets/img/brand/logo_napis_white.' | relative_url}}">{{e}}</a>, {% endfor %}
+      </p>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="columns large-6">
+  <div class="media-object">
+    <div class="media-object-section">
+      <div class="thumbnail">
+        <img src="{{'/assets/pdf/A4-plakat.png' | relative_url}}" alt="Logo Piráti" style="width: 80px;"/>
+      </div>
+    </div>
+    <div class="media-object-section">
+      <h3>Plakát barevný</h3>
+      <p>
+        A4:
+        <a alt="Plakát A4 barevný" href="{{'/assets/pdf/A4-plakat.pdf' | relative_url}}">pdf</a>,
+        <a alt="Plakát A4 barevný" href="{{'/assets/pdf/A4-plakat.png' | relative_url}}">png</a>
+        <br />
+        A3: <a alt="Plakát A3 barevný" href="{{'/assets/pdf/A3-plakat.pdf' | relative_url}}">pdf</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="columns large-6">
+  <div class="media-object">
+    <div class="media-object-section">
+      <div class="thumbnail">
+        <img src="{{'/assets/pdf/A4-plakat-cb.png' | relative_url}}" alt="Logo Piráti s textem bílé" style="width: 80px;"/>
+      </div>
+    </div>
+    <div class="media-object-section">
+      <h3>Plakát černobílý</h3>
+      <p>
+        A4:
+        <a alt="Plakát A4 černobílý" href="{{'/assets/pdf/A4-plakat-cb.pdf' | relative_url}}">pdf</a>,
+        <a alt="Plakát A4 černobílý" href="{{'/assets/pdf/A4-plakat-cb.png' | relative_url}}">png</a>
+        <br />
+        A3: <a alt="Plakát A3 černobílý" href="{{'/assets/pdf/A3-plakat-cb.pdf' | relative_url}}">pdf</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+</div>
