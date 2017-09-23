@@ -1,9 +1,22 @@
 <head>
+    {% capture title %}{% if page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+    {% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>{{title}}</title>
+    <meta name="description" content="{{description}}">
+    <meta name="keywords" content="piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století" />
+    <meta name="author" content="Česká pirátská strana" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title"         content="{{title}}" />
+    <meta property="og:description"   content="{{description }}" />
+    {% if page.layout == 'post' %}
+    <meta property="og:image"         content="{{page.image | absolute_url }}" />
+    {% endif %}{% if page.img %}
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
+    {% endif %}
+    {% feed_meta %}
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
@@ -27,21 +40,6 @@
     <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.' | relative_url }}">
     <meta property="og:type"          content="website" />
     <meta property="og:url"           content="{{page.url | absolute_url }}" />
-    {% if page.ogtitle %}
-    <meta property="og:title"         content="{{page.ogtitle}}" />
-    {% else %}
-    <meta property="og:title"         content="Piráti: >{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-    {% endif %}
-    {% if page.description %}
-    <meta property="og:description"   content="{{page.description }}" />
-    {% elsif  page.layout == 'post' or page.layout == 'page' %}
-    <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
-    {% endif %}{% if page.layout == 'post' %}
-    <meta property="og:image"         content="{{page.image | absolute_url }}" />
-    {% endif %}{% if page.img %}
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
-    {% endif %}
-    {% feed_meta %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
