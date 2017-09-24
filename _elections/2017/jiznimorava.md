@@ -1,7 +1,7 @@
 ---
 uid: jiznimorava
-name: Kandidátka Jihomoravského kraje
-fullname: Kandidátka do PS Parlamentu ČR Jihomoravský kraj 2017
+title: Kandidátka Jihomoravského kraje
+description: Kandidátka do PS Parlamentu ČR Jihomoravský kraj 2017
 img: teams/jiznimorava.jpg
 region: kraj
 categories:

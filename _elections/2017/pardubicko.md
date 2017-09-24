@@ -1,12 +1,12 @@
 ---
 uid: pardubicko
 cid: pardubice
-name: Kandidátka Pardubický kraj
-fullname: Kandidátka do PS Parlamentu ČR Pardubický kraj 2017
+title: Kandidátka Pardubický kraj
+description: Kandidátka do PS Parlamentu ČR Pardubický kraj 2017
 img: teams/pardubice.jpg
 region: Pardubický kraj
 categories:
 - kandidatky
 tags:
-- pardubický-kraj, volby
+- pardubický-kraj, volby, lídr, mikuláš ferjenčík
 ---

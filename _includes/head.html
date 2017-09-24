@@ -1,14 +1,15 @@
 <head>
     {% capture title %}{% if page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
     {% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
+    {% capture keywords %}{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{title}}</title>
-    <meta name="description" content="{{description}}">
-    <meta name="keywords" content="piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století" />
     <meta name="author" content="Česká pirátská strana" />
     <meta name="robots" content="index,follow" />
+    <meta name="description" content="{{description}}">
+    <meta name="keywords" content="{{keywords}}" />
     <meta property="og:title"         content="{{title}}" />
     <meta property="og:description"   content="{{description }}" />
     {% if page.layout == 'post' %}

@@ -1,8 +1,8 @@
 ---
 uid: liberecko
 cid: liberec
-name: Kandidátka Liberecký kraj
-fullname: Kandidátka do PS Parlamentu ČR Liberecký kraj 2017
+title: Kandidátka Liberecký kraj
+description: Kandidátka do PS Parlamentu ČR Liberecký kraj 2017
 img: teams/liberec.jpg
 region: Liberecký kraj
 categories:
