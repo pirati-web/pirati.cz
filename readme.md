@@ -6,16 +6,19 @@
 
 Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
 
-Instalace ubuntu 16.04:
+Instalace ubuntu 16.04 (funguje též pro ubuntu podsystém ve Windows 10):
 
 ```
-sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev
+sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev npm
 gem install rubygems-update
 gem install jekyll bundler
-bundle
+sudo npm install -g bower
+sudo npm install --global gulp-cli
 ```
 
 **Společné**
+
+Přejděte do složky s vyklonovaným projektem:
 
 ```
 npm install
