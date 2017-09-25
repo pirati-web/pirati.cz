@@ -111,7 +111,7 @@ Stránku je dobré otestovat ve [FB debbuger](https://developers.facebook.com/to
 Zatím jsme prošli základy. Ale většinou není více potřeba. Pro opravdové změny je třeba ještě znát:
 
 - HTML, CSS, JS
-- git
+- git (pull, push, commit, merge)
 - jekyll (liquid template)
 
 ### HTML
