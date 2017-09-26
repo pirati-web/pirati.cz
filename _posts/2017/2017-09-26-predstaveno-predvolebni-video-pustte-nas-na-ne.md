@@ -10,9 +10,11 @@ tags: kampan
  
 Praha, 26. září 2017 – Odezva voličů na vězeňský autobus inspirovala Piráty k natočení další hudební pecky. Předseda Pirátů Ivan Bartoš v předvolebním videu zpívá voličům, proč jsou Piráti ve Sněmovně potřeba.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=5f0-nQLHHM4">
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/5f0-nQLHHM4">
 </iframe>
+
 
 > „Beztrestně zašantročili, bezúplatně převedli, pak se ještě rozčílili, že je lidi podvedli. V ráji zdi se otvírají, ven vychází gorila, aby pravdu upravila a tu tvoji zabila. My nejsme saně, my nejsme saně, my nejsme saně, tak pusťte nás na ně,“ zpívá předseda Pirátů Bartoš s ostatními lídry a kandidáty v písni. 
 
