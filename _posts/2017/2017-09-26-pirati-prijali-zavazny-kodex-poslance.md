@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Piráti přijali závazný kodex pirátského poslance"
-date: 2017-09-26T17:36:00+02:00
+date: 2017-09-26T07:36:00+02:00
 author: Jakub Michálek
 image: /assets/img/articles/2017/snemovna-prazdna.jpg
 tags: snemovna
