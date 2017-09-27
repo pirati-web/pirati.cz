@@ -19,9 +19,9 @@ relatives:
     - title: Robotizace
       alt: Robotizace
       url: https://www.pirati.cz/program/temata/robotizace/  
-      
 videa:
   - haVUq0Fx2NY
+keywords: finance, ministerstvo financí, daně, zdanění, robotizace, omezíme daňové ráje, omezíme eet
 ---
 
 Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.
