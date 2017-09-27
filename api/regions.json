@@ -1,4 +1,6 @@
 ---
+ownweb:
+  praha: https://praha.pirati.cz
 ---
 {% comment %}
 Praha musí být první, kvůli vykreslování
@@ -19,7 +21,7 @@ Praha musí být první, kvůli vykreslování
         "category" : "{{ praha[0].categories | join: ' ' }}",
         "img"      : "{{ praha[0].img | prepend: 'assets/img/' | relative_url }}",
         "content"	 : "{{ praha[0].content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-        "url"      : "{{ praha[0].url | relative_url}}",
+        "url"      : {% if page.ownweb[id]%}"{{page.ownweb[id]}}"{% else %}"{{ praha[0].url | relative_url}}"{% endif %},
         "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
         "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
       },
