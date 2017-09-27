@@ -1,6 +1,7 @@
 ---
 ---
 [
+  { "label": "Download", "value": "{{'download' | relative_url}}"},
   { "label": "Stanovy Pirátské strany", "value": "{{'o-nas/stanovy.html' | relative_url}}"},
   { "label": "Registr smluv Pirátské strany", "value": "http://smlouvy.pirati.cz"},
   { "label": "Úkolovník", "value": "http://redmine.pirati.cz"},
@@ -13,8 +14,11 @@
   { "label": "Události", "value": "{{'pripoj-se/kalendar' | relative_url }}"},
   { "label": "Transparentní účet", "value": "https://www.fio.cz/ib2/transparent?a=2100048174"},
   { "label": "Otevřené účetnictví", "value": "https://wiki.pirati.cz/fo/otevrene_ucetnictvi"},
-  { "label": "Pirátské listy", "value": "https://piratskelisty.cz"},
-  { "label": "Noviny", "value": "https://piratskelisty.cz"},
+  { "label": "Pirátské listy", "value": "http://piratskelisty.cz"},
+  { "label": "Noviny", "value": "http://piratskelisty.cz"},
+  { "label": "Listy ke stažení (PDF)", "value": "{{'download' | relative_url}}"},
+  { "label": "Plakáty ke stažení (PDF)", "value": "{{'download' | relative_url}}"},
+  { "label": "Logo ke stažení (PDF)", "value": "{{'download' | relative_url}}"},
   { "label": "Dlouhodobý program Pirátské strany",
     "value": "{{'program/strana.html' | relative_url }}"},
   { "label": "Připoj se", "value": "{{'pripoj-se' | relative_url }}"},
@@ -23,16 +27,16 @@
   { "label": "Newsletter", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Novinky na e-mail", "value": "{{'pripoj-se' | relative_url }}"},
   { "label": "Kandidátky", "value": "{{'volby/2017/' | relative_url }}"},
-  { "label": "Kandidátní listiny", "value": "{{'volby/2017/' | relative_url }}"},
   { "label": "Volby 2017", "value": "{{'volby/2017/' | relative_url }}"},
   { "label": "Volby do Poslanecké sněmovny",
     "value": "{{'volby/2017/' | relative_url }}"},
+  {% for page in site.pages %}
+    { "label": "{{ page.title }}", "value": "{{ page.url | relative_url }}"},
+  {% endfor %}
   {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
   {% for item in myteams %}
   {% if site.data.elections.y2017[item.uid] %}
     { "label": "{{item.name}}",
-      "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
-    { "label": "Kandidátní listina {{item.name}}",
       "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
     { "label": "Kandidátka {{item.name}}",
       "value": "{{item.uid | prepend: 'volby/2017/' | relative_url}}" },
@@ -42,9 +46,6 @@
     { "label": "{{ post.title }}", "value": "{{ post.url | relative_url }}"},
   {% endfor %}
   {% for person in site.people %}
-    { "label": "{{ person.name }}", "value": "{{ person.url | relative_url }}"},
-  {% endfor %}
-  {% for page in site.pages %}
-    { "label": "{{ page.title }}", "value": "{{ page.url | relative_url }}"}{% unless forloop.last %},{% endunless %}
+    { "label": "{{ person.name }}", "value": "{{ person.url | relative_url }}"}{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
