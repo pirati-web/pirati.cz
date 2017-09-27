@@ -16,6 +16,9 @@ relatives:
     - title: Euro
       alt: Euro
       url: https://www.pirati.cz/program/temata/euro/
+    - title: Robotizace
+      alt: Robotizace
+      url: https://www.pirati.cz/program/temata/robotizace/  
       
 videa:
   - haVUq0Fx2NY
