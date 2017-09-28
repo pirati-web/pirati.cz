@@ -32,7 +32,7 @@ Další informace můžete nalézt na [starém webu](https://wiki.pirati.cz/regi
 Možnosti zapojení:
 
   * Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také většinou schází místní sdružení. Veškeré akce kde nás potkat najdete níže v kalendáři. Přijďte, seznamte se, [zapojte se]({{ '/pripoj-se/' | relative_url }})!
-  * Napište si o kampaňový balíček; samolepky, noviny k rozdávání, plakáty k vylepení... Kdo má zájem, pište, pište co a kolik (šetříme pokladnu i lesy) na olomoucko@pirati.cz.
+  * Napište si o kampaňový balíček; samolepky, noviny k rozdávání, plakáty k vylepení... Kdo má zájem, pište, pište co a kolik (šetříme pokladnu i lesy) na [olomoucko@pirati.cz](mailto:olomoucko@pirati.cz).
   * Podpořte nás vyvěšením baneru na svém plotě, balkoně či bráně. Napište si o něj na [objekty.jdem.cz](http://objekty.jdem.cz).
   * Podpořte nás [darem se SS 190300](https://dary.pirati.cz/).
 
