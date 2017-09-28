@@ -2,6 +2,7 @@
 ownweb:
   praha: https://praha.pirati.cz
   jiznimorava: https://jihomoravsky.pirati.cz
+  jiznicechy: https://jihocesky.pirati.cz
 ---
 {% comment %}
 Praha musí být první, kvůli vykreslování
