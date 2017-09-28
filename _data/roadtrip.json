@@ -55,15 +55,45 @@
   },
   {
     "den": "2017-10-02",
-    "kdy": "",
-    "co": "Olomoucký kraj",
+    "kdy": "11:30",
+    "co": "Litovel",
+    "url": ""
+  },
+  {
+    "den": "2017-10-02",
+    "kdy": "13:00",
+    "co": "Mohelnice",
+    "url": ""
+  },
+  {
+    "den": "2017-10-02",
+    "kdy": "14:30",
+    "co": "Uničov",
+    "url": ""
+  },
+  {
+    "den": "2017-10-02",
+    "kdy": "16:00",
+    "co": "Šternberk",
+    "url": ""
+  },
+  {
+    "den": "2017-10-02",
+    "kdy": "18:00",
+    "co": "Olomouc, U letadla",
     "url": ""
   },
   {
     "den": "2017-10-03",
     "kdy": "",
-    "co": "Olomoucký kraj",
+    "co": "Olomouc",
     "url": ""
+  },
+  {
+    "den": "2017-10-03",
+    "kdy": "13:30",
+    "co": "Prostějov",
+    "url": "https://www.facebook.com/events/872486026247062/"
   },
   {
     "den": "2017-10-04",
