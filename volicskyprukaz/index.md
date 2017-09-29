@@ -29,9 +29,9 @@ Pokud si to chcete ještě více zjednodušit, [Piráti pomáhají studentům za
 | Praha | 2. října        | 14:00 - 18:00  | ČVUT           |
 | Praha | 3. října        | 15:00 - 19:00  | Koleje Jižní město     |
 | Brno  | 3. října        | 10:00 - 18:00  | Café Atlas     |
-| Olomouc | 4. října      | 12:00 - 15:00  | Menza 17. Listopadu      |
+| Olomouc | 4. října      | 12:00 - 15:00  | [Menza 17. Listopadu](https://www.facebook.com/events/119840278733427/)      |
 | Praha | 4. října        | 15:00 - 19:00  | Koleje 17. Listopadu (Troja)      |
-| Olomouc | 5. října      | 9:00 - 12:00   | Menza 17. Listopadu      |
+| Olomouc | 5. října      | 9:00 - 12:00   | [Menza 17. Listopadu](https://www.facebook.com/events/119840278733427/)      |
 | Praha | 5. října        | 14:00 - 18:00  | VŠE   |
 | Praha | 6. října        | 14:00 - 18:00  | Koleje Strahov |
 | Ostrava | 2.-5. října   | bude upřesněno | bude upřesněno |
