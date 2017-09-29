@@ -27,12 +27,11 @@ Pokud si to chcete ještě více zjednodušit, [Piráti pomáhají studentům za
 | Město | Datum           | Čas            | Místo          |
 |-------|-----------------|----------------|----------------|
 | Praha | 2. října        | 14:00 - 18:00  | ČVUT           |
-| Praha | 3. října        | 14:00 - 18:00  | VŠE            |  
-| Praha | 4. října        | 14:00 - 18:00  | Zemědělka      |
-| Praha | 5. října        | 14:00 - 18:00  | Koleje Troja   | 
+| Praha | 3. října        | 15:00 - 19:00  | Koleje Jižní město     |
+| Brno  | 3. října        | 10:00 - 18:00  | Café Atlas     |
+| Praha | 4. října        | 15:00 - 19:00  | Koleje 17. Listopadu (Troja)      |
+| Praha | 5. října        | 14:00 - 18:00  | VŠE   |
 | Praha | 6. října        | 14:00 - 18:00  | Koleje Strahov |
-| Praha | 7. října        | 9:00 - 17:00   | Koleje Jižní město| 
-| Brno  | 2.-5. října     | bude upřesněno | bude upřesněno |
 | Ostrava | 2.-5. října   | bude upřesněno | bude upřesněno |
 
 [prukazy]: https://www.pirati.cz/tiskove-zpravy/pirati-budou-vyrizovat-volicske-prukazy.html
