@@ -37,7 +37,7 @@ Praha musí být první, kvůli vykreslování
         "category" : "{{ region.categories | join: ' ' }}",
         "img"      : "{{ region.img | prepend: 'assets/img/' | relative_url }}",
         "content"	 : "{{ region.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-        "url"      : {% if page.ownweb[id]%}"{{page.ownweb[id]}}"{% else %}"{{ praha[0].url | relative_url}}"{% endif %},
+        "url"      : {% if page.ownweb[id]%}"{{page.ownweb[id]}}"{% else %}"{{ region.url | relative_url}}"{% endif %},
         "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
         "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
       }{% unless forloop.last %},{% endunless %}
