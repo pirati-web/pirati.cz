@@ -4,7 +4,7 @@
 
 ## Lokální spuštění
 
-Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
+Instalacee na Fedora 25+: `dnf install npm ruby ruby-devel rubygem-bundler rubygem-nokogiri libffi zlib`
 
 Instalace ubuntu 16.04 (funguje též pro ubuntu podsystém ve Windows 10):
 
@@ -22,8 +22,8 @@ Přejděte do složky s vyklonovaným projektem:
 
 ```
 npm install
-bower install
-bundle install --path vendor/bundle --without test development
+./node_modules/bower/bin/bower install
+bundle install
 gulp
 ```
 
