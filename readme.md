@@ -24,7 +24,7 @@ Přejděte do složky s vyklonovaným projektem:
 npm install
 ./node_modules/bower/bin/bower install
 bundle install
-gulp
+./node_modules/gulp/bin/gulp.js
 ```
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
