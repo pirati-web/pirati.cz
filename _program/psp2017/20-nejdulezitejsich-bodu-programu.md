@@ -21,7 +21,7 @@ Představujeme vám programové priority Pirátů pro sněmovní volby schválen
 1. Zrušení EET pro e-shopy, platby kartou, řemeslníky a drobné podnikatele
 2. Umožnit pojištěncům volit si své zástupce do správní a dozorčí rady zdravotní pojišťovny, aby mohli spolurozhodovat o úhradách
 3. Skutečná dostupnost konopí pro léčbu vážně nemocných a regulovaná legalizace léčebného i rekreačního pěstování pro osobní potřebu
-4. Stop hromadění exekucí – zásada 1 dlužník = 1 exekutor v místě bydlišt
+4. Stop hromadění exekucí – zásada 1 dlužník = 1 exekutor v místě bydliště
 5. Konec šikany ze strany OSA, zrušení poplatků za prázdná média a celková aktualizace autorského práva
 
 ### Zjednodušení státu pomocí technologií
