@@ -1,10 +1,10 @@
 ---
-title: Nejdůležitějších 20 bodů pirátského programu
+title: 20 nejdůležitějších bodů pirátského programu
 ---
 
 Představujeme vám programové priority Pirátů pro sněmovní volby schválené členy Pirátů ve vnitrostranickém referendu. Podrobně rozepsané je najdete na [pirati.cz/program](https://www.pirati.cz/program).
 
-### Kontrola moci a mocných
+## Kontrola moci a mocných
 
 ![Kontrola moci a mocných](/assets/img/articles/2017/1soudce.jpg "Kontrola moci a mocných")
 
@@ -14,7 +14,7 @@ Představujeme vám programové priority Pirátů pro sněmovní volby schválen
 4. Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací
 5. Donutíme ČEZ a další státní firmy zveřejňovat smlouvy
 
-### Ochrana občanů před šikanou
+## Ochrana občanů před šikanou
 
 ![Ochrana občanů před šikanou](/assets/img/articles/2017/1razitka.jpg "Ochrana občanů před šikanou")
 
@@ -24,7 +24,7 @@ Představujeme vám programové priority Pirátů pro sněmovní volby schválen
 4. Stop hromadění exekucí – zásada 1 dlužník = 1 exekutor v místě bydliště
 5. Konec šikany ze strany OSA, zrušení poplatků za prázdná média a celková aktualizace autorského práva
 
-### Zjednodušení státu pomocí technologií
+## Zjednodušení státu pomocí technologií
 
 ![Zjednodušení státu pomocí technologií](/assets/img/articles/2017/1tablet.jpg "Zjednodušení státu pomocí technologií")
 
@@ -34,7 +34,7 @@ Představujeme vám programové priority Pirátů pro sněmovní volby schválen
 4. Zrychlení soudů – zavedení elektronického spisu a standardů rozhodování
 5. Možnost vyřídit si běžné věci na Czech Pointu a jednotné inkasní místo pro podnikatele
 
-### Obrana svobody
+## Obrana svobody
 
 ![Obrana svobody](/assets/img/articles/2017/1kone.jpg "Obrana svobody")
 
