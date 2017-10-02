@@ -55,6 +55,6 @@ podpoří důvěru lidí i firem. Důsledkem otevřeného státu pak je omezení
   požadavky, viz [stanovisko k migraci](https://wiki.pirati.cz/stanoviska/piratske_stanovisko_k_vlne_uprchliku_-_jednotne_azylove_rizeni_v_evrope_plan_na_integraci_uprchliku_v_cesku). Podpoříme pomoc co nejblíže místům
   konfliktů či humanitárních krizí.
 * **Podpoříme zavádění prvků přímé demokracie:** Přímou volbu a
-  odvolatelnost starostů (viz [návrh](https://docs.google.com/document/d/1tFVeeT99wdTpdO4rdN8lgygOzaW7f1mC4FXqOvCKKl0/edit?usp=sharing)), celostátní referendum, občanské veto a
+  odvolatelnost starostů (viz [návrh](https://docs.google.com/document/d/1yo409NE9lWoaB3QNaL0bfZStXU0i-xGRZTp61zZcMKM/edit?usp=sharing)), celostátní referendum, občanské veto a
   neslučitelnost více funkcí vykonávaných na plný pracovní úvazek.
 * **Na zbraně nesahat.** Platné zákony o držení zbraní považujeme za vyvážené.
