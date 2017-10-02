@@ -1,19 +1,17 @@
 ---
 layout: post
 category: CLANKY
-title: "Díky, díky, díky!"
-date: 2017-09-30T15:37:00+02:00
-author: Ivan Bartoš
-image: /assets/img/articles/2017/ivan-podekovani.jpg
-tags: kampan
+title: "Piráti nesouhlasí se zpoplatněním technické normy k elektronické fakturaci"
+date: 2017-10-02T14:01:00+02:00
+author: Karolína Sadílková
+image: /assets/img/articles/2017/tnormy.jpg
+tags: technicke normy
 ---
  
-Díky vám všem, kdo se jakkoliv podílíte na volební kampani. Má to smysl. Jen za posledních deset dnů se zapojilo do reálné kampaně 500 aktivních voličů (koupili si triko a Pirátské listy). Rvěte se za nás ještě čtyři týdny, my se za vás budeme rvát čtyři roky.
-Čím nám můžete pomoci:
-
-1. Koupíte propagační [dámský](https://bit.ly/DámskýPirátskýBalíček), nebo [pánský](https://bit.ly/PánskýPirátskýBalíček) (tričko, noviny a placku). Noviny odneste tam, kam se naši dobrovolníci nedostanou. V tričku choďte do práce, na trénink a do hospod.
-2. Vybavíte svou profilovou fotku pirátským proužkem na [https://www.facebook.com/profilepicframes](https://www.facebook.com/profilepicframes) a napíšete k ní důvody, proč volíte Piráty.
-3. Potvrdíte účast na Volíme Piráty (15) do sněmovny! [https://www.facebook.com/events/274271136398027](https://www.facebook.com/events/274271136398027)
-4. Pozvete na událost a k volbám své přátele.
+Podle nového zákona o veřejných zakázkách musí úřady přijímat elektronické faktury, ale hrozí, že standard těchto faktur nebude bezplatně dostupný. Senátor Libor Michálek (nestranný za Piráty) se proto obrátil na ministra průmyslu Jiřího Havlíčka s žádostí o vysvětlení, zda Úřad pro technickou normalizaci požaduje peníze za technickou normu k elektronické fakturaci. Podle České pirátské strany je nutné, aby ministr věc řešil s předsedou úřadu. Aspoň tato norma, která je právně závazná, by měla být podle Pirátů bezplatně k dispozici na webu (jako je na webu už např. norma ČSN 73 6110 – Projektování místních komunikací – zveřejněná na webu Ministerstva pro místní rozvoj).
  
-A hlavně mluvte s lidmi ve vašem okolí. 18,9 % voličů neví, koho bude volit...
+> „Nepovažuji za vhodné, aby zásadní dokument pro digitalizaci státu byl dostupný jen na základě zaplacení poplatku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví,“ uvádí senátor Libor Michálek, nestraník za Piráty.
+ 
+Kandidát za Piráty v Praze Jakub Michálek (který není se senátorem Michálkem příbuzný) k tomu dodává: 
+
+> „Piráti prosazují bezplatnou dostupnost všech technických norem. Nechápu, jak může chtít vláda vybírat poplatky za něco, co úřadům přikazuje používat. Svobodné a vzdělané společnosti nejvíc poslouží, když budou technické normy bezplatně veřejně dostupné. Nesouhlasím s tím, aby pražský Magistrát a tisíce dalších úřadů musely upravovat informační systémy podle normy, kterou si úředník nemůže najít na webu.“
