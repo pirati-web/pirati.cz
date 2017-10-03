@@ -10,7 +10,7 @@ Představujeme vám programové priority Pirátů pro sněmovní volby schválen
 
 1. Vymáhání hmotné osobní odpovědnosti politiků a úředníků
 2. Konec praxe politických trafik – důsledně otevřená výběrová řízení na všechny pozice
-3. Zabráníme únikům zisků z ČR do daňových ráj
+3. Zabráníme únikům zisků z ČR do daňových rájů
 4. Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací
 5. Donutíme ČEZ a další státní firmy zveřejňovat smlouvy
 
