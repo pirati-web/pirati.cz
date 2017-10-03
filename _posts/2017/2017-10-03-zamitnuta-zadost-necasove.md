@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Postoj Pirátů k přijetí Eura v ČR"
+title: "Soud zamítl žádost Nečasové o stažení její podobizny z pirátského autobusu"
 date: 2017-10-03T10:36:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/nagyova.jpg
