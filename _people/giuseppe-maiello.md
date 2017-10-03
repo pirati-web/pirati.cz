@@ -17,6 +17,6 @@ profiles:
 ordga: 11
 ---
 
-Giuseppe Maiello je garant programového bodu obrana. Narodil se v Neapoli, ale od roku 1985 žije v Praze. Pracuje jako vysokoškolský učitel na Vysoké škole finanční a správní v Praze. Dále přednáší na Univerzitě Tomáše Bati ve Zlíně, na Univerzitě Palackého v Olomouci a na Fakultě společenských studií ve Vsetíně. 
+Giuseppe Maiello je garant programového bodu kultura. Narodil se v Neapoli, ale od roku 1985 žije v Praze. Pracuje jako vysokoškolský učitel na Vysoké škole finanční a správní v Praze. Dále přednáší na Univerzitě Tomáše Bati ve Zlíně, na Univerzitě Palackého v Olomouci a na Fakultě společenských studií ve Vsetíně. 
 
 Od roku 2005 bojoval za záchranu Klánovického lesa před jeho zničením a přebudováním na golfové hřiště. V roce 2013 se díky změně územního plánu podařilo les zachránit.
