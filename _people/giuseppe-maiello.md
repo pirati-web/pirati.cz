@@ -5,7 +5,7 @@ fullname: doc. Giuseppe Maiello Ph.D. 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 img: people/giuseppe-maiello.jpg    # 165 x 220
-description: garant programového bodu obrana             	# kratký popis, max 160 znaků
+description: garant programového bodu kultura             	# kratký popis, max 160 znaků
 mail:
 - guiseppe.maiello@pirati.cz
 mob:			  
