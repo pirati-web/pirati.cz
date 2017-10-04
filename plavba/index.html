@@ -73,13 +73,13 @@ Konvertor: http://www.csvjson.com/csv2json
   <div class="large-3 large-offset-4 colums">
     <h1 class="text-center" id="vzkazy">Vzkazy v lahvi</h1>
   </div>
-  {% for vzkaz in site.data.vzkazy %}
   <div class="row">
-  <div class="large-3 small-12 columns">
-    <div class="callout">
-    {{ vzkaz.note }}<br>-- {{ vzkaz.name }}
-    </div>
+    {% for vzkaz in site.data.vzkazy %}   
+      <div class="large-3 small-12 columns">
+        <div class="callout">
+        {{ vzkaz.note }}<br>-- {{ vzkaz.name }}
+        </div>
+      </div>
+    {% endfor %}
   </div>
-</div>
-  {% endfor %}
 </div>
