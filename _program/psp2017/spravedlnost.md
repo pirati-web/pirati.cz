@@ -26,7 +26,7 @@ Chceme efektivní justici, která slouží spravedlnosti, nikoliv formalitám, n
 
 - **Prosadíme otevřený výběr**: Kandidáti na soudce budou vybíráni ve veřejných výběrových řízeních za jasných podmínek.
 - **Zařídíme větší transparentnost**: Na soudce se musí vztahovat zákon o střetu zájmů, veřejná majetková přiznání, veřejný diář schůzek a lobbingu, prověrka NBÚ.
-- **Zavedeme veřejnou kartu soudce**: Se záznamy o jeho osobě a výsledcích, hodnocení jeho práce nejméně jednou za 5 let s možností postihu a odvolání soudce. Pravomoc k tomu bude mít kárný senát, kde by měla být většina ne-soudců.
+- **Zavedeme veřejnou kartu soudce**: Se záznamy o jeho osobě a výsledcích, hodnocení jeho práce nejméně jednou za 5 let s možností postihu a odvolání soudce. Pravomoc k postihu bude mít nadále kárný senát, kde by ovšem měla být většina právníků ne-soudců.
 - **Chceme osobní zodpovědnost za excesy při vydávání nezákonných rozhodnutí**: Odpovědnost posoudí soud vyššího stupně, který shledá exces.
 
 ## Rychlejší přístup ke spravedlnosti
