@@ -10,6 +10,9 @@ relatives:
     - title: Podporujeme sdílenou a znalostní ekonomiku
       alt: Podrobné vysvětlení programu v oblasti průmyslu a obchodu
       url: http://www.piratskelisty.cz/clanek-1707-podporujme-sdilenou-a-znalostni-ekonomiku
+    - title: Robotizace
+      alt: Robotizace
+      url: https://www.pirati.cz/program/temata/robotizace/  
 ---
 
 Chceme z České republiky udělat ekonomického tygra. Žije mezi námi spousta chytrých a kvalifikovaných lidí, abychom se vrátili zpět mezi technologické velmoci.
