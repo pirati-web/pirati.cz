@@ -31,7 +31,7 @@ Pokud si to chcete ještě více zjednodušit, [Piráti pomáhají studentům za
 | Praha | 3. října        | 15:00 - 19:00  | [Koleje Jižní město](https://www.facebook.com/events/1883479635313608)     |
 | Brno  | 3. října        | 10:00 - 18:00  | [Café Atlas](https://www.facebook.com/events/175329816349703/)     |
 | Olomouc | 4. října      | 12:00 - 15:00  | [Menza 17. Listopadu](https://www.facebook.com/events/119840278733427/)      |
-| Praha | 4. října        | 15:00 - 19:00  | [Koleje 17. Listopadu (Troja)](https://www.facebook.com/events/1883479635313608)       |
+| Praha | 4. října        | 15:00 - 19:00  | [Koleje 17. Listopadu (Troja)](https://www.facebook.com/events/1883479635313608), v prostorech Tenis Baník    |
 | Plzeň | 4. října        | 20:00 - 22:00  | [VŠ klub UCHO](https://www.facebook.com/events/1959384687648581/)          |
 | Olomouc | 5. října      | 9:00 - 12:00   | [Menza 17. Listopadu](https://www.facebook.com/events/119840278733427/)      |
 | Plzeň | 5. října        | 20:00 - 22:00  | [VŠ klub STUDNA](https://www.facebook.com/events/1959384687648581/)          |
