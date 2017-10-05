@@ -9,7 +9,7 @@ deputy:
 - Petr Vyhnal
 - Daniela Weissová
 contact:
-- Samuel Machat
+- samuel.machat
 region: Liberecký kraj
 url: https://www.pirati.cz/regiony/liberecko/start
 categories:
