@@ -4,9 +4,9 @@
 
 ## Lokální spuštění
 
-Instalacee na Fedora 25: `dnf install rubygem-jekyll npm`
+Instalacee na **Fedora 25+**: `dnf install npm ruby ruby-devel rubygem-bundler rubygem-nokogiri libffi zlib`
 
-Instalace ubuntu 16.04 (funguje též pro ubuntu podsystém ve Windows 10):
+Instalace **Ubuntu 16.04 LTS** (funguje též pro ubuntu podsystém ve **Windows 10**):
 
 ```
 sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev npm
@@ -21,10 +21,10 @@ sudo npm install --global gulp-cli
 Přejděte do složky s vyklonovaným projektem:
 
 ```
-npm install
-bower install
-bundle install --path vendor/bundle --without test development
-gulp
+npm install                             # Nainstaluje gulp apod
+bundle install                          # Nainstaluje lokálně potřebné gemy (např. jekyll, jekyll-paginate apod)
+./node_modules/bower/bin/bower install  # Nainstaluje front-endové knihovny (Foundation, Jquery, ...)
+./node_modules/gulp/bin/gulp.js         # Minifikuje JS 
 ```
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).

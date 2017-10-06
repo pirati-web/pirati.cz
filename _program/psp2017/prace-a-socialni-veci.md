@@ -31,7 +31,7 @@ práci, z níž nelze uživit domácnost.
 dávka. **Důstojný život** těm, kdo nemohou pracovat, **práce se ale musí vyplatit**.
 * Státní podpora rodin s dětmi do **jedné plošné dávky** bez prokazování příjmu či žádosti o
 daňové odpočty. **Zálohové výživné**, pokud druhý rodič neplatí včas.
-* **Konec obchodu s chudobou**, obecní sociální bydlení místo příspěvku na bydlení.
+* **Konec obchodu s chudobou**, obecní sociální bydlení místo doplatku na bydlení.
 * Ne „děcáku“ - děti a mládež mají žít **v rodině nebo domácím prostředí.** Sociální služby v
 přirozeném prostředí - místo ústavů **terénní a ambulantní péče**. Podpora **domácí péče** a
 pro pečující rodiny.

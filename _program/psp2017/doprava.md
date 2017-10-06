@@ -4,6 +4,8 @@ category: psp2017
 img: doprava.svg
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/topic37507.html
 garant: david.witosz
+videa:
+  - GWQZ9PbQgko
 ---
 
 Čas strávený na cestě se do života počítá. Prosazujeme koncepční řešení výstavby komunikací po vzoru Německa a Rakouska, s jasným financováním a plánováním na dalších 30 let - podle potřeb občanů, průmyslu i mezinárodních závazků.

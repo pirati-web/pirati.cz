@@ -24,12 +24,14 @@ videa:
 keywords: finance, ministerstvo financí, daně, zdanění, robotizace, omezíme daňové ráje, omezíme eet
 ---
 
-Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. Nižší zdanění práce a spravedlivé daně.
+Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výběr daní zejména u subjektů, které z Česka vyvádějí stovky miliard v nezdaněných ziscích. 
+
+## Nižší zdanění práce a spravedlivé daně
 
 - **Daně: Jde to i jednoduše!** Zavedeme skutečně rovnou daň – stejnou sazbu celkového zdanění práce (včetně odvodů) pro všechny příjmové skupiny. Slevu na dani ponecháme v současné výši.
 - **Snížíme sazbu zdanění práce o 1,6 procentního bodu**: Zaměstnanec s průměrnou mzdou díky tomu ušetří přibližně 7 500 Kč ročně. Celkový dopad naší reformy na státní rozpočet bude cca 1 až 2 mld. Kč. Dle možností budeme usilovat o další snižování zdanění práce o procentní bod každý rok.
 - **Usnadníme placení daní**: Daně a odvody [živnostníků](https://www.pirati.cz/program/temata/finance-faq/) sjednotíme do jedné platby a zavedeme jednotné inkasní místo. Jednoduchý daňový formulář budete moci vyplnit online během 10 minut.
-- **Zahájíme diskuzi o změnách daňových sazeb v souvislosti s robotizací.**
+- **Zahájíme diskuzi o změnách daňových sazeb v souvislosti s [robotizací](https://www.pirati.cz/program/temata/robotizace/).**
 
 ## Stop vyvádění zisků nadnárodních firem
 
