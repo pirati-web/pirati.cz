@@ -41,7 +41,7 @@ států.
 **Za ČR prosazujeme:**
 * Přijmout finanční ústavu
 * Vytvořit ze sektorové daně na finanční instituce zdroj financí pro euroval
-* Navázat platů ve státním sektoru na výkon ekonomiky
+* Navázat platy ve státním sektoru na výkon ekonomiky
 * Postupný přechod na pevný kurz k Euru
 
 ## Jasná pravidla pro bankroty států
