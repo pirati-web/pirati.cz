@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/giuseppe-maiello.jpg    # 165 x 220
 description: garant programového bodu kultura             	# kratký popis, max 160 znaků
 mail:
-- guiseppe.maiello@pirati.cz
+- giuseppe.maiello@pirati.cz
 mob:			  
 profiles:
   github:     
@@ -17,6 +17,6 @@ profiles:
 ordga: 11
 ---
 
-Giuseppe Maiello je garant programového bodu kultura. Narodil se v Neapoli, ale od roku 1985 žije v Praze. Pracuje jako vysokoškolský učitel na Vysoké škole finanční a správní v Praze. Dále přednáší na Univerzitě Tomáše Bati ve Zlíně, na Univerzitě Palackého v Olomouci a na Fakultě společenských studií ve Vsetíně. 
+Giuseppe Maiello je garant programového bodu kultura. Narodil se v Neapoli, ale od roku 1985 žije v Praze. Pracuje jako vysokoškolský učitel na Vysoké škole finanční a správní v Praze. Dále přednáší na Univerzitě Tomáše Bati ve Zlíně, na Univerzitě Palackého v Olomouci a na Fakultě společenských studií ve Vsetíně.
 
 Od roku 2005 bojoval za záchranu Klánovického lesa před jeho zničením a přebudováním na golfové hřiště. V roce 2013 se díky změně územního plánu podařilo les zachránit.
