@@ -18,4 +18,5 @@ profiles:
 
 Michaela Vodová (21. května 1979 v Praze) vyrůstala v Karlových Varech. Nyní žije na Vysočině, kam se provdala.
 
-V minulosti byla sociální pracovnicí, v současné době pracuje v týmu terénní hospicové péče (od roku 2009). Je také členkou Republikového výboru Pirátů. Podílela se na historicky prvním referendu v Jihlavě, které se zabývalo otázkou odpadového hospodářství města. Je také koordinátorem dobrovolníků pro Piráty kraje Vysočina.
+V současné době pracuje v týmu domácí hospicové péče (od roku 2009) jako sociální pracovník. Podílela se na historicky prvním referendu v Jihlavě, které se zabývalo otázkou odpadového hospodářství města. Je také koordinátorem dobrovolníků pro Piráty kraje Vysočina.
+
