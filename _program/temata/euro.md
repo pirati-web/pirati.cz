@@ -14,7 +14,7 @@ Připravili jsme proto plán, jak postupně připravit ČR na přijetí eura, ab
 
 **Před přistoupením ČR by v EU :**
 - Měla existovat jasná evropská pravidla pro bankroty států a bank, která budou ekonomicky i morálně přijatelná pro české občany.
-- Měla vzniknout společná pravidla pro státní rozpočty států eurozóny
+- Měla existovat důvěryhodná společná pravidla pro státní rozpočty států eurozóny
 - Evropský stabilizační mechanismus by měl více zohlednit pozici ekonomicky slabších států.
 - Měla proběhnout stabilizace evropského bankovního sektoru
 
