@@ -35,9 +35,9 @@ Zjednodušíme daňový systém a snížíme zdanění práce. Zlepšíme výbě
 
 ## Stop vyvádění zisků nadnárodních firem
 
-- **Zisk vytvořený v Česku bude u nás i daněn**: Zlepšíme pravidla, dohled a sankce v případě vyvádění zisků. Posílíme motivaci firem, aby větší část zisku investovaly u nás či rozdělily zaměstnancům.
+- **Zisk vytvořený v Česku bude u nás i daněn**: [Zlepšíme pravidla](https://www.pirati.cz/program/temata/danove-uniky/) , dohled a sankce v případě vyvádění zisků. Posílíme motivaci firem, aby větší část zisku investovaly u nás či rozdělily zaměstnancům.
 - **Omezíme daňové ráje a odkryjeme vlastníky nejen v Karibiku**: Podpoříme jednotný daňový základ firem v EU. Zabráníme vlastníkům firem schovávat se za anonymní struktury.
-- **Podpoříme sektorovou daň** pro banky, telekomunikace, vodárny a jiné trhy, kde je malá konkurence a vytvořený zisk jde zpravidla do zahraničí. Dosadíme silné vedení regulačních úřadů, které dohlédne, že daň nedopadne na spotřebitele.
+- **Podpoříme sektorovou daň** pro [banky](https://www.pirati.cz/program/temata/banky/), telekomunikace, vodárny a jiné trhy, kde je malá konkurence a vytvořený zisk jde zpravidla do zahraničí. Dosadíme silné vedení regulačních úřadů, které dohlédne, že daň nedopadne na spotřebitele.
 - **Zvýšíme poplatky za těžbu národního bohatství.**
 
 ## A něco navíc:
