@@ -87,4 +87,26 @@ calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&a
 fb: https://www.facebook.com/ceska.piratska.strana/
 tw: PiratskaStrana
 
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-volby.gif
+    alt: volby
+    url: volby
+  left-top:
+    text: Rozcestník pro volby
+    url: volby
+    icon: fa fa-map-signs
+  right-top:
+    text: Plavba do sněmovny
+    url: plavba
+    icon: fa fa-ship
+  left-bottom:
+    text: Darujte
+    url: https://dary.pirati.cz
+    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
+  right-bottom:
+    text: Program<br> Černé na bílém
+    url: program
+    icon: fa fa-newspaper-o u-rotate-345
+
 emptyArray: []

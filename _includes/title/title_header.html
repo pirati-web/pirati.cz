@@ -22,11 +22,12 @@
         <div class="o-section-inner o-section-inner--noLarge u-cf">
           <div class="c-banner-section c-banner-primary-section">
             <article class="c-card c-card--big">
+              {% assign box0 = site.title-page.big %}
               <div class="c-card-header c-card-header--white">
               </div>
               <div class="c-card-image-wrapper">
-                <a href="{{'/volicskyprukaz/' | relative_url }}">
-                  <img src="{{ '/assets/img/miscellaneous/featured-prukazy.gif' | prepend: site.baseurl }}" class="c-card__image" alt="Volební průkazy">
+                <a href="{% if box0.url contains "http" %}{{box0.url}}{% else %}{{box0.url | relative_url }}{% endif %}">
+                  <img src="{{ box0.foto | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
                 </a>
               </div>
             </article>
@@ -35,44 +36,48 @@
             <div class="row small-up-4">
               <div class="c-banner-section-row">
                 <div class="small-6 columns">
-                  <a href="{{'volby/' | relative_url }}" class="c-card c-card--border">
+                  {% assign box1 = site.title-page.left-top %}
+                  <a href="{% if box1.url contains "http" %}{{box1.url}}{% else %}{{box1.url | relative_url }}{% endif %}" class="c-card c-card--border">
                     <div class="c-card-header">
-                      <div class="c-card__title"> Rozcestník pro volby </div>
+                      <div class="c-card__title"> {{box1.text}} </div>
                     </div>
                     <div class="c-card__icon c-card__icon--pos4">
-                      <i class="fa fa-map-signs" aria-hidden="true"></i>
+                      <i class="{{box1.icon}}" aria-hidden="true"></i>
                     </div>
                   </a>
                 </div>
                 <div class="small-6 columns">
-                  <a href="{{'plavba' | relative_url }}" class="c-card c-card--border">
+                  {% assign box2 = site.title-page.right-top %}
+                  <a href="{% if box2.url contains "http" %}{{box2.url}}{% else %}{{box2.url | relative_url }}{% endif %}" class="c-card c-card--border">
                     <div class="c-card-header">
-                      <div class="c-card__title"> Plavba do sněmovny </div>
+                      <div class="c-card__title"> {{box2.text}} </div>
                     </div>
                     <div class="c-card__icon c-card__icon--pos3">
-                      <i class="fa fa-ship" aria-hidden="true"></i>
+                      <i class="{{box2.icon}}" aria-hidden="true"></i>
                     </div>
                   </a>
                 </div>
               </div>
               <div class="c-banner-section-row">
                 <div class="small-6 columns">
-                  <a href="https://dary.pirati.cz" class="c-card c-card--border">
+                  {% assign box3 = site.title-page.left-bottom %}
+                  <a href="{% if box3.url contains "http" %}{{box3.url}}{% else %}{{box3.url | relative_url }}{% endif %}" class="c-card c-card--border">
                     <div class="c-card-header">
-                      <div class="c-card__title"> Darujte </div>
+                      <div class="c-card__title"> {{box3.text}} </div>
                     </div>
                     <div class="c-card__icon c-card__icon--pos4">
-                      <i class="fa fa-gift u-rotate-5 fa-5x u-rotate-345" aria-hidden="true"></i>
+                      <i class="{{box3.icon}}" aria-hidden="true"></i>
                     </div>
                   </a>
                 </div>
                 <div class="small-6 columns">
-                  <a href="{{'program' | relative_url}}" class="c-card c-card--border">
+                  {% assign box4 = site.title-page.right-bottom %}
+                  <a href="{% if box4.url contains "http" %}{{box4.url}}{% else %}{{box4.url | relative_url }}{% endif %}" class="c-card c-card--border">
                     <div class="c-card-header">
-                      <div class="c-card__title"> Program<br> Černé na bílém</div>
+                      <div class="c-card__title"> {{box4.text}} </div>
                     </div>
                     <div class="c-card__icon c-card__icon--pos2">
-                      <i class="fa fa-newspaper-o u-rotate-345" aria-hidden="true"></i>
+                      <i class="{{box4.icon}}" aria-hidden="true"></i>
                     </div>
                   </a>
                 </div>
