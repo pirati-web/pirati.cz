@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Piráti kvůli předvolebnímu duelu Babiše se Zaorálkem podávají podnět RRTV"
 date: 2017-10-09T09:40:00+02:00
-author: Karolína Sadílková
+author: Štěpán Štrébl
 image: /assets/img/articles/2017/rrtv.jpg
 tags: kampan
 ---
@@ -18,3 +18,8 @@ Piráti Nově navrhují buď přidat k Babišovi a Zaorálkovi další diskutuj�
 > „Není možné, aby na největší televizi dostaly v předvolebním vysílání prostor jen ANO a ČSSD. Tyto volby nejsou o dvou stranách. Veřejnoprávní ČT i soukromá Prima prostor více stranám poskytují. Není důvod, proč by zásady objektivity neměla dodržovat i Nova,“ uzavírá Bartoš.
  
 [§31 odst. 3 Zákona o televizním a rozhlasovém vysílání říká](https://www.zakonyprolidi.cz/cs/2001-231#cast5-hlava1), že Provozovatel vysílání je povinen zajistit, aby ve zpravodajských a politicko-publicistických pořadech bylo dbáno zásad objektivity a vyváženosti a zejména nebyla v celku vysílaného programu jednostranně zvýhodňována žádná politická strana nebo hnutí, popřípadě jejich názory nebo názory jednotlivých skupin veřejnosti, a to s přihlédnutím k jejich reálnému postavení v politickém a společenském životě.
+
+### Kontakt
+
+* Štěpán Štrébl, volební manažer Pirátů, stepan.strebl@pirati.cz
+* Karolína Sadílková, kontaktní osoba pro novináře, karolina.sadilkova@pirati.cz, +420 776 505 557 
