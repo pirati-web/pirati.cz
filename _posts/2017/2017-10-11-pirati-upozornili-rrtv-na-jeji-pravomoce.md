@@ -20,3 +20,7 @@ Rada má k dispozici zákonné prostředky, jak nastalou situaci řešit. V tomt
 **Reakce RRTV:**
 „Z našeho pohledu není moc čím se zabývat, protože řešíme odvysílaný obsah,“ vysvětlil Krejčí.
 Zdroj: [http://zpravy.idnes.cz/volby-2018-snemovna-debata-rrtv-piratska-strana-tv-nova-media-p4m-/domaci.aspx?c=A171009_111630_domaci_bja](http://zpravy.idnes.cz/volby-2018-snemovna-debata-rrtv-piratska-strana-tv-nova-media-p4m-/domaci.aspx?c=A171009_111630_domaci_bja)
+
+### Odkazy
+
+* [Odpověď Rady pro rozhlasové a televizní vysílání](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/podnet-rrtv.pdf)
