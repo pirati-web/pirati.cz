@@ -20,6 +20,6 @@ Co se týče **aplikovaného výzkumu**, inovace jsou především v nejvlastně
 * Prosazujeme omezení a postupné zrušení patentového systému. Kvůli tisícům patentů na každý nový produkt jsou značně omezeny inovace i konkurence. Podnikatelé již neplatí za patenty, aby ochránili svou investici, ale aby se ochránili před patentovými žalobami konkurence. Patenty se v řadě případů staly brzdou pokroku, neboť snižují přístup lidí k novým výsledkům (patentové války o trh mobilních telefonů, léky, zemědělská osiva, softwarové patenty).
 * Prosazujeme postupné nahrazení patentů zvýhodněním firem s vlastním výzkumem při odpisu nákladů na výzkum a vývoj z daní a jinými způsoby, které nevytváří bariéry pro tržní konkurenci. Pokud navíc některé podniky dostanou peníze z veřejných grantů, požadujeme, aby byly výsledky výzkumu obecně použitelné pro celé tržní odvětví.
 
-[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace/
 [vzdelani]: https://www.pirati.cz/program/dlouhodoby/vzdelani
 [openaccess]: https://www.pirati.cz/kci/openaccess
