@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Piráti považují text Memoranda o těžbe lithia za rizikový."
+title: "Piráti považují text Memoranda o těžbě lithia za rizikový"
 date: 2017-10-09T09:40:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/lithium.jpg
