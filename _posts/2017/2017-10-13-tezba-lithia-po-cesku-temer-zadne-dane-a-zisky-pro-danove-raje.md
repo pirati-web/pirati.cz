@@ -1,9 +1,9 @@
 ---
 layout: post
 category: CLANKY
-title: "Piráti zásadně nesouhlasí s drastickým snížením poplatků za těžbu lithia a požadují rozkrytí konečných vlastníků těžařské firmy Geomet.."
+title: "Piráti zásadně nesouhlasí s drastickým snížením poplatků za těžbu lithia a požadují rozkrytí konečných vlastníků těžařské firmy Geomet"
 date: 2017-10-13T11:19:00+02:00
-author: Karolína Sadílková
+author: Adam Zábranský
 image: /assets/img/articles/2017/lithium2.jpg
 tags: ekonomika
 ---
@@ -16,7 +16,7 @@ Z páteční analýzy organizace Good Governance vyplývá, že vlastnická stru
 
 > „Nechápu, proč ministerstvo podepsalo memorandum s odštěpným závodem a ne s mateřskou firmou. Napadají mě pro to dva důvody. Buď chtělo zakrýt fakt, že firma sídlí v daňovém ráji. Nebo bylo hlavním cílem dostat se do režimu dohody Česka a Austrálie o ochraně investic, která umožňuje mezinárodní arbitráž,“ říká celostátní lídr Pirátů do sněmovních voleb Ivan Bartoš.
 
-![Vlastnická struktura skupiny EMH](/assets/img/articles/majetkovastruktura.jpg "Vlastnická struktura skupiny EMH")
+![Vlastnická struktura skupiny EMH](/assets/img/articles/2017/majetkovastruktura.jpg "Vlastnická struktura skupiny EMH")
 
 Piráti považují za skandální, že zisky z těžby českého lithia potečou do daňového ráje. Jak vyplývá ze zveřejněných dokumentů skupiny EMH, jediným projektem celé této skupiny je těžba lithia v Cínovci. Celá struktura tak vypadá, jako by byla vytvořena čistě za účelem vysátí zisků z České republiky do daňového ráje a pojištění projektu skrze hrozbu mezinárodní arbitráže. Existuje riziko, že česká firma Geomet použije některé ze schémat pro daňové úniky. Piráti proto požadují, aby se vláda pokusila vyjednat s Geometem dohodu, že bude mít přístup do jejího účetnictví, aby mohla daňové úniky včas odhalit. Zároveň požadujeme zveřejnění skutečných konečných vlastníků firmy Geomet.
 
