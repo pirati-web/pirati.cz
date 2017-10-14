@@ -8,5 +8,5 @@ region: Pardubický kraj
 categories:
 - kandidatky
 tags:
-- pardubický-kraj, volby, lídr, mikuláš ferjenčík
+- pardubický-kraj, volby, lídr, mikuláš ferjenčík, kandidátky, kandidáti, leadr, pardubice  
 ---

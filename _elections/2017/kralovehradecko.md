@@ -8,5 +8,5 @@ region: Královéhradecký kraj
 categories:
 - kandidatky
 tags:
-- královéhradecký-kraj, volby, lídr, martin jiránek
+- královéhradecký-kraj, volby, lídr, martin jiránek, kandidátky, kandidáti, leadr, královéhradecky kraj, hradec králové, 
 ---

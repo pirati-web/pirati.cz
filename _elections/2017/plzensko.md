@@ -8,5 +8,5 @@ region: Plzeňský kraj
 categories:
 - kandidatky
 tags:
-- plzeňský-kraj, volby, lídr, lukáš bartoň
+- plzeňský-kraj, volby, lídr, lukáš bartoň, kandidátky, kandidáti, leadr, lukáš bartoň,  
 ---
