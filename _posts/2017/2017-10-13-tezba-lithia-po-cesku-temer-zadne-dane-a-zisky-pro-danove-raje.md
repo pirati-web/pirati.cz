@@ -1,13 +1,14 @@
 ---
 layout: post
 category: CLANKY
-title: "Piráti zásadně nesouhlasí s drastickým snížením poplatků za těžbu lithia a požadují rozkrytí konečných vlastníků těžařské firmy Geomet"
+title: "Těžba lithia po Česku: téměř bez zdanění a zisky plynoucí do daňového ráje"
 date: 2017-10-13T11:19:00+02:00
 author: Adam Zábranský
 image: /assets/img/articles/2017/lithium2.jpg
 tags: ekonomika
 ---
- 
+Piráti zásadně nesouhlasí s drastickým snížením poplatků za těžbu lithia a požadují rozkrytí konečných vlastníků těžařské firmy Geomet
+
 Ze středeční analýzy organizace Greenpeace vyplývá, že vláda minulý rok snížila poplatky za těžbu lithia z 10 % tržní ceny na necelých 0,7 % tržní ceny a stát tak může přijít minimálně o 13 miliard Kč (při současném plánu těžby, u něhož je možné, že se ještě rozšíří a ztráta by tak byla větší). Podle vyhlášky platící do roku 2016 byl poplatek za těžbu rud 10 % z tržní ceny vydobytého nerostu, zatímco nařízením vlády z roku 2016 se poplatek změnil na necelých 11 000 Kč za tunu čistého lithia (nikoliv vydobytého nerostu). Tím se poplatek oproti předchozímu stavu snížil zhruba 14x. Hlavním viníkem této změny je Ministerstvo průmyslu a obchodu ČR, které má v gesci ČSSD – nařízení každopádně schválila vláda hlasy všech 10 přítomných členů.
 
 Piráti požadují urychlené navýšení poplatků minimálně zpět na původní hodnotu. Oproti ostatním vyspělým zemím je v Česku zdanění těžby nerostného bohatství velmi nízké a mnohdy se pohybuje spíše na úrovni vykořisťovaných rozvojových zemí.
