@@ -30,4 +30,13 @@ carousel:
 
 Jakub Michálek (* 6. února 1989 Louny) je předsedou zastupitelského klubu Pirátů v Praze, člen republikového předsednictva Pirátské strany a místopředseda Pirátů. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.
 
-V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví a navrhl a prosadil participativní rozpočet.
+Jako pražský zastupitel a člen kontrolního výboru Zastupitelstva hl. m. Prahy se věnuje kauzám na pražském Magistrátu. 
+
+* Podrobně se zabýval kauzami z doby primátora Pavla Béma, např. Opencard, nevýhodného pronájmu Škodova paláce a vyzval primátorku k podání žaloby. 
+* Upozornil také na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a potřebné se nedostává. 
+* Vytrvale vystupuje proti uplácení zastupitelů tzv. politickými trafikami a podílel se na návrhu pravidel pro řádné obsazování dozorčích rad a řízení městských společností. 
+* Podařilo se mu prosadit mimo jiné poskytování informací o mimořádných odměnách vysokých úředníků a digitalizaci majetkových přiznání zastupitelů, aby se už neztrácela. 
+* Jako první navrhl zákony k digitálním platformám (Uber, Airbnb). 
+* Předložil návrh zákona, který řeší okrádání turistů v některých směnárnách.
+
+V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii.

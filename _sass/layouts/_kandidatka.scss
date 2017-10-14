@@ -2,10 +2,13 @@
   $kandidate__margin: .85em;
   &__item{
     display: flex;
+    flex-wrap: wrap;
     border-top: 1px solid rgba(black, .1);
     padding-top: 4*$kandidate__margin;
     &:nth-of-type(even) &-img{
-      order: 2;
+      @include breakpoint(mobile up) {
+        order: 2;
+      }
     }
     @include breakpoint(mobile up) {
       &:nth-of-type(n+5) &-img{
@@ -33,7 +36,6 @@
       text-align: center;
       img{
         margin-top: 2.25em;
-        position: sticky;
         top: $kandidate__margin;
       }
     }

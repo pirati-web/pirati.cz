@@ -7,5 +7,5 @@ region: kraj
 categories:
 - kandidatky
 tags:
-- olomoucky-kraj, volby, vojtěch pikal
+- olomoucky-kraj, volby, vojtěch pikal, kandidatky, kandidáti, leadr, olomouc,  
 ---

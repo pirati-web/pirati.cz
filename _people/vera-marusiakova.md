@@ -3,7 +3,6 @@ uid: vera.marusiakova
 name:     Věra Marušiaková      	# běžně používáné jméno
 fullname: Věra Marušiaková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/vera-marusiakova.jpg           # 165 x 220
 description: Asistentka Ivana Bartoše a kandidát za kraj Praha # kratký popis, max 160 znaků
 mail:
