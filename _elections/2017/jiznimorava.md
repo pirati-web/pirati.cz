@@ -7,5 +7,5 @@ region: kraj
 categories:
 - kandidatky
 tags:
-- jihomoravsky-kraj, volby
+- jihomoravsky-kraj, volby, kandidátky, kandidáti, leadr, jihomoravský kraj,  radek holomčík, tomáš vymazal, markéta gregorová, 
 ---
