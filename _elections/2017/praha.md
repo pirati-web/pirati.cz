@@ -8,5 +8,5 @@ region: Praha
 categories:
 - kandidatky
 tags:
-- praha, pražská, volby, kandidatky, kandidáti, lídr, leadr, jakub michálek, dana balcarová, ondřej profant, olga richterová
+- praha, pražská, volby, kandidátky, kandidáti, lídr, leadr, jakub michálek, dana balcarová, ondřej profant, olga richterová
 ---

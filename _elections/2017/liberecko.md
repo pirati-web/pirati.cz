@@ -8,5 +8,5 @@ region: Liberecký kraj
 categories:
 - kandidatky
 tags:
-- liberecký-kraj, volby
+- liberecký-kraj, volby kandidatky, kandidáti, leadr, liberec, ondřěj kolek, 
 ---

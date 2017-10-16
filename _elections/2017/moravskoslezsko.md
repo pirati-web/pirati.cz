@@ -8,5 +8,5 @@ region: Moravskoslezský kraj
 categories:
 - kandidatky
 tags:
-- moravskoslezský-kraj, volby
+- moravskoslezský-kraj, volby, kandidatky, kandidáti, leadr, ostrava, lukáš černohorský, 
 ---
