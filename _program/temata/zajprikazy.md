@@ -1,4 +1,8 @@
-Zajišťovací příkazy nesmí poškozovat nevinné
+---
+title: Zajišťovací příkazy nesmí poškozovat nevinné
+category: témata
+class: tema
+---
 
 V posledním roce vzrůstá počet kauz, ve kterých hraje hlavní roli institut tzv. zajišťovacích příkazů. Zajišťovací příkazy jsou nástroj finanční správy, pomocí kterého může zakročit proti podnikatelům, u kterých je důvodné podezření, že se budou vyhýbat placení daní. Tento nástroj má finanční správa od roku 2010, avšak až v posledních letech jejich počet prudce roste a co je mnohem podstatnější, začínají vyplouvat na povrch případy, kdy byl použit tento nástroj zjevně neoprávněně, a které v některých případech vedli až k likvidaci firmy. Nejde zdaleka jen o případ známé FAU s. r. o., lze zmínit třeba medializované případy rodinných firem AUTOTRANS PETROL s.r.o. či nově KM PLUS spol. s r.o.
 
