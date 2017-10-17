@@ -19,14 +19,14 @@ profiles:
 ordrp: 2
 ---
 
-Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů; je rovněž členem kontrolního výboru zastupitelstva města Olomouce. 
+Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů a 1. místopředseda olomouckého krajského sdružení. Do voleb. 
 
 Po vystudování přírodovědné větve Slovanského Gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester software v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
 
 Vojtěch žil a snad vždy bude v Olomouci.
 
-V reálné politice zastupuje Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie) a [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice).
+V reálné politice zastupoval Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), atále zastupuje v [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie) a [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice).
 
 Členem Pirátů je od února 2012, aktivně se do fungování zapojuje o trochu déle.
 Kromě pozice 1. místopředsedy dále působí v administrativním, zahraničním, finančním a personálním odboru.
