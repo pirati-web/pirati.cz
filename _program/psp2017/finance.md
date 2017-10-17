@@ -19,6 +19,10 @@ relatives:
     - title: Robotizace
       alt: Robotizace
       url: https://www.pirati.cz/program/temata/robotizace/  
+    - title: Zajišťovací příkazy
+      alt: Zajišťovací příkazy
+      url: https://www.pirati.cz/program/temata/zajprikazy/  
+  
 videa:
   - haVUq0Fx2NY
 keywords: finance, ministerstvo financí, daně, zdanění, robotizace, omezíme daňové ráje, omezíme eet
