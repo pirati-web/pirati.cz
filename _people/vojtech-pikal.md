@@ -40,7 +40,7 @@ Spoluzakládal též [Mladé Piráty](https://wiki.pirati.cz/mladi/start) kde by
 
 Jeho cílem v politice je reforma kopírovacího monopolu (majetkových autorských práv) a ochrana svobody slova tak, aby zbytečně nebyl bržděn technický a kulturní rozvoj společnosti a lidstvo se mohlo soustředit na důležité cíle jako dobývání vesmíru. Neméně důležitá je možnost lidí svobodně rohodovat o sobě a společných věcech na úrovni, která je takovému rozhodnutí nejvhodnější+ tedy nejbližší smysluplně vhodná. Považuje se za [sociálního liberála](https://en.wikipedia.org/wiki/Social_liberalism), velmi středového sociálního liberála.
 
-Jeho cílem ve straně je efektivizace a profesionalizace jejího vnitřního aparátu tak, aby se členové mohly věnovat především prosazování Pirátského programu a udržení strany v ekonomicko-politickém středu a zachování důrazu liberálního přístup k občanským svobodám.
+Jeho cílem ve straně je efektivizace a profesionalizace jejího vnitřního aparátu tak, aby se členové mohli věnovat především prosazování Pirátského programu a udržení strany v ekonomicko-politickém středu a zachování důrazu liberálního přístup k občanským svobodám.
 
 Kromě politiky se dlouhodobě věnuje organizaci LARPů a dalších her pro mládež v rámci sdružení [Kahla o.s.](http://www.kahla.cz/), je členem [ČSOP](http://www.csop.cz/) - kde v minulosti dlouhodobě působil jako vedoucí oddílu [MOP](http://www.emop.cz/) - a zapisovatelem sdružení [Pro referendum](https://www.facebook.com/PROREFERENDUM/). Když zbyde čas, je [wikignomem](https://cs.wikipedia.org/wiki/Wikipedista:Fafrin)
 
