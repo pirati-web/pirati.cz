@@ -31,7 +31,7 @@ Mimo to prosazujeme zjednodušení soudní soustavy, aby měla jen 3 stupně, a 
 
 **K čemu je veřejná karta soudce?**
 
-Ke zvýšení transparentnosti justice, která umožní lepší veřejnou kontrolu práce soudců. Soudci jsou jedni z nejvýznamnějších představitelů veřejné moci. Od zavedení veřejné karty soudce si slibujeme zvýšení důvěry veřejnosti v justici, podobně jako k tomu došlo na Slovensku, a snížení počtu žádostí o informace.
+Ke zvýšení transparentnosti justice, která umožní lepší veřejnou kontrolu práce soudců. Soudci jsou jedni z nejvýznamnějších představitelů veřejné moci. Od zavedení veřejné karty soudce si slibujeme zvýšení důvěry veřejnosti v justici, podobně jako k tomu došlo na Slovensku, a snížení počtu žádostí o informace. Veřejnou kartu soudce, kterou mají na Slovensku, si můžete prohlédnout [zde](https://www.justice.gov.sk/rsvs/ukazhtm.aspx?DocId=D3CD84FD-7096-44D1-BB43-0F2C002C9450&z=z3).
 
 **Chcete trestat soudce za to, že měl jiný právní názor?**
 
