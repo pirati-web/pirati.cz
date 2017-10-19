@@ -20,11 +20,11 @@ E-book ke stažení zde:  [https://www.pirati.cz/ebook/](https://www.pirati.cz/e
 **Nejdůležitější je odvaha začít**
 
 Odlehčenou formou se pak Piráti rozhodli ve finále kampaně pobavit voliče videem z budoucnosti. Klip s názvem Nejdůležitější je odvaha začít simuluje situaci v Česku poté, co zde drtivě ve volbách zvítězí Pirátská strana. Cestovní pas k vyřízení z domova, největší zjednodušení daní v historii, poštu roznáší drony, studenti se učí jazyky v zahraničí, to jsou vybrané změny, které se po vítězství Pirátů v budoucnosti stanou realitou. Autorem nápadu na video je volební manažer Pirátů Štěpán Štrébl, na scénáři se s ním podílel Jakub Horák, stratég pirátské kampaně.
-Video ke stažení zde: [https://www.youtube.com/watch?v=sKqP7ktJZG8](https://www.youtube.com/watch?v=sKqP7ktJZG8)
+Video k dispozici zde: [https://www.youtube.com/watch?v=sKqP7ktJZG8](https://www.youtube.com/watch?v=sKqP7ktJZG8)
 
 * Zadavatel: Česká pirátská strana
 * Zpracovatel: Strop Media s.r.o.
  
-(Pirátská strana tímto dává svolení k volnému stanování a šíření E-booku i videa)
+(Pirátská strana tímto dává svolení k volnému stahování a šíření E-booku i videa)
  
 „Změnit Českou republiku k lepšímu je mise, do které má smysl se pustit. Proto jsme před osmi lety založili Pirátskou stranu. Teď máme historickou šanci prorazit do vysoké politiky a přinést tam energii a nápady, které tam už mnoho let chybí. Budeme kontrolovat mocné, chránit občany před šikanou, bránit svobodu a posuneme Českou republiku konečně do třetího tisíciletí. Přijďte prosím v pátek nebo v sobotu k volbám a podpořte číslo 15 – Českou pirátskou stranu. Pusťte nás na ně – nadešel čas! Děkujeme!,” říká na závěr kampaně lídr strany Ivan Bartoš.
