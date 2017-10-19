@@ -39,7 +39,7 @@ Rozhodně ne. Právo je postavené na různých právních názorech a nezávisl
 
 **Kdo bude kvalitu soudů, soudních oddělení a soudců hodnotit?**
 
-Hodnocení kvality v soudnictví by mělo probíhat zejména neformálně jako v Nizozemsku, např. pomocí peer review (posouzením od kolegy soudce), vizit s účastí renomovaných právních expertů mimo justici a průzkumem spokojenosti mezi účastníky řízení u soudu. Hlavním smyslem hodnocení je zajistit zpětnou vazbu soudcům. Hodnotící senát, který by měl možnost podat kárnou žalobu a zajišťoval by hodnocení plnění standardů kvality, by byl jmenován pro každý krajský a vyšší soud a hodnotil by soudce z nižšího článku. Členy hodnotícího senátu by jmenovala  Rada pro soudnictví, které by návrhy předkládal předseda soudu po projednání v soudcovské radě daného soudu. 
+Hodnocení kvality v soudnictví by mělo probíhat zejména neformálně jako v Nizozemsku, např. pomocí peer review (posouzením od kolegy soudce), vizit s účastí renomovaných nezávislých právních expertů a průzkumem spokojenosti mezi účastníky řízení u soudu. Hlavním smyslem hodnocení je zajistit zpětnou vazbu soudcům. Hodnotící senát, který by měl možnost podat kárnou žalobu a zajišťoval by hodnocení plnění standardů kvality, by byl jmenován pro každý krajský a vyšší soud a hodnotil by soudce z nižšího článku. Členy hodnotícího senátu by jmenovala  Rada pro soudnictví, které by návrhy předkládal předseda soudu po projednání v soudcovské radě daného soudu. 
 
 **Podle jakých kritérií se bude kvalita v soudnictví hodnotit?**
 
