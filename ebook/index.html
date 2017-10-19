@@ -1,0 +1,143 @@
+---
+---
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700&amp;subset=latin-ext" rel="stylesheet">
+  <link href="./css/bootstrap.min.css" rel="stylesheet">
+  <link href="./css/styles.min.css" rel="stylesheet">
+  <title>Pirátský e-book VŠICHNI NEKRADOU</title>
+  <script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
+  <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./js/code.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Pirátský e-book: VŠICHNI NEKRADOU! +Vyvrácení nejčastějších nepravd šířených o Pirátech.">
+  <meta name="keywords" content="Piráti, e-book">
+  <meta property="og:title" content="Pirátský e-book: VŠICHNI NEKRADOU">
+  <meta property="og:image" content="images/ebook_preview_FB.png">
+  <meta property="og:description" content="+Vyvrácení nejčastějších nepravd šířených o Pirátech.">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37505700-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-34662053-2');
+</script>
+
+  <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '161463077782933');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=161463077782933&ev=PageView&noscript=1" alt="."
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+</head>
+
+<body>
+  <div class="container main-container">
+    <div class="col-md-10 col-md-offset-1 col-xs-12">
+      <div class="row">
+        <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-4 col-xs-4 logo-container">
+              <a href="https://www.pirati.cz/" class="">
+                                    <img src="./images/logo.svg" alt="logo"/>
+                                </a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-12 col-md-12 col-xs-4 hidden-xs hidden-sm ebook-image-container">
+              <img src="./images/ebook.png" alt="ebook" />
+            </div>
+          </div>
+        </div>
+        <div class="col-md-7">
+          <div class="col-lg-12 col-md-offset-1 col-xs-12 box-container">
+            <div class="box">
+              <p class="promo">Ke stažení</p>
+              <div class="ebook-image-container-mobile col-xs-4 col-xs-offset-4 visible-xs visible-sm">
+                <img src="./images/ebook.png" alt="Piráti" />
+              </div>
+              <div class="clearfix"></div>
+              <h1>Pirátský e-book</h1>
+              <h2>Všichni nekradou</h2>
+
+              <!-- <input type="text" name="email" placeholder="vložte váš e-mail"> -->
+              <a data-popup="popupOne" target="_blank" href="{{ 'assets/ebook/piratsky-e-book-150dpi.pdf' | relative_url }}" class="click button">Stáhnout v PDF</a>
+              <a data-popup="popupOne" target="_blank" href="{{ 'assets/ebook/piratsky-e-book.epub' | relative_url }}" class="click button">Stáhnout do čtečky knih</a>
+              <a data-popup="popupOne" target="_blank" href="{{ 'assets/ebook/piratsky-e-book.mobi' | relative_url }}" class="click button">Stáhnout do Kindle</a>
+
+              <br>
+              <p id="plus">Vyvrácení nejčastějších<br>nepravd šířených o Pirátech.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+
+    <div class="footer">
+      <span>Zadavatel: Česká Pirátská Strana</span>
+      <span>Zpracovatel: Stario Agency, s.r.o.</span>
+    </div>
+  </div>
+
+  <section class="modal modalWindow" id="popupOne">
+    <section class="modalWrapper">
+      <h2 class="roboto">Díky za stažení.<br>pusťte se na ně!</h2>
+      <img src="images/icon-ruka.png" alt="Piráti" width="64">
+
+    </section>
+    <a class="closeBtn">X</a>
+  </section>
+  <section class="modal overlay">
+    </div>
+    <script src="js/jquery-3.1.0.min.js">
+    </script>
+    <script type="text/javascript">
+      settings = {
+        //Model Popup
+        objModalPopupBtn: ".click",
+        objModalCloseBtn: ".overlay, .closeBtn",
+        objModalDataAttr: "data-popup"
+      }
+      $(settings.objModalPopupBtn).bind("click", function() {
+        if ($(this).attr(settings.objModalDataAttr)) {
+
+          var strDataPopupName = $(this).attr(settings.objModalDataAttr);
+
+
+          //Fade In Modal Pop Up
+          $(".overlay, #" + strDataPopupName).fadeIn();
+
+        }
+      });
+
+
+
+
+      //On clicking the modal background
+      $(settings.objModalCloseBtn).bind("click", function() {
+        $(".modal").fadeOut();
+      });
+    </script>
+</body>
+
+</html>
