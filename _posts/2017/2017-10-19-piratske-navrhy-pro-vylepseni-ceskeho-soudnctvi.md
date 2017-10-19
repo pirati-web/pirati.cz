@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Veřejná karta soudce a hodnocení jednotlivých soudců. Pirátské návrhy pro vylepšení českého soudnictví"
+title: "Pirátské návrhy pro vylepšení českého soudnictví"
 date: 2017-10-18T15:09:00+02:00
 author: Jakub Michálek
 image: /assets/img/articles/2017/soud.jpg
@@ -10,9 +10,9 @@ tags: justice
 
 Piráti jako jedna z mála stran mají vymyšlenou reformu soudnictví, která zvýší důvěryhodnost soudů. Mezi zhruba 3000 většinou dobrých soudců je pořád část soudců nekvalitních a někdy bohužel i zkorumpovaných. Není je však možné od sebe oddělit, protože neexistuje žádné hodnocení a data o výsledcích jsou neveřejná.
 
-„Zpracovali jsme důkladnou analýzu současného stavu justice, mezinárodního srovnání a doporučených řešení. Není to žádné dogma, ale výchozí materiál pro diskusi o změnách v soudnictví. Nejvíce jsou se svým soudnictvím spokojeni občané Nizozemsku, Dánska a Finsku. Chceme převzít osvědčené principy a klást větší důraz na otevřenost a odpovědnost,” říká Jakub Michálek, právník a lídr Pirátů v Praze. 
+„Zpracovali jsme důkladnou [analýzu][analyza] současného stavu justice, mezinárodního srovnání a doporučených řešení. Není to žádné dogma, ale výchozí materiál pro diskusi o změnách v soudnictví. Nejvíce jsou se svým soudnictvím spokojeni občané Nizozemsku, Dánska a Finsku. Chceme převzít osvědčené principy a klást větší důraz na otevřenost a odpovědnost,” říká Jakub Michálek, právník a lídr Pirátů v Praze. 
 
-Z analýzy vyplývají následující doporučení ke zvýšení kvality justice:
+Z [analýzy][analyza] vyplývají následující doporučení ke zvýšení kvality justice:
 
 * **Otevřený výběr soudců a předsedů soudů.** Sami soudci za největší hrozbu nezávislosti soudců považují neobjektivní podmínky pro výběr a povýšení soudce. Kandidáti na soudce je vhodné vybírat ve veřejných výběrových řízeních za jasných podmínek pro výběr soudce a kariérní postup (včetně např. požadované praxe, písemného testu znalostí, práce s počítačem, odvážných činů pro spravedlnost v dosavadní kariéře). Postupně lze snižovat věk pro odchod soudců do důchodu z dnešních 70 let až na standardní důchodový věk a dát šanci právním expertům vně justice. Díky náboru asistentů lze počet soudců snížil na evropský standard. 
 * **Zřízení nezávislé Rady pro justici**, ve které budou zastoupeni i soudci, která bude garantovat odbornou kvalitu výběru soudců a jeho apolitičnost obdobně jako v Dánsku a Nizozemsku. V zákoně by bylo zejména upraveno veřejné projednání nominace daného člena Rady. Rada by měla např. 5 členů a vybíral by je Senát z právních expertů navržených různými institucemi. 
@@ -24,6 +24,8 @@ Z analýzy vyplývají následující doporučení ke zvýšení kvality justice
 Mimo to prosazujeme zjednodušení soudní soustavy, aby měla jen 3 stupně, a pro veřejnost tak byla přehlednější, a dále digitalizaci soudního řízení a elektronický soudní spis, viz [progam](https://www.pirati.cz/program/psp2017/spravedlnost/). 
 
 **Pokud se nám podaří přijmout klíčové změny v justici, dokážeme podstatně zkrátit dobu soudních řízení, zvýšit odbornost soudců a přiblížit se nejlepším příkladům v Evropě.**
+
+----
 
 ### Často kladené otázky
 
@@ -58,5 +60,7 @@ Ne. Domníváme se, že v důsledku hodnocení by počet kárných žalob dramat
 
 ### Odkaz
 
-* [Vynikající a otevřené soudnictví: Analýza Pirátů k zlepšení fungování českého soudnictví](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/analyza-soudnictvi.pdf)
+[Vynikající a otevřené soudnictví: Analýza Pirátů k zlepšení fungování českého soudnictví][analyza]
+
+[analyza]: https://github.com/pirati-web/pirati.cz/raw/gh-pages/assets/pdf/analyza-soudnictvi.pdf
 
