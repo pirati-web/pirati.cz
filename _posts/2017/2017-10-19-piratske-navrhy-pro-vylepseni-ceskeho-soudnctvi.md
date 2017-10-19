@@ -43,11 +43,11 @@ Hodnocení kvality v soudnictví by mělo probíhat zejména neformálně jako v
 
 **Podle jakých kritérií se bude kvalita v soudnictví hodnotit?**
 
-Hodnocení kvality práce soudce nezahrnuje přezkum konkrétního případu – k tomu je určen odvolací soud. Kvalita v soudnictví se měří průměrnou dobou řízení, aby nedocházelo k průtahům, počtem případů vyřešených na první dobrou (tj. bez odvolání či s neúspěšným odvoláním), nízkým počtem excesů a náklady na práci soudce a jeho týmu připadajícími na jedno typizované rozhodnutí. V hodnocení lze také namátkově kontrolovat řádné vedení spisů (hodnotitelé jsou vázáni mlčenlivostí). Hodnotící senáty by řešily zejména případy soustavných drobných poklesků, které by byly automaticky zaznamenány na kartě soudce, bezproblémoví soudci by byli rutina.
+Hodnocení kvality práce soudce nezahrnuje přezkum konkrétního případu – k tomu je určen odvolací soud. Kvalitu v rámci určité soudní agendy lze měřit např. průměrnou dobou řízení, aby nedocházelo k průtahům, procentem případů vyřešených na první dobrou (tj. bez odvolání či s neúspěšným odvoláním), nízkým počtem excesů a náklady na práci soudce a jeho týmu připadajícími na jedno typizované rozhodnutí. V hodnocení lze také namátkově kontrolovat řádné vedení spisů (hodnotitelé jsou vázáni mlčenlivostí). Hodnotící senáty by řešily dnes neřešené případy soustavných drobných poklesků, které by byly automaticky zaznamenány na kartě soudce. 
 
 **Jak zajistíte nezávislost soudců a justice?**
 
-Podporujeme zřízení nezávislé Rady pro justici, ve které budou zastoupeni renomovaní právní experti, kteří nejsou členy politických stran, a vedle toho i soudci. Rada bude garantovat odbornou kvalitu výběru soudců a její apolitičnost. Za největší hrozbu pro nezávislost soudci považují tlak stran řízení, tlak z vedení soudu a neobjektivní podmínky pro povýšení. Ty chceme řešit jasnými apolitickými pravidly pro povýšení, zavedením zásahu do nezávislosti soudce ze strany předsedy soudu jako nové skutkové podstaty kárného deliktu.
+Podporujeme zřízení nezávislé Rady pro justici, ve které budou zastoupeni renomovaní právní experti, kteří nejsou členy politických stran, a vedle toho i soudci. Rada bude garantovat odbornou kvalitu výběru soudců a její apolitičnost. Za největší hrozbu pro nezávislost považují sami soudci neobjektivní podmínky pro povýšení a tlak z vedení soudu. To chceme vyřešit jasnými apolitickými pravidly pro povýšení a zavedením nové skutkové podstaty kárného provinění v podobě zásahu do nezávislosti soudce vedením soudu.
 
 **Vy chcete lidové soudy, aby soudce soudili laici?**
 
