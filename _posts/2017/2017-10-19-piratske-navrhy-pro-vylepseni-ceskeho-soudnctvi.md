@@ -39,7 +39,7 @@ Rozhodně ne. Právo je postavené na různých právních názorech a nezávisl
 
 **Kdo bude kvalitu soudů, soudních oddělení a soudců hodnotit?**
 
-Hodnocení kvality v soudnictví by mělo probíhat zejména neformálně jako v Nizozemsku, např. pomocí peer review (posouzením od kolegy soudce), vizit s účastí renomovaných právních expertů mimo justici a průzkumem spokojenosti mezi zákazníky soudu. Hlavním smyslem hodnocení je zajistit zpětnou vazbu soudcům. Hodnotící senát, který by měl možnost podat kárnou žalobu a zajišťoval by hodnocení plnění standardů kvality, by byl jmenován pro každý krajský a vyšší soud a hodnotil by soudce z nižšího článku. Členy hodnotícího senátu by jmenovala  Rada pro soudnictví, které by návrhy předkládal předseda soudu po projednání v soudcovské radě daného soudu. 
+Hodnocení kvality v soudnictví by mělo probíhat zejména neformálně jako v Nizozemsku, např. pomocí peer review (posouzením od kolegy soudce), vizit s účastí renomovaných právních expertů mimo justici a průzkumem spokojenosti mezi účastníky řízení u soudu. Hlavním smyslem hodnocení je zajistit zpětnou vazbu soudcům. Hodnotící senát, který by měl možnost podat kárnou žalobu a zajišťoval by hodnocení plnění standardů kvality, by byl jmenován pro každý krajský a vyšší soud a hodnotil by soudce z nižšího článku. Členy hodnotícího senátu by jmenovala  Rada pro soudnictví, které by návrhy předkládal předseda soudu po projednání v soudcovské radě daného soudu. 
 
 **Podle jakých kritérií se bude kvalita v soudnictví hodnotit?**
 
@@ -51,7 +51,7 @@ Podporujeme zřízení nezávislé Rady pro justici, ve které budou zastoupeni 
 
 **Vy chcete lidové soudy, aby soudce soudili laici?**
 
-Absolutně NE. To je dezinformace, kterou o nás v placené inzerci šíří Kalousek. Kárná řízení budou úplně stejně jako dnes vést kárné senáty, ve kterých budou jak soudci, tak jiní právníci, kterým se říká přísedící (např. renomovaní právní profesoři, státní zástupci a jiné osoby, které splňují obdobné předpoklady jako soudce). Navrhujeme pouze drobně upravit složení kárných senátů, které rozhodují o kárných proviněních soudců. Dnes je poměr soudců a přísedících z jiných právních povolání v kárných senátech 3:3. My navrhujeme např. poměr 2:3, aby měla justice silnější zpětnou vazbu z vnějšku a nezapouzdřila se do sebe.
+Absolutně NE. To je dezinformace, kterou o nás v placené inzerci šíří TOP 09. Kárná řízení budou úplně stejně jako dnes vést kárné senáty, ve kterých budou jak soudci, tak jiní právníci, kterým se říká přísedící (např. renomovaní právní profesoři, státní zástupci a jiné osoby, které splňují obdobné předpoklady jako soudce). Navrhujeme pouze drobně upravit složení kárných senátů, které rozhodují o kárných proviněních soudců. Dnes je poměr soudců a přísedících z jiných právních povolání v kárných senátech 3:3. My navrhujeme např. poměr 2:3, aby měla justice silnější zpětnou vazbu z vnějšku a nezapouzdřila se do sebe.
  
 **Nezahltíte hodnocením soudy a kárné senáty?**
 
