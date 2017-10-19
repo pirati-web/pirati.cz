@@ -10,7 +10,7 @@ tags: justice
 
 Piráti jako jedna z mála stran mají vymyšlenou reformu soudnictví, která zvýší důvěryhodnost soudů. Mezi zhruba 3000 většinou dobrých soudců je pořád část soudců nekvalitních a někdy bohužel i zkorumpovaných. Není je však možné od sebe oddělit, protože neexistuje žádné hodnocení a data o výsledcích jsou neveřejná.
 
-„Zpracovali jsme důkladnou [analýzu][analyza] současného stavu justice, mezinárodního srovnání a doporučených řešení. Není to žádné dogma, ale výchozí materiál pro diskusi o změnách v soudnictví. Nejvíce jsou se svým soudnictvím spokojeni občané Nizozemsku, Dánska a Finsku. Chceme převzít osvědčené principy a klást větší důraz na otevřenost a odpovědnost,” říká Jakub Michálek, právník a lídr Pirátů v Praze. 
+> „Zpracovali jsme důkladnou [analýzu][analyza] současného stavu justice, mezinárodního srovnání a doporučených řešení. Není to žádné dogma, ale výchozí materiál pro diskusi o změnách v soudnictví. Nejvíce jsou se svým soudnictvím spokojeni občané Nizozemsku, Dánska a Finsku. Chceme převzít osvědčené principy a klást větší důraz na otevřenost a odpovědnost,” říká Jakub Michálek, právník a lídr Pirátů v Praze. 
 
 Z [analýzy][analyza] vyplývají následující doporučení ke zvýšení kvality justice:
 
