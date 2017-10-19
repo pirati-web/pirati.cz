@@ -5,7 +5,7 @@ title: "Za důstojné porody: Chceme možnost volby a rozmanitou péči"
 date: 2017-09-18T13:03:00+02:00
 author: Jakub Dušánek
 image: /assets/img/articles/2017/vanicka.jpg
-tags: zdravotnictvi
+tags: zdravotnictví
 ---
  
 Svoboda volby je pro Piráty zásadní hodnotou. Proto dáme možnost výběru i rodičkám a umožníme přítomnost porodních asistentek u porodu.
