@@ -13,6 +13,9 @@ relatives:
     - title: Články o zdravotnictví na Pirátských listech
       alt: Články o zdravotnictví na Pirátských listech
       url: http://www.piratskelisty.cz/stitek/Zdravotnictv%C3%AD
+    - title: Tiskové zprávy o zdravotnictví
+      alt: Tiskové zprávy o zdravotnictví
+      url: https://www.pirati.cz/tags/#zdravotnictv%C3%AD
       
 videa:
   - 3g29tkI1_9Q
