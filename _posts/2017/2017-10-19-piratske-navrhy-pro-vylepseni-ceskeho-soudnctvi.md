@@ -64,3 +64,4 @@ Ne. Domníváme se, že v důsledku hodnocení by počet kárných žalob dramat
 
 [analyza]: https://github.com/pirati-web/pirati.cz/raw/gh-pages/assets/pdf/analyza-soudnictvi.pdf
 
+

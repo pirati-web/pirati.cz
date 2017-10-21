@@ -24,6 +24,8 @@ Video k dispozici zde: [https://www.youtube.com/watch?v=sKqP7ktJZG8](https://www
 
 * Zadavatel: Česká pirátská strana
 * Zpracovatel: Strop Media s.r.o.
+* Autorem námětu a scénáře je volební manažer Pirátů Štěpán Štrébl. Na scénáři se s ním podílel Jakub Horák, stratég pirátské kampaně. 
+
  
 (Pirátská strana tímto dává svolení k volnému stahování a šíření E-booku i videa)
  
