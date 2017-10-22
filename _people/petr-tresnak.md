@@ -6,6 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vary
 - carousel
 - ga
+- psp
 img: people/petr-tresnak.jpg # 165 x 220
 description: Starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
 description: Starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji             	# kratký popis, max 160 znaků
@@ -18,7 +19,8 @@ profiles:
   facebook: 		  https://www.facebook.com/petr.tresnak		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=petr%20t%C5%99e%C5%A1%C5%88%C3%A1k
 ordcar: 2
-ordga: 2		 
+ordga: 2
+ordpsp: 21
 carousel:
   img: petr-tresnak.jpg
   text: |
