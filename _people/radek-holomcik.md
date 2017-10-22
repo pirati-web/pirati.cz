@@ -3,9 +3,10 @@ uid: radek.holomcik
 name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík # jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
--
+- psp
 img: people/radek-holomcik.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: poslanec za Jihomoravský kraj           	# kratký popis, max 160 znaků
+ordpsp: 11
 mail:
 - radek.holomcik@pirati.cz
 mob:		+420 728 034 460 
