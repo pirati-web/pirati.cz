@@ -89,17 +89,17 @@ tw: PiratskaStrana
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-volby.gif
+    foto: /assets/img/miscellaneous/featured-vysledky.gif
     alt: volby
     url: volby
   left-top:
-    text: Rozcestník pro volby
-    url: volby
+    text: Regiony
+    url: regiony
     icon: fa fa-map-signs
   right-top:
-    text: Plavba do sněmovny
-    url: plavba
-    icon: fa fa-ship
+    text: Náši lidé
+    url: lide
+    icon: fa fa-users
   left-bottom:
     text: Darujte
     url: https://dary.pirati.cz
