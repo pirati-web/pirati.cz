@@ -5,8 +5,9 @@ fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - olomoucko
+- psp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: 1. místopředseda Pirátů, lídr pro Olomoucký kraj, 2. místopředseda Olomouckého kraje	# kratký popis, max 160 znaků
+description: 1. místopředseda Pirátů, poslanec za Olomoucký kraj, 1. místopředseda Olomouckého kraje	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
@@ -17,6 +18,7 @@ profiles:
   wikipedia:  https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Pikal
   flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
 ordrp: 2
+ordpsp: 5
 ---
 
 Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů a 1. místopředseda olomouckého krajského sdružení. Do voleb. 
