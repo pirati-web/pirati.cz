@@ -1,7 +1,7 @@
 ---
 uid: lukas.kolarik
-name:     Lukáš Kolařík  	# běžně používáné jméno
-fullname: Lukáš Kolařík  	# jméno s tituly etc.
+name:     Lukáš Kolářík  	# běžně používáné jméno
+fullname: Lukáš Kolářík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - jck
 - psp
