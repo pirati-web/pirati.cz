@@ -19,8 +19,8 @@ E-book ke stažení zde: [https://www.pirati.cz/ebook/](https://www.pirati.cz/eb
  
 **Nejdůležitější je odvaha začít**
 
-Odlehčenou formou se pak Piráti rozhodli ve finále kampaně pobavit voliče videem z budoucnosti. Klip s názvem Nejdůležitější je odvaha začít simuluje situaci v Česku poté, co zde drtivě ve volbách zvítězí Pirátská strana. Cestovní pas k vyřízení z domova, největší zjednodušení daní v historii, poštu roznáší drony, studenti se učí jazyky v zahraničí, to jsou vybrané změny, které se po vítězství Pirátů v budoucnosti stanou realitou. Autorem nápadu na video je volební manažer Pirátů Štěpán Štrébl, na scénáři se s ním podílel Jakub Horák, stratég pirátské kampaně. Autorem nápadu na video je volební manažer Pirátů Štěpán Štrébl, na scénáři se s ním podílel Jakub Horák, stratég pirátské kampaně.
-Video k dispozici zde: [https://www.youtube.com/watch?v=sKqP7ktJZG8](https://www.youtube.com/watch?v=sKqP7ktJZG8)
+Odlehčenou formou se pak Piráti rozhodli ve finále kampaně pobavit voliče videem z budoucnosti. Klip s názvem Nejdůležitější je odvaha začít simuluje situaci v Česku poté, co zde drtivě ve volbách zvítězí Pirátská strana. Cestovní pas k vyřízení z domova, největší zjednodušení daní v historii, poštu roznáší drony, studenti se učí jazyky v zahraničí, to jsou vybrané změny, které se po vítězství Pirátů v budoucnosti stanou realitou. Autorem námětu a scénáře je volební manažer Pirátů Štěpán Štrébl. Na scénáři se s ním podílel Jakub Horák, stratég pirátské kampaně. Video k dispozici zde: [https://www.youtube.com/watch?v=sKqP7ktJZG8](https://www.youtube.com/watch?v=sKqP7ktJZG8)
+
 
 * Zadavatel: Česká pirátská strana
 * Zpracovatel: Strop Media s.r.o.
