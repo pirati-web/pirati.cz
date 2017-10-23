@@ -6,6 +6,7 @@ category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 - carousel
+- psp
 img: people/ivan-bartos.jpg # 165 x 220
 description: Lídr do voleb do Poslanecké sněmovny v roce 2017, předseda Pirátů
 mail:
@@ -19,6 +20,7 @@ profiles:
 ordrp: 1
 ordcar: 1
 ordga: 3
+ordpsp: 2
 carousel:
   img: ivan-bartos.jpg
   text: |
