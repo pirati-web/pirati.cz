@@ -86,11 +86,6 @@
                   </li>
                 </ul>
               </li>
-              {% if page.url == '/' %}
-              <li>
-                <a href="{{'/volby/' | relative_url}}">Volby</a>
-              </li>
-              {% endif %}
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
