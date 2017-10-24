@@ -9,7 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: 		people/jakub-michalek.jpg    # 165 x 220
-description: 			Předseda zastupitelského klubu Pirátů v Praze a 3. místopředseda Pirátů             	        			# kratký popis, max 160 znaků
+description: 			předseda poslaneckého klubu Pirátů v PSP ČR, předseda zastupitelského klubu Pirátů v Praze a 3. místopředseda Pirátské strany             	        			# kratký popis, max 160 znaků
 mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
@@ -41,4 +41,4 @@ Jako pražský zastupitel a člen kontrolního výboru Zastupitelstva hl. m. Pra
 * Jako první navrhl zákony k digitálním platformám (Uber, Airbnb). 
 * Předložil návrh zákona, který řeší okrádání turistů v některých směnárnách.
 
-V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii.
+V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii. V roce 2017 kandidoval úspěšně jako lídr za Prahu do Poslanecké sněmovny Parlamentu České republiky.

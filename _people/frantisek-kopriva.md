@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - strednicechy
 - psp
 img: people/frantisek-kopriva.jpg   # 165 x 220
-description: Jednatel Republikového výboru, místopředseda a kandidát ve Středočeském kraji             	# kratký popis, max 160 znaků
+description: poslanec PS PČR, jednatel republikového výboru a jeho místopředseda             	# kratký popis, max 160 znaků
 mail:
 - frantisek.kopriva@pirati.cz
 mob:	+420 736 749 464		  
@@ -22,6 +22,6 @@ ordpsp: 10
 
 František Kopřiva (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a momentálně studuje v Praze, kde také pracuje v Laboratoři pro vývoj a realizaci. Kromě toho příležitostně pracuje jako copywriter. Mezi jeho záliby patří rozšiřování obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění světové i domácí.
 
-Do Pirátské strany vstoupil ve svých 18 letech, na jaře 2014. Již dříve však pomáhal jako příznivec s kontaktními kampaněmi. Je aktivním členem Zahraničního odboru a pracovní skupiny Mezinárodní vztahy. Od května 2015 s přestávkou působí v předsednictvu středočeského sdružení a od srpna 2015 je členem Republikového výboru. Je předsedou místního sdružení v Mladé Boleslavi. V roce 2016 byl lídrem v krajských volbách ve Středočeském kraji, kde Piráti získali 3,5 %.
+Do Pirátské strany vstoupil ve svých 18 letech, na jaře 2014. Již dříve však pomáhal jako příznivec s kontaktními kampaněmi. Je aktivním členem Zahraničního odboru a pracovní skupiny Mezinárodní vztahy. Od května 2015 s přestávkou působí v předsednictvu středočeského sdružení a od srpna 2015 je členem Republikového výboru. Je předsedou místního sdružení v Mladé Boleslavi. V roce 2016 byl lídrem v krajských volbách ve Středočeském kraji, kde Piráti získali 3,5 %. V roce 2017 byl zvolen do Poslanecké sněmovny Parlamentu České republiky za Středočeský kraj. 
 
 Angažováním se v České pirátské straně nechce nic menšího, než přispět k pozitivnímu vývoji lidstva. Politiku považuje za jeden z prostředků. Piráti jsou pro něj ideově nejkompatibilnější stranou a považuje ji za nejlepší alternativu na české politické scéně. Strana ho velmi obohatila a poskytla prostor získávat nové zkušenosti a pracovat s výbornými lidmi.
