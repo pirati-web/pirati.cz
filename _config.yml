@@ -97,7 +97,7 @@ title-page:
     url: regiony
     icon: fa fa-map-signs
   right-top:
-    text: Náši lidé
+    text: Naši lidé
     url: lide
     icon: fa fa-users
   left-bottom:
