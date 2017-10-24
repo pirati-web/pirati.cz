@@ -26,4 +26,4 @@ Vystudoval bakalářský obor Mezinárodní teritoriální studia (Univerzita Ka
 
 V pracovním životě pracoval ve společnostech McKinsey & Company, Euro RSCG, ZOOT, Total Solutions a Moro Systems. Postupně se vypracoval na analytika a manažera projektů v oblasti informačních technologií v bankovnictví (např. obchodování na burze, FX). Též má praktické zkušenosti s marketingem.
 
-Pirátům až dosud věnoval vždy jen ve svém volném čase. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, evropská politika a otázky bezpečnosti. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny jako poslanec PSP ČR za Piráty. 
+Pirátům až dosud věnoval vždy jen ve svém volném čase. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, evropská politika a otázky bezpečnosti. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny jako poslanec PSP ČR za Piráty v Praze. 
