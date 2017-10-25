@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - psp
 img: people/lenka-kozlova.jpg   # 165 x 220
-description: Poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - lenka.kozlova@pirati.cz
 mob: 
