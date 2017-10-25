@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - psp
 img: people/jan-lipavsky.jpg   # 165 x 220
-description: Poslanec PSP ČR, člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR, člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - jan.lipavsky@pirati.cz
 mob:	  

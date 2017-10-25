@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: people/ondrej-profant.jpg # 165 x 220
-description: Zastupitel v zastupitelstvu hl. m. Prahy, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Prahu, zastupitel v zastupitelstvu hl. m. Prahy a předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
@@ -23,7 +23,7 @@ videa:
   - JRdjRJjWEx0
 ---
 
-Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
+Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu, pražský zastupitel a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
 
 ### Motivace
 

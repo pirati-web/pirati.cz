@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - hradec
 - psp
 img: people/martin-jiranek.jpg           # 165 x 220
-description: Zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
+description: poslanec PSP ČR za Královéhradecký kraj, zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
 ordpsp: 17
 mail:
 - martin.jiranek@pirati.cz
@@ -18,7 +18,7 @@ profiles:
 ---
 
 
-Martin Jiránek (* 10. dubna 1978), lídr Pirátů Královéhradeckého kraje do voleb do Polanecké sněmovny v roce 2017, krajský zastupitel, zastupitel města Trutnova a člen republikového výboru Pirátů.
+Martin Jiránek (* 10. dubna 1978) je pirátský poslanec PSP ČR za Královéhradecký kraj. Je rovněž i krajský zastupitel, zastupitel města Trutnova a člen republikového výboru Pirátů.
 
 Vystudoval Gymnázium v Trutnově a má vystudovaný obor Informační management na Univerzitě Hradec Králové. Celou svou profesní kariéru již skoro 15 let pomáhá primárně malým firmám a živnostníkům s marketingem a nastavením firemních procesů, aby dokázali zaujmout a udržet zákazníky a peníze tak zůstávaly v regionu.
 

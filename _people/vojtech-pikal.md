@@ -7,7 +7,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - olomoucko
 - psp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: 1. místopředseda Pirátů, poslanec za Olomoucký kraj, 1. místopředseda Olomouckého kraje	# kratký popis, max 160 znaků
+description: poslanec PSP ČR, 1. místopředseda Pirátů, 1. místopředseda Olomouckého kraje	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
@@ -21,7 +21,7 @@ ordrp: 2
 ordpsp: 5
 ---
 
-Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů a 1. místopředseda olomouckého krajského sdružení. Do voleb. 
+Vojtěch Pikal (19. února 1987) je 1. místopředseda Pirátů a poslanec v PSP ČR za Olomoucký kraj. 
 
 Po vystudování přírodovědné větve Slovanského Gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester software v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.

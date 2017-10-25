@@ -7,10 +7,10 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - psp
 img: people/olga-richterova.jpg   # 165 x 220
-description: Poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - olga.richterova@pirati.cz
-mob: 774153361
+mob: +420 774 153 361
 profiles:
   github:       
   facebook:     https://www.facebook.com/olga.richterova

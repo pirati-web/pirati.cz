@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
 - psp
 img: people/mikulas-ferjencik.jpg   # 165 x 220
-description: Zastupitel Pirátů v Zastupitelstvu hlavního města Prahy, vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+description: Poslanec PSP ČR za Prahu, zastupitel Pirátů v Zastupitelstvu hlavního města Prahy a vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
@@ -21,6 +21,6 @@ ordkontakty: 1
 ordpsp: 18
 ---
 
-Mikuláš Ferjenčík (19. března 1987) je zastupitel hlavního města Prahy za Pirátskou stranu. Pochází z Českých Budějovic, mládí strávil v Cholticích u Pardubic. Studoval na gymnáziu v Přelouči Díky stipendiu nadace Open Society Fund dva roky strávil na Brentwood School v Essexu ve Velké Británii, kde složil i tamní maturitní zkoušku. Po necelých dvou letech následně strávených na Matematicko-fyzikální fakultě Univerzity Karlovy se vydal na Fakultu strojní ČVUT. Od února 2013 do srpna 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V Pirátské straně koordinoval protesty proti smlouvě ACTA, stejně jako kampaň Internet bez cenzury. Pomohl zabránit zavedení turniketů v pražském metru a výrazně přispěl k zapojení České pirátské strany do mezinárodního Pirátského hnutí.
+Mikuláš Ferjenčík (19. března 1987) je pirátský poslanec PSP ČR za Prahu a zastupitel hlavního města Prahy za Pirátskou stranu. Pochází z Českých Budějovic, mládí strávil v Cholticích u Pardubic. Studoval na gymnáziu v Přelouči Díky stipendiu nadace Open Society Fund dva roky strávil na Brentwood School v Essexu ve Velké Británii, kde složil i tamní maturitní zkoušku. Po necelých dvou letech následně strávených na Matematicko-fyzikální fakultě Univerzity Karlovy se vydal na Fakultu strojní ČVUT. Od února 2013 do srpna 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V Pirátské straně koordinoval protesty proti smlouvě ACTA, stejně jako kampaň Internet bez cenzury. Pomohl zabránit zavedení turniketů v pražském metru a výrazně přispěl k zapojení České pirátské strany do mezinárodního Pirátského hnutí.
 
 V pražském zastupitelstvu se věnuje převážně oblasti územního plánování. Upozorňuje na machinace se změnami územního plánu; zastavování volných ploch developery, stejně jako obchody některých politiků, které se prostřednictvím změn územního plánu realizují.
