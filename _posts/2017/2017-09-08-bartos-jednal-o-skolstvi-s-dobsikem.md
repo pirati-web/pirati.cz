@@ -5,7 +5,7 @@ title: "Lídr Pirátů Bartoš jednal s předsedou školských svazů Dobšíkem
 date: 2017-09-08T12:11:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/cmos.jpg
-tags: skolstvi
+tags: vzdělání
 ---
  
 Předseda České pirátské strany Ivan Bartoš se včera setkal s předsedou Českomoravského odborového svazu pracovníků školství Františkem Dobšíkem. Tématem jednání byly především priority a požadavky Pirátů v oblasti zlepšení celkové situace a kondice českého školství. Pirátům jde o nastartování systémového řešení problému českého vzdělávání. Klíčovým deficitem je podle Pirátů věc motivace, a to na všech frontách. Piráti jako jedni z prvních stran ve svém programu představili záměr navýšení platů ve školství o 20 %.
