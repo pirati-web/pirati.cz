@@ -5,7 +5,7 @@ title: "Piráti chtějí omezit dotace pro největší zemědělce a naopak podp
 date: 2017-09-13T10:40:00+02:00
 author: Radek Holomčík
 image: /assets/img/articles/2017/claas.jpg
-tags: zemedelstvi
+tags: zemědělství
 ---
 
 Vláda v pondělí hlasovala o postoji České republiky k otázce budoucí společné zemědělské politiky EU po roce 2020. Česko se jako jedna z mála zemí EU vyjádřilo, že nechce zastropovat přímé platby na zemědělskou plochu pro velké zemědělské podniky. 

@@ -1,7 +1,7 @@
 ---
 date:         2017-05-02
 category:     post
-tags:         přímá demokracie
+tags:         přímá-demokracie
 layout:       post
 title:        "Piráti si zvolili za místopředsedu programátora a biofyzika Mikuláše Peksu"
 image:        /assets/img/articles/2017/mikulas-peksa.jpg

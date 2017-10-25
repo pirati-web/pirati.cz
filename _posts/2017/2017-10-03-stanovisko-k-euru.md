@@ -5,7 +5,7 @@ title: "Postoj Pirátů k přijetí Eura v ČR"
 date: 2017-10-03T10:36:00+02:00
 author: Mikuláš Peksa
 image: /assets/img/articles/2017/euro.jpg
-tags: stanoviska
+tags: stanovisko
 ---
  
 Piráti jsou proevropská strana, jejíž cílem je, aby ČR zůstala v hlavním proudu evropské

@@ -1,7 +1,7 @@
 ---
 date:         2017-07-19
 category:     blog
-tags:         participace brno prima-demokracie
+tags:         participace jihomoravský-kraj přímá-demokracie
 layout:       post
 title:        "Piráti v Brně vyhodnotili první výsledky participativního rozpočtu a představili další návrhy na zavedení přímé demokracie v zemi"
 image:          /assets/img/articles/2017/paro-brno.png
