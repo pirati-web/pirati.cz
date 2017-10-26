@@ -3,12 +3,11 @@ uid: roman.sedlacek
 name:     Roman Sedláček      		# běžně používáné jméno
 fullname: Bc. Roman Sedláček  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
 img: people/roman-sedlacek.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Plzeňský kraj # kratký popis, max 160 znaků
+description: bývalý koordinátor dobrovolníků pro Plzeňský kraj # kratký popis, max 160 znaků
 mail:
 - roman.sedlacek@pirati.cz
-mob: 777 835 739
+mob: 
 profiles:
   github:
   facebook:				
@@ -16,4 +15,4 @@ profiles:
   linkedin: 
 ---
 
-Roman Sedláček je koordinátorem dobrovolníků pro Plzeňský kraj.
+Roman Sedláček je bývalým koordinátorem dobrovolníků pro Plzeňský kraj.
