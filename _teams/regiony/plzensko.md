@@ -10,7 +10,7 @@ deputy:
 - Honza Pošvář
 - Pavel Šrámek
 contact:
-- roman.sedlacek
+- pavel.sramek
 region: Plzeňský kraj
 url: https://plzensky.pirati.cz
 categories:
