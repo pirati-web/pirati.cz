@@ -7,5 +7,5 @@ region: kraj
 categories:
 - kandidatky
 tags:
-- jihocesky-kraj, volby, kandidátky, kandidáti, leadr, jihočeský kraj, jižni čechy, lukáš kolářík, oldřich máca, 
+- jihocesky-kraj, volby, kandidátky, kandidáti, leader, jihočeský kraj, jižni čechy, lukáš kolářík, oldřich máca, 
 ---
