@@ -5,7 +5,7 @@ title: 'Piráti: V kampani se opíráme především o dobrovolné dárce'
 date: 2017-07-26T11:10:40+02:00
 author: Karolína Sadílkova
 image: /assets/img/articles/2017/ivan-harmonika.jpg
-tags: fundrasing finance
+tags: kampaň
 ---
 Kampaň České pirátské strany pro volby do Poslanecké sněmovny PČR je v plném proudu. „Nejsme jako tradiční strany, které využívají k financování státních zdrojů. Nejsme ani podnikatelský projekt, abychom vynaložené prostředky vnímali jako investici,“ říká předseda Pirátů Ivan Bartoš. Piráti se spoléhají především na dobrovolnictví, nadšení a transparentní veřejné financování.
 

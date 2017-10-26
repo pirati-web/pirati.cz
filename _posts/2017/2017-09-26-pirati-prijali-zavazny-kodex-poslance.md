@@ -5,7 +5,7 @@ title: "Piráti přijali závazný kodex pirátského poslance"
 date: 2017-09-26T07:36:00+02:00
 author: Jakub Michálek
 image: /assets/img/articles/2017/snemovna-prazdna.jpg
-tags: snemovna
+tags: sněmovna
 ---
 
 Republikový výbor České pirátské strany schválil **[kodex pirátského poslance](https://pirati-web.github.io/pirati.cz/program/psp2017/kodex-poslance/)**, dokument, který musí každý kandidát do Poslanecké sněmovny podepsat, chce-li se dostat na kandidátní listinu Pirátů.

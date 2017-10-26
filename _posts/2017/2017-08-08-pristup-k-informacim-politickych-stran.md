@@ -5,7 +5,7 @@ title: "Michálek: Zákon o povinném přístupu k informacím se má týkat i p
 date: 2017-08-08T13:44:49+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/michalek-strana.jpg
-tags: pravo
+tags: legislativa
 ---
 
 Nejvyšší správní soud rozhodl, že politické strany, které dostávají od státu stomilionové dotace, nemusí poskytovat občanům informace podle zákona o svobodném přístupu k informacím. Dosavadní zákon skutečně tuto povinnost od stran nevyžaduje. Nastal nicméně čas uvažovat o tom, že by strany měly přestat informace o hospodaření tajit. Podobně jako nedávno v rozhodnutí Ústavního soudu, který od zveřejňování informací osvobodil ČEZ, chystají Piráti návrh na doplnění zákona o povinném přístupu k informacím o politické strany.

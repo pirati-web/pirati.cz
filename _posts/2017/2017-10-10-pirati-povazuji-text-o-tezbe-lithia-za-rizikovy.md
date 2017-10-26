@@ -5,7 +5,7 @@ title: "Piráti považují text Memoranda o těžbě lithia za rizikový"
 date: 2017-10-09T09:40:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/lithium.jpg
-tags: prumysl
+tags: ekonomika
 ---
  
 Na začátku října podepsal ministr průmyslu Jiří Havlíček (ČSSD) Memorandum o porozumění se společností European Metals Holdings. Text memoranda obsahuje požadavky na maximalizaci zpracování lithia v ČR, spolupráci s českými akademickými výzkumnými základnami na zpracování rudy a zapojení českého státu jako kapitálového účastníka projektu. Těžba lithia v Cínovci v Krušných horách má začít v roce 2022 a australská společnost chce vytěžit 37 milionů tun rudy. Podle ministra obsahuje text memoranda nezávazná ujednání, ze kterých pro stát nevyplývají žádné závazky ani povinnosti. Memorandum ovšem explicitně odkazuje na smlouvu o ochraně investic mezi ČR a Austrálií. 
