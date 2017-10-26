@@ -6,7 +6,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 img: people/martin-smida.jpg             # 165 x 220
 img-full:                 		# větší obrázek zobrazený na podrobném profilu
-description: 				poslanec PSP ČR za Olomoucký kraj, 2. místopředseda Pirátů             		# kratký popis, max 160 znaků
+description: 				2. místopředseda Pirátů, zasupitel obce Majetín             		# kratký popis, max 160 znaků
 mail:
 - martin.smida@pirati.cz
 mob:					+420 721 661 311
