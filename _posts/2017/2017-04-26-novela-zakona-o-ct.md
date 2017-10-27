@@ -1,7 +1,7 @@
 ---
 date:         2017-04-26
 category:     blog
-tags:         legislativa
+tags:         legislativa televize
 layout:       post
 title:        "Piráti s výhradami podporují návrh novely zákona o České televizi a Českém rozhlasu"
 image:          /assets/img/articles/2017/zakon_ct_cro.JPG

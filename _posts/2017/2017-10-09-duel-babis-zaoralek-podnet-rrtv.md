@@ -5,7 +5,7 @@ title: "Piráti kvůli předvolebnímu duelu Babiše se Zaorálkem podávají po
 date: 2017-10-09T09:40:00+02:00
 author: Štěpán Štrébl
 image: /assets/img/articles/2017/rrtv.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Česká pirátská strana vyzvala TV Nova, aby poskytla více vysílacího času ostatním stranám nebo rozšířila počet účastníků plánovaného duelu Andreje Babiše a Lubomíra Zaorálka. Dle Pirátů Nova poruší Zákon o televizním a rozhlasovém vysílání, pokud poskytne prostor jen dvěma stranám. Piráti proto podali podnět Radě pro rozhlasové a televizní vysílání.

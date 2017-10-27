@@ -5,7 +5,7 @@ title: "Česká zemědělská politika je pod vlivem obludného střetu zájmů 
 date: 2017-09-05T09:27:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/babis-hnizdo.jpg
-tags: kampan
+tags: zemědělství
 ---
 
 Média v těchto dnech informovala o smutném faktu, že Česká republika je jednou ze dvou zemí v EU (spolu se Slovenskem) bojujících proti zastropování přímých plateb v zemědělství. Tento stav dlouhodobě nahrává velkým agrokorporacím, poškozuje malé zemědělce a je hlavním důvodem, proč Agrofert v loňském roce dostal na dotacích více, než zaplatil na daních. Česká zemědělská politika je pod vlivem obludného střetu zájmů pánů Babiše, Faltýnka a dalších představitelů agrokorporací. 

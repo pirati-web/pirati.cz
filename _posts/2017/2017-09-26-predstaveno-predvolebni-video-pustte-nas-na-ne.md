@@ -5,7 +5,7 @@ title: "Piráti představují předvolební video: Pusťte nás na ně. Všichni
 date: 2017-09-26T07:36:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/autobus.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Praha, 26. září 2017 – Odezva voličů na vězeňský autobus inspirovala Piráty k natočení další hudební pecky. Předseda Pirátů Ivan Bartoš v předvolebním videu zpívá voličům, proč jsou Piráti ve Sněmovně potřeba.

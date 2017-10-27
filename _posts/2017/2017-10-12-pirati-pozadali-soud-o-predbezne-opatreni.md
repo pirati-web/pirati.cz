@@ -5,7 +5,7 @@ title: "Piráti požádali soud o předběžné opatření. Trvají na tom, že 
 date: 2017-10-12T12:58:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/volebni-studio.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Česká pirátská strana podala žalobu na Radu pro rozhlasové a televizní vysílání jakožto regulující orgán. Piráti viní Radu z nečinnosti. V připojeném návrhu na předběžné opatření Piráti požadují, aby Nova poskytla prostor i jiným stranám než ANO a ČSSD. Nova dle Pirátů porušuje Zákon o televizním a rozhlasovém vysílání, který objektivitu a vyváženost médií vyžaduje.

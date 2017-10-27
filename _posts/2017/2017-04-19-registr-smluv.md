@@ -1,7 +1,7 @@
 ---
 date:         2017-04-19
 category:     blog
-tags:         registr-smluv
+tags:         registr-smluv legislativa
 layout:       post
 title:        "Piráti senátorům: Odmítněte likvidaci zákona o zveřejňování smluv"
 image:        /assets/img/articles/2017/ivan-registr.jpg

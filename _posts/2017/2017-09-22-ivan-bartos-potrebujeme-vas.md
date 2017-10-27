@@ -5,7 +5,7 @@ title: "Potřebujeme vaši pomoc, nadešel čas!"
 date: 2017-09-22T10:59:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/ivan-apel.jpg
-tags: kampan
+tags: kampaň
 ---
 
 Piráti jsou jen kousek od historické možnosti vstoupit do parlamentu. Tam budeme moci prosazovat a kontrolovat naše návrhy zákonů a jako parlamentní stranu nás média budou brát vážně.

@@ -5,7 +5,7 @@ title: "Piráti vyřídili téměř 1 tisíc voličských průkazů"
 date: 2017-10-06T08:40:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/prukazy.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Stovky voličských průkazů denně vyřizují v těchto dnech Piráti na svých stanovištích u vysokých škol v Praze, Brně, Plzni a Olomouci. Za celý týden, kdy se akce koná, bylo Piráty v celé zemi přijato téměř tisíc žádostí o vyřízení průkazu. Do akce se včera v Praze zapojil i předseda Pirátů Ivan Bartoš, který rozdával formuláře k vyplnění. Piráti vystavují průkazy zdarma, každý volič může přijít, vyplnit formulář, na místě mu notář ověří podpis a dále se o vystavení průkazu již postarají Piráti - vyřízený volební průkaz už voliči přijde poštou na místo určení.

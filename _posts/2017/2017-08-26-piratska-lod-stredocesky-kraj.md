@@ -5,7 +5,7 @@ title: "Pirátská loď opustila Ústecká kraj. V příštím týdnu zakotví h
 date: 2017-08-26T12:44:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/solarnilod.jpg
-tags: kampan
+tags: kampaň středočeský-kraj
 ---
 
 Pirátská solární loď opustila Ústecký kraj. Po týdenní plavbě včera loď doplula do Kralup ve Středočeském kraji. Poprvé opouští vody Labe a vydává se na Vltavu. Ve středních Čechách loď postupně během následujícího více než týdne navštíví Kralupy, Roztoky, Mělník, Neratovice, Brandýs nad Labem, Poděbrady, Nymburk a Kolín.

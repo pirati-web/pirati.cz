@@ -5,7 +5,7 @@ title: Předseda Pirátů v sobotu koncertoval ve Zlínském kraji
 date: 2017-08-08T09:41:49+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-zlin.jpg
-tags: volby vzdělání
+tags: volby zlínský-kraj
 ---
 
 Předseda Pirátů Ivan Bartoš navštívil v sobotu (5. srpna) Zlínský kraj. Na Mírovém náměstí vysvětloval volební program, zahrál na akordeon a podepsal finální kandidátku Pirátů ve Zlínském kraji pro podzimní volby. Zúčastnil se i Piráty pořádaného tenisového turnaje amatérských čtveřic v Otrokovicích. Odpoledne pak Bartoš navštívil vyhlášené místo U Rybičky na cyklostezce u Baťova kanálu v Babicích. Pirátská posádka zakončila svou jízdu na filmovém festivalu Letní filmová škola v Uherském Hradišti.

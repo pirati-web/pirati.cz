@@ -5,7 +5,7 @@ title: "Nečasová na pirátském autobusu zůstane. Jsem rád, že svoboda slov
 date: 2017-09-01T12:03:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/nagyova.jpg
-tags: kampan
+tags: kauzy kampaň
 ---
  
 Pokud opravdu soud žádost paní Nečasové (Nagyové) o předběžné opatření zamítl, jak píše server iRozhlas.cz (Piráti oficiálně žádné vyjádření soudu neobdrželi), jsem velmi rád, že svoboda slova v téhle zemi ještě žije. Kreslit tykadla politikům na vlastní autobus se ještě smí. Chvíli jsem se bál, zda si paní Nečasová (Nagyová) nepodvolila i zdejší soudy. Naštěstí tomu tak není a my můžeme dál svobodně vyjadřovat, co si o politicích ztvárněných na našem autobusu myslíme.

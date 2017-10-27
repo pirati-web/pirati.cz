@@ -5,7 +5,7 @@ title: "Nově zvolení poslanci České pirátské strany se poprvé sešli na s
 date: 2017-10-22T15:44:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/poslanecky-klub.jpg
-tags: poslanecky-klub
+tags: sněmovna
 ---
 
 Praha, 22. října 2017 – Všech dvaadvacet nově zvolených poslanců České pirátské strany se dnes sešlo na prvním společném setkání nově vzniklého klubu. Poslanci si odhlasovali složení vyjednávacího povolebního týmu, jednání povede předseda strany Ivan Bartoš a místopředseda Jakub Michálek, ad hoc je budou doplňovat Dana Balcarová, Lenka Kozlová, Mikuláš Peksa, Lukáš Bartoň a Mikuláš Ferjenčík.

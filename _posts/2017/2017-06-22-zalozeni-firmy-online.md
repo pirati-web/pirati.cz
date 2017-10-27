@@ -1,7 +1,7 @@
 ---
 date:         2017-06-22
 category:     blog
-tags:         volby
+tags:         volby ekonomika
 layout:       post
 title:        "Pirátská strana už nyní realizuje, co ostatní politici dosud jen slibovali. Díky Pirátům teď může každý založit firmu online"
 image:          /assets/img/articles/2017/bartos.jpg

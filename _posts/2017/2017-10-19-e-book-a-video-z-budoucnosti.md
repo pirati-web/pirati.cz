@@ -5,7 +5,7 @@ title: "E-book a video z budoucnosti. Piráti jdou do finiše"
 date: 2017-10-19T12:09:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/vsichninekradou.png
-tags: kampan
+tags: kampaň
 ---
 Praha, 19. října 2017 – Do napjaté předvolební situace přináší Pirátská strana odlehčení. Piráti představují nový E-book o ekonomické a legislativní vizi strany a předvolební video z budoucnosti, které simuluje situaci v zemi po volebním vítězství Pirátské strany.
  

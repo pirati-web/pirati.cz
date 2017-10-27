@@ -5,7 +5,7 @@ title: "Závěrečný vzkaz Ivana Bartoše podporovatelům Pirátů"
 date: 2017-10-20T10:11:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/ivan-pirati.jpg
-tags: kampan
+tags: kampaň
 ---
 
 Vážení podporovatelé Pirátů, 

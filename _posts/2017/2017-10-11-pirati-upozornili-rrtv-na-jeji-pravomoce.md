@@ -5,7 +5,7 @@ title: "Piráti upozornili Radu pro rozhlasové a televizní vysílání na prav
 date: 2017-10-11T08:35:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/nova.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Předseda Rady pro rozhlasové a televizní vysílání dle Pirátů nezná zákony, podle kterých Rada funguje. Předseda Rady Ivan Krejčí médiím sdělil, že Rada řeší pouze odvysílaný obsah. Zákon jí přitom umožňuje uložit předběžné opatření a řešit i obsah, který teprve bude vysílán. Piráti tedy zopakovali výzvu Radě, aby Nova poskytla více vysílacího času ostatním stranám nebo rozšířila počet účastníků plánovaného duelu Andreje Babiše a Lubomíra Zaorálka.
