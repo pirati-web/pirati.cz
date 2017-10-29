@@ -51,3 +51,6 @@ Své výdělky z veřejných prostředků si nenechává jen pro sebe a tak při
 Mezi jeho zájmy kromě rolových her patří společenský tanec, sledování infotainmentu na youtube či četba fantasy a sci-fi literatury.
 
 Politický kompas: [1](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=54.3&d=57.4&g=71.9&s=71.9)
+
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=vpfafrin%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
