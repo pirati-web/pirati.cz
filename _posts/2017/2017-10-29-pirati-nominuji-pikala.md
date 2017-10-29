@@ -8,7 +8,7 @@ image: /assets/img/articles/2017/ivan-vojta.jpg
 tags: sněmovna
 ---
 
-29. října 2017 – Poslanci České pirátské strany v neděli zvolili na svém druhém zasedání nominanta na post místopředsedy Poslanecké sněmovny ČR, stal se jím lídr olomoucké kandidátky Voltěch Pikal. 
+Poslanci České pirátské strany v neděli 29. října zvolili na svém druhém zasedání nominanta na post místopředsedy Poslanecké sněmovny ČR, stal se jím lídr olomoucké kandidátky Voltěch Pikal. 
 
 > „Vojtěch Pikal má dlouholetou zkušenost v předsednictvu strany, má široké procesní a právní znalosti Jednacího řádu Poslanecké sněmovny ČR a legislativy s tím spojené a v neposlední řadě i organizační a jazykové znalosti nutné pro tuto funkci. Nepředpokládáme tedy, že by jako kandidát třetí nejsilnější strany neměl získat podporu,“ uvedl lídr strany Ivan Bartoš. Pirátští poslanci dále specifikovali pět výborů, které jsou pro ně z hlediska obsahu prioritní. Minimálně ve třech z nich budou Piráti usilovat o předsednické křeslo.
  
