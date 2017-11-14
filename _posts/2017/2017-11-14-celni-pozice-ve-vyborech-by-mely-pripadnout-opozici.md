@@ -48,7 +48,7 @@ Přehled nominantů na posty předsedů a místopředsedů za Pirátskou stranu:
 |Výbor pro veřejnou správu a regionální rozvoj|Předseda|Ondřej Profant/Ivan Bartoš|
 |Rozpočtový výbor|Místopředseda|Mikuláš Ferjenčík|
 |Výbor pro životní prostředí|Předsedkyně|Dana Balcarová|
-|Zemědělský výbor|Místopřesdeda|Radek Holomčík|
+|Zemědělský výbor|Místopředseda|Radek Holomčík|
 |Výbor pro evropské záležitosti|Předseda|Mikuláš Peksa|
 |Zahraniční výbor|Místopředseda|Jan Lipavský|
 |Hospodářský výbor|Místopředseda|Martin Jiránek|
@@ -57,7 +57,7 @@ Přehled nominantů na posty předsedů a místopředsedů za Pirátskou stranu:
 |Výbor pro sociální politiku|Místopředseda|Olga Richterová|
 |Ústavně právní výbor|Místopředseda|Jakub Michálek|
 |Kontrolní výbor|Předseda/místopředseda|Lukáš Černohorský|
-|Výbor pro zdravotnictví|Místopředseda|Petr Ťřešňák
+|Výbor pro zdravotnictví|Místopředseda|Petr Třešňák
 
 Tento návrh byl odeslán předsedům klubů parlamentních stran a jejich tajemníkům jako podklad k diskuzi.
 
