@@ -1,5 +1,6 @@
 ---
 title: Povolební strategie
+img: articles/2017/poslanecky-klub.jpg
 ---
 
 # Povolební strategie Pirátů
