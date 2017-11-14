@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Čelní pozice ve výborech by si dle Pirátů měli rozdělit opoziční strany poměrně"
+title: "Čelní pozice ve výborech by si dle Pirátů měly rozdělit opoziční strany poměrně"
 date: 2017-11-14T09:12:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-jakub-snemovna.jpg
