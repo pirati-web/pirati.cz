@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
 - psp
 img: people/mikulas-ferjencik.jpg   # 165 x 220
-description: poslanec PSP ČR za Prahu, zastupitel Pirátů v Zastupitelstvu hlavního města Prahy a vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Pardubický kraj, zastupitel Pirátů v Zastupitelstvu hlavního města Prahy a vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
