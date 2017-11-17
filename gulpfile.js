@@ -28,7 +28,8 @@ const customjs = [
   c + 'kalkulacka.js',
   c + 'ga.js',
   c + 'tw.js',
-  c + 'fb.js'
+  c + 'fb.js',
+  c + 'piwik.js'
 ];
 
 // Concatenate & Minify JS
