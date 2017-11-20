@@ -12,9 +12,9 @@ mail:
 - mikulas.peksa@pirati.cz
 mob:			  
 asistent:
-  name: David Wagner
+  name: Adam Komenda
   mail: peksam@psp.cz
-  tel:  778111450
+  tel:  731698142
 profiles:
   github:       
   facebook:     https://www.facebook.com/karel.vosmera
