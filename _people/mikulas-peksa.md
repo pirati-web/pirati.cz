@@ -11,6 +11,10 @@ description: poslanec PSP ČR za Ústecký kraj, 4. místopředseda Pirátů, ga
 mail:
 - mikulas.peksa@pirati.cz
 mob:			  
+asistent:
+  name: David Wagner
+  mail: peksam@psp.cz
+  tel:  778111450
 profiles:
   github:       
   facebook:     https://www.facebook.com/karel.vosmera
