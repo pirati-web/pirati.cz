@@ -6,11 +6,11 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - khk
 img: people/jaroslav-dvorsky.jpg   # 165 x 220
 description: kandidát do Senátu           	# kratký popis, max 160 znaků
-mail:
-mob: 
+mail: jar.dvorsky@gmail.com
+mob: +420 721 634 132 
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/jaroslav.dvorsky.37
   twitter:
   flickr: 
 ---
