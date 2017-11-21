@@ -4,7 +4,7 @@ category: CLANKY
 title: "Piráti budou hlasovat pro vydání Babiše a Faltýnka"
 date: 2017-11-21T13:30:00+02:00
 author: Karolína Sadílková
-image: /assets/img/articles/2017/ivan-jaku-vydani.jpg
+image: /assets/img/articles/2017/ivan-jakub-vydani.jpg
 tags: babiš
 ---
 
