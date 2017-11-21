@@ -28,6 +28,7 @@ Je členem autorských sdružení (Obec spisovatelů, Unie českých spisovatel�
 
 Pro to všechno je sympatizantem právě Pirátské strany a jejího programu.
 
-„Človíčka opatruj jako oheň:
-v mírném a spravedlivém.
-Jedině tak doroste a rozhoří se
+> „Človíčka opatruj jako oheň:  
+> v mírném a spravedlivém.  
+> Jedině tak doroste a rozhoří se  
+> prosté dobré lidství…“   (JD)
