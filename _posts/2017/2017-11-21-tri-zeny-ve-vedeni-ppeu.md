@@ -5,7 +5,7 @@ title: "Do čela Rady Evropské pirátské strany usedly tři ženy, jedna je z 
 date: 2017-11-21T11:43:54+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/predsednictvo-ppeu.jpg
-tags: výročí
+tags: ppeu
 ---
 
 Pirátské centrum na Žižkově v Praze hostilo minulý víkend (18. a 19. listopadu 2017) delegáty čtrnácti evropských Pirátských stran, konala se totiž volba nového předsednictva Rady Evropské pirátské strany (PP-EU). Předsedkyní se stala islandská Pirátka Oktavía Hrund Jónsdóttir, místopředsedkyněmi pak Pirátka z francouzské Parti Pirate, v online světě prezentující se jako „Antigone”, a zástupkyně České pirátské strany Markéta Gregorová. V širším předsednictvu usedne i poslanec Mikuláš Peksa.
