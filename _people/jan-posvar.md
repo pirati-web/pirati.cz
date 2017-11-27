@@ -18,5 +18,12 @@ profiles:
 ordpsp: 13
 ---
 
-Jan Pošvář (16. května 1985, Kamenice nad Lipou) je předseda krajského sdružení Vysočina. V současnosti žije stále na Vysočině a zároveň pracuje v Praze jako programátor ve společnosti T-SOFT a.s. Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Ještě během studií si našel práci jako programátor ve společnosti T-SOFT, a.s. kde se podílí na vývoji informačních systémů. Během svého života se učil i řemeslu svého otce a od června 2013 získal řemeslnou živnost – malířské a natěračské práce. Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. V roce 2017 kandidoval úspěšně do Poslanecké sněmovny Parlamentu České republiky za kraj Vysočina jako krajský lídr. 
+Jan Pošvář (16. května 1985, Kamenice nad Lipou) je jedním z 22 pirátských poslanců zvolených do Poslanecké sněmovny Parlamentu České republiky. Je předseda vysočinského krajského sdružení. V současnosti se pohybuje mezi Prahou a Vysočinou.
+Je členem zemědělského, rozpočtového a volebního výboru. Ujal se dvou programových priorit z volebního programu: zrušení dotací na biopaliva a zjednodušení zdanění.
+V rámci poslaneckého klubu odpovídá za technické zajištění komunikace s veřejností.
+
+Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Ještě během studií si našel práci jako programátor ve společnosti T-SOFT, a.s., kde se podílí na vývoji informačních systémů. Během svého života se učil i řemeslu svého otce a od června 2013 získal řemeslnou živnost – malířské a natěračské práce.
+
+Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. Ve volném čase programuje.  
+ 
 
