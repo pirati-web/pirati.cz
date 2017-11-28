@@ -26,3 +26,5 @@ Olga pochází z vesnice jménem Choltice a od roku 2002 žije v Praze. Je opozi
 
 „Od r. 2014 hájím veřejný zájem jako zastupitelka Koalice Vlasta na Praze 10 za Piráty. Chcete se přidat? Má to smysl!“
 
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=gn1i05sfapugq65d6l5jcav8b4%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
