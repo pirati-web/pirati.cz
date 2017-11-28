@@ -2,6 +2,9 @@
 title: Stanovy České pirátské strany
 layout: page
 rbar: twitter, fb, people
+img: miscellaneous/acta-cover.jpg
+description: Stanovy České pirátské strany jsou ústřední dokument, který údává základní politické hodnoty a organizační strukturu strany. Kladou velký důraz na demokracii a svobodu slova.
+keywords: Stanovy České pirátské strany, Pirátská strana, Piráti, politické cíle
 ---
 
 ## Základní ustanovení
@@ -20,7 +23,7 @@ rbar: twitter, fb, people
 
 (1) Cílem České pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu.
 
-(2) Česká pirátská strana chce svou politikou prosazovat a podporovat 
+(2) Česká pirátská strana chce svou politikou prosazovat a podporovat
 
 - a) svobodný přístup jednotlivců k informacím,
 - b) svobodu slova a vyjadřování,
@@ -69,7 +72,7 @@ rbar: twitter, fb, people
 - c) vyloučením v případě závažného porušení stanov či opakovaného poškození dobrého jména strany,
 - d) pozbytím způsobilosti ke členství podle [čl. 3 (1)](#Čl-3-Členství).
 
-(6) Zánik členství bere na vědomí předsednictvo příslušného sdružení, nestane-li se tak, republikové předsednictvo. Členství zaniká dnem vzetí na vědomí u právních úkonů člena, dnem právní moci příslušného rozhodnutí u právních jednání dalších osob a právních událostí. 
+(6) Zánik členství bere na vědomí předsednictvo příslušného sdružení, nestane-li se tak, republikové předsednictvo. Členství zaniká dnem vzetí na vědomí u právních úkonů člena, dnem právní moci příslušného rozhodnutí u právních jednání dalších osob a právních událostí.
 
 (7) Člen strany má právo
 
@@ -94,7 +97,7 @@ rbar: twitter, fb, people
 
 (2) Registrovaní příznivci strany nejsou členy strany ve smyslu [ZPS](https://www.zakonyprolidi.cz/cs/1991-424).
 
-(3) Registrovaní příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být voleni do komisí a odborů, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí. Při všech hlasováních mají pouze poradní hlas a nemohou být zvoleni do vedení žádného orgánu strany. Další ustanovení o členech se použijí na registrované příznivce přiměřeně. 
+(3) Registrovaní příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být voleni do komisí a odborů, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí. Při všech hlasováních mají pouze poradní hlas a nemohou být zvoleni do vedení žádného orgánu strany. Další ustanovení o členech se použijí na registrované příznivce přiměřeně.
 
 ## Organizační jednotky a orgány
 
@@ -184,7 +187,7 @@ rbar: twitter, fb, people
 
 (4) Předseda strany svolá zasedání celostátního fóra, pokud jej o to požádá republikové předsednictvo nebo republikový výbor.
 
-(5) Celostátní fórum ve výlučné působnosti 
+(5) Celostátní fórum ve výlučné působnosti
 
 - a) volí a odvolává republikové předsednictvo,
 - b) volí a odvolává volené členy republikového výboru,
@@ -211,7 +214,7 @@ rbar: twitter, fb, people
 
 (4) Předseda strany svolá zasedání republikového výboru do 14 dnů, požádá-li jej o to víc než pětina jeho členů.
 
-(5) Republikový výbor zejména 
+(5) Republikový výbor zejména
 
 - a) [stanoví](https://wiki.pirati.cz/rules/pcp) výši členských příspěvků a příspěvků registrovaných příznivců a lhůty pro zaplacení,
 - b) navrhuje zřízení komisí a odborů a schvaluje jejich statut,
@@ -250,7 +253,7 @@ rbar: twitter, fb, people
 - b) jedná jménem republikového předsednictva navenek,
 - c) může svolat zasedání republikového výboru.
 
-(6) Místopředsedové zastupují předsedu ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem. 
+(6) Místopředsedové zastupují předsedu ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
 
 ### Čl. 11 Komise
 
@@ -282,13 +285,13 @@ rbar: twitter, fb, people
 
 (1) Pokud není uvedeno jinak, fungují kontrolní komise i rozhodčí komise podle [čl. 11](#Čl-11-komise). Přezkumné orgány jednají podle právních principů běžných v demokratickém soudnictví, zejména dbají na to, aby nikomu nestranily. Ostatní orgány jsou při přezkumu povinny poskytnout součinnost.
 
-(2) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a předpisů strany. Kontrolní komise 
+(2) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a předpisů strany. Kontrolní komise
 
 - a) vyšetřuje stížnosti na porušení předpisů týkajících se činnosti strany,
 - b) vyšetřuje kompetenční spory ve straně, které ze zákona nepřísluší jinému orgánu,
 - c) předkládá důvodné stížnosti spolu s výsledky vyšetřování rozhodčí komisi.
 
-(3) Rozhodčí komise rozhoduje ve stranických sporech mezi fyzickými osobami navzájem, resp. mezi fyzickými osobami a organizačními jednotkami strany nebo orgány. Rozhodčí komise 
+(3) Rozhodčí komise rozhoduje ve stranických sporech mezi fyzickými osobami navzájem, resp. mezi fyzickými osobami a organizačními jednotkami strany nebo orgány. Rozhodčí komise
 
 - a) rozhoduje vždy na návrh kontrolní komise,
 - b) při projednávání vyšetřených stížností vždy vyslechne účastníky řízení,
