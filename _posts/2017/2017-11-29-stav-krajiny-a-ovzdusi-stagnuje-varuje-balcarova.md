@@ -5,7 +5,7 @@ title: "Stav krajiny a ovzduší stagnuje, varuje Pirátka Dana Balcarová"
 date: 2017-11-29T08:06:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/lom.jpg
-tags: životní prostředí
+tags: životní-prostředí
 ---
  
 Na programu posledního listopadového zasedání Vlády ČR budou téměř čtyři desítky bodů. Mezi nimi zazní i Zpráva o životním prostředí České republiky v roce 2016. Pro Pirátskou stranu je oblast životního prostředí jedním z klíčových témat. I proto usilují o vedení Výboru pro životní prostředí, který by měla vést Dana Balcarová, garantka strany pro oblast životního prostředí: „Situace stále není zdaleka ideální. Je například potřeba motivovat drobné zemědělce a firmy k šetrnému hospodářství a rovněž kontrolovat velké znečišťovatele“.
