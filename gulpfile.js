@@ -26,7 +26,6 @@ const c = '_includes/js/'
 const customjs = [
   c + 'custom.js',
   c + 'kalkulacka.js',
-  c + 'ga.js',
   c + 'tw.js',
   c + 'fb.js',
   c + 'piwik.js'
