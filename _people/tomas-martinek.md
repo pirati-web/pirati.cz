@@ -19,7 +19,7 @@ ordpsp: 11
 
 Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a opoziční zastupitel města Česká Lípa. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
 
-Zabývá se také implementací informačních systémů jako fakultní systémový integrátor na Provozně ekonomické fakultě ČZU v Praze. Je také členem Rady pro vnitřní hodnocení ČZU. Prošel několika firmami, kde se věnoval převážně reklamě a marketingu. V současné době je podnikatelem v oboru internetového marketingu, konkrétně vlastní agenturu [WebCesky.cz][]. 
+Zabývá se také implementací informačních systémů jako fakultní systémový integrátor na Provozně ekonomické fakultě ČZU v Praze. Je také členem Rady pro vnitřní hodnocení ČZU. Prošel několika firmami, kde se věnoval převážně reklamě a marketingu. V současné době je podnikatelem v oboru internetového marketingu, konkrétně vlastní agenturu [WebCesky.cz](https://www.webcesky.cz). 
 
 Angažuje se v aktivitách souvisejících s transparentností ve veřejné správě a ekonomií, převážně problematikou nezaměstnanosti, e-governmentu a otevřených měst. Podporuje projekty Otevřená města či OpenData. Věnoval se také výchově dětí v rámci ozdravných pobytů a skautingu.
 
@@ -27,7 +27,4 @@ V Pirátské straně působil jako registrovaný příznivec od roku 2012. V r
 
 Tomáš Martínek pochází z České Lípy. Kromě bydliště v České Lípě využívá také pracovní byt v Horoměřicích u Prahy, odkud dojíždí do práce. V současné době žije s přítelkyní a kočkou.
 
-Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. Informace o aktuálním dění najdete i na jeho facebookovém [profilu][].
-
-[WebCesky.cz] https://www.webcesky.cz
-[profilu] https://www.facebook.com/tmartinek
+Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. Informace o aktuálním dění najdete i na jeho facebookovém [profilu](https://www.facebook.com/tmartinek).
