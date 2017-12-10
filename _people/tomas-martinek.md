@@ -1,7 +1,7 @@
 ---
 uid: tomas.martinek
 name:     Tomáš Martínek  	# běžně používáné jméno
-fullname: Tomáš Martínek  	# jméno s tituly etc.
+fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/tomas-martinek.jpg   # 165 x 220
