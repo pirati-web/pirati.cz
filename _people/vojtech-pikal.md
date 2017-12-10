@@ -6,7 +6,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - psp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: místopředseda sněmovny, člen republikového výboru	# kratký popis, max 160 znaků
+description: 5. místopředseda sněmovny, člen republikového výboru	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
@@ -20,7 +20,7 @@ profiles:
 ordpsp: 5
 ---
 
-Vojtěch Pikal (19. února 1987) je člen republikového výboru a místopředseda sněmovny a poslanec za Olomoucký kraj. 
+Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj. 
 
 Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester softwaru v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
