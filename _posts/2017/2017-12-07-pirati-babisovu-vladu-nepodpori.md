@@ -10,7 +10,7 @@ tags: sněmovna
  
 Jeden z nejčastějších dotazů, které Piráti dostávají, je otázka na povolební spolupráci s Hnutím ANO. Piráti, jako jediná strana, již před volbami uvedli jasné podmínky, za kterých do vlády vstoupí, a za kterých ne. 
 
-Klíčovou podmínkou Pirátů zůstává, že se nezúčastní jakékoliv vlády s účastí politiků s nevyřešenými korupčními kauzami. Spolupráce s Andrejem Babišem a ANO je ale pro Piráty nepřípustná i kvůli dalším skutečnostem. Dovolujeme si uvést věcné důvody, které brání Pirátům ve spolupráci s Hnutím ANO:
+Klíčovou podmínkou Pirátů zůstává, že se nezúčastní jakékoliv vlády s účastí politiků s nevyřešenými korupčními kauzami. Spolupráce s Andrejem Babišem a ANO na vládní úrovni je ale pro Piráty nepřípustná i kvůli dalším skutečnostem. Dovolujeme si uvést věcné důvody, které brání Pirátům ve spolupráci s Hnutím ANO:
 
 1. **Cenzura je pro nás nepřípustná, svoboda internetu naopak naprosto klíčová**
 * Andrej Babiš dal přednost zájmům českých sázkových kanceláří před svobodou internetu. A my na to rozhodně nezapomínáme. Tvrdí, že prý nerozumíme potřebě zdanit online hazard. Pravda je ale taková, že on sám nechápe, proč jsou cenzura a potlačování svobody internetu špatné.
