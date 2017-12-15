@@ -18,6 +18,7 @@ profiles:
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=olga%20richterov%C3%A1
 ordpsp: 4
+ordpraha: 5
 ---
 
 Olga Richterová (* 21. ledna 1985) je pirátská poslankyně za Prahu, předsedkyně místního sdružení Praha 10 a členka Republikového výboru. 
