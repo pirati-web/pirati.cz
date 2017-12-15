@@ -3,7 +3,6 @@ uid: jan.lipavsky
 name:     Jan Lipavský  	# běžně používáné jméno
 fullname: Jan Lipavský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 - rv
 - psp
 img: people/jan-lipavsky.jpg   # 165 x 220
