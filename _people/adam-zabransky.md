@@ -5,7 +5,7 @@ fullname: Adam Zábranský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Zastupitel klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Předseda zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868
@@ -17,4 +17,4 @@ profiles:
 ordpraha: 4
 ---
 
-Adam Zábranský (* 28. prosince 1993, Praha) je pražský zastupitel za Piráty. V zastupitelstvu se věnuje hlavně odhalování kauz a prosazování transparentnosti. Momentálně studuje na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Od čtrnácti let přispíval na českou Wikipedii. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem.
+Adam Zábranský (* 28. prosince 1993, Praha) je předseda zastupitelského klubu Pirátů v Zastupitelstvu hlavního města Prahy. V zastupitelstvu se věnuje hlavně odhalování kauz a prosazování transparentnosti. Momentálně studuje na Právnické fakultě Univerzity Karlovy, předtím čtyři roky studoval na Gymnáziu Jana Keplera a ještě předtím na Mensa gymnáziu. Od čtrnácti let přispíval na českou Wikipedii. Z etických důvodů se v osmnácti letech stal vegetariánem a v devatenácti veganem.
