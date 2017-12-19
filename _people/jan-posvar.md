@@ -27,5 +27,5 @@ Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. 
 Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. Ve volném čase programuje.  
  
 ### Kalendář
-<iframe src="https://calendar.google.com/calendar/embed?src=3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
