@@ -26,12 +26,12 @@ carousel:
   img: jakub-michalek.jpg
   text: |
     <p><strong>Předseda poslaneckého klubu Pirátů</strong>, místopředseda Pirátské strany a garant volebního programu pro vnitro a veřejnou správu.</p>
-    <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
+    <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
 ---
 
-Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů, člen republikového předsednictva Pirátské strany a místopředseda Pirátů. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.
+Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů a místopředseda Pirátů. Studoval na Gymnáziu Jana Keplera v Praze, na Oundle School ve Velké Británii a na Cranbrook-Kingswood v USA. Během pobytu v USA pracoval na University of Michigan. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.
 
-Od října 2014 do listopadu 2017 byl pražským zastupitelem; na pražském Magistrátu se věnoval řadě kauz. Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance.
+Od října 2014 do listopadu 2017 byl pražským zastupitelem. Na pražském Magistrátu se věnoval řadě kauz. 
 
 * Podrobně se zabýval kauzami z doby primátora Pavla Béma, např. Opencard, nevýhodného pronájmu Škodova paláce a vyzval primátorku k podání žaloby. 
 * Upozornil také na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a potřebné se nedostává. 
@@ -40,4 +40,6 @@ Od října 2014 do listopadu 2017 byl pražským zastupitelem; na pražském Mag
 * Jako první navrhl zákony k digitálním platformám (Uber, Airbnb). 
 * Předložil návrh zákona, který řeší okrádání turistů v některých směnárnách.
 
-V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii. V roce 2017 kandidoval úspěšně jako lídr za Prahu do Poslanecké sněmovny Parlamentu České republiky.
+Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze. Jako předseda poslaneckého klubu se zasadil o vznik vyšetřovací komise pro kauzu OKD. 
+
+V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii. 

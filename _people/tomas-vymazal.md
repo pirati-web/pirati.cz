@@ -22,3 +22,5 @@ Tomáš Vymazal je pirátský poslanec PSP ČR za Jihomoravský kraj. informatik
 Už od vstupu k Pirátům se Tomáš zajímal o legislativní úskalí nakládání s konopím a dlouho hledal vhodný způsob nápravy současného závadného stavu. Rok 2017 se rozhodl využít k práci na věcném zámeru zákona o regulované legalizaci psychoaktivního konopí. Prosazoval, aby tento záměr mohli Piráti po zvolení do poslanecké sněmovny skutečně prosadit. V roce 2017 byl za Jihomoravský kraj zvolen do Poslanecké sněmovny.
 
 Tomáš je správcem Pirate Space Brno, kde také tráví většinu svého volného času. Ten v současnosti věnuje především vylepšování svojí 3D tiskárny a stavbě dlouho očekávané kvadrokoptéry.
+
+<iframe width="750" height="750" src="https://pirati.cloud/index.php/apps/calendar/embed/NC2RP6WPQYN2TQKZ"></iframe>
