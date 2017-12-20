@@ -17,3 +17,7 @@ Autor návrhu Jan Vobořil z IuRe podotýká, že plošné sledování nevedlo k
 Předkladatelé návrhu se opírají o dvě rozhodnutí Soudního dvoru EU, který naposledy v prosinci 2016 rozhodl, že státy nemají právo plošně uchovávat data o uživatelích komunikačních sítí. Porušují tím právo na ochranu soukromí a svou legislativu by měly náležitě upravit. Vláda České republiky však v této věci dosud neudělala nic.
 
 Piráti na plošné sledování lidí a současnou legislativu již několikrát upozorňovali, a to dlouho před volební kampaní. Piráti jsou příznivci moderních technologií a digitalizace státu, avšak tyto prostředky musí lidem sloužit a pomáhat: „Moderní technologie nevnímáme jako bič na lidi. Stát nemůže svévolně zneužívat své prostředky k tomu, aby šmíroval občany,“ uzavírá Ferjenčík. 
+
+### Odkazy
+
+* [Návrh Pirátů a IuRe a zrušení plošného sledování](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/dr-stiznost-fin.pdf)
