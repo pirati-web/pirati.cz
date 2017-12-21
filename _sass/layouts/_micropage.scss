@@ -1,10 +1,11 @@
 $dark: #343434;
+$u: 1.25rem;
 %before-util{
   content: '';
   display: block;
   position: absolute;
   z-index: -1;
-  background: rgba($dark, .95);
+  background: rgba($dark, .20);
   left: 0;
   top: 0;
   bottom: 0;
@@ -45,6 +46,13 @@ $dark: #343434;
   //  filter: grayscale(100%);
   //  left: calc(50% - 730px);
   //}
+
+  &__section{
+    padding: 15px;
+    @include breakpoint(mobile down) {
+      padding: 2*$unit;
+    }
+  }
 
   &__top-bar{
     background-color: $dark;
@@ -92,7 +100,7 @@ $dark: #343434;
     }
   }
   &__hero{
-    padding: 6*$unit 0;
+    //padding: 6*$unit 0;
     overflow: hidden;
     position: relative;
     line-height: 1;
@@ -101,14 +109,20 @@ $dark: #343434;
     small{
       font-size: 1.5rem;
     }
-    &:before{
-      @extend %before-util;
-      //@extend %before-pattern;
-      background: url(pomer.svg) no-repeat center center;
-      transform: rotate(-45deg) translate(21%, -16%);
-      width: 60vw;
-      height: 60vw;
-    }
+
+      &:before {
+        @extend %before-util;
+        //@extend %before-pattern;
+        background: url(pomer.svg) no-repeat center center;
+        transform: rotate(-45deg) translate(21%, -16%);
+        width: 60vw;
+        height: 60vw;
+        top: -60px;
+        @include breakpoint(mobile down) {
+          display: none;
+        }
+      }
+
     //&:after{
     //  @extend %before-util;
     //  @extend %before-pattern;
@@ -136,25 +150,31 @@ $dark: #343434;
   &__heading{
     text-align: center;
     font-size: 2.5em;
-    margin: 4*$unit 0;
+    margin-bottom: 4*$unit ;
     position: relative;
     color: white;
-    position: sticky;
-    top: 64px;
-    z-index: 1;
     &:before{
       @extend %before-util;
       top: -$unit;
       bottom: -$unit;
-      right: 20%;
+      right: 10%;
       transform: skew(45deg);
+      left: -20%;
+      @include breakpoint(mobile down) {
+        transform: skew(-45deg);
+      }
     }
     &:after{
       @extend %before-util;
       top: -$unit;
       bottom: -$unit;
-      left: 20%;
+      left: 10%;
       transform: skew(-45deg);
+
+      right: -20%;
+      @include breakpoint(mobile down) {
+        transform: skew(45deg);
+      }
     }
   }
   &__perex{
@@ -165,149 +185,42 @@ $dark: #343434;
     }
 
     &-columns{
-      $u: 1.25rem;
+
       column-count: 2;
       column-gap: 2*$u;
       padding: $u 0;
       margin-bottom: 2*$u;
     }
   }
-  &__kan{
-    margin-top: -5*$unit - .75rem;
-    .u-cf{
-      &:nth-child(2n+0){
-        .o-media {
-          &:hover {
-            .o-media__body {
-              left:auto;
-              right: 0;
-            }
-          }
-        }
-      }
-    }
-    .o-media{
-      position: relative;
-      margin-right: 1.25*$unit;
-      margin-bottom: 1.25*$unit;
-      &:hover{
-        .o-media__body{
-          display: block;
-          width: 300px;
-        }
-      }
-      &__image{
-        overflow: hidden;
-        border-radius: 200px;
-        width: 90px;
-        height: 90px;
-        display: block;
-        padding: 0;
-        img{
-          width: 100%;
-        }
-      }
-      &__body{
-        display: none;
-        position: absolute;
-        left: 0;
-        z-index: 2;
-        background: #fff;
-        padding: $unit;
-      }
-    }
-    //overflow: hidden;
-    .l-kan__item{
-      border-top: none;
-    }
-    &-img{
-      position: relative;
-      &:before{
-        @extend %before-util;
-        background: rgba($dark,.1) !important;
-        transform: rotate(45deg) translate(-0%, -62%);
-        opacity: 0.5;
-        width: 5*$unit;
-        height: 80vh;
-      }
-      img{
-        position: sticky;
-        top: 120px;
-      }
-    }
-    &-item:nth-of-type(even) &-img{
-      &:before{
-        @extend %before-util;
-        transform: rotate(-45deg) translate(450%, -30%);
-      }
-    }
-  }
-  &__activity{
-    $u: 1.25rem;
-    &-perex{
-      &-item{
-        padding-top: $u;
-        padding-bottom: $u;
-        display: flex;
-      }
-      &-icon{
-        font-size: 3rem;
-        line-height: 5rem;
-        vertical-align: middle;
-        display: block;
-        text-align: center;
-        border-radius: 50%;
-        background: $dark;
-        color: white;
-        width: 5rem;
-        height: 5rem;
-        flex-basis: 5rem;
-        flex-shrink: 0;
-        margin: 0 2*$u;
-      }
-    }
-  }
   &__flexed{
     display: flex;
     flex-wrap: wrap;
   }
-  &__priority,&__connect{
-    $u: 1.25rem;
-    &-detail{
-      background: rgba($dark,.05);
-      &-title{
-        margin: $u 0;
-        padding: $u 0;
-        position: relative;
-        font-size: 1.75em;
-        &:before{
-          @extend %before-util;
-          //right: -100%;
-          //border-bottom: 1px solid $dark;
-          top: auto;
-          height: 1px;
-        }
-        p + &{
-          margin-top: 2*$u;
-        }
+  &__sticky{
+    position: sticky;
+    top: 64px;
+    z-index: 1;
+  }
+  &__detail{
+    background: rgba($dark,.05);
+    &-title{
+      margin: $u 0 2*$u;
+      padding: $u 0;
+      position: relative;
+      font-size: 1.75em;
+      &:before{
+        @extend %before-util;
+        //right: -100%;
+        //border-bottom: 1px solid $dark;
+        top: auto;
+        height: 1px;
       }
-    }
-    &-row{
-      //border-top: 1px solid rgba(black, .1);
-      //padding-top: 4*$unit;
-    }
-    &-perex{
-      position: sticky;
-      top: 144px;
-      &-item{
-        padding: 0 2*$u 2*$u 0;
-        & + &{
-          border-top: 1px solid rgba(black, .1);
-          padding-top: 2*$u;
-        }
+      p + &{
+        margin-top: 2*$u;
       }
     }
   }
+
   &__end{
     p+p{
 
