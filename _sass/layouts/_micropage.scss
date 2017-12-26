@@ -46,7 +46,33 @@ $u: 1.25rem;
   //  filter: grayscale(100%);
   //  left: calc(50% - 730px);
   //}
-
+  &__modal{
+    position: fixed;
+    background: white;
+    width: 800px;
+    top: 20%;
+    bottom: 20%;
+    //border-radius: 2*$unit;
+    box-shadow: 0px 0px 2*$unit $unit rgba($dark,.5);
+    padding: 2.25rem;
+    overflow: auto;
+    left: 50%;
+    margin-left: -400px;
+    z-index: 19;
+    &-close{
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba($dark, .9);
+      z-index: 18;
+      text-align: center;
+      padding-top: 10%;
+      cursor: pointer;
+      color: white;
+    }
+  }
   &__section{
     padding: 15px;
     @include breakpoint(mobile down) {
@@ -72,6 +98,9 @@ $u: 1.25rem;
           font-size: 1rem !important;
         }
       }
+    }
+    &.c-top-bar .dropdown.menu>li+li>a::before{
+      left: -1.5rem;
     }
   }
   &__toggle{
