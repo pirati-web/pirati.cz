@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/lukas-barton.jpg   # 165 x 220
 description: poslanec PSP ČR za Plzeňský kraj, předseda krajského sdružení Plzeňský kraj            	# kratký popis, max 160 znaků
-ordpsp: 6
+ordpsp: 11
 mail:
 - lukas.barton@pirati.cz
 mob:			  
