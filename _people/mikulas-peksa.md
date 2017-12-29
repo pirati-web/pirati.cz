@@ -22,7 +22,7 @@ profiles:
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=mikul%C3%A1%C5%A1%20peksa&view_all=1
 ordga: 9
 ordrp: 5
-ordpsp: 10
+ordpsp: 6
 ---
 
 Mikuláš Peksa (* 18. června 1986) je pirátský poslanec v PSP ČR za Ústecký kraj. Je rovněž garantem zahraničního týmu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. 
