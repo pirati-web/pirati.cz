@@ -15,7 +15,7 @@ profiles:
   facebook: 		  https://www.facebook.com/ArAx666
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jan%20po%C5%A1v%C3%A1%C5%99&view_all=1
-ordpsp: 13
+ordpsp: 10
 ---
 
 Jan Pošvář (16. května 1985, Kamenice nad Lipou) je jedním z 22 pirátských poslanců zvolených do Poslanecké sněmovny Parlamentu České republiky. Je předseda vysočinského krajského sdružení. V současnosti se pohybuje mezi Prahou a Vysočinou.
