@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/radek-holomcik.jpg   # 165 x 220
 description: poslanec za Jihomoravský kraj           	# kratký popis, max 160 znaků
-ordpsp: 11
+ordpsp: 8
 mail:
 - radek.holomcik@pirati.cz
 mob:		+420 728 034 460 
