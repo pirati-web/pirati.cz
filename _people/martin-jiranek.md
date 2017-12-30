@@ -7,7 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/martin-jiranek.jpg           # 165 x 220
 description: poslanec PSP ČR za Královéhradecký kraj, zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
-ordpsp: 17
+ordpsp: 18
 mail:
 - martin.jiranek@pirati.cz
 mob: +420 777 719 282

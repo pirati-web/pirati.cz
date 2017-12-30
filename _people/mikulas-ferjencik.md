@@ -18,7 +18,7 @@ profiles:
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=mikul%C3%A1%C5%A1%20ferjen%C4%8D%C3%ADk
 ordpraha: 3
 ordkontakty: 1
-ordpsp: 18
+ordpsp: 14
 ---
 
 Mikuláš Ferjenčík (19. března 1987) je pirátský poslanec PSP ČR za Pardubický kraj a zastupitel hlavního města Prahy za Pirátskou stranu. Pochází z Českých Budějovic, mládí strávil v Cholticích u Pardubic. Studoval na gymnáziu v Přelouči Díky stipendiu nadace Open Society Fund dva roky strávil na Brentwood School v Essexu ve Velké Británii, kde složil i tamní maturitní zkoušku. Po necelých dvou letech následně strávených na Matematicko-fyzikální fakultě Univerzity Karlovy se vydal na Fakultu strojní ČVUT. Od února 2013 do srpna 2013 působil jako koordinátor dobrovolníků v protikorupční kampani Rekonstrukce státu. V Pirátské straně koordinoval protesty proti smlouvě ACTA, stejně jako kampaň Internet bez cenzury. Pomohl zabránit zavedení turniketů v pražském metru a výrazně přispěl k zapojení České pirátské strany do mezinárodního Pirátského hnutí.

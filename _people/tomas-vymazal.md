@@ -14,7 +14,7 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=tom%C3%A1%C5%A1%20vymazal
   wiki: https://wiki.pirati.cz/lide/tomas_vymazal
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.3&soc=-7.4
-ordpsp: 14
+ordpsp: 13
 ---
 
 Tomáš Vymazal je pirátský poslanec PSP ČR za Jihomoravský kraj. informatik, zahrádkář a nadšenec do robotiky. Členem Pirátské strany je od roku 2010. Žije v Brně a poslední čtyři roky je tam zaměstnán v softwarové společnosti zabývající se telekomunikacemi. Od září 2016 je členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřuje na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11% na mandát těsně nedosáhl.
