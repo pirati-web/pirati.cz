@@ -14,7 +14,7 @@ profiles:
   facebook:     https://www.facebook.com/tmartinek
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
-ordpsp: 11
+ordpsp: 15
 ---
 
 Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a opoziční zastupitel města Česká Lípa. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
