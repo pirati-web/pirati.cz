@@ -1,7 +1,13 @@
+---
+layout: default
+---
+
 <div class="l-vizitka columns medium-6 large-{{include.columns}}">
     <div class="o-media o-media--top">
         <div class="o-media__image o-media__image--lgspace">
+          {% if include.name %}
             <img src="{{ include.img }}" alt="{{ include.name }}"> </div>
+          {% endif %}
         <div class="o-media__body">
             {% if include.res %}<h3 class="l-vizitka__title">{{ include.res }}</h3>{% endif %}
             {% if include.name %}
@@ -12,7 +18,6 @@
             {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}
             {% if include.tel %}<p>{{ include.tel }}<br> {% endif %}
             {% if include.mail %}<a href="mailto:{{ include.mail }}">{{ include.mail }}</a>{% endif %}
-            </p>
         </div>
     </div>
 </div>
