@@ -24,4 +24,4 @@ vysvětlující tiskové zprávy.
 > “Že se bude inženýr Babiš ve vládě chovat spíše jako ředitel než jako první mezi
 > rovnými, nás nepřekvapuje, škoda, že to odnáší i přístup veřejnosti k informacím,” uzavírá Bartoš.
 
-Vláda návrh projedná 3. ledna 2017.
+Vláda návrh projedná 3. ledna 2018.
