@@ -17,7 +17,7 @@ profiles:
   wikipedia:  https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Pikal
   flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
-ordpsp: 5
+ordpsp: 7
 ---
 
 Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj. 

@@ -17,7 +17,7 @@ profiles:
   twitter: 		  https://twitter.com/FrantiekKopiva
   instagram:    https://www.instagram.com/koprivafrantisek
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=franti%C5%A1ek%20kop%C5%99iva
-ordpsp: 10
+ordpsp: 22
 ---
 
 František Kopřiva (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a momentálně studuje v Praze, kde v letech 2016-2017 pracoval v Laboratořích pro vývoj a realizaci. Kromě toho příležitostně pracuje jako copywriter. Mezi jeho záliby patří rozšiřování obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění světové i domácí.
