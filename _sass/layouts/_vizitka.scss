@@ -12,6 +12,7 @@ $dark: #343434;
   &__title{
     //position: relative;
     color: white;
+    font-size: 1rem;
     @include breakpoint(mobile down) {
       position: relative;
     }
@@ -20,7 +21,7 @@ $dark: #343434;
       bottom: auto;
       height: 2rem;
       background: $dark;
-      top: .75*$unit;
+      top: .75rem;
       left: 3*$unit;
       @include breakpoint(mobile down) {
         top: -.5rem;
