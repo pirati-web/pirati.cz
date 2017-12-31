@@ -1,12 +1,15 @@
 <div class="l-vizitka columns medium-6 large-{{include.columns}}">
     <div class="o-media o-media--top">
         <div class="o-media__image o-media__image--lgspace">
-            <img src="{{ include.img }}" alt="{{ include.name }}"> </div>
+            <img src="{{ include.img }}" alt="{{ include.name }}">
+            {% if include.icon %}<img src="{{ include.icon }}">{% endif %}
+        </div>
         <div class="o-media__body">
             {% if include.res %}<h3 class="l-vizitka__title">{{ include.res }}</h3>{% endif %}
             {% if include.name %}
                 <h4 class="o-media__headline">
-                 <a data-modal href="{{ include.link }}">{{ include.name }}</a>
+                 <!--<a data-modal href="{{ include.link }}">{{ include.name }}</a>-->
+                    {{ include.name }}
                 </h4>
             {% endif %}
             {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}

@@ -40,36 +40,51 @@ layout: default
 </div>
 
 <script>
-    var siteUrl = 'http://'+(document.location.hostname||document.location.host);
-    var modal_triggers = document.body.querySelectorAll("a[data-modal]");
-    for (i = 0; i < modal_triggers.length; ++i) {
-      console.log(modal_triggers[i].getAttribute('href'));
-      // do whatever
+    var milos = {};
+    milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
+    milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
+    milos.bindAjax = function(targets,root) {
+      for (i = 0; i < targets.length; ++i) {
+        console.log(targets[i].getAttribute('href'));
+        // do whatever
+        targets[i].addEventListener("click", function(event) {
+          //your handler here
+          event.preventDefault();
+          var url = event.target.getAttribute('href');
+          var xhr = new XMLHttpRequest();
+          xhr.onload = function() {
+            var doc = this.responseXML;
+            var modal = document.getElementsByClassName("l-micropage__modal")[0];
+            var contentElement;
+            var html = '';
+            if (root === undefined) {
+              contentElement = doc.getElementsByTagName("BODY");
+            }else{
+              contentElement = doc.querySelectorAll(root);
+            }
+            for (j = 0; j < contentElement.length; ++j) {
+              var content = contentElement[j].innerHTML;
+              html = html + content;
+            }
+            modal.innerHTML = html;
+            modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
+            modal.style.display = 'block';
+            var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
+            closeTrigger.addEventListener("click", function(event) {
+              modal.innerHTML = '';
+              modal.style.display = 'none';
+              closeTrigger.outerHTML = "";
+              delete closeTrigger;
+            });
+          }
 
-      modal_triggers[i].addEventListener("click", function(event) {
-        //your handler here
-        event.preventDefault();
-        var  url = event.target.getAttribute('href');
-        var xhr = new XMLHttpRequest();
-        xhr.onload = function() {
-          var doc = this.responseXML;
-          var modal = document.getElementsByClassName("l-micropage__modal")[0];
-          var content = doc.getElementsByTagName("BODY")[0].innerHTML;
-          modal.innerHTML = content;
-          modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
-          modal.style.display = 'block';
-          var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
-          closeTrigger.addEventListener("click", function(event) {
-            modal.innerHTML = '';
-            modal.style.display = 'none';
-            closeTrigger.outerHTML = "";
-            delete closeTrigger;
-          });
-        }
+          xhr.open("GET", url);
+          xhr.responseType = "document";
+          xhr.send();
+        }, false);
+      };
+    }
 
-        xhr.open("GET", url);
-        xhr.responseType = "document";
-        xhr.send();
-      }, false);
-    };
+    milos.bindAjax(milos.modal_triggers);
+
 </script>

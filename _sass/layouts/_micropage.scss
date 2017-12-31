@@ -1,5 +1,8 @@
 $dark: #343434;
 $u: 1.25rem;
+body{
+  overflow-x: hidden;
+}
 %before-util{
   content: '';
   display: block;
@@ -49,16 +52,23 @@ $u: 1.25rem;
   &__modal{
     position: fixed;
     background: white;
-    width: 800px;
-    top: 20%;
-    bottom: 20%;
+
+    top: 4.75rem;
+    bottom: 0;
+    left: 0;
+    right:0;
     //border-radius: 2*$unit;
     box-shadow: 0px 0px 2*$unit $unit rgba($dark,.5);
     padding: 2.25rem;
     overflow: auto;
-    left: 50%;
-    margin-left: -400px;
     z-index: 19;
+    @include breakpoint(mobile up) {
+      top: 20%;
+      bottom: 20%;
+      left: 50%;
+      max-width: 800px;
+      margin-left: -400px;
+    }
     &-close{
       position: fixed;
       top: 0;
@@ -68,10 +78,14 @@ $u: 1.25rem;
       background: rgba($dark, .9);
       z-index: 18;
       text-align: center;
-      padding-top: 10%;
+      padding-top: 1.7rem;
       cursor: pointer;
       color: white;
+      @include breakpoint(mobile up) {
+        padding-top: 10%;
+      }
     }
+
   }
   &__section{
     padding: 15px;

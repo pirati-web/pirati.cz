@@ -15,14 +15,9 @@
     <div class="">
         <h2 class="l-micropage__detail-title text-center" id="transparence">Fungování klubu</h2>
         <div class="row">
-        {% assign cols=4 %}
+        {% assign cols=6 %}
 
-        {% include_relative vizitka.html
-            name="Jakub Michálek" link="/snemovna/vizitka.html" mail="jakub.michalek@pirati.cz"
-            img="/assets/img/snemovna/Michalek_Jakub.png"
-            res="Předseda klubu"
-            columns=cols
-        %}
+
         {% include_relative vizitka.html
             name="Jan Pošvář" link="/snemovna/vizitka.html" mail="poslanci@pirati.cz"
             img="/assets/img/snemovna/Posvar_Jan.png"
@@ -48,6 +43,7 @@
             desc="člen podvýboru pro dopravu"
             res="Doprava"
             columns=cols
+            icon="/assets/img/program/doprava.svg"
         %}
 
         {% include_relative vizitka.html
@@ -65,7 +61,7 @@
             res="Informatika"
             columns=cols
         %}
-        </div><div class="row">
+
         {% include_relative vizitka.html
             name="Lenka Kozlová" link="/snemovna/vizitka.html"
             img="/assets/img/snemovna/Kozlova_Lenka.png"
@@ -83,13 +79,13 @@
         %}
 
         {% include_relative vizitka.html
-            name="Ivan Bartoš" link="/snemovna/vizitka.html" mail="ivan.bartos@pirati.cz"
+            name="Ivan Bartoš" link="/snemovna/getVizitka.html" mail="ivan.bartos@pirati.cz"
             img="/assets/img/snemovna/Bartos_Ivan.png"
             desc="předseda výboru pro veřejnou správu a regionální rozvoj"
             res="Místní rozvoj"
             columns=cols
         %}
-        </div><div class="row">
+
         {% include_relative vizitka.html
             name="Jan Lipavský" link="/snemovna/vizitka.html" mail="ivan.bartos@pirati.cz"
             img="/assets/img/snemovna/Lipavsky_Jan.png"
@@ -113,7 +109,7 @@
             res="Průmysl a obchod"
             columns=cols
         %}
-        </div><div class="row">
+
         {% include_relative vizitka.html
             name="Jakub Michálek" link="/snemovna/vizitka.html" mail="jakub.michalek@pirati.cz"
             img="/assets/img/snemovna/Michalek_Jakub.png"
@@ -137,7 +133,7 @@
             res="Školství, mládež a tělovýchova"
             columns=cols
         %}
-        </div><div class="row">
+
         {% include_relative vizitka.html
             name="Petr Třešňák" link="/snemovna/vizitka.html" mail="petr.tresnak@pirati.cz"
             img="/assets/img/snemovna/Tresnak_Petr.png"
