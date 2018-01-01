@@ -266,6 +266,10 @@
     min-height: auto;
     min-height: fit-content;
   }
+
+  .row {
+    position: relative;
+  }
 }
 
 .c-BasicPage-headline-bg {
