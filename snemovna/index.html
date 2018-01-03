@@ -21,19 +21,70 @@ layout: default
     <nav class="l-micropage__top-bar c-top-bar">
         <div class="row">
             <ul class="l-micropage__top-bar__list menu dropdown">
-                <li class="l-micropage__top-bar__list-item"><a href="#">Aktuality</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#">Klub</a></li>
+                <li class="l-micropage__top-bar__list-item"><a href="#aktuality">Aktuality</a></li>
+                <li class="l-micropage__top-bar__list-item"><a href="#klub">Klub</a></li>
             </ul>
         </div>
     </nav>
-    <section class="l-micropage__section row o-section ">
+    <section class="l-micropage__section row o-section " id="aktuality">
         <div class="small-12 columns">
             {% include_relative aktuality.html %}
         </div>
     </section>
-    <section class="l-micropage__section row o-section ">
+    <section class="l-micropage__section row o-section " id="klub">
         <div class="small-12 columns">
             {% include_relative klub.html %}
         </div>
     </section>
+    <div class="l-micropage__modal" style="display: none"></div>
 </div>
+
+<script>
+    var milos = {};
+    milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
+    milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
+    milos.bindAjax = function(targets,root) {
+      for (i = 0; i < targets.length; ++i) {
+        console.log(targets[i].getAttribute('href'));
+        // do whatever
+        targets[i].addEventListener("click", function(event) {
+          //your handler here
+          event.preventDefault();
+          var url = event.target.getAttribute('href');
+          var xhr = new XMLHttpRequest();
+          xhr.onload = function() {
+            var doc = this.responseXML;
+            var modal = document.getElementsByClassName("l-micropage__modal")[0];
+            var contentElement;
+            var html = '';
+            if (root === undefined) {
+              contentElement = doc.getElementsByTagName("BODY");
+            }else{
+              contentElement = doc.querySelectorAll(root);
+            }
+            for (j = 0; j < contentElement.length; ++j) {
+              var content = contentElement[j].innerHTML;
+              html = html + content;
+            }
+            modal.innerHTML = html;
+            modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
+            modal.style.display = 'block';
+            var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
+            closeTrigger.addEventListener("click", function(event) {
+              modal.innerHTML = '';
+              modal.style.display = 'none';
+              closeTrigger.outerHTML = "";
+              delete closeTrigger;
+            });
+          }
+
+          xhr.open("GET", url);
+          xhr.responseType = "document";
+          xhr.send();
+        }, false);
+      };
+    }
+
+    milos.bindAjax(milos.modal_triggers);
+
+</script>
