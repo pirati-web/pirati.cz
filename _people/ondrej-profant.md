@@ -16,7 +16,7 @@ asistent:
   mail: profanto@psp.cz
   tel:  607 580 015
 profiles:
-  github:       https://github.com/kedrigern/
+  github:       https://github.com/kedrigern
   facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
