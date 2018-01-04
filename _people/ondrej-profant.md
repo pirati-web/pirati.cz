@@ -19,7 +19,8 @@ profiles:
   github:       https://github.com/kedrigern/
   facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
-  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+  flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+  report:       https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html
 ordpraha: 2
 ordga: 4
 ordpsp: 20
