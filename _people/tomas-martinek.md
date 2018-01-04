@@ -5,7 +5,7 @@ fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/tomas-martinek.jpg   # 165 x 220
-description: poslanec za Liberecký kraj         	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Liberecký kraj         	# kratký popis, max 160 znaků
 mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
