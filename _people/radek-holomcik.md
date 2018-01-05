@@ -10,11 +10,16 @@ ordpsp: 8
 mail:
 - radek.holomcik@pirati.cz
 mob:		+420 728 034 460 
+asistent:
+  name: Petr Springinsfeld
+  mail: petr.springinsfeld@pirati.cz
+  tel:  608 366 554
 profiles:
   github:                
   facebook:
   twitter: 		  
   flickr:
+  report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.

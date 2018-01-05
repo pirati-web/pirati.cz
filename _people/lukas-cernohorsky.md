@@ -11,11 +11,16 @@ ordpsp: 3
 mail:
 - lukas.cernohorsky@pirati.cz
 mob:			  +420 601 573 955
+asistent:
+  name: Zuzana Kolaříková
+  mail: kolarikovaz@psp.cz
+  tel:  777 674 414
 profiles:
   github:                
   facebook: 		http://www.facebook.com/lukas.cernohorsky
   twitter: 		  
   flickr:
+  report: https://forum.pirati.cz/poslanci-f884/report-lukas-cernohorsky-t39059.html
 ---
 
 Lukáš Černohorský (\*1984) se narodil v Dlouhé Lhotě u Příbrami. Odkud se přestěhoval do Ostravy.

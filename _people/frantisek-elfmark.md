@@ -10,12 +10,17 @@ description: poslanec PSP ČR za Zlínský kraj, radní města Uherské Hradišt
 mail:
 - frantisek.elfmark@pirati.cz
 mob:	  
+asistent:
+  name: Marek Houser
+  mail: marek.houser@pirati.cz
+  tel:  725 611 894
 profiles:
   github:       
   facebook:     https://www.facebook.com/felfmark
   twitter: 	
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20elfmark&view_all=1
+  report: 		https://forum.pirati.cz/poslanci-f884/report-poslance-frantiska-elfmarka-t39035.html
 ordpsp: 21
 ---
 

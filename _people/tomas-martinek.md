@@ -9,11 +9,16 @@ description: poslanec PSP ČR za Liberecký kraj         	# kratký popis, max 1
 mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
+asistent:
+  name: Martin Rejman
+  mail: martin.rejman@pirati.cz
+  tel:  776 329 748
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
+  report: https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
 ordpsp: 15
 ---
 

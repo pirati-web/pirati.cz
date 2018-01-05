@@ -11,10 +11,15 @@ ordpsp: 18
 mail:
 - martin.jiranek@pirati.cz
 mob: +420 777 719 282
+asistent:
+  name: Tomáš Eichler
+  mail: tomas.eichler@pirati.cz
+  tel:  737 529 753
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
   twitter:
+  report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html
 ---
 
 

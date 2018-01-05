@@ -17,6 +17,7 @@ profiles:
   facebook: https://www.facebook.com/smidak
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
+  report: https://forum.pirati.cz/poslanci-f884/report-poslance-jakuba-michalka-t38876.html
 ordpraha: 1
 ordrp: 4
 ordcar: 3

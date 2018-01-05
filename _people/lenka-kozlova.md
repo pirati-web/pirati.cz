@@ -11,12 +11,17 @@ description: poslankyně PSP ČR, členka Republikového výboru Pirátů       
 mail:
 - lenka.kozlova@pirati.cz
 mob: 
+asistent:
+  name: Jaroslav Němec
+  mail: jarnemec@psp.cz
+  tel: 608 408 587
 profiles:
   github:       
   facebook:     https://www.facebook.com/lenka.kozlova.5
   twitter: 	
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=lenka%20kozlov%C3%A1
+  report: https://forum.pirati.cz/poslanci-f884/reporty-poslankyne-lenky-kozlove-t39038.html
 ordpsp: 9
 ---
 
