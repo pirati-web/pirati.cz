@@ -23,6 +23,7 @@ profiles:
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
   report: https://forum.pirati.cz/poslanci-f884/report-poslance-jakuba-michalka-t38876.html
   psp: http://www.psp.cz/sqw/detail.sqw?id=6477
+  redmine: "https://redmine.pirati.cz/projects/snemovna/issues?utf8=✓&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]==&v[fixed_version_id][]=28&f[]=assigned_to_id&op[assigned_to_id]==&v[assigned_to_id][]=4&f[]=&c[]=subject&c[]=status&c[]=priority&c[]=due_date&c[]=done_ratio&group_by=assigned_to&t[]="
 ordpraha: 1
 ordrp: 4
 ordcar: 3
