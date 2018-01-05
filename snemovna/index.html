@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<script>
+  var milos = {};
+  milos.priorityStack = new Array();
+</script>
 <div class="l-micropage">
     <section class="l-micropage__hero">
         <div class="row o-section">
@@ -36,11 +40,39 @@ layout: default
             {% include_relative klub.html %}
         </div>
     </section>
+    <section class="l-micropage__section row o-section" id="priority">
+        <div class="small-12 columns">
+            {% include_relative priority.html %}
+        </div>
+    </section>
     <div class="l-micropage__modal" style="display: none"></div>
 </div>
 
+
+
 <script>
-    var milos = {};
+    milos.priorities = {
+      8106: 'Aktivní účast na rozhodování v EU',
+      8105: 'Možnost darovat ze svých daní až 2000 Kč nezávislým médiím a projektům',
+      8104: 'Svobodný výběr školy a okamžité zvýšení platů učitelů o 20 %, protože vzdělanou společnost považujeme za nejlepší záruku svobody',
+      8103: 'Zrušení plošného sledování telefonů, stejně jako šmírování a cenzury Internetu',
+      8102: 'Nekompromisní rozkrývání korupčních vazeb a odvaha nazývat věci pravými jmény',
+      8101: 'Možnost vyřídit si běžné věci na Czech Pointu a jednotné inkasní místo pro podnikatele',
+      8100: 'Zrychlení soudů - zavedení elektronického spisu a standardů rozhodování',
+      8099:'Podpora malých podnikatelů - založení firmy za 1 den',
+      8098:'Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů',
+      8097:'Daně, které každý pochopí - místo 6 různých daní z práce jen jedna a nižší',
+      8096:'Konec šikany ze strany OSA, zrušení poplatků za prázdná média a celková aktualizace autorského práva',
+      8095:'Stop hromadění exekucí - zásada 1 dlužník = 1 exekutor v místě bydliště',
+      8094:'Skutečná dostupnost konopí pro léčbu vážně nemocných a regulovaná legalizace léčebného i rekreačního pěstování pro osobní potřebu',
+      8093:'Umožnit pojištěncům volit si své zástupce do správní a dozorčí rady zdravotní pojišťovny, aby mohli spolurozhodovat o úhradách.',
+      8092:'Zrušení EET pro e-shopy, platby kartou, řemeslníky a drobné podnikatele;',
+      8091:'Donutit ČEZ a státní firmy zveřejňovat smlouvy',
+      8090:'Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací',
+      8089:'Zabránit únikům zisků z ČR do daňových rájů',
+      8088:'Konec praxe politických trafik - důsledně otevřená výběrová řízení na všechny pozice',
+      8083:'Vymáhání hmotné osobní odpovědnosti politiků a úředníků'
+    }
     milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
     milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
     milos.bindAjax = function(targets,root) {
@@ -76,6 +108,7 @@ layout: default
               closeTrigger.outerHTML = "";
               delete closeTrigger;
             });
+            milos.executeQue(milos.priorityStack);
           }
 
           xhr.open("GET", url);
@@ -84,7 +117,30 @@ layout: default
         }, false);
       };
     }
+    milos.executeQue = function (que) {
+      for(var q=0; q< que.length; q++){
+        que[q].call(this);
+      }
+    };
+
+    milos.createCORSRequest = function (method, url) {
+      var xhr = new XMLHttpRequest();
+      if ("withCredentials" in xhr) {
+        // XHR for Chrome/Firefox/Opera/Safari.
+        xhr.open(method, url, true);
+      } else if (typeof XDomainRequest != "undefined") {
+        // XDomainRequest for IE.
+        xhr = new XDomainRequest();
+        xhr.open(method, url);
+      } else {
+        // CORS not supported.
+        xhr = null;
+      }
+      return xhr;
+    }
 
     milos.bindAjax(milos.modal_triggers);
+    milos.executeQue(milos.priorityStack);
+
 
 </script>

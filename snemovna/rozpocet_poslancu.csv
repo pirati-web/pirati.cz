@@ -1,0 +1,574 @@
+Měsíce,Účty,,Účet,Ukazatel,10/2017,11/2017,12/2017,,Ukazatel,výsledný stav,výdaje,změna stavu,příjmy,ID,Datum,Položka,Kategorie,Částka,Schvalovatel,Doklad / Smlouva / Plánováno,Protistrana (příjemnce / původce),Časové rozlišení
+Bankovní účet klubu,výsledný stav,,Bankovní účet klubu,výsledný stav,56928,89816,0,,10/2017,56928,0,56928,56928,x,x,x,x,x,x,x,x,x
+Pokladna klubu,výdaje,,Bankovní účet klubu,výdaje,0,143588,266292,,11/2017,89816,143588,32888,176476,x,x,x,x,x,x,x,x,x
+Prostředky klubu v rozpočtu strany,změna stavu,,Bankovní účet klubu,změna stavu,56928,32888,-89816,,12/2017,0,266292,-89816,176476,x,x,x,x,x,x,x,x,x
+Expertovné Dana Balcarová,příjmy,,Bankovní účet klubu,příjmy,56928,176476,176476,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Lukáš Bartoň,,,Pokladna klubu,výsledný stav,-15750,10002,1,,10/2017,-15750,15750,-15750,0,x,x,x,x,x,x,x,x,x
+Expertovné Ivan Bartoš,,,Pokladna klubu,výdaje,15750,49248,105001,,11/2017,10002,49248,25752,75000,x,x,x,x,x,x,x,x,x
+Expertovné Lukáš Černohorský,,,Pokladna klubu,změna stavu,-15750,25752,-10001,,12/2017,1,105001,-10001,95000,x,x,x,x,x,x,x,x,x
+Expertovné Frantisek Elfmark,,,Pokladna klubu,příjmy,0,75000,95000,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Mikuláš Ferjenčík,,,Prostředky klubu v rozpočtu strany,výsledný stav,0,0,0,,10/2017,0,0,0,0,x,x,x,x,x,x,x,x,x
+Expertovné Radek Holomčík,,,Prostředky klubu v rozpočtu strany,výdaje,0,0,0,,11/2017,0,0,0,0,x,x,x,x,x,x,x,x,x
+Expertovné Martin Jiránek,,,Prostředky klubu v rozpočtu strany,změna stavu,0,0,0,,12/2017,0,0,0,0,x,x,x,x,x,x,x,x,x
+Expertovné Lukáš Kolářík,,,Prostředky klubu v rozpočtu strany,příjmy,0,0,0,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Frantisek Kopřiva,,,Expertovné Dana Balcarová,výsledný stav,5831,22264,547,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Expertovné Lenka Kozlová,,,Expertovné Dana Balcarová,výdaje,0,0,38150,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Expertovné Jan Lipavský,,,Expertovné Dana Balcarová,změna stavu,5831,16433,-21717,,12/2017,547,38150,-21717,16433,x,x,x,x,x,x,x,x,x
+Expertovné Tomáš Martínek,,,Expertovné Dana Balcarová,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Jakub Michálek,,,Expertovné Lukáš Bartoň,výsledný stav,5831,18356,3289,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Expertovné Mikuláš Peksa,,,Expertovné Lukáš Bartoň,výdaje,0,3908,31500,,11/2017,18356,3908,12525,16433,x,x,x,x,x,x,x,x,x
+Expertovné Vojtěch Pikal,,,Expertovné Lukáš Bartoň,změna stavu,5831,12525,-15067,,12/2017,3289,31500,-15067,16433,x,x,x,x,x,x,x,x,x
+Expertovné Ondřej Polanský,,,Expertovné Lukáš Bartoň,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Jan Pošvář,,,Expertovné Ivan Bartoš,výsledný stav,5831,22264,197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Expertovné Ondřej Profant,,,Expertovné Ivan Bartoš,výdaje,0,0,38500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Expertovné Olga Richterová,,,Expertovné Ivan Bartoš,změna stavu,5831,16433,-22067,,12/2017,197,38500,-22067,16433,x,x,x,x,x,x,x,x,x
+Expertovné Petr Trešňák,,,Expertovné Ivan Bartoš,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Expertovné Tomáš Vymazal,,,Expertovné Lukáš Černohorský,výsledný stav,5831,22264,0,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Dana Balcarová,,,Expertovné Lukáš Černohorský,výdaje,0,0,38697,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Lukáš Bartoň,,,Expertovné Lukáš Černohorský,změna stavu,5831,16433,-22264,,12/2017,0,38697,-22264,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Ivan Bartoš,,,Expertovné Lukáš Černohorský,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Asistentovné Lukáš Černohorský,,,Expertovné Frantisek Elfmark,výsledný stav,5831,22264,8697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Frantisek Elfmark,,,Expertovné Frantisek Elfmark,výdaje,0,0,30000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Mikuláš Ferjenčík,,,Expertovné Frantisek Elfmark,změna stavu,5831,16433,-13567,,12/2017,8697,30000,-13567,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Radek Holomčík,,,Expertovné Frantisek Elfmark,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Asistentovné Martin Jiránek,,,Expertovné Mikuláš Ferjenčík,výsledný stav,5831,22264,1197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Lukáš Kolářík,,,Expertovné Mikuláš Ferjenčík,výdaje,0,0,37500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Frantisek Kopřiva,,,Expertovné Mikuláš Ferjenčík,změna stavu,5831,16433,-21067,,12/2017,1197,37500,-21067,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Lenka Kozlová,,,Expertovné Mikuláš Ferjenčík,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Asistentovné Jan Lipavský,,,Expertovné Radek Holomčík,výsledný stav,5831,22264,4497,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Tomáš Martínek,,,Expertovné Radek Holomčík,výdaje,0,0,34200,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Jakub Michálek,,,Expertovné Radek Holomčík,změna stavu,5831,16433,-17767,,12/2017,4497,34200,-17767,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Mikuláš Peksa,,,Expertovné Radek Holomčík,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Asistentovné Vojtěch Pikal,,,Expertovné Martin Jiránek,výsledný stav,5831,-5736,697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Ondřej Polanský,,,Expertovné Martin Jiránek,výdaje,0,28000,10000,,11/2017,-5736,28000,-11567,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Jan Pošvář,,,Expertovné Martin Jiránek,změna stavu,5831,-11567,6433,,12/2017,697,10000,6433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Ondřej Profant,,,Expertovné Martin Jiránek,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+Asistentovné Olga Richterová,,,Expertovné Lukáš Kolářík,výsledný stav,5831,22264,14697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+Asistentovné Petr Trešňák,,,Expertovné Lukáš Kolářík,výdaje,0,0,24000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+Asistentovné Tomáš Vymazal,,,Expertovné Lukáš Kolářík,změna stavu,5831,16433,-7567,,12/2017,14697,24000,-7567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Lukáš Kolářík,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Frantisek Kopřiva,výsledný stav,5831,22264,1197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Frantisek Kopřiva,výdaje,0,0,37500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Frantisek Kopřiva,změna stavu,5831,16433,-21067,,12/2017,1197,37500,-21067,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Frantisek Kopřiva,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Lenka Kozlová,výsledný stav,5831,22264,197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Lenka Kozlová,výdaje,0,0,38500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Lenka Kozlová,změna stavu,5831,16433,-22067,,12/2017,197,38500,-22067,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Lenka Kozlová,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Lipavský,výsledný stav,5831,-15236,1197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Lipavský,výdaje,0,37500,0,,11/2017,-15236,37500,-21067,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Lipavský,změna stavu,5831,-21067,16433,,12/2017,1197,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Lipavský,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Martínek,výsledný stav,5831,22264,197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Martínek,výdaje,0,0,38500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Martínek,změna stavu,5831,16433,-22067,,12/2017,197,38500,-22067,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Martínek,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jakub Michálek,výsledný stav,5831,22264,197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jakub Michálek,výdaje,0,0,38500,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jakub Michálek,změna stavu,5831,16433,-22067,,12/2017,197,38500,-22067,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jakub Michálek,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Mikuláš Peksa,výsledný stav,5831,22264,697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Mikuláš Peksa,výdaje,0,0,38000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Mikuláš Peksa,změna stavu,5831,16433,-21567,,12/2017,697,38000,-21567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Mikuláš Peksa,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Vojtěch Pikal,výsledný stav,5831,22264,1697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Vojtěch Pikal,výdaje,0,0,37000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Vojtěch Pikal,změna stavu,5831,16433,-20567,,12/2017,1697,37000,-20567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Vojtěch Pikal,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Polanský,výsledný stav,5831,22264,0,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Polanský,výdaje,0,0,38697,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Polanský,změna stavu,5831,16433,-22264,,12/2017,0,38697,-22264,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Polanský,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Pošvář,výsledný stav,5831,22264,8697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Pošvář,výdaje,0,0,30000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Pošvář,změna stavu,5831,16433,-13567,,12/2017,8697,30000,-13567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Jan Pošvář,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Profant,výsledný stav,5831,22264,697,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Profant,výdaje,0,0,38000,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Profant,změna stavu,5831,16433,-21567,,12/2017,697,38000,-21567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Ondřej Profant,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Olga Richterová,výsledný stav,5831,22264,-7000,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Olga Richterová,výdaje,0,0,45697,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Olga Richterová,změna stavu,5831,16433,-29264,,12/2017,-7000,45697,-29264,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Olga Richterová,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Petr Trešňák,výsledný stav,5831,22264,0,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Petr Trešňák,výdaje,0,0,38697,,11/2017,22264,0,16433,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Petr Trešňák,změna stavu,5831,16433,-22264,,12/2017,0,38697,-22264,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Petr Trešňák,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Vymazal,výsledný stav,5831,-14736,197,,10/2017,5831,0,5831,5831,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Vymazal,výdaje,0,37000,1500,,11/2017,-14736,37000,-20567,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Vymazal,změna stavu,5831,-20567,14933,,12/2017,197,1500,14933,16433,x,x,x,x,x,x,x,x,x
+,,,Expertovné Tomáš Vymazal,příjmy,5831,16433,16433,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Dana Balcarová,výsledný stav,7983,10483,10483,,10/2017,7983,7984,7983,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Dana Balcarová,výdaje,7984,42500,45000,,11/2017,10483,42500,2500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Dana Balcarová,změna stavu,7983,2500,0,,12/2017,10483,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Dana Balcarová,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Bartoň,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Bartoň,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Bartoň,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Bartoň,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ivan Bartoš,výsledný stav,0,0,0,,10/2017,0,15967,0,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ivan Bartoš,výdaje,15967,45000,45000,,11/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ivan Bartoš,změna stavu,0,0,0,,12/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ivan Bartoš,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Černohorský,výsledný stav,15967,20367,21867,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Černohorský,výdaje,0,40600,43500,,11/2017,20367,40600,4400,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Černohorský,změna stavu,15967,4400,1500,,12/2017,21867,43500,1500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Černohorský,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Elfmark,výsledný stav,0,0,0,,10/2017,0,15967,0,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Elfmark,výdaje,15967,45000,45000,,11/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Elfmark,změna stavu,0,0,0,,12/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Elfmark,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Ferjenčík,výsledný stav,15967,38467,60967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Ferjenčík,výdaje,0,22500,22500,,11/2017,38467,22500,22500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Ferjenčík,změna stavu,15967,22500,22500,,12/2017,60967,22500,22500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Ferjenčík,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Radek Holomčík,výsledný stav,15967,25967,25967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Radek Holomčík,výdaje,0,35000,45000,,11/2017,25967,35000,10000,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Radek Holomčík,změna stavu,15967,10000,0,,12/2017,25967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Radek Holomčík,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Martin Jiránek,výsledný stav,15967,38467,38467,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Martin Jiránek,výdaje,0,22500,45000,,11/2017,38467,22500,22500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Martin Jiránek,změna stavu,15967,22500,0,,12/2017,38467,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Martin Jiránek,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Kolářík,výsledný stav,15967,23967,23967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Kolářík,výdaje,0,37000,45000,,11/2017,23967,37000,8000,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Kolářík,změna stavu,15967,8000,0,,12/2017,23967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lukáš Kolářík,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Kopřiva,výsledný stav,15967,24767,24767,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Kopřiva,výdaje,0,36200,45000,,11/2017,24767,36200,8800,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Kopřiva,změna stavu,15967,8800,0,,12/2017,24767,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Frantisek Kopřiva,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lenka Kozlová,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lenka Kozlová,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lenka Kozlová,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Lenka Kozlová,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Lipavský,výsledný stav,15967,27517,27517,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Lipavský,výdaje,0,33450,45000,,11/2017,27517,33450,11550,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Lipavský,změna stavu,15967,11550,0,,12/2017,27517,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Lipavský,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Martínek,výsledný stav,-1,-1,5805,,10/2017,-1,15968,-1,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Martínek,výdaje,15968,45000,39194,,11/2017,-1,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Martínek,změna stavu,-1,0,5806,,12/2017,5805,39194,5806,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Martínek,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jakub Michálek,výsledný stav,0,0,0,,10/2017,0,15967,0,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jakub Michálek,výdaje,15967,45000,45000,,11/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jakub Michálek,změna stavu,0,0,0,,12/2017,0,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jakub Michálek,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Peksa,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Peksa,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Peksa,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Mikuláš Peksa,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Vojtěch Pikal,výsledný stav,355,855,855,,10/2017,355,15612,355,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Vojtěch Pikal,výdaje,15612,44500,45000,,11/2017,855,44500,500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Vojtěch Pikal,změna stavu,355,500,0,,12/2017,855,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Vojtěch Pikal,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Polanský,výsledný stav,15967,18467,18467,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Polanský,výdaje,0,42500,45000,,11/2017,18467,42500,2500,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Polanský,změna stavu,15967,2500,0,,12/2017,18467,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Polanský,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Pošvář,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Pošvář,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Pošvář,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Jan Pošvář,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Profant,výsledný stav,13667,16867,20067,,10/2017,13667,2300,13667,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Profant,výdaje,2300,41800,41800,,11/2017,16867,41800,3200,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Profant,změna stavu,13667,3200,3200,,12/2017,20067,41800,3200,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Ondřej Profant,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Olga Richterová,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Olga Richterová,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Olga Richterová,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Olga Richterová,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Petr Trešňák,výsledný stav,15967,15967,15967,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Petr Trešňák,výdaje,0,45000,45000,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Petr Trešňák,změna stavu,15967,0,0,,12/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Petr Trešňák,příjmy,15967,45000,45000,,,,,,,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Vymazal,výsledný stav,15967,15967,3000,,10/2017,15967,0,15967,15967,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Vymazal,výdaje,0,45000,57967,,11/2017,15967,45000,0,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Vymazal,změna stavu,15967,0,-12967,,12/2017,3000,57967,-12967,45000,x,x,x,x,x,x,x,x,x
+,,,Asistentovné Tomáš Vymazal,příjmy,15967,45000,45000,,,,,,,,,,,,,,,
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,2,16.11.2017,Výběr do pokladny,Průběžná,-75000,David Wagner,Výpis z účtu,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,3,16.11.2017,Kancelářské potřeby Originální toner,Provoz,-1275,David Wagner,https://smlouvy-psp.pirati.cz/doklady/3.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,4,16.11.2017,Kancelářské potřeby,Provoz,-278,David Wagner,https://smlouvy-psp.pirati.cz/doklady/4.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,5,16.11.2017,Kancelářské potřeby,Provoz,-195,David Wagner,https://smlouvy-psp.pirati.cz/doklady/5.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,6,16.11.2017,Kancelářské potřeby - papír,Provoz,-200,David Wagner,https://smlouvy-psp.pirati.cz/doklady/6.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,7,16.11.2017,Občerstvení - kafe,Provoz,-280,David Wagner,https://smlouvy-psp.pirati.cz/doklady/7.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,8,16.11.2017,Reprezentace,Reprezentace,-510,David Wagner,https://smlouvy-psp.pirati.cz/doklady/8.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,9,16.11.2017,Občerstvení - kafe,Provoz,-211,David Wagner,https://smlouvy-psp.pirati.cz/doklady/9.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,10,16.11.2017,Občerstvení,Provoz,-345,David Wagner,https://smlouvy-psp.pirati.cz/doklady/10.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,11,16.11.2017,Diktafony,Technika,-5703,David Wagner,https://smlouvy-psp.pirati.cz/doklady/11.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,12,16.11.2017,Kancelářské potřeby - Activa,Provoz,-6583,David Wagner,https://smlouvy-psp.pirati.cz/doklady/12.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,13,16.11.2017,Občerstvení - Activa,Provoz,-1159,David Wagner,https://smlouvy-psp.pirati.cz/doklady/13.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,14,16.11.2017,Občerstvení,Provoz,-831,David Wagner,https://smlouvy-psp.pirati.cz/doklady/14.PNG,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,15,20.11.2017,Občerstvení - čaje,Provoz,-956,David Wagner,https://smlouvy-psp.pirati.cz/doklady/15.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,16,20.11.2017,Reprezentace kytka 17. listopadu,Reprezentace,-1900,David Wagner,https://smlouvy-psp.pirati.cz/doklady/16.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,17,27.11.2017,Občerstvení - Activa,Provoz,-982,David Wagner,https://smlouvy-psp.pirati.cz/doklady/17.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,18,27.11.2017,Občerstvení - Activa,Provoz,-2050,David Wagner,https://smlouvy-psp.pirati.cz/doklady/18.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,19,27.11.2017,Nádobí - Activa,Provoz,-17196,David Wagner,https://smlouvy-psp.pirati.cz/doklady/19.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,20,27.11.2017,Kancelářské potřeby - Activa,Provoz,-3513,David Wagner,https://smlouvy-psp.pirati.cz/doklady/20.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,21,16.11.2017,Kancelářské potřeby - Activa,Provoz,-3054,David Wagner,https://smlouvy-psp.pirati.cz/doklady/21.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,22,27.11.2017,Kancelářské potřeby - Activa,Provoz,-10258,David Wagner,https://smlouvy-psp.pirati.cz/doklady/22.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,23,27.11.2017,Kancelářské potřeby - Activa,Provoz,-3067,David Wagner,https://smlouvy-psp.pirati.cz/doklady/23.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,24,27.11.2017,Občerstvení Activa,Provoz,-1871,David Wagner,https://smlouvy-psp.pirati.cz/doklady/24.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,25,27.11.2017,Kancelářské potřeby - Activa,Provoz,-4945,David Wagner,https://smlouvy-psp.pirati.cz/doklady/25.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,26,27.11.2017,Občerstvení - Activa,Provoz,-343,David Wagner,https://smlouvy-psp.pirati.cz/doklady/26.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,27,27.11.2017,ovoce,Provoz,-1008,David Wagner,https://smlouvy-psp.pirati.cz/doklady/27.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,28,27.11.2017,ovoce,Provoz,-1543,David Wagner,https://smlouvy-psp.pirati.cz/doklady/28.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,29,29.11.2017,Vyjezdní zasedání - ubytování,Provoz,-14476,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/29.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,30,7.12.2017,Kancelářské potřeby - Activa,Provoz,-19349,David Wagner,https://smlouvy-psp.pirati.cz/doklady/30.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,31,7.12.2017,Občerstvení - Activa,Provoz,-657,David Wagner,https://smlouvy-psp.pirati.cz/doklady/31.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,32,11.12.2017,Kancelářské potřeby - Activa,Provoz,-261,David Wagner,https://smlouvy-psp.pirati.cz/doklady/32.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,33,11.12.2017,Kancelářské potřeby - Activa,Provoz,-2359,David Wagner,https://smlouvy-psp.pirati.cz/doklady/33.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,34,11.12.2017,Občerstvení - Activa,Provoz,-614,David Wagner,https://smlouvy-psp.pirati.cz/doklady/34.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,35,11.12.2017,Občerstvení - Activa,Provoz,-1777,David Wagner,https://smlouvy-psp.pirati.cz/doklady/35.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,36,11.12.2017,Kancelářské potřeby - Activa,Provoz,-4701,David Wagner,https://smlouvy-psp.pirati.cz/doklady/36.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,37,22.11.2017,Zrcadlo,Majetek,-1308,David Wagner,https://smlouvy-psp.pirati.cz/doklady/37.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,38,29.11.2017,Občerstvení Tesco,Provoz,-1328,David Wagner,https://smlouvy-psp.pirati.cz/doklady/38.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,39,28.11.2017,Mzda Romana Klimešová - záloha,Personální,-20000,Mikuláš Peksa,https://smlouvy-psp.pirati.cz/doklady/39.pdf,Romana Klimešová,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,40,29.11.2017,Občerstveni Dort,Provoz,-928,David Wagner,https://smlouvy-psp.pirati.cz/doklady/40.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,43,22.11.2017,Léky,Provoz,-394,David Wagner,https://smlouvy-psp.pirati.cz/doklady/43.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,44,27.11.2017,French Press,Majetek,-479,David Wagner,https://smlouvy-psp.pirati.cz/doklady/44.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,45,27.11.2017,Whiteboard,Majetek,-850,David Wagner,https://smlouvy-psp.pirati.cz/doklady/45.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,46,22.11.2017,Kancelářské vybavení - krajecí desky,Majetek,-430,David Wagner,https://smlouvy-psp.pirati.cz/doklady/46.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,47,01.12.2017,Roll up,Majetek,-2404,David Wagner,https://smlouvy-psp.pirati.cz/doklady/47.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,48,13.12.2017,Kancelářské potřeby,Provoz,-819,David Wagner,https://smlouvy-psp.pirati.cz/doklady/48.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,49,13.12.2017,Občerstvení Activa Káva,Provoz,-599,David Wagner,https://smlouvy-psp.pirati.cz/doklady/49.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,50,16.11.2017,Kancelářské vybavení - pokladní dokl.,Provoz,-145,David Wagner,https://smlouvy-psp.pirati.cz/doklady/50.pdf,,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,51,13.12.2017,Kancelářské potřeby,Provoz,-514,David Wagner,https://smlouvy-psp.pirati.cz/doklady/51.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,52,13.12.2017,Kancelářské potřeby,Provoz,-68,David Wagner,https://smlouvy-psp.pirati.cz/doklady/52.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,53,13.12.2017,Kancelářské vybavení - Activa,Provoz,-2961,David Wagner,https://smlouvy-psp.pirati.cz/doklady/53.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,54,13.12.2017,Kancelářské potřeby Activa,Provoz,-288,David Wagner,https://smlouvy-psp.pirati.cz/doklady/54.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,55,13.12.2017,Kancelářské vybavení - Activa,Provoz,-2275,David Wagner,https://smlouvy-psp.pirati.cz/doklady/55.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,56,13.12.2017,Kancelářské vybavení - Activa,Provoz,-926,David Wagner,https://smlouvy-psp.pirati.cz/doklady/56.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,57,19.12.2017,Občerstvení - Activa,Provoz,-179,David Wagner,https://smlouvy-psp.pirati.cz/doklady/57.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,58,29.11.2017,Stojan na vlajky,Majetek,-2228,David Wagner,https://smlouvy-psp.pirati.cz/doklady/58.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,59,17.11.2017,Kancelářské potřeby - drogerie,Provoz,-240,David Wagner,https://smlouvy-psp.pirati.cz/doklady/59.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,60,17.11.2017,Kancelářské potřeby,Provoz,-108,David Wagner,https://smlouvy-psp.pirati.cz/doklady/60.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,61,17.11.2017,Občerstvení - zasedání klubu,Provoz,-492,David Wagner,https://smlouvy-psp.pirati.cz/doklady/61.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,62,17.11.2017,"Vosk na boty, kartáč",Majetek,-289,David Wagner,https://smlouvy-psp.pirati.cz/doklady/62.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,64,17.11.2017,Houbičky na nádobí,Provoz,-23,David Wagner,https://smlouvy-psp.pirati.cz/doklady/64.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,65,17.11.2017,"Cukr, čistící prostředek",Provoz,-90,David Wagner,https://smlouvy-psp.pirati.cz/doklady/65.pdf,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,66,06.12.2017,Reprezentace - rum,Reprezentace,-1235,David Wagner,https://smlouvy-psp.pirati.cz/doklady/66.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,67,13.12.2017,Kancelářské potřeby - Activa,Provoz,-1468,David Wagner,https://smlouvy-psp.pirati.cz/doklady/67.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,68,12.12.2017,Občerstveni Tesco,Provoz,-386,David Wagner,https://smlouvy-psp.pirati.cz/doklady/68.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,69,12.12.2017,Občerstvení Rohlik,Provoz,-758,David Wagner,https://smlouvy-psp.pirati.cz/doklady/69.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,70,8.12.2017,Rollup,Majetek,-2404,David Wagner,https://smlouvy-psp.pirati.cz/doklady/70.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,71,11.12.2017,Stěna,Majetek,-46009,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/71.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,72,13.12.2017,Ovoce,Provoz,-731,David Wagner,https://smlouvy-psp.pirati.cz/doklady/72.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,73,13.12.2017,Ovoce,Provoz,-738,David Wagner,https://smlouvy-psp.pirati.cz/doklady/73.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,74,07.12.2017,Ovoce,Provoz,-733,David Wagner,https://smlouvy-psp.pirati.cz/doklady/74.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,75,07.12.2017,Ovoce,Provoz,-736,David Wagner,https://smlouvy-psp.pirati.cz/doklady/75.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,76,7.12.2017,Ovoce,Provoz,-1053,David Wagner,https://smlouvy-psp.pirati.cz/doklady/76.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,77,7.12.2017,Ovoce,Provoz,-697,David Wagner,https://smlouvy-psp.pirati.cz/doklady/77.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,78,12.12.2017,Občerstvení - Rohlík,Provoz,-608,David Wagner,https://smlouvy-psp.pirati.cz/doklady/78.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,79,14.12.2017,Galuszka Záloha,Personální,-5000,David Wagner,https://smlouvy-psp.pirati.cz/doklady/79.pdf,Daniel Galuszka,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,80,15.12.2017,čajová souprava,Majetek,-3479,David Wagner,https://smlouvy-psp.pirati.cz/doklady/80.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,81,19.12.2017,Školení,Provoz,-2500,David Wagner,https://smlouvy-psp.pirati.cz/doklady/81.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,82,19.12.2017,Mediální školení,Provoz,-15000,Jan Lipavský,https://smlouvy-psp.pirati.cz/doklady/82.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,83,19.12.2017,Kafe,Provoz,-495,David Wagner,https://smlouvy-psp.pirati.cz/doklady/83.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,84,14.12.2017,Občerstvení - rohlík,Provoz,-4950,David Wagner,https://smlouvy-psp.pirati.cz/doklady/84.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,85,19.12.2017,Ovoce,Provoz,-1088,David Wagner,https://smlouvy-psp.pirati.cz/doklady/85.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,86,19.12.2017,Inzerát - copywriting,Provoz,-14520,Jakub Michálek,https://smlouvy-psp.pirati.cz/doklady/86.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,87,19.12.2017,Služby klubu - košile,Provoz,-6192,David Wagner,https://smlouvy-psp.pirati.cz/doklady/87.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,88,19.12.2017,Kancelářské potřeby - Activa,Provoz,-887,David Wagner,https://smlouvy-psp.pirati.cz/doklady/88.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,89,19.12.2017,Občerstvení - Activa,Provoz,-473,David Wagner,https://smlouvy-psp.pirati.cz/doklady/89.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,90,19.12.2017,Kancelářské potřeby - Activa,Provoz,-687,David Wagner,https://smlouvy-psp.pirati.cz/doklady/90.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,91,19.12.2017,Kancelářské potřeby - Activa,Provoz,-1074,David Wagner,https://smlouvy-psp.pirati.cz/doklady/91.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,92,13.12.2017,Občerstvení - Activa,Provoz,-383,David Wagner,https://smlouvy-psp.pirati.cz/doklady/92.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,93,19.12.2017,Výběr do pokladny,Průběžná,-95000,David Wagner,https://smlouvy-psp.pirati.cz/doklady/93.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,94,20.12.2017,"Alza - projektor, notebook",Majetek,-45194,Jan Lipavský,https://smlouvy-psp.pirati.cz/doklady/94.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,95,20.12.2017,Občerstvení,Provoz,-1707,David Wagner,https://smlouvy-psp.pirati.cz/doklady/95.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,96,20.12.2017,Mzda Galuszka,Personální,-4282,David Wagner,https://smlouvy-psp.pirati.cz/doklady/96.pdf,Daniel Galuszka,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,97,20.12.2017,Kancelářské potřeby,Provoz,-396,David Wagner,https://smlouvy-psp.pirati.cz/doklady/97.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,98,20.12.2017,Mzda Kroupová,Personální,-15750,David Wagner,https://smlouvy-psp.pirati.cz/doklady/98.pdf,Pavlína Kroupová,10/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,99,19.12.2017,školení angličtina,Provoz,-19481,Jan Lipavský,https://smlouvy-psp.pirati.cz/doklady/99.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,100,5.12.2017,Tesco - občerstvení,Provoz,-587,David Wagner,https://smlouvy-psp.pirati.cz/doklady/100.pdf,,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,42,1.12.2017,Teambuilding,Provoz,-18000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/108.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,101,21.12.2017,Kafe,Provoz,-329,David Wagner,https://smlouvy-psp.pirati.cz/doklady/101.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,102,21.12.2017,Služby pro klub,Provoz,-1250,David Wagner,https://smlouvy-psp.pirati.cz/doklady/102.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,104,20.12.2017,Nábytek,Majetek,-12193,David Wagner,https://smlouvy-psp.pirati.cz/doklady/104.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,105,29.12.2017,mikrofon,Majetek,-1099,David Wagner,https://smlouvy-psp.pirati.cz/doklady/105.pdf,,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,#REF!,#REF!,Zdeněk Hřib analýza,Expertní práce,-10000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/107.pdf,Zdeněk Hřib,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,109,31.12.2017,Flipchart,Majetek,-1783,David Wagner,https://smlouvy-psp.pirati.cz/doklady/107.pdf,,12/2017
+,,,Expertovné Martin Jiránek,,,,,,01/2000,x,x,x,x,M1,13.12.2017,Pavlína Listopad_01,Personální,-28000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/55.pdf,Pavlína Kroupová,11/2017
+,,,Expertovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,M10,13.12.2017,David Prosinec 1,Personální,-38000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/56.pdf,David Wagner,12/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,M11,13.12.2017,David Prosinec 2,Personální,-26500,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/55.pdf,David Wagner,12/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,M12,13.12.2017,Albert Prosinec 2,Personální,-5000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/56.pdf,Albert Diok,12/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M13,13.12.2017,Vítek Listopad,Personální,-45000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/55.pdf,Vít Šimral,11/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M14,13.12.2017,Vítek Prosinec,Personální,-12000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/56.pdf,Vít Šimral,12/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M15,13.12.2017,Vítek Prosinec 2,Personální,-15967,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/55.pdf,Vít Šimral,12/2017
+,,,Expertovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,M16,13.12.2017,Grafik PIC,Expertní práce,-30000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/56.pdf,Martin Čtverák,12/2017
+,,,Expertovné Jakub Michálek,,,,,,01/2000,x,x,x,x,M17,13.12.2017,Karolína prosinec 01,Personální,-38500,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/55.pdf,Karolína Sadílková,12/2017
+,,,Expertovné Radek Holomčík,,,,,,01/2000,x,x,x,x,M18,13.12.2017,Karolína prosinec 02,Personální,-9200,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m18.pdf,Karolína Sadílková,12/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,M19,13.12.2017,Karolína prosinec 03,Personální,-16500,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m19.pdf,Karolína Sadílková,12/2017
+,,,Expertovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M2,13.12.2017,Albert Listopad,Personální,-37000,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/10/30/diok_klubova/,Albert Diok,11/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,M20,13.12.2017,Mediální školení 02,Provoz,-15000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m20.pdf,,12/2017
+,,,Expertovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,M21,13.12.2017,Mediální školení 03,Provoz,-15000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m21.pdf,,12/2017
+,,,Expertovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,M22,13.12.2017,Mediální školení 04,Provoz,-15000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m22.pdf,,12/2017
+,,,Expertovné Jan Pošvář,,,,,,01/2000,x,x,x,x,M23,13.12.2017,HR,Personální,0,Předsednictvo,nakonec nehrazeno,,12/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,M24,13.12.2017,Daniel Galuszka,Personální,-15000,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/12/1/galuszka_asistentska_holomcik/,Daniel Galuszka,12/2017
+,,,Expertovné Jan Pošvář,,,,,,01/2000,x,x,x,x,M25,13.12.2017,Hajný,Expertní práce,-30000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m25.pdf,Filip Hajný,12/2017
+,,,Expertovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,M26,13.12.2017,Grafický manuál,Expertní práce,-38500,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m26.pdf,AdHackers s.r.o.,12/2017
+,,,Expertovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M27,13.12.2017,Grafický manuál,Expertní práce,-1500,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m27.pdf,AdHackers s.r.o.,12/2017
+,,,Expertovné Jan Lipavský,,,,,,01/2000,x,x,x,x,M3,13.12.2017,David Listopad,Personální,-37500,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/12/12/wagner_klubova/,David Wagner,11/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,M4,13.12.2017,Romana Prosinec,Personální,-20000,Dana Balcarová,https://smlouvy-psp.pirati.cz/smlouvy/2017/12/12/klimesova_klubova/,Romana Klimešová,11/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,M5,13.12.2017,Albert Prosinec01,Personální,-25000,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/10/30/diok_klubova/,Albert Diok,11/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,M6,13.12.2017,Tomáš Listopad,Personální,-3908,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/31/guth_klubova/,Tomáš Guth Jarkovský,11/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,M7,13.12.2017,Tomáš listopad+ prosinec,Personální,-30000,Předsednictvo,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/31/guth_klubova/,Tomáš Guth Jarkovský,12/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,,,,,,,,,
+,,,Expertovné Martin Jiránek,,,,,,01/2000,x,x,x,x,M9,13.12.2017,Marek Paris,Expertní práce,-10000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m9.pdf,Marek Paris,12/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,M28,14.12.2017,HR - Zuzana,Personální,-12000,Předsednictvo,https://smlouvy-psp.pirati.cz/doklady/m28.pdf,Zuzana Řepíková,12/2017
+,,,Expertovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Jakub Michálek,,Poslanecká sněmovna,10/2017
+,,,Expertovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Jakub Michálek,,Poslanecká sněmovna,11/2017
+,,,Expertovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Jakub Michálek,,Poslanecká sněmovna,12/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Dana Balcarová,,Poslanecká sněmovna,10/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Dana Balcarová,,Poslanecká sněmovna,11/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Dana Balcarová,,Poslanecká sněmovna,12/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Lukáš Bartoň,,Poslanecká sněmovna,10/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Lukáš Bartoň,,Poslanecká sněmovna,11/2017
+,,,Expertovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Lukáš Bartoň,,Poslanecká sněmovna,12/2017
+,,,Expertovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Ivan Bartoš,,Poslanecká sněmovna,10/2017
+,,,Expertovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Ivan Bartoš,,Poslanecká sněmovna,11/2017
+,,,Expertovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Ivan Bartoš,,Poslanecká sněmovna,12/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Lukáš Černohorský,,Poslanecká sněmovna,10/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Lukáš Černohorský,,Poslanecká sněmovna,11/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Lukáš Černohorský,,Poslanecká sněmovna,12/2017
+,,,Expertovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Frantisek Elfmark,,Poslanecká sněmovna,10/2017
+,,,Expertovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Frantisek Elfmark,,Poslanecká sněmovna,11/2017
+,,,Expertovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Frantisek Elfmark,,Poslanecká sněmovna,12/2017
+,,,Expertovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Mikuláš Ferjenčík,,Poslanecká sněmovna,10/2017
+,,,Expertovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Mikuláš Ferjenčík,,Poslanecká sněmovna,11/2017
+,,,Expertovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Mikuláš Ferjenčík,,Poslanecká sněmovna,12/2017
+,,,Expertovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Radek Holomčík,,Poslanecká sněmovna,10/2017
+,,,Expertovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Radek Holomčík,,Poslanecká sněmovna,11/2017
+,,,Expertovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Radek Holomčík,,Poslanecká sněmovna,12/2017
+,,,Expertovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Martin Jiránek,,Poslanecká sněmovna,10/2017
+,,,Expertovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Martin Jiránek,,Poslanecká sněmovna,11/2017
+,,,Expertovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Martin Jiránek,,Poslanecká sněmovna,12/2017
+,,,Expertovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Lukáš Kolářík,,Poslanecká sněmovna,10/2017
+,,,Expertovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Lukáš Kolářík,,Poslanecká sněmovna,11/2017
+,,,Expertovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Lukáš Kolářík,,Poslanecká sněmovna,12/2017
+,,,Expertovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Frantisek Kopřiva,,Poslanecká sněmovna,10/2017
+,,,Expertovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Frantisek Kopřiva,,Poslanecká sněmovna,11/2017
+,,,Expertovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Frantisek Kopřiva,,Poslanecká sněmovna,12/2017
+,,,Expertovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Lenka Kozlová,,Poslanecká sněmovna,10/2017
+,,,Expertovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Lenka Kozlová,,Poslanecká sněmovna,11/2017
+,,,Expertovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Lenka Kozlová,,Poslanecká sněmovna,12/2017
+,,,Expertovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Jan Lipavský,,Poslanecká sněmovna,10/2017
+,,,Expertovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Jan Lipavský,,Poslanecká sněmovna,11/2017
+,,,Expertovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Jan Lipavský,,Poslanecká sněmovna,12/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Tomáš Martínek,,Poslanecká sněmovna,10/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Tomáš Martínek,,Poslanecká sněmovna,11/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Tomáš Martínek,,Poslanecká sněmovna,12/2017
+,,,Expertovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Mikuláš Peksa,,Poslanecká sněmovna,10/2017
+,,,Expertovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Mikuláš Peksa,,Poslanecká sněmovna,11/2017
+,,,Expertovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Mikuláš Peksa,,Poslanecká sněmovna,12/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Vojtěch Pikal,,Poslanecká sněmovna,10/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Vojtěch Pikal,,Poslanecká sněmovna,11/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Vojtěch Pikal,,Poslanecká sněmovna,12/2017
+,,,Expertovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Ondřej Polanský,,Poslanecká sněmovna,10/2017
+,,,Expertovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Ondřej Polanský,,Poslanecká sněmovna,11/2017
+,,,Expertovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Ondřej Polanský,,Poslanecká sněmovna,12/2017
+,,,Expertovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Jan Pošvář,,Poslanecká sněmovna,10/2017
+,,,Expertovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Jan Pošvář,,Poslanecká sněmovna,11/2017
+,,,Expertovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Jan Pošvář,,Poslanecká sněmovna,12/2017
+,,,Expertovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Ondřej Profant,,Poslanecká sněmovna,10/2017
+,,,Expertovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Ondřej Profant,,Poslanecká sněmovna,11/2017
+,,,Expertovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Ondřej Profant,,Poslanecká sněmovna,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Olga Richterová,,Poslanecká sněmovna,10/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Olga Richterová,,Poslanecká sněmovna,11/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Olga Richterová,,Poslanecká sněmovna,12/2017
+,,,Expertovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Petr Trešňák,,Poslanecká sněmovna,10/2017
+,,,Expertovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Petr Trešňák,,Poslanecká sněmovna,11/2017
+,,,Expertovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Petr Trešňák,,Poslanecká sněmovna,12/2017
+,,,Expertovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Expertovné říjen,Expertovné,5831,Tomáš Vymazal,,Poslanecká sněmovna,10/2017
+,,,Expertovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Expertovné listopad,Expertovné,16433,Tomáš Vymazal,,Poslanecká sněmovna,11/2017
+,,,Expertovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Expertovné prosinec,Expertovné,16433,Tomáš Vymazal,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Jakub Michálek,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Jakub Michálek,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Jakub Michálek,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Dana Balcarová,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Dana Balcarová,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Dana Balcarová,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Lukáš Bartoň,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Lukáš Bartoň,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Lukáš Bartoň,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Ivan Bartoš,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Ivan Bartoš,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Ivan Bartoš,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Lukáš Černohorský,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Lukáš Černohorský,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Lukáš Černohorský,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Frantisek Elfmark,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Frantisek Elfmark,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Frantisek Elfmark,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Mikuláš Ferjenčík,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Mikuláš Ferjenčík,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Mikuláš Ferjenčík,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Radek Holomčík,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Radek Holomčík,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Radek Holomčík,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Martin Jiránek,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Martin Jiránek,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Martin Jiránek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Martin Jiránek,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Lukáš Kolářík,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Lukáš Kolářík,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Lukáš Kolářík,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Frantisek Kopřiva,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Frantisek Kopřiva,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Frantisek Kopřiva,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Lenka Kozlová,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Lenka Kozlová,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Lenka Kozlová,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Jan Lipavský,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Jan Lipavský,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Jan Lipavský,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Tomáš Martínek,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Tomáš Martínek,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Tomáš Martínek,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Mikuláš Peksa,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Mikuláš Peksa,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Mikuláš Peksa,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Vojtěch Pikal,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Vojtěch Pikal,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Vojtěch Pikal,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Ondřej Polanský,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Ondřej Polanský,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Ondřej Polanský,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Jan Pošvář,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Jan Pošvář,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Jan Pošvář,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Ondřej Profant,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Ondřej Profant,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Ondřej Profant,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Olga Richterová,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Olga Richterová,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Olga Richterová,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Petr Trešňák,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Petr Trešňák,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Petr Trešňák,,Poslanecká sněmovna,12/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Asistentovné říjen,Asistentské,15967,Tomáš Vymazal,,Poslanecká sněmovna,10/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Asistentovné listopad,Asistentské,45000,Tomáš Vymazal,,Poslanecká sněmovna,11/2017
+,,,Asistentovné Tomáš Vymazal,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Asistentovné prosinec,Asistentské,45000,Tomáš Vymazal,,Poslanecká sněmovna,12/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,Interní,22.10.2017,Příjem klubu říjen,Klub,56928,David Wagner,,Poslanecká sněmovna,10/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,Interní,1.11.2017,Příjem klubu listopad,Klub,176476,David Wagner,,Poslanecká sněmovna,11/2017
+,,,Bankovní účet klubu,,,,,,01/2000,x,x,x,x,Interní,1.12.2017,Příjem klubu prosinec,Klub,176476,David Wagner,,Poslanecká sněmovna,12/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,Interní,16.11.2017,Příjem pokladna,Průběžná,75000,David Wagner,,,11/2017
+,,,Pokladna klubu,,,,,,01/2000,x,x,x,x,Interní,19.12.2017,Příjem pokladna,Průběžná,95000,David Wagner,,,12/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,LK,,Asistenská smlouva Lukáš Kolářík,Personální,-15000,Lukáš Kolářík,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/1/rohova_asistentska/,Jana Rohová,11/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,LK,,Asistenská smlouva Lukáš Kolářík,Personální,-15000,Lukáš Kolářík,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/1/rohova_asistentska/,Jana Rohová,12/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,JM,,Asistent Jakub Michálek,Personální,-35200,Jakub Michálek,,Štěpán Štrébl,12/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,MP,,Asistent Mikuláš Peksa,Personální,-25000,Mikuláš Peksa,,David Wagner,11/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,MP,,Asistent Mikuláš Peksa,Personální,-25000,Mikuláš Peksa,,David Wagner,12/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,DB,,Asistent Dana Balcarová,Personální,-7984,Dana Balcarová,,Michal Jokeš,10/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,DB,,Asistent Dana Balcarová,Personální,-22500,Dana Balcarová,,Michal Jokeš,11/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,DB,,Asistent Dana Balcarová,Personální,-22500,Dana Balcarová,,Michal Jokeš,12/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,LK,,Asistent Lenka Kozlová,Personální,-1000,Lenka Kozlová,,Antonín Schejbal,12/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,JM,,Asistent Jakub Michálek,Personální,-15967,Jakub Michálek,,Štěpán Štrébl,10/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,JM,,Asistent Jakub Michálek,Personální,-45000,Jakub Michálek,,Štěpán Štrébl,11/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,PT,,Asistent Petr Třešňák,Personální,-8540,Petr Trešňák,,Miloslav Vrána,11/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,PT,,Asistent Petr Třešňák,Personální,-8540,Petr Trešňák,,Miloslav Vrána,12/2017
+,,,Asistentovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,LB,,Asistent Lukáš Bartoň,Personální,-45000,Lukáš Bartoň,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/1/sramek_asistentska/,Pavel Šrámek,11/2017
+,,,Asistentovné Lukáš Bartoň,,,,,,01/2000,x,x,x,x,LB,,Asistent Lukáš Bartoň,Personální,-45000,Lukáš Bartoň,https://smlouvy-psp.pirati.cz/smlouvy/2017/11/1/sramek_asistentska/,Pavel Šrámek,12/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,RH,,Asistent Radek Holomčík,Personální,-10000,Radek Holomčík,,Petr Springinsfeld,11/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,RH,,Asistent Radek Holomčík,Personální,-15000,Radek Holomčík,,Petr Springinsfeld,12/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,OP,,Asistent Ondřej Profant,Personální,-2300,Ondřej Profant,,Matěj Soukup,10/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,OP,,Asistent Ondřej Profant,Personální,-10000,Ondřej Profant,,Matěj Soukup,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,OP,,Asistent Ondřej Profant,Personální,-10000,Ondřej Profant,,Matěj Soukup,12/2017
+,,,Asistentovné Martin Jiránek,,,,,,01/2000,x,x,x,x,MJ,,Asistent Martin Jiránek,Personální,-22500,Martin Jiránek,,Antonín Schejbal,11/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-12774,Tomáš Martínek,,Martin Rejman,10/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-36000,Tomáš Martínek,,Martin Rejman,11/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-36000,Tomáš Martínek,,Martin Rejman,12/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,OR,,Asistentska Olga Richterová,Personální,-22500,Olga Richterová,,Soňa Pohanková,11/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,OR,,Asistentska Olga Richterová,Personální,-22500,Olga Richterová,,Soňa Pohanková,12/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,LK,,Asistent Lenka Kozlová,Personální,-45000,Lenka Kozlová,,Jaroslav Němec,11/2017
+,,,Asistentovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,LK,,Asistent Lenka Kozlová,Personální,-44000,Lenka Kozlová,,Jaroslav Němec,12/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,IB,,Asistentka Ivan Bartoš,Personální,-15967,Ivan Bartoš,,Věra Marušiaková,10/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,IB,,Asistentka Ivan Bartoš,Personální,-45000,Ivan Bartoš,,Věra Marušiaková,11/2017
+,,,Asistentovné Ivan Bartoš,,,,,,01/2000,x,x,x,x,IB,,Asistentka Ivan Bartoš,Personální,-45000,Ivan Bartoš,,Věra Marušiaková,12/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,LK,,Asistentka Lukáš Kolářík,Personální,-22000,Lukáš Kolářík,,Drahoslava Křenková,11/2017
+,,,Asistentovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,LK,,Asistentka Lukáš Kolářík,Personální,-30000,Lukáš Kolářík,,Drahoslava Křenková,12/2017
+,,,Asistentovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,MF,,Asistent Mikuláš Ferjenčík,Personální,-22500,Mikuláš Ferjenčík,,Ladislav Koubek,11/2017
+,,,Asistentovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,MF,,Asistent Mikuláš Ferjenčík,Personální,-22500,Mikuláš Ferjenčík,,Ladislav Koubek,12/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Asistentka Lukáš Černohorský,Personální,-20000,Lukáš Černohorský,,Zuzana Koláříková,11/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Asistentka Lukáš Černohorský,Personální,-20000,Lukáš Černohorský,,Zuzana Koláříková,12/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřeje Polanského,Personální,-20000,Ondřej Polanský,,Zuzana Koláříková,11/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřeje Polanského,Personální,-20000,Ondřej Polanský,,Zuzana Koláříková,12/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Asistentka Lukáš Černohorský,Personální,-10000,Lukáš Černohorský,,Zuzana Klusová,11/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Asistentka Lukáš Černohorský,Personální,-12500,Lukáš Černohorský,,Zuzana Klusová,12/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřeje Polanského,Personální,-10000,Ondřej Polanský,,Zuzana Klusová,11/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřeje Polanského,Personální,-12500,Ondřej Polanský,,Zuzana Klusová,12/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Romana Klimešová,Personální,-1000,František Kopřiva,,Romana Klimešová,11/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Romana Klimešová,Personální,-1000,František Kopřiva,,Romana Klimešová,12/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-3194,Tomáš Martínek,,Marek Förster,10/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-9000,Tomáš Martínek,,Marek Förster,11/2017
+,,,Asistentovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,TM,,Asistent Tomáš Martínek,Personální,-3194,Tomáš Martínek,,Marek Förster,12/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,JL,,Asistent Jan Lipavský,Personální,-22425,Jan Lipavský,,Tomáš Hába,11/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,JL,,Asistent Jan Lipavský,Personální,-29250,Jan Lipavský,,Tomáš Hába,12/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,FE,,Asistent František Elfmark,Personální,-15967,František Elfmark,,Marek Houser,10/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,FE,,Asistent František Elfmark,Personální,-45000,František Elfmark,,Marek Houser,11/2017
+,,,Asistentovné Frantisek Elfmark,,,,,,01/2000,x,x,x,x,FE,,Asistent František Elfmark,Personální,-45000,František Elfmark,,Marek Houser,12/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,JL,,Asistent Jan Lipavský,Personální,-11025,Jan Lipavský,,Marek Dvořák,11/2017
+,,,Asistentovné Jan Lipavský,,,,,,01/2000,x,x,x,x,JL,,Asistent Jan Lipavský,Personální,-15750,Jan Lipavský,,Marek Dvořák,12/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Albert Diok,Personální,-17200,František Kopřiva,,Albert Diok,11/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Albert Diok,Personální,-21500,František Kopřiva,,Albert Diok,12/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,VP,,TG Jarkovský,Personální,-500,Vojtěch Pikal,,Tomáš Guth Jarkovský,11/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,VP,,TG Jarkovský,Personální,-1000,Vojtěch Pikal,,Tomáš Guth Jarkovský,12/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,AK Hajný,Expertní práce,-10000,Lukáš Černohorský,,Filip Hajný,11/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,AK Hajný,Expertní práce,-10000,Lukáš Černohorský,,Filip Hajný,12/2017
+,,,Asistentovné Dana Balcarová,,,,,,01/2000,x,x,x,x,DB,,Asistentka Dana Balcarová,Personální,-22500,Dana Balcarová,,Zuzana Vachůnová,12/2017
+,,,Asistentovné Jakub Michálek,,,,,,01/2000,x,x,x,x,JM,,Asistentka Jakub Michálek,Personální,-9800,Jakub Michálek,,Anna Kratochvílová,12/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,JP,,Asistentka Jan Pošvář,Personální,-22500,Jan Pošvář,,Miluše Kotišová,11/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,JP,,Asistentka Jan Pošvář,Personální,-22500,Jan Pošvář,,Miluše Kotišová,12/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,JP,,Asistent Jan Pošvář,Personální,-22500,Jan Pošvář,,Ondřej Beníček,11/2017
+,,,Asistentovné Jan Pošvář,,,,,,01/2000,x,x,x,x,JP,,Asistent Jan Pošvář,Personální,-22500,Jan Pošvář,,Ondřej Beníček,12/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Asistent František Kopřiva,Personální,-18000,František Kopřiva,,Martin Duška,11/2017
+,,,Asistentovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,FK,,Asistent František Kopřiva,Personální,-22500,František Kopřiva,,Martin Duška,12/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,MP,,Asistent Mikuláš Peksa,Personální,-20000,Mikuláš Peksa,,Adam Komenda,11/2017
+,,,Asistentovné Mikuláš Peksa,,,,,,01/2000,x,x,x,x,MP,,Asistent Mikuláš Peksa,Personální,-20000,Mikuláš Peksa,,Adam Komenda,12/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,OR,,Asistent Olga Richterová,Personální,-22500,Olga Richterová,,Ladislav Koubek,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřej Profant,Personální,-20800,Ondřej Profant,,Stanislava Pajerová,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,OP,,Asistentka Ondřej Profant,Personální,-20800,Ondřej Profant,,Stanislava Pajerová,12/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,PT,,Asistent Petr Třešňák,Personální,-36460,Petr Trešňák,,Josef Pavlovic,11/2017
+,,,Asistentovné Petr Trešňák,,,,,,01/2000,x,x,x,x,PT,,Asistent Petr Třešňák,Personální,-36460,Petr Trešňák,,Josef Pavlovic,12/2017
+,,,Asistentovné Olga Richterová,,,,,,01/2000,x,x,x,x,OR,,Asistent Olga Richterová,Personální,-22500,Olga Richterová,,Ladislav Koubek,12/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,VP,,Asistent Vojtěch Pikal,Personální,-15612,Vojtěch Pikal,,Tomáš Svoboda,10/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,VP,,Asistent Vojtěch Pikal,Personální,-44000,Vojtěch Pikal,,Tomáš Svoboda,11/2017
+,,,Asistentovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,VP,,Asistent Vojtěch Pikal,Personální,-44000,Vojtěch Pikal,,Tomáš Svoboda,12/2017
+,,,Asistentovné Martin Jiránek,,,,,,01/2000,x,x,x,x,MJ,,Asistent Martin Jiránek,Personální,-45000,Martin Jiránek,,Tomáš Eichler,12/2017
+,,,Asistentovné Radek Holomčík,,,,,,01/2000,x,x,x,x,RH,,???,Expertní práce,-15000,Radek Holomčík,,???,12/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Galuszka karta,Personální,-600,Lukáš Černohorský,,Daniel Galuszka,11/2017
+,,,Asistentovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,LČ,,Galuszka karta,Personální,-1000,Lukáš Černohorský,,Daniel Galuszka,12/2017
+,,,Expertovné Vojtěch Pikal,,,,,,01/2000,x,x,x,x,Interní,,Michal Škop - analýza parlamentního hlasování,Personální,-10000,Vojtěch Pikal,,Michal Škop,12/2017
+,,,Expertovné Frantisek Kopřiva,,,,,,01/2000,x,x,x,x,Interní,,Tvorba osobního webu F Kopřivy,Personální,-22500,František Kopřiva,,Antonín Jelínek,12/2017
+,,,Expertovné Mikuláš Ferjenčík,,,,,,01/2000,x,x,x,x,Interní,,Realitka -  kancelář,Expertní práce,-22500,Mikuláš Ferjenčík,,Simona Jebavá,12/2017
+,,,Expertovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,,Analýza a seminář GDPR,Expertní práce,-38000,Ondřej Profant,,Iuredicum Remedium,12/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,,Připomínkování v kraji (přes Förster),Expertní práce,-16000,Tomáš Martínek,,Ondřej Kolek,12/2017
+,,,Expertovné Tomáš Martínek,,,,,,01/2000,x,x,x,x,Interní,,Expert pro výběrové řízení do VZP,Expertní práce,-6000,Tomáš Martínek,,Marcel Zhorný,12/2017
+,,,Expertovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,,Web,Expertní práce,-20000,Petr Trešňák,,Josef Pavlovic,12/2017
+,,,Expertovné Petr Trešňák,,,,,,01/2000,x,x,x,x,Interní,,Administrativní práce,Expertní práce,-18697,Petr Trešňák,,Josef Pavlovic,12/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,,AK Hajný,Expertní práce,-18000,Lukáš Černohorský,,Filip Hajný,12/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,,Dopravní expertíza,Expertní práce,-2697,Lukáš Černohorský,,Václav Včelica,12/2017
+,,,Expertovné Lukáš Černohorský,,,,,,01/2000,x,x,x,x,Interní,,"AK Mokrý, Jansa, Otevřel",Expertní práce,-18000,Lukáš Černohorský,,Lukáš Jansa,12/2017
+,,,Expertovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,,"zařizování kanceláře, bytu, smluv a osobního webu",Personální,-38697,Ondřej Polanský,,Jaroslav Němec,12/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,,Doprava - odborný asistent,Personální,-7500,Ondřej Polanský,,David Witosz,11/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,,Doprava - odborný asistent,Personální,-7500,Ondřej Polanský,,David Witosz,12/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,,Asistent Ondřej Polanský,Personální,-5000,Ondřej Polanský,,Lukáš Jansa,11/2017
+,,,Asistentovné Ondřej Polanský,,,,,,01/2000,x,x,x,x,Interní,,Asistent Ondřej Polanský,Personální,-5000,Ondřej Polanský,,Lukáš Jansa,12/2017
+,,,Expertovné Radek Holomčík,,,,,,01/2000,x,x,x,x,Interní,,Infografiky a kampaň k RRTV a dalším tématům,Expertní práce,-25000,Radek Holomčík,,Martina Králiková,12/2017
+,,,Expertovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,,Návrh kanceláří,Expertní práce,-4000,Lukáš Kolářík,,Jolana Macháčková,12/2017
+,,,Expertovné Lukáš Kolářík,,,,,,01/2000,x,x,x,x,Interní,,Osobní web,Expertní práce,-20000,Lukáš Kolářík,,Zdeněk Koutský,12/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,,Asistent Ondřej Profant,Personální,-6000,Ondřej Profant,,Adam Skořepa,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,,Asistent Ondřej Profant,Personální,-6000,Ondřej Profant,,Adam Skořepa,12/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,,Asistentka Ondřej Profant,Personální,-5000,Ondřej Profant,,Eliška Aplová,11/2017
+,,,Asistentovné Ondřej Profant,,,,,,01/2000,x,x,x,x,Interní,,Asistentka Ondřej Profant,Personální,-5000,Ondřej Profant,,Eliška Aplová,12/2017
+,,,Expertovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,,Analýza změn legislativy v oblasti vzdělávání a dopadů politik; Zmapování potřeb a doporučení k rozvoji vzdělávání v ČR,Expertní práce,-30000,Lenka Kozlová,,Petr Chaluš,12/2017
+,,,Expertovné Lenka Kozlová,,,,,,01/2000,x,x,x,x,Interní,,Vypracování souhrnu působení podvýboru pro mládež a sport,Personální,-8500,Lenka Kozlová,,Antonín Schejbal,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,,Tvorba osobního webu,Expertní práce,-7000,Olga Richterová,,Zdeněk Matějášek,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,,Analýza státního rozpočtu,Expertní práce,-8000,Olga Richterová,,Ladislav Koubek,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,,Tvorba osobního webu,Expertní práce,-7000,Olga Richterová,,Zdeněk Matějášek,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,,"výpisy, výtahy a rešerše z odborného tisku",Expertní práce,-7750,Olga Richterová,,K. Vystrčilová,12/2017
+,,,Expertovné Olga Richterová,,,,,,01/2000,x,x,x,x,Interní,,odborné práce,Expertní práce,-15947,Olga Richterová,,Futurum Reality,12/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,,"HW-SW podpora, technická podpora, správa domén a hostingu, doména balcarovadana.cz",Expertní práce,-18150,Dana Balcarová,,Lukáš Křiva,12/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,,Tvorba webových stránek danabalcarova.cz,Expertní práce,-15000,Dana Balcarová,,David Weis,12/2017
+,,,Expertovné Dana Balcarová,,,,,,01/2000,x,x,x,x,Interní,,Rozbor aktuálního POH ČR ve vztahu k Balíčku cirkulární ekonomiky EU,Expertní práce,-5000,Dana Balcarová,,Jan Nezhyba,12/2017

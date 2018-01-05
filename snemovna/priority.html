@@ -1,13 +1,37 @@
+---
+layout: raw
+---
+{% assign cols=3 %}
 <h3 class="l-micropage__detail-title text-center">Programové priority</h3>
 <div itemprop="description" class="">
     <h3 id="kontrola-moci-a-mocných">Kontrola moci a mocných</h3>
 
     <ol>
-        <li>Vymáhání hmotné osobní odpovědnosti politiků a úředníků</li>
-        <li>Konec praxe politických trafik – důsledně otevřená výběrová řízení na všechny pozice</li>
-        <li>Zabráníme únikům zisků z ČR do daňových rájů</li>
-        <li>Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací</li>
-        <li>Donutíme ČEZ a další státní firmy zveřejňovat smlouvy</li>
+        <li>{% include_relative priorita.html
+                name="Vymáhání hmotné osobní odpovědnosti politiků a úředníků"
+                redmine_id=8083
+            columns=cols
+            %}</li>
+        <li>{% include_relative priorita.html
+                name="Konec praxe politických trafik – důsledně otevřená výběrová řízení na všechny pozice"
+                redmine_id=8088
+            columns=cols
+            %}</li>
+        <li>{% include_relative priorita.html
+            name="Zabránit únikům zisků z ČR do daňových rájů"
+            redmine_id=8089
+            columns=cols
+            %}</li>
+        <li>{% include_relative priorita.html
+            name="Postupné zrušení podpory biopaliv a důsledná kontrola poskytovaných zemědělských dotací"
+            redmine_id=8090
+            columns=cols
+            %}</li>
+        <li>{% include_relative priorita.html
+            name="Donutit ČEZ a státní firmy zveřejňovat smlouvy"
+            redmine_id=8091
+            columns=cols
+            %}</li>
     </ol>
 
 
