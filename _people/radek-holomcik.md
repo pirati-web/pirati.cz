@@ -15,6 +15,8 @@ profiles:
   facebook:
   twitter: 		  
   flickr:
+report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
+redmine: 178
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
