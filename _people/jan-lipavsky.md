@@ -18,6 +18,8 @@ profiles:
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jan%20lipavsk%C3%BD&view_all=1
   report: https://forum.pirati.cz/poslanci-f884/report-poslance-jana-lipavskeho-t39022.html
 ordpsp: 5
+report: 1E2WqnQfo53CQSNy1sS6Dfm5WUjWmyRA8
+redmine: 124
 ---
 
 Jan Lipavský (* 2. července 1985) je pirátský poslanec, člen republikového výboru, volebního výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází.
