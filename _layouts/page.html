@@ -20,11 +20,13 @@ layout: default
             <h1 itemprop="headline" class="c-BasicPage__title">
               {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
             </h1>
+              {% if page.report or page.redmine %}
               <ul class="tabs" data-tabs id="profilove_zalozky">
                   <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
                   <li class="tabs-title"><a data-tabs-target="karta_poslance" href="#karta_poslance">Karta poslance</a></li>
               </ul>
-              <div data-tabs-content="profilove_zalozky" class="tabs-content">
+              {% endif %}
+              {% if page.report or page.redmine %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
             <div id="popis" class="tabs-panel is-active"  itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
 
@@ -37,9 +39,15 @@ layout: default
               {% endfor %}
               {% endif %}
             </div>
-            <div id="karta_poslance" class="tabs-panel">
+              {% if page.report or page.redmine %}<div id="karta_poslance" class="tabs-panel">
+                {% if page.report %}
+                <h3 class="l-micropage__detail-title">Poslanecký výkaz</h3>
+                <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                {% endif %}
                 {% if page.redmine %}
-                <h3 class="text-center">Úkoly poslance</h3>
+                <h3 class="l-micropage__detail-title">Úkoly poslance</h3>
+                <div id="ukoly_poslance">
+                </div>
                 <script>
                   milos.priorityStack.push(function (context) {
 
@@ -53,18 +61,34 @@ layout: default
                       var doc = JSON.parse(xhr.responseText);
                       var element = document.createDocumentFragment();
                       var table = document.createElement('table');
+                      var head = document.createElement('thead');
+                      var body = document.createElement('tbody');
+                      var hrow = document.createElement('tr');
+                      var hsubject = document.createElement('th');
+                      var hdone = document.createElement('th');
+                      hsubject.textContent = 'Název';
+                      hdone.textContent = 'Stav plnění';
+                      table.appendChild(head);
+                      table.appendChild(body);
+                      head.appendChild(hrow);
+                      hrow.appendChild(hsubject);
+                      hrow.appendChild(hdone);
                       element.appendChild(table);
                       for(var i in doc.issues) {
                         var row = document.createElement('tr');
                         var subject = document.createElement('td');
                         var done = document.createElement('td');
-                        subject.textContent = doc.issues[i].subject;
-                        done.textContent = doc.issues[i].done_ratio;
+                        var link = document.createElement('a');
+                        link.textContent = doc.issues[i].subject;
+                        done.textContent = doc.issues[i].done_ratio+%;
+                        link.href='https://redmine.pirati.cz/issues/'+doc.issues[i].id;
+                        link.target='_blank'
+                        subject.appendChild(link);
                         row.appendChild(subject);
                         row.appendChild(done);
-                        table.appendChild(row);
+                        body.appendChild(row);
                       }
-                      var div = document.getElementById('karta_poslance');
+                      var div = document.getElementById('ukoly_poslance');
                       div.appendChild(element);
                       console.log(div);
                     }
@@ -75,13 +99,8 @@ layout: default
                   });
                 </script>
                 {% endif %}
-
-                {% if page.report %}
-                <h3 class="text-center">Poslanecký výkaz</h3>
-                <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
-                {% endif %}
-            </div>
-          </div>
+            </div>{% endif %}
+              {% if page.report or page.redmine %}</div>{% endif %}
           </article>
           <!-- /Article -->
         </main>

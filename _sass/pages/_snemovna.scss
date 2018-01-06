@@ -3,10 +3,10 @@
     position: absolute;
     $size: 100px;
     height: $size;
-    width: 1.4*$size;
+    width: 2*$size;
     top: 50%;
     left: 50%;
-    margin-left: -.7*$size;
+    margin-left: -$size;
     margin-top: -.5*$size;
     text-align: center;
     z-index: 1;
