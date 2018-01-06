@@ -90,7 +90,11 @@ layout: default
             var contentElement;
             var html = '';
             if (root === undefined) {
-              contentElement = doc.getElementsByTagName("BODY");
+              if (doc.querySelectorAll(targets[i].getAttribute('data-content'))) {
+                contentElement = doc.querySelectorAll(targets[i].getAttribute('data-content'));
+              }else{
+                contentElement = doc.getElementsByTagName("BODY");
+              }
             }else{
               contentElement = doc.querySelectorAll(root);
             }
