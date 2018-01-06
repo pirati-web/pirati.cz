@@ -16,7 +16,7 @@ asistent:
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
-  twitter: 		  
+  twitter: 		  https://twitter.com/TomasMartinekCZ
   flickr:		  https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
   report: https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
 ordpsp: 15

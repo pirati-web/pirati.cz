@@ -12,12 +12,18 @@ description: 			předseda poslaneckého klubu Pirátů v PSP ČR a 3. místopře
 mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
+asistent:
+  name: Štěpán Štrébl
+  mail: stepan.strebl@pirati.cz
+  tel:  776 764 422
 profiles:
   github: https://github.com/jmichalek
   facebook: https://www.facebook.com/smidak
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
   report: https://forum.pirati.cz/poslanci-f884/report-poslance-jakuba-michalka-t38876.html
+  psp: http://www.psp.cz/sqw/detail.sqw?id=6477
+  redmine: "https://redmine.pirati.cz/projects/snemovna/issues?utf8=✓&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]==&v[fixed_version_id][]=28&f[]=assigned_to_id&op[assigned_to_id]==&v[assigned_to_id][]=4&f[]=&c[]=subject&c[]=status&c[]=priority&c[]=due_date&c[]=done_ratio&group_by=assigned_to&t[]="
 ordpraha: 1
 ordrp: 4
 ordcar: 3
@@ -44,3 +50,6 @@ Od října 2014 do listopadu 2017 byl pražským zastupitelem. Na pražském Mag
 Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze. Jako předseda poslaneckého klubu se zasadil o vznik vyšetřovací komise pro kauzu OKD. 
 
 V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii. 
+
+### Kalendář
+<iframe src="https://calendar.google.com/calendar/embed?src=7lsuqerpg58a5pa63r8phu3c2k%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
