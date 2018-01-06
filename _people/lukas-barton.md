@@ -16,6 +16,8 @@ profiles:
   facebook: 		  https://www.facebook.com/bartonlk
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?sort=date-taken-desc&advanced=1&text=luk%C3%A1%C5%A1%20barto%C5%88
+report: 1s-u1A52gywtW88SCb-HhAJNQok-OzPZd
+redmine: 182
 ---
 
 Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj. Pracuje jako vědecký pracovník na Fakultě strojní Západočeské univerzity v Plzni. Dlouhodobě se pohybuje v univerzitním prostředí. Vyučoval na Katedře konstruování strojů; působí jako lektor v oblasti geometrického tolerování. V roce 2017 byl ve volbách do Poslanecké sněmovny zvolen jako krajský lídr Pirátů do sněmovny za Plzeňský kraj.
