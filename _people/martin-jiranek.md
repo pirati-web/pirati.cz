@@ -15,6 +15,8 @@ profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
   twitter:
+report: 1HgYuDUwei7dC9zKwHMLWBTGBrBUxB7_Q
+redmine: 281
 ---
 
 
