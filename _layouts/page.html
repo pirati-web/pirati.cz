@@ -80,7 +80,7 @@ layout: default
                         var done = document.createElement('td');
                         var link = document.createElement('a');
                         link.textContent = doc.issues[i].subject;
-                        done.textContent = doc.issues[i].done_ratio+%;
+                        done.textContent = doc.issues[i].done_ratio+'%';
                         link.href='https://redmine.pirati.cz/issues/'+doc.issues[i].id;
                         link.target='_blank'
                         subject.appendChild(link);
