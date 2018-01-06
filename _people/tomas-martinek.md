@@ -5,19 +5,24 @@ fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/tomas-martinek.jpg   # 165 x 220
-description: poslanec PSP ČR za Liberecký kraj, zastupitel města Česká Lípa             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Liberecký kraj         	# kratký popis, max 160 znaků
 mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
+asistent:
+  name: Martin Rejman
+  mail: martin.rejman@pirati.cz
+  tel:  776 329 748
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
-  twitter: 		  
+  twitter: 		  https://twitter.com/TomasMartinekCZ
   flickr:		  https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
+  report: https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
 ordpsp: 15
 ---
 
-Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a opoziční zastupitel města Česká Lípa. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
+Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
 
 Zabývá se také implementací informačních systémů jako fakultní systémový integrátor na Provozně ekonomické fakultě ČZU v Praze. Je také členem Rady pro vnitřní hodnocení ČZU. Prošel několika firmami, kde se věnoval převážně reklamě a marketingu. V současné době je podnikatelem v oboru internetového marketingu, konkrétně vlastní agenturu [WebCesky.cz](https://www.webcesky.cz). 
 
@@ -28,3 +33,8 @@ V Pirátské straně působil jako registrovaný příznivec od roku 2012. V r
 Tomáš Martínek pochází z České Lípy. Kromě bydliště v České Lípě využívá také pracovní byt v Horoměřicích u Prahy, odkud dojíždí do práce. V současné době žije s přítelkyní a kočkou.
 
 Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. Informace o aktuálním dění najdete i na jeho facebookovém [profilu](https://www.facebook.com/tmartinek).
+
+Kalendář
+--------
+
+<iframe src="https://calendar.google.com/calendar/embed?src=spnksjkkqsm5s05p05clfjjr14%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="760" height="600" frameborder="0" scrolling="no"></iframe>

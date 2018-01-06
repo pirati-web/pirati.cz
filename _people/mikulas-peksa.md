@@ -12,14 +12,15 @@ mail:
 - mikulas.peksa@pirati.cz
 mob:			  
 asistent:
-  name: Adam Komenda
-  mail: peksam@psp.cz
-  tel:  731698142
+  name: David Wagner
+  mail: davidfrantisekwagner@gmail.com
+  tel:  721 030 120
 profiles:
   github:       
   facebook:     https://www.facebook.com/karel.vosmera
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=mikul%C3%A1%C5%A1%20peksa&view_all=1
+  report: https://forum.pirati.cz/poslanci-f884/reporty-mikulase-peksy-t38999.html
 ordga: 9
 ordrp: 5
 ordpsp: 6

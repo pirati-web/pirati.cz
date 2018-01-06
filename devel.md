@@ -40,7 +40,7 @@ Jakmile budeme znát vaší práci, tak se můžeme individuálně dohodnout na 
 
 - Ondřej Profant - hlavní supervizor celého webu
 
-**Další projekty technikého odboru**: pokud chcete něco víc, než HTMl, tak máme další projekty psané v:
+**Další projekty technického odboru**: pokud chcete něco víc, než HTMl, tak máme další projekty psané v:
 
 - Angular 2
 - Nette

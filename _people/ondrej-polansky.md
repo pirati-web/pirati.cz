@@ -9,11 +9,16 @@ description: poslanec PSP ČR za Moravskoslezský kraj            	# kratký pop
 mail:
 - ondrej.polansky@pirati.cz
 mob:			  
+asistent:
+  name: Zuzana Kolaříková
+  mail: kolarikovaz@psp.cz
+  tel:  777 674 414
 profiles:
   github:       
-  facebook:     
+  facebook: https://www.facebook.com/ondrej.polansky
   twitter: 		  
   flickr:		  
+  report: https://forum.pirati.cz/poslanci-f884/report-poslance-ondreje-polanskeho-t39036.html
 ordga: 9
 ordrp: 5
 ordpsp: 12

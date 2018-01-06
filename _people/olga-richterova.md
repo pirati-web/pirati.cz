@@ -17,6 +17,7 @@ profiles:
   twitter: 	
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=olga%20richterov%C3%A1
+  report: https://forum.pirati.cz/poslanci-f884/reporty-olgy-richterove-t38991.html
 ordpsp: 16
 ordpraha: 5
 redmine: 99

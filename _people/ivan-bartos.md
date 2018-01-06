@@ -12,11 +12,16 @@ description: předseda Pirátů, poslanec PSP ČR za Středočeský kraj
 mail:
 - ivan.bartos@pirati.cz
 mob:			   +420 603 415 378
+asistent:
+  name: Věra Marušiakova
+  mail: vera.marusiakova@pirati.cz
+  tel:  724 932 261
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
   twitter:		 https://twitter.com/IvanCzechPir8
   flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
+  report:      https://forum.pirati.cz/poslanci-f884/report-poslance-ivana-bartose-t38992.html
 ordrp: 1
 ordcar: 1
 ordga: 3

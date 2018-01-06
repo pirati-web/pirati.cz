@@ -10,6 +10,10 @@ description: 5. místopředseda sněmovny, člen republikového výboru	# kratk�
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
+asistent:
+  name: Tomáš Svoboda
+  mail: svobi.eu@gmail.com
+  tel:  733 252 652
 profiles:
   github:     https://github.com/Fafrin
   facebook: 	https://www.facebook.com/vpikal
@@ -17,6 +21,7 @@ profiles:
   wikipedia:  https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Pikal
   flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
+  report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-vojtecha-pikala-t38965.html
 ordpsp: 7
 redmine: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
