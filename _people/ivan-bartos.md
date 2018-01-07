@@ -26,6 +26,8 @@ ordrp: 1
 ordcar: 1
 ordga: 3
 ordpsp: 2
+report: 1Vm9V6BS0Yaeop1W09jSeLsBoFaWEGpJ_
+redmine: 157
 carousel:
   img: ivan-bartos.jpg
   text: |

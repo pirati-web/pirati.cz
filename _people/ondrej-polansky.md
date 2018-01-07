@@ -22,6 +22,8 @@ profiles:
 ordga: 9
 ordrp: 5
 ordpsp: 12
+redmine: 402
+report: 1MoXlGzI0Mm8zguD1bgrDKFwbMBWwTtgc
 ---
 
 Ondřej Polanský je pirátský poslanec za Moravskoslezský kraj. Narodil se roku 1984 v Ostravě, kde, s výjimkou doby studia na VŠ, žije dodnes. Členem pirátské strany je od jejího vzniku. Maturitu složil v roce 2003 v oboru elektrotechnika, do roku 2008 pak studoval informatiku a hospodářské dějiny (jako vedlejší specializaci) na Vysoké škole ekonomické v Praze. Celý profesní život působí v mezinárodních firmách pracující s informačními technologiemi, především v oblasti analýzy a zpracovávání velkých dat. V Ostravě je zapojen do občanských aktivit majících za cíl zlepšovat veřejný prostor, zajímá jej architektura a urbanismus. Je aktivní sportovec, má rád moderní technologie, českou kinematografii, bílé víno a noční oblohu.

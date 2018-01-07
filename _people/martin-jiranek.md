@@ -19,7 +19,9 @@ profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
   twitter:
-  report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html
+report: 1HgYuDUwei7dC9zKwHMLWBTGBrBUxB7_Q
+redmine: 281
+  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html
 ---
 
 

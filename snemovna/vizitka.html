@@ -10,11 +10,8 @@
             {% if include.res %}<h3 class="l-vizitka__title">{{ include.res }}</h3>{% endif %}
             {% if include.name %}
                 <h4 class="o-media__headline">
-            {% if include.link %}
-                    <a href="/lide/{{ include.link }}/">{{ include.name }}</a>
-            {% else %}
-                    {{ include.name }}
-            {% endif %}
+                 <a href="{{ include.link }}">{{ include.name }}</a>
+                    <!--{{ include.name }}-->
                 </h4>
             {% endif %}
             {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}

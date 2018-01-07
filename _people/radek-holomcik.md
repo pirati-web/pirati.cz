@@ -19,7 +19,9 @@ profiles:
   facebook:
   twitter: 		  
   flickr:
-  report: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html
+report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
+redmine: 178
+  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.

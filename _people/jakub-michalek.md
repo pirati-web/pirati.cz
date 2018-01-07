@@ -29,6 +29,8 @@ ordrp: 4
 ordcar: 3
 ordga: 8
 ordpsp: 1
+report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
+redmine: 4
 carousel:
   img: jakub-michalek.jpg
   text: |

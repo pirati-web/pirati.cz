@@ -19,6 +19,8 @@ profiles:
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=franti%C5%A1ek%20kop%C5%99iva
   report:		    https://forum.pirati.cz/poslanci-f884/report-poslance-frantiska-koprivy-t38948.html
 ordpsp: 22
+redmine: 109
+report: 1hXfW3W33AYYJqzOXb-xEhJPGCJHaYy3R
 ---
 
 František Kopřiva (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a momentálně studuje v Praze, kde v letech 2016-2017 pracoval v Laboratořích pro vývoj a realizaci. Kromě toho příležitostně pracuje jako copywriter. Mezi jeho záliby patří rozšiřování obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění světové i domácí.
