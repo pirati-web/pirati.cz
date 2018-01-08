@@ -10,15 +10,16 @@ mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
 asistent:
-  name: Martin Rejman
+  name: RNDr. Martin Rejman, Ph.D.
   mail: martin.rejman@pirati.cz
   tel:  776 329 748
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
   twitter: 		  https://twitter.com/TomasMartinekCZ
-  flickr:		  https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
-  report: https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
+  flickr:		    https://www.flickr.com/search/?text=tom%C3%A1%C5%A1%20mart%C3%ADnek
+  report:       https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
+  redmine:      https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=315&f%5B%5D=&c%5B%5D=subject&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=due_date&c%5B%5D=done_ratio&group_by=assigned_to&t%5B%5D=
 ordpsp: 15
 ---
 
@@ -37,4 +38,4 @@ Podporuje elektronizaci veřejné správy, hlubší integraci EU související s
 Kalendář
 --------
 
-<iframe src="https://calendar.google.com/calendar/embed?src=spnksjkkqsm5s05p05clfjjr14%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="760" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=spnksjkkqsm5s05p05clfjjr14%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0; max-width:100%" width="740" height="600" frameborder="0" scrolling="no"></iframe>
