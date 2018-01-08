@@ -4,8 +4,9 @@ name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík # jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
+- rp
 img: people/radek-holomcik.jpg   # 165 x 220
-description: poslanec za Jihomoravský kraj           	# kratký popis, max 160 znaků
+description: poslanec za Jihomoravský kraj, 2. místopředseda Pirátů           	# kratký popis, max 160 znaků
 ordpsp: 8
 mail:
 - radek.holomcik@pirati.cz
@@ -21,11 +22,12 @@ profiles:
   flickr:
 report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
 redmine: 178
-  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html
+ordrp: 3
+<!--report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html-->
 ---
 
 Radek Holomčík (narozen 31. 7. 1985 v Hodoníně) pochází ze Strážnice.
 
-Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole začal pracovat v oboru, přičemž se neúspěšně pokoušel o studium Astrofyziky a Politologie. Po dvou letech se přeorientoval na oblast marketingu a PR, ve které pracuje dodnes. Při zaměstnání vystudoval Teorie interaktivních médií (Bc.) a Management v kultuře (Mgr.), obé na FF MU v Brně.
+Vystudoval SPŠ v Uherském Hradišti, obor Elektrotechnika. Po střední škole začal pracovat v oboru, přičemž se neúspěšně pokoušel o studium Astrofyziky a Politologie. Po dvou letech se přeorientoval na oblast marketingu a PR, ve které pracuje dodnes. Při zaměstnání vystudoval Teorie interaktivních médií (Bc.) a Management v kultuře (Mgr.), obé na FF MU v Brně. V lednu 2018 byl zvolen za 2. místopředsedu Pirátů.
 
 Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupráce s několika sdruženími pořádal (či spolupořádal) celou řadu kulturních akcí. Ve volném čase vaří, hraje na basu a píše.

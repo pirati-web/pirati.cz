@@ -22,7 +22,7 @@ profiles:
   flickr:
 report: 1Wtr92-X7nLh643jdL1z3J2PdwWiVpwZa
 redmine: 114
-  report_orig: https://forum.pirati.cz/poslanci-f884/report-lukas-cernohorsky-t39059.html
+<!--  report_orig: https://forum.pirati.cz/poslanci-f884/report-lukas-cernohorsky-t39059.html-->
 ---
 
 Lukáš Černohorský (\*1984) se narodil v Dlouhé Lhotě u Příbrami. Odkud se přestěhoval do Ostravy.

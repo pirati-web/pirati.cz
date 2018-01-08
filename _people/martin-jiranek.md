@@ -21,7 +21,7 @@ profiles:
   twitter:
 report: 1HgYuDUwei7dC9zKwHMLWBTGBrBUxB7_Q
 redmine: 281
-  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html
+<!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html-->
 ---
 
 
