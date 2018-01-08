@@ -15,7 +15,7 @@ mob: 				+420 775 978 550
 asistent:
   name: Štěpán Štrébl
   mail: stepan.strebl@pirati.cz
-  tel:  776 764 422
+  tel:
 profiles:
   github: https://github.com/jmichalek
   facebook: https://www.facebook.com/smidak
