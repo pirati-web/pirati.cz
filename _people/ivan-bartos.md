@@ -13,9 +13,9 @@ mail:
 - ivan.bartos@pirati.cz
 mob:			   +420 603 415 378
 asistent:
-  name: Věra Marušiakova
+  name: Věra Marušiaková
   mail: vera.marusiakova@pirati.cz
-  tel:  724 932 261
+  tel: +420 603 415 378
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
