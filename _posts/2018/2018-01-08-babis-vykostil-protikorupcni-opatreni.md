@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/babis-penize.jpg
 author:       Karolína Sadílková
 ---
 
-Praha, 9. ledna 2018 – Z včera představené úpravy programového prohlášení Babišovy vlády zmizely důležité formulace týkající se nutných protikorupčních opatření. V návrhu například zůstal požadavek novelizovat registr smluv, již zde však premiér explicitně nejmenuje podniky, kterých by se podmínka zveřejňovat smlouvy měla týkat, tedy ČEZ či Českou poštu. V původním znění prohlášená přitom konkrétní informace uvedeny byly. 
+Praha, 9. ledna 2018 – Z včera představené úpravy programového prohlášení Babišovy vlády zmizely důležité formulace týkající se nutných protikorupčních opatření. V návrhu například zůstal požadavek novelizovat registr smluv, již zde však premiér explicitně nejmenuje podniky, kterých by se podmínka zveřejňovat smlouvy měla týkat, tedy ČEZ či Českou poštu. V původním znění prohlášení přitom konkrétní informace uvedeny byly. 
 
 > „Obáváme se, že úpravy, které premiér představil směřují přesně opačným směrem, než-li ke zvýšení transparentnosti fungování státu. U firem čerpajících veřejné prostředky nebyl zahrnut požadavek na odkrytí vlastnické struktury. U veřejných zakázek byl doplněn jen obecný závazek k transparentnosti. Nezávislost státního zastupitelství byla doplněna, ale místo jejího posílení je uvedeno "nové nastavení," což zní mnohoznačně. Chybí úprava nominací do dozorčích rad státních firem. Je nově doplněna jen obecná teze, že vláda nebude do státní správy dosazovat politické nominanty,” komentuje nové prohlášení předseda Pirátů Ivan Bartoš.
 
