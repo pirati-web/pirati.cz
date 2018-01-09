@@ -26,6 +26,6 @@ Předseda strany Ivan Bartoš zveřejní svou osobní preferenci tento čtvrtek:
 
 * Programové priority Pirátů pro volbu prezidentka 2018 naleznete zde: [https://wiki.pirati.cz/program/prezident2018](https://wiki.pirati.cz/program/prezident2018)
 
-* Vnitrostranická anketa Pirátů zde: [https://forum.pirati.cz/clenske-ankety-f637/anketa-prezidentske-volby-2018-1-kolo-t38884-40.html#p535733](https://forum.pirati.cz/clenske-ankety-f637/anketa-prezidentske-volby-2018-1-kolo-t38884-40.html#p535733)
+* Vnitrostranická anketa Pirátů zde: [https://forum.pirati.cz/clenske-ankety-f637/anketa-prezidentske-volby-2018-1-kolo-t38884-40.html](https://forum.pirati.cz/clenske-ankety-f637/anketa-prezidentske-volby-2018-1-kolo-t38884-40.html)
 
 
