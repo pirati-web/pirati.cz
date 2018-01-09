@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti si přejí slušnou a reprezentativní osobnost včele státu."
+title:        "Piráti si přejí slušnou a reprezentativní osobnost v čele státu."
 image:        /assets/img/articles/2018/kandidati-hrad.jpg
 author:       Karolína Sadílková
 ---
