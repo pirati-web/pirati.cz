@@ -49,6 +49,9 @@ body{
   //  filter: grayscale(100%);
   //  left: calc(50% - 730px);
   //}
+  .row > .l-vizitka{
+    float: left;
+  }
   &__modal{
     position: fixed;
     background: white;

@@ -21,6 +21,8 @@ profiles:
   report:       https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html
   redmine:      https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=315&f%5B%5D=&c%5B%5D=subject&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=due_date&c%5B%5D=done_ratio&group_by=assigned_to&t%5B%5D=
 ordpsp: 15
+report: 1tfdbp6uRvwW8FjrqtZay5p23zILXLk4m/page/BhtL
+redmine: 315
 ---
 
 Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.

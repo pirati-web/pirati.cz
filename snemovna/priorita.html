@@ -1,9 +1,9 @@
-<h4 class="f-label--donut" text-anchor="middle" x="50%" y="50%">{% if include.name %}<a href="https://redmine.pirati.cz/issues/{{ include.redmine_id }}">{{ include.name }}</a>{% endif %}</h4>
-<svg width="100%" height="100%" viewBox="0 0 42 42" class="f-donut">
-    <circle class="donut-hole" cx="21" cy="21" r="15.91549430918954" fill="#fff"></circle>
-    <circle class="donut-ring" cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#d2d3d4" stroke-width="3"></circle>
-    <circle id='redmineid_{{ include.redmine_id }}' class="donut-segment" cx="21" cy="21" r="15.91549430918954" fill="transparent" stroke="#ce4b99" stroke-width="3" stroke-dasharray="0 100" stroke-dashoffset="25"></circle>
+<svg width="100%" height="200px" viewBox="0 0 42 42" class="f-donut">
+    <circle class="donut-hole" cx="21" cy="21" r="10" fill="#fff"></circle>
+    <circle class="donut-ring" cx="21" cy="21" r="10" fill="transparent" stroke="#d2d3d4" stroke-width="4"></circle>
+    <circle id='redmineid_{{ include.redmine_id }}' class="donut-segment" cx="21" cy="21" r="10" fill="transparent" stroke="#ce4b99" stroke-width="6" stroke-dasharray="0 100" stroke-dashoffset="25"></circle>
 </svg>
+<h5 class="f-label--donut" text-anchor="middle" x="50%" y="50%">{% if include.name %}<a href="https://redmine.pirati.cz/issues/{{ include.redmine_id }}">{{ include.name }}</a>{% endif %}</h5>
 
 {% if include.redmine_id %}
 <script>
