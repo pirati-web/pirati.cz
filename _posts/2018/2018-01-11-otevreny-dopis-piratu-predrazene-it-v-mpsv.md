@@ -20,4 +20,4 @@ Piráti proto ministryni žádají o vysvětlení personálních změn, plán da
 
 ### Odkazy
 
-* [Otevřený dopis adresovaný ministryni Němcové](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/dopis-nemcova.pdf).
+* [Otevřený dopis adresovaný ministryni Němcové](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/img/miscellaneous/dopis-nemcova.jpg).
