@@ -45,8 +45,11 @@ var validationInfo = {
         )
       },
       error: function (err) {
+        var m = err.responseText.indexOf('duplicate key') >= 0
+          ? 'Tato emailová adresa je již registrována'
+          : 'Je nám líto, došlo k chybě. Zkuste to prosím později'
         $('#do_register_button').html(
-          '<h3 class=\'text-danger\'>Je nám líto, došlo k chybě. Zkuste to prosím později.</h3>'
+          '<h3 class=\'text-danger error\'>' + m + '</h3>'
         )
         console.warn(err)
       }
