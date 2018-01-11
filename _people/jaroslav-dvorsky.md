@@ -5,7 +5,7 @@ fullname: Mgr. Jaroslav Dvorský	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - khk
 img: people/jaroslav-dvorsky.jpg   # 165 x 220
-description: kandidát do Senátu           	# kratký popis, max 160 znaků
+description: pedagog, kandidát Pirátů v senátních volbách v lednu 2018           	# kratký popis, max 160 znaků
 mail:
 - jar.dvorsky@gmail.com
 mob: 

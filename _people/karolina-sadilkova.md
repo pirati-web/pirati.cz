@@ -19,4 +19,4 @@ profiles:
 ordkontakty: 2
 ---
 
-Mgr. Karolína Sadílková (* 12.3.1989, Litomyšl) působí jako PR konzultant Pirátů, zároveň je kontaktem strany pro média v době předvolební kampaně.
+Mgr. Karolína Sadílková (* 12.3.1989, Litomyšl) působí jako PR konzultant Pirátů, zároveň je kontaktem strany pro média.

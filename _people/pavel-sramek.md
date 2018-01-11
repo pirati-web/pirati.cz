@@ -4,7 +4,7 @@ name:     Pavel Šrámek      		# běžně používáné jméno
 fullname: Pavel Šrámek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavel-sramek.jpg           # 165 x 220
-description: koordinátor dobrovolníků pro Plzeňský kraj # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Plzeňský kraj # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
 mob: 

@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - olomoucko
 position: krajský předseda
 img: people/petr-kapounek.jpg   # 165 x 220
-description: předseda olomouckého krajského sdružení, zastupitel v Prostějově          	# kratký popis, max 160 znaků
+description: Předseda olomouckého krajského sdružení, zastupitel v Prostějově          	# kratký popis, max 160 znaků
 mail:
 - petr.kapounek@pirati.cz
 mob:			  
