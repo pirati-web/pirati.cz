@@ -19,6 +19,8 @@ var validationInfo = {
   },
   submitHandler: function (form) {
     $('form[name=registration]').prop('disabled', true)
+    var butt = 'Registrovat <i class="fa fa-spinner fa-spin" aria-hidden="true"></i>'
+    $('button[type=submit]').html(butt).prop('disabled', true)
     // prepare data
     var dataArray = $(form).serializeArray()
     var data = {}
