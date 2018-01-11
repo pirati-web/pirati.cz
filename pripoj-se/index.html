@@ -1,6 +1,10 @@
 ---
 layout: default
 img: brand/logo.svg
+scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.js
+  - //cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.jquery.min.js
+  - register_form.js
 ---
 
 {% include submenu.html %}
@@ -51,18 +55,17 @@ img: brand/logo.svg
   </div>
 </div>
 
-
 <div class="row">
-    <div class="medium-12 large-12 columns">
-        <div id="tlacitko" style="    text-align: center;">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScZOvBLP3B_qFlhnVsu_TjGnDb6XeNj1U9-opCOAMMRvCpFMw/viewform?c=0&w=1" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">Přidat se k nám!
-                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                <br>          
-                Pozor, může to chvíli trvat. 
-                <br>          
-                Jsme trošku zahlcení :-)
-            </a>
-        </div>
+  <div class="medium-12 large-12 columns">
+    <div id='do_register_button' style="    text-align: center;">
+      <button id='butt' style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
+        Přidat se k nám! <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+        <br>
+        Pozor, může to chvíli trvat.
+        <br>
+        Jsme trošku zahlcení :-)
+      </button>
+    </div>
   </div>
 </div>
 

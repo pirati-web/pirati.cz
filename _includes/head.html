@@ -18,6 +18,11 @@
     <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
     {% endif %}
     {% feed_meta %}
+    <script src="{{'assets/js/common-libs.min.js' | relative_url}}"></script>
+    <script src="{{'assets/js/custom.min.js' | relative_url}}"></script>
+    {% for i in page.scripts %}
+    <script src='{{i}}' type='text/javascript'></script>
+    {% endfor %}
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
