@@ -78,14 +78,20 @@ var substringMatcher = function (strs) {
   }
 }
 
-$(document).ready(function () {
-  // load psc
+function _loadMesta () {
   $.ajax({
     url: 'https://czgovopts.herokuapp.com/ico',
     success: function (result) {
       pscOptions = result
+    },
+    error: function (_) {
+      setTimeout(_loadMesta, 3000)
     }
   })
+}
+
+$(document).ready(function () {
+  _loadMesta()
   $('#butt').click(function () {
     $.ajax({
       url: 'form.html',
