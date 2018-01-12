@@ -1,5 +1,6 @@
 /* global document, $ */
 var pscOptions = null
+var registerURL = 'https://radiant-chamber-14537.herokuapp.com/register_web'
 var validationInfo = {
   rules: {
     name: 'required',
@@ -36,7 +37,7 @@ var validationInfo = {
     data.psc = m.length > 1 ? m[1] : data.psc
     // post to server
     $.ajax({
-      url: 'https://radiant-chamber-14537.herokuapp.com/register_web',
+      url: registerURL,
       data: JSON.stringify(data),
       type: 'POST',
       contentType: 'application/json; charset=utf-8',
