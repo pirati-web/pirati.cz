@@ -9,6 +9,7 @@ deputy:
 - Kamil Kubica
 - Karel Ficenec
 contact:
+- pavel.bulicek
 region: Královéhradecký kraj
 url: https://kralovehradecky.pirati.cz
 categories:
