@@ -175,9 +175,10 @@ body{
         //@extend %before-pattern;
         background: url(pomer.svg) no-repeat center center;
         transform: rotate(-45deg) translate(21%, -16%);
-        width: 60vw;
-        height: 60vw;
-        top: -60px;
+        width: 800px;
+        top: -260px;
+        left: 50%;
+        margin-left: -640px;
         @include breakpoint(mobile down) {
           display: none;
         }
