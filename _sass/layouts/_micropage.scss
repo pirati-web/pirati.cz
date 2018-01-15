@@ -49,6 +49,20 @@ body{
   //  filter: grayscale(100%);
   //  left: calc(50% - 730px);
   //}
+  .cta{
+    position: relative;
+    font-size: 1.5em;
+    color: $dark;
+    font-weight: bold;
+    &:before{
+      @extend %before-util;
+      background: orange;
+      top: -5px;
+      bottom: -5px;
+      left: -5px;
+      right: -5px;
+    }
+  }
   .row > .l-vizitka{
     float: left;
   }
