@@ -30,6 +30,10 @@ layout: default
             <div id="popis" class="tabs-panel is-active"  itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
 
+              {% if page.calendar %}
+              <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar }}@group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0; width:100%" height="600" frameborder="0" scrolling="no"></iframe>
+              {% endif %}
+
               {% if page.videa %}
               <h2>Doprovodná videa</h2>
               {% for video in page.videa %}
