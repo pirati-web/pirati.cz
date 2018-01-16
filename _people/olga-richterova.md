@@ -26,9 +26,7 @@ ordrp: 2
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 ---
 
-Olga Richterová (* 21. ledna 1985) je pirátská poslankyně za Prahu, 1. místopředsedkyně Pirátské strany předsedkyně místního sdružení Praha 10.
-
-Olga pochází z vesnice jménem Choltice a od roku 2002 žije v Praze. Je opoziční zastupitelkou v 6. největší obci ČR za koalici Vlasta, občany informuje prostřednictvím Vlastních novin, které s kolegy vydávají každého půl roku. V říjnu 2017 byla ze 4. místa kandidátky zvolena poslankyní Parlamentu ČR. V lednu 2018 byla zvolena za 1. místopředsedkyni Pirátské strany.
+PhDr. Olga Richterová, PhD. (* 21. ledna 1985) je poslankyně Parlamentu ČR za Českou pirátskou stranu, kde je místopředsedkyní Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny. Působí i jako předsedkyně místního sdružení Pirátů Praha 10 a členka Republikového výboru Pirátů a komunální zastupitelka na Praze 10.
 
 „Od r. 2014 hájím veřejný zájem jako zastupitelka Koalice Vlasta na Praze 10 za Piráty. Chcete se přidat? Má to smysl!“
 
