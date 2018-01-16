@@ -8,7 +8,7 @@ body{
   display: block;
   position: absolute;
   z-index: -1;
-  background: rgba($dark, .20);
+  background: rgba($dark, .50);
   left: 0;
   top: 0;
   bottom: 0;
@@ -49,6 +49,23 @@ body{
   //  filter: grayscale(100%);
   //  left: calc(50% - 730px);
   //}
+  .cta{
+    position: relative;
+    font-size: 1.5em;
+    color: $dark;
+    font-weight: bold;
+    &:before{
+      @extend %before-util;
+      background: orange;
+      top: -5px;
+      bottom: -5px;
+      left: -5px;
+      right: -5px;
+    }
+  }
+  .row > .l-vizitka{
+    float: left;
+  }
   &__modal{
     position: fixed;
     background: white;
@@ -158,9 +175,10 @@ body{
         //@extend %before-pattern;
         background: url(pomer.svg) no-repeat center center;
         transform: rotate(-45deg) translate(21%, -16%);
-        width: 60vw;
-        height: 60vw;
-        top: -60px;
+        width: 800px;
+        top: -260px;
+        left: 50%;
+        margin-left: -640px;
         @include breakpoint(mobile down) {
           display: none;
         }

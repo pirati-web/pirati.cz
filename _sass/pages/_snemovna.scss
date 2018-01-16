@@ -1,14 +1,15 @@
 #priority{
   .f-label--donut{
-    position: absolute;
-    $size: 100px;
-    height: $size;
-    width: 2*$size;
-    top: 50%;
-    left: 50%;
-    margin-left: -$size;
-    margin-top: -.5*$size;
+    //position: absolute;
+    //$size: 80px;
+    //height: $size;
+    //width: 2*$size;
+    //top: 50%;
+    //left: 50%;
+    //margin-left: -$size;
+    //margin-top: -.5*$size;
     text-align: center;
+    padding: 0 1.25rem;
     z-index: 1;
   }
   ol{
@@ -16,7 +17,10 @@
     flex-wrap: wrap;
     list-style: none;
     li{
-      flex-basis: 33%;
+      flex-basis: 100%;
+      @include breakpoint(medium up) {
+        flex-basis: 20%;
+      }
       flex-shrink: 0;
       position: relative;
     }

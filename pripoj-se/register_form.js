@@ -20,7 +20,7 @@ var validationInfo = {
   },
   submitHandler: function (form) {
     $('form[name=registration]').prop('disabled', true)
-    var butt = 'Registrovat <i class="fa fa-spinner fa-spin" aria-hidden="true"></i>'
+    var butt = 'Registrovat <i class=\'fa fa-spinner fa-spin\' aria-hidden=\'true\'></i>'
     $('button[type=submit]').html(butt).prop('disabled', true)
     // prepare data
     var dataArray = $(form).serializeArray()
@@ -91,7 +91,7 @@ function _loadMesta () {
   })
 }
 
-$(document).ready(function () {
+function initRegisterForm () {
   _loadMesta()
   $('#butt').click(function () {
     $.ajax({
@@ -110,4 +110,27 @@ $(document).ready(function () {
       }
     })
   })
-})
+}
+
+// this is hack! Jquery neni v head a proto se nacita az po nacteni stranky :/
+var scripts = {}
+function _waitForScripts () {
+  if (window.$ === undefined) {
+    return setTimeout(_waitForScripts, 300)
+  }
+  if (scripts['validate'] === undefined) {
+    scripts['validate'] = 'loading'
+    $.getScript('https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.js', function (data, textStatus, jqxhr) {
+      scripts['validate'] = true
+    })
+    scripts['validate'] = 'typeahead'
+    $.getScript('//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.jquery.min.js', function (data, textStatus, jqxhr) {
+      scripts['typeahead'] = true
+    })
+  }
+  if (scripts['validate'] === 'loading' || scripts['validate'] === 'typeahead') {
+    return setTimeout(_waitForScripts, 300)
+  }
+  initRegisterForm()
+}
+_waitForScripts()

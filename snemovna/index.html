@@ -15,26 +15,26 @@ layout: default
             </div>
             <div class="medium-7 columns">
                 <div class="l-micropage__hero-text">
-                    <h1 div class="l-micropage__hero-subhead">Piráti ve sněmovně</h1>
-                    <p class="l-micropage__perex">Informační otevřenost, finanční transparentnost a především možnost občanů aktivně rozhodovat.</p>
-                    <p class="l-micropage__perex">Proto jsme se sešli právě pod křídly Pirátské strany.</br>Proto jsme v poslanecké sněmovně.</p>
-                </div>
+                    <h1 div class="l-micropage__hero-subhead">Zkontrolujte si Pirátské poslance</h1>
+                    <p class="l-micropage__perex">Vaši poslanci pracují za Vaše peníze a jsou tu hlavně pro Vás. Krom informací o plnění programu na této stránce najdete také informace o čerpání poslaneckých náhrad, úkoly a kalendář každého jednotlivého poslance.</p>
+            </div>
             </div>
         </div>
     </section>
     <nav class="l-micropage__top-bar c-top-bar">
         <div class="row">
+            <span class="cta">Podívejte se, jak Vaši poslanci pracují:</span>
             <ul class="l-micropage__top-bar__list menu dropdown">
-                <li class="l-micropage__top-bar__list-item"><a href="#aktuality">Aktuality</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#klub">Klub</a></li>
                 <li class="l-micropage__top-bar__list-item"><a href="#priority">Plnění programu</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#vykaz">Finance</a></li>
+                <li class="l-micropage__top-bar__list-item"><a href="#klub">Poslanci</a></li>
+                <li class="l-micropage__top-bar__list-item"><a href="#vykaz">Čerpání financí</a></li>
+                <li class="l-micropage__top-bar__list-item"><a href="#aktuality">Aktuality</a></li>
             </ul>
         </div>
     </nav>
-    <section class="l-micropage__section row o-section " id="aktuality">
+    <section class="l-micropage__section row o-section" id="priority">
         <div class="small-12 columns">
-            {% include_relative aktuality.html %}
+            {% include_relative priority.html %}
         </div>
     </section>
     <section class="l-micropage__section row o-section " id="klub">
@@ -42,14 +42,9 @@ layout: default
             {% include_relative klub.html %}
         </div>
     </section>
-    <section class="l-micropage__section row o-section" id="priority">
-        <div class="small-12 columns">
-            {% include_relative priority.html %}
-        </div>
-    </section>
     <section class="l-micropage__section row o-section" id="vykaz">
         <div class="small-12 columns">
-            <h2 class="l-micropage__detail-title text-center">Výkaz poslaneckého klubu</h2>
+            <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
             <div class="row text-center">
                 <div class="columns medium-6">
                     <h4><a data-modal href="/snemovna/vydelky.html">Výdělky dodavatelů klubu</a></h4>
@@ -60,6 +55,11 @@ layout: default
             </div>
             <iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section " id="aktuality">
+        <div class="small-12 columns">
+            {% include_relative _aktuality.html %}
         </div>
     </section>
 

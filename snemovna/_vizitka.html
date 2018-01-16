@@ -14,9 +14,9 @@
                     <!--{{ include.name }}-->
                 </h4>
             {% endif %}
-            {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}
-            {% if include.tel %}<p>{{ include.tel }}<br> {% endif %}
             {% if include.mail %}<a href="mailto:{{ include.mail }}">{{ include.mail }}</a>{% endif %}
+            {% if include.tel %}{{ include.tel }}{% endif %}
+            {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}
             </p>
         </div>
     </div>

@@ -6,10 +6,10 @@ fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
 leader: pavel.bulicek
 deputy:
-- Martin Jiránek
-- Miroslav Čaky
+- Kamil Kubica
+- Karel Ficenec
 contact:
-- jakub.zitko
+- pavel.bulicek
 region: Královéhradecký kraj
 url: https://kralovehradecky.pirati.cz
 categories:
