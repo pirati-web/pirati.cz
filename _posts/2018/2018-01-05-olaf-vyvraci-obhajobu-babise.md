@@ -3,7 +3,7 @@ date:         2018-01-05
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "OLAF dává za pravdu české policii a vyvrací obhajobu Babiše."
+title:        "OLAF dává za pravdu české policii a vyvrací obhajobu Babiše"
 image:        /assets/img/articles/2018/michalek-novinari.jpg
 author:       Jakub Michálek
 ---

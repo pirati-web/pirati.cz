@@ -3,7 +3,7 @@ date:         2018-01-10
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Michálek: ANO a SPD svolávají mimořádný imunitní výbor. Chtějí dále obstruovat vydání poslanců Babiše a Faltýnka."
+title:        "Michálek: ANO a SPD svolávají mimořádný imunitní výbor. Chtějí dále obstruovat vydání poslanců Babiše a Faltýnka"
 image:        /assets/img/articles/2018/michalek-snemovna.jpg
 author:       Karolína Sadílková
 ---

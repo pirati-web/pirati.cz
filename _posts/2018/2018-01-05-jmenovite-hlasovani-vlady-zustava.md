@@ -3,7 +3,7 @@ date:         2018-01-05
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Piráti ubránili jmenovité hlasování vlády. Ministři ponesou odpovědnost za své jednání."
+title:        "Piráti ubránili jmenovité hlasování vlády. Ministři ponesou odpovědnost za své jednání"
 image:        /assets/img/articles/2018/porada.jpg
 author:       Karolína Sadílková
 ---

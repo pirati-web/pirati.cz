@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Piráti poptávají dodavatele účetních služeb a systému pro finanční řízení."
+title:        "Piráti poptávají dodavatele účetních služeb a systému pro finanční řízení"
 image:        /assets/img/articles/2018/acco.jpg
 author:       Karolína Sadílková
 ---

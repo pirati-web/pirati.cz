@@ -3,7 +3,7 @@ date:         2018-01-11
 category:     blog
 tags:         informatika
 layout:       post
-title:        "Otevřený dopis Pirátů upozorňuje na předražené IT systémy MPSV."
+title:        "Otevřený dopis Pirátů upozorňuje na předražené IT systémy MPSV"
 image:        /assets/img/articles/2018/predani-dopisu.jpg
 author:       Karolína Sadílková
 ---

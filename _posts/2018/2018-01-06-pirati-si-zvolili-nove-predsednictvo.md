@@ -3,7 +3,7 @@ date:         2018-01-06
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Piráti si v Brně zvolili nové předsednictvo strany."
+title:        "Piráti si v Brně zvolili nové předsednictvo strany"
 image:        /assets/img/articles/2018/predsednictvo.jpg
 author:       Karolína Sadílková
 ---

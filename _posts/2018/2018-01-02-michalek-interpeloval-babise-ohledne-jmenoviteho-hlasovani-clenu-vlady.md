@@ -3,7 +3,7 @@ date:         2018-01-02
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Pirát Michálek dnes interpeloval premiéra. Novela jednacího řádu vlády ruší odpovědnost ministrů."
+title:        "Pirát Michálek dnes interpeloval premiéra. Novela jednacího řádu vlády ruší odpovědnost ministrů"
 image:        /assets/img/articles/2018/michalek.jpg
 author:       Karolína Sadílková
 ---

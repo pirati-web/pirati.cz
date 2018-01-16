@@ -3,7 +3,7 @@ date:         2018-01-03
 category:     blog
 tags:         čez
 layout:       post
-title:        "Piráti chtějí donutit ČEZ zveřejňovat smlouvy. Navrhují zaplnit mezery v infozákoně."
+title:        "Piráti chtějí donutit ČEZ zveřejňovat smlouvy. Navrhují zaplnit mezery v infozákoně"
 image:        /assets/img/articles/2018/cez.jpg
 author:       Karolína Sadílková
 ---

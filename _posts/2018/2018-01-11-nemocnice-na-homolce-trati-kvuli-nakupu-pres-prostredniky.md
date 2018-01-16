@@ -3,7 +3,7 @@ date:         2018-01-11
 category:     blog
 tags:         zdravotnictví
 layout:       post
-title:        "Nemocnice Na Homolce tratí stamiliony kvůli nákupům přes prostředníky."
+title:        "Nemocnice Na Homolce tratí stamiliony kvůli nákupům přes prostředníky"
 image:        /assets/img/articles/2018/nahomolce.jpg
 author:       Karolína Sadílková
 ---

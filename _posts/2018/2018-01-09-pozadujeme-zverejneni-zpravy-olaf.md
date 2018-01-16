@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Okamurovci pomohli odsunout jednání o vydání poslanců Babiše a Faltýnka. Piráti požadují zveřejnění zprávy OLAF."
+title:        "Okamurovci pomohli odsunout jednání o vydání poslanců Babiše a Faltýnka. Piráti požadují zveřejnění zprávy OLAF"
 image:        /assets/img/articles/2018/olaf.jpg
 author:       Karolína Sadílková
 ---

@@ -3,7 +3,7 @@ date:         2018-01-06
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Ivana Bartoše zvolilo 94 % hlasujících Pirátů předsedou."
+title:        "Ivana Bartoše zvolilo 94 % hlasujících Pirátů předsedou"
 image:        /assets/img/articles/2018/ivan-cf.jpg
 author:       Karolína Sadílková
 ---

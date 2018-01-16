@@ -3,7 +3,7 @@ date:         2018-01-12
 category:     blog
 tags:         soud
 layout:       post
-title:        "Jana Nečasová stáhla žalobu na Piráty."
+title:        "Jana Nečasová stáhla žalobu na Piráty"
 image:        /assets/img/articles/2018/necasova-autobus.jpg
 author:       Karolína Sadílková
 ---

@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         zdravotnictví
 layout:       post
-title:        "Pirátský poslanecký klub schválil své zástupce do Správní a Dozorčí rady VZP."
+title:        "Pirátský poslanecký klub schválil své zástupce do Správní a Dozorčí rady VZP"
 image:        /assets/img/articles/2018/vzp.jpg
 author:       Karolína Sadílková
 ---

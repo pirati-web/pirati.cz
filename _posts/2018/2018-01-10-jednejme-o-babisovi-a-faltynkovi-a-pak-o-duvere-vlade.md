@@ -3,7 +3,7 @@ date:         2018-01-10
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Piráti chtějí jednat o vydání poslanců Babiše a Faltýnka před hlasováním o důvěře vládě."
+title:        "Piráti chtějí jednat o vydání poslanců Babiše a Faltýnka před hlasováním o důvěře vládě"
 image:        /assets/img/articles/2018/ivan-vlada.jpg
 author:       Karolína Sadílková
 ---

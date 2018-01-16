@@ -3,7 +3,7 @@ date:         2018-01-06
 category:     blog
 tags:         senát
 layout:       post
-title:        "Pirátský kandidát Dvorský získal téměř 11 % hlasů v senátních volbách na Trutnovsku."
+title:        "Pirátský kandidát Dvorský získal téměř 11 % hlasů v senátních volbách na Trutnovsku"
 image:        /assets/img/articles/2018/dvorsky.jpg
 author:       Karolína Sadílková
 ---

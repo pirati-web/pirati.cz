@@ -3,7 +3,7 @@ date:         2018-01-09
 category:     blog
 tags:         vláda
 layout:       post
-title:        "Premiér Babiš kostí vlastní programové prohlášení o protikorupční opatření."
+title:        "Premiér Babiš kostí vlastní programové prohlášení o protikorupční opatření"
 image:        /assets/img/articles/2018/babis-penize.jpg
 author:       Karolína Sadílková
 ---
