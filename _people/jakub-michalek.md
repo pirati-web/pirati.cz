@@ -13,8 +13,8 @@ mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
 asistent:
-  name: Štěpán Štrébl
-  mail: stepan.strebl@pirati.cz
+  name: Lukáš Lev Červinka
+  mail: lukas.cervinka@gmail.com
   tel:
 profiles:
   github: https://github.com/jmichalek
