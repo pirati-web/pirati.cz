@@ -28,7 +28,5 @@ report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 
 PhDr. Olga Richterová, PhD. (* 21. ledna 1985) je poslankyně Parlamentu ČR za Českou pirátskou stranu, kde je místopředsedkyní Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny. Působí i jako předsedkyně místního sdružení Pirátů Praha 10 a členka Republikového výboru Pirátů a komunální zastupitelka na Praze 10.
 
-„Od r. 2014 hájím veřejný zájem jako zastupitelka Koalice Vlasta na Praze 10 za Piráty. Chcete se přidat? Má to smysl!“
-
 ### Kalendář
 <iframe src="https://calendar.google.com/calendar/embed?src=gn1i05sfapugq65d6l5jcav8b4%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
