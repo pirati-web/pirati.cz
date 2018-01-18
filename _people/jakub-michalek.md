@@ -14,7 +14,7 @@ mail:
 mob: 				+420 775 978 550
 asistent:
   name: Lukáš Lev Červinka
-  mail: lukas.cervinka@gmail.com
+  mail: lukas.lev.cervinka@pirati.cz
   tel:
 profiles:
   github: https://github.com/jmichalek
