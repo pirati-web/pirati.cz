@@ -51,9 +51,13 @@ body{
   //}
   .cta{
     position: relative;
-    font-size: 1.5em;
+    font-size: 1.25em;
     color: $dark;
     font-weight: bold;
+    display: inline-block;
+    @include breakpoint(mobile up) {
+      font-size: 1.5em;
+    }
     &:before{
       @extend %before-util;
       background: orange;
@@ -105,9 +109,10 @@ body{
 
   }
   &__section{
-    padding: 15px;
+    padding: 2*$unit;
     @include breakpoint(mobile down) {
-      padding: 2*$unit;
+      padding: $unit;
+      overflow: hidden;
     }
   }
 
@@ -122,16 +127,30 @@ body{
     &__list{
       background-color: transparent !important;
       &-item{
-        padding: $unit;
-        display: inline-block !important;
+        width: 25%;
+        @include breakpoint(mobile up) {
+          padding: $unit;
+          display: inline-block !important;
+          width: auto;
+        }
         a{
           color: $light !important;
-          font-size: 1rem !important;
+          font-size: .75rem !important;
+          @include breakpoint(mobile up) {
+            font-size: 1rem !important;
+          }
+
+          @include breakpoint(mobile down) {
+            padding: 0.7rem !important;
+          }
         }
       }
     }
     &.c-top-bar .dropdown.menu>li+li>a::before{
       left: -1.5rem;
+      @include breakpoint(mobile down) {
+        display: none;
+      }
     }
   }
   &__toggle{
@@ -204,7 +223,10 @@ body{
     &-text{
       position: relative;
       background: rgba(#ffffff,.85);
-      padding: 2*$unit;
+      padding: $unit;
+      @include breakpoint(mobile up) {
+        padding: 2*$unit;
+      }
 
     }
   }
@@ -218,29 +240,28 @@ body{
       @extend %before-util;
       top: -$unit;
       bottom: -$unit;
-      right: 10%;
-      transform: skew(45deg);
       left: -20%;
-      @include breakpoint(mobile down) {
-        transform: skew(-45deg);
+      @include breakpoint(mobile up) {
+        transform: skew(45deg);
+        right: 10%;
       }
     }
     &:after{
       @extend %before-util;
       top: -$unit;
       bottom: -$unit;
-      left: 10%;
-      transform: skew(-45deg);
-
       right: -20%;
-      @include breakpoint(mobile down) {
-        transform: skew(45deg);
+      @include breakpoint(mobile up) {
+        transform: skew(-45deg);
+        left: 10%;
       }
     }
   }
   &__perex{
     font-size: 1.25em;
-    margin-bottom: 3*$unit;
+    @include breakpoint(mobile up) {
+      margin-bottom: 3*$unit;
+    }
     & + & {
       margin-top: -2*$unit;
     }
