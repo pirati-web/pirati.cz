@@ -9,7 +9,7 @@ deputy:
 - Josef Janů
 - Barbora Hradečná
 contact:
-- daniela.bila
+- michaela.kleslova
 region: Karlovarský kraj
 url: http://kvk.pirati.cz/
 categories:
@@ -23,11 +23,11 @@ twitter: https://twitter.com/Pirati_KaKr
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Hájí nás tři stateční zastupitelé na úrovni celého kraje. V Mariánských Lázních je starostou historicky první Pirát, a to Petr Třešňák. V obecním zastupitelstvu s ním zasedají další Piráti, a to Vojtěch Franta, Zdeněk Třešňák a Martin Kalina. V obci Valeč je naším zastupitelem Josef Úlehla.
+V radě Karlovarského kraje zasedá Josef Janů a Vojtěch Franta, v krajském zastupitelstvu je doplňuje Petr Třešňák - historicky první pirátský starosta. V Mariánských Lázních není Petr sám. V městském zastupitelstvu jej podporují Zdeňek Třešňák, Martin Kalina a Vojtěch Franta, zastávající funkci neuvolněného místostarosty.
 
-Možnosti zapojení:
+* Možnosti zapojení:
 
-* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz).
+Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
