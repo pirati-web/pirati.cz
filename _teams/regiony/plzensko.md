@@ -26,7 +26,7 @@ Naším zastupitelem ve Stříbře je Jiří Bohuslav (nezávislý, zvolený za 
 
 ### Možnosti zapojení
 
-* Kontaktujte koordinátorku pro Plzeňský kraj Miluši Kotišovou (milus.kotisova(at)pirati.cz). Schůze krajského sdružení se konají pravidelně vždy první úterý v měsíci od 18 hod. v klubu Sofia, nám T. G. Masaryka 2  v Plzni. Sledujte [náš Facebook](https://www.facebook.com/pg/plzenska.piratska.strana/events/).
+* Kontaktujte koordinátora pro Plzeňský kraj Pavla Šrámka (pavel.sramek(at)pirati.cz). Schůze krajského sdružení se konají pravidelně vždy první pondělí v měsíci od 18 hod. v našem pirátském centru, U Zvonu 9/4 v Plzni. Sledujte [náš Facebook](https://www.facebook.com/pg/plzenska.piratska.strana/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
