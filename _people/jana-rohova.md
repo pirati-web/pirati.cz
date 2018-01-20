@@ -11,7 +11,7 @@ mail:
 mob: 770 113 643
 profiles:
   github:
-  facebook: https://www.facebook.com/milus.kotisova
+  facebook: https://www.facebook.com/JaninkaToofree
   twitter:
   linkedin:
 ---
