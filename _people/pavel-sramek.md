@@ -15,4 +15,4 @@ profiles:
   linkedin: 
 ---
 
-Roman Sedláček je koordinátorem dobrovolníků pro Plzeňský kraj. Od roku 2016 je členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká.
+Pavel Šrámek (* 8. května 1991) je od roku 2016 členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká.
