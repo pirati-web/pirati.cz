@@ -4,7 +4,7 @@ name:     Věra Marušiaková      	# běžně používáné jméno
 fullname: Věra Marušiaková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vera-marusiakova.jpg           # 165 x 220
-description: Asistentka Ivana Bartoše # kratký popis, max 160 znaků
+description: Tajemnice-asistentka Ivana Bartoše # kratký popis, max 160 znaků
 mail:
 - vera.marusiakova@pirati.cz
 mob: 724 932 261
@@ -15,7 +15,7 @@ profiles:
   linkedin:
 ---
 
-Věra Marušiaková je soukromým pracovníkem předsedy Pirátů, Ivana Bartoše. V roce 2017 kandidovala jako nezávislá za Piráty v Praze. Vystudovala sociální práci na Filozofické fakultě Univerzity Karlovy. Celý život se profesionálně zabývá komunikací a příbuznými obory. Pracovala v přední mezinárodní PR agentuře, působila v největší české firmě jako specialistka interní komunikace. Má zkušenosti s publikační, editorskou i redakční prací v online i v tištěných médiích. Aktuálně pracuje pro cestovní kancelář jako online copywriter a inbound specialista. Ve volných chvílích se baví psaním motivačních dopisů a koučováním.
+Věra Marušiaková pracuje pro předsedu Pirátů, Ivana Bartoše. V roce 2017 kandidovala jako nezávislá za Piráty v Praze. Vystudovala sociální práci na Filozofické fakultě Univerzity Karlovy. Celý život se profesionálně zabývá komunikací a příbuznými obory. Pracovala v přední mezinárodní PR agentuře, působila v největší české firmě jako specialistka interní komunikace. Má zkušenosti s publikační, editorskou i redakční prací v online i v tištěných médiích. Aktuálně pracuje pro cestovní kancelář jako online copywriter a inbound specialista. Ve volných chvílích se baví psaním motivačních dopisů a koučováním.
  
 K Pirátům se připojila jako příznivkyně a zaměstnankyně v březnu 2016, kdy začala psát pro Mediální odbor. Zapojuje se do příprav Pirátských listů jako editorka a korektorka, příležitostně vede pirátské workshopy o PR a psaní, radí koordinátorům v regionech. Systematicky se snaží odstraňovat komunikační bariéry a usnadňovat spolupráci.
  

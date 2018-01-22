@@ -25,9 +25,8 @@ twitter: https://twitter.com/Pirati_KaKr
 
 V radě Karlovarského kraje zasedá Josef Janů a Vojtěch Franta, v krajském zastupitelstvu je doplňuje Petr Třešňák - historicky první pirátský starosta. V Mariánských Lázních není Petr sám. V městském zastupitelstvu jej podporují Zdeňek Třešňák, Martin Kalina a Vojtěch Franta, zastávající funkci neuvolněného místostarosty.
 
-* Možnosti zapojení:
+**Možnosti zapojení:**
 
-Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz).
-
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
+* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz).
+* Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
