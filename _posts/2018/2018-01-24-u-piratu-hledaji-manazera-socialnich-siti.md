@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti
 layout:       post
 title:        "Piráti hledají manažera sociálních sítí"
-image:        /assets/img/articles/2018/socsite.jpg
+image:        /assets/img/articles/2018/inzerat.jpg
 author:       Jiří Hoskovec
 ---
 
