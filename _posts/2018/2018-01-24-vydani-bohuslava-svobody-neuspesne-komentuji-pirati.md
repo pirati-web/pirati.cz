@@ -3,7 +3,7 @@ date:         2018-01-24
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Komentář předsedy klubu Pirátů Jakuba Michálka k dnešnímu jednání o vydání poslance Bohuslava Svobody"
+title:        "Michálek: Hlasovali jsme pro vydání Svobody"
 image:        /assets/img/articles/2018/michalek-rozhovor.jpg
 author:       Jakub Michálek
 ---
