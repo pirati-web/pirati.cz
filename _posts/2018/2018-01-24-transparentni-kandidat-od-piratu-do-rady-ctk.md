@@ -28,3 +28,4 @@ Poslanec Tomáš Martínek, který má výběrové řízení na starost, vysvět
 
 > „Kvalitní zpravodajství ČTK je dobrou obranou před dezinformacemi. Vybraná osoba by měla být schopna rozlišit objektivní a zavádějící informace, protože informovanost společnosti na základě ověřených faktů je pro nás stěžejní.“
  
+Přihláškový formulář a podrobnější informace pro uchazeče jsou zveřejněny na [fóru](https://forum.pirati.cz/verejna-vyberova-rizeni-f572/otevrene-vyberove-rizeni-na-nominanta-piratu-do-rady-ctk-t39345.html) Pirátů.
