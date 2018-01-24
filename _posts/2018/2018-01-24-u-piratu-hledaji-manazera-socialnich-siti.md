@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/inzerat.jpg
 author:       Jiří Hoskovec
 ---
 
-Piráti hledají manažera sociálních sítí, který by spravoval jejich účty na sociálních sítích (FB, Twitter, Youtube, Instagram). Aktivně by vytvářel a dodával obsah na sociální sítě a připravoval publikační plán podle požadavků mediálního odboru a poslaneckého klubu.
+Piráti hledají manažera sociálních sítí, který na nich bude spravovat jejich účty na (FB, Twitter, Youtube, Instagram). Bude aktivně vytvářet a dodávat obsah na sociální sítě a připravovat publikační plán podle požadavků mediálního odboru a poslaneckého klubu.
 
 Nabízíme sice náročnou práci, která ale může učinit českou politiku a společnost lepším prostředím. Její náplní bude každodenní styk s politickými špičkami, vytváření obrazu Pirátů, práce v exkluzivním prostředí poslaneckého klubu třetí nejsilnější parlamentní strany a odměna 35 000 až 50 000 Kč měsíčně, pravděpodobně jako OSVČ (část odměny bude zřejmě hrazena z rozpočtu poslaneckého klubu, kde je živnostenský list podmínkou poslanecké sněmovny pro hrazení výplaty).
 
