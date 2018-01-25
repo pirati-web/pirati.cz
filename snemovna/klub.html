@@ -9,7 +9,7 @@
     <div class="">
         <h2 class="l-micropage__detail-title text-center" id="transparence">Fungování klubu</h2>
         <div class="row">
-        {% assign cols=6 %}
+        {% assign cols=4 %}
 
         {% include_relative _vizitka.html
             name="Jan Pošvář" link="/lide/jan-posvar/" mail="poslanci@pirati.cz"
@@ -22,6 +22,14 @@
             name="Radek Holomčík" link="/lide/radek-holomcik" mail="radek.holomcik@pirati.cz"
             img="/assets/img/snemovna/Holomcik_Radek.jpg"
             res="Kontakt pro média"
+            columns=cols
+        %}
+
+        {% include_relative _vizitka.html
+            name="Tomáš Vymazal" link="/lide/tomas-vymazal" mail="tomas.vymazal@pirati.cz"
+            img="/assets/img/snemovna/Vymazal_Tomas.jpg"
+            res="Technické systémy klubu"
+            desc=""
             columns=cols
         %}
         </div>
@@ -200,14 +208,6 @@
             img="/assets/img/snemovna/Elfmark_Frantisek.jpg"
             res="Petiční výbor"
             desc="místopředseda"
-            columns=cols
-            %}
-
-            {% include_relative _vizitka.html
-            name="Tomáš Vymazal" link="/lide/tomas-vymazal" mail="tomas.vymazal@pirati.cz"
-            img="/assets/img/snemovna/Vymazal_Tomas.jpg"
-            res="Technické systémy klubu"
-            desc=""
             columns=cols
             %}
 
