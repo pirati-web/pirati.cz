@@ -12,7 +12,7 @@ mob:	        +420 728 237 646
 asistent:
   name: RNDr. Martin Rejman, Ph.D.
   mail: martin.rejman@pirati.cz
-  tel:  776 329 748
+  tel:  739 264 791
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
