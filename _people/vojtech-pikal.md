@@ -12,7 +12,7 @@ mail:
 mob:			  +420 778 702 714
 asistent:
   name: Tomáš Svoboda
-  mail: svobi.eu@gmail.com
+  mail: tomas.svoboda@pirati.cz
   tel:  733 252 652
 profiles:
   github:     https://github.com/Fafrin
