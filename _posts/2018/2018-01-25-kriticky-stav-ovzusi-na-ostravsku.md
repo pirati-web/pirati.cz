@@ -22,3 +22,5 @@ Jedinou pozitivní zprávou je, že produkce směsných komunálních odpadů d�
 
 Piráti proto chystají 3. března v Ostravě otevřené fórum k problematice životního prostředí s důrazem na kvalitu ovzduší v regionu. Akce se zúčastní pirátská předsedkyně Výboru pro životní prostředí Dana Balcarová, předseda Pirátů Ivan Bartoš, představitelé samospráv, kraje i neziskových organizací.
 
+Zde najdete úplnou verzi [Stínové pirátské zprávy](http://pirati-msk.cz/assets/pdf/Final_Zprava_o_ZP_MSK_9_1_2018.pdf), [Zprávu ministerstva o stavu ŽP za rok 2016 v MSK](https://www.mzp.cz/C1257458002F0DC7/cz/zpravy_zivotni_prostredi_kraje_2016/$FILE/SOPSZ-Moravskoslezsky_kraj-20180115.pdf) a také podrobné [tabulky](http://pirati-msk.cz/assets/pdf/IRZ_Tabulky_vyhodnoceni-2016-MSK.pdf) TOP znečišťovatelů a vybraných skupin látek v MSK dle hlášení v IRZ za rok 2016.
+
