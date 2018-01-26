@@ -1,7 +1,7 @@
 ---
-date:         2018-01-25
+date:         2018-01-26
 category:     blog
-tags:         sněmovna
+tags:         volby
 layout:       post
 title:        "Piráti se dle výsledků vnitrostranické ankety chystají volit Drahoše"
 image:        /assets/img/articles/2018/anketa.jpg
