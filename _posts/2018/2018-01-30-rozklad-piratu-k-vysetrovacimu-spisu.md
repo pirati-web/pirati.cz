@@ -3,7 +3,7 @@ date:         2018-01-30
 category:     blog
 tags:         kauzy
 layout:       post
-title:        "Ministerstvo financí odmítlo poskytnout plné znění vyšetřovacího spisu, Piráti podali rozklad"
+title:        "Ministerstvo financí odmítlo poskytnout plné znění zprávy OLAF z vyšetřovacího spisu, Piráti podali rozklad"
 image:        /assets/img/articles/2018/capi-hnizdo.jpg
 author:       Karolína Sadílková
 ---
