@@ -3,7 +3,7 @@ date:         2018-02-01
 category:     blog
 tags:         piráti
 layout:       post
-title:        "Staň se grafickým a video mágem Pirátů!"
+title:        "Staň se pirátským mágem pro grafiku a video!"
 image:        /assets/img/articles/2018/inzerat.jpg
 author:       Roman Kučera
 ---
@@ -14,7 +14,7 @@ Nejedná se o stálý pracovní poměr, ale o rychlé, flexibilní a kvalitní p
 
 * **Grafik** – vytváří grafické výstupy pro sociální sítě, outdoor, noviny či pirátský web.
 * **Tvůrce animovaných videí** – vytváří krátká animovaná videa pro sociální sítě.
-* **Videoprodukce** – vytváří videa pro sociální sítě či televizní vysílání od scénáře až po postprodukci.
+* **Videoprodukční** – vytváří videa pro sociální sítě či televizní vysílání od scénáře až po postprodukci.
 
 Odměna bude dle dohody na základě dodaných materiálů.
 
