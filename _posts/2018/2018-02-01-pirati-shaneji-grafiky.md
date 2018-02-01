@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/inzerat.jpg
 author:       Roman Kučera
 ---
  
-Praha, 2. února 2018 – Piráti vypisují výběrová řízení na dodavatele grafických materiálů, animovaných videí a videoprodukčního. S vybranými dodavateli budou uzavřeny rámcové smlouvy a budou dodávat grafický a filmový obsah podle požadavků mediálního odboru Pirátské strany a poslaneckého klubu Pirátů.
+Praha, 1. února 2018 – Piráti vypisují výběrová řízení na dodavatele grafických materiálů, animovaných videí a videoprodukčního. S vybranými dodavateli budou uzavřeny rámcové smlouvy a budou dodávat grafický a filmový obsah podle požadavků mediálního odboru Pirátské strany a poslaneckého klubu Pirátů.
 
 Nejedná se o stálý pracovní poměr, ale o rychlé, flexibilní a kvalitní plnění následujících požadavků.
 
