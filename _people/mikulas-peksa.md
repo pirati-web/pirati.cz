@@ -13,7 +13,7 @@ mail:
 mob:			  
 asistent:
   name: David Wagner
-  mail: davidfrantisekwagner@gmail.com
+  mail: wagnerd@psp.cz
   tel:  721 030 120
 profiles:
   github:       
