@@ -5,7 +5,7 @@ tags:         piráti
 layout:       post
 title:        "Piráti připravili pátý nedělní guláš"
 image:        /assets/img/articles/2018/gulas.jpg
-author:       Karolína Sadílková
+author:       Jakub Dušánek
 ---
 
 Praha, 5. února 2018 – Již páté rozdávání pirátského guláše proběhlo v neděli od 16 hodin před Hlavním nádražím v Praze. Za hodinu a půl rozdalo 11 dobrovolníků přes 200 porcí guláše, a to nejenom bezdomovcům, ale každému, kdo stál o setkání nebo debatu s Piráty. Tradičně dorazil předseda Pirátů Ivan Bartoš s manželkou Lydií.
