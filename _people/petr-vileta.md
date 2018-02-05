@@ -19,7 +19,7 @@ profiles:
 report: 
 redmine: 
 ---
-(* 6.7.1956 v Plzni, † //zatím ne//). Je ženatý od roku 1980, pořád s tou samou ženou, a bezdětný.
+(* 6.7.1956 v Plzni, † *zatím ne*). Je ženatý od roku 1980, pořád s tou samou ženou, a bezdětný.
 
 Od útlého dětství jej přitahovala technika. Všechny své hračky rozebíral, a&nbsp;na rozdíl od jiných dětí, pak i&nbsp;skládal
 do původního funkčního stavu. Později se jeho vztah k&nbsp;technice zaměřil konkrétněji na elektrotechniku. Po absolvování 
