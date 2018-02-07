@@ -43,7 +43,7 @@ Zásadní pro nás jsou i pravidla financování kampaní pro a proti návrhu p�
 
 Referendum je zavedeno v drtivé většině vyspělých států Evropy, viz přehledová studie Parlamentního institutu [Všeobecná referenda ve státech Evropské unie – ústavní a zákonná úprava; závaznost a praxe referend](http://www.psp.cz/sqw/text/orig2.sqw?idd=97313).
 
-![Tímto odbočovacím pruhem jezdí autobus rovně](/assets/img/articles/2018/referenda.png "Stav referend v Evropě")
+![Stav referend v Evropě](/assets/img/articles/2018/referenda.png "Stav referend v Evropě")
 
 Ve státech jako je Velká Británie, se referendum vypisuje pouze na základě zvláštního zákona (světle zelená) až po Švýcarsko, Lotyšsko i Litvu, kde je praxe referend již zavedená (tmavě zelená). Česko je jedním z posledních států, kde každé referendum vyžaduje zvláštní jednoúčelovou změnu ústavy. Z těchto příkladů se lze také poučit, čemu se vyhnout (např. stanovení kvóra podle počtu hlasujících, kdy hlas proti může vést paradoxně k platnému referendu pro).
 
