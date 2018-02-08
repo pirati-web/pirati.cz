@@ -3,7 +3,6 @@ uid: olga.richterova
 name:     Olga Richterová  	# běžně používáné jméno
 fullname: Olga Richterová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 - rv
 - psp
 - rp
