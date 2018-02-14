@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/dana2.jpg
 author:       Dana Balcarová
 ---
  
-Praha, 14. února 2018 – Předsedkyně Výboru pro životní prostředí Dana Balcarová z Pirátské strany dnes na schůzi výboru předložila dva legislativní návrhy, které pomohou zlepšit tristní stav ovzduší. Jedná se o zrušení výjimek na překračování limitů znečištění velkým elektrárnám a zavedení pravomoci obcí zakázat spalování nekvalitního uhlí.
+Praha, 14. února 2018 – Předsedkyně Výboru pro životní prostředí Dana Balcarová z Pirátské strany dnes na schůzi výboru předložila dva legislativní návrhy, které pomohou zlepšit tristní stav ovzduší[^footnote] Jedná se o zrušení výjimek na překračování limitů znečištění velkým elektrárnám a zavedení pravomoci obcí zakázat spalování nekvalitního uhlí.
  
 > „Podle nejnovějších dat je stav ovzduší v České republice velmi špatný. Tři z pěti lidí žijí v oblastech, kde jsou překračovány hygienické limity znečištění ovzduší. S příchodem zimy navíc tradičně nastávají smogové situace, které vše ještě zhorší. Ministerstvo životního prostředí situaci dlouhodobě podceňuje a v důsledku jeho liknavosti dýcháme špatný vzduch,“ uvádí Dana Balcarová, která přišla s pozměňovacím návrhem zamezujícím udělování výjimek z limitů pro znečištění ovzduší velkým uhelným elektrárnám. Druhý pozměňovací návrh dává obcím pravomoc zakázat spalování nekvalitního hnědého uhlí v malých kotlích.
  
@@ -35,3 +35,8 @@ Za větší pravomoci starostů se postavil i poslanec KDU-ČSL Jan Čižinský:
 K dalšímu osudu návrhu Dana Balcarová dodává:
 
 > „Návrh se bude projednávat na plénu Poslanecké sněmovny v březnu a doufám, že pro takto důležitou agendu získám podporu Výboru pro životní prostředí, a že pozitivní postoj projeví i pan ministr Brabec.“ 
+
+
+### Poznámky:
+
+[^footnote]: Uvedené dopady na zdraví spočítali vědci z Univerzity ve Stuttgartu v roce 2013 na základě emisních dat z EPRTR za rok 2012 v rámci studie "[Estimating Health Risks caused by Emissions of Air Pollutants from Coal Fired Power Plants in Europe - Documentation of Methods and Results](https://www.edf.org/sites/default/files/9553_coal-plants-health-impacts.pdf)" (autoři Philipp PREISS, Joachim ROOS, Prof. Rainer FRIEDRICH) na základě emisních dat za rok 2011 (resp. odhadu emisí v případě tehdy teprve připravovaného bloku 660 MWe v Ledvicích). Naopak emise za paroplynovou elektrárnu v Počeradech nejsou zohledněny vůbec. Od té doby se samozřejmě emise i zdravotní dopady s nimi dál snižovaly (v důsledku postupné implementace směrnice IED), takže údaje odpovídající současnosti budou nutně nižší. Uvedená čísla je tedy třeba brát jako ilustrační informaci o řádů znečištění, které předmětné zdroje způsobují, nikoliv přesný údaj o současných dopadech jednotlivých zdrojů. 
