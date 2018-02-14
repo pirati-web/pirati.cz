@@ -5,7 +5,7 @@ tags:         životní-prostředí
 layout:       post
 title:        "Tři z pěti lidí dýchají špatný vzduch. Piráti mají řešení"
 image:        /assets/img/articles/2018/dana-balcarova.jpg
-author:       Karolína Sadílková
+author:       Jakub Dušánek
 ---
  
 Praha, 14. února 2018 – Předsedkyně Výboru pro životní prostředí Dana Balcarová z Pirátské strany dnes na schůzi výboru předložila dva legislativní návrhy, které pomohou zlepšit tristní stav ovzduší. Jedná se o zrušení výjimek na překračování limitů znečištění velkým elektrárnám a zavedení pravomoci obcí zakázat spalování nekvalitního uhlí.
