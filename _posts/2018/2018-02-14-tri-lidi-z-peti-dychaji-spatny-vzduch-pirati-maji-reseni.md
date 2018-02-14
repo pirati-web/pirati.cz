@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Tři z pěti lidí dýchají špatný vzduch. Piráti mají řešení"
-image:        /assets/img/articles/2018/dana-balcarova.jpg
+image:        /assets/img/articles/2018/dana2.jpg
 author:       Dana Balcarová
 ---
  
