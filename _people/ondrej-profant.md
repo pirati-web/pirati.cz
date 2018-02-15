@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 fullname: Ondřej Profant  	# jméno s tituly etc.
@@ -11,10 +12,13 @@ mail:
 - profanto@psp.cz
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
-asistent:
-  name: Stanislava Pajerová
-  mail: profanto@psp.cz
-  tel:  607 580 015
+direct-contakt: false
+asistenti:
+  - name: Stanislava Pajerová
+    mail: profanto@psp.cz
+    tel:  726 362 025
+  - name: Martin Rejman
+    mail: martin.rejman@pirati.cz
 profiles:
   github:       https://github.com/kedrigern
   facebook: 		https://www.facebook.com/ondrej.profant
@@ -30,7 +34,7 @@ redmine: 3
 report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
 ---
 
-Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany. V letech 2014–2017 byl pirátským zastupitelem v Zastupitelstvu hlavního města Prahy.
+Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany. V letech 2014–2017 byl pirátským zastupitelem v Zastupitelstvu hlavního města Prahy. Jeho specializací je informatika, zvláště open source software.
 
 ### Motivace
 
