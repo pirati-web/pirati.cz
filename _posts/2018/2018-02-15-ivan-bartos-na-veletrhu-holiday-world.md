@@ -5,7 +5,7 @@ tags:         akce
 layout:       post
 title:        "Ivan Bartoš na veletrhu cestovního ruchu Holiday World"
 image:        /assets/img/articles/2018/ctourism.jpg
-author:       Karolína Sadílková
+author:       Jakub Dušánek
 ---
  
 Praha, 15. února – Ivan Bartoš, předseda Pirátů a předseda sněmovního Výboru pro veřejnou správu a regionální rozvoj, se dnes zúčastnil zahájení 27. ročníku největšího středoevropského veletrhu cestovního ruchu Holiday World. Záštitu nad veletrhem převzala ministryně pro místní rozvoj Klára Dostálová spolu s Asociací krajů ČR a agenturou Czech Tourism. Na Výstavišti v Praze – Holešovicích se od 15. do 18. února 2018 představí na 600 vystavovatelů.
