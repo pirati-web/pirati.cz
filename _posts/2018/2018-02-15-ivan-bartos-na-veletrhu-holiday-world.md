@@ -4,7 +4,7 @@ category:     blog
 tags:         akce
 layout:       post
 title:        "Ivan Bartoš na veletrhu cestovního ruchu Holiday World"
-image:        /assets/img/articles/2018/ctourism.jpg
+image:        /assets/img/articles/2018/ctourism2.jpg
 author:       Jakub Dušánek
 ---
  
