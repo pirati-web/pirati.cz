@@ -22,3 +22,5 @@ MUDr. Zdeněk Hřib (* 1981) je garantem Pirátů pro oblast zdravotnictví. Rea
 Publikoval řadu článků v odborném i laickém tisku (Zdravotnické noviny, Medical Tribune, EURO, IT Systems, CIO Business World, Sdělovací technika, International Journal for Quality in Health Care aj). Byl členem několika pracovních skupin k tématům zdravotnické informatiky, kvality zdravotních služeb a bezpečnosti pacientů na úrovni Ministerstva zdravotnictví ČR, Světové zdravotnické organizace a EU. Pracuje jako konzultant v oblasti zdravotnické informatiky v IT firmě. Je ženatý a má 3 děti.
 
 Je členem správní rady Všeobecné zdravotní pojišťovny za Českou pirátskou stranu.
+
+Další <a href="https://wiki.pirati.cz/lide/zdenek_hrib">podrobnější informace o této osobě</a>.
