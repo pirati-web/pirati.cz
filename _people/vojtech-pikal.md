@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
@@ -9,11 +10,17 @@ img: people/vojtech-pikal.jpg    # 165 x 220
 description: 5. místopředseda sněmovny, člen republikového výboru	# kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
+- pikalv@psp.cz
 mob:			  +420 778 702 714
-asistent:
-  name: Tomáš Svoboda
-  mail: tomas.svoboda@pirati.cz
-  tel:  733 252 652
+direct-contact: true
+asistenti:
+  - uid: nela.chudova
+    name: Nela Chudová
+    mail: nela.chudova@pirati.cz
+    tel:  734 182 042
+  - name: Tomáš Svoboda
+    mail: tomas.svoboda@pirati.cz
+    tel:  733 252 652
 profiles:
   github:     https://github.com/Fafrin
   facebook: 	https://www.facebook.com/vpikal
@@ -27,7 +34,7 @@ redmine: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
 ---
 
-Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj. 
+Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj.
 
 Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester softwaru v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
