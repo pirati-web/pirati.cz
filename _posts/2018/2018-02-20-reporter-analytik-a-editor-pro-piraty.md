@@ -22,7 +22,7 @@ Odměnou vám bude pocit, že pracujete pro nejlepší politickou stranu, že sp
 
 Další požadavky a jejich upřesnění na jednotlivé pozice najdete na dokumentu výběrového řízení:
 
-* [https://forum.pirati.cz/resources/file/18298](https://forum.pirati.cz/resources/file/18298)
+* [https://forum.pirati.cz/resources/file/18302](https://forum.pirati.cz/resources/file/18302)
 
 Přihlásit se můžete do 28. února na elektronickém formuláři:
 
