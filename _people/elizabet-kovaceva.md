@@ -2,8 +2,7 @@
 uid: elizabet.kovaceva
 name:     Elizabet Kovačeva 	# běžně používáné jméno
 fullname: Bc. Elizabet Kovačeva  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ao-contact
+category:  []               	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/elizabet-kovaceva.jpg    # 165 x 220
 description: Kontakt pro členy, administrativní pomoc předsednictva           	# kratký popis, max 160 znaků
 mail:
