@@ -5,7 +5,7 @@ tags:         sněmovna
 layout:       post
 title:        "Legislativa pro Uber se rýsuje rok od prvního návrhu Pirátů"
 image:        /assets/img/articles/2018/uber2.jpg
-author:       Karolína Sadílková
+author:       Jakub Michálek
 ---
 
 Praha, 20. února 2018 – Na politickém jednání ohledně regulace služby Uber bylo dnes dohodnuto, že poslanci přistoupí k širší novele zákona, která aktualizuje podmínky pro taxislužbu. Piráti upozorňují na to, že Ministerstvo dopravy zaspalo. Návrh na regulaci Uberu totiž poslali na ministerstvo už před rokem. Nyní to vypadá, že novela půjde cestou poslaneckého návrhu zákona, o jehož parametrech budou politici jednat. Očekáváme, že do roka by mohl nový zákon – který bude výsledkem dohody stran – nabýt účinnosti.
