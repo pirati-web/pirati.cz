@@ -14,8 +14,9 @@ Piráti prosazují, aby byla nastavena jasná hranice mezi profesionálním podn
 
 Dále by měla být zrušena již zastaralá regulace. Zkoušky z místopisu dnes dobře nahrazuje navigace, taxametr nahrazuje aplikace a cenová dynamika zvyšuje dostupnost služeb ve špičkách. Měla by ale být zachována regulace cen v případě zastavení taxíku přímo na ulici, kdy jsou často okrádáni turisti.
 
-Služby jako Uber by měly být na koncesi, odpovídat za to, že v nich jezdí řádně zapsaní řidiči a předávat data o plátcích daně finanční správě. Předávání dat by se netýkalo nízkých tržeb do hranice stanovené již dnes pro příjem osvobozený od daně a nebyla by v nich data o zákaznících.
+Služby jako Uber by měly být na koncesi, odpovídat za to, že v nich jezdí řádně zapsaní řidiči a předávat data o plátcích daně finanční správě. Předávání dat by se podle návrhu Pirátů netýkalo nízkých tržeb do hranice stanovené již dnes pro příjem osvobozený od daně a nebyla by v nich data o zákaznících.
 
 ### Odkazy
 
-* Dopis Pirátů Vládě České republiky k sdílené ekonomice: [https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf](https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf)
+* [Podklad k jednání o změnách regulace taxislužby v návaznosti na rozvoj digitálních platforem](https://docs.google.com/document/d/1i54POdp5o18RM0wkk7DDMImPurUm4sNCnDLhoXDKhuA/edit?usp=sharing)
+* [Dopis Pirátů Vládě České republiky k sdílené ekonomice](https://github.com/pirati-byro/spisy-parl-2016/blob/master/5700-podnet-vlade-sdilena-ekonomika/01-dopis/main.pdf)
