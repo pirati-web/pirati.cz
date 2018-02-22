@@ -5,7 +5,7 @@ tags:         sněmovna
 layout:       post
 title:        "Poslanecký bufet se přiblížil tržním cenám"
 image:        /assets/img/articles/2018/polevka.jpg
-author:       Karolína Sadílková
+author:       Jakub Dušánek
 ---
 
 
