@@ -37,3 +37,9 @@ Piráti **podporují snížení daní z příjmu, a to zejména pro střední vr
 **Piráti budou v jednání o daňovém balíčku prosazovat razantní zjednodušení, a to jednu daň z příjmu, která by zahrnula všech 6 daní a odvodů do jedné daně. Jasně a transparentně by tak lidé viděli, kolik platí na provoz státu.**
  
 V rámci této jedné daně může být i více pásem a sazeb, ale nebude už nutné zvlášť počítat pojistné a odvody. Oproti Pirátskému návrhu na jednu daň z příjmu je návrh ANO kosmetickou změnou, která daňový systém dále komplikuje.
+
+### Kontaktní osoba
+
+* Jakub Michálek
+* Předseda poslaneckého klubu Pirátů
+* 775 978 550
