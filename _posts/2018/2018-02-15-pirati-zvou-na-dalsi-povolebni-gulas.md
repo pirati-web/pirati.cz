@@ -9,7 +9,7 @@ author:       Jakub Dušánek
 ---
  
  
-Praha, 15. února 2018 – Pirátská strana na neděli chystá další akci s gulášem zdarma. Piráti se pravidelně dvakrát v měsíci setkávají u Hlavního nádraží v Praze, vaří guláš, nabízejí čaj a baví se živou muzikou. Jídlo zdarma rozdávají s pomocí potravinových bank a díky příspěvku pirátských poslanců. Ti tímto způsobem vrací odměny za výkon funkce zastupitelů na pražském magistrátu, úřad totiž vrácení odměn zamítl. Sponzorem této dobročinné neděle je poslanec za Piráty Ondřej Profant.
+Praha, 15. února 2018 – Pirátská strana na neděli chystá další akci s gulášem zdarma. Piráti se pravidelně dvakrát v měsíci setkávají u Hlavního nádraží v Praze, vaří guláš, nabízejí čaj a baví se živou muzikou. Jídlo zdarma rozdávají díky práci dobrovolníků a finančnímu příspěvku pirátských poslanců. Ti tímto způsobem vrací odměny za výkon funkce zastupitelů na pražském magistrátu, úřad totiž vrácení odměn zamítl. Sponzorem této dobročinné neděle je poslanec za Piráty Ondřej Profant.
  
 Hlavním organizátorem nedělních dobročinných akcí je Martin Arden, evangelický pastor a Pirát z Prahy 1. Ten nejen financuje některé položky, ale akcí se účastní s týmem dobrovolníků. A jejich počet, jak říká Arden, trvale přibývá: 
 
