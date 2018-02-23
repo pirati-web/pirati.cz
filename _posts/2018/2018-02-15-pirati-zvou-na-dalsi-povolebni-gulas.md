@@ -22,3 +22,6 @@ Problematikou potravinových bank se zabývá pirátská poslankyně Olga Richte
 Piráti uvažují o zřízení účtu, kam by lidé mohli posílat peníze na podporu potravinových bank. Stále více dobrovolníků i sponzorů má zájem přispět k jejich činnosti i podílet se na dobrovolnické akci Pirátů: 
 
 > „Zveme každého, aby přišel v neděli k pražskému Hlavnímu nádraží, dal si guláš a přesvědčil se, že tato pravidelná pomoc má smysl,“ uzavírá poslankyně Richterová.
+
+Pirátská strana pořádá veřejné stravování zdarma u Hlavního nádraží od listopadu 2017. Organizaci akcí zastřešuje Martin Arden, evangelický pastor a člen Místního sdružení Pirátů Prahy 1.Ten se charitativní činnosti věnuje dlouhodobě a v soukromém zájmu, podobně jako řada dalších dobrovolníků. Akce probíhají na základě spolupráce organizátorů s Potravinovou bankou pro Prahu a Středočeský kraj, které zaplatili paušální roční poplatek opravňující využívat suroviny této konkrétní potravinové banky. 
+
