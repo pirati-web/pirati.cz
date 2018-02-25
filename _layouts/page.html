@@ -5,34 +5,29 @@ layout: default
 {%unless page.nomenu%}
 {% include submenu.html %}
 {% endunless%}
-<script>
-  var milos = {};
-  milos.priorityStack = new Array();
-</script>
 <div class="row">
   <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
     <div class="o-section o-section--spaceBot">
       <div class="o-section-inner">
         <main class="o-section-block">
           <!-- Article -->
-          <div itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
             <h1 itemprop="headline" class="c-BasicPage__title">
               {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
             </h1>
-              {% if page.report or page.redmine %}
+            {% if page.report or page.redmine or page.calendar %}
               <ul class="tabs" data-tabs id="profilove_zalozky">
-                  <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
-                  <li class="tabs-title"><a data-tabs-target="karta_poslance" href="#karta_poslance">Karta poslance</a></li>
+                <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
+                {% if page.redmine %}<li class="tabs-title"><a data-tabs-target="ukoly_uzivatele" href="#ukoly_uzivatele">Úkoly</a></li>{% endif %}
+                {% if page.calendar %}<li class="tabs-title"><a data-tabs-target="kalendar_poslance" href="#kalendar_poslance">Kalendář</a></li>{% endif %}
+                {% if page.report %}<li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz poslance</a></li>{% endif %}
               </ul>
-              {% endif %}
-              {% if page.report or page.redmine %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
+            {% endif %}
+
+            {% if page.report or page.redmine or page.calendar %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
             <div id="popis" class="tabs-panel is-active"  itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
-
-              {% if page.calendar %}
-              <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar }}@group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0; width:100%" height="600" frameborder="0" scrolling="no"></iframe>
-              {% endif %}
 
               {% if page.videa %}
               <h2>Doprovodná videa</h2>
@@ -43,68 +38,48 @@ layout: default
               {% endfor %}
               {% endif %}
             </div>
-              {% if page.report or page.redmine %}<div id="karta_poslance" class="tabs-panel">
-                {% if page.report %}
-                <h3 class="l-micropage__detail-title">Poslanecký výkaz</h3>
-                <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
-                {% endif %}
-                {% if page.redmine %}
-                <h3 class="l-micropage__detail-title">Úkoly poslance</h3>
-                <div id="ukoly_poslance">
-                </div>
-                <script>
-                  milos.priorityStack.push(function (context) {
 
-                    var url = 'https://redmine.pirati.cz/issues.json?assigned_to_id={{page.redmine}}&fixed_version_id=28';
-                    var xhr = milos.createCORSRequest('GET', url);
-                    if (!xhr) {
-                      alert('CORS not supported');
-                      return;
-                    }
-                    xhr.onload = function() {
-                      var doc = JSON.parse(xhr.responseText);
-                      var element = document.createDocumentFragment();
-                      var table = document.createElement('table');
-                      var head = document.createElement('thead');
-                      var body = document.createElement('tbody');
-                      var hrow = document.createElement('tr');
-                      var hsubject = document.createElement('th');
-                      var hdone = document.createElement('th');
-                      hsubject.textContent = 'Název';
-                      hdone.textContent = 'Stav plnění';
-                      table.appendChild(head);
-                      table.appendChild(body);
-                      head.appendChild(hrow);
-                      hrow.appendChild(hsubject);
-                      hrow.appendChild(hdone);
-                      element.appendChild(table);
-                      for(var i in doc.issues) {
-                        var row = document.createElement('tr');
-                        var subject = document.createElement('td');
-                        var done = document.createElement('td');
-                        var link = document.createElement('a');
-                        link.textContent = doc.issues[i].subject;
-                        done.textContent = doc.issues[i].done_ratio+'%';
-                        link.href='https://redmine.pirati.cz/issues/'+doc.issues[i].id;
-                        link.target='_blank'
-                        subject.appendChild(link);
-                        row.appendChild(subject);
-                        row.appendChild(done);
-                        body.appendChild(row);
-                      }
-                      var div = document.getElementById('ukoly_poslance');
-                      div.appendChild(element);
-                      console.log(div);
-                    }
-                    xhr.onerror = function() {
-                      alert('Woops, there was an error making the request.');
-                    };
-                    xhr.send();
-                  });
-                </script>
-                {% endif %}
-            </div>{% endif %}
-              {% if page.report or page.redmine %}</div>{% endif %}
+            {% if page.redmine %}
+            <div id="ukoly_uzivatele" class="tabs-panel">
+              <h3>Úkoly poslance</h3>
+              <div id="redmine_tasks">
+              </div>
+              <script>
+                pirates.priorityStack.push(function (context) {
+                  var url = 'https://redmine.pirati.cz/issues.json?assigned_to_id={{page.redmine}}&fixed_version_id=28';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = JSON.parse(xhr.responseText);
+                    var div = document.getElementById('redmine_tasks');
+                    div.appendChild(pirates.integrations.redmine.tasks(doc));
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
+            </div>
+            {% endif %}
+
+            {% if page.calendar %}
+              <div id="kalendar_poslance" class="tabs-panel">
+                <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar }}@group.calendar.google.com&?showTitle=0&showPrint=0&showCalendars=0&showTz=0&wkst=2&amphl=cs&ctz=Europe%2FPrague" style="border: 0; width:100%" height="600" frameborder="0" scrolling="no"></iframe>
+              </div>
+            {% endif %}
+
+            {% if page.report %}
+            <div id="report_poslance" class="tabs-panel">
+              <h3>Poslanecký výkaz</h3>
+              <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+            </div>
+            {% endif %}
+
+            {% if page.report or page.redmine or page.calendar %}</div>{% endif %}
           </article>
           <!-- /Article -->
         </main>
@@ -117,72 +92,3 @@ layout: default
   </div>
   {% endunless %}
 </div>
-
-
-<script>
-  milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
-  milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
-  milos.bindAjax = function(targets,root) {
-    for (i = 0; i < targets.length; ++i) {
-      console.log(targets[i].getAttribute('href'));
-      // do whatever
-      targets[i].addEventListener("click", function(event) {
-        //your handler here
-        event.preventDefault();
-        var url = event.target.getAttribute('href');
-        var xhr = new XMLHttpRequest();
-        xhr.onload = function() {
-          var doc = this.responseXML;
-          var modal = document.getElementsByClassName("l-micropage__modal")[0];
-          var contentElement;
-          var html = '';
-          if (root === undefined) {
-            contentElement = doc.getElementsByTagName("BODY");
-          }else{
-            contentElement = doc.querySelectorAll(root);
-          }
-          for (j = 0; j < contentElement.length; ++j) {
-            var content = contentElement[j].innerHTML;
-            html = html + content;
-          }
-          modal.innerHTML = html;
-          modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
-          modal.style.display = 'block';
-          var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
-          closeTrigger.addEventListener("click", function(event) {
-            modal.innerHTML = '';
-            modal.style.display = 'none';
-            closeTrigger.outerHTML = "";
-            delete closeTrigger;
-          });
-        }
-
-        xhr.open("GET", url);
-        xhr.responseType = "document";
-        xhr.send();
-      }, false);
-    };
-  };
-  milos.executeQue = function (que) {
-    for(var q=0; q< que.length; q++){
-      que[q].call(this);
-    }
-  };
-
-  milos.createCORSRequest = function (method, url) {
-    var xhr = new XMLHttpRequest();
-    if ("withCredentials" in xhr) {
-      // XHR for Chrome/Firefox/Opera/Safari.
-      xhr.open(method, url, true);
-    } else if (typeof XDomainRequest != "undefined") {
-      // XDomainRequest for IE.
-      xhr = new XDomainRequest();
-      xhr.open(method, url);
-    } else {
-      // CORS not supported.
-      xhr = null;
-    }
-    return xhr;
-  }
-  milos.executeQue(milos.priorityStack);
-</script>

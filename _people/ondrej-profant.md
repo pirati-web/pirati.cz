@@ -32,6 +32,7 @@ videa:
   - JRdjRJjWEx0
 redmine: 3
 report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
+calendar: re22cium9203etd7jv7crbf7ck
 ---
 
 Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany. V letech 2014–2017 byl pirátským zastupitelem v Zastupitelstvu hlavního města Prahy. Jeho specializací je informatika, zvláště open source software.
@@ -56,10 +57,6 @@ Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rá
 
 > „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *Aaron Swartz*.
 
-
-### Kalendář
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=re22cium9203etd7jv7crbf7ck%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Europe%2FPrague" style="border-width:0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 [sdružení v Praze]: https://praha.pirati.cz
