@@ -66,10 +66,11 @@ Po skončení mandátu v&nbsp;kontrolní komisi byl v&nbsp;roce 2011 zvolen do [
 kde mu skončil mandát v&nbsp;roce 2013. V&nbsp;roce 2012 byl zvolen vedoucím [finančního odboru](https://wiki.pirati.cz/fo/start). V&nbsp;letech 2013-2016 
 zastupoval Piráty v&nbsp;[Komisi pro otevřený kraj Rady Plzeňského kraje](http://www.plzensky-kraj.cz/cs/kategorie/komise-pro-otevreny-kraj-rpk?sekce=all). 
 V&nbsp;roce 2014 byl opět zvolen vedoucím [finančního odboru](https://wiki.pirati.cz/fo/start) na další dvouleté období. 
-V&nbsp;roce 2018 byl zvolen místopředsedou Místního sdružení Plzeň.
 
 Kromě své manželky, živnosti, psa a&nbsp;Pirátské strany se opět začal věnovat psaní a&nbsp;přispíval na svůj blog na [Aktuálně.cz](http://blog.aktualne.centrum.cz/blogy/petr-vileta.php).
 
 V&nbsp;krajských volbách 2016 kandidoval na druhém místě samostatné kandidátky České pirátské strany, ale Piráti získali 
 jen [3,82% hlasů](http://volby.cz/pls/kz2016/kz311?xjazyk=CZ&xdatum=20161007&xkraj=3) a&nbsp;tedy žádný mandát. Ve volbách do 
 Poslanecké sněmovny v&nbsp;roce 2017 kandidoval v&nbsp;Plzeňském kraji na 6.&nbsp;místě kandidátky a&nbsp;opět nebyl zvolen.
+
+V&nbsp;roce 2018 byl zvolen místopředsedou Místního sdružení Plzeň.
