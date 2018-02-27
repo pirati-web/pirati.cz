@@ -20,6 +20,7 @@ asistenti:
   - name: Martin Rejman
     mail: martin.rejman@pirati.cz
 profiles:
+  web:          https://www.profant.eu
   github:       https://github.com/kedrigern
   facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
