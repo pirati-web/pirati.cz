@@ -55,6 +55,8 @@ body{
     color: $dark;
     font-weight: bold;
     display: inline-block;
+    top:-.75em;
+    margin:auto;
     @include breakpoint(mobile up) {
       font-size: 1.5em;
     }
@@ -188,21 +190,6 @@ body{
     small{
       font-size: 1.5rem;
     }
-
-      &:before {
-        @extend %before-util;
-        //@extend %before-pattern;
-        background: url(pomer.svg) no-repeat center center;
-        transform: rotate(-45deg) translate(21%, -16%);
-        width: 800px;
-        top: -260px;
-        left: 50%;
-        margin-left: -640px;
-        @include breakpoint(mobile down) {
-          display: none;
-        }
-      }
-
     //&:after{
     //  @extend %before-util;
     //  @extend %before-pattern;
@@ -221,8 +208,9 @@ body{
       color: white;
     }
     &-text{
+      text-align: center;
       position: relative;
-      background: rgba(#ffffff,.85);
+      //background: rgba(#ffffff,.85);
       padding: $unit;
       @include breakpoint(mobile up) {
         padding: 2*$unit;
@@ -306,6 +294,21 @@ body{
   &__end{
     p+p{
 
+    }
+  }
+  &--snemovna{
+    .c-top-sub-nav .c-top-sub-nav-inner:before{
+      @extend %before-util;
+      //@extend %before-pattern;
+      background: url(pomer.svg) no-repeat center center;
+      transform: translate(21%, 15%);
+      z-index: 1;
+      right: 90px;
+      left: auto;
+      height: 90px;
+      //@include breakpoint(mobile down) {
+      //  display: none;
+      //}
     }
   }
 }
