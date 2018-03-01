@@ -11,7 +11,7 @@ deputy:
 contact:
 - yveta.martinkova
 region: Zlínský kraj
-url: https://www.pirati.cz/regiony/zlinsko/start
+url: zlinsky.pirati.cz
 categories:
 - regiony
 tags:
@@ -36,9 +36,6 @@ Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalen
 
 abyste se ujistili, že akce bude. 
 Pro bližší informace napište koordinátorce Yvetě Martínkové na yveta.martinkova@pirati.cz
-
-**Informace na této stránce jsou v procesu vzniku, migrujeme informace z [naší wiki](https://wiki.pirati.cz/regiony/zlinsko/start), 
-která může být zatím aktuálnější a jako zdroj relevantních informací vhodnější.**
 
 ### Volby 2017
 * [kandidátní listina](https://www.pirati.cz/volby/2017/zlinsko/)
