@@ -220,30 +220,31 @@ body{
   }
   &__heading{
     text-align: center;
-    font-size: 2.5em;
-    margin-bottom: 4*$unit ;
-    position: relative;
-    color: white;
-    &:before{
-      @extend %before-util;
-      top: -$unit;
-      bottom: -$unit;
-      left: -20%;
-      @include breakpoint(mobile up) {
-        transform: skew(45deg);
-        right: 10%;
-      }
-    }
-    &:after{
-      @extend %before-util;
-      top: -$unit;
-      bottom: -$unit;
-      right: -20%;
-      @include breakpoint(mobile up) {
-        transform: skew(-45deg);
-        left: 10%;
-      }
-    }
+    @extend .c-BasicPage__title;
+    //font-size: 2.5em;
+    //margin-bottom: 4*$unit ;
+    //position: relative;
+    //color: white;
+    //&:before{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  left: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(45deg);
+    //    right: 10%;
+    //  }
+    //}
+    //&:after{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  right: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(-45deg);
+    //    left: 10%;
+    //  }
+    //}
   }
   &__perex{
     font-size: 1.25em;
@@ -274,17 +275,19 @@ body{
   &__detail{
     background: rgba($dark,.05);
     &-title{
+      @extend .o-section__heading;
+      border-bottom: 3px solid #f3c289;
       margin: $u 0 2*$u;
       padding: $u 0;
-      position: relative;
-      font-size: 1.75em;
-      &:before{
-        @extend %before-util;
-        //right: -100%;
-        //border-bottom: 1px solid $dark;
-        top: auto;
-        height: 1px;
-      }
+      //position: relative;
+      //font-size: 1.75em;
+      //&:before{
+      //  @extend %before-util;
+      //  //right: -100%;
+      //  //border-bottom: 1px solid $dark;
+      //  top: auto;
+      //  height: 1px;
+      //}
       p + &{
         margin-top: 2*$u;
       }

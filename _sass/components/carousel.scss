@@ -1,0 +1,5 @@
+.c-carousel{
+  @at-root ul#{&}{
+    list-style: none;
+  }
+}
