@@ -5,7 +5,7 @@ tags:         transparentnost
 layout:       post
 title:        "Piráti hledají nominanta do Dozorčí rady Státního fondu dopravní infrastruktury otevřeným výběrovým řízením"
 image:        /assets/img/articles/2018/sfdi.jpg
-author:       Karolína Sadílková
+author:       Jana Rohová
 ---
 
 Praha 2. března 2018 – Poslanecký klub České pirátské strany v rámci svého transparentního přístupu vypisuje výběrové řízení na pozici nominanta České pirátské strany do Dozorčí rady Státního fondu dopravní infrastruktury, který bude volen Poslaneckou sněmovnou PČR. Pětičlenná Dozorčí rada je kontrolním orgánem Fondu. Uchazeči se mohou přihlásit elektronicky a pokud splní předpoklady, budou pozváni k pohovorům.
