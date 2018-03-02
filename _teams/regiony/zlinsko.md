@@ -4,10 +4,12 @@ cid: zlin
 name: Zlínský kraj
 fullname: Krajské sdružení Zlínský kraj
 img: teams/zlin.jpg
-leader: petr.tkadlec
+leader: marek.houser
 deputy:
-- Kamila Gáliková
-- Jaromír Fojtů
+- Denis Rychtar
+- Jiří Jaroš
+- Petr Stoklasa
+- Lubomír Doležal
 contact:
 - yveta.martinkova
 region: Zlínský kraj
@@ -16,7 +18,7 @@ categories:
 - regiony
 tags:
 - zlinsky-kraj
-facebook: https://www.facebook.com/piratizl
+facebook: https://www.facebook.com/piratizlk/
 redmine: https://redmine.pirati.cz/projects/zlinsky-kraj
 forum: https://forum.pirati.cz/zlinsky-kraj-f82/
 twitter: https://twitter.com/PiratePartyZlin
@@ -24,13 +26,12 @@ twitter: https://twitter.com/PiratePartyZlin
 ---
 
 
-Místní sdružení máme ve Vsetíně, Valašském Meziříčí a ve Zlíně, ale působíme na území celého kraje od slovenské hranice 
-až po Uherské Hradiště.
+Místní sdružení máme ve Zlíně, Kroměříži, Uherském Hradišti, Vsetíně a Valašském Meziříčí.
 
 Možnosti zapojení:
 
 Pravidelná setkání se konají v různých místech Zlínského kraje jednou měsíčně. Sledujte náš 
-[Facebook](https://www.facebook.com/pg/piratizl/events/).
+[Facebook](https://www.facebook.com/pg/piratizlk/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 
