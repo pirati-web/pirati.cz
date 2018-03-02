@@ -1,7 +1,7 @@
 ---
 date:         2018-03-02
 category:     blog
-tags:         sněmovna
+tags:         zdravotnictví
 layout:       post
 title:        "Komentář pirátské poslankyně Olgy Richterové k aktuální situaci v Nemocnici Na Homolce"
 image:        /assets/img/articles/2018/richterova-nnh.jpg
