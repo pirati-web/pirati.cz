@@ -26,3 +26,29 @@
     }
   }
 }
+
+.page{
+  &--snemovna{
+    .c-top-sub-nav .c-top-sub-nav-inner:before{
+      @extend %before-util;
+      //@extend %before-pattern;
+      background: url(pomer.svg) no-repeat center center;
+      transform: translate(21%, 15%);
+      z-index: 1;
+      right: 50px;
+      left: auto;
+      max-height: 90px;
+      width: 10%;
+      //@include breakpoint(mobile down) {
+      //  display: none;
+      //}
+      @include breakpoint(medium down) {
+        width: 120px;
+        right: 50%;
+        margin-right: -30px;
+        bottom: 30px;
+        top: auto;
+      }
+    }
+  }
+}

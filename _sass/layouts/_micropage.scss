@@ -299,19 +299,4 @@ body{
 
     }
   }
-  &--snemovna{
-    .c-top-sub-nav .c-top-sub-nav-inner:before{
-      @extend %before-util;
-      //@extend %before-pattern;
-      background: url(pomer.svg) no-repeat center center;
-      transform: translate(21%, 15%);
-      z-index: 1;
-      right: 90px;
-      left: auto;
-      height: 90px;
-      //@include breakpoint(mobile down) {
-      //  display: none;
-      //}
-    }
-  }
 }
