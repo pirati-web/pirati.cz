@@ -21,4 +21,19 @@ redmine: 182
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-lukase-bartone-t38994.html-->
 ---
 
-Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj. Pracuje jako vědecký pracovník na Fakultě strojní Západočeské univerzity v Plzni. Dlouhodobě se pohybuje v univerzitním prostředí. Vyučoval na Katedře konstruování strojů; působí jako lektor v oblasti geometrického tolerování. V roce 2017 byl ve volbách do Poslanecké sněmovny zvolen jako krajský lídr Pirátů do sněmovny za Plzeňský kraj.
+Ing. Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj.
+
+Povoláním je strojař, výzkumník. Vede Zkušebnu provozní pevnosti a únavové životnosti Regionálního technologického institutu na Fakultě strojní Západočeské univerzity v Plzni. Na univerzitě působí už od roku 2008, kdy začal učit na Katedře konstruování strojů. Zasloužil se o inovaci výuky v oboru konstruování strojů včetně jeho znalostní teoretické, metodické a počítačové podpory.
+
+V letech 2011-2013 byl externím konstruktérem pro několik soukromých firem na Plzeňsku, kdy se zabýval mimo jiné konstrukcí zařízení a strojů pro elektrárny. V letech 2005 až 2012 absolvoval doktorské studium na Fakultě strojní – Katedře konstruování strojů Západočeské univerzity, kde v roce 2012 získal doktorát v oboru Stavba strojů a zařízení svou dizertační prací „Znalostní podpora pro návrh systému aktivního magnetického ložiska“.
+
+Od ledna až do června 2008 absolvoval semestrální studijní stáž v rámci projektu Erasmus na Manchester metropolitan university, kde se věnoval výzkumu v oblasti znalostních systémů a magnetických ložisek. Přednášel zde na téma výpočtu magnetických ložisek. Inženýrský titul získal v roce 2005 v oboru Stavba výrobních strojů a zařízení; se zaměřením na moderní konstrukční pomůcky, CAD systémy a MKP výpočty. Od června až do září 2003 pobýval a pracoval ve Spojených státech.
+
+Od roku 2012 je členem Pirátů. Kandidoval v komunálních volbách v roce 2014 do Zastupitelstva městského obvodu Plzeň 3 (lídr kandidátky) a města Plzeň, a to za subjekt s názvem "Společně za Plzeň-koalice Plzeňské aliance, Piráti, Změna, STAN a SZ". Ani v jednom případě však neuspěl. 
+
+V krajských volbách v roce 2016 kandidoval za Piráty do Zastupitelstva Plzeňského kraje, a to z pozice lídra, ale opět neuspěl. Ve volbách do Poslanecké sněmovny PČR v roce 2013 kandidoval za Piráty v Plzeňském kraji, ale do Sněmovny se nedostal. Ve volbách do Poslanecké sněmovny PČR v roce 2017 byl lídrem Pirátů v Plzeňském kraji. Získal 2 366 preferenčních hlasů a byl zvolen poslancem. 
+
+V Poslanecké sněmovně je členem Mandátového a imunitního výboru, a dále je členem a zároveň místopředsedou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu. 
+
+Veřejný Google kalendář poslance:
+<iframe src="https://calendar.google.com/calendar/embed?src=frcko71obqued67aa05k4cfbo8%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
