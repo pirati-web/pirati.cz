@@ -3,7 +3,7 @@ date:         2018-03-05
 category:     blog
 tags:         zdravotnictví
 layout:       post
-title:        "Piráti: Ministerstvo zdravotnictví vybudovalo Národní ústavu duševního zdraví za miliardu, jak ho bude financovat dál ale neví"
+title:        "Piráti: Ministerstvo zdravotnictví vybudovalo Národní ústav duševního zdraví za miliardu, jak ho bude financovat dál ale neví"
 image:        /assets/img/articles/2018/nudz.jpg
 author:       Karolína Sadílková
 ---
