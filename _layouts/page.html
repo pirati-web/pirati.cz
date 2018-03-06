@@ -19,9 +19,9 @@ layout: default
             {% if page.report or page.redmine or page.calendar %}
               <ul class="tabs" data-tabs id="profilove_zalozky">
                 <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
-                <li class="tabs-title"><a data-tabs-target="ukoly_uzivatele" href="#ukoly_uzivatele">Úkoly</a></li>
-                <li class="tabs-title"><a data-tabs-target="kalendar_poslance" href="#kalendar_poslance">Kalendář</a></li>
-                <li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz poslance</a></li>
+                {% if page.redmine %}<li class="tabs-title"><a data-tabs-target="ukoly_uzivatele" href="#ukoly_uzivatele">Úkoly</a></li>{% endif %}
+                {% if page.calendar %}<li class="tabs-title"><a data-tabs-target="kalendar_poslance" href="#kalendar_poslance">Kalendář</a></li>{% endif %}
+                {% if page.report %}<li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz poslance</a></li>{% endif %}
               </ul>
             {% endif %}
 

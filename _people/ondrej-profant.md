@@ -20,6 +20,7 @@ asistenti:
   - name: Martin Rejman
     mail: martin.rejman@pirati.cz
 profiles:
+  web:          https://www.profant.eu
   github:       https://github.com/kedrigern
   facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
@@ -35,7 +36,7 @@ report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
 calendar: re22cium9203etd7jv7crbf7ck
 ---
 
-Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany. V letech 2014–2017 byl pirátským zastupitelem v Zastupitelstvu hlavního města Prahy. Jeho specializací je informatika, zvláště open source software.
+U Pirátů je od začátku a angažuje se v různých funkcích. Od roku 2014 působil jako zastupitel Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení pražské radiové sítě. Dále se v Praze zabýval majetkem, dopravou a bezpečností. V roce 2017 byl zvolen do Poslanecké sněmovny, kde je členem Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost, Stálé komise pro práci Kanceláře Poslanecké sněmovny, Výboru pro veřejnou správu a regionální rozvoj a podvýborů souvisejících s digitalizací.
 
 ### Motivace
 

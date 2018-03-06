@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/cina.jpg
 author:       Karolína Sadílková
 ---
  
-Praha, 14. února 2018 – Poslanecký klub Pirátů v [otevřeném dopise](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/otevreny-dopis-clr.pdf) reagoval na doručení přání čínské velvyslankyně Ma Keqing do nového roku. 
+Praha, 14. února 2018 – Poslanecký klub Pirátů v [otevřeném dopise](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/otevreny-dopis-clr.pdf) reagoval na doručení přání čínské velvyslankyně Ma Keqing k Novému roku. 
 
 > „Vyjádřili jsme zájem o navazování dobrých vztahů s Čínou, zároveň jsme však důrazně připomněli, že mezinárodní spolupráce stojí i na sdílených hodnotách v oblasti lidských práv,“ řekl Mikuláš Peksa, poslanec Pirátů a garant strany pro oblast zahraniční politiky.
  

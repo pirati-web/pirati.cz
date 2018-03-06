@@ -9,7 +9,7 @@ author:       Jakub Dušánek
 ---
  
  
-Praha, 15. února 2018 – Pirátská strana na neděli chystá další akci s gulášem zdarma. Piráti se pravidelně dvakrát v měsíci setkávají u Hlavního nádraží v Praze, vaří guláš, nabízejí čaj a baví se živou muzikou. Jídlo zdarma rozdávají s pomocí potravinových bank a díky příspěvku pirátských poslanců. Ti tímto způsobem vrací odměny za výkon funkce zastupitelů na pražském magistrátu, úřad totiž vrácení odměn zamítl. Sponzorem této dobročinné neděle je poslanec za Piráty Ondřej Profant.
+Praha, 15. února 2018 – Pirátská strana na neděli chystá další akci s gulášem zdarma. Piráti se pravidelně dvakrát v měsíci setkávají u Hlavního nádraží v Praze, vaří guláš, nabízejí čaj a baví se živou muzikou. Jídlo zdarma rozdávají díky práci dobrovolníků a finančnímu příspěvku pirátských poslanců. Ti tímto způsobem vrací odměny za výkon funkce zastupitelů na pražském magistrátu, úřad totiž vrácení odměn zamítl. Sponzorem této dobročinné neděle je poslanec za Piráty Ondřej Profant.
  
 Hlavním organizátorem nedělních dobročinných akcí je Martin Arden, evangelický pastor a Pirát z Prahy 1. Ten nejen financuje některé položky, ale akcí se účastní s týmem dobrovolníků. A jejich počet, jak říká Arden, trvale přibývá: 
 
@@ -22,3 +22,6 @@ Problematikou potravinových bank se zabývá pirátská poslankyně Olga Richte
 Piráti uvažují o zřízení účtu, kam by lidé mohli posílat peníze na podporu potravinových bank. Stále více dobrovolníků i sponzorů má zájem přispět k jejich činnosti i podílet se na dobrovolnické akci Pirátů: 
 
 > „Zveme každého, aby přišel v neděli k pražskému Hlavnímu nádraží, dal si guláš a přesvědčil se, že tato pravidelná pomoc má smysl,“ uzavírá poslankyně Richterová.
+
+Pirátská strana pořádá veřejné stravování zdarma u Hlavního nádraží od listopadu 2017. Organizaci akcí zastřešuje Martin Arden, evangelický pastor a člen Místního sdružení Pirátů Prahy 1.Ten se charitativní činnosti věnuje dlouhodobě a v soukromém zájmu, podobně jako řada dalších dobrovolníků. Akce probíhají na základě spolupráce organizátorů s Potravinovou bankou pro Prahu a Středočeský kraj, které zaplatili paušální roční poplatek opravňující využívat suroviny této konkrétní potravinové banky. 
+
