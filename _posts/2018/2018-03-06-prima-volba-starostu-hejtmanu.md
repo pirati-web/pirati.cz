@@ -25,14 +25,18 @@ o vyšší participace občanů, neboť studie predikují v takovém případě 
 vyšší občanskou spoluzodpovědnost za svou obec;
 o jednodušší odvolatelnosti přímo voleného zástupce, kteroužto též dlouhodobě prosazují.
 
-### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
+#### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
 
-### Starosta/hejtman a jeho zástupce (1. náměstek a nástupce pro případ zániku mandátu v průběhu období) by měli být voleni v přímé volbě umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování).
+#### Starosta/hejtman a jeho zástupce
+ (1. náměstek a nástupce pro případ zániku mandátu v průběhu období) by měli být voleni v přímé volbě umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování).
 
-### Funkční období starosty/hejtmana by mělo být shodné se zastupitelstvem. Přímo volený starosta/hejtman by měl mít možnost zastupitelstvo rozpustit. Poté by následovaly nové volby nejen zastupitelstva, ale i starosty/hejtmana. Stejně tak zastupitelstvo by mělo být schopno se
+#### Funkční období starosty/hejtmana by mělo být shodné se zastupitelstvem. 
+Přímo volený starosta/hejtman by měl mít možnost zastupitelstvo rozpustit. Poté by následovaly nové volby nejen zastupitelstva, ale i starosty/hejtmana. Stejně tak zastupitelstvo by mělo být schopno se
 kvalifikovanou většinou rozpustit.
 
-### Starostovi/hejtmanovi by měly náležet pravomoci vyhrazené radě a další kompetence operativního řízení. Rada bude toliko poradním a exekutivním orgánem.
+#### Starostovi/hejtmanovi by měly náležet pravomoci vyhrazené radě 
+a další kompetence operativního řízení. Rada bude toliko poradním a exekutivním orgánem.
 
-### Členy rady jmenuje starosta/hejtman z osob pro funkci kvalifikovaných a po jejich předchozím schválení zastupitelstvem. Starosta/hejtman může na člena rady převést část svých pravomocí. Členové rady by neměli být zastupiteli.
+#### Členy rady jmenuje starosta/hejtman
+ z osob pro funkci kvalifikovaných a po jejich předchozím schválení zastupitelstvem. Starosta/hejtman může na člena rady převést část svých pravomocí. Členové rady by neměli být zastupiteli.
 
