@@ -22,7 +22,7 @@
                 <h3>Asistent/ka</h3>
                 {% assign main = page.asistenti | first %}
                 <i class="fa fa-user-o"></i> {{main.name}}<br/>
-                <i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ main.mail}}</a><br/>
+                <i class="fa fa-envelope-o"></i> <a href="mailto:{{ main.mail}}">{{ main.mail}}</a><br/>
                 <i class="fa fa-phone"></i> {{ main.tel }}<br/>
               {% endif %}
               {% if page.direct-contact %}
