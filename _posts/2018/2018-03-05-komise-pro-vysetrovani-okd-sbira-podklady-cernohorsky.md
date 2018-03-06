@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/okd-cernohorsky.jpg
 author:       Karolína Sadílková
 ---
 
-Praha, 5. března 2018 – Minulý týden se podruhé sešla Vyšetřovací komise k OKD. Místopředsedkyní komise, kterou vede pirátský poslance Lukáš Černohorský, se stala Pavla Golasowskou z KDU-ČSL. Svou plánovanou agendu komise rozdělila mezi tři pracovní skupiny, které pokryjí vývoj kauzy v jednotlivých časových obdobích. 
+Praha, 5. března 2018 – Minulý týden se podruhé sešla Vyšetřovací komise k OKD. Místopředsedkyní komise, kterou vede pirátský poslance Lukáš Černohorský, se stala Pavla Golasowská z KDU-ČSL. Svou plánovanou agendu komise rozdělila mezi tři pracovní skupiny, které pokryjí vývoj kauzy v jednotlivých časových obdobích. 
 
 Skupinu pro šetření prvního období týkající se ztráty majoritního podílu státu povede poslanec Lubomír Volný z SPD. Druhé období privatizace minoritního podílu a prodej bytového fondu bude mít na starost Josef Hájek zvolený za ANO. Pád OKD do insolvence bude předmětem zájmu sociálního demokrata Lubomíra Zaorálka. Předseda komise Lukáš Černohorský se zároveň minulý týden sešel i s Romanem Macháčkem ze sdružení BYTY OKD a s advokátkou Hanou Marvanovou, která se kauze dlouhodobě věnuje. Ta bude přizvána na další setkání vyšetřovací komise.
 
