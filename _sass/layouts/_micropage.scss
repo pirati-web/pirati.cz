@@ -311,7 +311,15 @@ body{
     &[data-orbit*=orbit]{
       display: block;
     }
+    &-slide{
+      @include breakpoint(mobile down) {
+        display: block !important;
+      }
+    }
     &-previous, &-next{
+      @include breakpoint(mobile down) {
+        display: none;
+      }
       background: rgba(10,10,10,0.3);
       &:hover{
         background: rgba(10,10,10,0.5);
