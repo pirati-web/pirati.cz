@@ -187,6 +187,12 @@ body{
     line-height: 1;
     font-size: 1.125em;
 
+    p{
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+
     small{
       font-size: 1.5rem;
     }
@@ -297,6 +303,19 @@ body{
   &__end{
     p+p{
 
+    }
+  }
+
+  .orbit{
+    display: none;
+    &[data-orbit*=orbit]{
+      display: block;
+    }
+    &-previous, &-next{
+      background: rgba(10,10,10,0.3);
+      &:hover{
+        background: rgba(10,10,10,0.5);
+      }
     }
   }
 }
