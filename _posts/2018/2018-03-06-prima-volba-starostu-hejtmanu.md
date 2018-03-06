@@ -16,14 +16,20 @@ Je naprosto nezbytné v Ústavě ČR vymezit úlohy a vztahy přímo zvoleného 
 ## Návrh přímé volby starostů/hejtmanů dle Pirátů
 
 ### Piráti podporují přímou volbu starostů a hejtmanů a to z důvodů:
+
 o dělby moci, kdy jednotlivé osoby budou mít jasněji oddělené role a rozdělené zodpovědnosti a
 pravomoci, vzájemně se kontrolují a vyvažují;
+
 o stability vlády, kde exekutiva není paralyzována a blokována nejasnou situací v
 zastupitelstvu;
+
 o osobní zodpovědnosti zvoleného zástupce, se kterým se volič může lehce identifikovat;
+
 o vyšší participace občanů, neboť studie predikují v takovém případě vyšší volební část, a tedy i
 vyšší občanskou spoluzodpovědnost za svou obec;
+
 o jednodušší odvolatelnosti přímo voleného zástupce, kteroužto též dlouhodobě prosazují.
+
 
 #### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
 
