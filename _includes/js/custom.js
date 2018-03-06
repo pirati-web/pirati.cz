@@ -81,13 +81,27 @@ var choice_leader = function(data) { return choice_person(data, page_leader, 'p�
 /** @param {collection} data **/
 var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktní osoba'); };
 
-
+/**
+* TODO: Smaže jména, která nemají profil
+**/
 var author_link = function(data, el) {
   var authors_text = el.text().split(',').map(function(s) { return s.trim() });
-  $.each(authors_text, function(index, name) {console.log('|',name,'|');});/*TMP*/
   var authors = choice_person_by_name(data, authors_text);
-  console.log('authors:', authors.length, authors);
-  /* TODO: replace text name with name with link */
+  if(authors.length != authors_text.length) {
+    console.log("Někteří autoři nemají profil.");
+  }
+  el.text('');
+  $.each(authors, function(index, author){
+    var is_last_item = (index == (authors.length - 1));
+    $('<a>',{
+        text: author.name,
+        title: author.name,
+        href: 'https://www.pirati.cz' + author.url
+    }).appendTo(el);
+    if(!is_last_item) {
+      el.append(', ');
+    }
+  });
 }
 
 /**
