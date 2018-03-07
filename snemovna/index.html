@@ -5,33 +5,37 @@ layout: default
   var milos = {};
   milos.priorityStack = new Array();
 </script>
-<div class="l-micropage">
+<div class="l-micropage page--snemovna">
+    <nav class="c-top-sub-nav u-center-860-down">
+        <div class="row">
+            <div class="c-top-sub-nav-inner">
+                <div class="u-cf">
+                    <div class="c-top-sub-nav-header">
+                        <div class="c-top-sub-nav__heading">Piráti ve sněmovně</div>
+                    </div>
+                    <div class="c-top-sub-nav-divider"></div>
+                    <ul class="c-top-sub-nav-items">
+                        <li class="c-top-sub-nav__item"><a href="#priority">Plnění programu</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#klub">Poslanci</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#vykaz">Čerpání financí</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#aktuality">Aktuality</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
     <section class="l-micropage__hero">
         <div class="row o-section">
-            <div class="medium-5 columns">
-                <!--<div class="l-micropage__hero-head"><span class="u-big">10.79%</span></div>-->
-                <!--<div class="l-micropage__hero-head"><span class="u-big">20</span>priorit</div>-->
-                <!--<div class="l-micropage__hero-head"><span class="u-big">22</span>pirátů</div>-->
-            </div>
-            <div class="medium-7 columns">
+            <div class="medium-12 columns">
                 <div class="l-micropage__hero-text">
-                    <h1 div class="l-micropage__hero-subhead">Zkontrolujte si Pirátské poslance</h1>
+                    <h1 div class="l-micropage__hero-subhead cta">Podívejte se, jak Vaši poslanci pracují:</h1>
                     <p class="l-micropage__perex">Vaši poslanci pracují za Vaše peníze a jsou tu hlavně pro Vás. Krom informací o plnění programu na této stránce najdete také informace o čerpání poslaneckých náhrad, úkoly a kalendář každého jednotlivého poslance.</p>
-            </div>
+                </div>
             </div>
         </div>
     </section>
-    <nav class="l-micropage__top-bar c-top-bar">
-        <div class="row">
-            <span class="cta">Podívejte se, jak Vaši poslanci pracují:</span>
-            <ul class="l-micropage__top-bar__list menu dropdown">
-                <li class="l-micropage__top-bar__list-item"><a href="#priority">Plnění programu</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#klub">Poslanci</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#vykaz">Čerpání financí</a></li>
-                <li class="l-micropage__top-bar__list-item"><a href="#aktuality">Aktuality</a></li>
-            </ul>
-        </div>
-    </nav>
+
     <section class="l-micropage__section row o-section" id="priority">
         <div class="small-12 columns">
             {% include_relative priority.html %}

@@ -55,6 +55,8 @@ body{
     color: $dark;
     font-weight: bold;
     display: inline-block;
+    top:-.75em;
+    margin:auto;
     @include breakpoint(mobile up) {
       font-size: 1.5em;
     }
@@ -185,24 +187,15 @@ body{
     line-height: 1;
     font-size: 1.125em;
 
+    p{
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+
     small{
       font-size: 1.5rem;
     }
-
-      &:before {
-        @extend %before-util;
-        //@extend %before-pattern;
-        background: url(pomer.svg) no-repeat center center;
-        transform: rotate(-45deg) translate(21%, -16%);
-        width: 800px;
-        top: -260px;
-        left: 50%;
-        margin-left: -640px;
-        @include breakpoint(mobile down) {
-          display: none;
-        }
-      }
-
     //&:after{
     //  @extend %before-util;
     //  @extend %before-pattern;
@@ -221,8 +214,9 @@ body{
       color: white;
     }
     &-text{
+      text-align: center;
       position: relative;
-      background: rgba(#ffffff,.85);
+      //background: rgba(#ffffff,.85);
       padding: $unit;
       @include breakpoint(mobile up) {
         padding: 2*$unit;
@@ -232,30 +226,31 @@ body{
   }
   &__heading{
     text-align: center;
-    font-size: 2.5em;
-    margin-bottom: 4*$unit ;
-    position: relative;
-    color: white;
-    &:before{
-      @extend %before-util;
-      top: -$unit;
-      bottom: -$unit;
-      left: -20%;
-      @include breakpoint(mobile up) {
-        transform: skew(45deg);
-        right: 10%;
-      }
-    }
-    &:after{
-      @extend %before-util;
-      top: -$unit;
-      bottom: -$unit;
-      right: -20%;
-      @include breakpoint(mobile up) {
-        transform: skew(-45deg);
-        left: 10%;
-      }
-    }
+    @extend .c-BasicPage__title;
+    //font-size: 2.5em;
+    //margin-bottom: 4*$unit ;
+    //position: relative;
+    //color: white;
+    //&:before{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  left: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(45deg);
+    //    right: 10%;
+    //  }
+    //}
+    //&:after{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  right: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(-45deg);
+    //    left: 10%;
+    //  }
+    //}
   }
   &__perex{
     font-size: 1.25em;
@@ -286,17 +281,19 @@ body{
   &__detail{
     background: rgba($dark,.05);
     &-title{
+      @extend .o-section__heading;
+      border-bottom: 3px solid #f3c289;
       margin: $u 0 2*$u;
       padding: $u 0;
-      position: relative;
-      font-size: 1.75em;
-      &:before{
-        @extend %before-util;
-        //right: -100%;
-        //border-bottom: 1px solid $dark;
-        top: auto;
-        height: 1px;
-      }
+      //position: relative;
+      //font-size: 1.75em;
+      //&:before{
+      //  @extend %before-util;
+      //  //right: -100%;
+      //  //border-bottom: 1px solid $dark;
+      //  top: auto;
+      //  height: 1px;
+      //}
       p + &{
         margin-top: 2*$u;
       }
@@ -306,6 +303,27 @@ body{
   &__end{
     p+p{
 
+    }
+  }
+
+  .orbit{
+    display: none;
+    &[data-orbit*=orbit]{
+      display: block;
+    }
+    &-slide{
+      @include breakpoint(mobile down) {
+        display: block !important;
+      }
+    }
+    &-previous, &-next{
+      @include breakpoint(mobile down) {
+        display: none;
+      }
+      background: rgba(10,10,10,0.3);
+      &:hover{
+        background: rgba(10,10,10,0.5);
+      }
     }
   }
 }
