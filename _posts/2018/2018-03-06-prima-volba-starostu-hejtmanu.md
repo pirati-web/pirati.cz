@@ -17,32 +17,27 @@ Je naprosto nezbytné v Ústavě ČR vymezit úlohy a vztahy přímo zvoleného 
 
 ### Piráti podporují přímou volbu starostů a hejtmanů a to z důvodů:
 
-o dělby moci, kdy jednotlivé osoby budou mít jasněji oddělené role a rozdělené zodpovědnosti a
-pravomoci, vzájemně se kontrolují a vyvažují;
+o dělby moci, kdy jednotlivé osoby budou mít jasněji oddělené role a rozdělené zodpovědnosti a pravomoci, vzájemně se kontrolují a vyvažují;
 
-o stability vlády, kde exekutiva není paralyzována a blokována nejasnou situací v
-zastupitelstvu;
+o stability vlády, kde exekutiva není paralyzována a blokována nejasnou situací v zastupitelstvu;
 
 o osobní zodpovědnosti zvoleného zástupce, se kterým se volič může lehce identifikovat;
 
-o vyšší participace občanů, neboť studie predikují v takovém případě vyšší volební část, a tedy i
-vyšší občanskou spoluzodpovědnost za svou obec;
+o vyšší participace občanů, neboť studie predikují v takovém případě vyšší volební část, a tedy i vyšší občanskou spoluzodpovědnost za svou obec;
 
 o jednodušší odvolatelnosti přímo voleného zástupce, kteroužto též dlouhodobě prosazují.
 
+### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
 
-#### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
+### Starosta/hejtman a jeho zástupce by měli být voleni v přímé volbě 
+umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování). Zástupci starosty/hejtmana se rozumí 1. náměstek a nástupce pro případ zániku mandátu v průběhu období – 
 
-#### Starosta/hejtman a jeho zástupce
- (1. náměstek a nástupce pro případ zániku mandátu v průběhu období) by měli být voleni v přímé volbě umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování).
+### Funkční období starosty/hejtmana by mělo být shodné se zastupitelstvem. 
+Přímo volený starosta/hejtman by měl mít možnost zastupitelstvo rozpustit. Poté by následovaly nové volby nejen zastupitelstva, ale i starosty/hejtmana. Stejně tak zastupitelstvo by mělo být schopno se kvalifikovanou většinou rozpustit.
 
-#### Funkční období starosty/hejtmana by mělo být shodné se zastupitelstvem. 
-Přímo volený starosta/hejtman by měl mít možnost zastupitelstvo rozpustit. Poté by následovaly nové volby nejen zastupitelstva, ale i starosty/hejtmana. Stejně tak zastupitelstvo by mělo být schopno se
-kvalifikovanou většinou rozpustit.
-
-#### Starostovi/hejtmanovi by měly náležet pravomoci vyhrazené radě 
+### Starostovi/hejtmanovi by měly náležet pravomoci vyhrazené radě 
 a další kompetence operativního řízení. Rada bude toliko poradním a exekutivním orgánem.
 
-#### Členy rady jmenuje starosta/hejtman
+### Členy rady jmenuje starosta/hejtman
  z osob pro funkci kvalifikovaných a po jejich předchozím schválení zastupitelstvem. Starosta/hejtman může na člena rady převést část svých pravomocí. Členové rady by neměli být zastupiteli.
 
