@@ -1,7 +1,7 @@
 ---
 date:         2018-03-07
 category:     blog
-tags:         EET
+tags:         eet
 layout:       post
 title:        "Úprava zákona o evidenci tržeb uleví velké části živnostníků"
 image:        /assets/img/articles/2018/vsichni-nekradou.jpg
