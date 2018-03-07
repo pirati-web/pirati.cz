@@ -30,7 +30,7 @@ o jednodušší odvolatelnosti přímo voleného zástupce, kteroužto též dlo
 ### Přímá volba je zavedena v sousedních zemích (Polsko, Německo, Rakousko, Slovensko).
 
 ### Starosta/hejtman a jeho zástupce by měli být voleni v přímé volbě 
-umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování). Zástupci starosty/hejtmana se rozumí 1. náměstek a nástupce pro případ zániku mandátu v průběhu období – 
+umožňující seřadit kandidáty podle preference (např. Schulzova metoda, alternativní hlasování). Zástupci starosty/hejtmana se rozumí 1. náměstek a nástupce pro případ zániku mandátu v průběhu období. 
 
 ### Funkční období starosty/hejtmana by mělo být shodné se zastupitelstvem. 
 Přímo volený starosta/hejtman by měl mít možnost zastupitelstvo rozpustit. Poté by následovaly nové volby nejen zastupitelstva, ale i starosty/hejtmana. Stejně tak zastupitelstvo by mělo být schopno se kvalifikovanou většinou rozpustit.
