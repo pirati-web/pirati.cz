@@ -12,7 +12,7 @@ Straň se vrchním administrativcem Pirátů! Piráti obsazují další místa n
 
 Pozice je ohodnocena paušální odměnou ve výši 26 tisíc Kč měsíčně + úkolovou odměnou ve výši až 5 tisíc Kč měsíčně na IČO. Piráti nabízejí náročnou práci, zato ale v suverénně nejlepší české politické straně. 
 
-Nenech si uít jedinečnou příležitost a přihlas se o práci, která má smysl! Čas máš do 15. března. Přihlaš se prostřednictvím [tohoto formuláře](https://airtable.com/shrPfPC9RkFFWoKup)
+Nenech si ujít jedinečnou příležitost a přihlas se o práci, která má smysl! Čas máš do 15. března. Přihlaš se prostřednictvím [tohoto formuláře](https://airtable.com/shrPfPC9RkFFWoKup)
 
 ### Odkazy 
 
