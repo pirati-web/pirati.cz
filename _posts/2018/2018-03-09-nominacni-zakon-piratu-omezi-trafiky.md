@@ -22,8 +22,8 @@ Současná podoba výboru je nevyhovující. V únoru v něm totiž proběhly po
 
 ### Odkazy
 
-* Návrh zákona o výběru osob do řídících a kontrolních orgánů právnických osob s majetkovou účastí státu a vlastnické politice státu (nominační zákon): [https://docs.google.com/document/d/1XAMLJyRraMs32oKbbzXBpxFqpNWoQtr3i12F_e_zW7U/edit](https://docs.google.com/document/d/1XAMLJyRraMs32oKbbzXBpxFqpNWoQtr3i12F_e_zW7U/edit)
+* [Návrh zákona o výběru osob do řídících a kontrolních orgánů právnických osob s majetkovou účastí státu a vlastnické politice státu (nominační zákon)](https://docs.google.com/document/d/1XAMLJyRraMs32oKbbzXBpxFqpNWoQtr3i12F_e_zW7U/edit)
 
-* Důvodová zpráva k návrhu zákona o výběru osob do řídících a kontrolních orgánů právnických osob s majetkovou účastí státu a vlastnické politice státu (nominační zákon): [https://docs.google.com/document/d/1r7XsDQtgVcDxyZCqL6EblzAc5CuEhPxKmwQXrF72c3M/edit?usp=sharing](https://docs.google.com/document/d/1r7XsDQtgVcDxyZCqL6EblzAc5CuEhPxKmwQXrF72c3M/edit?usp=sharing)
+* [Důvodová zpráva k návrhu zákona o výběru osob do řídících a kontrolních orgánů právnických osob s majetkovou účastí státu a vlastnické politice státu (nominační zákon):](https://docs.google.com/document/d/1r7XsDQtgVcDxyZCqL6EblzAc5CuEhPxKmwQXrF72c3M/edit?usp=sharing)
 
 
