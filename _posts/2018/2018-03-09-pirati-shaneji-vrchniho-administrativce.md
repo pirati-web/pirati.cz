@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/inzerat.jpg
 author:       Jana Rohová
 ---
 
-Straň se vrchním administrativcem Pirátů! Piráti obsazují další místa na palubě! Hledáme důsledného a pečlivého člověka, který by byl schopný zavést řád v administrativních věcech. Jedná se o činnost, která je klíčová pro fungování Pirátské strany. Úkolem vrchního administrativce bude spravovat veřejný registr smluv, provádět spisovou službu Pirátů a starat se jednotlivé dokumenty. Kromě toho bude třeba pomáhat s administrativou nově vznikajícím místním sdružením a dělat řadu dalších věcí, bez kterých se rozsáhlá pirátská komunita dnes neobejde. 
+Staň se vrchním administrativcem Pirátů! Piráti obsazují další místa na palubě! Hledáme důsledného a pečlivého člověka, který by byl schopný zavést řád v administrativních věcech. Jedná se o činnost, která je klíčová pro fungování Pirátské strany. Úkolem vrchního administrativce bude spravovat veřejný registr smluv, provádět spisovou službu Pirátů a starat se jednotlivé dokumenty. Kromě toho bude třeba pomáhat s administrativou nově vznikajícím místním sdružením a dělat řadu dalších věcí, bez kterých se rozsáhlá pirátská komunita dnes neobejde. 
 
 Pozice je ohodnocena paušální odměnou ve výši 26 tisíc Kč měsíčně + úkolovou odměnou ve výši až 5 tisíc Kč měsíčně na IČO. Piráti nabízejí náročnou práci, zato ale v suverénně nejlepší české politické straně. 
 
