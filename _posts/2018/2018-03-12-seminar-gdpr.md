@@ -19,4 +19,4 @@ Ondřej Profant se tématu GDPR věnuje delší dobu. Na svém blogu již dřív
 
 
 Podklady z dnešního semináře naleznete zde:
-https://www.profant.eu/soukrom%C3%AD/2018/03/12/seminar-gdpr.html
+<https://www.profant.eu/soukrom%C3%AD/2018/03/12/seminar-gdpr.html>
