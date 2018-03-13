@@ -20,10 +20,15 @@ Poslanec Třešňák bude v kanceláři dostupný každé liché pondělí, sud�
  
  
 ### Kontaktní osoba:
+
 Petr Třešňák
+
 607 517 967
+
 <tresnakp@psp.cz>
-Aktuální rozpis a kalendář na osobních stránkách: <www.petrtresnak.com>
+
+Aktuální rozpis a kalendář na osobních stránkách: 
+<www.petrtresnak.com>
 
 
 
