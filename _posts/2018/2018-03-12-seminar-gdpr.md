@@ -17,6 +17,6 @@ V několika tematických blocích vystoupili jako řečníci kromě Ondřeje Pro
 
 Ondřej Profant se tématu GDPR věnuje delší dobu. Na svém blogu již dříve uvedl několik článků k této právní úpravě. Zájemci zde najdou i aktuální materiály z dnešního semináře, jako jsou jednotlivé prezentace, analýza s manuálem pro obce i odkazy na starší texty. Veškeré materiály jsou volně přístupné pod otevřenou licencí.
 
-
+ 
 Podklady z dnešního semináře naleznete zde:
 <https://www.profant.eu/soukrom%C3%AD/2018/03/12/seminar-gdpr.html>
