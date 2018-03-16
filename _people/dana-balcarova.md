@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: dana.balcarova
 name:     Dana Balcarová  	# běžně používáné jméno
 fullname: Dana Balcarová  	# jméno s tituly etc.
@@ -7,9 +8,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/dana-balcarova.jpg   # 165 x 220
 description: poslankyně PS PČR, garantka programového bodu životní prostředí             	# kratký popis, max 160 znaků
+direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
 mob:			  +420 732 103 330
+asistenti:
+  - name: Tomáš Guth Jarkovský
+  - name: Barbora Stuchlá
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/dana.balcarova
