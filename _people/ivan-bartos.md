@@ -14,7 +14,9 @@ direct-contact: true
 mail:
 - ivan.bartos@pirati.cz
 mob:			   +420 603 415 378
-office: Jiřího náměstí 39, 290 33  Poděbrady
+office: 
+  - address: Jiřího náměstí 39, 290 33  Poděbrady
+    opening: 
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
