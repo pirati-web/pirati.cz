@@ -35,15 +35,16 @@
 						{% endif %}
 
 						{% if page.office %}
+							{% assign kancl = page.office | first %}
 							<hr />
 							<h3>Poslanecká kancelář</h3>
-							{{ page.office.address}}<br/>
-							{% if page.office.opening %}{{ page.office}}<br/>{% endif %}
+							{{ kancl.address}}<br/>
+							{% if kancl.opening %}{{ kancl.opening}}<br/>{% endif %}
 							<br/><div class="c-widget-map">
 								<iframe
 									height="150"
 									frameborder="0" style="border:0; width:100%"
-									src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCRuL_FU0HdeKCHVNfVJkv2nhNZPr05AJM&q={{ page.office.address | replace: ' ', '+' }}" allowfullscreen>
+									src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCRuL_FU0HdeKCHVNfVJkv2nhNZPr05AJM&q={{ kancl.address | replace: ' ', '+' }}" allowfullscreen>
 								</iframe>
 							</div>
 						{% endif %}
