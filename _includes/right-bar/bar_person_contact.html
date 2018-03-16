@@ -9,39 +9,55 @@
       </a>
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-inner">
-            {% if page.data-version == 2 %}
+					{% if page.data-version == 2 %}
 
-                <h3>Odkazy</h3>
-                {% if page.profiles.web %}<i class="fa fa-globe"></i><a href="{{page.profiles.web}}">Webová stránka</a><br/>{% endif %}
-                {% if page.profiles.facebook %}<i class="fa fa-facebook"></i><a href="{{page.profiles.facebook}}">Facebook</a><br/>{% endif %}
-                {% if page.profiles.twitter %}<i class="fa fa-twitter"></i><a href="{{page.profiles.twitter}}">Twitter</a><br/>{% endif %}
-                {% if page.profiles.wikipedia %}<i class="fa fa-wikipedia-w"></i> <a href="{{ page.profiles.wikipedia }}">W: {{ page.profiles.wikipedia | remove: "https://cs.wikipedia.org/wiki/" }}</a><br/>{% endif %}
-                {% if page.profiles.report %}<i class="fa fa-file-text-o"></i> <a href="{{page.profiles.report}}">Report poslance</a><br/>{% endif %}
-                <br/>
-              {% if page.asistenti %}
-                <h3>Asistent/ka</h3>
-                {% assign main = page.asistenti | first %}
-                <i class="fa fa-user-o"></i> {{main.name}}<br/>
-                <i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ main.mail}}</a><br/>
-                <i class="fa fa-phone"></i> {{ main.tel }}<br/>
-              {% endif %}
-              {% if page.direct-contact %}
-                <br>
-                <h3>{{page.name}}</h3>
-                {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
-                {% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
-              {% endif %}
-            {% else %}
-              {% if page.asistent %}
-              <i class="fa fa-user-o"></i> Asistent/ka: {{page.asistent.name}}<br/>
-              <i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ page.asistent.mail}}</a><br/>
-              <i class="fa fa-phone"></i> {{ page.asistent.tel }}<br/>
-              {% else %}
-              {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
-              {% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
-              {% endif %}
-              {% include right-bar/rbar_profiles.html %}
-            {% endif %}
+						{% if page.direct-contact %}
+							<h3>{{page.name}}</h3>
+							{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
+							{% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
+							<hr />
+						{% endif %}
+
+						<h3>Odkazy</h3>
+						{% if page.profiles.web %}<i class="fa fa-globe"></i><a href="{{page.profiles.web}}">Webová stránka</a><br/>{% endif %}
+						{% if page.profiles.facebook %}<i class="fa fa-facebook"></i><a href="{{page.profiles.facebook}}">Facebook</a><br/>{% endif %}
+						{% if page.profiles.twitter %}<i class="fa fa-twitter"></i><a href="{{page.profiles.twitter}}">Twitter</a><br/>{% endif %}
+						{% if page.profiles.wikipedia %}<i class="fa fa-wikipedia-w"></i> <a href="{{ page.profiles.wikipedia }}">W: {{ page.profiles.wikipedia | remove: "https://cs.wikipedia.org/wiki/" }}</a><br/>{% endif %}
+						{% if page.profiles.report %}<i class="fa fa-file-text-o"></i> <a href="{{page.profiles.report}}">Report poslance</a><br/>{% endif %}
+
+						{% if page.asistenti %}
+							<hr />
+							<h3>Asistent/ka</h3>
+							{% assign main = page.asistenti | first %}
+							<i class="fa fa-user-o"></i> {{main.name}}<br/>
+							<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ main.mail}}</a><br/>
+							{% if main.tel %}<i class="fa fa-phone"></i> {{ main.tel }}<br/>{% endif %}
+						{% endif %}
+
+						{% if page.office %}
+							<hr />
+							<h3>Poslanecká kancelář</h3>
+							{{ page.office}}<br/><br/>
+							<div class="c-widget-map">
+								<iframe
+									height="150"
+									frameborder="0" style="border:0; width:100%"
+									src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCRuL_FU0HdeKCHVNfVJkv2nhNZPr05AJM&q={{ page.office | replace: ' ', '+' }}" allowfullscreen>
+								</iframe>
+							</div>
+						{% endif %}
+
+					{% else %}
+						{% if page.asistent %}
+						<i class="fa fa-user-o"></i> Asistent/ka: {{page.asistent.name}}<br/>
+						<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ page.asistent.mail}}</a><br/>
+						<i class="fa fa-phone"></i> {{ page.asistent.tel }}<br/>
+						{% else %}
+						{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
+						{% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
+						{% endif %}
+						{% include right-bar/rbar_profiles.html %}
+					{% endif %}
         </div>
       </div>
     </li>
