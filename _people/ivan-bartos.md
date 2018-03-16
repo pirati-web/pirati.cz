@@ -16,7 +16,6 @@ mail:
 mob:			   +420 603 415 378
 office: 
   - address: Jiřího náměstí 39, 290 33  Poděbrady
-    opening: 
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
