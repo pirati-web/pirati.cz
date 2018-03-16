@@ -9,7 +9,7 @@ author:       Jakub Dušánek
 ---
 
 
-16. března – Piráti zaslali Úřadu vlády ČR připomínky k dokumentu Národní program reforem. Materiál vypracoval Úřad vlády pro Evropskou komisi a zabývá se v něm problémy ekonomiky, zdravotnictví, vzdělávání i inovací. Piráti oceňují, že dokument zmiňuje některé z výzev 21. století, jako průmysl 4.0, digitalizaci veřejné správy nebo narovnávání mzdových podmínek. Na druhou stranu je program reforem z větší části příliš obecný a neobsahuje konkrétní opatření.
+Praha, 16. března – Piráti zaslali Úřadu vlády ČR připomínky k dokumentu Národní program reforem. Materiál vypracoval Úřad vlády pro Evropskou komisi a zabývá se v něm problémy ekonomiky, zdravotnictví, vzdělávání i inovací. Piráti oceňují, že dokument zmiňuje některé z výzev 21. století, jako průmysl 4.0, digitalizaci veřejné správy nebo narovnávání mzdových podmínek. Na druhou stranu je program reforem z větší části příliš obecný a neobsahuje konkrétní opatření.
 
 > „Ekonomická část je velmi stručná. Chybí například uvedení dopadu výpadku strukturálních fondů od roku 2020. V oblasti podnikání nesouhlasíme s komplikováním podnikatelského prostředí a zvyšováním zdanění pro OSVČ. Naopak chceme, aby se celkově snižovaly daně z příjmu. Zdanění práce je příliš vysoké, proto preferujeme například zavedení sektorových daní a zabránění daňovým únikům,“ uvedl poslanec Pirátů Jan Pošvář, člen Rozpočtového výboru. Poslanec Tomáš Martínek poukázal na to, že kapitola o důchodovém systému sice zmiňuje plánované navýšení důchodů, ale nijak neřeší udržitelnost a nutnou reformu celého systému.
 
