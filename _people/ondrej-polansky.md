@@ -21,7 +21,7 @@ asistenti:
   - name: Ing. David Witosz
 office: 
   - address: Nádražní 1248, 702 00  Ostrava - Moravská Ostrava
-    opening: 9,00 - 12,00; 12,30 - 17,00<br/>   tel. 737 480 813 (Zuzana Klusová)
+    opening: 9&#58;00 - 12&#58;00; 12&#58;30 - 17&#58;00<br/>   tel.&#58; 737 480 813 (Zuzana Klusová)
 profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky

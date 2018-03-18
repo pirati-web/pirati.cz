@@ -15,7 +15,7 @@ mail:
 mob:
 office: 
   - address: U Zvonu 4/9, 301 00  Plzeň
-    opening: pondělí 14,00 - 17,00			  
+    opening: pondělí 14&#58;00 - 17&#58;00			  
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/bartonlk
