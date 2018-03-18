@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: mikulas.ferjencik
 name:     Mikuláš Ferjenčík  	# běžně používáné jméno
 fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
@@ -7,10 +8,16 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/mikulas-ferjencik.jpg   # 165 x 220
 description: poslanec PSP ČR za Pardubický kraj a vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+direct-contact: true
 mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
-
+office: 
+  - address: Sladkovského 482, 530 02  Pardubice
+    opening:
+asisteni:
+  - name: Lucie Procházková
+  - name: Jiří Valenta    
 profiles:
   github:       https://github.com/mifer
   facebook:     https://www.facebook.com/mikfer
