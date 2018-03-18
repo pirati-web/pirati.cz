@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: ondrej.polansky
 name:     Ondřej Polanský  	# běžně používáné jméno
 fullname: Ondřej Polanský  	# jméno s tituly etc.
@@ -6,13 +7,21 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/ondrej-polansky.jpg   # 165 x 220
 description: poslanec PSP ČR za Moravskoslezský kraj            	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - ondrej.polansky@pirati.cz
 mob:			  
-asistent:
-  name: Zuzana Kolaříková
-  mail: kolarikovaz@psp.cz
-  tel:  777 674 414
+asistenti:
+  - name: Zuzana Kolaříková
+    mail: kolarikovaz@psp.cz
+    tel:  777 674 414
+  - name: JUDr. Lukáš Jansa
+  - name: Mgr. Zuzana Klusová
+  - name: Jaroslav Němec
+  - name: Ing. David Witosz
+office: 
+  - address: Nádražní 1248, 702 00  Ostrava - Moravská Ostrava
+    opening: 9,00 - 12,00; 12,30 - 17,00<br/>   tel. 737 480 813 (Zuzana Klusová)
 profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky
