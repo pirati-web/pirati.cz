@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: lukas.kolarik
 name:     Lukáš Kolářík  	# běžně používáné jméno
 fullname: Lukáš Kolářík  	# jméno s tituly etc.
@@ -8,13 +9,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lukas-kolarik.jpg   # 165 x 220
 description: poslanec PSP ČR za Jihočeský kraj           	# kratký popis, max 160 znaků
 ordpsp: 17
+direct-contact: false
 mail:
 - lukas.kolarik@pirati.cz
 mob:			  
-asistent:
-  name: Drahoslava Křenková
-  mail: drahoslava.krenkova@gmail.com
-  tel:  721 772 302
+asistenti:
+  - name: Drahoslava Křenková
+    mail: drahoslava.krenkova@gmail.com
+    tel:  721 772 302
+  - name: Daniel Galuszka
+  - name: Mgr. Zuzana Klusová
+  - name: Mgr. Zuzana Koláříková
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/kolarikl
