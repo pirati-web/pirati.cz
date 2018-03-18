@@ -10,6 +10,7 @@ description: poslanec PSP ČR za Pardubický kraj a vedoucí mediálního odboru
 mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
+
 profiles:
   github:       https://github.com/mifer
   facebook:     https://www.facebook.com/mikfer
