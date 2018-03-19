@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: ivan.bartos
 name:     Ivan Bartoš      # běžně používáné jméno
 fullname: PhDr. Ivan Bartoš, Ph.D.  # jméno s tituly etc.
@@ -9,15 +10,22 @@ category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/ivan-bartos.jpg # 165 x 220
 description: předseda Pirátů, poslanec PSP ČR za Středočeský kraj
+direct-contact: true
 mail:
 - ivan.bartos@pirati.cz
 mob:			   +420 603 415 378
+office: 
+  - address: Jiřího náměstí 39, 290 33  Poděbrady
+    opening: 
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
   twitter:		 https://twitter.com/IvanCzechPir8
   flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
   report:      https://forum.pirati.cz/poslanci-f884/report-poslance-ivana-bartose-t38992.html
+asistenti:
+  - name: Mgr. Věra Marušiaková
+    mail: vera.marusiakova@pirati.cz
 ordrp: 1
 ordcar: 1
 ordga: 3

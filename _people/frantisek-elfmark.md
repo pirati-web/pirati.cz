@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: frantisek.elfmark
 name:     František Elfmark  	# běžně používáné jméno
 fullname: František Elfmark  	# jméno s tituly etc.
@@ -7,13 +8,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/frantisek-elfmark.jpg   # 165 x 220
 description: poslanec PSP ČR za Zlínský kraj, radní města Uherské Hradiště            	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - frantisek.elfmark@pirati.cz
 mob:	  
-asistent:
-  name: Marek Houser
-  mail: marek.houser@pirati.cz
-  tel:  725 611 894
+asistenti:
+  - name: Marek Houser
+    mail: marek.houser@pirati.cz
+    tel:  725 611 894
+office: 
+  - address: Jiřího náměstí 39, 290 33 Poděbrady
+    opening: 
 profiles:
   github:       
   facebook:     https://www.facebook.com/felfmark

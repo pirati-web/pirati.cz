@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: martin.jiranek
 name:     Martin Jiránek      		# běžně používáné jméno
 fullname: Ing. Martin Jiránek  		# jméno s tituly etc.
@@ -8,13 +9,18 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/martin-jiranek.jpg           # 165 x 220
 description: poslanec PSP ČR za Královéhradecký kraj, zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
 ordpsp: 18
+direct-contact: false
 mail:
 - martin.jiranek@pirati.cz
 mob: +420 777 719 282
-asistent:
-  name: Tomáš Eichler
-  mail: tomas.eichler@pirati.cz
-  tel:  737 529 753
+office: 
+  - address: Veleslavínova 66, 541 01  Trutnov
+    opening:
+asistenti:
+  - name: Tomáš Eichler
+    mail: tomas.eichler@pirati.cz
+    tel:  737 529 753
+  - name: Alena Valentová
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov

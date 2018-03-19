@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: tomas.martinek
 name:     Tomáš Martínek  	# běžně používáné jméno
 fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
@@ -6,13 +7,19 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/tomas-martinek.jpg   # 165 x 220
 description: poslanec PSP ČR za Liberecký kraj         	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
-asistent:
-  name: RNDr. Martin Rejman, Ph.D.
-  mail: martin.rejman@pirati.cz
-  tel:  739 264 791
+asistenti:
+  - name: RNDr. Martin Rejman, Ph.D.
+    mail: martin.rejman@pirati.cz
+    tel:  739 264 791
+  - name: Marek Förster
+  - name: Lukáš Forýtek
+  - name: Petr Jeník
+office:
+  - address: Děčínská 361, 470 01  Česká Lípa
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek

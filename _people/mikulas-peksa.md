@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: mikulas.peksa
 name:     Mikuláš Peksa  	# běžně používáné jméno
 fullname: Mikuláš Peksa  	# jméno s tituly etc.
@@ -8,13 +9,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: poslanec PSP ČR za Ústecký kraj, 4. místopředseda Pirátů, garant programového bodu Zahraničí             	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - mikulas.peksa@pirati.cz
 mob:			  
-asistent:
-  name: David Wagner
-  mail: wagnerd@psp.cz
-  tel:  721 030 120
+asistenti:
+  - name: David Wagner
+    mail: wagnerd@psp.cz
+    tel:  721 030 120
+  - name: Adam Komenda
 profiles:
   github:       
   facebook:     https://www.facebook.com/karel.vosmera

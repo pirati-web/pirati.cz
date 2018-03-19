@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: tomas.vymazal
 name:     Tomáš Vymazal  	# běžně používáné jméno
 fullname: Tomáš Vymazal  	# jméno s tituly etc.
@@ -6,9 +7,14 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/tomas-vymazal.jpg   # 165 x 220
 description: poslanec PSP ČR za Jihomoravský kraj          	# kratký popis, max 160 znaků
+direct-contact: true
 mail:
 - tomas.vymazal@pirati.cz
 mob:			  +420 774 363 736
+asistenti:
+  - name: Mgr. David Albrecht
+  - name: Bc. Markéta Gregorová
+  - name: Mgr. Ivan Prouza
 profiles:
   facebook: https://www.facebook.com/tom.vymazal
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=tom%C3%A1%C5%A1%20vymazal

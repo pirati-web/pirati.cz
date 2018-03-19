@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: frantisek.kopriva
 name:     František Kopřiva  	# běžně používáné jméno
 fullname: František Kopřiva  	# jméno s tituly etc.
@@ -8,9 +9,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/frantisek-kopriva.jpg   # 165 x 220
 description: poslanec PS PČR, jednatel republikového výboru a jeho místopředseda             	# kratký popis, max 160 znaků
+direct-contact: true
 mail:
 - frantisek.kopriva@pirati.cz
-mob:	+420 736 749 464		  
+mob:	+420 736 749 464	
+asistenti: 
+  - name: Tomáš Guth Jarkovský
+  - name: Alexandr Mansurov	  
 profiles:
   github:       
   facebook:     https://www.facebook.com/frantisek.kopriva.5
@@ -21,6 +26,7 @@ profiles:
 ordpsp: 22
 redmine: 109
 report: 1hXfW3W33AYYJqzOXb-xEhJPGCJHaYy3R
+calendar: u01isditduonhgh4qjglfc1fq0
 ---
 
 František Kopřiva (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a momentálně studuje v Praze, kde v letech 2016-2017 pracoval v Laboratořích pro vývoj a realizaci. Kromě toho příležitostně pracuje jako copywriter. Mezi jeho záliby patří rozšiřování obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění světové i domácí.
@@ -30,6 +36,3 @@ Do Pirátské strany vstoupil ve svých 18 letech, na jaře 2014. Již dříve v
 „Chci žít v zemi, která je hrdou součástí Evropské unie, kde lidi mají svobodu, politika není sprosté slovo, státníci se chovají zodpovědně a společnost těží z rozmanitosti každého jednoho z nás," uvedl František během kampaně před sněmovními volbami 2017. „Strana mě velmi obohatila, poskytla mi prostor získávat nové zkušenosti a pracovat s výbornými lidmi na prosazování liberálních myšlenek." 
 
 [Františkovo hodnotové ukotvení podle 8values](https://forum.pirati.cz/resources/image/17093)
-
-### Kalendář
-<iframe src="https://calendar.google.com/calendar/embed?src=u01isditduonhgh4qjglfc1fq0%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>

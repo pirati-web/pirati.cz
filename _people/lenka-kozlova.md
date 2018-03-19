@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: lenka.kozlova
 name:     Lenka Kozlová  	# běžně používáné jméno
 fullname: Lenka Kozlová  	# jméno s tituly etc.
@@ -8,13 +9,15 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/lenka-kozlova.jpg   # 165 x 220
 description: poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - lenka.kozlova@pirati.cz
 mob: 
-asistent:
-  name: Jaroslav Němec
-  mail: jarnemec@psp.cz
-  tel: 608 408 587
+asistenti:
+  - name: Jaroslav Němec
+    mail: jarnemec@psp.cz
+    tel: 608 408 587
+  - name: Antonín Schejbal
 profiles:
   github:       
   facebook:     https://www.facebook.com/lenka.kozlova.5
