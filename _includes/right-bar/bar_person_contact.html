@@ -30,7 +30,7 @@
 							<h3>Asistent/ka</h3>
 							{% assign main = page.asistenti | first %}
 							<i class="fa fa-user-o"></i> {{main.name}}<br/>
-							{% if main.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ main.mail}}</a><br/>{% endif %}
+							{% if main.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistenti[0].mail}}">{{ page.asistenti[0].mail}}</a><br/>{% endif %}
 							{% if main.tel %}<i class="fa fa-phone"></i> {{ main.tel }}<br/>{% endif %}
 						{% endif %}
 

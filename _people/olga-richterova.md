@@ -14,13 +14,13 @@ mail:
 - olga.richterova@pirati.cz
 mob: +420 774 153 361
 asistenti:
-  - name: Mgr. Soňa Pohanková 
+  - name: Mgr. Soňa Pohanková
     mail: pohankovas@psp.cz
   - name: Zuzana Freitas Lopesová
   - name: Elizabet Kovačeva
-office: 
+office:
   - address: Francouzská 164/108, 101 00  Praha 10 - Vršovice
-    opening: Pondělí: 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
+    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
 profiles:
   github:       
   facebook:     https://www.facebook.com/olga.richterova
