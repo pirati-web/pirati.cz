@@ -1,0 +1,39 @@
+<div class="o-section-block">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Sněmovna</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
+          <i class="fa fa-users fa-lg"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        <div class="c-widget-accordion-content-inner">
+          <h4 class="c-widget-accordion-list__heading">Náš klub</h4>
+          <ul class="c-widget-accordion-list">
+            <ul>
+            <li><a href="{{'/snemovna/#priority' | relative_url}}">Plnění programu</a></li>
+            <li><a href="{{'/snemovna/#klub' | relative_url}}">Naši poslanci</a></li>
+            <li><a href="{{'/snemovna/#vykaz' | relative_url}}">Čerpání financí</a></li>
+            <li><a href="{{'/snemovna/#aktuality' | relative_url}}">Aktuality ze sněmovny</a></li>
+            <li><a href="{{'/snemovna/zakony/' | relative_url}}">Zákonodárná činnost</a></li>
+            </ul>
+          </ul>
+          <h4 class="c-widget-accordion-list__heading">Program parlament 2017</h4>
+          <ul class="c-widget-accordion-list">
+            <ul>
+            {% assign program = site.program | where: "category","psp2017" %}
+            {% for item in program %}
+            <li><a href="{{item.url | relative_url}}">{{item.title}}</a></li>
+            {% endfor %}
+            <li><a href="{{'/kalkulacka/' | relative_url}}">Daňová kalkulačka</a></li>
+            </ul>
+          </ul>
+        </div>
+        <div class="c-widget-accordion-content__cta">
+          <a class="expanded button large" href="{{ '/snemovna/' | relative_url }}"> Naše práce ve sněmovně </a>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
