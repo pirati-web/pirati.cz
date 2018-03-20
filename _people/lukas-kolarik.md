@@ -16,7 +16,7 @@ mob:
 asistenti:
   - name: Drahoslava Křenková
     mail: drahoslava.krenkova@gmail.com
-    tel:  721 772 302
+    tel:  727 853 151
   - name: Daniel Galuszka
   - name: Mgr. Zuzana Klusová
   - name: Mgr. Zuzana Koláříková
