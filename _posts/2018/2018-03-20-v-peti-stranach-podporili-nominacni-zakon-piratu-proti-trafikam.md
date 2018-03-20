@@ -3,7 +3,7 @@ date:         2018-03-20
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Poslanci pěti stran podpořili nominační zákon navržený Piráty. Narozdíl od návrhu ANO by překazil “trafiky” v dozorčích radách"
+title:        "Poslanci pěti stran podpořili nominační zákon navržený Piráty. Na rozdíl od návrhu ANO by překazil “trafiky” v dozorčích radách"
 image:        /assets/img/articles/2018/martinek-kancelar.jpg
 author:       Karolína Sadílková
 ---
