@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: petr.tresnak
 name:     Petr Třešňák  	# běžně používáné jméno
 fullname: Ing. Petr Třešňák  	# jméno s tituly etc.
@@ -9,13 +10,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: people/petr-tresnak.jpg # 165 x 220
 description: poslanec PSP ČR za Karlovarský kraj, starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - petr.tresnak@pirati.cz
 mob:			  +420 354 922 132
-asistent:
-  name: Josef Pavlovic
-  mail: josef.pavlovic@pirati.cz
-  tel:  607 517 967
+asistenti:
+  - name: Josef Pavlovic
+    mail: josef.pavlovic@pirati.cz
+    tel:  607 517 967
+office: 
+  - address: Skalníkova 471, 353 01  Mariánské Lázně
+    opening: každé liché pondělí 11&#58;00 - 14&#58;00,<br/><br/>Pirátské centrum v Karlových Varech<br/>každé sudé pondělí 11&#58;00 - 14&#58;00
 profiles:
   github:                 
   twitter:

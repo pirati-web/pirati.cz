@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: radek.holomcik
 name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík # jméno s tituly etc.
@@ -8,13 +9,17 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/radek-holomcik.jpg   # 165 x 220
 description: poslanec za Jihomoravský kraj, 2. místopředseda Pirátů           	# kratký popis, max 160 znaků
 ordpsp: 8
+direct-contact: false
 mail:
 - radek.holomcik@pirati.cz
 mob:		+420 728 034 460 
-asistent:
-  name: Petr Springinsfeld
-  mail: petr.springinsfeld@pirati.cz
-  tel:  608 366 554
+asistenti:
+  - name: Petr Springinsfeld
+    mail: petr.springinsfeld@pirati.cz
+    tel:  608 366 554 
+  - name: Bc. Markéta Gregorová
+  - name: Simona Kollárová
+  - name: Jiří Valenta
 profiles:
   github:                
   facebook:

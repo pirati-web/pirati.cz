@@ -12,7 +12,7 @@ mail:
 - profanto@psp.cz
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
-direct-contakt: false
+direct-contact: false
 asistenti:
   - name: Stanislava Pajerová
     mail: profanto@psp.cz

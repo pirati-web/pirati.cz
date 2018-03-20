@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: lukas.barton
 name:     Lukáš Bartoň  	# běžně používáné jméno
 fullname: Lukáš Bartoň  	# jméno s tituly etc.
@@ -8,9 +9,13 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/lukas-barton.jpg   # 165 x 220
 description: poslanec PSP ČR za Plzeňský kraj, předseda krajského sdružení Plzeňský kraj            	# kratký popis, max 160 znaků
 ordpsp: 11
+direct-contact: true
 mail:
 - lukas.barton@pirati.cz
-mob:			  
+mob:
+office: 
+  - address: U Zvonu 4/9, 301 00  Plzeň
+    opening: pondělí 14&#58;00 - 17&#58;00			  
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/bartonlk
@@ -18,6 +23,7 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?sort=date-taken-desc&advanced=1&text=luk%C3%A1%C5%A1%20barto%C5%88
 report: 1s-u1A52gywtW88SCb-HhAJNQok-OzPZd
 redmine: 182
+calendar: frcko71obqued67aa05k4cfbo8
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-lukase-bartone-t38994.html-->
 ---
 
@@ -34,6 +40,3 @@ Od roku 2012 je členem Pirátů. Kandidoval v komunálních volbách v roce
 V krajských volbách v roce 2016 kandidoval za Piráty do Zastupitelstva Plzeňského kraje, a to z pozice lídra, ale opět neuspěl. Ve volbách do Poslanecké sněmovny PČR v roce 2013 kandidoval za Piráty v Plzeňském kraji, ale do Sněmovny se nedostal. Ve volbách do Poslanecké sněmovny PČR v roce 2017 byl lídrem Pirátů v Plzeňském kraji. Získal 2 366 preferenčních hlasů a byl zvolen poslancem. 
 
 V Poslanecké sněmovně je členem Mandátového a imunitního výboru, a dále je členem a zároveň místopředsedou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu. 
-
-Veřejný Google kalendář poslance:
-<iframe src="https://calendar.google.com/calendar/embed?src=frcko71obqued67aa05k4cfbo8%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

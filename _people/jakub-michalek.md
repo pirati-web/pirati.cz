@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: jakub.michalek
 name:                           Jakub Michálek  	# běžně používáné jméno
 fullname: 			Mgr. et Mgr. Jakub Michálek  # jméno s tituly etc.
@@ -9,13 +10,14 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 img: 		people/jakub-michalek.jpg    # 165 x 220
 description: 			předseda poslaneckého klubu Pirátů v PSP ČR a 3. místopředseda Pirátské strany             	        			# kratký popis, max 160 znaků
+direct-contact: false
 mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
-asistent:
-  name: Lukáš Lev Červinka
-  mail: lukas.lev.cervinka@pirati.cz
-  tel:
+asistenti:
+  - name: Lukáš Lev Červinka
+    mail: lukas.lev.cervinka@pirati.cz
+    tel:
 profiles:
   github: https://github.com/jmichalek
   facebook: https://www.facebook.com/smidak
@@ -31,6 +33,7 @@ ordga: 8
 ordpsp: 1
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 redmine: 4
+calendar: 7lsuqerpg58a5pa63r8phu3c2k
 carousel:
   img: jakub-michalek.jpg
   text: |
@@ -52,6 +55,3 @@ Od října 2014 do listopadu 2017 byl pražským zastupitelem. Na pražském Mag
 Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze. Jako předseda poslaneckého klubu se zasadil o vznik vyšetřovací komise pro kauzu OKD. 
 
 V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii. 
-
-### Kalendář
-<iframe src="https://calendar.google.com/calendar/embed?src=7lsuqerpg58a5pa63r8phu3c2k%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>

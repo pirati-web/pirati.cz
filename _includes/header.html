@@ -84,6 +84,9 @@
                   <li{% if page.url contains 'regiony'%} class="is-active"{% endif %}>
                     <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
                   </li>
+                  <li{% if page.url contains 'snemovna'%} class="is-active"{% endif %}>
+                    <a href="{{ '/snemovna/' | relative_url }}">Sněmovna</a>
+                  </li>
                 </ul>
               </li>
               {% if page.url == '/' %}

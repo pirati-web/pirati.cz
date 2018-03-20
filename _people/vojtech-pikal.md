@@ -21,6 +21,9 @@ asistenti:
   - name: Tomáš Svoboda
     mail: tomas.svoboda@pirati.cz
     tel:  733 252 652
+office: 
+  - address: 8. května 522, 779 00  Olomouc
+    opening:
 profiles:
   github:     https://github.com/Fafrin
   facebook: 	https://www.facebook.com/vpikal

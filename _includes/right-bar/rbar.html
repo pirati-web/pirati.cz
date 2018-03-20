@@ -1,5 +1,8 @@
 <aside class="o-section">
   <div class="o-section-inner o-section-inner--rightBlock">
+    {% if page.rbar contains 'snemovna' %}
+      {% include right-bar/bar_snemovna.html %}
+    {% endif %}
     {% if page.rbar contains 'foto' %}
       {% include right-bar/bar_foto.html %}
     {% endif %}

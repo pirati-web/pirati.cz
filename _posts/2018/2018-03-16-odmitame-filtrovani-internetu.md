@@ -3,7 +3,7 @@ date:         2018-03-16
 category:     blog
 tags:         zahraničí eu
 layout:       post
-title:        "Evropská unie hrozí filtrováním internetového obsahu. Řekněte ji svůj názor!"
+title:        "Evropská unie hrozí filtrováním internetového obsahu. Řekněte jí svůj názor!"
 image:        /assets/img/articles/2018/parl.jpg
 author:       Mikuláš Peksa, EDRI
 ---
