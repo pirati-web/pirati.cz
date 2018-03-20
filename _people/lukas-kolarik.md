@@ -15,7 +15,7 @@ mail:
 mob:			  
 asistenti:
   - name: Drahoslava Křenková
-    mail: drahoslava.krenkova@gmail.com
+    mail: drahoslava.krenkova@pirati.cz
     tel:  727 853 151
   - name: Daniel Galuszka
   - name: Mgr. Zuzana Klusová
