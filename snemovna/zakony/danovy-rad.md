@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Daňový řád
+title: Změna daňového řádu ohledně praní špinavých peněz a povinností advokátů
 rbar: program snemovna
 ---
+
+**se zaměřením na pozměňovací návrh SD 402 poslance Pirátů Jakuba Michálka, který umožňuje finanční správě vyžádat si od advokátů data o jejich obchodní činnosti podle zákona o praní špinavých peněz. Generální finanční ředitelství si může vyžádat data nejen pro účely mezinárodní spolupráce, jak vyžaduje směrnice EU, ale podle návrhu Pirátů také pro účely tuzemské správy daní, má-li podezření na nesplnění daňové povinnosti přesahující částku 500 000 Kč - již dnes nelze žádat data o právním zastoupení nebo poradenství před uzavřením obchodu.**
+
+
 
 Proč jsou daňové úniky problém?
 ===============================
@@ -184,16 +188,16 @@ jednání, které směřuje k pohybu peněz nebo jej přímo vyvolá, (...)”*
 Advokát má stejně jako každá povinná osoba základní povinnosti:
 
 -   **provádět identifikaci a kontrolu klienta** (§ 9), přičemž druhé
-    > zmíněné zahrnuje:
+    zmíněné zahrnuje:
 
     -   Získání informací o účelu a zamýšlené povaze obchodu nebo
-        > obchodního vztahu;
+        obchodního vztahu;
 
     -   zjišťování vlastnické a řídící struktury klienta a jeho
-        > skutečného majitele, pokud je klientem právnická osoba,
-        > svěřenský fond nebo jiné právní uspořádání bez právní
-        > osobnosti a přijetí opatření ke zjištění a ověření totožnosti
-        > skutečného majitele;
+        skutečného majitele, pokud je klientem právnická osoba,
+        svěřenský fond nebo jiné právní uspořádání bez právní
+        osobnosti a přijetí opatření ke zjištění a ověření totožnosti
+        skutečného majitele;
 
     -   průběžné sledování obchodního vztahu včetně přezkoumávání
         > obchodů prováděných v průběhu daného vztahu pro zjištění, zda
@@ -203,7 +207,7 @@ Advokát má stejně jako každá povinná osoba základní povinnosti:
 -   **oznámit podezřelý obchod FAÚ** (§ 18 odst. 1) a
 
 -   **předložit FAÚ doklady o obchodech, které tento úřad prošetřuje**,
-    > na jeho žádost (§ 24 odst. 1).
+    na jeho žádost (§ 24 odst. 1).
 
 **Povinnost poskytovat údaje Ministerstvu financí pro jeho šetření
 (předchůdci FAÚ) mají advokáti od roku 2008, kdy byl zákon schválen.
@@ -357,41 +361,41 @@ návrhu, a které mají omezit rizika případného zneužití ze strany
 státních orgánů:
 
 -   Informace bude moci vyžadovat **pouze Generální finanční
-    > ředitelství** (GFŘ). Nebude docházet k tomu, že si každý finanční
-    > úřad bude zákon vykládat po svém a zahlcovat povinné svými
-    > žádostmi (původně bylo navrhováno, aby žádost mohl podat každý
-    > správce daně, nyní je výše uvedeném návrhu “ústřední kontaktní
-    > orgán podle zákona upravujícího mezinárodní spolupráci”).
+    ředitelství** (GFŘ). Nebude docházet k tomu, že si každý finanční
+    úřad bude zákon vykládat po svém a zahlcovat povinné svými
+    žádostmi (původně bylo navrhováno, aby žádost mohl podat každý
+    správce daně, nyní je výše uvedeném návrhu “ústřední kontaktní
+    orgán podle zákona upravujícího mezinárodní spolupráci”).
 
 -   Na základě § 58 odst. 3 daňového řádu správce daně před vydáním
-    > výzvy povinné osobě přezkoumá, **jestli potřebnými informacemi
-    > nedisponuje jiný orgán veřejné moci**. V případě, že orgány
-    > veřejné moci potřebnými údaji nedisponují, správce daně v duchu
-    > zásady hospodárnosti posoudí, jakým nejefektivnějším způsobem lze
-    > daný údaj získat (např. zda přímo od daňového subjektu nebo od
-    > třetí osoby).
+    výzvy povinné osobě přezkoumá, **jestli potřebnými informacemi
+    nedisponuje jiný orgán veřejné moci**. V případě, že orgány
+    veřejné moci potřebnými údaji nedisponují, správce daně v duchu
+    zásady hospodárnosti posoudí, jakým nejefektivnějším způsobem lze
+    daný údaj získat (např. zda přímo od daňového subjektu nebo od
+    třetí osoby).
 
 -   Pokud lze předpokládat, že předmětným údajem disponuje povinná osoba
-    > a současně představuje oslovení této osoby nejúčelnější způsob
-    > získání daného údaje, vydá správce daně výzvu povinné osobě, která
-    > bude mít vždy **formu rozhodnutí podle § 101 a násl. daňového
-    > řádu**, včetně příslušných náležitostí, která daňový řád pro
-    > rozhodnutí stanoví (zejména včetně příslušného odůvodnění).
+    a současně představuje oslovení této osoby nejúčelnější způsob
+    získání daného údaje, vydá správce daně výzvu povinné osobě, která
+    bude mít vždy **formu rozhodnutí podle § 101 a násl. daňového
+    řádu**, včetně příslušných náležitostí, která daňový řád pro
+    rozhodnutí stanoví (zejména včetně příslušného odůvodnění).
 
 -   Každá **výzva musí povinně procházet Českou advokátní komorou**,
-    > která by měla ohlídat, že nebude docházet ke zneužívání a pokud
-    > nebude žádost řádně odůvodněná, měla by doporučit advokátovi, ať
-    > údaje neposkytuje (viz odkaz na § 26 a 27 v citovaném ustanovení).
-    > Pokud budou informace žádány nezákonně, advokát je poskytovat
-    > nemusí a může se proti uloženým pokutám bránit u správního soudu
-    > včetně návrhu na odklad vykonatelnosti.
+    která by měla ohlídat, že nebude docházet ke zneužívání a pokud
+    nebude žádost řádně odůvodněná, měla by doporučit advokátovi, ať
+    údaje neposkytuje (viz odkaz na § 26 a 27 v citovaném ustanovení).
+    Pokud budou informace žádány nezákonně, advokát je poskytovat
+    nemusí a může se proti uloženým pokutám bránit u správního soudu
+    včetně návrhu na odklad vykonatelnosti.
 
 -   Informace budou moci být požadovány pouze u podezření na nesplněné
-    > daňové povinnosti s částkou překračující 500 000,- Kč, což
-    > odpovídá **zločinu krácení daně**. **Normální lidi se tedy nemusí
-    > vůbec bát, i když používají služeb advokáta**, protože by museli
-    > převádět nemovitost za více než 12 milionů nebo neplatit daně při
-    > měsíčním příjmu přes 270 000 Kč.
+    daňové povinnosti s částkou překračující 500 000,- Kč, což
+    odpovídá **zločinu krácení daně**. **Normální lidi se tedy nemusí
+    vůbec bát, i když používají služeb advokáta**, protože by museli
+    převádět nemovitost za více než 12 milionů nebo neplatit daně při
+    měsíčním příjmu přes 270 000 Kč.
 
 Jak to funguje v jiných státech?
 ================================
