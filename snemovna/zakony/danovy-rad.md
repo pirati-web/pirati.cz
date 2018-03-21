@@ -2,7 +2,7 @@
 layout: page
 title: Změna daňového řádu ohledně praní špinavých peněz a povinností advokátů
 rbar: program snemovna
-image:          /assets/img/articles/2018/reformy.jpg
+img:          /assets/img/articles/2018/reformy.jpg
 ---
 
 **se zaměřením na pozměňovací návrh SD 402 poslance Pirátů Jakuba Michálka, který umožňuje finanční správě vyžádat si od advokátů data o jejich obchodní činnosti podle zákona o praní špinavých peněz. Generální finanční ředitelství si může vyžádat data nejen pro účely mezinárodní spolupráce, jak vyžaduje směrnice EU, ale podle návrhu Pirátů také pro účely tuzemské správy daní, má-li podezření na nesplnění daňové povinnosti přesahující částku 500 000 Kč - již dnes nelze žádat data o právním zastoupení nebo poradenství před uzavřením obchodu.**

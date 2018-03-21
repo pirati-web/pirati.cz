@@ -17,3 +17,7 @@ Hnutí ANO 2011 pokračuje i nadále v obsazování rad státních podniků svý
 > „Po téměř třiceti letech je reálné, že se nám podaří zastavit praxi politických trafik. Nechápu, že ANO se tváří jako protikorupční hnutí, ale ve skutečnosti chce umožnit trafikantům zastávat místa v dozorčích radách, což je klíčový bod našeho zákona. O zájmu ANO o dozorčí rady svědčí například angažmá Radmily Kleslové v dozorčích radách pražských podniků. Cílem Pirátů je odborné a apolitické vedení státních firem podle vlastnické politiky schválené parlamentem,“ uvedl Jakub Michálek, předseda poslaneckého klubu Pirátů.
 
 Piráti svým návrhem nominačního zákona plní jednu z 20 programových priorit, které formulovali před volbami. Konec politickým trafikám a otevřená výběrová řízení na pozice ve státní správě jsou jedním z opatření, kterými zavádějí veřejnou kontrolu politiků a vlivných osob.
+
+### Odkaz
+
+* [Návrh Pirátů](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/nominacni-zakon-vlastnicka-politika.pdf)
