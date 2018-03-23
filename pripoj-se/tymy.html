@@ -1,0 +1,177 @@
+---
+layout: default
+permalink: 'pripoj-se/tymy/'
+---
+
+{% include submenu.html %}
+
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                <h1 class="c-BasicPage__title"> Odborné týmy </h1>
+                <!--<div class="c-BasicPage__meta">
+                  <div class="c-BasicPage__meta-filters">
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filters__title">Filtr</div>
+                    </div>
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filter">
+                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
+                        <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
+                          <ul>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group1" value="">
+                              <label for="group1">Předsednictvo strany</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group2" value="">
+                              <label for="group2">Krajští zastupitelé</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group3" value="">
+                              <label for="group3">Senátoři s podporou Pirátů</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group4" value="">
+                              <label for="group4">Komunální zastupitelé</label>
+                            </li>
+                            <li class="spacer"></li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group5" value="" checked="">
+                              <label for="group5">Všechny kategorie</label>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filter">
+                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="region-filters">Všechny kraje</button>
+                        <div class="c-BasicPage__meta-filter-dropdown" id="region-filters" style="display: none; " data-toggler="is-open">
+                          <ul>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group1" value="">
+                              <label for="region_group1">Středočeský kraj</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group2" value="">
+                              <label for="region_group2">Moravskoslezský kraj</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group3" value="">
+                              <label for="region_group3">Zlínský kraj</label>
+                            </li>
+                            <li class="spacer"></li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group4" value="" checked="">
+                              <label for="region_group4">Všechny kraje</label>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </div>-->
+              </div>
+            </div>
+          </div>
+
+
+
+<!--          <div class="row vspace-nb-m">
+            <div class="large-8 small-12 columns end o-section-mediumdown-divided-small">
+              <div class="row vspace-nb-m">
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+              </div>
+              <div class="row vspace-nb-m">
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+              </div>
+            </div>
+            <div class="large-4 small-12 columns end o-section-mediumdown-divided-small show-for-medium">
+              {% include right-bar/bar_cal.html %}
+            </div>
+        </div> -->
+          <div class="vspace-nb-m">
+
+{% comment %}
+            <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Regionální týmy</a>
+
+                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+                {% include team/list-3col.html param=myteams %}
+
+              </li>
+            </ul>
+
+            {% endcomment %}
+
+            <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Seznam týmů</a>
+
+
+
+                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'strana'" %}
+                {% include team/list-3col.html param=myteams %}
+
+
+              </li>
+            </ul>
+
+            {% comment %}
+
+
+            <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Programové týmy</a>
+
+                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'program'" %}
+                {% include team/list-3col.html param=myteams %}
+
+              </li>
+            </ul>
+{% endcomment %}
+
+            <!-- Last one has nomargin class modifier
+            <ul class="c-simple-accordion c-simple-accordion--nomargin" data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Kategorie týmů</a>
+                <div class="c-simple-accordion-content" data-tab-content="">
+                  <div class="row vspace-nb-m">
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+          </ul> -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>

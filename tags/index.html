@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="row">
+	<div class="medium-8 columns">
+		<h2>Články podle tagu</h2>
+
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+	{% for team in site.teams %}
+		{{ team.tags }}
+	{% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | uniq | sort %}
+
+		{% for tag in sortedtags %}
+		<h3 id="{{ tag }}">{{ tag }}</h3>
+			<ul>
+			{% for post in site.tags[tag] %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+			</ul>
+		{% endfor %}
+	</div>
+	<div class="medium-4 columns">
+		<aside>
+		<h3>Obsah</h3>
+		<div id="toc"></div>
+		</aside>
+	</div>
+</div>

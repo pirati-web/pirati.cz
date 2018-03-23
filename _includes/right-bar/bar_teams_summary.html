@@ -1,0 +1,26 @@
+<div class="o-section-block">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Kontakty</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom c-widget-accordion__icon--bottomPulled" aria-hidden="true">
+          <i class="fa fa-users fa-lg"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        <div class="c-widget-accordion-content-inner">
+            <div id="leader"></div>
+            <hr>
+            <div id="contact"></div>
+            <hr>
+            {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
+            {% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">FB: {{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
+            {% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">TW: {{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
+            {% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">GH: {{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}
+            {% if page.forum %}<i class="fa fa-comments-o"></i> <a href="{{ page.forum }}">Forum: {{ page.forum | remove: "https://forum.pirati.cz/" }}</a><br/>{% endif %}
+            {% if page.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.redmine }}">Úkoly</a>{% endif %}
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

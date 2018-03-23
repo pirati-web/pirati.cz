@@ -1,0 +1,97 @@
+.pricing-table {
+  border: solid 1px #DDDDDD;
+  background: #eee
+}
+
+.pricing-table li {
+  border-bottom: dotted 1px #DDDDDD;
+  /*font-size: 0.75rem;*/
+  padding: 0.875rem 1.125rem;
+}
+
+.pricing-table li:last-child {
+  border-bottom: 0;
+}
+
+.pricing-table .title {
+  background-color: red;
+  color: #EEEEEE;
+  font-size: 0.875rem;
+  border-bottom: 0;
+}
+
+.pricing-table .price {
+  color: #333333;
+  font-size: 1.75rem;
+  border-bottom: 0;
+}
+
+.pricing-table .description {
+  color: #777777;
+  /* font-size: 0.625rem;*/
+}
+
+.pricing-table .small {
+  color: #777777;
+  font-size: 0.625rem;
+  text-align:right;
+}
+
+#mc_embed_signup label {
+  font-size: 1rem;
+}
+
+.pricing-table .button {
+  margin: 0;
+}
+
+.pricing-table .pricing-table-header-img {
+  padding:0px;
+  margin:0px;
+  height:98px;
+  background-position: 55% 0px;
+  background-repeat:no-repeat;
+}
+
+#tabs {
+  padding: 0px;
+  background: none;
+  border-width: 0px;
+}
+
+tabs .ui-tabs-nav {
+  padding-left: 0px;
+  background: transparent;
+  border-width: 0px 0px 1px 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+}
+
+.ui-tabs .ui-tabs-nav li {
+  margin-right: 0.34em;
+  background: #eee;
+}
+
+.ui-state-active, a.ui-button:active, .ui-button:active,
+.ui-button.ui-state-active:hover {
+  background: #007fff !important;
+}
+
+#tabs .ui-tabs-panel {
+  background: #eee;
+  border-width: 0px 1px 1px 1px;
+}
+
+.asterisk {
+  color:red
+}
+
+#mc_embed_signup_scroll .c-cta-button--primary {
+  color: rgb(255, 255, 255);
+  background-color: rgb(92, 184, 92);
+  border-color: rgb(92, 184, 92);
+  width:100%;
+  text-align:center;
+  margin-top:10px;
+}

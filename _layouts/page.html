@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+{%unless page.nomenu%}
+{% include submenu.html %}
+{% endunless%}
+<div class="row">
+  <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <h1 itemprop="headline" class="c-BasicPage__title">
+              {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
+            </h1>
+            {% if page.report or page.redmine or page.calendar %}
+              <ul class="tabs" data-tabs id="profilove_zalozky">
+                <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
+                {% if page.redmine %}<li class="tabs-title"><a data-tabs-target="ukoly_uzivatele" href="#ukoly_uzivatele">Úkoly</a></li>{% endif %}
+                {% if page.calendar %}<li class="tabs-title"><a data-tabs-target="kalendar_poslance" href="#kalendar_poslance">Kalendář</a></li>{% endif %}
+                {% if page.report %}<li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz poslance</a></li>{% endif %}
+              </ul>
+            {% endif %}
+
+            {% if page.report or page.redmine or page.calendar %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
+            <div id="popis" class="tabs-panel is-active"  itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
+              {{content}}
+
+              {% if page.videa %}
+              <h2>Doprovodná videa</h2>
+              {% for video in page.videa %}
+              <div class="responsive-embed">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
+              </div>
+              {% endfor %}
+              {% endif %}
+            </div>
+
+            {% if page.redmine %}
+            <div id="ukoly_uzivatele" class="tabs-panel">
+              <h3>Úkoly poslance</h3>
+              <div id="redmine_tasks">
+              </div>
+              <script>
+                pirates.priorityStack.push(function (context) {
+                  var url = 'https://redmine.pirati.cz/issues.json?assigned_to_id={{page.redmine}}&fixed_version_id=28';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = JSON.parse(xhr.responseText);
+                    var div = document.getElementById('redmine_tasks');
+                    div.appendChild(pirates.integrations.redmine.tasks(doc));
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
+            </div>
+            {% endif %}
+
+            {% if page.calendar %}
+              <div id="kalendar_poslance" class="tabs-panel">
+                <iframe src="https://calendar.google.com/calendar/embed?src={{page.calendar }}@group.calendar.google.com&?showTitle=0&showPrint=0&showCalendars=0&showTz=0&wkst=2&amphl=cs&ctz=Europe%2FPrague" style="border: 0; width:100%" height="600" frameborder="0" scrolling="no"></iframe>
+              </div>
+            {% endif %}
+
+            {% if page.report %}
+            <div id="report_poslance" class="tabs-panel">
+              <h3>Poslanecký výkaz</h3>
+              <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+            </div>
+            {% endif %}
+
+            {% if page.report or page.redmine or page.calendar %}</div>{% endif %}
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  {% unless page.rbar == blank %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html %}
+  </div>
+  {% endunless %}
+</div>

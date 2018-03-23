@@ -1,0 +1,31 @@
+{%comment%}
+<div class="o-section-block--spaceBot show-for-large">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Obsah</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        <div class="c-widget-accordion-content-inner">
+
+        {% assign thiscat = page.category  %}
+        {% assign myteams = site.teams | where_exp: "item", "item.categories contains thiscat" %}
+
+          <h4 class="c-widget-accordion-list__heading">{{ thiscat }} </h4>
+          <ul class="c-widget-accordion-list">
+            <li>
+                {% for item in myteams %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+                {% endfor %}
+            </li>
+          </ul>
+
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{%endcomment%}

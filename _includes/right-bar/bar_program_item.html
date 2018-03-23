@@ -1,0 +1,70 @@
+{% if page.img %}
+{% unless page.rbarImgOff %}
+<div class="o-section-block--spaceBot show-for-large">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">{{page.title}}</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          <img src="{{ page.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{page.title}}">
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{% endunless %}
+{% endif %}
+
+{% if page.garant %}
+<div class="o-section-block--spaceBot">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Garant</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          <div id="garant"></div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{% endif %}
+
+{% if page.relatives %}
+<div class="o-section-block--spaceBot">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#toc" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Související</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="" id="toc">
+        <div class="c-widget-accordion-content-inner">
+          {% for item in page.relatives %}
+          <h4 class="c-widget-accordion-list__heading">{{item.name}}</h4>
+          <ul class="c-widget-accordion-list">
+            <ul>
+            {% for item in item.items %}
+            <li><a href="{{item.url}}" alt="{{item.alt}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+          </ul>
+          {% endfor %}
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+{% endif %}

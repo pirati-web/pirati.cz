@@ -5,21 +5,20 @@ $icon-ns: '';
   width: 40px;
   height: 40px;
   text-align: center;
-  line-height: 40px;
-}
-
-.#{$icon-ns}c-icon.#{$icon-ns}c-icon--facebook {
-  background: #1672b9;
-}
-
-.#{$icon-ns}c-icon.#{$icon-ns}c-icon--twitter {
-  background: #91cfff;
-}
-
-.#{$icon-ns}c-icon.#{$icon-ns}c-icon--googlePlus {
-  background: #cc0303;
-}
-
-.#{$icon-ns}c-icon.#{$icon-ns}c-icon--rounded {
-  border-radius: 20px;
+  line-height: 40px!important;
+  &--facebook {
+    background: #1672b9;
+  }
+  &--twitter {
+    background: #91cfff;
+  }
+  &--googlePlus {
+    background: #cc0303;
+  }
+  &--instagram{
+    background: #d10869;
+  }
+  &--rounded {
+    border-radius: 50%;
+  }
 }

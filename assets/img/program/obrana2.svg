@@ -1,0 +1,14 @@
+<svg id="ochrana" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: #000119; }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M32.4 25.99h76.76v90.09H32.4z"/>
+    </clipPath>
+  </defs>
+  <title>
+    ochrana
+  </title>
+  <path class="cls-2 cls-3" d="M98.66 63.25a31.55 31.55 0 0 1-1.14 7.87H70.78v34.24a55.58 55.58 0 0 1-18.41-15C47.44 84 45 76.62 43.76 71.09h27V41.34l27.88 6.33zm-3.15-32l-.16 5-15.74-3.67v-4.5L70.78 26l-8.83 2.09v4.5l-15.74 3.68-.16-5L32.4 34.5v28.75S33.14 82 44.12 96a65.12 65.12 0 0 0 26.66 20.07A65.17 65.17 0 0 0 97.44 96c11-14 11.72-32.76 11.72-32.76V34.5z"/>
+</svg>

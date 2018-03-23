@@ -1,0 +1,53 @@
+.c-blockquote {
+  font-family: $header-font-family;
+  font-size: 1.45rem;
+  font-weight: 300;
+  font-style: italic;
+  color: map-get($foundation-palette, dark);
+
+  margin: 0 0 1rem;
+  padding: 0.5625rem 1.25rem 0 1.6875rem;
+  border-left: 1px solid transparent;
+
+  @include breakpoint(medium down) {
+    br {
+      display: none;
+    }
+  }
+}
+
+.c-blockquote--wicon {
+  padding-top: 4.35rem;
+  position: relative;
+
+  &:before {
+    line-height: 1;
+    content: '\f10e';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 1.6875rem;
+    font-family: 'FontAwesome';
+    font-size: 4rem;
+    opacity: 0.15;
+    font-style: normal;
+  }
+
+  @include breakpoint(medium down) {
+    padding-top: 0.5625rem;
+    padding-left: 5rem;
+
+    &:before {
+      left: 0;
+      top: 0;
+    }
+  }
+
+  @include breakpoint(mobile down) {
+    padding-left: 0;
+    padding-top: 2.5rem;
+    &:before {
+      font-size: 2.5rem;
+    }
+  }
+}

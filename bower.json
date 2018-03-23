@@ -1,0 +1,14 @@
+{
+  "name": "pirati.cz",
+  "dependencies": {
+    "jquery": "2.2.1",
+    "jquery-ui": "1.12.1",
+    "foundation-sites": "6.2.3",
+    "motion-ui": "1.2.2",
+    "handlebars": "4.0.*",
+    "raphael": "2.2.1",
+    "opensans-googlefont": "*",
+    "firasans-googlefont": "*",
+    "font-awesome": "^4.7.0"
+  }
+}

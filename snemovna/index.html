@@ -1,0 +1,145 @@
+---
+layout: default
+---
+<script>
+  var milos = {};
+  milos.priorityStack = new Array();
+</script>
+<div class="l-micropage page--snemovna">
+    <nav class="c-top-sub-nav u-center-860-down">
+        <div class="row">
+            <div class="c-top-sub-nav-inner">
+                <div class="u-cf">
+                    <div class="c-top-sub-nav-header">
+                        <div class="c-top-sub-nav__heading">Piráti ve sněmovně</div>
+                    </div>
+                    <div class="c-top-sub-nav-divider"></div>
+                    <ul class="c-top-sub-nav-items">
+                        <li class="c-top-sub-nav__item"><a href="#priority">Plnění programu</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#klub">Poslanci</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#vykaz">Čerpání financí</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#aktuality">Aktuality</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="l-micropage__hero">
+        <div class="row o-section">
+            <div class="medium-12 columns">
+                <div class="l-micropage__hero-text">
+                    <h1 div class="l-micropage__hero-subhead cta">Podívejte se, jak Vaši poslanci pracují:</h1>
+                    <p class="l-micropage__perex">Vaši poslanci pracují za Vaše peníze a jsou tu hlavně pro Vás. Krom informací o plnění programu na této stránce najdete také informace o čerpání poslaneckých náhrad, úkoly a kalendář každého jednotlivého poslance.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="l-micropage__section row o-section" id="priority">
+        <div class="small-12 columns">
+            {% include_relative priority.html %}
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section " id="klub">
+        <div class="small-12 columns">
+            {% include_relative klub.html %}
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section" id="vykaz">
+        <div class="small-12 columns">
+            <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
+            <div class="row text-center">
+                <div class="columns medium-6">
+                    <h4><a data-modal href="/snemovna/vydelky.html">Výdělky dodavatelů klubu</a></h4>
+                </div>
+                <div class="columns medium-6">
+                    <h4><a data-modal href="/snemovna/platy.html">Platy poslanců</a></h4>
+                </div>
+            </div>
+            <iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section " id="aktuality">
+        <div class="small-12 columns">
+            {% include_relative _aktuality.html %}
+        </div>
+    </section>
+
+    <div class="l-micropage__modal" style="display: none"></div>
+</div>
+
+
+
+<script>
+    milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
+    milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
+    milos.bindAjax = function(targets,root) {
+      for (i = 0; i < targets.length; ++i) {
+        // do whatever
+        targets[i].addEventListener("click", function(event) {
+          //your handler here
+          event.preventDefault();
+          var url = event.target.getAttribute('href');
+          var xhr = new XMLHttpRequest();
+          xhr.onload = function() {
+            var doc = this.responseXML;
+            var modal = document.getElementsByClassName("l-micropage__modal")[0];
+            var contentElement;
+            var html = '';
+            if (root === undefined) {
+              contentElement = doc.getElementsByTagName("BODY");
+            }else{
+              contentElement = doc.querySelectorAll(root);
+            }
+            for (j = 0; j < contentElement.length; ++j) {
+              var content = contentElement[j].innerHTML;
+              html = html + content;
+            }
+            modal.innerHTML = html;
+            modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
+            modal.style.display = 'block';
+            var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
+            closeTrigger.addEventListener("click", function(event) {
+              modal.innerHTML = '';
+              modal.style.display = 'none';
+              closeTrigger.outerHTML = "";
+              delete closeTrigger;
+            });
+            milos.executeQue(milos.priorityStack);
+          }
+
+          xhr.open("GET", url);
+          xhr.responseType = "document";
+          xhr.send();
+        }, false);
+      };
+    }
+    milos.executeQue = function (que) {
+      for(var q=0; q< que.length; q++){
+        que[q].call(this);
+      }
+    };
+
+    milos.createCORSRequest = function (method, url) {
+      var xhr = new XMLHttpRequest();
+      if ("withCredentials" in xhr) {
+        // XHR for Chrome/Firefox/Opera/Safari.
+        xhr.open(method, url, true);
+      } else if (typeof XDomainRequest != "undefined") {
+        // XDomainRequest for IE.
+        xhr = new XDomainRequest();
+        xhr.open(method, url);
+      } else {
+        // CORS not supported.
+        xhr = null;
+      }
+      return xhr;
+    }
+
+    milos.bindAjax(milos.modal_triggers);
+    milos.executeQue(milos.priorityStack);
+
+
+</script>

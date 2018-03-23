@@ -8,17 +8,105 @@
 # Site settings
 title: Pirátská strana
 email: to@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.pirati.cz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
 sass:
     style: compressed
+
+permalink: /tiskove-zpravy/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /program/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:title/
+  elections:
+    output: true
+    permalink: /volby/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "page"
+      rbar: "program"
+  -
+    scope:
+      path: "_program/psp2017"
+    values:
+      layout: "page"
+      rbar: "program program_item"
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+  -
+    scope:
+      path: "_elections"
+    values:
+      layout: "kandidatka"
+
+calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+fb: https://www.facebook.com/ceska.piratska.strana/
+tw: PiratskaStrana
+
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-vysledky.gif
+    alt: volby
+    url: volby
+  left-top:
+    text: Regiony
+    url: regiony
+    icon: fa fa-map-signs
+  right-top:
+    text: Naši lidé
+    url: lide
+    icon: fa fa-users
+  left-bottom:
+    text: Darujte
+    url: https://dary.pirati.cz
+    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
+  right-bottom:
+    text: Program<br> Černé na bílém
+    url: program
+    icon: fa fa-newspaper-o u-rotate-345
+
+emptyArray: []

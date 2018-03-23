@@ -1,0 +1,227 @@
+---
+layout: default
+---
+
+<div class="c-hero c-hero--plainbg">
+  <div class="row">
+    <div class="c-hero-container c-hero-img-join-us">
+      <div class="small-12 columns">
+        <div class="c-hero-block">
+          <h1 class="c-hero__title">Připoj se</h1>
+        </div>
+        <div class="c-hero-block c-hero-content c-hero-content-accent">
+          <div class="vspace-nb-m">
+            <p> Na stránku přicházejí lidé, kteří již klikli na tlačítko připoj se
+              <br> nebo je na ni dovedl link odjinud. Mají tedy již zájem
+              <br> se zapojit nebo si o možnostech něco více zjistit. Naším zájmem
+              <br> je, aby nám takoví lidé nechali svůj e-mail, vyplnili dotazník
+              <br> pro dobrovolníky, ideálně se přidali do skupiny dobrovolníků
+              <br> na facebooku a do nějakého dalšího týmu
+              <br> a přišli na nějakou naši akci.</p>
+          </div>
+          <div class="c-cta-button-group vspace-nb-m">
+            <a href="https://www.facebook.com/ceska.piratska.strana/" class="c-cta-button c-cta-button--primary">Přidejte se k nám na Facebooku
+              <i class="fa fa-facebook-official" aria-hidden="true"></i>
+            </a>
+            <a href="#" class="c-cta-button c-cta-button--secondary">Vyplňte dotazník dobrovolníka
+              <i class="fa fa-clipboard" aria-hidden="true"></i>
+            </a>
+            <a href="https://ukoly.pirati.cz" class="c-cta-button c-cta-button--secondary">Volné úkoly
+              <i class="fa fa-check-square-o" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                <h1 class="c-BasicPage__title"> Seznam týmů </h1>
+                <div class="c-BasicPage__meta">
+                  <div class="c-BasicPage__meta-filters">
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filters__title">Filtr</div>
+                    </div>
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filter">
+                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
+                        <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
+                          <ul>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group1" value="">
+                              <label for="group1">Předsednictvo strany</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group2" value="">
+                              <label for="group2">Krajští zastupitelé</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group3" value="">
+                              <label for="group3">Senátoři s podporou Pirátů</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group4" value="">
+                              <label for="group4">Komunální zastupitelé</label>
+                            </li>
+                            <li class="spacer"></li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="group5" value="" checked="">
+                              <label for="group5">Všechny kategorie</label>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="c-BasicPage__meta-filter-block">
+                      <div class="c-BasicPage__meta-filter">
+                        <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="region-filters">Všechny kraje</button>
+                        <div class="c-BasicPage__meta-filter-dropdown" id="region-filters" style="display: none; " data-toggler="is-open">
+                          <ul>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group1" value="">
+                              <label for="region_group1">Středočeský kraj</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group2" value="">
+                              <label for="region_group2">Moravskoslezský kraj</label>
+                            </li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group3" value="">
+                              <label for="region_group3">Zlínský kraj</label>
+                            </li>
+                            <li class="spacer"></li>
+                            <li>
+                              <input type="checkbox" name="group[]" id="region_group4" value="" checked="">
+                              <label for="region_group4">Všechny kraje</label>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row vspace-nb-m">
+            <div class="large-8 small-12 columns end o-section-mediumdown-divided-small">
+              <div class="row vspace-nb-m">
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+              </div>
+              <div class="row vspace-nb-m">
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  {% include team/card.html %}
+                </div>
+              </div>
+            </div>
+            <div class="large-4 small-12 columns end o-section-mediumdown-divided-small show-for-medium">
+              {% include right-bar/bar_cal.html %}
+            </div>
+          </div>
+          <div class="vspace-nb-m">
+            <ul class="c-simple-accordion " data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Kategorie týmů</a>
+                <div class="c-simple-accordion-content" data-tab-content="">
+                  <div class="row vspace-nb-m">
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <!-- Last one has nomargin class modifier -->
+            <ul class="c-simple-accordion c-simple-accordion--nomargin" data-accordion="" data-options="allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Kategorie týmů</a>
+                <div class="c-simple-accordion-content" data-tab-content="">
+                  <div class="row vspace-nb-m">
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                    <div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+                      {% include team/card.html %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <div class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <h2 itemprop="headline" class="c-BasicPage__title">Kontaktní osoba</h2>
+              <div class="row collapse">
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  <div class="o-media o-media--top">
+                    <div class="o-media__image o-media__image--lgspace">
+                      <img src="{{ 'jan-novak.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Jakub Nepejchal"> </div>
+                    <div class="o-media__body">
+                      <h2 class="o-media__headline">
+                        <a href="#">Jan Novák</a>
+                      </h2>
+                      <p> Vedoucí personálního odboru
+                        <br>
+                        <a href="#">Kontakt pro zájemnce o členství a dobrovolníky</a>
+                      </p>
+                      <p> +420 770 113 638
+                        <br>
+                        <a href="mailto:jan.novak@pirati.cz">jan.novak@pirati.cz</a>
+                        <br> </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  <div class="o-media">
+                    <div class="o-media__body">
+                      <blockquote class="c-blockquote c-blockquote--wicon">Pirátská strana funguje na principu dobrovolnosti.
+                        <br> Pokud něco chceš dělat, nečekej na ostatní
+                        <br> a zapoj se. Samozřejmě buď slušný na ostatní
+                        <br> a řid se pravidly
+                        <a href="#">netikety</a>.</blockquote>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

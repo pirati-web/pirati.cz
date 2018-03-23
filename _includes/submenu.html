@@ -1,0 +1,85 @@
+{% if page.url contains 'program' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> <a href="{{'/program/' | relative_url }}">Program</a> </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/psp2017.html' | relative_url }}">Parlament 2017</a>
+          </li>
+          {% comment %}
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/psp2017/kodex-poslance/' | relative_url }}">Kodex poslance</a>
+          </li>
+          {% endcomment %}
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/program/strana.html' | relative_url }}">Dlouhodobý program</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/kalkulacka/' | relative_url }}">Daňová kalkulačka</a>
+            &nbsp;<i class="fa fa-calculator" aria-hidden="true"></i>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% elsif page.url contains 'pripoj-se' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> Připoj se </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/' | relative_url }}">Dej o sobě vědět</a>
+          </li>
+<!--          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/tymy/' | relative_url }}">najdi si tým</a>
+        </li> -->
+          <li class="c-top-sub-nav__item">
+            <a href="http://objekty.jdem.cz/">Nabídni plot</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/pripoj-se/kalendar/' | relative_url }}">Kalendář akcí</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="http://pozice.jdem.cz/">Volné pozice</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% elsif page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> O nás </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ 'o-nas/stanovy.html' | relative_url }}">Stanovy</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% endif %}

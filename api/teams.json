@@ -1,0 +1,16 @@
+---
+---
+[
+  {% for team in site.teams %}
+    {
+      "uid"      : "{{ team.uid }}",
+      "name"     : "{{ team.name | escape }}",
+      "category" : "{{ team.categories | join: ' ' }}",
+      "tags"     : "{{ team.tags | join: ' '}}",
+      "img"      : "{{ team.img | relative_url }}",
+      "region"   : "{{ team.region }}",
+      "content"	 : "{{ team.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url"      : "{{ team.url | relative_url}}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

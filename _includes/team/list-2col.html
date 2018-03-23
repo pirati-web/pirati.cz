@@ -1,0 +1,12 @@
+{% comment %}
+  Dvou sloupcové zobrazení:
+   týmů v /pripoj-se
+{% endcomment %}
+<div class="c-simple-accordion-content" data-tab-content="">
+  {% for item in myteams %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}<div class="row vspace-nb-m">{% endif %}
+    {% include team/item.html param='item' %}
+    {% if loopindex == 0 %}</div>{% endif %}
+  {% endfor %}
+</div>

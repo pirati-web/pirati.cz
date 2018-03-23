@@ -1,0 +1,31 @@
+<div class="large-6 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace">
+      <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}{{item.title}}"> </div>
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        {% if item.url contains 'http' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+        <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
+      </h2>
+      <p>{{item.description}}</p>
+      {% if item.asistent %}
+      <p>
+        Asistent/ka: {{item.asistent.name}}<br />
+        {{item.asistent.tel}}<br />
+        <a href="mailto:{{item.asistent.mail}}">{{item.asistent.mail}}</a><br>
+      </p>
+      {% else %}
+      {% if item.mob or item.mail %}
+      <p>
+        {{item.mob}}<br>
+        <a href="mailto:{{item.mail | first}}">{{item.mail | first}}</a><br>
+      </p>
+      {% endif %}
+      {% endif %}
+    </div>
+  </div>
+</div>

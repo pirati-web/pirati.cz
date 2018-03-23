@@ -1,0 +1,55 @@
+.o-media {
+    display: table;
+    width: 100%;
+}
+
+.o-media__image,
+.o-media__body {
+    display: table-cell;
+    vertical-align: middle;
+
+    .o-media--top & {
+        vertical-align: top;
+    }
+
+    .o-media--bottom & {
+        vertical-align: bottom;
+    }
+
+    @include breakpoint(mobile down) {
+        display: block;
+    }
+
+}
+
+.o-media__image {
+    padding-right: 0.85rem;
+
+    > img {
+        display: block;
+        max-width: none;
+    }
+
+    .o-media--rev & {
+        padding-right: 0;
+        padding-left: 0.85rem;
+    }
+
+    &.o-media__image--lgspace {
+        padding-right: 1.75rem;
+    }
+
+}
+
+.o-media__body {
+    width: 100%;
+
+    @include breakpoint(mobile down) {
+        margin-top: 2rem;
+    }
+
+    .o-media__headline {
+        font-size: 1.4rem;
+        color: $primary-color;
+    }
+}

@@ -1,0 +1,47 @@
+---
+layout: page
+title: Volební program pro volby do Poslanecké sněmovny 2017
+img: miscellaneous/volebni-rozcestnik.png
+rbar: ""
+---
+
+<style>
+  .program-icon {
+    width: 125px;
+    height: 125px;
+  }
+  .column {
+    margin-bottom: 0.9em;
+  }
+  .column a {
+    color: #000;
+  }
+</style>
+
+<div class="row">
+  <div class="columns medium-12">
+  <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po
+    jednotlivých ministerstvech. V každé kapitole píšeme jasně a střízlivě,
+    co chceme během 4 let ve sněmovně prosadit.
+    Naši kandidáti podepsali <a href="{{'/program/psp2017/kodex-poslance/' | relative_url }}">Kodex poslance</a> a <a href="{{'/program/psp2017/povolebni-strategie/' | relative_url }}">Povolební strategii</a>. Podívejte se také na <a href="{{'/assets/pdf/program_cerne_na_bilem.pdf' | relative_url }}">celý program v PDF</a> a na <a href="{{'/program/psp2017/20-nejdulezitejsich-bodu-programu/' | relative_url }}">20 nejdůležitějších bodů programu</a>.</p>
+    <br>
+  </div>
+</div>
+
+{% assign program = site.program | where: "category","psp2017" %}
+<div class="row small-up-2 medium-up-3 large-up-4">
+{% for item in program %}
+<div class="column column-block">
+  <a href="{{item.url | relative_url }}">
+    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}" />
+    <h2>{{item.title}}</h2>
+  </a>
+</div>
+{% endfor %}
+</div>
+
+<div class="row" style="margin-top: 20px">
+  <div class="columns medium-12">
+  <p><!--Kapitoly obrana, doprava a místní rozvoj budou doplněny.--></p>
+  </div>
+</div>
