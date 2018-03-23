@@ -1,7 +1,7 @@
 ---
 date:         2018-03-23
 category:     blog
-tags:         česká-pošta
+tags:         zahraničí
 layout:       post
 title:        "Víkendový sjezd Slovenské pirátské strany bude s českou účastí"
 image:        /assets/img/articles/2018/svk-pirati.jpg
