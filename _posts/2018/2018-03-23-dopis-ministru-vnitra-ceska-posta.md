@@ -39,6 +39,7 @@ Věříme, že tento apel a nabídka pomoci padnou na úrodnou půdu a jsme při
 Za Poslanecký klub Pirátské strany
 
 Ing. Ondřej Polanský
+
 Člen Hospodářského výboru Poslanecké sněmovny PČR
 
 Mgr. Radek Holomčík
