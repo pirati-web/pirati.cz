@@ -4,7 +4,7 @@ category:     blog
 tags:         kauzy
 layout:       post
 title:        "Šéf komise k OKD Černohorský: Stát má stále šanci odstoupit od privatizační smlouvy"
-image:        /assets/img/articles/2018/okd-budova.jpg
+image:        /assets/img/articles/2018/okd-budova.jpeg
 author:       Jakub Dušánek
 ---
 
