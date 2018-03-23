@@ -38,10 +38,14 @@ Věříme, že tento apel a nabídka pomoci padnou na úrodnou půdu a jsme při
 
 Za Poslanecký klub Pirátské strany
 
+<<<<<<< HEAD
 Ing. Ondřej Polanský
 
+=======
+Ing. Ondřej Polanský<br/>
+>>>>>>> 9e17442d63fd684415375193693eca936e899566
 Člen Hospodářského výboru Poslanecké sněmovny PČR
 
-Mgr. Radek Holomčík
+Mgr. Radek Holomčík<br/>
 Místopředseda Pirátské strany
 
