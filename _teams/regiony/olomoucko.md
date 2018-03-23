@@ -11,7 +11,7 @@ deputy:
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
-url: https://www.pirati.cz/regiony/olomoucko/start
+url: https://olomoucky.pirati.cz
 categories:
 - regiony
 tags:
@@ -25,9 +25,9 @@ web: https://wiki.pirati.cz/regiony/olomoucko/start
 
 V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek. Petr Kapounek působí též v krajské komisi pro informatiku. V Přerově zastupuje v orgánech města Piráty Martin Švadlenka, v Olomouci Vojtěch Pikal, Jakub Nepejchal a další.
 
-Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://wiki.pirati.cz/regiony/olomoucko/piratska_tvrz/start)), [Olomouci](https://wiki.pirati.cz/regiony/olomoucko/olomouc/start), [Prostějově](https://wiki.pirati.cz/regiony/olomoucko/prostejov/start), [Přerově](https://wiki.pirati.cz/regiony/olomoucko/prerov/start) a nově na [Šumpersku](https://wiki.pirati.cz/regiony/olomoucko/sumpersko/start).
+Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://olomoucky.pirati.cz/mistni-sdruzeni/piratska-tvrz/)), [Olomouci](https://olomoucky.pirati.cz/mistni-sdruzeni/olomouc/), [Prostějově](https://olomoucky.pirati.cz/mistni-sdruzeni/prostejov/), [Přerově](https://olomoucky.pirati.cz/mistni-sdruzeni/prerov/) a nově na [Šumpersku](https://olomoucky.pirati.cz/mistni-sdruzeni/sumpersko/).
 
-Další informace můžete nalézt na [starém webu](https://wiki.pirati.cz/regiony/olomoucko/start).
+Další informace můžete nalézt na [krajském webu](https://olomoucky.pirati.cz).
 
 Možnosti zapojení:
 
