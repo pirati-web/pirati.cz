@@ -37,10 +37,13 @@ Vážený pane ministře, žádáme Vás proto, abyste při výběrovém řízen
 Věříme, že tento apel a nabídka pomoci padnou na úrodnou půdu a jsme připraveni se s Vámi kdykoliv setkat.
 
 Za Poslanecký klub Pirátské strany
+
 Ing. Ondřej Polanský
+
 Člen Hospodářského výboru	
 Poslanecké sněmovny PČR
 
 Mgr. Radek Holomčík
+
 Místopředseda Pirátské strany
 
