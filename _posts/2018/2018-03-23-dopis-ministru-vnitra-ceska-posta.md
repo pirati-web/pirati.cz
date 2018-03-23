@@ -16,6 +16,8 @@ Piráti především žádají, aby byla zohledněna jasná personální strateg
 > “Panu ministrovi jsme nabídli odbornou pomoc a spolupráci především v oblasti třetího bodu, který navazuje na zavádění e-Governmentu. Elektronizace státní správy je totiž jedním z našich stěžejních programových bodů,” uvedl pod dopisem podepsaný poslanec Holomčík.
 
 
+
+
 ### Znění otevřeného dopisu adresovaného ministru vnitra Lubomíru Metnarovi
 
 Vážený pane ministře,
@@ -35,8 +37,10 @@ Vážený pane ministře, žádáme Vás proto, abyste při výběrovém řízen
 Věříme, že tento apel a nabídka pomoci padnou na úrodnou půdu a jsme připraveni se s Vámi kdykoliv setkat.
 
 Za Poslanecký klub Pirátské strany
-
-
-    Ing. Ondřej Polanský					        Mgr. Radek Holomčík
-Člen Hospodářského výboru					    Místopředseda Pirátské strany
+Ing. Ondřej Polanský
+Člen Hospodářského výboru	
 Poslanecké sněmovny PČR
+
+Mgr. Radek Holomčík
+Místopředseda Pirátské strany
+
