@@ -2,9 +2,10 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Místní rozvoj
 fullname: Tým pro místní rozvoj
-img: teams/justice.jpg # obrázek nemusíte dodávat
-leader: ivan.bartos
-deputy:
+img: N/A # obrázek nemusíte dodávat
+leader: 
+- ivan.bartos
+deputy: N/A
 contact:
 - vera.marusiakova
 tags:
@@ -13,11 +14,10 @@ tags:
 - pohřebnictví
 - bytová politika
 category: resort
-redmine: 
-forum: 
-newsletter: 
-calendar: 0hc5kevgjdgvenr4tt7d34g7pc
-# id google kalendáře s událostmi
+redmine: N/A
+forum: N/A
+newsletter: N/A
+calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 ---
 
 Vítejte na stránce **týmu pro místní rozvoj**.
@@ -37,14 +37,14 @@ Jak se můžete zapojit?
 
 **Nabízíme šanci právníkům sáhnout si nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na <lukas.lev.cervinka@pirati.cz>. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na lukas.lev.cervinka@pirati.cz. Rádi vás pozveme na naše setkání.
 
 Fungování týmu
 ---------------
 
 Ústavně právní tým se schází podle potřeby, obvykle před schůzemi ústavněprávního výboru PSP ČR, a to většinou v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Lukáš Červinka a zápis se zveřejňuje [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
 
-Členové týmu jsou:
+"Členové týmu jsou:"
 
 * Jakub Michálek, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru,
 * Mikuláš Ferjenčík, místopředseda ústavně právního výboru, člen finančního podvýboru,
