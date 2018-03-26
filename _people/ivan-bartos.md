@@ -16,7 +16,7 @@ mail:
 mob:			   +420 603 415 378
 office: 
   - address: Jiřího náměstí 39, 290 33  Poděbrady
-    opening: 
+    opening: Pondělí 14:00 - 18:00, objednání návštěvy na kancelar-podebrady@pirati.cz nebo na 778 111 462
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
