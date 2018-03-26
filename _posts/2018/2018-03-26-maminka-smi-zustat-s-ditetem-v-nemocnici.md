@@ -1,46 +1,18 @@
 ---
-date:         2018-03-23
+date:         2018-03-26
 category:     blog
-tags:         česká-pošta
+tags:         zdravotnictví
 layout:       post
-title:        "Piráti v dopise ministrovi vnitra žádají lepší podmínky pro zaměstnance pošty"
+title:        "Reakce Pirátů na případ ústecké matky, které chtěl lékař odepřít setrvání se svým dítětem v nemocnici přes noc"
 image:        /assets/img/articles/2018/richterova.jpg
-author:       Jakub Dušánek
+author:       Karolína Sadílková
 ---
 
 
-Praha, 23. března 2018 - Pirátští poslanci Radek Holomčík a Ondřej Polanský zaslali otevřený dopis ministrovi vnitra Lubomíru Metnarovi (nestr. za ANO). Formulují v něm zásadní body, které by měly být brány v potaz ve výběrovém řízení na nového generálního ředitele České pošty. 
+Praha, 26. března 2018 – „Velmi si vážím práce lékařů, kteří ke své náročné profesi mají ještě za úkol reagovat lidsky, s empatií a pochopením. Případ kojící maminky měsíčního dítěte, na niž před dvěma dny ošetřující lékař dítěte v nemocnici v Ústí nad Labem zavolal policii proto, že chtěla u svého dítěte zůstat i přes noc, je ale v rozporu se zákony, vnitřním řádem nemocnice i zájmem dítěte. Rozumím tomu, že každý musí být ohleduplný k ostatním pacientům a dbát na provozní nároky oddělení. Jaký je ale rozdíl mezi přítomností maminky přes den a v noci? Není umožnění pobytu především věc změny zvyku, jakéhosi vystoupení ze zaběhaných kolejí?” komentuje celou věc místopředsedkyně Pirátů Olga Richterová. Policie se navíc ve finále vyjádřila tak, že matka neporušila vnitřní řád a mohla tak na oddělení zůstat. Lékař tak mohl ušetřit výjezd policie.
 
-Piráti především žádají, aby byla zohledněna jasná personální strategie, která zlepší postavení zaměstnanců a zabrání jejich přetěžování nesmyslnými požadavky na prodej losů nebo finančních služeb a pošta dodržovala zákonné pauzy zaměstnanců. Vedle toho by měl nový ředitel reagovat na pokles počtu zákazníků zlepšením a rozšířením poštovních služeb, především v oblasti doručování. Třetím klíčovým okruhem je podpora digitalizace a zvyšování kvality služeb Czech point, která už dnes částečně tvoří spojnici mezi občanem a státní správou. 
+Garant Pirátů pro oblast zdravotnictví Zdeněk Hřib zdůrazňuje: 
 
-> “Panu ministrovi jsme nabídli odbornou pomoc a spolupráci především v oblasti třetího bodu, který navazuje na zavádění e-Governmentu. Elektronizace státní správy je totiž jedním z našich stěžejních programových bodů,” uvedl pod dopisem podepsaný poslanec Holomčík.
+> „Je nutné zlepšit právní povědomí lékařů o jejich právech a povinnostech dle aktuální legislativy. Ze zdravotního hlediska je dále důležité, že přítomnost rodiče má na dítě uklidňující vliv a lékařům a sestrám ulevuje v jejich práci, protože může dítě zklidnit a utišit.“ V této souvislosti Piráti žádají Ministerstvo zdravotnictví ČR, aby ve spolupráci s Českou lékařskou komorou podpořilo mezi odbornou veřejností osvětu o prospěšnosti kojení a přítomnosti blízké pečující osoby při hospitalizaci zejména u malých dětí.
 
-
-
-
-### Znění otevřeného dopisu adresovaného ministru vnitra Lubomíru Metnarovi
-
-Vážený pane ministře,
-
-obracíme se na Vás jménem Poslaneckého klubu Pirátské strany s žádostí týkající se výběrového řízení na pozici generálního ředitele České pošty, s. p. 
-
-Jedná se o důležitý podnik z hlediska služeb občanům a elektronizace státní správy, který je také významným zaměstnavatelem. Proto považujeme za důležité, aby byl nový ředitel vybrán pečlivě, a aby ve výběrovém řízení byly kladeny tyto požadavky na kandidáty:
-
-1.	Personální strategie, která zlepší postavení zaměstnanců. Špatné podmínky zaměstnanců a zaměstnankyň České pošty jsou všeobecně známy. Nesmyslné osobní plány, kdy pracovnice a pracovníci za přepážkou musí prodávat losy a bankovní služby, doručovatelky a doručovatelé jsou neúměrně zatěžováni množstvím obchodních letáků a řidiči a řidičky často nemohou plnit zákonem vyžadované pauzy, obzvláště s přihlédnutím k velmi nízkým mzdám, jsou u státního podniku alarmující.
-
-2.	Rozšíření služeb a větší komfort pro zákazníky. Česká pošta dle dostupných údajů ztrácí zákazníky a v minulosti na to její vedení nedokázalo vhodně reagovat (místo řešení problémů zdražilo služby). Myslíme si, že si její zákazníci zaslouží zlepšení kvality doručování, větší nabídku služeb (a tím myslíme služby poštovní, nikoliv prodej bankovních služeb jiných společností či hraček), personální posílení a lepší zaškolování do procesů.
-
-3.	Plán podpory digitalizace české státní správy. Česká pošta již plní částečně funkci rozhraní mezi občanem a státní správou, a to díky službám Czech point. Politické strany napříč spektrem slibovaly zavádění e-Governmentu a Česká pošta může, bude-li tato problematika nyní vhodně uchopena, v budoucnu tvořit jeden z pilířů elektronické státní správy.
-
-Vážený pane ministře, žádáme Vás proto, abyste při výběrovém řízení námi uvedené aspekty v maximální možné míře zohlednil. Zároveň, v rámci konstruktivního přístupu, který jsme veřejnosti slíbili, Vám nabízíme odbornou pomoc, zejména s výše uvedeným bodem č. 3.
-
-Věříme, že tento apel a nabídka pomoci padnou na úrodnou půdu a jsme připraveni se s Vámi kdykoliv setkat.
-
-Za Poslanecký klub Pirátské strany
-
-Ing. Ondřej Polanský<br/>
-Člen Hospodářského výboru Poslanecké sněmovny PČR
-
-Mgr. Radek Holomčík<br/>
-Místopředseda Pirátské strany
 

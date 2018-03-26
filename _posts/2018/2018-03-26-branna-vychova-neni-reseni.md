@@ -3,8 +3,7 @@ date:         2018-03-26
 category:     blog
 tags:         školství
 layout:       post
-title:        "Sounáležitost se nerodí militantní výchovou, ale správnou výukou historie a kultury, říkají Piráti
-"
+title:        "Sounáležitost se nerodí militantní výchovou, ale správnou výukou historie a kultury, říkají Piráti"
 image:        /assets/img/articles/2018/kozlova-lenka.jpg
 author:       Jakub Dušánek
 ---
