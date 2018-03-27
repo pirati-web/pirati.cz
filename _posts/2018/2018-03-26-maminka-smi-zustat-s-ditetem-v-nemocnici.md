@@ -4,7 +4,7 @@ category:     blog
 tags:         zdravotnictví
 layout:       post
 title:        "Reakce Pirátů na případ ústecké matky, které chtěl lékař odepřít setrvání se svým dítětem v nemocnici přes noc"
-image:        /assets/img/articles/2018/richterova.jpg
+image:        /assets/img/articles/2018/richterova4.jpg
 author:       Karolína Sadílková
 ---
 
