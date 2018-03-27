@@ -11,7 +11,7 @@ deputy:
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
-url: https://www.pirati.cz/regiony/olomoucko/start
+url: https://olomoucky.pirati.cz
 categories:
 - regiony
 tags:
@@ -27,7 +27,7 @@ V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je naší z
 
 Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://wiki.pirati.cz/regiony/olomoucko/piratska_tvrz/start)), [Olomouci](https://wiki.pirati.cz/regiony/olomoucko/olomouc/start), [Prostějově](https://wiki.pirati.cz/regiony/olomoucko/prostejov/start), [Přerově](https://wiki.pirati.cz/regiony/olomoucko/prerov/start) a nově na [Šumpersku](https://wiki.pirati.cz/regiony/olomoucko/sumpersko/start).
 
-Další informace můžete nalézt na [starém webu](https://wiki.pirati.cz/regiony/olomoucko/start).
+Další informace můžete nalézt na [novém webu](https://olomoucky.pirati.cz).
 
 Možnosti zapojení:
 
