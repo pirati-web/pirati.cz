@@ -4,7 +4,7 @@ category:     blog
 tags:         gibs
 layout:       post
 title:        "Piráti budou žádat vysvětlení ve věci zproštění služby ředitele GIBS"
-image:        /assets/img/articles/2018/ivan-bartos-balkonek.jpg
+image:        /assets/img/articles/2018/ivan-bartos-balkonek.JPG
 author:       Jakub Dušánek
 ---
 
