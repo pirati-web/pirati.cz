@@ -3,7 +3,7 @@ date:         2018-03-28
 category:     blog
 tags:         zahraničí
 layout:       post
-title:        "Piráti přivítali ve Sněmovně zástupce Dalajlámy"
+title:        "Piráti přivítali ve Sněmovně zástupce dalajlámy"
 image:        /assets/img/articles/2018/dalajlama.jpg
 author:       Karolína Sadílková
 ---
