@@ -4,7 +4,7 @@ category:     blog
 tags:         digitalizace
 layout:       post
 title:        "Pirát Bartoš: eIDENTITA – Evoluce v digitalizaci nestačí. Potřebujeme skutečnou revoluci"
-image:        /assets/img/articles/2018/eidas.JPG
+image:        /assets/img/articles/2018/eidas2.JPG
 author:       Karolína Sadílková
 ---
 
