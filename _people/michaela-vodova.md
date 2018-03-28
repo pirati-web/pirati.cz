@@ -8,7 +8,7 @@ img: people/michaela-vodova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro kraj Vysočina # kratký popis, max 160 znaků
 mail:
 - michaela.vodova@pirati.cz
-mob: 770 113 639
+mob: 602 276 233
 profiles:
   github:
   facebook: https://www.facebook.com/michaela.vodova
