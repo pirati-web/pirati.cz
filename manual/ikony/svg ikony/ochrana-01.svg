@@ -1,0 +1,24 @@
+<svg id="ochrana" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #000119;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="32.4" y="25.99" width="76.76" height="90.09"/>
+    </clipPath>
+  </defs>
+  <title>ochrana</title>
+  <g class="cls-2">
+    <path class="cls-3" d="M98.66,63.25a31.55,31.55,0,0,1-1.14,7.87l-26.74,0v34.24a55.58,55.58,0,0,1-18.41-15C47.44,84,45,76.62,43.76,71.09h27V41.34l27.88,6.33Zm-3.15-32-.16,5L79.61,32.58v-4.5L70.78,26l-8.83,2.09v4.5L46.21,36.27l-.16-5L32.4,34.5V63.25S33.14,82,44.12,96a65.12,65.12,0,0,0,26.66,20.07A65.17,65.17,0,0,0,97.44,96c11-14,11.72-32.76,11.72-32.76V34.5Z"/>
+  </g>
+</svg>

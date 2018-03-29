@@ -1,0 +1,24 @@
+<svg id="mistni_rozvoj" data-name="mistni rozvoj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #000119;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="13.49" y="26.89" width="114.58" height="88.3"/>
+    </clipPath>
+  </defs>
+  <title>mistni rozvoj</title>
+  <g class="cls-2">
+    <path class="cls-3" d="M107.12,68.14V59h6.47v9.16h8.49V56.55L110.36,44.83,98.63,56.55v3.68l7.9,7.9ZM77.95,63,51.68,89.23v26h19V94.66H85.2v20.52h19v-26ZM42.54,40.88,23.3,60.11v19H37.16l.07-.07v-15H47.84v4.34L59,57.31ZM61.17,55.16,66,50.34,42.54,26.89l-29,29L15,57.41a5.11,5.11,0,0,0,6.52.17L42.54,36.52Zm56.45,28.36L77.95,43.84,38.27,83.52l2,2a7,7,0,0,0,8.9.23L77.95,57l28.72,28.72a7,7,0,0,0,8.83-.09ZM128.07,54,110.36,36.29,92.64,54l.9.9a3.11,3.11,0,0,0,4,.1l12.84-12.84L123.18,55a3.12,3.12,0,0,0,3.94,0Z"/>
+  </g>
+</svg>
