@@ -4,7 +4,7 @@ category:     blog
 tags:         doprava
 layout:       post
 title:        "Piráti uspořádali konferenci ke změně volebního systému do Senátu, chtějí zrušit druhé kolo"
-image:        /assets/img/articles/2018/senatni-volby-seminar.jpg
+image:        /assets/img/articles/2018/senatni-volby-seminar.JPG
 author:       Jakub Dušánek
 ---
 
