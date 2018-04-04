@@ -15,7 +15,7 @@ mob:			  +420 737 943 770
 office: 
   - address: Sladkovského 482, 530 02 Pardubice
     opening: pondělí 9:00 - 11:00, čtvrtek 14:00 - 16:00, po domluvě na tel. č. 604 794 181
-asisteni:
+asistenti:
   - name: Lucie Procházková
     mail: lucie.prochazkova@pirati.cz
     tel: +420 604 794 181
