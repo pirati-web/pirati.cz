@@ -13,11 +13,14 @@ mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
 office: 
-  - address: Sladkovského 482, 530 02  Pardubice
-    opening:
+  - address: Sladkovského 482, 530 02 Pardubice
+    opening: pondělí 9:00 - 11:00, čtvrtek 14:00 - 16:00, po domluvě na tel. č. 604 794 181
 asisteni:
   - name: Lucie Procházková
+  - mob: +420 604 794 181
+  - mail: lucie.prochazkova@pirati.cz
   - name: Jiří Valenta    
+
 profiles:
   github:       https://github.com/mifer
   facebook:     https://www.facebook.com/mikfer
