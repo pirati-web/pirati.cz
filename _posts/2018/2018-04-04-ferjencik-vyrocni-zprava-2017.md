@@ -17,6 +17,5 @@ Již v závěru předvolební kampaně, v říjnu 2017, uvedla organizace Transp
 
 ### Odkazy
 
-[Výroční finanční zprávu České pirátské strany za rok 2017] 
-(https://zpravy.udhpsh.cz/zprava/vfz2017/pirati)
+[Výroční finanční zpráva České pirátské strany za rok 2017] (https://zpravy.udhpsh.cz/zprava/vfz2017/pirati)
 
