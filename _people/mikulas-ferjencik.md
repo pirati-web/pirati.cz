@@ -20,7 +20,6 @@ asisteni:
   - mob: +420 604 794 181
   - mail: lucie.prochazkova@pirati.cz
   - name: Jiří Valenta    
-
 profiles:
   github:       https://github.com/mifer
   facebook:     https://www.facebook.com/mikfer
