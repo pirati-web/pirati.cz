@@ -5,7 +5,7 @@ tags:         bydlení
 layout:       post
 title:        "Piráti byli jednat na MMR kvůli problematice bydlení"
 image:        /assets/img/articles/2018/bartos-richterova-simral.jpg
-author:       Karolína Sadílková
+author:       Jakub Dušánek
 ---
 
  
