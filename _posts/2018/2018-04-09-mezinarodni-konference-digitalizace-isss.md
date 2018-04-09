@@ -9,7 +9,7 @@ author:       Jakub Dušánek
 ---
 
  
-Hradec Králové, 9. dubna 2018 – Šéf Pirátů a předseda sněmovního Výboru pro pro veřejnou správu a regionální rozvoj Ivan Bartoš dnes jako jeden z hlavních hostů zahájil konferenci Internet ve státní správě a samosprávě (ISSS) konající se v Hradci Králové. Akce je zaměřená na rozvoj informační společnosti a e-Governmentu a tradičně ji doprovází visegrádská konference Visegrad Four for Developing Information Society (V4DIS). Společně s Ivanem Bartošem se konference účastní i část členů zmíněného sněmovního výboru.
+Hradec Králové, 9. dubna 2018 – Šéf Pirátů a předseda sněmovního Výboru pro veřejnou správu a regionální rozvoj Ivan Bartoš dnes jako jeden z hlavních hostů zahájil konferenci Internet ve státní správě a samosprávě (ISSS) konající se v Hradci Králové. Akce je zaměřená na rozvoj informační společnosti a e-Governmentu a tradičně ji doprovází visegrádská konference Visegrad Four for Developing Information Society (V4DIS). Společně s Ivanem Bartošem se konference účastní i část členů zmíněného sněmovního výboru.
  
 > „Dlouho se o digitalizaci státu jen mluví. Spuštěné elektronické registry vznikly bez jakékoliv provázanosti a koncepce, o e-Governmentu se vůbec nedá hovořit. Naše společnost má přitom relativně vysokou míru počítačové gramotnosti. Problém tedy není na straně občanů ani samotných úředníků, ale v neochotě připravit smysluplnou odbornou koncepci a učinit patřičná politická rozhodnutí. Proto se rád setkám s vládním zmocněncem pro IT a digitalizaci panem Vladimírem Dzurillou, abychom probrali koncept digitální Česko,“ říká Ivan Bartoš.
  
