@@ -2,10 +2,9 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Místní rozvoj
 fullname: Tým pro místní rozvoj
-img: N/A # obrázek nemusíte dodávat
+img: teams/teams-placeholder.jpg # obrázek nemusíte dodávat
 leader: 
 - ivan.bartos
-deputy: N/A
 contact:
 - vera.marusiakova
 tags:
@@ -14,9 +13,6 @@ tags:
 - pohřebnictví
 - bytová politika
 category: resort
-redmine: N/A
-forum: N/A
-newsletter: N/A
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 ---
 
