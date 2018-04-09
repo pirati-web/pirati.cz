@@ -3,7 +3,7 @@ date:         2018-04-09
 category:     blog
 tags:         jihočeský-kraj
 layout:       post
-title:        "Predseda strany Bartoš otevřel jihočeské ČePiCe"
+title:        "Předseda strany Bartoš otevřel jihočeské ČePiCe"
 image:        /assets/img/articles/2018/ivan-cb.jpg
 author:       Zbyněk Konvička
 ---
