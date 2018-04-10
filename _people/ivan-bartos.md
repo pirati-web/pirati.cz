@@ -16,7 +16,7 @@ mail:
 mob:			   +420 603 415 378
 office: 
   - address: Jiřího náměstí 39, 290 33  Poděbrady
-    opening: 
+    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462"
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
@@ -37,6 +37,7 @@ carousel:
   text: |
     <p><strong>Předseda strany</strong>, celostátní lídr a garant volebního programu Pirátů v oblasti obrany a kyberbezpečnosti</p>
     <p>PhDr. Ivan Bartoš vystudoval informační vědu a knihovnictví. Profesí je systémový a databázový architekt. Vystupuje jako DJ a hudebník, angažuje se v aktivitách souvisejících s DIY kulturou. </p>
+calendar: iv0smi3uu85k9pu53o4an8ejuk
 
 ---
 
