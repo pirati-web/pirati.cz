@@ -1,5 +1,5 @@
 ---
-date:         2018-04-09
+date:         2018-04-10
 category:     blog
 tags:         životní-prostředí
 layout:       post
