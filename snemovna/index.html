@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-<script>
-  var milos = {};
-  milos.priorityStack = new Array();
-</script>
 <div class="l-micropage page--snemovna">
     <nav class="c-top-sub-nav u-center-860-down">
         <div class="row">
@@ -49,6 +45,11 @@ layout: default
     <section class="l-micropage__section row o-section" id="vykaz">
         <div class="small-12 columns">
             <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
+            <!---iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>--->
+            <select id="account_control"></select>
+            <div id="account_chart"></div>
+            <div id="account_table_wrapper" class="table-scroll"><table id="account_table" class="table-hover w-accounting__table"></table></div>
+            <hr/>
             <div class="row text-center">
                 <div class="columns medium-6">
                     <h4><a data-modal href="/snemovna/vydelky.html">Výdělky dodavatelů klubu</a></h4>
@@ -57,7 +58,37 @@ layout: default
                     <h4><a data-modal href="/snemovna/platy.html">Platy poslanců</a></h4>
                 </div>
             </div>
-            <iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <script>
+              pirates.priorityStack.push(function (context) {
+                // make new CORS for data
+                var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
+                if (!xhr) {
+                  alert('CORS not supported');
+                  return;
+                }
+                xhr.onload = function() {
+                  var doc = xhr.responseText;
+                  // Parse CSV to JS Object
+                  pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
+
+                  //create empty dataseries object - todo: could cache it with local storage
+                  pirates.dataseries = [];
+
+                  // Set default account
+                  pirates.accountChart = pirates.accounting.selectAccount('all');
+
+                  var ctrl = document.getElementById("account_control");
+                  // Fill control with options
+                  pirates.accounting.makeControls(ctrl);
+                  // Bind control handler
+                  ctrl.onchange=pirates.accounting.onAccountSelect;
+                }
+                xhr.onerror = function() {
+                  alert('Woops, there was an error making the request.');
+                };
+                xhr.send();
+              });
+            </script>
 
         </div>
     </section>
@@ -68,78 +99,5 @@ layout: default
     </section>
 
     <div class="l-micropage__modal" style="display: none"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 </div>
-
-
-
-<script>
-    milos.siteUrl = 'http://'+(document.location.hostname||document.location.host);
-    milos.modal_triggers = document.body.querySelectorAll("a[data-modal]");
-    milos.bindAjax = function(targets,root) {
-      for (i = 0; i < targets.length; ++i) {
-        // do whatever
-        targets[i].addEventListener("click", function(event) {
-          //your handler here
-          event.preventDefault();
-          var url = event.target.getAttribute('href');
-          var xhr = new XMLHttpRequest();
-          xhr.onload = function() {
-            var doc = this.responseXML;
-            var modal = document.getElementsByClassName("l-micropage__modal")[0];
-            var contentElement;
-            var html = '';
-            if (root === undefined) {
-              contentElement = doc.getElementsByTagName("BODY");
-            }else{
-              contentElement = doc.querySelectorAll(root);
-            }
-            for (j = 0; j < contentElement.length; ++j) {
-              var content = contentElement[j].innerHTML;
-              html = html + content;
-            }
-            modal.innerHTML = html;
-            modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
-            modal.style.display = 'block';
-            var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
-            closeTrigger.addEventListener("click", function(event) {
-              modal.innerHTML = '';
-              modal.style.display = 'none';
-              closeTrigger.outerHTML = "";
-              delete closeTrigger;
-            });
-            milos.executeQue(milos.priorityStack);
-          }
-
-          xhr.open("GET", url);
-          xhr.responseType = "document";
-          xhr.send();
-        }, false);
-      };
-    }
-    milos.executeQue = function (que) {
-      for(var q=0; q< que.length; q++){
-        que[q].call(this);
-      }
-    };
-
-    milos.createCORSRequest = function (method, url) {
-      var xhr = new XMLHttpRequest();
-      if ("withCredentials" in xhr) {
-        // XHR for Chrome/Firefox/Opera/Safari.
-        xhr.open(method, url, true);
-      } else if (typeof XDomainRequest != "undefined") {
-        // XDomainRequest for IE.
-        xhr = new XDomainRequest();
-        xhr.open(method, url);
-      } else {
-        // CORS not supported.
-        xhr = null;
-      }
-      return xhr;
-    }
-
-    milos.bindAjax(milos.modal_triggers);
-    milos.executeQue(milos.priorityStack);
-
-
-</script>

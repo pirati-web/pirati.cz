@@ -55,3 +55,37 @@
     }
   }
 }
+#account_control{
+  margin: auto;
+  max-width: 320px;
+}
+
+.w-accounting{
+  &__table{
+    width: 100% !important;
+  }
+  &__group{
+    &-heading{
+      font-weight: bold;
+      border-bottom: 1px solid rgba($black, .1);
+      td{
+        padding: .5*$unit 0;
+      }
+      input{
+        margin: 0 .5*$unit;
+      }
+
+      & + tbody{
+        display: none;
+      }
+      &--opened{
+        & + tbody{
+          display: table-row-group;
+        }
+      }
+    }
+  }
+}
+
+#account_table{
+}
