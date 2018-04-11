@@ -26,7 +26,7 @@ Podle dohody by mělo dojít k rozdělení na dva typy taxislužby, a to podle t
 
 **Taxi s majáčkem** by mělo mít i nadále právo na zvláštní jízdní pruhy a stanoviště a současně bude zrušena cenová regulace s výjimkou případů, kdy taxi zastavuje člověku na ulici na znamení. Pro taxi s majáčkem by patrně obec měla nadále zmocnění stanovit zkoušky z místopisu. Cena by měla být stanovena podle taxametru, takže v případě kolony by riziko nesl cestující a bylo by mu účtováno čekání podle taxametru.
 
-**Zprostředkovatelé** by měli žádat při splněných podmínkách Ministerstvo vnitra ČR o vydání povolení a v případě porušení povinností by jim bylo možné povolení odejmout. Česko by tak podobně jako Londýn mělo efektivní páky na Uber. Ten by také měl povinnost poskytovat výdaje finanční správě, a to po anonymizaci dat zákazníků a měl by udržovat aktuální databázi řidičů, kteří mají potřebná oprávnění.
+**Zprostředkovatelé** by měli žádat při splněných podmínkách Ministerstvo dopravy ČR o vydání povolení a v případě porušení povinností by jim bylo možné povolení odejmout. Česko by tak podobně jako Londýn mělo efektivní páky na Uber. Ten by také měl povinnost poskytovat výdaje finanční správě, a to po anonymizaci dat zákazníků a měl by udržovat aktuální databázi řidičů, kteří mají potřebná oprávnění.
 
 Na problémové případy taxislužby myslí zvýšení kauce v případě přestupku ze 100 000 Kč na 250 000 Kč, které řeší malou vymahatelnost práva u několika problémových taxikářů, např. na pražském magistrátu.
 
