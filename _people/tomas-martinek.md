@@ -12,14 +12,18 @@ mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
 asistenti:
+  - name: Ing. Lukáš Forýtek
+    mail: asistent@tomas-martinek.eu
   - name: RNDr. Martin Rejman, Ph.D.
-    mail: martin.rejman@pirati.cz
+    mail: asistent@tomas-martinek.eu
     tel:  739 264 791
   - name: Marek Förster
-  - name: Lukáš Forýtek
+    mail: jablonec@tomas-martinek.eu
   - name: Petr Jeník
+    mail: ceskalipa@tomas-martinek.eu
 office:
-  - address: Děčínská 361, 470 01  Česká Lípa
+  - address: Děčínská 361, 470 01 Česká Lípa
+    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(setkání přímo s poslancem nutno domluvit předem na ceskalipa@tomas-martinek.eu)
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
@@ -31,6 +35,7 @@ ordpsp: 15
 report: 1tfdbp6uRvwW8FjrqtZay5p23zILXLk4m/page/BhtL
 redmine: 315
 ---
+### Životopis
 
 Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
 
@@ -43,6 +48,25 @@ V Pirátské straně působil jako registrovaný příznivec od roku 2012. V r
 Tomáš Martínek pochází z České Lípy. Kromě bydliště v České Lípě využívá také pracovní byt v Horoměřicích u Prahy, odkud dojíždí do práce. V současné době žije s přítelkyní a kočkou.
 
 Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. Informace o aktuálním dění najdete i na jeho facebookovém [profilu](https://www.facebook.com/tmartinek).
+
+Poslanecká sněmovna
+-------------------
+
+### Výbory poslance
+- Volební výbor, místopředseda
+- Kontrolní výbor
+
+### Komise poslance
+- Stálá komise pro kontrolu poskytnutí údajů z centrální evidence účtů
+
+### Podvýbory poslance
+- Podvýbor pro bankovnictví, pojišťovnictví a finanční trhy (Rozpočtový výbor), místopředseda
+- Podvýbor pro podnikatelské prostředí (Hospodářský výbor)
+- Podvýbor pro ICT, telekomunikace & digitální ekonomiku (Hospodářský výbor)
+- Podvýbor pro vědu a vysoké školy (Výbor pro vědu, vzdělání, kulturu, mládež a tělovýchovu)
+- Podvýbor pro svobodu slova a média (Petiční výbor)
+- Podvýbor pro e-government (Výbor pro veřejnou správu)
+
 
 Kalendář
 --------
