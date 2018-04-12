@@ -17,3 +17,7 @@ E-neschopenka přináší mnoho výhod. Umožňuje zaměstnanci jít po návšt�
 > „Jde o dobrovolnou, nepovinnou možnost, doplňující současné vystavování neschopenky v papírové podobě, která nyní k zaměstnavateli putuje poštou, anebo ji tam doručuje sám nemocný zaměstnanec. Legislativní podmínky pro e-neschopenku jsou nastaveny. Vše je připraveno k zavedení. Nevidíme důvod k obstrukcím, které se dějí na ministerstvu. Úřady mají obíhat data, ne lidé!“ kritizuje situaci pirátská poslankyně Olga Richterová, která je zároveň členkou výborů pro sociální politiku i zdravotnictví.
 
 > „E-neschopenka je krásný příklad toho, jak by mohla fungovat digitalizace státu. Přináší benefity všem zúčastněným stranám, ulehčuje jim práci, šetří prostředky a energii a je nepovinná. Mrzí mě, že zrovna takový projekt, který mohl bez problémů od nové roku fungovat, je nyní odložen. Nekoresponduje to s prohlášením Babišovy vlády, která tvrdí, že digitalizace státu je její prioritou,“ uzavírá Pirát Kolářík.
+
+### Odkazy 
+
+* [Olga Richterová a Lukáš Kolařík k problematice e-neschopenek](https://www.facebook.com/ceska.piratska.strana/videos/10155740966299039/)
