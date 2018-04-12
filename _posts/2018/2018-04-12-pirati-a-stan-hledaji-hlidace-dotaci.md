@@ -15,3 +15,5 @@ Praha, 12. dubna 2018 - Piráti chtějí, aby měla opozice možnost účinněji
 Výzva k nominaci přišla na poslední chvíli, v úterý 10. dubna odpoledne. Termín odevzdání jmen kandidátů Volebnímu výboru je přitom už ve čtvrtek 19. dubna v 16 hodin. Výběrové řízení proběhne o den dříve. Poslanecká sněmovna pak musí zvolit nového předsedu a dva členy dozorčí rady. Ve výběrové komisi bude kromě zástupce Pirátů a hnutí STAN také nezávislý odborník. Klíčovým kritériem pro výběr vhodného kandidáta je odbornost, profesní zkušenosti, nezávislost a bezúhonnost. Kandidát také nesmí být jakýmkoliv způsobem napojen na zákulisní lobby. 
 
 > „Pro Piráty je otevřené výběrové řízení s předem stanovenými pravidly standard. Jsme rádi, že se nám daří měnit politické prostředí a že s námi ostatní strany spolupracují ve stejném duchu,“ uzavírá pirátský poslanec Tomáš Martínek. 
+
+[Podrobné informace a přihlášení do výběrového řízení](https://forum.pirati.cz/viewtopic.php?f=572&t=40802)
