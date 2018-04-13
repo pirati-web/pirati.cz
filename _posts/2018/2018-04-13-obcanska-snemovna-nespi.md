@@ -12,7 +12,7 @@ Praha, 13. dubna 2018 - Piráti pokračují v plánovaném projektu “Občansk�
 
 > „Hlavní kritéria, která budeme klást na kandidáty o tuto spolupráci, jsou zejména nabídnutá cena, předchozí reference, splnění námi zadaných požadavků a rychlost dodání. Občanskou sněmovnu chceme spustit do konce letních prázdnin,” uvádí předseda České pirátské strany Ivan Bartoš.
 
-Zájemci se mohou přihlásit na Pirátském fóru, kde je k dispozici i náhled smlouvy. Finální nabídka bude zveřejněna do 4. května 2018.
+Zájemci se mohou přihlásit na [Pirátském fóru](https://forum.pirati.cz/viewtopic.php?f=572&t=40866), kde je k dispozici i náhled smlouvy. Finální nabídka bude zveřejněna do 4. května 2018.
 
 Občanská sněmovna vysvětlí, které kroky se v jaké fází tvorby legislativy mohou a nemohou dělat a proč, které fáze tvorby legislativy jsou zásadní, které formální a mnoho dalšího. Portál zajistí přístup k připomínkovému řízení a celou legislativu tak zprůhlední a ztransparentní. Vznikne tak široká mezioborová platforma, kde se bude otevřeně diskutovat a připomínkovat vybraná legislativa a její sporné otázky. Zapojit by se měli zástupci odborné veřejnosti, akademického i komerčního sektoru, oborových sdružení, nevládních organizací a opozičních či neparlamentních stran. Cílem je získat a hlavně zpřístupnit další odborný vhled na specifické problémy, u kterých v současnosti za odborníky vystupují zejména najatí lobbisté.
 
