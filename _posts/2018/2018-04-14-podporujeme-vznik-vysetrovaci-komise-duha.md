@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/syria.jpg
 author:       Karolína Sadílková
 ---
 
-Praha, 14. dubna 2018 – Piráti žádají všechny zúčastněné strany nočního útoku v Sýrii o maximální zdrženlivost, deskalaci konfliktu a obnovení mírových jednání. Noční útok Spojených států, Velké Británie a Francie na cíle v Sýrii byl motivován snahou potrestat syrský režim za použití chemických zbraní ve městě Dúmá. Rusko pohrozilo odvetnými kroky. Pirátská strana odsuzuje používání chemických zbraní. Plně podporujeme vznik a činnost mezinárodní vyšetřovací komise, která by objasnila události ve městě Dúmá a jejich původce.
+Praha, 14. dubna 2018 – Piráti žádají všechny zúčastněné strany nočního útoku v Sýrii o maximální zdrženlivost, deeskalaci konfliktu a obnovení mírových jednání. Noční útok Spojených států, Velké Británie a Francie na cíle v Sýrii byl motivován snahou potrestat syrský režim za použití chemických zbraní ve městě Dúmá. Rusko pohrozilo odvetnými kroky. Pirátská strana odsuzuje používání chemických zbraní. Plně podporujeme vznik a činnost mezinárodní vyšetřovací komise, která by objasnila události ve městě Dúmá a jejich původce.
 
 V tomto okamžiku nicméně není známo, že by Organizace pro zákaz chemických zbraní potvrdila, že se skutečně jednalo o chemický útok. Akce, které mají směřovat k jeho potrestání, jsou v tuto chvíli předčasné. Předseda Pirátů Ivan Bartoš k tomu říká: 
 
