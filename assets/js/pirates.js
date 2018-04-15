@@ -327,8 +327,8 @@ pirates.accounting.toggleRow = function(event){
 }
 
 // Add options to account select based on available data
-pirates.accounting.makeControls = function(ctrl) {
-  var accounts = Object.keys(pirates.accountingData.byAccount);
+pirates.accounting.makeControls = function(ctrl, data) {
+  var accounts = Object.keys(data);
   var option = document.createElement('option');
   option.value = 'all';
   for(var i=0; i<accounts.length;i++){
