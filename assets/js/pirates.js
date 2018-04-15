@@ -148,7 +148,6 @@ pirates.accounting.reformatStructure = function(array){
   for( var i in array ){
     var split = array[i].date.split('.');
     //only care bout past
-    console.log(Number(split[2])+'/'+Number(split[1])+'/'+y+'/'+m);
     if(Number(split[2]) < y || (Number(split[2]) == y && Number(split[1]) <= m)){
       var reformatedPeriod = split[2]+'/'+("0" + split[1]).slice(-2);
       array[i].amount = parseInt(array[i].amount.replace('"',''));
@@ -224,7 +223,6 @@ pirates.accounting.selectAccount = function(account) {
   if(typeof(pirates.accountChart) == 'object'){
     pirates.accountChart.destroy();
     chartWrapper.innerHTML = '';
-    //console.log(pirates.accountChart);
   }
 
   // if series not in cache prep them
@@ -279,7 +277,6 @@ pirates.accounting.makeTable = function(tableElement, account, cols) {
   var colsKeys = Object.keys(cols);
   for(var i=0; i<colsKeys.length;i++){
     var td = document.createElement('td');
-    console.log(cols[colsKeys[i]]);
     td.innerHTML = cols[colsKeys[i]];
     tr.appendChild(td);
   };
@@ -324,7 +321,6 @@ pirates.accounting.makeTbody = function(array,cols){
 
 // Handle the click on row control - toggle groups
 pirates.accounting.toggleRow = function(event){
-  //console.log(this);
   var parent = this.parentNode;
   var grandParent = parent.parentNode;
   grandParent.classList.toggle('w-accounting__group-heading--opened');

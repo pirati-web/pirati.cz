@@ -71,7 +71,6 @@ layout: default
                 xhr.onload = function() {
                   var doc = xhr.responseText;
                   // Parse CSV to JS Object
-                  console.log(pirates.csvToJSON(doc));
                   pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
 
                   //create empty dataseries object - todo: could cache it with local storage
