@@ -55,6 +55,7 @@
     }
   }
 }
+
 #account_control{
   margin: auto;
   max-width: 320px;
@@ -67,7 +68,7 @@
   &__group{
     &-heading{
       font-weight: bold;
-      border-bottom: 1px solid rgba($black, .1);
+      border-bottom: 1px solid rgba($black, .05);
       td{
         padding: .5*$unit 0;
       }
@@ -87,5 +88,14 @@
   }
 }
 
+.u-sticky{
+  position: sticky;
+  top:0;
+  text-align: center;
+  background: white;
+  border-bottom: 1px solid rgba($black, .05);
+  margin-bottom: $unit;
+  padding-bottom: $unit;
+}
 #account_table{
 }

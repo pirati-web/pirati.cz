@@ -46,10 +46,12 @@ layout: default
         <div class="small-12 columns">
             <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
             <!---iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>--->
-            <select id="account_control"></select>
+            <div class="u-sticky">
+                <label class="prefix">Zvolte účet:</label>
+                <select id="account_control"></select>
+            </div>
             <div id="account_chart"></div>
             <div id="account_table_wrapper" class="table-scroll"><table id="account_table" class="table-hover w-accounting__table"></table></div>
-            <hr/>
             <div class="row text-center">
                 <div class="columns medium-6">
                     <h4><a data-modal href="/snemovna/vydelky.html">Výdělky dodavatelů klubu</a></h4>
@@ -69,6 +71,7 @@ layout: default
                 xhr.onload = function() {
                   var doc = xhr.responseText;
                   // Parse CSV to JS Object
+                  console.log(pirates.csvToJSON(doc));
                   pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
 
                   //create empty dataseries object - todo: could cache it with local storage

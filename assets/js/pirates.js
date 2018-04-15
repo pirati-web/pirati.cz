@@ -136,43 +136,51 @@ pirates.csvToJSON = function (csv){
 pirates.accounting = {};
 
 // Default url for data
-pirates.accounting.dataUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQrizm8fnK5qaLeUKOvqi7r19kC8TNB3hVT_LTh_1Ma1fKyBvOjiisyVJg-Qc3Nlcq1VHnMzg25_nPc/pubhtml?gid=0&single=true';
+pirates.accounting.dataUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQrizm8fnK5qaLeUKOvqi7r19kC8TNB3hVT_LTh_1Ma1fKyBvOjiisyVJg-Qc3Nlcq1VHnMzg25_nPc/pub?gid=0&single=true&output=csv';
 
 // Take raw processed CSV -> Object and reformat it for easier calculations
 pirates.accounting.reformatStructure = function(array){
   var newStructure = {};
+  var d = new Date();
+  var y = d.getFullYear();
+  var m = d.getMonth() + 1;
   newStructure.byAccount = {};
   for( var i in array ){
-    var split = array[i].period.split('/');
-    var reformatedPeriod = split[1]+'/'+("0" + split[0]).slice(-2);
-    if( typeof(newStructure.byAccount['all']) == "undefined"){
-      newStructure.byAccount['all'] = [];
-    }
-    if( typeof(newStructure.byAccount['all'][reformatedPeriod]) == "undefined"){
-      newStructure.byAccount['all'][reformatedPeriod] = [];
-      newStructure.byAccount['all'][reformatedPeriod].sum = 0;
-      newStructure.byAccount['all'][reformatedPeriod].incomes = 0;
-      newStructure.byAccount['all'][reformatedPeriod].expenses = 0;
-    }
-    if( typeof(newStructure.byAccount[array[i].account]) == "undefined"){
-      newStructure.byAccount[array[i].account] = [];
-    }
-    if( typeof(newStructure.byAccount[array[i].account][reformatedPeriod]) == "undefined"){
-      newStructure.byAccount[array[i].account][reformatedPeriod] = [];
-      newStructure.byAccount[array[i].account][reformatedPeriod].sum = 0;
-      newStructure.byAccount[array[i].account][reformatedPeriod].incomes = 0;
-      newStructure.byAccount[array[i].account][reformatedPeriod].expenses = 0;
-    }
-    newStructure.byAccount['all'][reformatedPeriod].push(array[i]);
-    newStructure.byAccount['all'][reformatedPeriod].sum += Number(array[i].amount);
-    newStructure.byAccount[array[i].account][reformatedPeriod].push(array[i]);
-    newStructure.byAccount[array[i].account][reformatedPeriod].sum += Number(array[i].amount);
-    if(array[i].amount < 0){
-      newStructure.byAccount[array[i].account][reformatedPeriod].expenses += Number(array[i].amount);
-      newStructure.byAccount['all'][reformatedPeriod].expenses += Number(array[i].amount);
-    }else {
-      newStructure.byAccount[array[i].account][reformatedPeriod].incomes += Number(array[i].amount);
-      newStructure.byAccount['all'][reformatedPeriod].incomes += Number(array[i].amount);
+    var split = array[i].date.split('.');
+    //only care bout past
+    console.log(Number(split[2])+'/'+Number(split[1])+'/'+y+'/'+m);
+    if(Number(split[2]) < y || (Number(split[2]) == y && Number(split[1]) <= m)){
+      var reformatedPeriod = split[2]+'/'+("0" + split[1]).slice(-2);
+      array[i].amount = parseInt(array[i].amount.replace('"',''));
+      if( typeof(newStructure.byAccount['all']) == "undefined"){
+        newStructure.byAccount['all'] = [];
+      }
+      if( typeof(newStructure.byAccount['all'][reformatedPeriod]) == "undefined"){
+        newStructure.byAccount['all'][reformatedPeriod] = [];
+        newStructure.byAccount['all'][reformatedPeriod].sum = 0;
+        newStructure.byAccount['all'][reformatedPeriod].incomes = 0;
+        newStructure.byAccount['all'][reformatedPeriod].expenses = 0;
+      }
+      if( typeof(newStructure.byAccount[array[i].account]) == "undefined"){
+        newStructure.byAccount[array[i].account] = [];
+      }
+      if( typeof(newStructure.byAccount[array[i].account][reformatedPeriod]) == "undefined"){
+        newStructure.byAccount[array[i].account][reformatedPeriod] = [];
+        newStructure.byAccount[array[i].account][reformatedPeriod].sum = 0;
+        newStructure.byAccount[array[i].account][reformatedPeriod].incomes = 0;
+        newStructure.byAccount[array[i].account][reformatedPeriod].expenses = 0;
+      }
+      newStructure.byAccount['all'][reformatedPeriod].push(array[i]);
+      newStructure.byAccount['all'][reformatedPeriod].sum += Number(array[i].amount);
+      newStructure.byAccount[array[i].account][reformatedPeriod].push(array[i]);
+      newStructure.byAccount[array[i].account][reformatedPeriod].sum += Number(array[i].amount);
+      if(array[i].amount < 0){
+        newStructure.byAccount[array[i].account][reformatedPeriod].expenses += Number(array[i].amount);
+        newStructure.byAccount['all'][reformatedPeriod].expenses += Number(array[i].amount);
+      }else {
+        newStructure.byAccount[array[i].account][reformatedPeriod].incomes += Number(array[i].amount);
+        newStructure.byAccount['all'][reformatedPeriod].incomes += Number(array[i].amount);
+      }
     }
   }
   return newStructure;
@@ -258,7 +266,7 @@ pirates.accounting.selectAccount = function(account) {
   // draw new table of accounting data
   var table = document.getElementById('account_table');
   table.innerHTML = '';
-  pirates.accounting.makeTable(table,account,['ID','account','amount']);
+  pirates.accounting.makeTable(table,account,{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad'});
 
   // return chart so it can be destroyed on redraw
   return mixedChart;
@@ -268,9 +276,11 @@ pirates.accounting.selectAccount = function(account) {
 pirates.accounting.makeTable = function(tableElement, account, cols) {
   var thead = document.createElement('thead');
   var tr = document.createElement('tr');
-  for(var i=0; i<cols.length;i++){
+  var colsKeys = Object.keys(cols);
+  for(var i=0; i<colsKeys.length;i++){
     var td = document.createElement('td');
-    td.innerHTML = cols[i];
+    console.log(cols[colsKeys[i]]);
+    td.innerHTML = cols[colsKeys[i]];
     tr.appendChild(td);
   };
   thead.appendChild(tr);
@@ -283,7 +293,7 @@ pirates.accounting.makeTable = function(tableElement, account, cols) {
     tr.classList.add("w-accounting__group-heading");
     tr.innerHTML = '<td colspan="' + tableKeys.length + 1 + '" class=""><input type="checkbox" class="w-accounting__group-control" onchange="pirates.accounting.toggleRow.call(this, event);">'+tableKeys[i]+'</td>'
     tableElement.appendChild(tr);
-    tableElement.appendChild(pirates.accounting.makeTbody(pirates.accountingData.byAccount[account][tableKeys[i]],cols));
+    tableElement.appendChild(pirates.accounting.makeTbody(pirates.accountingData.byAccount[account][tableKeys[i]],colsKeys));
   };
 }
 
@@ -298,7 +308,11 @@ pirates.accounting.makeTbody = function(array,cols){
     for(var e=0; e<keys.length;e++){
       if (cols.includes(keys[e])){
         var td = document.createElement('td');
-        td.innerHTML = array[i][keys[e]];
+        if(keys[e]=='invoice' && array[i][keys[e]].includes('https://')){
+          td.innerHTML = '<a href="'+array[i][keys[e]]+'" target="_blank"><i class="fa fa-external-link"></a>';
+        }else{
+          td.innerHTML = array[i][keys[e]];
+        }
         tr.appendChild(td);
       }
     };
