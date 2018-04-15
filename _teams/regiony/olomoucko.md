@@ -24,7 +24,7 @@ web: https://wiki.pirati.cz/regiony/olomoucko/start
 ---
 
 Pirátským poslanecem za Olomoucký kraj je [Vojtěch Pikal]({{ '/lide/vojtech-pikal' | relative_url }}).
-V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Přerově je Pirátem v zastupitelstvu [Martin Švadlenka]({{ '/lide/martin-svadlenka' | relative_url }}). V Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a Petr Lysek[Petr Lysek]({{ '/lide/petr-lysek' | relative_url }}).
+V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Přerově je Pirátem v zastupitelstvu [Martin Švadlenka](https://olomoucky.pirati.cz/lide/martin-svadlenka/). V Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a Petr Lysek[Petr Lysek](https://olomoucky.pirati.cz/lide/petr-lysek/).
 Petr Kapounek působí též v krajské komisi pro informatiku. V Olomouci zastupují v orgánech města Piráty Jakub Nepejchal, Vojtěch Pikal a další.
 
 Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://olomoucky.pirati.cz/mistni-sdruzeni/piratska-tvrz/)), [Olomouci](https://olomoucky.pirati.cz/mistni-sdruzeni/olomouc/), [Prostějově](https://olomoucky.pirati.cz/mistni-sdruzeni/prostejov/), [Přerově](https://olomoucky.pirati.cz/mistni-sdruzeni/prerov/) a nově na [Šumpersku](https://olomoucky.pirati.cz/mistni-sdruzeni/sumpersko/).
