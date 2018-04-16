@@ -75,8 +75,43 @@ layout: default
             {% if page.report %}
             <div id="report_poslance" class="tabs-panel">
               <h3>Poslanecký výkaz</h3>
-              <iframe height="750" src="https://datastudio.google.com/embed/reporting/{{page.report}}" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+              {% include accounting.html %}
+              <script>
+                pirates.priorityStack.push(function (context) {
+                  // make new CORS for data
+                  var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = xhr.responseText;
+                    // Parse CSV to JS Object
+                    pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
+
+                    //create empty dataseries object - todo: could cache it with local storage
+                    pirates.dataseries = [];
+
+                    // Set default account
+                    pirates.accountChart = pirates.accounting.selectAccount('Asistentovné {{page.name}}');
+
+                    var ctrl = document.getElementById("account_control");
+                    // Fill control with options
+                    pirates.accounting.makeControls(ctrl,{
+                      'Expertovné {{page.name}}': pirates.accountingData.byAccount['Expertovné {{page.name}}'],
+                      'Asistentovné {{page.name}}': pirates.accountingData.byAccount['Asistentovné {{page.name}}'],
+                    });
+                    // Bind control handler
+                    ctrl.onchange=pirates.accounting.onAccountSelect;
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
             </div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
             {% endif %}
 
             {% if page.report or page.redmine or page.calendar %}</div>{% endif %}

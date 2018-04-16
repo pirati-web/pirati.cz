@@ -7,9 +7,9 @@
 
 {% if include.redmine_id %}
 <script>
-  milos.priorityStack.push(function (context) {
+  pirates.priorityStack.push(function (context) {
     var url = 'https://redmine.pirati.cz/issues/{{ include.redmine_id }}.json';
-    var xhr = milos.createCORSRequest('GET', url);
+    var xhr = pirates.createCORSRequest('GET', url);
     if (!xhr) {
       alert('CORS not supported');
       return;
