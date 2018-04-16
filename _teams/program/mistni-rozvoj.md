@@ -41,7 +41,7 @@ Fungování týmu
 
 Tým veřejné správy a regionálního rozvoje se schází podle potřeby, obvykle před schůzemi výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
 
-"Členové týmu jsou:"
+Členové týmu jsou:
 
 * [Ivan Bartoš URL](https://www.pirati.cz/lide/ivan-bartos), předseda výboru pro veřejnou správu a regionální rozvoj
 * [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka výboru pro zdravotnictví, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí, 
