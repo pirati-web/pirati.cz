@@ -6,8 +6,8 @@ fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
 leader: petr.kapounek
 deputy:
-- vojtech.pikal
-- martin.smida
+- tomas.svoboda
+- radek.vojtek
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
@@ -20,10 +20,13 @@ facebook: https://www.facebook.com/piratiOlomoucko
 redmine: https://redmine.pirati.cz/projects/olk
 forum: https://forum.pirati.cz/olomoucky-kraj-f80/
 web: https://wiki.pirati.cz/regiony/olomoucko/start
+twitter: https://twitter.com/piratiOlomoucko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V Majetíně je pirátským zastupitelem Martin Šmída. V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Prostějově jsou zastupiteli města za Piráty Petr Kapounek a Petr Lysek. Petr Kapounek působí též v krajské komisi pro informatiku. V Přerově zastupuje v orgánech města Piráty Martin Švadlenka, v Olomouci Vojtěch Pikal, Jakub Nepejchal a další.
+Pirátským poslanecem za Olomoucký kraj je [Vojtěch Pikal]({{ '/lide/vojtech-pikal' | relative_url }}).
+V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Přerově je Pirátem v zastupitelstvu [Martin Švadlenka](https://olomoucky.pirati.cz/lide/martin-svadlenka/). V Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a Petr Lysek[Petr Lysek](https://olomoucky.pirati.cz/lide/petr-lysek/).
+Petr Kapounek působí též v krajské komisi pro informatiku. V Olomouci zastupují v orgánech města Piráty Jakub Nepejchal, Vojtěch Pikal a další.
 
 Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://olomoucky.pirati.cz/mistni-sdruzeni/piratska-tvrz/)), [Olomouci](https://olomoucky.pirati.cz/mistni-sdruzeni/olomouc/), [Prostějově](https://olomoucky.pirati.cz/mistni-sdruzeni/prostejov/), [Přerově](https://olomoucky.pirati.cz/mistni-sdruzeni/prerov/) a nově na [Šumpersku](https://olomoucky.pirati.cz/mistni-sdruzeni/sumpersko/).
 
@@ -32,12 +35,7 @@ Další informace můžete nalézt na [krajském webu](https://olomoucky.pirati.
 Možnosti zapojení:
 
   * Jednou měsíčně se v kraji konají pravidelná setkání Pirátů. Každý měsíc se také většinou schází místní sdružení. Veškeré akce kde nás potkat najdete níže v kalendáři. Přijďte, seznamte se, [zapojte se]({{ '/pripoj-se/' | relative_url }})!
-  * Napište si o kampaňový balíček; samolepky, noviny k rozdávání, plakáty k vylepení... Kdo má zájem, pište, pište co a kolik (šetříme pokladnu i lesy) na [olomoucko@pirati.cz](mailto:olomoucko@pirati.cz).
-  * Podpořte nás vyvěšením baneru na svém plotě, balkoně či bráně. Napište si o něj na [objekty.jdem.cz](http://objekty.jdem.cz).
   * Podpořte nás [darem se SS 190300](https://dary.pirati.cz/).
-
-### Volby 2017
-* [kandidátní listina](https://www.pirati.cz/volby/2017/olomoucko/)
 
 ### Kalendář
 <iframe src="https://calendar.google.com/calendar/embed?src=0014epo7k8kbgpgq3gaudeodnc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
