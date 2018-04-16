@@ -26,7 +26,7 @@ Co děláme?
 * zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci Ministerstva spravedlnosti,
-* rozpracováváme dlouhodobý program pro [e-government](https://www.pirati.cz/program/dlouhodoby/e-government/), [Internet](https://www.pirati.cz/program/dlouhodoby/internet/], [služební zákon](https://www.pirati.cz/program/dlouhodoby/sluzebni-zakon/) a dostupné bydlení: [1](https://www.pirati.cz/tiskove-zpravy/bartos-richterova-simral-jednali-mmr.html) [2](https://www.pirati.cz/tiskove-zpravy/pirati-pripravuji-legislativu-k-socialnimu-bydleni.html) [3](https://www.pirati.cz/tiskove-zpravy/vyloucenych-lokalit-pribyva.html) [4](https://www.pirati.cz/tiskove-zpravy/pirati-radi-ministryni-jak-zvladnout-airbnb-a-drahe-bydleni.html)
+* rozpracováváme dlouhodobý program pro [e-government](https://www.pirati.cz/program/dlouhodoby/e-government/), [Internet](https://www.pirati.cz/program/dlouhodoby/internet/), [služební zákon](https://www.pirati.cz/program/dlouhodoby/sluzebni-zakon/) a dostupné bydlení: [1](https://www.pirati.cz/tiskove-zpravy/bartos-richterova-simral-jednali-mmr.html) [2](https://www.pirati.cz/tiskove-zpravy/pirati-pripravuji-legislativu-k-socialnimu-bydleni.html) [3](https://www.pirati.cz/tiskove-zpravy/vyloucenych-lokalit-pribyva.html) [4](https://www.pirati.cz/tiskove-zpravy/pirati-radi-ministryni-jak-zvladnout-airbnb-a-drahe-bydleni.html)
 
 Jak se můžete zapojit?
 -----------------------------
