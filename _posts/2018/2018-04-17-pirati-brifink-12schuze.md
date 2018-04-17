@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna
 layout:       post
 title:        "Předseda Pirátů Bartoš komentoval rezignaci Murína. Richterová: Sick days jsou cestou ke snížení nákladů ve zdravotnictví"
-image:        /assets/img/articles/2018/tk-bartos-polansky-richterova.jpg
+image:        /assets/img/articles/2018/tk-bartos-polansky-richterova.JPG
 author:       Jakub Dušánek
 ---
 
