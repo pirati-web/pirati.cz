@@ -44,11 +44,11 @@ Fungování týmu
 
 Členové týmu jsou:
 
-* Jakub Michálek, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru,
-* Mikuláš Ferjenčík, místopředseda ústavně právního výboru, člen finančního podvýboru,
-* David Satke, advokát, garant volebního programu Pirátů v oblasti justice,
-* Lukáš Lev Červinka, asistent poslance Jakuba Michálka,
-* Jiří Valenta, asistent poslance Mikuláše Ferjenčíka,
-* Martin Archalous, legislativec poslaneckého klubu.
+* **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
+* **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
+* **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
+* **Lukáš Lev Červinka**, asistent poslance Jakuba Michálka, věnuje se ústavnímu právu a parlamentnímu procesu,
+* **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
+* **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. Lukáš Kolářík pro oblast exekucí a insolvencí).
