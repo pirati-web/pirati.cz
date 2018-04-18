@@ -2,6 +2,7 @@
 date:         2018-04-18
 category:     blog
 tags:         životní-prostředí
+layout:       post
 title:        "Komentář Dany Balcarové k hlasování Evropského parlamentu o legislativním balíčku k nakládání s odpady"
 image:        /assets/img/articles/2018/balcarova2.jpg
 author:       Jakub Dušánek
