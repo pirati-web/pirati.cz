@@ -1,7 +1,7 @@
 ---
 uid: skolstvi # vyplňte jednoznačný identifikátor
 name: Školství
-fullname: Školství
+fullname: Vzdělávání a věda 
 img: teams/skolstvi.jpg # obrázek nemusíte dodávat
 leader: daniel.mazur
 deputy:
