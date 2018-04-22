@@ -1,15 +1,20 @@
 ---
+uid: skolstvi # vyplňte jednoznačný identifikátor
 name: Školství
-img: teams/skolstvi.jpg
-vedoucí týmu: Václav Fořtík
-zástupci:
-kontaktní osoba:
-- Václav Fořtík
-category:
-- program
-uid: školství
-forum: https://forum.pirati.cz/vzdelani-f546/
-rbar: teams-toc
+fullname: Školství
+img: teams/skolstvi.jpg # obrázek nemusíte dodávat
+leader: daniel.mazur
+deputy:
+- daniel.mazur
+contact:
+- david.wagner
+tags:
+- skolstvi
+category: resort
+redmine:
+forum:
+newsletter:
+calendar: # id google kalendáře s událostmi
 ---
 
 Vítejte na stránce Pirátského týmu pro vzdělávání, vědu a školství.
