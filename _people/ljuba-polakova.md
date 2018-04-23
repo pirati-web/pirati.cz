@@ -3,7 +3,6 @@ uid: ljuba.polakova
 name:     Ljuba Poláková 	# běžně používáné jméno
 fullname: Ljuba Poláková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ao-contact
 img: people/ljuba-polakova.jpg    # 165 x 220
 description: Kontakt pro veřejnost   	# kratký popis, max 160 znaků
 mail:
