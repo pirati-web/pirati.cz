@@ -39,41 +39,38 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Chcete s námi pracovat? 
----------------
-
 Práci jsme si v takhle velkém týmu raději rozdělili do několika oblastí. Každá oblast má přidělenou kontaktní osobu, která vás bude informovat jak se můžete do práce v týmu zapojit co nejefektivněji.
 
-Evropská unie
----------
+### Evropská unie
+
 V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jaké normy z ní přicházejí a připravujeme k nim stanoviska. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner (david.wagner@pirati.cz, 721 03 01 20). 
 
-Lidská práva
----------
+### Lidská práva
+
 Piráti se staví za lidská práva ve světě i doma. Pokud chcete pracovat na jejich ochraně nebo máte vlastní námět, ozvěte se nám. Zodpovědným poslancem je František Kopřiva, kontaktní osobou Tomáš Guth Jarkovský (<koprivaf@psp.cz>, doplň).
 
-Transatlantické vztahy
----------
+### Transatlantické vztahy
+
 Nejen vztahy s USA a vazby v rámci NATO, ale i obchodní dohody jako námi kritizovaná TTIP či vztahy s Mexikem, Kanadou či zeměmi latinské Ameriky. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába (dopln, dopln).
 
-Východní Evropa
----------
+### Východní Evropa
+
 V tomto bodě sdružujeme předně tématiku vztahů s Ruskem, Ukrajinou a pobaltskými státy. Klíčovými tématy jsou zde válka na Ukrajině, konflikt NATO vs Ruská federace a komplikované česko ruské vztahy. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába.
 
-Blízký Východ a Kavkaz
----------
+### Blízký Východ a Kavkaz
+
 Pod tímto rozsáhlým bodem se myslí aktuální spletenec konfliktů a vztahů v Sýrii, Izraeli a Palestině, utužování autoritářského režimu v Turecku a jeho agresivní výpady a další problémy tohoto nestabilního regionu. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner (<david.wagner@pirati.cz>, 721 03 01 20). 
 
-Kontakt s Piráty v zahraničí
----------
+### Kontakt s Piráty v zahraničí
+
 Naším cílem je koordinovat pirátské hnutí v zahraničí a podporovat jejich růst a rozvoj. Zodpovědnou a kontaktní osobou je Markéta Gregorová (<marketa.gregorova@pirati.cz>, doplň).
 
-Efektivní armáda
----------
+### Efektivní armáda
+
 Naším cílem je armáda jako přísně kontrolovaná a výkonná součást naší obrany, připravená čelit moderním hrozbám a s vybavením odpovídajícím reálným potřebám, nikoliv výnosným zakázkám. Odpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába.
 
-Máte úplně jiný nápad?
----------
+### Máte úplně jiný nápad?
+
 Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je David Wagner (<david.wagner@pirati.cz>, 721 03 01 20).
 
 
