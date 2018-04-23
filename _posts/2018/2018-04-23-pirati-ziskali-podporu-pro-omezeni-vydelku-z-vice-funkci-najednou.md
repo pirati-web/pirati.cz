@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna
 layout:       post
 title:        "Političtí supermani přijdou o většinu přivýdělku. Piráti získali širokou podporu pro omezení kumulace odměn"
-image:        /assets/img/articles/2018/superman.jpg
+image:        /assets/img/articles/2018/superman2.jpg
 author:       Karolína Sadílková
 ---
 
