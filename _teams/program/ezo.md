@@ -1,12 +1,11 @@
 ---
-name: EZO
-fullname: Evropa, zahraničí, obrana
+name: Evropská unie, zahraničí, obrana
 img: teams/zahranici.jpg
 leader: mikulas.peksa
 deputy:
  - jan.lipavsky
  - frantisek.kopriva
-kontaktní osoba:
+contact:
 - mikulas.peksa
 category: resort
 redmine: https://redmine.pirati.cz/projects/ezo-tym
