@@ -14,7 +14,7 @@ Praha, 23. dubna 2018 – Piráti vyhlásili veřejné výběrové řízení na 
  
 Předseda Pirátů Ivan Bartoš má o tom, co by měl nový provozovatel společnosti splňovat, ucelenou představu: „Hledáme především spolehlivého partnera, který se bude průběžně věnovat našemu eshopu. To znamená nejenom dohlížet na objednávky a zajišťovat jejich včasné a správné plnění, ale celkově řídit eshop, a to včetně zadávání výroby. Chceme profesionální službu, která bude reagovat kdykoliv online a bude ochotně vycházet vstříc požadavkům našich příznivců.“
  
-1. Pirátská s.r.o. byla založena v červnu 2017 a předmětem její činnosti je zejména provozování eshopu, který nabízí produkty graficky odkazující na Pirátskou stranu. Aktuálně obchod nabízí kolem třiceti různých položek a mezi nejoblíbenější sortiment patří trička s logem Pirátů a sloganem „Pusťte nás na ně!“ Piráti už dříve uspořádali otevřená výběrová řízení na kandidáty do dozorčích a správních rad, asistenty poslanců a další pozice v administrativním zázemí Pirátů.
+Společnost 1. Pirátská s.r.o. byla založena v červnu 2017 a předmětem její činnosti je zejména provozování eshopu, který nabízí produkty graficky odkazující na Pirátskou stranu. Aktuálně obchod nabízí kolem třiceti různých položek a mezi nejoblíbenější sortiment patří trička s logem Pirátů a sloganem „Pusťte nás na ně!“ Piráti už dříve uspořádali otevřená výběrová řízení na kandidáty do dozorčích a správních rad, asistenty poslanců a další pozice v administrativním zázemí Pirátů.
 
 
 Odkazy:
