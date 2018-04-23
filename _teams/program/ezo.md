@@ -43,7 +43,7 @@ Práci jsme si v takhle velkém týmu raději rozdělili do několika oblastí. 
 
 ### Evropská unie
 
-V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jaké normy z ní přicházejí a připravujeme k nim stanoviska. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner (david.wagner@pirati.cz, 721 03 01 20). 
+V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jaké normy z ní přicházejí a připravujeme k nim stanoviska. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner (<david.wagner@pirati.cz>, 721 03 01 20). 
 
 ### Lidská práva
 
