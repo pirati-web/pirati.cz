@@ -32,8 +32,7 @@ Co děláme?
 * rozpracováváme dlouhodobý program [Mezinárodních vztahů](/program/dlouhodoby/mezinarodni-vztahy/),
 * podporujeme Pirátské strany v zahraničí.
 
-* Jsme pevně na straně lidských práv a mezinárodního práva,
-* snažíme se o Česko jako zemi aktivní v Evropské unii a přispívající k její demokratické reformě.
+Jsme pevně na straně lidských práv a mezinárodního práva, snažíme se o Česko jako zemi aktivní v Evropské unii a přispívající k její demokratické reformě.
 
 
 Jak se můžete zapojit?
