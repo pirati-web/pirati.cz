@@ -40,4 +40,4 @@ Piráti vyplouvají do komunálních voleb tento podzim! Nepůjde to ale bez dob
 * Věcnost, schopnost prioritizace a odpovědnost za výsledky
 * Účast na jednání Volebního výboru (v období duben-červen 3x do měsíce, v období červenec-říjen 5x do měsíce)
 
-Jedná se o náročnou pozici pro nejlepší politickou stranu v zemi. Hlásit se můžete do 1. května 2018 (včetně), první kola pohovorů se budou konat už 3. května, start bude rychlý! Přihlášky posílejte na adresy [jiri.hoskovec@pirati.cz](mailto:jiri.hoskovec@pirati.cz), [radek.holomcik@pirati.cz](radek.holomcik@pirati.cz) a [info@pirati.cz](mailto:info@pirati.cz).
+Jedná se o náročnou pozici pro nejlepší politickou stranu v zemi. Hlásit se můžete do 1. května 2018 (včetně), první kola pohovorů se budou konat už 3. května, start bude rychlý! Přihlášky posílejte na adresy [jiri.hoskovec@pirati.cz](mailto:jiri.hoskovec@pirati.cz), [radek.holomcik@pirati.cz](mailto:radek.holomcik@pirati.cz) a [info@pirati.cz](mailto:info@pirati.cz).
