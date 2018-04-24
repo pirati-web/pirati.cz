@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/inzerat.jpg
 author:       Jiří Hoskovec
 ---
 
-Piráti vyplouvají do komunálních voleb tento podzim! Nepůjde to ale bez dobrého koordinátora nadcházející kampaně! Proto hledáme člověka, který by nám pomohl řídit podporu komunálním kandidátkám po celé republice. Koordinátor bude v rámci Pirátů velmi úzce spolupracovat s volebním výborem, oblastními sdruženími v regionech a dalšími ográny Pirátské strany. Od dubna do června bude působit na poloviční úvazek (20 hodin týdně) a od července do října pak na úvazek plný, tj. 40 hodin týdně.
+Piráti vyplouvají do komunálních voleb tento podzim! Nepůjde to ale bez dobrého koordinátora nadcházející kampaně! Proto hledáme člověka, který by nám pomohl řídit podporu komunálním kandidátkám po celé republice. Koordinátor bude v rámci Pirátů velmi úzce spolupracovat s volebním výborem, oblastními sdruženími v regionech a dalšími ográny Pirátské strany. Od dubna do června bude působit na poloviční úvazek (20 hodin týdně) a od července do října pak na úvazek plný, tj. 40 hodin týdně. [Celý inzerát](https://forum.pirati.cz/viewtopic.php?f=572&t=41074)
 
 ### Náplň práce:
 
@@ -40,4 +40,4 @@ Piráti vyplouvají do komunálních voleb tento podzim! Nepůjde to ale bez dob
 * Věcnost, schopnost prioritizace a odpovědnost za výsledky
 * Účast na jednání Volebního výboru (v období duben-červen 3x do měsíce, v období červenec-říjen 5x do měsíce)
 
-Jedná se o náročnou pozici pro nejlepší politickou stranu v zemi. Hlásit se můžete do 1. května 2018 (včetně), první kola pohovorů se budou konat už 3. května, start bude rychlý! Přihlášky posílejte na adresy [jiri.hoskovec@pirati.cz](mailto:jiri.hoskovec@pirati.cz), [radek.holomcik@pirati.cz](mailto:radek.holomcik@pirati.cz) a [info@pirati.cz](mailto:info@pirati.cz).
+Jedná se o náročnou pozici pro nejlepší politickou stranu v zemi. Hlásit se můžete do 4. května 2018 (včetně), start bude rychlý! Přihlášky posílejte na adresy [jiri.hoskovec@pirati.cz](mailto:jiri.hoskovec@pirati.cz), [radek.holomcik@pirati.cz](mailto:radek.holomcik@pirati.cz) a [info@pirati.cz](mailto:vyberka@pirati.cz).
