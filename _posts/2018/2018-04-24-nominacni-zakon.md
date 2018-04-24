@@ -1,7 +1,7 @@
 ---
 date:         2018-04-24
 category:     blog
-tags:         kampaň
+tags:         legislativa
 layout:       post
 title:        "Nominační zákon Pirátů zavede jasná kritéria pro fungování státem ovládaných podniků"
 image:        /assets/img/articles/2018/tk_nominacni_zakon.JPG
