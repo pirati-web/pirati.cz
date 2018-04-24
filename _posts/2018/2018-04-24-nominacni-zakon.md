@@ -4,7 +4,7 @@ category:     blog
 tags:         kampaň
 layout:       post
 title:        "Nominační zákon Pirátů zavede jasná kritéria pro fungování státem ovládaných podniků"
-image:        /assets/img/articles/2018/tk_nominacni_zakon.jpg
+image:        /assets/img/articles/2018/tk_nominacni_zakon.JPG
 author:       Jakub Dušánek
 ---
 
