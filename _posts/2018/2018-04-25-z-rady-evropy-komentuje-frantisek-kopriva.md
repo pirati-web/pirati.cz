@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí
 layout:       post
 title:        "Komentář poslance Františka Kopřivy ke korupční aféře v Parlamentním shromáždění Rady Evropy"
-image:        /assets/img/articles/2018/kopriva2.jpg
+image:        /assets/img/articles/2018/kopriva3.jpg
 author:       František Kopřiva
 ---
 
