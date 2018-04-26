@@ -19,4 +19,4 @@ Pirátské centrum e-PIC bude sloužit nejen pro potřeby Pirátů Karlovarskéh
 ### Odkazy
 
 * [Videokomentář k otevření Jindřicha Čermáka](https://www.youtube.com/watch?v=qR-omiNczMs)
-* [Fotogalerie z otevření Pirátského centra v Karlových Varech](-https://photos.app.goo.gl/q3apbyaI2uBGH32K2)
+* [Fotogalerie z otevření Pirátského centra v Karlových Varech](https://photos.app.goo.gl/q3apbyaI2uBGH32K2)
