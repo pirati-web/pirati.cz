@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{% include submenu.html %}
+<section id='regions-map'>
+    <div class="row" style="background-color: lightgray;">
+        <div class="large-7 columns hide-for-small-only" style="margin-bottom: 20px;">
+            <div id="paper" class=""></div>
+        </div>
+        <div class="large-5 columns" style="margin-top: 40px;">
+            <article class="c-BlogPosting" style="background-color: white; margin-top: 40px; margin-right: 20px">
+                <div class="row c-BlogPosting-content">
+                    <h3 style="margin-left: 45px">Kraje</h3>
+                    <div class="columns small-6">
+                        <ul id="regions-list" style="margin-left: 25px">
+                        </ul>
+                    </div>
+                    <div class="columns small-6">
+                        <ul id="regions-list-2">
+                        </ul>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+<div class="row">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner">
+        <div class="c-BasicPage">
+          <div class="vspace-nb-m">
+            <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Seznam krajských sdružení</a>
+                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+                {% include team/list-3col.html param=myteams %}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>

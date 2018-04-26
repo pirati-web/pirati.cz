@@ -1,0 +1,18 @@
+<article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
+  {{#if url}}<a href="{{url}}" itemprop="url" class="c-Person-preview__url">Profil &rsaquo;</a>{{/if}}
+  <h2 itemprop="name" class="c-Person-preview__name">{{name}}</h2>
+  <div class="c-Person-preview-contentBox">
+    {{#if img}}
+    <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-Person-preview__image" itemscope="">
+      <img src="{{img}}" data-alt="name" style="width: 92px" />
+    </div>
+    {{/if}}
+    {{#if role}}<p><strong>{{role}}</strong></p>
+      {{#if mob}}<p>{{mob}}</p>{{/if}}
+      {{#if mail}}<p>{{mail}}</p>{{/if}}
+    {{/if}}
+    {{#if description}}
+    <p itemprop="description" class="c-Person-preview-content">{{description}}</p>
+    {{/if}}
+  </div>
+</article>

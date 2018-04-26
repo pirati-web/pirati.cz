@@ -1,0 +1,25 @@
+{% comment %}
+  Dvou sloupcové zobrazení:
+   týmů v /lide
+   úspěchů v /otevrenost
+{% endcomment %}
+<div class="row">
+{% if 1 == team.size %}
+  <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+  {% assign item = team | first %}
+  {% include people/item.html param='item' %}
+  </div>
+{% else %}
+  {% for item in team %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}
+    <div class="u-cf o-section-block o-section-block--divided-small o-section-block--divided-small--border">
+    {% endif %}
+    {% include people/item.html param='item' %}
+    {% if loopindex == 0 %}
+    </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+</div>

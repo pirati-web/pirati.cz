@@ -1,0 +1,24 @@
+- title: Cena Otevřeno
+  img: transp/cena-otevreno.jpg
+  url: https://www.pirati.cz/tiskove-zpravy/otevrenost.html
+  description: Pražský zastupitelský klub Pirátů získal cenu Otevřeno v kategorii Přístup k informacím za zveřejnění městských faktur a Metropolitního plánu.
+- title: Mapa faktur
+  img: transp/mapa-faktur.jpg
+  url: http://www.pirati10.cz/mapa-faktur/
+  description: Pirát Pavel Hájek oslovil radnice po celé republice s žádostí o zveřejnění městských faktur a vytvořil celorepublikovou mapu faktur.
+- title: Průlomové rozsudky
+  img: transp/prulomove-rozsudky.jpg
+  url: http://www.piratskelisty.cz/clanek-1652-pirati-pro-obcany-vyhravaji-informace-i-svobodnou-hudbu
+  description: Vyhráli jsme řadu soudních sporů o přístup občanů k informacím. Otevíráme tak smlouvy dopravních podniků, městkých firem, krajů i obcí.
+- title: Opendata
+  img: transp/open-data.jpg
+  url: http://www.piratskelisty.cz/clanek-1595-praguehacks-2016
+  description: Pro firmy jsme otevřeli městská data. Nyní jsou volně dostupné například jízdní řády a faktury městských částí. <a href="http://www.opendata.praha.eu">Praha</a> má nejrozsáhlejší městská opendata v ČR.
+- title: Transparentní účty
+  img: transp/transparentni-ucetnictvi.jpg
+  url: http://www.piratskelisty.cz/clanek-1555-otevirame-radnice-v-olomouckem-kraji
+  description: Po vzoru Pirátské strany jsme zavedli transparentní účty ve městě Mariánské Lázně, které má Pirátského starostu.
+- title: Majetková přiznání
+  img: transp/majetkova-priznani.jpg
+  url: https://github.com/pirati-cz/KlubPraha/tree/master/priznani
+  description: Pirátští politici zveřejňují vlastní majetková přiznání nad rámec zákonných povinností.

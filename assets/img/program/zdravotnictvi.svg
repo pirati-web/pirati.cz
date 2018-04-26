@@ -1,0 +1,14 @@
+<svg id="zdravotnictvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: #000119; }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M27.66 27.91h86.23v86.24H27.66z"/>
+    </clipPath>
+  </defs>
+  <title>
+    zdravotnictvi
+  </title>
+  <path class="cls-2 cls-3" d="M97.63 81.16V60.91H80.91V44.19H60.66v16.72H43.94v20.25h16.72v16.72h20.25V81.16zM105.84 71a35.06 35.06 0 1 1-35.06-35 35.09 35.09 0 0 1 35.06 35m8.06 0a43.12 43.12 0 1 0-43.11 43.12A43.16 43.16 0 0 0 113.89 71"/>
+</svg>

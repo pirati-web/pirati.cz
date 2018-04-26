@@ -1,0 +1,31 @@
+.c-content-card {
+  background: #f3f3f3;
+
+  &-content-box {
+    padding: 1.75rem 2.15rem;
+
+    p {
+      margin-bottom: 0.75em;
+    }
+  }
+
+  &-img img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+
+  .c-content-card-title {
+    font-size: 1.45rem;
+    font-family: $body-font-family;
+    margin-bottom: 0.95rem;
+  }
+
+  .c-content-card-title a {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

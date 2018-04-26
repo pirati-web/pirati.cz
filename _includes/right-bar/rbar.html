@@ -1,0 +1,48 @@
+<aside class="o-section">
+  <div class="o-section-inner o-section-inner--rightBlock">
+    {% if page.rbar contains 'snemovna' %}
+      {% include right-bar/bar_snemovna.html %}
+    {% endif %}
+    {% if page.rbar contains 'foto' %}
+      {% include right-bar/bar_foto.html %}
+    {% endif %}
+    {% if page.rbar contains 'foto' %}
+      {% include right-bar/bar_person_contact.html %}
+    {% endif %}
+    {% if page.rbar contains 'program_item' %}
+      {% include right-bar/bar_program_item.html %}
+    {% endif %}
+    {% if page.rbar contains 'team-summary' %}
+      {% include right-bar/bar_teams_summary.html %}
+    {% endif %}
+    {% if page.rbar contains 'teams-toc' %}
+      {% include right-bar/bar_teams_toc.html %}
+    {% elsif page.rbar contains 'toc' %}
+      {% include right-bar/bar_toc.html %}
+    {% endif %}
+    {% if page.rbar contains 'program' %}
+      {% include right-bar/bar_program.html %}
+    {% endif %}
+    {% if page.rbar contains 'cal' %}
+      {% include right-bar/bar_cal.html %}
+    {% endif %}
+    {% if page.rbar contains 'people' %}
+      {% include right-bar/bar_people.html %}
+    {% endif %}
+    {% if page.rbar contains 'video' %}
+      {% include right-bar/bar_video.html %}
+    {% endif %}
+    {% if page.rbar contains 'fb' %}
+      {% include right-bar/bar_fb.html %}
+    {% endif %}
+    {% if page.rbar contains 'tw' %}
+      {% include right-bar/bar_tw.html %}
+    {% endif %}
+    {% if page.rbar contains 'otevrenost' %}
+      {% include right-bar/bar_otevrenost.html %}
+    {% endif %}
+    {% if page.rbar contains 'slovensko' %}
+      {% include right-bar/bar_slovensko.html %}
+    {% endif %}
+  </div>
+</aside>

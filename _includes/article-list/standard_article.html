@@ -1,0 +1,45 @@
+<div class="medium-12 large-4 columns">
+  <!-- Article -->
+  <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting c-BlogPosting--featured c-BlogPosting-excerpt--nospace" itemscope="">
+    <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+    <div class="c-BlogPosting-contentWrapper u-cf">
+      <div class="c-BlogPosting-photoBox">
+        <!-- BlogPosting image -->
+        <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
+          <img src="{{article.image | relative_url }}" alt="{{article.title}}">
+          <meta itemprop="url" content="{{article.image | relative_url }}">
+          <meta itemprop="width" content="">
+          <meta itemprop="height" content=""> </div>
+      </div>
+      <div class="c-BlogPosting-infoBox">
+        <!-- Date published -->
+        <span itemprop="description" class="c-BlogPosting__datePublished">
+          <i class="fa fa-calendar-o" aria-hidden="true"></i>{{article.date | date: "%d.%m.%Y"}}
+          <meta itemprop="datePublished" content="{{article.date | date_to_xmlschema }}">
+          <meta itemprop="dateModified" content=""> </span>
+        <br class="hide-for-medium">
+        <!-- Authors -->
+        <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting__authors" itemscope="">
+          <i class="fa fa-user" aria-hidden="true"></i>
+          <span itemprop="name" class="c-BlogPosting-excerpt__author">{{article.author}}</span>
+        </span>
+      </div>
+      <div class="c-BlogPosting-contentBox">
+        <!-- Headline -->
+        <h1 itemprop="headline" class="c-BlogPosting__title">
+          <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
+        </h1>
+        <!-- BlogPosting description-->
+        <div itemprop="description" class="c-BlogPosting-content">
+          <p>{{ article.excerpt | truncatewords: 45 }}</p>
+        </div>
+        <a href="{{article.url | relative_url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+      </div>
+      <!-- Publisher -->
+      <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+        <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+          <meta itemprop="url" content="images/brand/logo.svg"> </div>
+        <meta itemprop="name" content="Česká pirátská strana"> </div>
+    </div>
+  </article>
+</div>

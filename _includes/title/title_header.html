@@ -1,0 +1,92 @@
+<div class="c-welcome-header">
+  <div class="row">
+    <div class="small-12 columns">
+      {% comment %}
+      <div class="c-welcome-header-wrapper c-welcome-header-wrapper--wbg">
+        <img src="{{'/assets/img/header/welcome-img.jpg' | prepend: site.baseurl }}" class="c-welcome-header__img" alt="Česká pirátská strana">
+        <div class="c-welcome-header-content">
+          <img src="{{'/assets/img/brand/logo_napis.svg' | prepend: site.baseurl }}" alt="Česká pirátská strana" class="c-welcome-header__brand">
+          <blockquote class="c-welcome-header__quote"> Prosazujeme fungující moderní politiku
+            <br> založenou na využití technologií 21. století
+            <br> pro otevřenou demokratickou společnost.</blockquote>
+        </div>
+      </div>
+      {% endcomment %}
+    </div>
+  </div>
+</div>
+<div class="c-banner">
+  <div class="row">
+    <div class="c-banner-container small-12 columns">
+      <div class="o-section">
+        <div class="o-section-inner o-section-inner--noLarge u-cf">
+          <div class="c-banner-section c-banner-primary-section">
+            <article class="c-card c-card--big">
+              {% assign box0 = site.title-page.big %}
+              <div class="c-card-header c-card-header--white">
+              </div>
+              <div class="c-card-image-wrapper">
+                <a href="{% if box0.url contains "http" %}{{box0.url}}{% else %}{{box0.url | relative_url }}{% endif %}">
+                  <img src="{{ box0.foto | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
+                </a>
+              </div>
+            </article>
+          </div>
+          <div class="c-banner-section c-banner-secondary-section">
+            <div class="row small-up-4">
+              <div class="c-banner-section-row">
+                <div class="small-6 columns">
+                  {% assign box1 = site.title-page.left-top %}
+                  <a href="{% if box1.url contains "http" %}{{box1.url}}{% else %}{{box1.url | relative_url }}{% endif %}" class="c-card c-card--border">
+                    <div class="c-card-header">
+                      <div class="c-card__title"> {{box1.text}} </div>
+                    </div>
+                    <div class="c-card__icon c-card__icon--pos4">
+                      <i class="{{box1.icon}}" aria-hidden="true"></i>
+                    </div>
+                  </a>
+                </div>
+                <div class="small-6 columns">
+                  {% assign box2 = site.title-page.right-top %}
+                  <a href="{% if box2.url contains "http" %}{{box2.url}}{% else %}{{box2.url | relative_url }}{% endif %}" class="c-card c-card--border">
+                    <div class="c-card-header">
+                      <div class="c-card__title"> {{box2.text}} </div>
+                    </div>
+                    <div class="c-card__icon c-card__icon--pos3">
+                      <i class="{{box2.icon}}" aria-hidden="true"></i>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="c-banner-section-row">
+                <div class="small-6 columns">
+                  {% assign box3 = site.title-page.left-bottom %}
+                  <a href="{% if box3.url contains "http" %}{{box3.url}}{% else %}{{box3.url | relative_url }}{% endif %}" class="c-card c-card--border">
+                    <div class="c-card-header">
+                      <div class="c-card__title"> {{box3.text}} </div>
+                    </div>
+                    <div class="c-card__icon c-card__icon--pos4">
+                      <i class="{{box3.icon}}" aria-hidden="true"></i>
+                    </div>
+                  </a>
+                </div>
+                <div class="small-6 columns">
+                  {% assign box4 = site.title-page.right-bottom %}
+                  <a href="{% if box4.url contains "http" %}{{box4.url}}{% else %}{{box4.url | relative_url }}{% endif %}" class="c-card c-card--border">
+                    <div class="c-card-header">
+                      <div class="c-card__title"> {{box4.text}} </div>
+                    </div>
+                    <div class="c-card__icon c-card__icon--pos2">
+                      <i class="{{box4.icon}}" aria-hidden="true"></i>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <!-- .c-card-sections -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

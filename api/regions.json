@@ -1,0 +1,49 @@
+---
+ownweb:
+  praha: https://praha.pirati.cz
+  jiznimorava: https://jihomoravsky.pirati.cz
+  jiznicechy: https://jihocesky.pirati.cz
+  zlinsko: https://zlinsky.pirati.cz/
+---
+{% comment %}
+Praha musí být první, kvůli vykreslování
+{% endcomment %}
+
+{% assign praha = site.teams | where: "uid","praha" %}
+{% assign id = praha[0].uid %}
+{% assign regions = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+{% assign map = site.data.region-map %}
+
+[
+  {"regions":
+    [
+      {
+        "id"       : "{{ id }}",
+        "name"     : "{{ praha[0].name }}",
+        "fullanme" : "{{ praha[0].fullname }}",
+        "category" : "{{ praha[0].categories | join: ' ' }}",
+        "img"      : "{{ praha[0].img | prepend: 'assets/img/' | relative_url }}",
+        "content"	 : "{{ praha[0].content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+        "url"      : {% if page.ownweb[id]%}"{{page.ownweb[id]}}"{% else %}"{{ praha[0].url | relative_url}}"{% endif %},
+        "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
+        "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
+      },
+      {% for region in regions %}
+      {% if region.uid == 'praha' %}{% continue %}{% endif %}
+      {% assign id = region.uid %}
+      {
+        "id"       : "{{ id }}",
+        "name"     : "{{ region.name }}",
+        "fullanme" : "{{ region.fullname }}",
+        "category" : "{{ region.categories | join: ' ' }}",
+        "img"      : "{{ region.img | prepend: 'assets/img/' | relative_url }}",
+        "content"	 : "{{ region.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+        "url"      : {% if page.ownweb[id]%}"{{page.ownweb[id]}}"{% else %}"{{ region.url | relative_url}}"{% endif %},
+        "kandidatka":"{{ id | prepend: '/volby/2017/' | relative_url}}",
+        "paths"    : ["{{ map.paths[id] | join: '", "' }}"]
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "settings": {{map.settings | jsonify}}
+  }
+]

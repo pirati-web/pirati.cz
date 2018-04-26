@@ -1,0 +1,25 @@
+<article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
+  <a href="{{person.url}}" itemprop="url" class="c-Person-preview__url">Profil &rsaquo;</a>
+  <!-- Name -->
+  <h2 itemprop="name" class="c-Person-preview__name"> {{person.name}} </h2>
+  {% comment %}
+  <!-- Birthdate -->
+  <div class="c-Person-preview__birthdate"> 6. února 1989 </div>
+  <meta itemprop="birthDate" content="<!-- Insert date in ISO 8601 date format -->">
+  {% endcomment %}
+  <div class="c-Person-preview-contentBox">
+    <!-- Person Image -->
+    <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-Person-preview__image" itemscope="">
+      <img src="{{ person.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}" style="width: 92px">
+      <meta itemprop="url" content="{{ person.img | prepend: '/assets/img/' | relative_url }}"> </div>
+    <!-- Person description -->
+    <p itemprop="description" class="c-Person-preview-content">{{person.description}}</p>
+
+  </div>
+</article>
+{% if include.param == 'contacts' %}
+<div class="clear">
+{% if person.mob %}<i class="fa fa-phone"></i> <a href="{{ page.mob }}">{{  person.mob  }}</a><br/>{% endif %}
+{% if person.mail | first %}<i class="fa fa-envelope-open-o"></i> <a href="mailto:{{ page.mail | first }}">{{ person.mail | first }}</a></br>{% endif %}
+</div>
+{% endif %}

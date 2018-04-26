@@ -16,6 +16,10 @@ $ps-ns: '';
   float: right;
 }
 
+.#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview-content {
+  line-height: 1.25;
+}
+
 .#{$ps-ns}c-Person-preview .#{$ps-ns}c-Person-preview__name {
   color: $primary-color;
   font-size: 1.3rem;

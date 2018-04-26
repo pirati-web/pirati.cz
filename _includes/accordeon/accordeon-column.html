@@ -1,0 +1,8 @@
+<div class="medium-12 large-4 columns o-section-block--medium">
+  <div class="o-section-header">
+    <h2 class="o-section__heading o-section__heading--small">{{topic.name}}</h2>
+  </div>
+  {% for point in topic.items %}
+  {% include accordeon/accordeon.html param='point' %}
+  {% endfor %}
+</div>

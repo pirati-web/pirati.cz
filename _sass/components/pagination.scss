@@ -1,0 +1,62 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  li {
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-width: 2.75rem;
+    text-align: center;
+    height: 3rem;
+    a {
+      height: 3rem;
+      width: 100%;
+      line-height: 3rem;
+      color: $primary-color;
+    }
+    a:hover {
+      background: transparent;
+      text-decoration: none;
+    }
+  }
+
+  .pagination-previous,
+  .pagination-next {
+    background: $primary-color;
+    a {
+      text-decoration: none;
+      color: #fefefe;
+      font-size: 1.8rem;
+      line-height: normal;
+    }
+    box-shadow: 0px 3px 2px #ececec;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  .pagination-previous i,
+  .pagination-next i {
+  }
+}
+
+@include breakpoint(mobile down) {
+  .pagination {
+    li {
+      margin: 1px;
+      min-width: 2.25rem;
+      height: 2.7rem;
+      a {
+        height: 2.7rem;
+        width: 100%;
+        line-height: 2.7rem;
+      }
+    }
+  }
+}

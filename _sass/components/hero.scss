@@ -1,0 +1,164 @@
+.c-hero {
+    background: url('../img/miscellaneous/slider-bg.png');
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+
+    &--plainbg {
+        background: #343434;
+    }
+
+    overflow: hidden;
+}
+
+.c-hero-container {
+    @include clearfix;
+    position: relative;
+    z-index: 2;
+    padding: 45px 10px;
+    &.c-hero-img-join-us {
+        position: relative;
+        &:before {
+            z-index: -1;
+            left: 100%;
+            top: 50%;
+            transform: translate(-85%, -50%);
+            content: '';
+            position: absolute;
+            width: 452px;
+            height: 413px;
+            background: url('../img/miscellaneous/header.png');
+            background-repeat: no-repeat;
+            background-position: right center;
+        }
+
+        @include breakpoint(large down) {
+
+            &:before {
+                opacity: 0.25;
+                transform: translate(-85%, -50%) scale(0.75);
+            }
+        }
+
+        @include breakpoint(medium down) {
+
+            &:before {
+                opacity: 0.15;
+                transform: translate(-85%, -50%) scale(0.75);
+            }
+        }
+    }
+}
+
+.c-hero-block + .c-hero-block {
+    margin-top: 40px;
+}
+
+.c-hero__title {
+    font-size: 2.575rem;
+}
+
+.c-hero .c-hero-content {
+
+    .c-hero__subtitle {
+        font-size: 2rem;
+    }
+
+    h2 {
+        color: #ffffff;
+    }
+
+    p {
+        line-height: 1.2;
+    }
+
+    a {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    &.c-hero-content-accent p {
+        font-size: 1.75rem;
+        line-height: 1.4;
+
+        @include breakpoint(medium down) {
+            font-size: 1.45rem;
+        }
+    }
+
+    @include breakpoint(medium down) {
+        &.c-hero-content-accent br {
+            display: none;
+        }
+    }
+}
+
+.c-hero-slider {
+    .orbit-next {
+        padding-right: 10px;
+        right: -100px;
+    }
+    .orbit-previous {
+        padding-left: 10px;
+        left: -100px;
+    }
+    .orbit-next,
+    .orbit-previous {
+        transition: 0.25s all;
+        i {
+            font-size: 3rem;
+        }
+        &:focus {
+            outline: none;
+        }
+    }
+    .orbit-container {
+        overflow: visible;
+        height: auto !important;
+        outline: none;
+    }
+
+    &:focus,
+    .orbit-slide:focus {
+        outline: 0 !important;
+    }
+
+    .orbit-slide {
+        max-height: none !important;
+        list-style-type: none;
+    }
+
+    @include breakpoint(1400px down) {
+        .orbit-next {
+            top: -65px;
+            right: 0;
+            padding-right: 1rem;
+        }
+        .orbit-previous {
+            top: -65px;
+            left: auto;
+            right: 75px;
+            padding-left: 1rem;
+        }
+
+        .orbit-next i,
+        .orbit-previous i {
+            font-size: 2rem;
+        }
+    }
+
+    @include breakpoint(mobile down) {
+        .orbit-previous {
+            right: 60px;
+        }
+        .orbit-next i,
+        .orbit-previous i {
+            font-size: 1.5rem;
+        }
+    }
+}

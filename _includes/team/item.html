@@ -1,0 +1,15 @@
+<div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+    <div class="c-content-card">
+      <div class="c-content-card-img">
+        <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}"> </div>
+      <div class="c-content-card-content-box">
+        <h3 class="c-content-card-title">
+          {% if item.url | truncate: 2 == 'http' %}
+            {% assign url = item.url %}
+          {% else %}
+            {% assign url = item.url | relative_url %}
+          {% endif %}
+          <a href="{{url | relative_url}}">{% if item.name %}{{item.name  }}{% else %}{{item.title}}{% endif %}</a>
+      </div>
+    </div>
+</div>

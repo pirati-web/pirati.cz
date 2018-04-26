@@ -1,0 +1,54 @@
+.c-cta-button {
+  padding: 0.75rem 1rem;
+  color: #fff;
+  background: #5d5d5d;
+  font-size: 1.3rem;
+  border-radius: 1px;
+  display: inline-block;
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 0px 1px 0px 1px rgba(0, 0, 0, 0.15);
+
+  text-decoration: none !important;
+  &:hover {
+      text-decoration: none !important;
+  }
+  i {
+    margin-left: 0.5rem;
+  }
+  transition: ease-out background 0.25s;
+}
+
+.c-cta-button.c-cta-button--primary {
+  background: #2785ce;
+  &:hover {
+    background: darken(#2785ce, 5%);
+  }
+}
+
+.c-cta-button.c-cta-button--secondary {
+  background: #f3c289;
+  &:hover {
+    background: darken(#f3c289, 5%);
+  }
+}
+
+.c-cta-button-group {
+  margin: 0.2rem 0;
+  @include clearfix;
+
+  > .c-cta-button + .c-cta-button {
+    margin-left: 0.65rem;
+  }
+
+  @include breakpoint(medium down) {
+    .c-cta-button {
+      float: left;
+      clear: left;
+    }
+
+    > .c-cta-button + .c-cta-button {
+      margin-left: 0;
+      margin-top: 0.5rem;
+    }
+  }
+}

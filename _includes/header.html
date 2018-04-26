@@ -1,20 +1,30 @@
+<div class='thetop'></div>
 <aside class="o-section o-section--smaller c-header-bar u-inverted u-inverted--darker u-center-860-down">
   <div class="row">
-    <div class="o-section-inner">
-      <div class="small-12 columns">
+    <div class="o-section-inner" style="padding: 3px;">
+      <div class="medium-12 columns">
         <ul class="c-header-bar-items">
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="https://www.facebook.com/ceska.piratska.strana/" rel="noopener noreferrer" target="_blank" title="Facebook - Česká pirátská strana">
+            <a href="{{site.fb}}" rel="noopener noreferrer" target="_blank" title="Facebook - Česká pirátská strana">
               <i class="fa fa-facebook" aria-hidden="true"></i>
           </a></li>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="https://twitter.com/PiratePartyCZ" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
+            <a href="https://www.twitter.com/{{site.tw}}" rel="noopener noreferrer" target="_blank" title="Twitter - Česká pirátská strana">
               <i class="fa fa-twitter" aria-hidden="true"></i>
             </a>
           </li>
           <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+            <a href="https://www.instagram.com/pirati.cz/" rel="noopener noreferrer" target="_blank" title="Instagram - Česká pirátská strana">
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a></li>
+          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
             <a href="https://plus.google.com/u/0/+piratskastrana" rel="noopener noreferrer" target="_blank" title="Google Plus - Česká pirátská strana">
               <i class="fa fa-google-plus" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
+            <a href="https://www.flickr.com/photos/pirati/" rel="noopener noreferrer" target="_blank" title="Flickr - Česká pirátská strana">
+              <i class="fa fa-flickr" aria-hidden="true"></i>
             </a>
           </li>
         </ul>
@@ -36,12 +46,19 @@
 <div class="c-top-bar">
   <div class="row">
     <div class="c-top-bar-inner u-cf">
+      {% if page.url != '/' %}
+      <div class="top-bar-title">
+        <a href="{{ '/portal' | relative_url }}">
+          <img src="{{ '/assets/img/brand/logo_napis.svg' | relative_url }}" alt="Pirátská strana">
+        </a>
+      </div>
+      {% endif %}
       <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
         <li>
-          <input type="search">
+          <input type="search" id="search" placeholder="Hledaný výraz">
         </li>
         <li class="c-top-bar-searchbar__submit">
-          <button type="button" class="button">
+          <button type="button" class="button" id="searchsub">
             <i class="fa fa-search" aria-hidden="true"></i>
           </button>
         </li>
@@ -60,40 +77,48 @@
         <div class="responsive-menu-inner">
           <div class="top-bar-left top-bar-footer-group">
             <ul class="dropdown menu" data-dropdown-menu="">
-              <li>
-                <a href="#">Aktuality</a>
+              <li {% if page.url contains 'aktuality' %} class="is-active"{% endif %}>
+                <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
-              <li>
-                <a href="#">O nás</a>
+              <li{% if page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
+                <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
                 <ul class="menu vertical">
-                  <li>
-                    <a href="#">Naši lidé</a>
+                  <li{% if page.url contains 'lide'%} class="is-active"{% endif %}>
+                    <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
                   </li>
-                  <li>
-                    <a href="#">Regiony</a>
+                  <li{% if page.url contains 'regiony'%} class="is-active"{% endif %}>
+                    <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
                   </li>
-                  <li>
-                    <a href="#">Projekty</a>
-                  </li>
-                  <li>
-                    <a href="#">Podporují</a>
-                  </li>
-                  <li>
-                    <a href="#">Úspěchy</a>
+                  <li{% if page.url contains 'snemovna'%} class="is-active"{% endif %}>
+                    <a href="{{ '/snemovna/' | relative_url }}">Sněmovna</a>
                   </li>
                 </ul>
               </li>
-              <li>
-                <a href="#">Program</a>
+              {% if page.url == '/' %}
+              <li {% if page.url contains 'snemovna' %} class="is-active"{% endif %}>
+                <a href="{{'/snemovna/' | relative_url }}">Sněmovna</a>
               </li>
-              <li>
-                <a href="#">Připoj se</a>
+              {% endif %}
+              <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
+                <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
-              <li>
-                <a href="#">Transparence</a>
+              <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
+                <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
               </li>
-              <li>
-                <a href="#">Kontakt</a>
+              <li{% if page.url contains 'otevrenost' or page.url contains 'ke-stazeni' %} class="is-active"{% endif %}>
+                <a href="{{ '/otevrenost/' | relative_url }}">Zveřejňujeme</a>
+
+                <ul class="menu vertical">
+                  <li{% if page.url contains 'otevrenost'%} class="is-active"{% endif %}>
+                    <a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a>
+                  </li>
+                  <li{% if page.url contains 'ke-stazeni'%} class="is-active"{% endif %}>
+                    <a href="{{ '/ke-stazeni/' | relative_url }}">Ke stažení</a>
+                  </li>
+                </ul>
+              </li>
+              <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
+                <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
             </ul>
           </div>
@@ -102,3 +127,4 @@
     </div>
   </div>
 </div>
+<div class="c-top-bar-border"> </div>

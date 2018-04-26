@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{%unless page.nomenu%}
+{% include submenu.html %}
+{% endunless%}
+
+<div class="row">
+    <div class="medium-12 large-10 large-offset-1 columns">
+        <div class="o-section o-section--spaceBot">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <!-- Article -->
+                    <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+                        <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+                        {% if page['nadřízený tým'] %}
+
+                        <ul class="breadcrumbs">
+                            <li><a href="{{ '/pripoj-se/tymy/' | relative_url }}">Seznam týmů</a></li>
+                            {% assign thisteam = page['nadřízený tým'] %}
+                            {% assign superior = site.teams | where_exp: "item", "item.name == thisteam" | first %}
+                            <li><a href="{{ superior.url}}">{{ thisteam | capitalize }}</a></li>
+                            <li class="current">{{page.name | capitalize }}</li>
+                        </ul>
+
+                        {% endif %}
+                        <h1 itemprop="headline" class="c-BasicPage__title">
+                            {{page.title}}
+                        </h1>
+                        <div itemprop="description" class="c-BasicPage-content">
+                            {{content}}
+                        </div>
+                    </article>
+                    <section id='regions-map' class="l-kan__map">
+                        <div class="row">
+                            <div class="large-7 columns"><h4>Ostatní kraje:</h4></div>
+                            <div class="large-4 columns">
+                                <select onchange="window.location.replace(this.value)" class="l-kan__region-select">
+                                    <option value="/">
+                                        Vyberte kraj ...
+                                    </option>
+                                    {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'regiony'" %}
+                                    {% for item in myteams%}
+                                    {% if site.data.elections.y2017[item.uid] %}
+                                    <option value="{{item.uid | prepend: 'volby/2017/' | relative_url}}">
+                                        {{item.name}}
+                                    </option>
+                                    {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                        </div>
+                    </section>
+                    <!-- /Article -->
+                </main>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,48 @@
+<div class="o-section-block--spaceBot show-for-large">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link">
+        <span class="c-widget-accordion__title">Seznam týmů</span>
+        <span class="c-widget-accordion__icon c-widget-accordion__icon" aria-hidden="true">
+          <i class="fa fa-list"></i>
+        </span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        <div class="c-widget-accordion-content-inner">
+
+{% assign thiscat = (page.category | first) %}
+{{ thiscat }}
+{% if thiscat == 'strana' %}
+    {% assign myteams = site.teams | where_exp: "item", "item.category includes 'strana'", "item['nadřízený tým'] == 'republikové předsednictvo'" | sort:"name" %}
+    {% assign heading = 'Odborné týmy' %}
+{% elsif thiscat == 'regiony' %}
+    {% assign myteams = site.teams | where_exp: "item", "item.category includes 'regiony'" | sort:"name" %}
+    {% assign heading = 'Regiony' %}
+{% elsif thiscat == 'program' %}
+    {% assign myteams = site.teams | where_exp: "item", "item.category includes 'program'" | sort:"name" %}
+    {% assign heading = 'Resorty' %}
+{% endif %}
+
+
+<ul  class="c-widget-accordion-list">
+{% for team in myteams %}
+ {% assign thisteam = team.name %}
+ <li><a href="{{ team.url | relative_url }}"> {{ thisteam }}</a>
+
+ <ul>
+ {% assign mysubteams = site.teams | where_exp: "item", "item['nadřízený tým'] == thisteam" | sort:"name" %}
+
+ {% for subteam in mysubteams %}
+ {% assign thissubteam = subteam.name %}
+ <li><a href="{{ subteam.url | relative_url }}">{{ thissubteam}}</a></li>
+ {% endfor %}
+ </ul>
+ </li>
+{% endfor %}
+</ul>
+
+</div>
+</div>
+</li>
+</ul>
+</div>

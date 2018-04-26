@@ -3,6 +3,15 @@
   @include top-bar-container;
 }
 
+.c-top-bar-border {
+  display: block;
+  height: 5px;
+  margin-top: -3px;
+  background: #f3f3f3;
+  position: relative;
+  z-index: 9;
+}
+
 .c-top-bar .c-top-bar-inner {
   padding: 0 30px 0 20px;
 
@@ -16,6 +25,7 @@
 
   .top-bar-title {
     margin-right: 4.5rem;
+    margin-bottom: 5px;
   }
 
   .top-bar-title img {
@@ -415,6 +425,9 @@
     float: left;
     width: auto;
     padding: 0;
+    @include breakpoint(medium down) {
+      max-width: 55%;
+    }
   }
 
   @include breakpoint(large) {
@@ -465,10 +478,10 @@
     }
 
     .c-top-bar-searchbar .c-top-bar-searchbar__submit {
-      width: 40px;
+      width: auto;
 
       button {
-        padding: 0em 1em;
+        padding: 0em 0.8em;
         font-size: 1.1rem;
         margin-right: 0;
       }

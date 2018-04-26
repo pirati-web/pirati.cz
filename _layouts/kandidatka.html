@@ -1,0 +1,24 @@
+---
+layout: volebni_kandidatka
+---
+
+{% assign i = 0 %}
+
+<div class="l-kan">
+  {% for person in site.data.elections.y2017[page.uid] %}
+  {% assign i = i | plus: 1 %}
+  {% if person.img or person.img == '' %}
+    {% assign imgsrc = person.img | prepend: '/assets/img/people/' | relative_url %}
+  {% else %}
+    {% assign imgsrc = '/assets/img/placeholders/flag-object-person.png' | relative_url %}
+  {% endif %}
+  <div class="l-kan__item row">
+    <div class="l-kan__item-img columns medium-5 large-6"> <img src="{{imgsrc}}" alt="{{person.name}}"/></div>
+    <div class="l-kan__item-data columns medium-7 large-6">
+      <h2 class="l-kan__name"><strong>{{i}}. {{person.name}}</strong></h2>
+      <div class="l-kan__role">{{person.role}}</div>
+      <div class="l-kan__desc">{{person.description}}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

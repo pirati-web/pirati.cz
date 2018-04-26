@@ -1,0 +1,74 @@
+$unit: 1.25rem;
+$dark: #343434;
+.l-vizitka{
+  padding: $unit;
+  //box-shadow: 5px 10px #888888;
+  @include breakpoint(medium up) {
+    height: 200px;
+  }
+  @include breakpoint(mobile down) {
+    text-align: center;
+  }
+  &__title{
+    //position: relative;
+    color: white;
+    font-size: 1rem;
+    @include breakpoint(mobile down) {
+      position: relative;
+    }
+    &:before{
+      @extend %before-util;
+      bottom: auto;
+      height: 2rem;
+      background: $dark;
+      top: .75rem;
+      left: 3*$unit;
+      @include breakpoint(mobile down) {
+        top: -.5rem;
+        left: 0;
+      }
+
+    }
+  }
+  .o-media{
+    position: relative;
+    @include breakpoint(medium up) {
+      margin-right: 1.25*$unit;
+      margin-bottom: 1.25*$unit;
+    }
+    &:hover{
+
+    }
+    &__image{
+      overflow: hidden;
+      border-radius: 200px;
+      width: 90px;
+      height: 90px;
+      display: block;
+      padding: 0;
+      border: 3px solid white;
+      background: lighten($dark,60%);
+      margin: .5rem 1rem 0 0;
+      box-shadow: 1px 1px 4px rgba($dark,.5);
+      @include breakpoint(medium down) {
+        margin: auto;
+      }
+      img{
+        width: 100%;
+      }
+    }
+    &__body{
+      @include breakpoint(medium up) {
+        margin: $unit;
+        padding: $unit 0;
+      }
+      //display: none;
+      //position: absolute;
+      //left: 0;
+      //z-index: 2;
+      //background: #fff;
+      //padding: $unit;
+
+    }
+  }
+}

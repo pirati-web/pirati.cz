@@ -1,0 +1,14 @@
+---
+---
+[
+  {% for bod in site.program %}
+    {
+      "title"    : "{{ bod.title | escape }}",
+      "category" : "{{ bod.categories | join: ' ' }}",
+      "img"      : "{{ bod.img | relative_url }}",
+      "topic"    : "{{ bod.topic }}",
+      "content"	 : "{{ bod.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url"      : "{{ bod.url | relative_url}}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

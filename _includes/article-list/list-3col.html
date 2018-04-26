@@ -1,0 +1,55 @@
+{% assign close = close | minus: 2 | modulo: 3 %}
+
+{% for article in posts offset: 2 %}
+{% assign x = forloop.index | modulo: 3 %}
+{% if x == 1 %}
+<div class="row o-section o-section-block--divided-small o-section-block--divided-small--border--tight o-section--noSpaceBottom-medium">
+  <div class="medium-12 large-12 columns">
+    <div class="o-section-inner">
+      <div class="row">
+{% endif %}
+        {% include article-list/standard_article.html param='article'%}
+{% if x == 0 %}
+      </div><!-- .row -->
+    </div><!-- .o-section-inner -->
+  </div><!-- .columns -->
+</div><!-- .row -->
+{% endif %}
+{% endfor %}
+{% if close != 0 %}
+</div></div></div></div>
+{% endif %}
+{% comment %}
+<hr>
+
+<div class="row o-section o-section-block--divided-small o-section-block--divided-small--border--tight o-section--noSpaceBottom-medium">
+  <div class="medium-12 large-12 columns">
+    <div class="o-section-inner">
+      <div class="row">
+        {% for article in paginator.posts offset: 2 limit: 3 %}
+        {% include article-list/standard_article.html param='article'%}
+        {% endfor %}
+      </div>
+      <!-- .row -->
+    </div>
+    <!-- .o-section-inner -->
+  </div>
+  <!-- .columns -->
+</div>
+<!-- .row -->
+
+<div class="row o-section o-section-block--divided-small o-section-block--divided-small--border--tight">
+  <div class="medium-12 large-12 columns">
+    <div class="o-section-inner">
+      <div class="row">
+      {% assign article = paginator.posts[6] %}
+      {% include article-list/standard_article.html param='article'%}
+      {% assign article = paginator.posts[7] %}
+      {% include article-list/standard_article.html param='article'%}
+      {% assign article = paginator.posts[8] %}
+      {% include article-list/standard_article.html param='article'%}
+      </div>
+    </div>
+  </div>
+</div>
+{% endcomment %}
