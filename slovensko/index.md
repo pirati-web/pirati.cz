@@ -12,7 +12,7 @@ Ani na Slovensku tehdy nezaháleli – jen o dva roky později, před sedmi lety
 Piráti jsou od počátku mezinárodní hnutí, pyšné na své kořeny a decentralizovanou povahu. Vzájemná pomoc mezi pirátskými stranami nás provází již od počátku. Se Slovenskem nicméně máme unikátní vztah, vyplývající ze společné historie a blízkosti, a rádi bychom jim pomohli co nejvíce. A k tomu potřebujeme i Vás!
 
 Co můžeme pro slovenské Piráty udělat?
-* Sesbírat co nejvíce podpisů i u nás v ČR! Máte přátele s trvalým bydlištěm na Slovensku? Provozujete či znáte podnik, ve kterém by šly petiční archy umístit ke sběru podpisů veřejnosti? Stáhněte si [podpisový arch](../assets/pdf/podpisovy_harok.pdf) a vytiskněte, nebo nám [napište Markétě Gregorové](mailto: marketa.gregorova@pirati.cz) a vytisklé archy Vám na různých místech předáme.
+* Sesbírat co nejvíce podpisů i u nás v ČR! Máte přátele s trvalým bydlištěm na Slovensku? Provozujete či znáte podnik, ve kterém by šly petiční archy umístit ke sběru podpisů veřejnosti? Stáhněte si [podpisový arch](../assets/pdf/podpisovy_harok.pdf) a vytiskněte, nebo [napište Markétě Gregorové](mailto: marketa.gregorova@pirati.cz) a vytisklé archy Vám na různých místech předáme.
 * Na Slovensku i v České republice budou probíhat také petiční akce s možností archy podepsat osobně. Sledujte [naše](https://www.facebook.com/ceska.piratska.strana/) i [slovenské](https://www.facebook.com/piratskastrana/) pirátské facebookové stránky, případně [nás kontaktujte](mailto: marketa.gregorova@pirati.cz) a budete vědět první, kde nás najdete.
 * Přidat se! Chcete se přidat k pirátskému hnutí, ale táhne Vás to (srdcem či bydlištěm) spíše ke Slovensku, než Česku? Ozvěte se Pirátovi [Tomáši Vojtekovi](mailto: info@piratskastrana.sk) a naloďte se!
 
