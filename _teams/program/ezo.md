@@ -84,7 +84,7 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec zodpovědný za oblast zahraničních věcí, místopředseda výboru pro evropské záležitosti a vedoucí týmu
 * **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec zodpovědný za oblast obrany, místopředseda výboru pro zahraniční věci a místopředseda výboru pro obranu
 * **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec
-* **[Markéta Gregorová](/lide/marketa_gregorova)**, vedoucí zahraničního odboru
+* **Markéta Gregorová**, vedoucí zahraničního odboru
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Tomáš Hába**, asistent Jana Lipavského
 * **Alex Mansurov**, asistent Františka Kopřivy
