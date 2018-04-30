@@ -18,7 +18,7 @@ tags:
  - Obrana
 ---
 
-Vítejte na stránce Pirátského týmu pro záležitosti Evropské unie, zahraničních věcí a obranu.
+Vítejte na stránce Pirátského týmu pro záležitosti Evropské unie, zahraničních věcí a obrany.
 
 Co děláme?
 ----------
