@@ -264,7 +264,7 @@ pirates.accounting.selectAccount = function(account) {
   // draw new table of accounting data
   var table = document.getElementById('account_table');
   table.innerHTML = '';
-  pirates.accounting.makeTable(table,account,{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad'});
+  pirates.accounting.makeTable(table,account,{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad','counterparty':'Protistrana'});
 
   // return chart so it can be destroyed on redraw
   return mixedChart;
