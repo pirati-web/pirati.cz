@@ -1,6 +1,6 @@
 ---
 uid: upt # vyplňte jednoznačný identifikátor
-name: práce a sociální věci
+name: Práce a sociální věci
 fullname: Tým pro oblast práce a sociálních věcí
 img: teams/prace-socialni-veci.jpg # obrázek nemusíte dodávat
 leader: olga.richterova
