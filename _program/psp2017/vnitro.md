@@ -3,7 +3,7 @@ title: Vnitro a otevřený stát
 category: psp2017
 img: vnitro.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-24-2017-program-2017-ministerstvo-vnitra-r-h-1-k-t36875-10.html
-garant: jakub.michalek
+garant:
 relatives:
   - name: Doplňující
     items:
