@@ -50,7 +50,7 @@ collections:
     permalink: /pripoj-se/:title/
   elections:
     output: true
-    permalink: /volby/:path/
+    permalink: /snemovna/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -89,9 +89,9 @@ tw: PiratskaStrana
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-vysledky.gif
-    alt: volby
-    url: volby
+    foto: /assets/img/miscellaneous/featured-pulrok.gif
+    alt: snemovna
+    url: snemovna
   left-top:
     text: Regiony
     url: regiony
