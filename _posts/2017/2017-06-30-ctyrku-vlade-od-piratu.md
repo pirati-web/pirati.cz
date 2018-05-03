@@ -1,7 +1,7 @@
 ---
 date:         2017-06-30
 category:     blog
-tags:         kampaň
+tags:         kampaň vláda
 layout:       post
 title:        "Piráti dali vládě čtyřku, tři ministři podle nich propadli."
 image:          /assets/img/articles/2017/vysvedceni.jpg

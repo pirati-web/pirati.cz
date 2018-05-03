@@ -1,68 +1,156 @@
 ---
-layout: default
-img: miscellaneous/volebni-rozcestnik.png
-description: Rozcestník pro volby do Poslanecké sněmovny 2017
 ---
+<!DOCTYPE html>
+<html>
+{% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
+{% capture keywords %}{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}{% endcapture %}
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="{{description}}">
+	<meta name="keywords" content="{{keywords}}">
+	<meta property="og:title"         content="Pirátská strana | volební rozcestník" />
+	<meta property="og:description"   content="{{description }}" />
+	<meta property="og:image"         content="" />
+	<link rel="icon" type="image/png" href="{{'assets/favicon/favicon-128.png' | relative_url }}" sizes="128x128">
 
-<div class="row">
-  <div class="large-12 colums">
-    <div class="o-section o-section--spaceBot">
-      <div class="o-section-inner">
-        <main class="o-section-block">
-          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
-            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <h1 itemprop="headline" class="c-BasicPage__title"> Rozcestník pro volby do Poslanecké sněmovny 2017</h1>
-          </article>
-          <!-- /Article -->
-        </main>
-      </div>
-    </div>
-  </div>
+	<title>Pirátská strana | volební rozcestník</title>
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-  <div class="large-6 large-centered columns">
-    <div class="callout success">
-      <h2>Volte 15, Piráty!</h2>
-      <p><strong>Piráty můžete 20. a 21. řijna volit pod číslem 15.</strong></p>
-    </div>
-  </div>
-  <div class="large-4 columns">
-    <a href="{{'/program/psp2017.html' | relative_url }}"><h2><i class="fa fa-file" aria-hidden="true"></i> Volební program</h2></a>
-    <p>Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po jednotlivých ministerstvech. V každé kapitole píšeme jasně a střízlivě, co chceme během 4 let ve sněmovně prosadit.</p>
-  </div>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+</head>
 
-  <div class="large-4 columns">
-    <a href="{{'volicskyprukaz/' | relative_url}}"><h2><i class="fa fa-id-card-o" aria-hidden="true"></i> Voličské průkazy</h2></a>
-    <p>Nejsi v termínu voleb ve svém trvalém bydlišti? Pomůžeme ti zřídit voličský průkaz</p>
-  </div>
-  <div class="large-4 columns">
-    <a href="{{'/volby/2017' | relative_url }}"><h2><i class="fa fa-users" aria-hidden="true"></i> Kandidátní listiny</h2></a>
-    <p>Kandidáty volíme v primárních volbách. Všichni kandidáti podepsali <a href="{{'/program/psp2017/kodex-poslance/' | relative_url}}">Kodex poslance</a> a <a href="{{'/program/psp2017/povolebni-strategie/' | relative_url}}">Povolební strategii</a>.</p>
-  </div>
-</div>
-<div class="row o-section o-section--spaceBot">
-  <div class="large-4 columns">
-    <a href="{{'/plavba' | relative_url}}"><h2><i class="fa fa-ship" aria-hidden="true"></i> Pirátská plavba (meetingy)</h2></a>
-    <p>Prostřednictvím <a href="https://www.hithit.com/cs/project/3805/piratska-plavba-do-snemovny">hithit</a> jsme získali prostředky pro plavbu s plně solární lodí. Nemalý ohlas vzbudil i náš vězeňský autobus, který s nadsázkou upozorňuje na problémy, které nejsou dořešeny.</p>
-  </div>
-  <div class="large-4 columns">
-    <a href="https://dary.pirati.cz">
-      <h2>
+<body>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('[data-toggle="tooltip"]').tooltip();
+		});
+		$(function() {
+			$('[data-toggle="popover"]').popover();
+		});
 
-        <i class="fa fa-money" aria-hidden="true"></i>
-        Přispějte finančně
-      </h2>
-    </a>
-    <p>Jsme strana založená lidmi, nikoliv obchodní projekt. Naši největší dárci jste vy, občané, nikoliv firmy. Proto si vážíme daru v jakékoliv výši. Podpora Pirátů je investice do budoucnosti Česka.</p>
-  </div>
-  <div class="large-4 columns">
-    <a href="https://www.facebook.com/events/274271136398027/">
-      <h2>
-        <i class="fa fa-facebook-official" aria-hidden="true"></i>
-        Přihlašete se k volbě Pirátů na Facebooku!
-      </h2>
-    </a>
-    <p>Možná právě tímto gestem dodáte odvahu i vašim přátelům! Ukažme, že je nás dost.
-    Nastavit si můžete i Pirátskou profilovku, stačí <a href="https://www.facebook.com/profilepicframes/">kliknout sem</a> a zadat do vyhledávání Česká pirátská strana.</p>
-  </div>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-34662053-2']);
+		_gaq.push(['_trackPageview']);
 
-</div>
+		(function() {
+		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<nav class="navbar navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<a href="/"><img src="img/logo.svg" alt="logo"></a>
+			</div>
+			<div class="cernenabilem"><span>Všichni nekradou!</span> </div>
+			<div class="social text-right">
+				<ul>
+					<li class="twitter"><a href="https://twitter.com/PiratskaStrana" target="_blank"></a></li>
+					<li class="facebook"><a href="https://www.facebook.com/ceska.piratska.strana" target="_blank"></a></li>
+					<li class="google-plus"><a href="https://plus.google.com/+piratskastrana" target="_blank"></a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<div class="jumbotron">
+		<div class="container">
+			<div class="row">
+				<a href="https://www.facebook.com/events/274271136398027/" class="slogan_velky"><img src="img/slogan_velky.png" alt="slogan velký" class="slogan_velky img-responsive" alt=""></a>
+				<a href="https://www.facebook.com/events/274271136398027/" class="slogan_maly"><img src="img/slogan_maly.png" alt="slogan malý" class="slogan_maly img-responsive" alt=""></a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container text-center">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="https://www.pirati.cz/program/psp2017.html"><img src="img/zivnost.png" alt="Program pro volby do PSP 2017" class="img-responsive" style="margin: 0 auto;">
+				<h3>Volební program</h3></a> <br> Program pro volby do poslanecké sněmovny 2017 je dělen do kapitol po jednotlivých ministerstvech. V každé kapitole píšeme jasně a střízlivě, co chceme během 4 let ve sněmovně prosadit.
+				<br><br>
+				<a href="https://www.pirati.cz/program/psp2017.html" class="btn btn-primary">Volební program</a> <br>
+			</div>
+
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="https://www.facebook.com/profilepicframes?selected_overlay_id=117654338882830">	<img src="img/profil.png" alt="FB profil" class="img-responsive" style="margin: 0 auto;">
+					<h3>naskočte na palubu!</h3></a><br> Přihlaste se k volbě Pirátů na Facebooku! Možná právě tímto gestem dodáte odvahu i vašim přátelům! Ukažme, že je nás dost.
+				<br><br><br>
+				<a href="https://www.facebook.com/profilepicframes?selected_overlay_id=117654338882830" class="btn btn-primary">Nastavit profilovku</a> <br>
+			</div>
+
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="https://dary.pirati.cz">	<img src="img/dar.png" alt="dary" class="img-responsive" style="margin: 0 auto;">
+					<h3>Přispějte finančně</h3></a><br> Jsme strana založená lidmi, nikoliv obchodní projekt. Naši největší dárci jste vy, občané, nikoliv firmy. Proto si vážíme daru v jakékoliv výši. Podpora Pirátů je investice do budoucnosti Česka.
+				<br><br>
+				<a href="https://dary.pirati.cz" class="btn btn-primary">Přispět</a> <br>
+			</div>
+		</div>
+		<br><br>
+	</div>
+
+	<div class="container text-center">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="https://www.pirati.cz/volby/2017/">	<img src="img/listiny.png" alt="kandidátní listiny" class="img-responsive" style="margin: 0 auto;">
+		<h3>Kandidátní listiny</h3></a><br> Kandidáty volíme v primárních volbách. Všichni kandidáti podepsali Kodex poslance a Povolební strategii.
+				<br><br> <br><br>
+				<a href="https://www.pirati.cz/volby/2017/" class="btn btn-primary">Prohlédnout kandidátky</a> <br>
+			</div>
+
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="{{'ebook' | relative_url}}"><img src="img/kniha.png" alt="ebook" class="img-responsive" style="margin: 0 auto;">
+					<h3> Pirátský e-book</h3>
+				</a><br>
+				Jsme čitelní. Přečtěte si v našem e-booku, jak Piráti změní Českou republiku.
+				<br>
+				<br>
+				<br>
+				<br>
+				<a href="{{'ebook' | relative_url}}" class="btn btn-primary">Stáhnout</a><br>
+
+			</div>
+
+			<div class="col-xs-12 col-sm-4"> <br>
+				<a href="https://urad.pirati.cz/"><img src="img/razitko.png" alt="Vize e-governmentu" class="img-responsive" style="margin: 0 auto;">
+			<h3>Vize e-governmentu</h3></a> <br>Piráti představili konkrétní vizi e-governmentu. Na úřad z domova. Svoboda, na kterou si můžete sáhnout.
+
+				<br><br><br><br>
+				<a href="https://urad.pirati.cz/" class="btn btn-primary">Chci to vidět</a> <br>
+			</div>
+		</div>
+		<div class="row text-center">
+			<br> <br>
+			<a href="{{'portal' | relative_url }}" class="btn btn-lg btn-primary">Vstup na hlavní stranu</a> <br>
+		</div>
+		<br><br>
+	</div>
+	<!-- /container -->
+	<!-- Modal -->
+
+	<footer class="footer">
+		<div class="container">
+			<div class="col-md-8 col-xs-12">
+				<p><span class="u-mirror-horizontally">©</span> Piráti, 2017. Všechna práva vyhlazena. Sdílejte a nechte ostatní sdílet za stejných podmínek.
+
+				</p>
+			</div>
+			<div class="col-md-4 col-xs-12 text-right">
+				<p>
+					<a href="https://www.pirati.cz/program/psp2017.html" target="_blank">Program Pirátů</a> |
+					<a href="https://www.facebook.com/ceska.piratska.strana/" target="_blank">FB</a>
+				</p>
+			</div>
+
+		</div>
+	</footer>
+</body>
+
+</html>

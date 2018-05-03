@@ -1,7 +1,7 @@
 ---
 title: "Piráti hlásí výsledky rozhodnutí Ústavního soudu ve věci cenzury Internetu. Boj proti plošnému šmírování občanů Vojenskou rozvědkou pokračuje."
 author: Věra Marušiaková
-tags: cenzura-internetu
+tags: cenzura šmírování
 date: 2017-02-22
 image: /assets/img/articles/2017/cenzura-internetu-ustavni-soud.jpg
 category:     blog

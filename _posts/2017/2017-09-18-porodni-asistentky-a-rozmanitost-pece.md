@@ -5,12 +5,12 @@ title: "Za důstojné porody: Chceme možnost volby a rozmanitou péči"
 date: 2017-09-18T13:03:00+02:00
 author: Jakub Dušánek
 image: /assets/img/articles/2017/vanicka.jpg
-tags: zdravotnictvi
+tags: zdravotnictví
 ---
  
 Svoboda volby je pro Piráty zásadní hodnotou. Proto dáme možnost výběru i rodičkám a umožníme přítomnost porodních asistentek u porodu.
 
-V předporodní i porodní péči se dnes využívají praktiky odporující doporučením Světové zdravotnické organizace. Jsou jimi např. Kristellerova exprese (tlak na břišní dno), rutinní používání epiziotomie (nástřih hráze) nebo vyvolávání porodu. Ty chceme v ČR ukončit.
+V předporodní i porodní péči se dnes využívají praktiky odporující doporučením Světové zdravotnické organizace. Jsou jimi např. Kristellerova exprese (tlak na břišní stěnu a pánevní dno), rutinní používání epiziotomie (nástřih hráze) nebo vyvolávání porodu. Ty chceme v ČR ukončit.
 
 > „Bezpečný porod je individuální záležitost a rozhodnutí, zda větší bezpečí přinese porod vedený lékařem, nebo porodní asistentkou, má být v rukou rodičky. Pro některé ženy může znamenat bezpečný porod možnost si po obeznámení s riziky zvolit císařský řez, pro jiné mít na porod víc času a intimity,“ říká Olga Richterová, zastupitelka na Praze 10, která se problematikou porodní a poporodní péče dlouhodobě zabývá. 
 

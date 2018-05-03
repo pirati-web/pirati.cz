@@ -5,7 +5,7 @@ title: "Pirátský autobus jede dál. Soud vysvětlil odmítnutí žádosti Neč
 date: 2017-09-08T12:11:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ridici.jpg
-tags: kampan
+tags: kampaň kauzy
 ---
  
 Piráti dnes obdrželi vysvětlení rozhodnutí, kterým Obvodní soud pro Prahu 3 zamítl předběžné opatření, které požadovala Jana Nečasová (dříve Nagyová) kvůli vyobrazení kauzy Nagyová na pirátském volebním autobuse. 

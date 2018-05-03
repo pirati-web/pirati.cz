@@ -5,7 +5,7 @@ title: "Díky, díky, díky!"
 date: 2017-09-30T15:37:00+02:00
 author: Ivan Bartoš
 image: /assets/img/articles/2017/ivan-podekovani.jpg
-tags: kampan
+tags: kampaň
 ---
  
 Díky vám všem, kdo se jakkoliv podílíte na volební kampani. Má to smysl. Jen za posledních deset dnů se zapojilo do reálné kampaně 500 aktivních voličů (koupili si triko a Pirátské listy). Rvěte se za nás ještě čtyři týdny, my se za vás budeme rvát čtyři roky.

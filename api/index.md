@@ -17,6 +17,7 @@ Přístupné je:
 - další služby
   - graph api [graph.pirati.cz](https://graph.pirati.cz)
   - data z účetnictví [pirati.alvarium.cz](http://pirati.alvarium.cz)
+  - [redmine](https://redmine.pirati.cz) api: [doc](http://www.redmine.org/projects/redmine/wiki/Rest_api)
 
 ## Přístup
 
@@ -35,7 +36,7 @@ $.get('/api/search.json')
 });
 ```
 
-**Python**:
+**Python 3**:
 
 ```python
 from urllib.request import urlopen

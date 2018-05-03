@@ -5,7 +5,7 @@ title: "Piráti: Babiši, Sobotko, jedeme si pro vás!"
 date: 2017-08-14T10:39:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/veznobus-2.jpg
-tags: kampan
+tags: kampaň vláda
 ---
 
 Piráti vyráží na silnice – speciální vězeňský autobus, který mají k dispozici, bude po celý zbytek předvolební kampaně svým zevnějškem připomínat porevoluční politické kauzy. Do voleb navštíví pirátský autobus všechna okresní města v ČR.

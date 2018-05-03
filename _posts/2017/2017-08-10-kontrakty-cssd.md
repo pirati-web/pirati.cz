@@ -5,7 +5,7 @@ title: "Piráti odhalili podnikatelské vazby neznámých členů ČSSD: z měst
 date: 2017-08-10T14:45:49+02:00
 author: Adam Zábranský
 image: /assets/img/articles/2017/lasesmed.jpg
-tags: kauzy, cssd
+tags: kauzy praha
 ---
 
 Piráti rozkryli síť podnikatelských vztahů Zdeňka Zadiny a Petra Ženíška, jejichž firmy mají s různými subjekty ovládanými Prahou uzavřené smlouvy za více než 1,5 miliardy korun. Zadina a Ženíšek jsou členové ČSSD na Praze 14 a jsou známi tím, že se drží v pozadí. Vedle Pirátů kauzu rozkryly i Hospodářské noviny a Aktuálně.cz.

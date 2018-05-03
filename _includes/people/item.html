@@ -12,11 +12,19 @@
         <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
       </h2>
       <p>{{item.description}}</p>
+      {% if item.asistent %}
+      <p>
+        Asistent/ka: {{item.asistent.name}}<br />
+        {{item.asistent.tel}}<br />
+        <a href="mailto:{{item.asistent.mail}}">{{item.asistent.mail}}</a><br>
+      </p>
+      {% else %}
       {% if item.mob or item.mail %}
       <p>
         {{item.mob}}<br>
-        <a href="mailto:{{item.mail}}">{{item.mail}}</a><br>
+        <a href="mailto:{{item.mail | first}}">{{item.mail | first}}</a><br>
       </p>
+      {% endif %}
       {% endif %}
     </div>
   </div>

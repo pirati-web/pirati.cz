@@ -5,7 +5,7 @@ title: "Piráti přichází v kampani s peticemi. Podpis za poctivější stát 
 date: 2017-08-25T10:44:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/petice.jpg
-tags: kampan
+tags: kampaň přímá-demokracie
 ---
 
 Piráti otevřeli v rámci probíhající kontaktní kampaně petiční stánky. V pěti bodech **[petice](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/petice-za-kontrolu-moci-a-mocnych.pdf)** chce strana vyjádřit nutnost přijetí zákonů, které zajistí poctivý a otevřený stát. Petici proto nazvali Pro kontrolu moci a mocných. V petičním výboru jsou čelní představitelé strany – Ivan Bartoš, Dana Balcarová a Jakub Michálek.

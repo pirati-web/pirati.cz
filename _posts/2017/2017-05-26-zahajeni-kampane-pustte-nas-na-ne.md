@@ -1,7 +1,7 @@
 ---
 date:         2017-05-26
 category:     blog
-tags:         kampan praha volby
+tags:         kampaň praha volby
 layout:       post
 title:        "Piráti zahájili kampaň: Pusťte nás na ně! vyzýval voliče lídr strany Bartoš."
 image:          /assets/img/articles/2017/ivan-vyskakuje.jpg

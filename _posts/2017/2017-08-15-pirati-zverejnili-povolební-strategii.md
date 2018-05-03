@@ -5,7 +5,7 @@ title: "Piráti schválili povolební strategii"
 date: 2017-08-15T14:40:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-cf.jpg
-tags: kampan
+tags: kampaň volby
 ---
 
 Členové České pirátské strany 15. srpna v internetovém hlasování schválili svou **[povolební strategii](/program/psp2017/povolebni-strategie/)** – dokument, který stanoví vyjednávací priority Pirátů a vymezuje, s kým budou moci pirátští poslanci vyjednávat o vládě a za jakých podmínek. Piráti si schválili dvacet konkrétních opatření, která chtějí v Poslanecké sněmovně PČR prosadit. 

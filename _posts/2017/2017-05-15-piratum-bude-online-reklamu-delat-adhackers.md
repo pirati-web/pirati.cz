@@ -1,7 +1,7 @@
 ---
 date:         2017-05-15
 category:     blog
-tags:         pirati
+tags:         piráti kampaň 
 layout:       post
 title:        "Pirátům bude online reklamu dělat AdHackers Jana Řeháka"
 image:          /assets/img/articles/2017/adhackers.jpg

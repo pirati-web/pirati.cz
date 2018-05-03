@@ -1,7 +1,7 @@
 ---
 date:         2017-07-20 10:00
 category:     blog
-tags:         čez ustavni-soud infozákon
+tags:         čez legislativa
 layout:       post
 title:        "Piráti navrhnou změnu Zákona o svobodném přístupu k informacím, ČEZ musí být pod kontrolou občanů"
 image:          /assets/img/articles/2017/cez.png

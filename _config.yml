@@ -50,7 +50,7 @@ collections:
     permalink: /pripoj-se/:title/
   elections:
     output: true
-    permalink: /volby/:path/
+    permalink: /snemovna/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -86,5 +86,27 @@ defaults:   # defaults values for collection scope
 calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
 fb: https://www.facebook.com/ceska.piratska.strana/
 tw: PiratskaStrana
+
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-pulrok.gif
+    alt: snemovna
+    url: snemovna
+  left-top:
+    text: Regiony
+    url: regiony
+    icon: fa fa-map-signs
+  right-top:
+    text: Naši lidé
+    url: lide
+    icon: fa fa-users
+  left-bottom:
+    text: Darujte
+    url: https://dary.pirati.cz
+    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
+  right-bottom:
+    text: Program<br> Černé na bílém
+    url: program
+    icon: fa fa-newspaper-o u-rotate-345
 
 emptyArray: []

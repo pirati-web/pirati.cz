@@ -5,7 +5,7 @@ title: "Soud zamítl žádost Nečasové o stažení její podobizny z pirátsk�
 date: 2017-10-03T10:36:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/nagyova.jpg
-tags: kampan
+tags: kampaň kauzy
 ---
  
 Soud prvního stupně kompletně zamítl žádost Jany Nečasové (dříve Nagyové) o stažení její podobizny z pirátského vězeňského autobusu. Potvrdil tak rozhodnutí odvolacího soudu, který rozhodl, že kritika Jany Nečasové ze strany Pirátů ve formě karikatury je přípustná a přiměřená. Tvrzení Nečasové nejsou podle soudu ničím podložená a proto je nelze akceptovat. 

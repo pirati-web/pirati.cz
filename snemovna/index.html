@@ -1,0 +1,92 @@
+---
+layout: default
+---
+<div class="l-micropage page--snemovna">
+    <nav class="c-top-sub-nav u-center-860-down">
+        <div class="row">
+            <div class="c-top-sub-nav-inner">
+                <div class="u-cf">
+                    <div class="c-top-sub-nav-header">
+                        <div class="c-top-sub-nav__heading">Piráti ve sněmovně</div>
+                    </div>
+                    <div class="c-top-sub-nav-divider"></div>
+                    <ul class="c-top-sub-nav-items">
+                        <li class="c-top-sub-nav__item"><a href="#priority">Plnění programu</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#klub">Poslanci</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#vykaz">Čerpání financí</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#aktuality">Aktuality</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="l-micropage__hero">
+        <div class="row o-section">
+            <div class="medium-12 columns">
+                <div class="l-micropage__hero-text">
+                    <h1 div class="l-micropage__hero-subhead cta">Podívejte se, jak Vaši poslanci pracují:</h1>
+                    <p class="l-micropage__perex">Vaši poslanci pracují za Vaše peníze a jsou tu hlavně pro Vás. Krom informací o plnění programu na této stránce najdete také informace o čerpání poslaneckých náhrad, úkoly a kalendář každého jednotlivého poslance.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="l-micropage__section row o-section" id="priority">
+        <div class="small-12 columns">
+            {% include_relative priority.html %}
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section " id="klub">
+        <div class="small-12 columns">
+            {% include_relative klub.html %}
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section" id="vykaz">
+        <div class="small-12 columns">
+            <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
+            <!---iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>--->
+            {% include accounting.html %}
+            <script>
+              pirates.priorityStack.push(function (context) {
+                // make new CORS for data
+                var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
+                if (!xhr) {
+                  alert('CORS not supported');
+                  return;
+                }
+                xhr.onload = function() {
+                  var doc = xhr.responseText;
+                  // Parse CSV to JS Object
+                  pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
+
+                  //create empty dataseries object - todo: could cache it with local storage
+                  pirates.dataseries = [];
+
+                  // Set default account
+                  pirates.accountChart = pirates.accounting.selectAccount('all');
+
+                  var ctrl = document.getElementById("account_control");
+                  // Fill control with options
+                  pirates.accounting.makeControls(ctrl,pirates.accountingData.byAccount);
+                  // Bind control handler
+                  ctrl.onchange=pirates.accounting.onAccountSelect;
+                }
+                xhr.onerror = function() {
+                  alert('Woops, there was an error making the request.');
+                };
+                xhr.send();
+              });
+            </script>
+
+        </div>
+    </section>
+    <section class="l-micropage__section row o-section " id="aktuality">
+        <div class="small-12 columns">
+            {% include_relative _aktuality.html %}
+        </div>
+    </section>
+
+    <div class="l-micropage__modal" style="display: none"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+</div>

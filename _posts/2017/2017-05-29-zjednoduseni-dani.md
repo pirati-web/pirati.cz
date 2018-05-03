@@ -1,7 +1,7 @@
 ---
 date:         2017-05-26
 category:     blog
-tags:         volby ekonomika dane
+tags:         volby ekonomika program
 layout:       post
 title:        "Piráti zjednodušují daně pro zaměstnance, spustili daňovou kalkulačku."
 image:          /assets/img/articles/2017/dane.png

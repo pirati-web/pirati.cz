@@ -16,6 +16,6 @@ V energetice podporujeme následující zásady:
 * Tržní prostředí. Odmítáme státem zaručené výkupní ceny elektřiny, zelené bonusy a jiné formy subvencí. U stávajících dotací trváme na rovných podmínkách a snadné administrativě. Provozovatelé čistých technologií mohou být motivováni např. daňovými úlevami a negativní dopady na [životní prostředí][zivotni-prostredi] se musí promítnout do daní a cen.
 * Průhlednost veřejných institucí v energetice. Energetické úřady, ČEZ a další veřejné podniky řízené státem nebo samosprávami musí mít zcela průhledné řízení a hospodaření. Informace o své činnosti by měly zveřejňovat na svých internetových stránkách ([transparence][transparence]).
 
-[transparence]: https://www.pirati.cz/program/dlouhodoby/transparence
+[transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace
 [zivotni-prostredi]: https://www.pirati.cz/program/dlouhodoby/zivotni_prostredi
 [veda]: https://www.pirati.cz/program/dlouhodoby/veda

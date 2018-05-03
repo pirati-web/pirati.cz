@@ -1,7 +1,7 @@
 ---
 title: "Piráti ke svozu odpadních vod v Plzni: Neřízená dotace"
 author: Věra Marušiaková
-tags: plzeň, odpadní-hospodářství
+tags: plzeňský-kraj životní-prostředí
 date: 2017-01-30
 image: /assets/img/articles/2017/kadibudka.jpg
 category:     blog

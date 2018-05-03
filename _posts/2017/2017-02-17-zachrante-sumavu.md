@@ -1,7 +1,7 @@
 ---
 title: "Výzva Pirátů poslancům: Nedopusťte plundrování přírody NP Šumava"
 author: Věra Marušiaková
-tags: příroda
+tags: životní-prostředí
 date: 2017-02-17
 image: /assets/img/articles/2017/zachrante-sumavu.jpg
 category:     blog

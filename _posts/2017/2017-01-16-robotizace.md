@@ -1,7 +1,7 @@
 ---
 date:         2017-01-16
 category:     blog
-tags:         robotizace
+tags:         ekonomika
 layout:       post
 title:        "Česko je v EU druhou zemí nejvíce ohroženou robotizací. Odpovědí by mohl být nepodmíněný základní příjem"
 image:        /assets/img/articles/2017/robotizace.jpg

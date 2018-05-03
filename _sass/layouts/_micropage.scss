@@ -1,0 +1,329 @@
+$dark: #343434;
+$u: 1.25rem;
+body{
+  overflow-x: hidden;
+}
+%before-util{
+  content: '';
+  display: block;
+  position: absolute;
+  z-index: -1;
+  background: rgba($dark, .50);
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+%before-pattern{
+  background: -webkit-linear-gradient(-90deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), -webkit-linear-gradient(0deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), rgba(0,0,0,0.5);
+  background: -moz-linear-gradient(180deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), -moz-linear-gradient(90deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), rgba(0,0,0,0.5);
+  background: linear-gradient(180deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), linear-gradient(90deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 20%, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.2) 40%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.5) 80%, rgba(0,0,0,0.5) 100%), rgba(0,0,0,0.5);
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+
+  background-position: auto auto;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.u-big{
+  font-size: 1.5em;
+}
+.l-micropage{
+  $unit: 1.125rem;
+  $light: #fff;
+  $accent: #f3c289;
+  position: relative;
+  //&:before{
+  //  @extend %before-util;
+  //  background: url(pomer.svg);
+  //  background-size: contain;
+  //  background-repeat: no-repeat;
+  //  width: 1460px;
+  //  filter: grayscale(100%);
+  //  left: calc(50% - 730px);
+  //}
+  .cta{
+    position: relative;
+    font-size: 1.25em;
+    color: $dark;
+    font-weight: bold;
+    display: inline-block;
+    top:-.75em;
+    margin:auto;
+    @include breakpoint(mobile up) {
+      font-size: 1.5em;
+    }
+    &:before{
+      @extend %before-util;
+      background: orange;
+      top: -5px;
+      bottom: -5px;
+      left: -5px;
+      right: -5px;
+    }
+  }
+  .row > .l-vizitka{
+    float: left;
+  }
+  &__modal{
+    position: fixed;
+    background: white;
+
+    top: 4.75rem;
+    bottom: 0;
+    left: 0;
+    right:0;
+    //border-radius: 2*$unit;
+    box-shadow: 0px 0px 2*$unit $unit rgba($dark,.5);
+    padding: 2.25rem;
+    overflow: auto;
+    z-index: 19;
+    @include breakpoint(mobile up) {
+      top: 20%;
+      bottom: 20%;
+      left: 50%;
+      max-width: 800px;
+      margin-left: -400px;
+    }
+    &-close{
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba($dark, .9);
+      z-index: 18;
+      text-align: center;
+      padding-top: 1.7rem;
+      cursor: pointer;
+      color: white;
+      @include breakpoint(mobile up) {
+        padding-top: 10%;
+      }
+    }
+
+  }
+  &__section{
+    padding: 2*$unit;
+    @include breakpoint(mobile down) {
+      padding: $unit;
+      overflow: hidden;
+    }
+  }
+
+  &__top-bar{
+    background-color: $dark;
+    color: white;
+    text-align: center;
+    padding: 0;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    &__list{
+      background-color: transparent !important;
+      &-item{
+        width: 25%;
+        @include breakpoint(mobile up) {
+          padding: $unit;
+          display: inline-block !important;
+          width: auto;
+        }
+        a{
+          color: $light !important;
+          font-size: .75rem !important;
+          @include breakpoint(mobile up) {
+            font-size: 1rem !important;
+          }
+
+          @include breakpoint(mobile down) {
+            padding: 0.7rem !important;
+          }
+        }
+      }
+    }
+    &.c-top-bar .dropdown.menu>li+li>a::before{
+      left: -1.5rem;
+      @include breakpoint(mobile down) {
+        display: none;
+      }
+    }
+  }
+  &__toggle{
+    &--more{
+      display: block;
+      text-align: center;
+      position: relative;
+      margin: $unit 0;
+      color: rgba($dark,.5);
+      &:before{
+        @extend %before-util;
+        top: auto;
+        height: 1px;
+        opacity: .3;
+        bottom: 50%;
+        right: 75%;
+      }
+      &:after{
+        @extend %before-util;
+        top: auto;
+        height: 1px;
+        opacity: .3;
+        bottom: 50%;
+        left: 75%;
+      }
+    }
+  }
+  &__hero{
+    //padding: 6*$unit 0;
+    overflow: hidden;
+    position: relative;
+    line-height: 1;
+    font-size: 1.125em;
+
+    p{
+      &:last-child{
+        margin-bottom: 0;
+      }
+    }
+
+    small{
+      font-size: 1.5rem;
+    }
+    //&:after{
+    //  @extend %before-util;
+    //  @extend %before-pattern;
+    //  transform: rotate(585deg) translate(-65%, 85%);
+    //  opacity: 0.2;
+    //  width: 80vh;
+    //  height: 80vh;
+    //}
+    &-subhead{
+      line-height: 1.25;
+      margin-bottom: $unit;
+    }
+    &-head{
+      font-size: 4em;
+      font-weight: bold;
+      color: white;
+    }
+    &-text{
+      text-align: center;
+      position: relative;
+      //background: rgba(#ffffff,.85);
+      padding: $unit;
+      @include breakpoint(mobile up) {
+        padding: 2*$unit;
+      }
+
+    }
+  }
+  &__heading{
+    text-align: center;
+    @extend .c-BasicPage__title;
+    //font-size: 2.5em;
+    //margin-bottom: 4*$unit ;
+    //position: relative;
+    //color: white;
+    //&:before{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  left: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(45deg);
+    //    right: 10%;
+    //  }
+    //}
+    //&:after{
+    //  @extend %before-util;
+    //  top: -$unit;
+    //  bottom: -$unit;
+    //  right: -20%;
+    //  @include breakpoint(mobile up) {
+    //    transform: skew(-45deg);
+    //    left: 10%;
+    //  }
+    //}
+  }
+  &__perex{
+    font-size: 1.25em;
+    @include breakpoint(mobile up) {
+      margin-bottom: 3*$unit;
+    }
+    & + & {
+      margin-top: -2*$unit;
+    }
+
+    &-columns{
+
+      column-count: 2;
+      column-gap: 2*$u;
+      padding: $u 0;
+      margin-bottom: 2*$u;
+    }
+  }
+  &__flexed{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  &__sticky{
+    position: sticky;
+    top: 64px;
+    z-index: 1;
+  }
+  &__detail{
+    background: rgba($dark,.05);
+    &-title{
+      @extend .o-section__heading;
+      border-bottom: 3px solid #f3c289;
+      margin: $u 0 2*$u;
+      padding: $u 0;
+      //position: relative;
+      //font-size: 1.75em;
+      //&:before{
+      //  @extend %before-util;
+      //  //right: -100%;
+      //  //border-bottom: 1px solid $dark;
+      //  top: auto;
+      //  height: 1px;
+      //}
+      p + &{
+        margin-top: 2*$u;
+      }
+    }
+  }
+
+  &__end{
+    p+p{
+
+    }
+  }
+
+  .orbit{
+    display: none;
+    &[data-orbit*=orbit]{
+      display: block;
+    }
+    &-slide{
+      @include breakpoint(mobile down) {
+        display: block !important;
+      }
+    }
+    &-previous, &-next{
+      @include breakpoint(mobile down) {
+        display: none;
+      }
+      background: rgba(10,10,10,0.3);
+      &:hover{
+        background: rgba(10,10,10,0.5);
+      }
+    }
+  }
+}

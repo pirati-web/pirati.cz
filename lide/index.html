@@ -28,6 +28,10 @@ img: brand/logo.svg
                                                             <label for="group1">Předsednictvo strany</label>
                                                         </li>
                                                         <li>
+                                                            <input type="checkbox" name="group[]" id="group6" value="">
+                                                            <label for="group6">Poslanci a poslankyně</label>
+                                                        </li>
+                                                        <li>
                                                             <input type="checkbox" name="group[]" id="group2" value="">
                                                             <label for="group2">Krajští zastupitelé</label>
                                                         </li>
@@ -79,6 +83,15 @@ img: brand/logo.svg
                                     <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
                                     <div id="rp" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a>
+                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>

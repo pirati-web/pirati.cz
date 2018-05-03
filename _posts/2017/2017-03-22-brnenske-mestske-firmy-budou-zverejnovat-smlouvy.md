@@ -1,7 +1,7 @@
 ---
 title: "Brno bude dál zveřejňovat smlouvy městských firem. Navzdory vykostění zákona o registru smluv poslanci"
 author: Tomáš Koláčný
-tags: brno
+tags: jihomoravský-kraj
 date: 2017-03-22
 image: /assets/img/articles/2017/pero.jpg
 category:     blog

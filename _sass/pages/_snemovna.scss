@@ -1,0 +1,101 @@
+#priority{
+  .f-label--donut{
+    //position: absolute;
+    //$size: 80px;
+    //height: $size;
+    //width: 2*$size;
+    //top: 50%;
+    //left: 50%;
+    //margin-left: -$size;
+    //margin-top: -.5*$size;
+    text-align: center;
+    padding: 0 1.25rem;
+    @include breakpoint(medium up) {
+      height: 10em;
+    }
+    z-index: 1;
+  }
+  ol{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    li{
+      flex-basis: 100%;
+      @include breakpoint(medium up) {
+        flex-basis: 20%;
+      }
+      flex-shrink: 0;
+      position: relative;
+    }
+  }
+}
+
+.page{
+  &--snemovna{
+    .c-top-sub-nav .c-top-sub-nav-inner:before{
+      @extend %before-util;
+      //@extend %before-pattern;
+      background: url(pomer.svg) no-repeat center center;
+      transform: translate(21%, 15%);
+      z-index: 1;
+      right: 50px;
+      left: auto;
+      max-height: 90px;
+      width: 10%;
+      //@include breakpoint(mobile down) {
+      //  display: none;
+      //}
+      @include breakpoint(medium down) {
+        width: 120px;
+        right: 50%;
+        margin-right: -30px;
+        bottom: 30px;
+        top: auto;
+      }
+    }
+  }
+}
+
+#account_control{
+  margin: auto;
+  max-width: 320px;
+}
+
+.w-accounting{
+  &__table{
+    width: 100% !important;
+  }
+  &__group{
+    &-heading{
+      font-weight: bold;
+      border-bottom: 1px solid rgba($black, .05);
+      td{
+        padding: .5*$unit 0;
+      }
+      input{
+        margin: 0 .5*$unit;
+      }
+
+      & + tbody{
+        display: none;
+      }
+      &--opened{
+        & + tbody{
+          display: table-row-group;
+        }
+      }
+    }
+  }
+}
+
+.u-sticky{
+  position: sticky;
+  top:0;
+  text-align: center;
+  background: white;
+  border-bottom: 1px solid rgba($black, .05);
+  margin-bottom: $unit;
+  padding-bottom: $unit;
+}
+#account_table{
+}

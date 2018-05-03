@@ -43,7 +43,10 @@
     <meta property="og:url"           content="{{page.url | absolute_url }}" />
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700|Open+Sans:400,600,700&amp;subset=latin-ext" rel="stylesheet">
     <link href="{{'assets/css/main.css' | relative_url }}" rel="stylesheet">
     {% endif %}
+    <script>
+      window.pirates = window.pirates || {};
+      pirates.priorityStack = [];
+    </script>
 </head>

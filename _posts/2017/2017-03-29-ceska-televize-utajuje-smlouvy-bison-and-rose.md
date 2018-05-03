@@ -1,7 +1,7 @@
 ---
 title: "Česká televize tají PR smlouvy s Bison & Rose"
 author: Jakub Michálek
-tags: praha
+tags: televize kauzy
 date: 2017-03-29
 image: /assets/img/articles/2017/dvorak.jpg
 category:     blog

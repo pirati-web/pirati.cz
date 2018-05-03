@@ -5,7 +5,7 @@ title: Šéf Pirátů Bartoš zahájí středočeskou předvolební tour 4. srpn
 date: 2017-07-31T08:53:16.000Z
 author: Karolina Sadílková
 image: /assets/img/articles/2017/freeride2.jpg
-tags: psp2017 volby parlament
+tags: střední-čechy kampaň 
 ---
 
 **Jedenáct měst středních Čech a Prahu navštíví během srpna a září lídr České pirátské strany Ivan Bartoš, a to v rámci předvolební Freeride tour. Společně s ním vystoupí na tour legendy české hiphopové a elektronické scény jako James Cole, MessenJah, Jan Vrobel GnostaG, DJ Lynx, Selector Boldrik, Vůdůkrů nebo Rastafari DJ’s. Zahájení pirátské kampaně proběhne v pátek 4. srpna v pražském klubu Uhelna na Smíchově.**

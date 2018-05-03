@@ -5,7 +5,7 @@ fullname: Pavel Bulíček  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - khk
 img: people/pavel-bulicek.jpg   # 165 x 220
-description: předseda krajského sdružení Královéhradeckého kraje           	# kratký popis, max 160 znaků
+description: Předseda krajského sdružení Královéhradeckého kraje           	# kratký popis, max 160 znaků
 mail:
 - pavel.bulicek@pirati.cz
 mob:			  

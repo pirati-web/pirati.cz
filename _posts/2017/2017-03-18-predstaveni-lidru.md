@@ -1,7 +1,7 @@
 ---
 title: "Na Celorepublikovém fóru Pirátů se představují lídři krajských kandidátek pro parlamentní volby 2017"
 author: Věra Marušiaková
-tags: volby
+tags: volby kampaň piráti
 date: 2017-03-19
 image: /assets/img/articles/2017/lidri.jpg
 category:     blog

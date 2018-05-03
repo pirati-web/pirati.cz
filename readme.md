@@ -4,7 +4,7 @@
 
 ## Lokální spuštění
 
-Instalacee na **Fedora 25+**: `dnf install npm ruby ruby-devel rubygem-bundler rubygem-nokogiri libffi zlib`
+Instalacee na **Fedora 25+**: `dnf install cmake gcc npm ruby ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
 
 Instalace **Ubuntu 16.04 LTS** (funguje též pro ubuntu podsystém ve **Windows 10**):
 

@@ -1,27 +1,42 @@
 ---
+data-version: 2
 uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 fullname: Ondřej Profant  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 - ga
+- psp
 img: people/ondrej-profant.jpg # 165 x 220
-description: Zastupitel v zastupitelstvu hl. m. Prahy, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Prahu a předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
 mail:
+- profanto@psp.cz
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
+direct-contact: false
+asistenti:
+  - name: Stanislava Pajerová
+    mail: profanto@psp.cz
+    tel:  726 362 025
+  - name: Martin Rejman
+    mail: martin.rejman@pirati.cz
 profiles:
-  github:       https://github.com/kedrigern/
+  web:          https://www.profant.eu
+  github:       https://github.com/kedrigern
   facebook: 		https://www.facebook.com/ondrej.profant
   twitter: 		  https://twitter.com/ondrej_profant
-  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+  flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+  report:       https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html
 ordpraha: 2
 ordga: 4
+ordpsp: 20
 videa:
   - JRdjRJjWEx0
+redmine: 3
+report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
+calendar: re22cium9203etd7jv7crbf7ck
 ---
 
-Ondřej Profant (2. května 1988) je pražský zastupitel, předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
+U Pirátů je od začátku a angažuje se v různých funkcích. Od roku 2014 působil jako zastupitel Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení pražské radiové sítě. Dále se v Praze zabýval majetkem, dopravou a bezpečností. V roce 2017 byl zvolen do Poslanecké sněmovny, kde je členem Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost, Stálé komise pro práci Kanceláře Poslanecké sněmovny, Výboru pro veřejnou správu a regionální rozvoj a podvýborů souvisejících s digitalizací.
 
 ### Motivace
 
@@ -35,13 +50,15 @@ Obecně se angažuje ve svobodné kultuře. V komunitách okolo Linuxu, svobodn�
 
 U Pirátů je od začátku a angažuje se v různých funkcích. Dnes je převážně zastupitelem Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení [pražské radiové sítě][]. Dále se v Praze zabývá majetkem, dopravou a bezpečností.
 
-V rámci Prahy stojí za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
+V rámci Prahy stál za projektem **celopražských [otevřených dat][]**, což jsou jedny z největších otevřených dat v ČR.
 
 ### Osobně
 
 Z dopravních prostředků preferuje kolo. Rád čte satirickou fantasy. Má rád [šifrovačky][]. Používá Fedoru, programuje v Pythonu. Oblíbený citát:
 
 > „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *Aaron Swartz*.
+
+
 
 [sdružení v Praze]: https://praha.pirati.cz
 [Otevřená města]: http://otevrenamesta.cz

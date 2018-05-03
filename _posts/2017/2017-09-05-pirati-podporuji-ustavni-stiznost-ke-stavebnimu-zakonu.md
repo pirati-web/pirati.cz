@@ -5,7 +5,7 @@ title: "Piráti podporují ústavní stížnost senátorů proti novele stavebn�
 date: 2017-09-05T13:25:00+02:00
 author: Dana Balcarová
 image: /assets/img/articles/2017/ustavni-soud.jpg
-tags: stavebni-zakon
+tags: stavební-zákon
 ---
 
 Piráti podporují ústavní stížnost skupiny 17 senátorů, kteří minulý týden napadli u Ústavního soudu (ÚS) novelu stavebního zákona. Ta totiž omezuje účast občanů na stavebním řízení.

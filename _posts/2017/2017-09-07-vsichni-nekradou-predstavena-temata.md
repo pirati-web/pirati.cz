@@ -5,7 +5,7 @@ title: "Všichni nekradou! Piráti představili programové priority do horké f
 date: 2017-09-07T12:34:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-texty.jpg
-tags: kauzy
+tags: kauzy kampaň
 ---
  
 Cílem politiky Pirátů je svobodná a digitálně propojená společnost. Protože jen taková umožňuje vznik bohaté a moderní ekonomiky, která umožní existenci sociálního státu i v budoucnu. Ekonomičtí experti, včetně ministra financí, se netají tím, že současná ekonomika nedokáže zaplatit důchody, platy učitelů a o investicích do moderní infrastruktury nemluvě. Piráti proto představují programové priority, jak společnost přebudovat. Skládá se ze čtyř základních pilířů:

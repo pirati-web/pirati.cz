@@ -5,7 +5,7 @@ title: "Kolínské náměstí se včera rozvlnilo v rytmu Pirátské jízdy svob
 date: 2017-08-23T09:56:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/kolin.jpg
-tags: kampan
+tags: kampaň středočeský-kraj
 ---
 
 Město Kolín bylo tentokrát zastávkou speciální „Pirátské jízdy svobody“, která se koná v rámci středočeské kampaně lídra Pirátů Ivana Bartoše. Na pódiu na kolínském Karlově náměstí opět nechyběly hvězdy české hiphopové a elektronické scény – Vůdůkrů, GnostaG, MessenJah a v neposlední řadě James Cole. V průběhu celého odpoledne a večera se na náměstí vystřídaly stovky lidí.

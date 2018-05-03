@@ -5,7 +5,7 @@ title: "Kvalitní vzdělávání pro všechny musí být politickou prioritou."
 date: 2017-09-04T11:09:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/skola.jpg
-tags: skolstvi
+tags: vzdělání
 ---
 
 Jak by mělo vypadat vzdělávání na českých školách? Podle Pirátů a strany 5 procent pro vzdělání, která kandiduje na pirátských kandidátkách, musí být v oblasti vzdělání hlavní důraz kladen na svobodu a otevřenost – ředitelů, učitelů, rodičů i žáků. Naopak, obě strany odmítají snahy o centralizaci školství, nárůstu byrokracie a glajšaltování žáků.

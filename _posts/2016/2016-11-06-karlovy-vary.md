@@ -1,7 +1,7 @@
 ---
 date:         2016-11-06
 category:     blog
-tags:         Karlovarský-kraj
+tags:         karlovarský-kraj
 layout:       post
 title:        "Piráti na Karlovarsku zaveleli ke změně kurzu. Karlovarský kraj směřuje k větší otevřenosti"
 image:        /assets/img/articles/2016/podpis-koalice-kvk.jpg

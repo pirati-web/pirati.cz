@@ -5,7 +5,7 @@ title: "Začíná pirátská plavba do Sněmovny"
 date: 2017-08-16T08:26:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/priplouva.jpg
-tags: kampan
+tags: kampaň
 ---
 
 Ve čtvrtek 17. srpna vyplouvá pirátská solární loď na měsíční plavbu po Labi a Vltavě. Loď startuje z domovského kotviště Marina Píšťany u Lovosic a první víkend navštíví i s lídrem Pirátů Ivanem Bartošem na palubě hlavní centra severu země – Ústí nad Labem a Děčín. Během čtyřtýdenní plavby pak plavidlo zakotví v řadě měst v Ústeckém i Středočeském kraji a v Praze. Celá plavba se koná díky velice úspěšné pirátské fundraisingové sbírce na serveru Hithit.

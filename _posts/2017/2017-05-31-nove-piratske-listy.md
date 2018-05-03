@@ -1,7 +1,7 @@
 ---
 date:         2017-05-31
 category:     blog
-tags:         volby kampan piratske-listy
+tags:         kampaň
 layout:       post
 title:        "Piráti rozdávají 250 000 předvolebních novin, přidejte se!"
 image:          /assets/img/articles/2017/ivan-noviny.jpg

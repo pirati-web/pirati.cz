@@ -62,12 +62,47 @@ var choice_person = function(data, uid, role) {
   }
 }
 
+var choice_person_by_name = function(data, names) {
+  var person = null;
+  var result = [];
+  $.each(data, function(index, person){
+    if(names.includes(person.name)) {
+      result.push(person);
+      return;
+    }
+  });
+  return result;
+}
+
 /** @param {collection} data **/
 var choice_garant = function(data) { return choice_person(data, page_garant, 'garant'); };
 /** @param {collection} data **/
 var choice_leader = function(data) { return choice_person(data, page_leader, 'předseda'); };
 /** @param {collection} data **/
 var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktní osoba'); };
+
+/**
+* TODO: Smaže jména, která nemají profil
+**/
+var author_link = function(data, el) {
+  var authors_text = el.text().split(',').map(function(s) { return s.trim() });
+  var authors = choice_person_by_name(data, authors_text);
+  if(authors.length != authors_text.length) {
+    console.log("Někteří autoři nemají profil.");
+  }
+  el.text('');
+  $.each(authors, function(index, author){
+    var is_last_item = (index == (authors.length - 1));
+    $('<a>',{
+        text: author.name,
+        title: author.name,
+        href: 'https://www.pirati.cz' + author.url
+    }).appendTo(el);
+    if(!is_last_item) {
+      el.append(', ');
+    }
+  });
+}
 
 /**
  * Show people in the #people
@@ -253,6 +288,9 @@ $(function() {
       show_people(data, choice_leader,   $('#leader'));
       if(page_leader != page_contact) {
         show_people(data, choice_contact,  $('#contact'));
+      }
+      if(page_layout == 'post') {
+        author_link(data, $('#authors'));
       }
     })
     .fail(function(data) { console.log('Error in relatives articles:', data); });

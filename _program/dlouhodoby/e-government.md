@@ -25,7 +25,7 @@ Uvědomujeme si, že e-government přináší také nové výzvy, zejména v obl
 
 Po úspěšném zavedení e-governmentu bude možné připravit a po důkladném testování spustit elektronické volby, které jsou důležitým předpokladem pro efektivní fungování [přímé demokracie][prima-demokracie].
 
-[pravni-stat]: https://www.pirati.cz/program/dlouhodoby/pravni_stat
+[pravni-stat]: https://www.pirati.cz/program/dlouhodoby/pravni-stat
 [transparence]: https://www.pirati.cz/program/dlouhodoby/transparentni-organizace
 [svobodny-software]: https://www.pirati.cz/program/dlouhodoby/svoboda-informaci
 [prima-demokracie]: https://www.pirati.cz/program/dlouhodoby/prima-demokracie

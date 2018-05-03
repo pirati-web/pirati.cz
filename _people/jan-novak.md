@@ -5,7 +5,7 @@ fullname: Jan Novák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vys
 img: people/jan-novak.jpg   # 165 x 220
-description: vedoucí personálního odboru           	# kratký popis, max 160 znaků
+description: předseda okresního sdružení Pirátů v Českých Budějovicích           	# kratký popis, max 160 znaků
 mail:
 - jan.novak@pirati.cz
 mob:			  
@@ -16,7 +16,7 @@ profiles:
   flickr:     		  
 ---
 
- Jan Novák (\*19. 1. 1991) se narodil v Českých Budějovicích a většinu svého života strávil v Týně nad Vltavou. V České pirátské straně byl členem Kontrolní komise a nyní je předsedou Českobudějovického okresního sdružení a vedoucím Personálního odboru Pirátů. Vystudoval Střední odbornou školu elektrotechnickou – Centrum odborné přípravy v Hluboké nad Vltavou, kde odmaturoval jako programátor. V dalším vzdělávání se ovšem rozhodl pokračovat jiným směrem, a proto vystudoval bakalářský dvouobor Politologie + Historie na Univerzitě Jana Evangelisty Purkyně v Ústí nad Labem, studium ukončil (včetně státní závěrečné zkoušky) obhájením bakalářské práce na téma Česká pirátská strana. V současné době studuje navazující magisterské studium Politologie na Univerzitě Palackého v Olomouci.
+ Jan Novák (\*19. 1. 1991) se narodil v Českých Budějovicích a většinu svého života strávil v Týně nad Vltavou. V České pirátské straně byl členem Kontrolní komise a nyní je předsedou Českobudějovického okresního sdružení. Vystudoval Střední odbornou školu elektrotechnickou – Centrum odborné přípravy v Hluboké nad Vltavou, kde odmaturoval jako programátor. V dalším vzdělávání se ovšem rozhodl pokračovat jiným směrem, a proto vystudoval bakalářský dvouobor Politologie + Historie na Univerzitě Jana Evangelisty Purkyně v Ústí nad Labem, studium ukončil (včetně státní závěrečné zkoušky) obhájením bakalářské práce na téma Česká pirátská strana. V současné době studuje navazující magisterské studium Politologie na Univerzitě Palackého v Olomouci.
 
 Během studií přičichl jak k elektrikářské, tak k IT praxi, pracoval v lese (i jako pěstební dělník) a na stavbě, objevil se i „ve službách“ organizací Amnesty International či Člověk v tísni. Do Pirátské strany vstoupil v roce 2010, v tomtéž roce pak poprvé kandidoval v komunálních volbách za Pirátskou stranu v Týně nad Vltavou. Pirátem se stal proto, že věří ve svobodomyslnou, otevřenou, sociálně liberální společnost a v právo každého z nás na spolupodílení se na dalším směřování společnosti.
 
@@ -27,4 +27,4 @@ Zajímá se o politologii, ať již co se týká politické filosofie, sociologi
 
 - 2014–2015 člen [Kontrolní komise](https://wiki.pirati.cz/kk/start)
 - 2015–doposud předseda MS Českobudějovicko
-- 2017–doposud vedoucí [Personálního odboru](https://wiki.pirati.cz/po/start)
+- 2017 vedoucí [Personálního odboru](https://wiki.pirati.cz/po/start)

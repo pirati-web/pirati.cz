@@ -5,7 +5,7 @@ title: "Pirátská kampaň nabírá na obrátkách. Předseda Bartoš procestova
 date: 2017-08-20T12:59:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/lod-decin.jpg
-tags: kampan
+tags: kampaň ústecký-kraj
 ---
 
 Předseda a volební lídr Pirátů Ivan Bartoš strávil dva dny v Ústeckém kraji. Na pirátské lodi projel města Děčín a Ústí nad Labem, čas trávil i v pirátském satirickém autobusu upozorňujícím na kauzy českých politiků. Prohlídka autobusu či svezení na ekologické lodi byla u místních oblíbenou atrakcí. Kampaň navíc provázely po celý víkend koncerty, vystoupení buskerů či třeba žonglovací show, akce se konaly nejen na ulici, ale i v klubech. 

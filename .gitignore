@@ -6,6 +6,9 @@ _podklady/html/pirati.cz/
 
 Gemfile.lock
 desktop.ini
+package-lock.json
 
 node_modules
 bower_components
+
+*.db

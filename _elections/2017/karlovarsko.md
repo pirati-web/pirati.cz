@@ -7,5 +7,5 @@ region: kraj
 categories:
 - kandidatky
 tags:
-- karlovarsky-kraj, volby, lídr, petr třešňák
+- karlovarsky-kraj, volby, lídr, petr třešňák, kandidátky, kandidáti, leadr, karlovalský kraj, pavel bulíček, karlovarsky kraj, 
 ---
