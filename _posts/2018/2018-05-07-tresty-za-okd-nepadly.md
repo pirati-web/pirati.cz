@@ -1,7 +1,7 @@
 ---
 date:         2018-05-07
 category:     blog
-tags:         bezpečnost
+tags:         kauzy
 layout:       post
 title:        "Tresty v kauze OKD nepadly. Soud dnes všechny obviněné osvobodil"
 image:        /assets/img/articles/2018/cernohorsky2.jpg
