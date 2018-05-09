@@ -15,7 +15,9 @@ Praha, 9. května 2018 – Hospodářský výbor Poslanecké sněmovny dnes dopo
  
 
 ### Přehled kauz ČEZu
+
 **Kauza lobbisty Nue Kalaje - Albánie**
+
 ČEZ platil na základě nejasných důvodů kosovskému lobbistovi za jeho poradenské služby v souvislosti se vstupem ČEZ na albánský trh.
 
 **Solární kauzy - investice s Amun.Re a další (2009/2010)**
