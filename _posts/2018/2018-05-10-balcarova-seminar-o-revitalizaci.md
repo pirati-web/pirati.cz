@@ -16,3 +16,4 @@ Praha, 10. května 2018 – Pod záštitou Dany Balcarové, pirátské předsedk
 Expertní skupina pracovala dva roky a její členové pocházejí z různých zájmových oblastí – energetických firem, státní správy, místní samosprávy, nevládních neziskových organizací, odborů apod. Výsledkem jejich intenzivních debat  je řada doporučení pro tvůrce strategií rozvoje.
  
 Studie byla vydaná Nadací Heinrich-Böll-Stiftung a její plné znění si můžete přečíst [zde].(http://cz.boell.org/cs/2018/05/07/budoucnost-hnedouhelnych-regionu-v-evrope-vyzvy-pro-ceskou-republiku-nemecko)
+
