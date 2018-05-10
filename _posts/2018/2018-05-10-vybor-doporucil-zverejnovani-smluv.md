@@ -15,4 +15,4 @@ Praha, 10. května 2018 – Návrh Pirátů na zveřejňování informací a sml
  
 > „Zákon o registru smluv a zrušení výjimek je jednou z 20 prezentovaných pirátských priorit. Nyní máme příležitost vykostěnou legislativu napravit. Za dnešní posun patří díky nejen Pirátům, našim legislativcům a odborníkům, ale i poslancům stran, kteří návrh podpořili. Je to zatím malé vítězství a ještě dlouhá cesta před námi,“ uvedl Ivan Bartoš.
  
-Návrh je nyní zaparkován na Ústavně právním výboru a Výboru pro bezpečnost, které jeho projednávání přerušily na neurčito. „Přerušení jednání může být záminkou, aby návrh nebylo možné zařadit na program Sněmovny,“ popisuje další cestu pirátského návrhu Jakub Michálek. Zveřejňování smluv ČEZu naráží na nejsilnější odpor zejména mezi lidovci a KSČM.
+Návrh je nyní zaparkován na Ústavně právním výboru a Výboru pro bezpečnost, které jeho projednávání přerušily na neurčito. „Přerušení jednání může být záminkou, aby návrh nebyl prohlasován na program Sněmovny,“ popisuje další cestu pirátského návrhu Jakub Michálek. Zveřejňování smluv ČEZu naráží na nejsilnější odpor zejména mezi lidovci a KSČM.
