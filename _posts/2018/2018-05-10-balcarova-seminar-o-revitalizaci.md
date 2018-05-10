@@ -3,7 +3,7 @@ date:         2018-05-10
 category:     blog
 tags:         životní-prostředí
 layout:       post
-title:        "Dana Balcarová zaštítila seminář o revitalizaci hnědouhelnch regionů"
+title:        "Dana Balcarová zaštítila seminář o revitalizaci hnědouhelných regionů"
 image:        /assets/img/articles/2018/seminar-revitalizace.jpg
 author:       Jakub Dušánek
 ---
