@@ -29,7 +29,7 @@ bundle install                          # Nainstaluje lokálně potřebné gemy 
 
 Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
 
-`bundle exec jekyll serve`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
+`bundle exec jekyll server`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
 
 V případě puštění v kontejneru při selhání konverze scss zkontrolujte nastavení `locale`. Mělo by být nastaveno `utf-8`.
 Je-li `POSIX`, doinstalujte např. balíček:
