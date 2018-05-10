@@ -105,15 +105,15 @@
               <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
                 <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
               </li>
-              <li{% if page.url contains 'otevrenost' or page.url contains 'ke-stazeni' %} class="is-active"{% endif %}>
+              <li{% if page.url contains 'otevrenost' or page.url contains 'download' %} class="is-active"{% endif %}>
                 <a href="{{ '/otevrenost/' | relative_url }}">Zveřejňujeme</a>
 
                 <ul class="menu vertical">
                   <li{% if page.url contains 'otevrenost'%} class="is-active"{% endif %}>
                     <a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a>
                   </li>
-                  <li{% if page.url contains 'ke-stazeni'%} class="is-active"{% endif %}>
-                    <a href="{{ '/ke-stazeni/' | relative_url }}">Ke stažení</a>
+                  <li{% if page.url contains 'download'%} class="is-active"{% endif %}>
+                    <a href="{{ '/download/' | relative_url }}">Ke stažení</a>
                   </li>
                 </ul>
               </li>
