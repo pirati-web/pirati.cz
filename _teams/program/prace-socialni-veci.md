@@ -43,10 +43,10 @@ Tým pro oblast práce a sociální věci se schází podle potřeby, obvykle p�
 
 Členové týmu jsou:
 
-* **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, místopředsedkyně Výboru pro sociální politiku, členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
-* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, poslanec, člen Výboru pro sociální politiku, předseda [Podvýboru pro informační technologie a dávkové systémy](http://www.psp.cz/sqw/hp.sqw?k=4329), člen [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **Vít Šimral**, garant programového bodu Práce a sociální věci
-* **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)**, místostarosta města Mariánské Lázně a zastupitel Karlovarského kraje, garant programového bodu Místní rozvoj           
-* **Zuzan Freitasová**, asistentka poslankyně Olgy Richterové
+* **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
+* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, poslanec, člen [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), předseda [Podvýboru pro informační technologie a dávkové systémy](http://www.psp.cz/sqw/hp.sqw?k=4329), člen [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
+* **Vít Šimral**, garant [programového bodu Práce a sociální věci](https://www.pirati.cz/program/psp2017/prace-a-socialni-veci/)
+* **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)**, místostarosta města Mariánské Lázně a zastupitel Karlovarského kraje, garant [programového bodu Místní rozvoj](https://www.pirati.cz/program/psp2017/mistni-rozvoj/)
+* **Zuzana Freitasová**, asistentka poslankyně Olgy Richterové
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. Ivan Bartoš v otázkách dostupného bydlení, Tomáš Martínek v daňových otázkách).
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/) v otázkách dostupného bydlení, [Tomáš Martínek](https://www.pirati.cz/lide/tomas-martinek/) v daňových otázkách).
