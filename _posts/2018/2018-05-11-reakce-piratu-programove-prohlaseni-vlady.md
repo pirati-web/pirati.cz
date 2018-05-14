@@ -26,14 +26,14 @@ Piráti také připomínají několik bodů, které v dokumentu chybí úplně. 
 
 * **Za nekoncepční lze podle Pirátů označit rozšíření kompetencí a represivních pravomocí Celní správy**, která spadá pod Ministerstvo financí. Pravomoci v oblasti trestního řízení a vyšetřování by měly dle Pirátů zůstat zůstat v rukou policie.
 
-###Piráti vidí v programovém prohlášení i pozitivní prvky:
+### Piráti vidí v programovém prohlášení i pozitivní prvky:
 * **Piráti kladně vnímají závazek elektronizace zdravotnictví a soudnictví, zavedení vysokorychlostního internetu i příslib fungujícího e-Governmentu.** Priority digitalizace jsou v tomto ohledu velmi podobné jako v programovém prohlášení z minulého volebního období. Piráti si proto kladou otázku, zda tato předsevzetí neskončí stejně, jako za minulé vlády ČSSD, ANO a lidovců, tedy bez konkrétního výsledku. “Ostatní státy EU nám v oblasti digitalizace utekly nebo nás předběhly. Za poslední období mnoho nových projektů a služeb nevzniklo, v lepším případě se udržoval současný, ne příliš efektivní stav - to je věta, kterou v poslední době slýcháváme ze všech stran. Že ji ale nejdeme i v programovém prohlášení dvou stran, které byly součástí minulé vlády je poněkud schizofrenní. Je to přiznání vlastní neschopnosti digitalizaci ČR nastartovat během předchozího volebního období. Jak tedy můžeme věřit tomu, že nyní se to už skutečně povede a státy kolem nás doženeme?” říká na adresu digitalizace Pirát Ondřej Profant.
 
 * **Správný přístup vidí Piráti v oblasti exekucí,** v níž dokument vystihuje zásadní nedostatky současného systému. Zavedení principu jeden dlužník – jeden exekutor je klíčové stejně jako teritorialita exekutorů. Pirátů také oceňují citlivý postoj k sociálnímu bydlení. “Sociální bydlení není investiční projekt, ale komplexní potřeba,” říká předseda Pirátů Ivan Bartoš, který v současné době s Olgou Richterovou spolupracuje na řešení sociálního bydlení s MMR.
 
 * **Zvyšování platů učitelů a zdravotnického personálu** je jedním z klíčových prvků vzdělanostní ekonomiky a udržení kvalifikovaných pracovních sil. Cíl zvýšit platy učitelů i nepedagogů tak, aby se v roce 2021 dostaly platy minimálně na 150 procent oproti roku 2017, je podle Pirátů ambiciózní, nikoliv ale z podstaty špatný.
 
-###Kromě uvedených bodů Piráti připomínají několik chybějících zásadních bodů:
+### Kromě uvedených bodů Piráti připomínají několik chybějících zásadních bodů:
 * **Zrušení podpory biopaliv a kontrola poskytování zemědělských dotací se přímo dotýkají předmětu podnikání trestně stíhaného premiéra v demisi Andreje Babiše, jejich absence tedy není pro Piráty velkým překvapením.
 
 * **Dokument ANO a ČSSD se na několika místech věnuje digitalizaci a e-Governmentu. Obě strany přitom spolu působily ve vládě a během 4 let udělaly jen minimum věcí, které si předsevzaly. Jednotné inkasní místo nahradilo ANO názvem MOJE daně, ale už se nezabývá tím, zda tento úkol bude plnit Ministerstvo vnitra, Ministerstvo financí anebo nový mezirezortní orgán. Nejasná zodpovědnost za úkol zřejmě opět povede k nečinnosti.
