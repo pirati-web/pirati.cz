@@ -4,7 +4,7 @@ category:     blog
 tags:         bydlení
 layout:       post
 title:        "Piráti: Česká ekonomika potřebuje aktuální zákony pro Airbnb"
-image:        /assets/img/articles/2018/michalek-airbnb.jpg
+image:        /assets/img/articles/2018/michalek-airbnb.jpeg
 author:       Mediální odbor
 ---
 
