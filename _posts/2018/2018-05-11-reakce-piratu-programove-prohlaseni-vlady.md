@@ -34,9 +34,9 @@ Piráti také připomínají několik bodů, které v dokumentu chybí úplně. 
 * **Zvyšování platů učitelů a zdravotnického personálu** je jedním z klíčových prvků vzdělanostní ekonomiky a udržení kvalifikovaných pracovních sil. Cíl zvýšit platy učitelů i nepedagogů tak, aby se v roce 2021 dostaly platy minimálně na 150 procent oproti roku 2017, je podle Pirátů ambiciózní, nikoliv ale z podstaty špatný.
 
 ### Kromě uvedených bodů Piráti připomínají několik chybějících zásadních bodů:
-* **Zrušení podpory biopaliv a kontrola poskytování zemědělských dotací se přímo dotýkají předmětu podnikání trestně stíhaného premiéra v demisi Andreje Babiše, jejich absence tedy není pro Piráty velkým překvapením.
+* **Zrušení podpory biopaliv a kontrola poskytování zemědělských dotací** se přímo dotýkají předmětu podnikání trestně stíhaného premiéra v demisi Andreje Babiše, jejich absence tedy není pro Piráty velkým překvapením.
 
-* **Dokument ANO a ČSSD se na několika místech věnuje digitalizaci a e-Governmentu. Obě strany přitom spolu působily ve vládě a během 4 let udělaly jen minimum věcí, které si předsevzaly. Jednotné inkasní místo nahradilo ANO názvem MOJE daně, ale už se nezabývá tím, zda tento úkol bude plnit Ministerstvo vnitra, Ministerstvo financí anebo nový mezirezortní orgán. Nejasná zodpovědnost za úkol zřejmě opět povede k nečinnosti.
+* **Dokument ANO a ČSSD se na několika místech věnuje digitalizaci a e-Governmentu. Obě strany přitom spolu působily ve vládě** a během 4 let udělaly jen minimum věcí, které si předsevzaly. Jednotné inkasní místo nahradilo ANO názvem MOJE daně, ale už se nezabývá tím, zda tento úkol bude plnit Ministerstvo vnitra, Ministerstvo financí anebo nový mezirezortní orgán. Nejasná zodpovědnost za úkol zřejmě opět povede k nečinnosti.
 
-* **Piráti čekají na stanovisko Ústavního soudu, kterému podali návrh na zrušení plošného sběru dat. Minulá vláda s účastí ANO i ČSSD během dvou let nedokázala naplnit nařízení Soudního dvora EU, který přikázal zrušení legislativy, která zavedla plošné sledování uživatelů internetu i telefonů. K tomuto rozporu se v dnes vydaném dokumentu koalice nevyjádřila.
+* **Piráti čekají na stanovisko Ústavního soudu, kterému podali návrh na zrušení plošného sběru dat.** Minulá vláda s účastí ANO i ČSSD během dvou let nedokázala naplnit nařízení Soudního dvora EU, který přikázal zrušení legislativy, která zavedla plošné sledování uživatelů internetu i telefonů. K tomuto rozporu se v dnes vydaném dokumentu koalice nevyjádřila.
 
