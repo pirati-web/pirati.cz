@@ -1,10 +1,10 @@
 ---
 date:         2018-05-14
 category:     blog
-tags:         bydlení
+tags:         zemědělství
 layout:       post
 title:        "Piráti: Stav lesů je vážný, budeme chtít mimořádnou schůzi Poslanecké sněmovny"
-image:        /assets/img/articles/2018/holomcik.jpeg
+image:        /assets/img/articles/2018/holomcik.jpg
 author:       Mediální odbor
 ---
 
