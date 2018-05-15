@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Kdy zmizí těžní věže z Beskyd? Pirát Černohorský interpeluje ministra"
-image:        /assets/img/articles/2018/tezebni-vez.jpg
+image:        /assets/img/articles/2018/tezebni-vez.JPG
 author:       Mediální odbor
 ---
 
