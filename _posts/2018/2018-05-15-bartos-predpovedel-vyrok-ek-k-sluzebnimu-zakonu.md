@@ -15,5 +15,5 @@ Praha, 15. května 2018 – „Od Evropské komise lze očekávat vůči služeb
  
 Se zástupci Evropské komise projednávala česká strana novelu zákona o státní službě v březnu a v dubnu obdržel náměstek ministra vnitra pro státní službu Josef Postránecký dopis, v němž Evropská komise kritizuje tytéž body, které dříve vytýkali Piráti: Snížení požadavků pro vyšší úředníky v druhém kole výběrových řízení nebo odvolávání úředníků už za “dostačující“ hodnocení 4 z pětibodové škály, což představuje rozšíření z 25 % na 40 % oproti minulému čtyřbodovému hodnocení. Dále je to skončení služebního poměru státního zaměstnance po dvou po sobě jdoucích služebních hodnoceních během 40 dnů a zbavení vedoucích úředníků možnosti podat námitku proti služebnímu hodnocení. Evropská komise navíc uvádí, že neexistuje dostatek relevantních analýz, které by podložily navrhované kroky vlády bez důvěry.
  
-[Dokument se stanoviskem Evropské komise](https://www.pirati.cz/assets/pdf/informace-novela-zakona-o-statni-sluzbe).
+[Dokument se stanoviskem Evropské komise](https://www.pirati.cz/assets/pdf/informace-novela-zakona-o-statni-sluzbe.pdf).
 
