@@ -1,7 +1,7 @@
 ---
 name: Finance
 title: Finance
-img: 
+img: teams/financni-tym.jpg
 leader: mikulas.ferjencik
 deputy:
  - jan.posvar
