@@ -38,7 +38,7 @@ description: Kandidátní listiny Pirátů pro volby do PS Parlamentu ČR 2017
                   {% for item in myteams%}
                   {% if site.data.elections.y2017[item.uid] %}
                   <li>
-                    <a href="{{item.uid | prepend: 'volby/2017/' | relative_url}}">
+                    <a href="{{item.uid | prepend: 'snemovna/2017/' | relative_url}}">
                       {{item.name}}
                     </a>
                   </li>
