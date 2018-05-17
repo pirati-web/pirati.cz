@@ -44,3 +44,8 @@ Petr Třešňák (\*1983) pirátský poslanec PSP ČR za Karlovarský kraj. Rovn
 V letech 1998–2007 pobýval převážně v Plzni. Zde absolvoval nejprve SPŠ Dopravní, obor Informační technologie a poté Fakultu elektrotechnickou, ZČU. Pro zájem o ekologii a energetiku se zde zvolil studijní obor jménem Technická ekologie na Katedře energetiky a ekologie, kde se věnoval převážně obnovitelným zdrojům a jejich nasazení v prostředí ČR. Po absolvování fakulty zakotvil v odvětví jaderné energetiky, kde pracuje doposud jako specialista bezpečnosti. Kromě zájmů již zmíněných, které se promítly i do profesního zaměření, byla již od střední školy jeho hlavní zálibou (životním stylem) punk a hardcore hudba. V současnosti stále hraje v kapelách Ethos of Nemesis a Řetězová reakce.
 
 V roce 2014 byl ve volbách do zastupitelstev obcí zvolen a stal se místostarostou Mariánských lázní. V roce 2015, po rezignaci rovněž pirátského starosty Ing. arch. Vojtěcha Franty, si s ním vyměnil místo ve vedení města a stal se starostou.
+
+Kalendář
+--------
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=j369tl2tqj69o4drlucqhbrb8g%40group.calendar.google.com&amp;color=%23865A5A&amp;src=1rrtco5ddrrsilracgc9e6csog%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FPrague" style="border-width:0" width="760" height="600" frameborder="0" scrolling="no"></iframe>
