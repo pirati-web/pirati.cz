@@ -40,4 +40,4 @@ Od roku 2010 se pohybuje ve strážnické komunální politice. V rámci spolupr
 Kalendář
 --------
 
-<iframe src="https://calendar.google.com/calendar/embed?src=cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="760" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
