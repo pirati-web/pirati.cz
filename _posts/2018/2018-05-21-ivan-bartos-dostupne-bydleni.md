@@ -3,7 +3,7 @@ date:         2018-05-21
 category:     blog
 tags:         bydlení
 layout:       post
-title:        "Co je dostupné bydlení a proč se jím Piráti nejen ve Sněmovně tolik zabývají?"
+title:        "Komentář Ivana Bartoše: Co je dostupné bydlení a proč se jím Piráti nejen ve Sněmovně tolik zabývají?"
 image:        /assets/img/articles/2018/ivan-mikrofon.jpg
 author:       Ivan Bartoš
 ---
