@@ -4,7 +4,7 @@ category:     blog
 tags:         bydlení
 layout:       post
 title:        "Komentář Ivana Bartoše: Co je dostupné bydlení a proč se jím Piráti nejen ve Sněmovně tolik zabývají?"
-image:        /assets/img/articles/2018/ivan-mikrofony.jpg
+image:        /assets/img/articles/2018/ivan-mikrofon.jpg
 author:       Ivan Bartoš
 ---
 
