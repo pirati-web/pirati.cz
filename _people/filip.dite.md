@@ -11,9 +11,10 @@ mail:
 mob: 770 113 646
 profiles:
   github:
-  facebook: https://www.facebook.com/zuzana.petruvova
+  facebook: 
   twitter:
   linkedin:
+  web: https://wiki.pirati.cz/lide/filip_dite
 ---
 
 Filip Dítě je koordinátorem Středočeského kraje.
