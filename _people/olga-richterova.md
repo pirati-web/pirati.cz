@@ -14,10 +14,16 @@ mail:
 - olga.richterova@pirati.cz
 mob: +420 774 153 361
 asistenti:
-  - name: Mgr. Soňa Pohanková
-    mail: pohankovas@psp.cz
+  - name: Jaroslava Vatay (organizace schůzek a podněty občanů)
+    mob: +420 778 111 459
+    mail: jaroslava.vatay@pirati.cz
   - name: Zuzana Freitas Lopesová
-  - name: Elizabet Kovačeva
+    mob: +420 776 278 860
+    mail: richterovao@psp.cz
+  - name: Mgr. Soňa Pohanková
+    mob: +420 778 111 457
+    mail: richterovao@psp.cz
+ 
 office:
   - address: Francouzská 164/108, 101 00  Praha 10 - Vršovice
     opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
