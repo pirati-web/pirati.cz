@@ -5,7 +5,7 @@ fullname: Líba Věříšová  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/liba-verisova.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Karlovarský kraj # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Královéhradecký kraj # kratký popis, max 160 znaků
 mail:
 - liba.verisova@pirati.cz
 mob: 
@@ -16,7 +16,7 @@ profiles:
   linkedin:
 ---
 
-Líba Věříšová (* 16. července 1969) je krajskou koordinátorkou pro Králohradecký kraj v Pirátské straně. Líba pochází z Chlumce nad Cidlinou a od roku 2014 žije v Hradci Králové.
+Líba Věříšová (* 16. července 1969) je krajskou koordinátorkou pro Královéhradecký kraj v Pirátské straně. Líba pochází z Chlumce nad Cidlinou a od roku 2014 žije v Hradci Králové.
 
 Vystudoval SPŠS v Hradci Králové. V průběhu studia se specializovala na automatizaci.
 
