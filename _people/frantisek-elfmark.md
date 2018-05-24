@@ -10,19 +10,23 @@ img: people/frantisek-elfmark.jpg   # 165 x 220
 description: poslanec PSP ČR za Zlínský kraj, radní města Uherské Hradiště            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
-- frantisek.elfmark@pirati.cz
+- elfmarkf@psp.cz
 mob:	  
+web: www.frantisekelfmark.cz
 asistenti:
-  - name: Marek Houser
+  - name: Marek Houser (Uherské Hradiště)
     mail: marek.houser@pirati.cz
     tel:  725 611 894
+  - name: Jakub Brejša (Praha)
+    mail: brejsaj@psp.cz
+    tel:  774 623 653
 office: 
-  - address: Jiřího náměstí 39, 290 33 Poděbrady
+  - address: Stojanova 1334, 3. patro budovy Triangl, Uherské Hradiště
     opening: 
 profiles:
   github:       
-  facebook:     https://www.facebook.com/felfmark
-  twitter: 	
+  facebook:     https://www.facebook.com/FrantisekElfmark.DiS/
+  twitter: 	http://twitter.com/ElfmarkF
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20elfmark&view_all=1
   report: 		https://forum.pirati.cz/poslanci-f884/report-poslance-frantiska-elfmarka-t39035.html
