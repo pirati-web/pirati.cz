@@ -8,7 +8,7 @@ img: people/helena-vondrakova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Liberecký kraj # kratký popis, max 160 znaků
 mail:
 - helena.vondrakova@pirati.cz
-mob: 770 113 645
+mob: 77O 113 645
 profiles:
   github:
   facebook:

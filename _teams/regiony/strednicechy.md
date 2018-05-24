@@ -11,7 +11,7 @@ deputy:
 - Petra Smutná
 - Jan Lukášek
 contact:
-- Filip Dítě, Štěpán Drtina
+- filip.dite
 region: Středočeský kraj
 url: https://strednicechy.pirati.cz
 categories:
