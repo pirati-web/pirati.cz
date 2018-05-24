@@ -8,7 +8,7 @@ img: people/liba-verisova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Královéhradecký kraj # kratký popis, max 160 znaků
 mail:
 - liba.verisova@pirati.cz
-mob: 
+mob: 775 977 O98
 profiles:
   github:
   facebook:

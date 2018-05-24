@@ -8,7 +8,7 @@ img: people/lucie-trckova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Karlovarský kraj # kratký popis, max 160 znaků
 mail:
 - lucie.trckova@pirati.cz
-mob: 
+mob: 778 111 472
 profiles:
   github:
   facebook:
