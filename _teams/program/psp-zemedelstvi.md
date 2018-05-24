@@ -21,7 +21,7 @@ Vítejte na stránce pirátského **týmu pro zemědělství**.
 Co děláme?
 ----------
 * prosazujeme sněmovní volební program v oblasti [zemědělství](https://www.pirati.cz/program/psp2017/zemedelstvi/),
-* projednáváme sněmovní tisky, které jsou přiřazeny [Zemědělskému výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4700),
+* projednáváme sněmovní tisky, které jsou přikázány [Zemědělskému výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4700),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci Ministerstva zemědělství a v otázkách majících vztah k zemědělství i Ministerstvo životního prostředí,
 * rozpracováváme [dlouhodobý program pro zemědělství](https://www.pirati.cz/program/dlouhodoby/zemedelstvi/), připravujeme jeho rozšíření do podbodů (ochrana půdy, potravinářství, lesnictví atd.) a iniciujeme vznik programového bodu “Rozvoj venkova”
@@ -53,9 +53,9 @@ Fungování týmu
 
 Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Jiří Valenta.
 Členové týmu jsou:
-* **[Aleš Jakl](https://www.pirati.cz/lide/ales-jakl/)**, garant zemědělského programu Pirátské strany
-* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda Zemědělského výboru, člen Podvýboru pro lesní hospodářství a Podvýboru pro ochranu přírody a krajiny
-* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, člen Zemědělského výboru, člen Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství
+* **[Aleš Jakl](https://www.pirati.cz/lide/ales-jakl/)**, garant [zemědělského programu](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
+* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
+* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
 * Jiří Valenta, právník, asistent poslance Radka Holomčíka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Výboru pro životní prostředí, Hospodářského výboru a Rozpočtového výboru).
