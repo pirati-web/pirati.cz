@@ -20,7 +20,7 @@ calendar: # id google kalendáře s událostmi
 Co děláme?
 ----------
 
-* v poslanecké sněmovně prosazujeme volební program v oblasti [životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/), projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP) nebo i související tisky
+* v poslanecké sněmovně prosazujeme volební program v oblasti [životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/), projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP), nebo i související tisky
 * aktivita je primárně směřována na práci ve Výboru pro životní prostředí (http://www.psp.cz/sqw/hp.sqw?k=4600)
 * předkládáme vlastní pozměňovací návrhy
 * okruhy témat, která řešíme v souvislosti s legislativním procesem PSP:
