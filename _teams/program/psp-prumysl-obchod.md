@@ -31,7 +31,7 @@ Co děláme?
   * komunikace podnikatelů s úřady
   * průmysl 4.0
   * snížení cen volání a dat
-  * ekonomická soběstačnost
+  * energetická soběstačnost
 
 Jak se můžete zapojit?
 ----------------------
