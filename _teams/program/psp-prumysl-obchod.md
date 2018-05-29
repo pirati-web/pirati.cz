@@ -6,8 +6,11 @@ img: teams/prumysl-a-obchod.jpg # obrázek nemusíte dodávat
 leader: petr.tresnak
 deputy:
 - martin.jiranek
-contact:
-- tomas.eichler
+contact-local:
+  name: Tomáš Eichler
+  mob: 737 529 753
+  mail: eichlert@psp.cz
+  img: 
 tags:
 - průmysl a obchod
 category: resort
