@@ -6,8 +6,11 @@ leader: mikulas.peksa
 deputy:
  - jan.lipavsky
  - frantisek.kopriva
-contact:
-- mikulas.peksa
+contact-local:
+  name: David Wagner
+  mob:
+  mail: david.wagner@pirati.cz
+  img: 
 category: resort
 redmine: https://redmine.pirati.cz/projects/ezo-tym
 uid: ezo
