@@ -6,8 +6,11 @@ img: teams/zivotni-prostredi.jpg # obrázek nemusíte dodávat
 leader: dana.balcarova
 deputy:
 - frantisek.elfmark
-contact:
-- zuzana.vachunova
+contact-local:
+  name: Zuzana Vachůnová
+  mob:
+  mail: zuzana.vachunova@gmail.com
+  img: 
 tags:
 - životní prostředí
 category: resort
