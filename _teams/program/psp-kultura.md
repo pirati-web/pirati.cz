@@ -6,8 +6,11 @@ img: teams/kultura.jpg # obrázek nemusíte dodávat
 leader: lenka.kozlova
 deputy:
 - ondrej.polansky
-contact:
-- jaroslav.nemec
+contact-local:
+  name: Jaroslav Němec
+  mob: 608 408 587
+  mail: jarnemec@psp.cz
+  img: 
 tags:
 - kultura
 category: resort
