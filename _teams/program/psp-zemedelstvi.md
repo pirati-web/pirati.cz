@@ -6,8 +6,11 @@ img: teams/zemedelstvi.jpg # obrázek nemusíte dodávat
 leader: radek.holomcik
 deputy:
 - jan.posvar
-contact:
-- jiri.valenta
+contact-local:
+  name: Jiří Valenta
+  mob: 778 111 463
+  mail: jiri.valenta@psp.cz
+  img: 
 tags:
 - zemědělství
 category: resort
