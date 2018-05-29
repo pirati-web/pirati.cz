@@ -6,8 +6,11 @@ img: teams/vnitro.jpg # obrázek nemusíte dodávat
 leader: lukas.kolarik
 deputy:
 - tomas.vymazal
-contact:
-- daniel.galuszka
+contact-local:
+  name: Daniel Galuszka
+  mob: 737 027 376
+  mail: daniel.galuszka@pirati.cz
+  img: 
 tags:
 - vnitro
 - otevřený stát
