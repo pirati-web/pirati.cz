@@ -48,7 +48,17 @@ gulp.task('scripts-custom', function() {
       .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('scripts', ['scripts-libs', 'scripts-custom']);
+var staticHash = require('gulp-static-hash-pirati');
+ 
+gulp.task('static-hash-html', function () {
+    return gulp.src('_includes/js/main.html')
+        .pipe(staticHash({
+            exts: ['js'],
+            }))
+        .pipe(gulp.dest('_includes/js/hashed'));
+});
+
+gulp.task('scripts', ['scripts-libs', 'scripts-custom', 'static-hash-html']);
 
 // Deploy css
 gulp.task('styles-foundation', function() {
