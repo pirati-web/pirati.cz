@@ -4,7 +4,7 @@ category:     blog
 tags:         ekonomika
 layout:       post
 title:        "Piráti nabízejí bezradné vládě pomoc při vytvoření systému podpory začínajících technologických firem"
-image:        /assets/img/articles/2018/jiranek-peksa.jpg
+image:        /assets/img/articles/2018/jiranek-peksa.JPG
 author:       Jakub Dušánek
 ---
 
