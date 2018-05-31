@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
-img: teams/doprava.svg # obrázek nemusíte dodávat
+img: teams/doprava.jpg
 leader: david.witosz
 deputy:
 - jan.licka
