@@ -6,8 +6,11 @@ img: teams/skolstvi.jpg # obrázek nemusíte dodávat
 leader: daniel.mazur
 deputy:
 - daniel.mazur
-contact:
-- david.wagner
+contact-local:
+  name: David Wagner
+  mob: 721 030 120
+  mail: david.wagner@pirati.cz
+  img: 
 tags:
 - skolstvi
 category: resort

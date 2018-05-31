@@ -6,8 +6,11 @@ img: teams/informatika.jpg # obrázek nemusíte dodávat
 leader: ondrej.profant
 deputy:
 - tomas.martinek
-contact:
-- stanislava.pajerova
+contact-local:
+  name: Stanislava Pajerová
+  mob: 726 362 025
+  mail: profanto@psp.cz
+  img: 
 tags:
 - informatika
 - egov

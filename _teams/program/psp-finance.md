@@ -6,8 +6,11 @@ leader: mikulas.ferjencik
 deputy:
  - jan.posvar
 
-contact:
-- jiri.valenta
+contact-local:
+  name: Jiří Valenta
+  mob: 
+  mail: jiri.valenta@pirati.cz
+  img: 
 category: resort
 redmine: 
 uid: psp-finance

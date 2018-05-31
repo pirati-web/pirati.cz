@@ -9,9 +9,13 @@
       </a>
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-inner">
-            <div id="leader"></div>
+            <div id="leader" data-role="Vedoucí"></div>
             <hr>
+            {% if page.contact %}
             <div id="contact"></div>
+            {% else if page.contact-local %}
+            <div id="contact" data-name="{{page.contact-local.name}}" data-mob="{{page.contact-local.mob}}" data-mail="{{page.contact-local.mail}}" data-img="{{page.contact-local.img}}"></div>
+            {% endif %}
             <hr>
             {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
             {% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">FB: {{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}

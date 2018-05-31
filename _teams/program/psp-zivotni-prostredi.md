@@ -6,8 +6,11 @@ img: teams/zivotni-prostredi.jpg # obrázek nemusíte dodávat
 leader: dana.balcarova
 deputy:
 - frantisek.elfmark
-contact:
-- zuzana.vachunova
+contact-local:
+  name: Zuzana Vachůnová
+  mob:
+  mail: zuzana.vachunova@gmail.com
+  img: 
 tags:
 - životní prostředí
 category: resort
@@ -20,7 +23,7 @@ calendar: # id google kalendáře s událostmi
 Co děláme?
 ----------
 
-* v poslanecké sněmovně prosazujeme volební program v oblasti [životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/), projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP) nebo i související tisky
+* v poslanecké sněmovně prosazujeme volební program v oblasti [životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/), projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP), nebo i související tisky
 * aktivita je primárně směřována na práci ve Výboru pro životní prostředí (http://www.psp.cz/sqw/hp.sqw?k=4600)
 * předkládáme vlastní pozměňovací návrhy
 * okruhy témat, která řešíme v souvislosti s legislativním procesem PSP:
@@ -51,6 +54,7 @@ Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy
 * **[Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/)**, poslankyně, předsedkyně [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), garantka programového bodu [Životní prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) pro volby do Poslanecké sněmovny 2017
 * **[František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark/)**, poslanec, člen [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), předseda [Podvýboru pro financování péče o životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4621), člen [Podvýboru pro technickou ochranu životního prostředí](http://www.psp.cz/sqw/hp.sqw?k=4624)
 * **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, poslanec, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620) a [Podvýboru pro udržitelný rozvoj](http://www.psp.cz/sqw/hp.sqw?k=4625)
+* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, poslanec, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
 * **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)**, poslanec, člen [Podvýboru pro technickou ochranu životního prostředí](http://www.psp.cz/sqw/hp.sqw?k=4624)
 * **Jan Nezhyba**, garant bodu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/) v dlouhodobém programu strany
 * **[Martin Šmída](https://www.pirati.cz/lide/martin-smida/)**, specialista na bio odpady

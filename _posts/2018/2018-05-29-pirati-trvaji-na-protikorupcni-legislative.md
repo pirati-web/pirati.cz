@@ -1,0 +1,22 @@
+---
+date:         2018-05-29
+category:     blog
+tags:         sněmovna
+layout:       post
+title:        "Pirátské cíle na aktuální schůzi Sněmovny: Hájit protikorupční legislativu a doprovodit zrušení karenční doby zavedením eNeschopenky"
+image:        /assets/img/articles/2018/tk13schuze.jpg
+author:       Jakub Dušánek
+---
+
+
+Praha, 29. května 2018 – Zařazení pirátského návrhu na rozšíření registru smluv na ČEZ a státní a městské firmy, nominační zákon mířený proti politickým trafikám ve státní správě, vodní zákon nebo zrušení karenční doby byly tématy tiskové konference Pirátů před pokračováním 13. schůze Poslanecké sněmovny. Vyjádření poskytli vedle předsedy Pirátů Ivana Bartoše a předsedy poslaneckého klubu Jakuba Michálka i poslankyně Dana Balcarová a Olga Richterová a poslanec Mikuláš Ferjenčík.
+ 
+> Jakub Michálek uvedl dva klíčové zákony v boji proti korupci: „Pirátská strana přišla s návrhem zákona, který by rozšířil zveřejňování smluv, zejména ČEZu a dalších státních a městských firem. Budeme navrhovat, aby se tím Poslanecká sněmovna zabývala, protože už uplynulo 80 dní, které Sněmovna určila na projednání návrhu ve výborech. Některé výbory, zejména pod vlivem komunistů a lidovců, projednání blokují, proto navrhujeme dozařazení bodu na plénu.“ Krom toho Michálek zmínil zákon o střetu zájmů, který vrátil Senát ve verzi, kterou už dříve zamítla Sněmovna, a která zásadním způsobem omezuje právo občana na informace: „Nepodpoříme utajování majetkových přiznání starostů a nahlašování občanů, kteří se na ně dívají. Pokud má mít tento zákon smysl, občan by měl mít bez problému přístup k informacím. Proto budeme hlasovat proti návrhu, jak ho předložil Senát.“
+ 
+Ivan Bartoš následně představil návrh nominačního zákona: „Pirátský návrh zákona má klíčový dopad pro transparenci a boj proti korupci. Upravuje pravidla pro výběr vedoucích pracovníků a funkcionářů do státem ovládaných firem nebo do dozorčích rad. Po kritizování personálních čistek vlády projevil Andrej Babiš zájem o nominační zákon. Chtěli jsme po debatě se zástupci ANO vyhovět tomuto volání a předložili jej.  Zákon jde nyní do prvního čtení, ve kterém se rozhodne, zda se jím Sněmovna bude zabývat. Zde se ukáže, jak to s bojem s korupcí u jediné vládní strany skutečně je. V tuto chvíli ale nerozumíme kritice od vlády, která se týká například závaznosti doporučení nominačního výboru. Protože v opačném případě si opět může vláda vybrat, koho chce a odmítnout člověka vybraného z řádného výběrového řízení a doporučeného výborem. O přesných parametrech se ale dál chceme bavit před druhým a třetím čtením a řádně na výborech. Jsme proti tomu, aby byli do trafik instalovaní komunisté výměnou za podporu vlády, jak jsme se od samotných komunistů dozvěděli.“
+ 
+> Dana Balcarová, předsedkyně Výboru pro životní prostředí, poté informovala o novele vodního zákona, který Senát zamítl: „Senátorkám  a senátorům se nelíbilo především to, že k novele byla celá řada pozměňovacích návrhů a obsahovala řadu legislativně technických nedostatků. Senát proto doporučuje Ministerstvu životního prostředí přijít s komplexní a technicky i procesně správně provedenou novelou. Ministerstvu se tak nevyplatila neblahá praxe předkládat pozměňovací návrhy prostřednictvím poslanců ANO, aby se tak vyhnulo legislativní pravidlům vlády, včetně povinnosti zpracovávat zprávu o dopadu novely, tzv. RIA. Z celkem 31 předložených pozměňovacích návrhů jich poslanci ANO předložili 17. Piráti při hlasování ve třetím čtení novelu nemohli podpořit a nepodpoří ji ani dnes.“
+ 
+Sněmovna se bude zabývat též zrušením karenční doby a zavedením tzv. zálohového výživného. O těchto úpravách informovala Olga Richterová: „Není podle nás fér, aby v případě, že si člověk nemocenské pojištění platí, měl v prvních dnech nemoci minimum příjmů. Klíčové je v této souvislosti zavedení eNeschopenky, která by byla vhodným nástrojem kontroly při současném zrušení karenční doby. Přechození nemoci má závažné ekonomické dopady a podporujeme proto i benefity ve formě sick days. V případě zálohového výživného, které platí ve velké části Evropy, je pro nás stěžejní pomoc samoživitelkám a samoživitelům, kteří mají v realitě velmi omezené možnosti, jak se soudně neplacení bránit.“
+ 
+> Postoj Pirátů hájící možnost zavést odvětranou a stavebně oddělenou kuřárnu prezentoval Mikuláš Ferjenčík: „Nevidíme důvod, proč by to mělo být znemožněno restauračním zařízením, pakliže kuřárny mohou být v obchodních centrech, na letištích nebo i ve Sněmovně. Proto podporujeme, aby návrh prošel do druhého čtení.“

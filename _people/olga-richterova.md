@@ -11,7 +11,7 @@ img: people/olga-richterova.jpg   # 165 x 220
 description: poslankyně PSP ČR, 1. místopředsedkyně Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
-- olga.richterova@pirati.cz
+- richterovao@psp.cz
 mob: +420 774 153 361
 asistenti:
   - name: Jaroslava Vatay (organizace schůzek a podněty občanů)

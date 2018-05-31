@@ -6,8 +6,11 @@ img: teams/zdravotnictvi.jpg # obrázek nemusíte dodávat
 leader: petr.tresnak
 deputy:
 - olga.richterova
-contact:
-- josef.pavlovic
+contact-local:
+  name: Josef Pavlovic
+  mob: 607 517 967
+  mail: josef.pavlovic@pirati.cz
+  img: 
 tags:
 - zdravotnictví
 category: resort
