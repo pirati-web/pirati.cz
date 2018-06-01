@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Piráti prosadili ekologické chování ve Sněmovně"
-image:        /assets/img/articles/2018/bufac.jpg
+image:        /assets/img/articles/2018/plasty.jpg
 author:       Jakub Dušánek
 ---
 
