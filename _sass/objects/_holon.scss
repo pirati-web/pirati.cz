@@ -58,6 +58,10 @@
       color: black;
     }
   }
+  &__text{
+    display: inline-block;
+    height: 4em;
+  }
   &__group-title{
     text-transform: uppercase;
     font-weight: bold;
