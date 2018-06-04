@@ -1,7 +1,7 @@
 ---
 date:         2018-06-04
 category:     blog
-tags:         doprava
+tags:         zemědělství
 layout:       post
 title:        "Komentář poslance Radka Holomčíka: Kvituji, že Evropská komise neustoupila agrokorporacím"
 image:        /assets/img/articles/2018/holomcik-radek2.jpg
