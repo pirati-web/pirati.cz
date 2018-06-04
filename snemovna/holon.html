@@ -1,5 +1,5 @@
 <div class="o-holon--kruh o-holon--type-{{ include.type }}">
 	{% if include.name %}<h5 class="o-holon__heading"><a href="https://redmine.pirati.cz/issues/{{ include.redmine_id }}">{{ include.name }}</a></h5>{% endif %}
 	{% if include.desc %}<span class="o-holon__text">{{ include.desc }}</span>{% endif %}
-	{% if include.redmine_id %}<br/><a href="https://redmine.pirati.cz/issues/{{ include.redmine_id }}"><i class="fa fa-external-link o-holon__link"></i></a>{% endif %}
+	{% if include.redmine_id %}<br/><a tarket="_blank" href="https://redmine.pirati.cz/issues/{{ include.redmine_id }}"><i class="fa fa-external-link o-holon__link"></i></a>{% endif %}
 </div>
