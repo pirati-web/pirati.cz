@@ -6,8 +6,11 @@ img: teams/prace-socialni-veci.jpg # obrázek nemusíte dodávat
 leader: olga.richterova
 deputy:
 - vit.simral
-contact:
-- zuzana.freitas
+contact-local:
+  name: Zuzana Freitas
+  mob: 776 278 860
+  mail: freitas.zuzana@gmail.com
+  img: 
 tags:
 - práce
 - sociální věci

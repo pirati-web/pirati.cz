@@ -35,7 +35,7 @@ Jak se můžete zapojit?
 
 **Nabízíme šanci právníkům sáhnout si nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na <lukas.lev.cervinka@pirati.cz>. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na <lukas.lev.cervinka@pirati.cz>. Rádi vás pozveme na naše setkání. Kontaktní osbou pro oblast lidských práv je poslanec [František Kopřiva](https://www.pirati.cz/lide/frantisek-kopriva/) (<frantisek.kopriva@pirati.cz>).
 
 Fungování týmu
 ---------------
@@ -51,4 +51,4 @@ Fungování týmu
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. Lukáš Kolářík pro oblast exekucí a insolvencí).
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).

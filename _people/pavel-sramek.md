@@ -2,7 +2,7 @@
 uid: pavel.sramek
 name:     Pavel Šrámek      		# běžně používáné jméno
 fullname: Pavel Šrámek  		# jméno s tituly etc.
-category: plzen                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category: plzen, plk                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavel-sramek.jpg           # 165 x 220
 description: Předseda místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
@@ -23,6 +23,6 @@ Snažil se cestovat a poznávat svět, protože ho fascinuje střet kultur a rá
 
 Zbožňuje svou nynější práci, i když je někdy náročná, protože při ní má příležitost poznávat nové lidi, přátelsky s nimi komunikovat a případně jim pomáhat v oblasti pojištění, hypoték a financí. Pracuje jako výhradní pojišťovací zprostředkovatel Allianz pojišťovny a.s. a realitní makléř pro společnost INES Reality s.r.o.
 
-Členem Pirátů je od sprna 2016. V září 2017 před volbami do PSP začal být koordinátorem České pirátské strany v Plzeňském kraji a spolupracoval na volební kampani. Jako koordinátor skončil v lednu 2018, aby se věnoval politické činnosti.
+Členem Pirátů je od sprna 2016. V září 2017 před volbami do PSP začal být koordinátorem České pirátské strany v Plzeňském kraji a spolupracoval na volební kampani. Jako koordinátor skončil v lednu 2018, aby se věnoval politické činnosti. Nyní je předsedou místního sdružení Plzeň České pirátské strany a 3. místopředsedou pro Plzeňský kraj.
 
 Rád plave, jezdí na kole, lyžích a dovádí na snowboardu. Z dalších volnočasových aktivit Pavel nikdy nepohrdne zajímavou diskuzí na jakékoliv téma. :)

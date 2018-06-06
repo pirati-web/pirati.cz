@@ -19,5 +19,5 @@ Jiná situace bude u malých firem, které působí v digitálním prostředí a
  
 > V případě GDPR je především třeba promyslet vlastní situaci. V mnoha případech lidé zjistí, že GDPR nic nezmění. „Pokud si stále nejste jisti, poptejte právního poradce. Počítejte ale s tím, že tito poradci nikdy neponesou za své závěry odpovědnost a případné sankce na ně nebudete moci převést,“ uzavírá Jiránek.
 
-Užitečné informace a interaktivního průvodce najdou zájemci na stránkách [Sdružení pro internetový rozvoj] (http://gdpr.spir.cz). 
+Užitečné informace a interaktivního průvodce najdou zájemci na stránkách [Sdružení pro internetový rozvoj](http://gdpr.spir.cz). 
 

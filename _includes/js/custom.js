@@ -113,9 +113,17 @@ var author_link = function(data, el) {
 var show_people = function(data, who, where) {
   if(where.length) { /* Only if proper div exists */
     var choice = who(data);
+
     $.get(snippet_profile, function (template) {
       var compiled=Handlebars.compile(template);
       $.each(choice, function(index, value) {
+        var dataFields = ['role','name','mob','mail','img'];
+        for (var f in dataFields ){
+            var key = dataFields[f];
+            if( where.attr('data-'+key) != undefined ){
+                value[key] = where.attr('data-'+key);
+            }
+        }
         var html = compiled(value);
         where.append(html);
       });

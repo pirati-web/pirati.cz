@@ -31,4 +31,4 @@ Už od vstupu k Pirátům se Tomáš zajímal o legislativní úskalí nakládá
 
 Tomáš je správcem Pirate Space Brno, kde také tráví většinu svého volného času. Ten v současnosti věnuje především vylepšování svojí 3D tiskárny a stavbě dlouho očekávané kvadrokoptéry.
 
-<iframe width="750" height="750" src="https://pirati.cloud/index.php/apps/calendar/embed/T4B3LEBSCUQ43PDC"></iframe>
+<iframe width="700" height="750" src="https://pirati.cloud/index.php/apps/calendar/embed/T4B3LEBSCUQ43PDC"></iframe>
