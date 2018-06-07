@@ -19,14 +19,19 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
+    justify-content: space-around;
+    margin: 0;
     li{
-      flex-basis: 100%;
+      flex-basis: inherit;
       @include breakpoint(medium up) {
-        flex-basis: 20%;
+        flex-basis: 25%;
       }
       flex-shrink: 0;
       position: relative;
     }
+  }
+  .orbit-container{
+    margin-bottom: 20px;
   }
 }
 

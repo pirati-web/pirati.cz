@@ -1,0 +1,93 @@
+{% assign cols=3 %}
+<h2 class="l-micropage__heading">Plníme program</h2>
+<div itemprop="description" class="">
+	<div class="c-hero-slider orbit" role="region" aria-label="Programové priority"
+			 data-orbit=""
+			 data-use-m-u-i="false">
+		<button class="orbit-previous">
+			<span class="show-for-sr">Předchozí</span>
+			<i class="fa fa-chevron-left" aria-hidden="true"></i>
+		</button>
+		<button class="orbit-next">
+			<span class="show-for-sr">Další</span>
+			<i class="fa fa-chevron-right" aria-hidden="true"></i>
+		</button>
+		<ul class="orbit-container">
+			<li class="orbit-slide" data-orbit-slide="1">
+				<h3 id="kontrola-moci-a-mocných" class="o-holon__group-title text-center">Kontrola moci a mocných</h3>
+				<ol>
+					<li>{% include_relative holon.html
+						name="Žádné výjimky pro ČEZ"
+						desc="Novela o svobodném přístupu k informacím jde do 2. čtení"
+						redmine_id=8091
+						type=1
+						columns=cols
+						%}</li>
+
+					<li>{% include_relative holon.html
+						name="Omezení kumulace platů politiků"
+						desc="Náš návrh v rámci novely o střetu zájmů míří do Sněmovny"
+						redmine_id=9933
+						type=1
+						columns=cols
+						%}</li>
+
+					<li>{% include_relative holon.html
+						name="Nezávislí odborníci ve státní správě"
+						desc="Děláme otevřená výběrová řízení do rady ČTK i státních fondů"
+						redmine_id=8088
+						type=1
+						columns=cols
+						%}</li>
+
+					<li>{% include_relative holon.html
+						name="Odborníci do firem ovládaných státem"
+						desc="Navrhujeme nominační zákon pro transparentní fungování státních firem"
+						redmine_id=8088
+						type=1
+						columns=cols
+						%}</li>
+				</ol>
+			</li>
+			<li class="orbit-slide" data-orbit-slide="2">
+				<ol>
+					<li>
+						<h3 id="ochrana-občanů-před-šikanou" class="o-holon__group-title text-center">Ochrana občanů před šikanou</h3>
+						{% include_relative holon.html
+						name="Vyšetřovací komise OKD"
+						desc="S pomocí nezávislých odborníků vyšetřujeme staré přešlapy státu"
+						redmine_id=8083
+						type=2
+						columns=cols
+						%}</li>
+					<li>
+						<h3 id="zjednodušení-státu-pomocí-technologií" class="o-holon__group-title text-center">Zjednodušení státu pomocí technologií</h3>
+						{% include_relative holon.html
+						name="Otevřená Sněmovna"
+						desc="Připravujeme aplikaci, která umožní občanům sledování veškerých zákonů"
+						redmine_id=8704
+						type=3
+						columns=cols
+						%}</li>
+					<li>
+						<h3 id="obrana-svobody" class="o-holon__group-title text-center">Obrana svobody</h3>
+						{% include_relative holon.html
+						name="Ne plošnému sledování lidí"
+						desc="Podali jsme ústavní stížnost proti zákonu o sledování lidí"
+						redmine_id=8103
+						type=1
+						columns=cols
+						%}</li>
+				</ol>
+			</li>
+		</ul>
+	</div>
+	<div class="row text-center">
+		<div class="columns medium-12">
+			<hr/>
+			<h4><a href="https://redmine.pirati.cz/projects/snemovna/issues?query_id=75" target="_blank">Jak plníme další priority?</a></h4>
+			<br/>
+		</div>
+	</div>
+
+</div>

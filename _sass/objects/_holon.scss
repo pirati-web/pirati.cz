@@ -1,0 +1,74 @@
+.o-holon{
+  &--kruh{
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 0 0 30px 0 black;
+    width: 220px;
+    height: 220px;
+    margin: 40px;
+    padding: 40px 20px;
+    background: white;
+    position: relative;
+    &:before{
+      $reach: 30px;
+      content: '';
+      display: block;
+      background: gray;
+      z-index: -1;
+      position: absolute;
+      top: -$reach;
+      left: -$reach;
+      right: -$reach;
+      bottom: -$reach;
+      border-radius: 50%;
+    }
+  }
+  &--type{
+    &-1{
+      &:before{
+        background:#34b3c2;
+      }
+    }
+    &-2{
+      &:before{
+        background:#6a88c6;
+      }
+    }
+    &-3{
+      &:before{
+        background:#25a4c7;
+      }
+    }
+    &-4{
+      &:before{
+        background:#288185;
+      }
+    }
+  }
+  &__link{
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  &__heading{
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0 10px;
+    a{
+      color: black;
+    }
+  }
+  &__text{
+    display: inline-block;
+    height: 4em;
+  }
+  &__group-title{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 0rem;
+    height: 3rem;
+    ol &{
+      margin-bottom: 2rem;
+    }
+  }
+}
