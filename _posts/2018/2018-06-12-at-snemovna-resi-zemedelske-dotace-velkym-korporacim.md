@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství
 layout:       post
 title:        "Piráti chtějí, aby Sněmovna urychleně řešila podezření ze zvýhodňování agrokorporací při čerpání zemědělských dotací"
-image:        /assets/img/articles/2018/bartos-holomcik.jpg
+image:        /assets/img/articles/2018/bartos-holomcik.png
 author:       Karolína Sadílková
 ---
 
