@@ -32,4 +32,4 @@ Ke stavu veřejných zakázek za rok 2017 se ve výroční zprávě vyjadřuje N
 **5. NEN – národní elektronický nástroj pro zadávání veřejných zakázek (kapitola 4)**
 Národní elektronický nástroj měl s registrací zakázek začít již v létě 2017. Zavedení jednotného informačního systému pro rozdělování veřejných zakázek je nepochybně zajímavou či možná záslužnou myšlenkou. Ve výsledku ovšem už i samotný tendr na zavedení tohoto nástroje se stal předmětem policejního vyšetřování a k samotnému případu byly zveřejněné závažné informace. Navíc v poslední době se v médiích objevily informace, že tento systém je pomalý a nepřipravený. Výroční zpráva by proto měla obsahovat přehled o zavádění tohoto systému a měla by rozptýlit všechny pochybnosti, které v této věci byly zveřejněné. 
 
-[Výroční zpráva o stavu veřejných zakázek za rok 2017](https://github.com/pirati-web/pirati.cz/tree/gh-pages/assets/pdf/vyrocni-zprava-zakazky-2017.pdf)
+[Výroční zpráva o stavu veřejných zakázek za rok 2017](https://bit.ly/2sTnxIm)
