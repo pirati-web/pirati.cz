@@ -1,7 +1,7 @@
 ---
 date:         2018-06-13
 category:     blog
-tags:         senát
+tags:         eet sněmovna
 layout:       post
 title:        "EET se neplátci DPH nevyhnou, svůj podíl na tom má ČSSD"
 image:        /assets/img/articles/2018/mikulas-ferjencik.jpg
