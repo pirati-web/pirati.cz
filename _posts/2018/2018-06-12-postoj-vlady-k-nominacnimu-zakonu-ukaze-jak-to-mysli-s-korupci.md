@@ -4,7 +4,7 @@ category:     blog
 tags:         korupce sněmovna
 layout:       post
 title:        "Piráti: Postoj vlády k nominačnímu zákonu ukáže, jak vážně to myslí s bojem proti korupci"
-image:        /assets/img/articles/2018/ivan-jakub-snemovna.jpg
+image:        /assets/img/articles/2018/tk-pirati.jpg
 author:       Karolína Sadílková
 ---
 
