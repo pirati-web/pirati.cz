@@ -4,7 +4,7 @@ category:     blog
 tags:         senát
 layout:       post
 title:        "Michálek: Konec zneužívání fondů na burze"
-image:        /assets/img/articles/2018/michalek-5.jpg
+image:        /assets/img/articles/2018/libor-michalek.jpg
 author:       Karolína Sadílková
 ---
 
