@@ -4,7 +4,7 @@ category:     blog
 tags:         korupce
 layout:       post
 title:        "Výroční zpráva o stavu veřejných zakázek neobsahuje řadu zásadních informací"
-image:        assets/img/articles/2018/ivan-kravata.jpg
+image:        assets/img/articles/2018/ivan-ntb.jpg
 author:       Mediální odbor
 ---
 
