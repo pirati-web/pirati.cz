@@ -15,4 +15,4 @@ Praha, 13. června 2018 – Směrnice o autorském právu na jednotném digitál
  
 > Navrhovaná úprava jde přímo proti hodnotovým základům Pirátské strany, která svobodu internetu i svobodu obecně vnímá jako své pilíře. To potvrdil i předseda Pirátů Ivan Bartoš: „Článek 13 je skutečnou hrozbou jak pro svobodu internetu, tak pro svobodu slova celkově. Memy, remixy, blogy, parodie i livestream – vše, co nyní považujeme za samozřejmou a neškodnou zábavu, můžou filtry vyhodnotit jako nedovolené kopírování a automaticky odstranit. Týká se to nás všech a našeho fungování na síti. Ozvěme se, dokud to lze zastavit!“
  
-Pro víc informací navštivte web [www.zachraninternet.cz](www.zachraninternet.cz).
+Pro víc informací navštivte web [www.zachraninternet.cz](http://www.zachraninternet.cz).
