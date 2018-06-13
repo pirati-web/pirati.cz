@@ -4,7 +4,7 @@ category:     blog
 tags:         cenzura
 layout:       post
 title:        "Piráti vyzvali europoslance, aby se postavili proti cenzuře internetu"
-image:        assets/img/articles/2018/ivan-ntb.jpg
+image:        assets/img/articles/2018/cenzura-internetu.jpg
 author:       Jakub Dušánek
 ---
 
