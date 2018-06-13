@@ -8,13 +8,11 @@ image:        assets/img/articles/2018/ivan-kravata.jpg
 author:       Mediální odbor
 ---
 
- 
 Praha, 13. června 2018 – Vláda dnes projednávala Výroční zprávu o stavu veřejných zakázek v ČR za rok 2017, ve které se mimo jiné uvádí, že dodavatelé ztrácejí zájem ucházet se o veřejné zakázky. Zájem ovšem neklesá. Chybí důvěra ve férovou soutěž, která je mnohdy narušena například kartelovými dohodami. Všeobecný a málo konkrétní materiál se podle Pirátů nevyjadřuje k řadě velmi důležitých skutečností v oblasti zadávání veřejných zakázek jako je snížení byrokracie či k neblahému dopadu zpoplatnění podnětů občanů na ÚOHS.
  
 > Předseda Pirátů Ivan Bartoš poukázal na to, že toto klíčové téma vláda neřeší dostatečně: „Korupce nespočívá jen v nošení krabic s penězi nebo vínem, zvaní na dovolené do Toskánska či na latifundie do Francie. Systémová korupce je skryta převážně v přerozdělování financí z rozpočtu, v soutěžení a finální realizaci vysoutěžených zakázek a kontroly jejich realizace. To se týká jak největších IT zakázek pro stát či agendu obcí, tak případů budování dálnic nebo objednávek služeb. Velmi s tím souvisí i obsazování funkcí ve státních podnicích či správě, neboť jednotlivé resorty zakázky soutěží a ne vždy existují garance nestrannosti a kompetence. Realizace zakázek by měla být vždy transparentní, efektivní, úsporná a odpovědná vůči potřebám nás občanů. Bohužel, řada kauz ukazuje, že vyvádění peněz spřáteleným firmám a korporacím za nevýhodných podmínek stále probíhá, o čemž svědčí i řada zrušených tendrů a vysoká míra zjištěných porušení zákona.“
 
 Hlavním problémem výroční zprávy je podle Pirátů její stručnost. Chybí údaje o dokládání vlastníků v rámci soutěží a zpráva neobsahuje ani výsledky kontrol veřejných soutěží uskutečněných na základě podnětů občanů. Stejně tak chybí popis činnosti státního zastupitelství a policie při prokazování kartelových dohod. Paradoxní skutečností je, že Národní elektronický nástroj pro zadávání veřejných zakázek, který měl zavést jednotný informační systém k zadávání zakázek, se sám stal předmětem policejního vyšetřování. Ani k tomuto zásadnímu problému se výroční zpráva nevyjadřuje.
-
 
 
 **Stručné poznámky Pirátské strany k Výroční zprávě o stavu veřejných zakázek v České republice za rok 2017**
