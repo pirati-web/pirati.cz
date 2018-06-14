@@ -105,7 +105,7 @@ body{
       cursor: pointer;
       color: white;
       @include breakpoint(mobile up) {
-        padding-top: 10%;
+        padding-top: $unit;
       }
     }
 
