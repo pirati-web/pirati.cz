@@ -5,6 +5,7 @@ ownweb:
   jiznicechy: https://jihocesky.pirati.cz
   zlinsko: https://zlinsky.pirati.cz/
   moravskoslezsko: https://moravskoslezsky.pirati.cz
+  plzensko: https://plzen.pirati.cz/
 ---
 {% comment %}
 Praha musí být první, kvůli vykreslování
