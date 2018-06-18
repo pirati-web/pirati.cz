@@ -50,6 +50,7 @@ layout: default
             {% include accounting.html %}
             <script>
               pirates.priorityStack.push(function (context) {
+                pirates.bindAjax(pirates.modal_triggers);
                 // make new CORS for data
                 var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
                 if (!xhr) {

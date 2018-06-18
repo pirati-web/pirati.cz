@@ -38,10 +38,26 @@ pirates.integrations = {
     }
   }
 };
-
+pirates.makeModal = function(html){
+  var modal = document.getElementsByClassName("l-micropage__modal")[0];
+  modal.innerHTML = html;
+  var scripts = modal.getElementsByTagName("script");
+  for( var i=0; i < scripts.length; i++ ){
+    eval(scripts[i].innerHTML);
+  }
+  modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
+  modal.style.display = 'block';
+  var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
+  closeTrigger.addEventListener("click", function(event) {
+    modal.innerHTML = '';
+    modal.style.display = 'none';
+    closeTrigger.outerHTML = "";
+    delete closeTrigger;
+  });
+}
 // Bind AJAX calls on click of target elements and displays is in modal
 pirates.bindAjax = function(targets,root) {
-  for (i = 0; i < targets.length; ++i) {
+  for (var i = 0; i < targets.length; ++i) {
     //console.log(targets[i].getAttribute('href'));
     // do whatever
     targets[i].addEventListener("click", function(event) {
@@ -51,7 +67,7 @@ pirates.bindAjax = function(targets,root) {
       var xhr = new XMLHttpRequest();
       xhr.onload = function() {
         var doc = this.responseXML;
-        var modal = document.getElementsByClassName("l-micropage__modal")[0];
+
         var contentElement;
         var html = '';
         if (root === undefined) {
@@ -63,16 +79,8 @@ pirates.bindAjax = function(targets,root) {
           var content = contentElement[j].innerHTML;
           html = html + content;
         }
-        modal.innerHTML = html;
-        modal.insertAdjacentHTML("afterend", '<span class=\"l-micropage__modal-close\">Zavřít</span>');
-        modal.style.display = 'block';
-        var closeTrigger = document.getElementsByClassName('l-micropage__modal-close')[0];
-        closeTrigger.addEventListener("click", function(event) {
-          modal.innerHTML = '';
-          modal.style.display = 'none';
-          closeTrigger.outerHTML = "";
-          delete closeTrigger;
-        });
+        pirates.makeModal(html);
+        window.requestAnimationFrame( function(){pirates.executeQue(pirates.priorityStack)} );
       }
 
       xhr.open("GET", url);
@@ -84,11 +92,23 @@ pirates.bindAjax = function(targets,root) {
 
 // Executes FIFO cue of JS functions - good practice to decouple JS workout from onload
 pirates.executeQue = function (que) {
-  for(var q=0; q< que.length; q++){
-    que[q].call(this);
+  if (que.length) {
+    var queue = que;
+    for (var q = 0; q < queue.length; q++) {
+      var item = queue[q];
+      item.call(this);
+    }
+    que.length = 0;
   }
 };
-
+// pirates.executePriorityQue = function () {
+//   if (pirates.priorityStack.length) {
+//     var queue = pirates.priorityStack;
+//     pirates.priorityStack = [];
+//     pirates.executeQue(queue);
+//     window.requestAnimationFrame( queue );
+//   }
+// };
 // Create CORS request - CORS is good for getting around cross domain restrictions
 pirates.createCORSRequest = function (method, url) {
   var xhr = new XMLHttpRequest();
@@ -145,6 +165,7 @@ pirates.accounting.reformatStructure = function(array){
   var y = d.getFullYear();
   var m = d.getMonth() + 1;
   newStructure.byAccount = {};
+  newStructure.byCounterparty = {};
   for( var i in array ){
     var split = array[i].date.split('.');
     //only care bout past
@@ -169,6 +190,13 @@ pirates.accounting.reformatStructure = function(array){
         newStructure.byAccount[array[i].account][reformatedPeriod].incomes = 0;
         newStructure.byAccount[array[i].account][reformatedPeriod].expenses = 0;
       }
+      if( typeof(newStructure.byCounterparty[array[i].counterparty]) == "undefined"){
+        newStructure.byCounterparty[array[i].counterparty] = [];
+      }
+      if( typeof(newStructure.byCounterparty[array[i].counterparty]) == "undefined"){
+        newStructure.byCounterparty[array[i].counterparty] = [];
+        newStructure.byCounterparty[array[i].counterparty].sum = 0;
+      }
       newStructure.byAccount['all'][reformatedPeriod].push(array[i]);
       newStructure.byAccount['all'][reformatedPeriod].sum += Number(array[i].amount);
       newStructure.byAccount[array[i].account][reformatedPeriod].push(array[i]);
@@ -180,6 +208,8 @@ pirates.accounting.reformatStructure = function(array){
         newStructure.byAccount[array[i].account][reformatedPeriod].incomes += Number(array[i].amount);
         newStructure.byAccount['all'][reformatedPeriod].incomes += Number(array[i].amount);
       }
+      newStructure.byCounterparty[array[i].counterparty].push(array[i]);
+      newStructure.byCounterparty[array[i].counterparty].sum += Number(array[i].amount);
     }
   }
   return newStructure;
@@ -264,7 +294,7 @@ pirates.accounting.selectAccount = function(account) {
   // draw new table of accounting data
   var table = document.getElementById('account_table');
   table.innerHTML = '';
-  pirates.accounting.makeTable(table,account,{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad','counterparty':'Protistrana'});
+  pirates.accounting.makeTable(table,pirates.accountingData.byAccount[account],{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad','counterparty':'Protistrana'});
 
   // return chart so it can be destroyed on redraw
   return mixedChart;
@@ -282,7 +312,7 @@ pirates.accounting.makeTable = function(tableElement, account, cols) {
   };
   thead.appendChild(tr);
   tableElement.appendChild(thead);
-  var tableKeys = Object.keys(pirates.accountingData.byAccount[account]);
+  var tableKeys = Object.keys(account);
   tableKeys.sort();
   tableKeys.reverse();
   for(var i=0; i<tableKeys.length;i++){
@@ -290,7 +320,7 @@ pirates.accounting.makeTable = function(tableElement, account, cols) {
     tr.classList.add("w-accounting__group-heading");
     tr.innerHTML = '<td colspan="' + tableKeys.length + 1 + '" class=""><input type="checkbox" class="w-accounting__group-control" onchange="pirates.accounting.toggleRow.call(this, event);">'+tableKeys[i]+'</td>'
     tableElement.appendChild(tr);
-    tableElement.appendChild(pirates.accounting.makeTbody(pirates.accountingData.byAccount[account][tableKeys[i]],colsKeys));
+    tableElement.appendChild(pirates.accounting.makeTbody(account[tableKeys[i]],colsKeys));
   };
 }
 
@@ -339,8 +369,18 @@ pirates.accounting.makeControls = function(ctrl, data) {
   };
 }
 
+window.requestAnimationFrame = window.requestAnimationFrame
+  || window.mozRequestAnimationFrame
+  || window.webkitRequestAnimationFrame
+  || window.msRequestAnimationFrame
+  || function(f){return setTimeout(f, 1000/60)} // simulate calling code 60
+
+window.cancelAnimationFrame = window.cancelAnimationFrame
+  || window.mozCancelAnimationFrame
+  || function(requestID){clearTimeout(requestID)} //fall back
+
 // when all is loaded start executing loop
-pirates.executeQue(pirates.priorityStack);
+window.requestAnimationFrame( function(){pirates.executeQue(pirates.priorityStack)} );
 
 // Random stuff not to be forgoten
 // pirates.getDistinctByProp = function(array, property){
