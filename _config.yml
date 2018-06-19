@@ -90,9 +90,9 @@ tw: PiratskaStrana
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-pulrok.gif
-    alt: snemovna
-    url: snemovna
+    foto: /assets/img/miscellaneous/featured-internet.gif
+    alt: Zachraň Internet! 
+    url: https://zachraninternet.cz/
   left-top:
     text: Regiony
     url: regiony
