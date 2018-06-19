@@ -35,6 +35,7 @@ profiles:
 ordpsp: 7
 redmine: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
+calendar:  vpfafrin%40gmail.com
 ---
 
 Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj.
