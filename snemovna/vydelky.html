@@ -1,0 +1,10 @@
+<h2 class="l-micropage__detail-title text-center">Výdělky dodavatelů klubu</h2>
+<table id="account_table--counterparties" class="table-hover w-accounting__table"></table>
+<script>
+  pirates.priorityStack.push(function (context) {
+    // draw new table of accounting data for counterparties
+    var table = document.getElementById('account_table--counterparties');
+    table.innerHTML = '';
+    pirates.accounting.makeTable(table,pirates.accountingData.byCounterparty,{'date':'Datum','item':'Položka','amount':'Částka','account':'Účet','invoice':'Doklad','counterparty':'Protistrana'});
+  });
+</script>
