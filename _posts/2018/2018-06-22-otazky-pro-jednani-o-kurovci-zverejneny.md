@@ -16,11 +16,11 @@ Snaha Pirátů o zařazení jednání o kůrovcové kalamitě na pořad řádné
 
 **Přikládáme seznam otázek:**
 
-* a) Kůrovcová kalamita na severní a střední Moravě začala, soudě dle udělovaných pokut, již v roce 2013. Proč MZe, MŽP, ČIŽP a konečně ani management Lesů ČR a jejich dozorčí rada nedokázali od roku 2014 účinně čelit jejímu rozrůstátní, když disponovali celou řadou manažerských a právních nástrojů?  
-* b) Proč se řešení kalamity zcela vyhnula Koncepce strategického rozvoje Lesů ČR pro léta 2015 – 2019, když v době jejího sepsání a projednání vládou, již byla kůrovcová kalamita problémem?
-* c) Jaké jsou připravované kroky Ministerstva zemědělství ve vztahu k řešení kůrovcové kalamity v ČR nyní?
-* d) Jaké kroky plánuje Ministerstvo životního prostředí v reakci na zjištění ČIŽP z kontroly, která proběhla na kalamitním území severní Moravy a Slezska na podzim loňského roku, a která byla náměstkem ministra komentována jako "velmi závažná"?
-* e) Na základě usnesení č. 703 ze dne 25. září uložila minulá vláda předchozímu ministru zemědělství realizovat ve vztahu ke státnímu podniku Lesy České republiky opatření k objektivizaci ekonomických parametrů aktuálně platných smluv o provádění komplexních lesnických činností a o prodeji dříví apod.
+* **a)** Kůrovcová kalamita na severní a střední Moravě začala, soudě dle udělovaných pokut, již v roce 2013. Proč MZe, MŽP, ČIŽP a konečně ani management Lesů ČR a jejich dozorčí rada nedokázali od roku 2014 účinně čelit jejímu rozrůstátní, když disponovali celou řadou manažerských a právních nástrojů?  
+* **b)** Proč se řešení kalamity zcela vyhnula Koncepce strategického rozvoje Lesů ČR pro léta 2015 – 2019, když v době jejího sepsání a projednání vládou, již byla kůrovcová kalamita problémem?
+* **c)** Jaké jsou připravované kroky Ministerstva zemědělství ve vztahu k řešení kůrovcové kalamity v ČR nyní?
+* **d)** Jaké kroky plánuje Ministerstvo životního prostředí v reakci na zjištění ČIŽP z kontroly, která proběhla na kalamitním území severní Moravy a Slezska na podzim loňského roku, a která byla náměstkem ministra komentována jako "velmi závažná"?
+* **e)** Na základě usnesení č. 703 ze dne 25. září uložila minulá vláda předchozímu ministru zemědělství realizovat ve vztahu ke státnímu podniku Lesy České republiky opatření k objektivizaci ekonomických parametrů aktuálně platných smluv o provádění komplexních lesnických činností a o prodeji dříví apod.
 
 Lesy ČR na základě tohoto usnesení nabídly smluvním firmám předčasné ukončení dlouhodobých smluv, a to vzájemnou dohodou bez sankcí z důvodu kalamitní situace a problémům na trhu se dřívím. Toho smluvní partneři LČR využili na 76 % spravovaného území. Na zbytku území skončily smlouvy k 31.12.2017 přirozenou cestou. Vznikla tak situace, že LČR přesoutěžily de facto smlouvy na celém spravovaném území. Nové soutěže ve výsledku přinesly prudký propad zpeněžení dřeva a 30 % nárůst cen služeb nakupovaných Lesy ČR do roku 2018.
 
@@ -33,7 +33,7 @@ Letos vedení Lesy ČR oznámilo, že vyčíslená ztráta z ukončených smluv 
  * Dle mediálních výstupů hovořil management Lesů ČR o předčasném ukončení smluv v médiích ještě před tím, než došlo k projednání usnesení č. 703 vládou. Z jakého důvodu?
 
 
-* f) Proč Lesy ČR od roku 2013 - 2017 oznamovaly rekordní zisky plynoucí z prodeje dřeva, když byly hospodářské výsledky vylepšovány rozpouštěním rezerv, většinově vytvořených ze zisku hospodaření z předchozích let?
+* **f)** Proč Lesy ČR od roku 2013 - 2017 oznamovaly rekordní zisky plynoucí z prodeje dřeva, když byly hospodářské výsledky vylepšovány rozpouštěním rezerv, většinově vytvořených ze zisku hospodaření z předchozích let?
 
  * Jaký je tedy čistý zisk z hospodaření od doby, kdy Parlament ČR schválil novelu zákona č. 77/1997 Sb. o státním podniku, která vstoupila v účinnost 1. července 2013? Jaká část z něj byla umístěna do rezerv pro řešení následků kalamit?
 
@@ -45,7 +45,7 @@ Letos vedení Lesy ČR oznámilo, že vyčíslená ztráta z ukončených smluv 
 
  * Proč vlastně došlo k rozhodnutí naplánovat postupné rozpuštění rezervy na pěstební činnost, které vláda vzala na vědomí za stavu kůrovcové kalamity?
 
-* g) Obchodní model Lesů ČR vychází z koncepce tzv. Dřevěné knihy vydané MZe. Ta se opírá o porovnání finanční výhodnosti modelů prodeje státního dřeva „při pni“, kdy jej přeprodávají těžební firmy,  a „odvozní místo“, kdy jej dřevozpracovatelům dodávají samy Lesy ČR.  Model „při pni“ označila analýza za ekonomicky výhodnější pro stát. Analýza ovšem, dle veřejně dostupných informací, vyhodnocovala oba modely pouze z pohledu ekonomické výhodnosti, tj. nezabývala se hodnocením modelu prodeje „při pni“ z hlediska sociálních a ekologických dopadů na les a venkov.
+* **g)** Obchodní model Lesů ČR vychází z koncepce tzv. Dřevěné knihy vydané MZe. Ta se opírá o porovnání finanční výhodnosti modelů prodeje státního dřeva „při pni“, kdy jej přeprodávají těžební firmy,  a „odvozní místo“, kdy jej dřevozpracovatelům dodávají samy Lesy ČR.  Model „při pni“ označila analýza za ekonomicky výhodnější pro stát. Analýza ovšem, dle veřejně dostupných informací, vyhodnocovala oba modely pouze z pohledu ekonomické výhodnosti, tj. nezabývala se hodnocením modelu prodeje „při pni“ z hlediska sociálních a ekologických dopadů na les a venkov.
 
 Proto se ptám:
 
