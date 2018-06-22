@@ -8,7 +8,7 @@ image:        assets/img/articles/2018/kurovec2.jpg
 author:       Jakub Dušánek
 ---
 
-Praha, 22. června 2018 – Piráti dnes zveřejnili otázky, které položí na jednání Poslanecké sněmovny PČR při projednávání stavu státních lesů a kůrovcové kalamity. Piráti budou usilovat, aby jednání o kůrovci bylo zařazeno jako řádný bod 15. schůze Poslanecké sněmovny, a to na středu 27. června od 14:30 hodin. S tímto cílem půjdou zástupci Pirátů na úterní jednání o programu s vedením Sněmovny.
+Praha, 22. června 2018 – Piráti dnes zveřejnili otázky, které položí na jednání Poslanecké sněmovny PČR při projednávání stavu státních lesů a kůrovcové kalamity. Piráti budou usilovat, aby jednání o kůrovci bylo zařazeno jako řádný bod 16. schůze Poslanecké sněmovny, a to na středu 27. června od 14:30 hodin. S tímto cílem půjdou zástupci Pirátů na úterní jednání o programu s vedením Sněmovny.
 
 > „Od začátku jsme chtěli, aby kůrovec nebyl jen předmětem politikaření, ale aby Sněmovna hledala řešení a vytvářela tlak na vládu. Stav státních lesů nebereme na lehkou váhu, obzvláště za situace klimatické změny. Její důsledky, zejména sucho, začínáme pociťovat čím dál víc. Proto jsme odborné otázky probrali nejdříve na jednání výborů a podvýborů. Nyní chceme zařadit kůrovce na plénum Sněmovny, kde debata bude spíše politická,” upřesňuje postup Pirátů místopředseda Zemědělského výboru Radek Holomčík a dodává: „Aby byla debata pokud možno věcná, zveřejňujeme už dnes – v předstihu – otázky, které na jednání budeme chtít položit. Ať už v rámci řádné, či mimořádné schůze. Dát prostor na přípravu považujeme za slušnost.“
 
