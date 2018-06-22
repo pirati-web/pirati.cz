@@ -36,7 +36,7 @@ Zpracovaly Lesy ČR nějakou analytickou studii, na základě které se rozhodly
 
 Dle mediálních výstupů hovořil management Lesů ČR o předčasném ukončení smluv v médiích ještě před tím, než došlo k projednání usnesení č. 703 vládou. Z jakého důvodu?
 
-Proč Lesy ČR od roku 2013 – 2017 oznamovaly rekordní zisky plynoucí z prodeje dřeva, když byly hospodářské výsledky vylepšovány rozpouštěním rezerv, většinově vytvořených ze zisku hospodaření z předchozích let?
+f) Proč Lesy ČR od roku 2013 – 2017 oznamovaly rekordní zisky plynoucí z prodeje dřeva, když byly hospodářské výsledky vylepšovány rozpouštěním rezerv, většinově vytvořených ze zisku hospodaření z předchozích let?
 
 Jaký je tedy čistý zisk z hospodaření od doby, kdy Parlament ČR schválil novelu zákona č. 77/1997 Sb. o státním podniku, která vstoupila v účinnost 1. července 2013? Jaká část z něj byla umístěna do rezerv pro řešení následků kalamit?
 
