@@ -63,6 +63,28 @@ layout: default
                   xhr.send();
                 });
               </script>
+              <h3>Dlouhodobé úkoly</h3>
+              <div id="redmine_tasks2">
+              </div>
+              <script>
+                pirates.priorityStack.push(function (context) {
+                  var url = 'https://redmine.pirati.cz/issues.json?assigned_to_id={{page.redmine}}&fixed_version_id=29';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = JSON.parse(xhr.responseText);
+                    var div = document.getElementById('redmine_tasks2');
+                    div.appendChild(pirates.integrations.redmine.tasks(doc));
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
             </div>
             {% endif %}
 
