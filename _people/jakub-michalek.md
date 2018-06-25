@@ -9,7 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: 		people/jakub-michalek.jpg    # 165 x 220
-description: 			předseda poslaneckého klubu Pirátů v PSP ČR a 3. místopředseda Pirátské strany             	        			# kratký popis, max 160 znaků
+description: 			předseda poslaneckého klubu Pirátů a místopředseda strany             	        			# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - jakub.michalek@pirati.cz
@@ -37,20 +37,29 @@ calendar: 7lsuqerpg58a5pa63r8phu3c2k
 carousel:
   img: jakub-michalek.jpg
   text: |
-    <p><strong>Předseda poslaneckého klubu Pirátů</strong>, místopředseda Pirátské strany, místopředseda ústavně právního výboru a poslanec Pirátů zodpovědný za oblast justice.</p>
+    <p><strong>Předseda poslaneckého klubu Pirátů</strong>, místopředseda strany, místopředseda ústavně právního výboru PSP ČR a poslanec Pirátů zodpovědný za oblast justice.</p>
     <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
 ---
 
-Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů a místopředsedou Pirátské strany. Na Právnické fakultě Univerzity Karlovy vystudoval obor Právo a právní věda s diplomovou prací Povinné zveřejňování informací, nyní pokračuje v doktorském studiu. Souběžně vystudoval teoretickou fyziku na Matematicko-fyzikální fakultě UK. Část střední školy studoval v zahraničí (UK, USA). Má zkušenosti z akademické samosprávy, kde byl členem akademického senátu.
+Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů a místopředsedou strany. Na Univerzitě Karlově vystudoval práva a teoretickou fyziku. Část střední školy studoval v zahraničí (UK, USA). 
 
-Od října 2014 do listopadu 2017 byl pražským zastupitelem. Na pražském Magistrátu se věnoval řadě kauz. 
+V letech 2014-2017 byl šéf zastupitelů za Piráty v Praze. Na pražském Magistrátu se věnoval řadě kauz: 
 
 * Podrobně se zabýval kauzami z doby primátora Pavla Béma, např. Opencard, nevýhodného pronájmu Škodova paláce a vyzval primátorku k podání žaloby. 
-* Upozornil také na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a potřebné se nedostává. 
-* Vytrvale vystupuje proti uplácení zastupitelů tzv. politickými trafikami a podílel se na návrhu pravidel pro řádné obsazování dozorčích rad a řízení městských společností. 
+* Upozornil na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a na potřebné se nedostává. 
+* Vytrvale vystupuje proti tzv. politickým trafikám a podílel se na návrhu pravidel pro řádné obsazování dozorčích rad a řízení městských společností. 
 * Podařilo se mu prosadit mimo jiné poskytování informací o mimořádných odměnách vysokých úředníků a digitalizaci majetkových přiznání zastupitelů, aby se už neztrácela. 
 * Jako první navrhl zákony k digitálním platformám (Uber, Airbnb). 
 
-Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze, kde Piráti získali nejlepší výsledek ze všech krajů (17,5 %). Jako předseda poslaneckého klubu se zasadil o vznik vyšetřovací komise pro kauzu OKD. 
+Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. 
 
-V České pirátské straně například připravoval spuštění webu Piráti.cz, navrhl zřízení registru lobbistických kontaktů, jako hlavní autor vypracoval řadu bodů Pirátského programu, spoluzakládal projekt svobodné hudby, zprovoznil současný systém veřejného účetnictví, navrhl participativní rozpočet a připravil jednací řády upravující postupy pro vnitrostranickou demokracii včetně odvolatelnosti politiků. 
+V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze, kde Piráti získali nejlepší výsledek ze všech krajů (17,5 %). 
+
+Jako **předseda poslaneckého klubu**: 
+
+* zasadil o vznik vyšetřovací komise pro kauzu OKD, 
+* pomohl vydání Babiše justici mandátovým a imunitním výborem,
+* předložil návrh zákona na zveřejňování smluv ČEZu a dalších státních firem, 
+* předložil návrh zákona proti kumulaci více platů politiků u politiků s více funkcemi, 
+* vystupuje proti daňovým únikům a praní špinavých peněz pomocí vyváděcích struktur vytvářených advokáty,
+* spoluvytvářel návrh nominačního zákona, zejména jeho část o vlastnické politice, podle které stát jako vlastník řídí státní firmy.
