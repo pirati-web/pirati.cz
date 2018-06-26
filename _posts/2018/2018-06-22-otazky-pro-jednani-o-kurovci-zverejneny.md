@@ -56,4 +56,4 @@ Kdy, jak a jakým způsobem hodlají MZe upravit koncept Dřevěné knihy, kter�
 
 Proč došlo k posouzení  pouze ekonomických aspektů a nebyly řešeny ekologické a sociální dopady?
 
-Proč ani v letech 2014 – 2017 nedošlo k posouzení ekologických a sociálních dopadů tzv. Dřevěné k nihy?
+Proč ani v letech 2014 – 2017 nedošlo k posouzení ekologických a sociálních dopadů tzv. Dřevěné knihy?
