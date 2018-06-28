@@ -4,12 +4,14 @@
         <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}"> </div>
       <div class="c-content-card-content-box">
         <h3 class="c-content-card-title">
-          {% if item.url | truncate: 2 == 'http' %}
+          {% if item.customUrl %}
+            {% assign url = item.customUrl %}
+          {% else if item.url | truncate: 2 == 'http' %}
             {% assign url = item.url %}
           {% else %}
             {% assign url = item.url | relative_url %}
           {% endif %}
-          <a href="{{url | relative_url}}">{% if item.name %}{{item.name  }}{% else %}{{item.title}}{% endif %}</a>
+          <a href="{{url}}">{% if item.name %}{{item.name  }}{% else %}{{item.title}}{% endif %}</a>
       </div>
     </div>
 </div>
