@@ -14,7 +14,8 @@ Praha, 28. června 2018 – Pirátský poslanec Jan Lipavský inicioval svolán�
 ptá se Lipavský s tím, že nejasný je i Pocheho přístup k utajovaným informacím, na který nebude mít ze své pozice nárok. Od Hamáčka bude chtít Lipavský především vysvětlit, jakým způsobem bude ministerstvo řízeno a kdy bude současné bezvládí ukončeno. 
 
 Další otázky se váží k plánovanému summitu NATO v Bruselu. 
-> „Vůbec nevím, jak to bude vypadat. Kdo nás tam bude zastupovat? Pojede do Bruselu za Česko Andrej Babiš, Jan Hamáček nebo Miroslav Poche? Nebo všichni tři? Nebo ani jeden?“ pokračuje Lipavský s tím, že očekává, že Jan Hamáček jeho pozvání na mimořádné zasedání výboru přijme a na všechny tyto otázky poslancům poskytne uspokojivé odpovědi.
+> „Vůbec nevím, jak to bude vypadat. Kdo nás tam bude zastupovat? Pojede do Bruselu za Česko Andrej Babiš, Jan Hamáček nebo Miroslav Poche? Nebo všichni tři? Nebo ani jeden?“ 
+pokračuje Lipavský s tím, že očekává, že Jan Hamáček jeho pozvání na mimořádné zasedání výboru přijme a na všechny tyto otázky poslancům poskytne uspokojivé odpovědi.
 
 Zarážející je také uváděná funkce „politického tajemníka“ Miroslava Pocheho. 
 > „Podobná funkce totiž v české státní správě neexistuje, Hamáček se tedy snaží na ministerstvu zavádět novinky, které u nás nemají žádný precedent,“ říká Lipavský s tím, že nová Pocheho role vyvolává především nejasnosti.  
