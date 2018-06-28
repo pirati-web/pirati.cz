@@ -16,6 +16,7 @@ ptá se Lipavský s tím, že nejasný je i Pocheho přístup k utajovaným info
 
 Další otázky se váží k plánovanému summitu NATO v Bruselu. 
 > „Vůbec nevím, jak to bude vypadat. Kdo nás tam bude zastupovat? Pojede do Bruselu za Česko Andrej Babiš, Jan Hamáček nebo Miroslav Poche? Nebo všichni tři? Nebo ani jeden?“ 
+
 pokračuje Lipavský s tím, že očekává, že Jan Hamáček jeho pozvání na mimořádné zasedání výboru přijme a na všechny tyto otázky poslancům poskytne uspokojivé odpovědi.
 
 Zarážející je také uváděná funkce „politického tajemníka“ Miroslava Pocheho. 
