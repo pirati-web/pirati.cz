@@ -20,4 +20,6 @@ Další otázky se váží k plánovanému summitu NATO v Bruselu.
 pokračuje Lipavský s tím, že očekává, že Jan Hamáček jeho pozvání na mimořádné zasedání výboru přijme a na všechny tyto otázky poslancům poskytne uspokojivé odpovědi.
 
 Zarážející je také uváděná funkce „politického tajemníka“ Miroslava Pocheho. 
-> „Podobná funkce totiž v české státní správě neexistuje, Hamáček se tedy snaží na ministerstvu zavádět novinky, které u nás nemají žádný precedent,“ říká Lipavský s tím, že nová Pocheho role vyvolává především nejasnosti.  
+> „Podobná funkce totiž v české státní správě neexistuje, Hamáček se tedy snaží na ministerstvu zavádět novinky, které u nás nemají žádný precedent,“ 
+
+říká Lipavský s tím, že nová Pocheho role vyvolává především nejasnosti.  
