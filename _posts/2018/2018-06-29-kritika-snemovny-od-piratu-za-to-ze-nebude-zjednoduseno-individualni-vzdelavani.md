@@ -4,7 +4,7 @@ category:     blog
 tags:         školství
 layout:       post
 title:        "Individuální vzdělávání zjednodušeno nebude. Piráti rozhodnutí Sněmovny kritizují"
-image:        assets/img/articles/2018/lenka-kozlova.jpg
+image:        assets/img/articles/2018/kozlova.jpg
 author:       Karolína Sadílková
 ---
 
