@@ -14,9 +14,6 @@ mail:
 - richterovao@psp.cz
 mob: +420 774 153 361
 asistenti:
-  - name: Jaroslava Vatay (organizace schůzek a podněty občanů)
-    mob: +420 778 111 459
-    mail: jaroslava.vatay@pirati.cz
   - name: Zuzana Freitas Lopesová
     mob: +420 776 278 860
     mail: richterovao@psp.cz
