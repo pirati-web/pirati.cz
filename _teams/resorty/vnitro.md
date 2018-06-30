@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Vnitro a otevřený stát
 fullname: Tým pro oblast vnitra a otevřeného státu
-img: teams/vnitro.jpg # obrázek nemusíte dodávat
+img: teams/resorty/vnitro.jpg # obrázek nemusíte dodávat
 leader: lukas.kolarik
 deputy:
 - tomas.vymazal

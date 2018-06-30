@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Zdravotnictví
 fullname: Tým pro zdravotnictví
-img: teams/zdravotnictvi.jpg # obrázek nemusíte dodávat
+img: teams/resorty/zdravotnictvi.jpg # obrázek nemusíte dodávat
 leader: petr.tresnak
 deputy:
 - olga.richterova

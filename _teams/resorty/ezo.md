@@ -1,7 +1,7 @@
 ---
 name: Evropská unie, zahraničí, obrana
 title: Evropská unie, zahraničí, obrana
-img: teams/zahranici.jpg
+img: teams/resorty/zahranici.jpg
 leader: mikulas.peksa
 deputy:
  - jan.lipavsky

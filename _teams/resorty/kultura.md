@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Kultura
 fullname: Tým pro kulturu
-img: teams/kultura.jpg # obrázek nemusíte dodávat
+img: teams/resorty/kultura.jpg # obrázek nemusíte dodávat
 leader: lenka.kozlova
 deputy:
 - ondrej.polansky

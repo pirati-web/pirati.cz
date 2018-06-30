@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Životní prostředí
 fullname: Tým pro životní prostředí
-img: teams/zivotni-prostredi.jpg # obrázek nemusíte dodávat
+img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
 leader: dana.balcarova
 deputy:
 - frantisek.elfmark

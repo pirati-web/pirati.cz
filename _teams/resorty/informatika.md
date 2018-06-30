@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Informatika
 fullname: Informatika
-img: teams/informatika.jpg # obrázek nemusíte dodávat
+img: teams/resorty/informatika.jpg # obrázek nemusíte dodávat
 leader: ondrej.profant
 deputy:
 - tomas.martinek

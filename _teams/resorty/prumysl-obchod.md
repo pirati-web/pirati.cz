@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Průmysl a obchod
 fullname: Tým pro průmysl a obchod
-img: teams/prumysl-a-obchod.jpg # obrázek nemusíte dodávat
+img: teams/resorty/prumysl-obchod.jpg # obrázek nemusíte dodávat
 leader: petr.tresnak
 deputy:
 - martin.jiranek

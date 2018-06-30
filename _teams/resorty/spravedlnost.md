@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Spravedlnost
 fullname: Ústavně právní tým
-img: teams/justice.jpg # obrázek nemusíte dodávat
+img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
 leader: jakub.michalek
 deputy:
 - david.satke

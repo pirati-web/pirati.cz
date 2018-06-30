@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Zemědělství
 fullname: Tým pro zemědělství
-img: teams/zemedelstvi.jpg # obrázek nemusíte dodávat
+img: teams/resorty/zemedelstvi.jpg # obrázek nemusíte dodávat
 leader: radek.holomcik
 deputy:
 - jan.posvar

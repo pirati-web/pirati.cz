@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Místní rozvoj
 fullname: Tým pro místní rozvoj
-img: teams/teams-mistni-rozvoj.jpg # obrázek nemusíte dodávat
+img: teams/resorty/mistni-rozvoj.jpg # obrázek nemusíte dodávat
 leader: 
 - ivan.bartos
 contact:

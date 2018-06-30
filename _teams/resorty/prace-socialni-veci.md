@@ -2,7 +2,7 @@
 uid: upt # vyplňte jednoznačný identifikátor
 name: Práce a sociální věci
 fullname: Tým pro oblast práce a sociálních věcí
-img: teams/prace-socialni-veci.jpg # obrázek nemusíte dodávat
+img: teams/resorty/prace-socialni-veci.jpg # obrázek nemusíte dodávat
 leader: olga.richterova
 deputy:
 - vit.simral
