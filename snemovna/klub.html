@@ -7,34 +7,6 @@
 </div>
 <div class="">
     <div class="">
-        <h2 class="l-micropage__detail-title text-center" id="transparence">Fungování klubu</h2>
-        <div class="row">
-        {% assign cols=4 %}
-
-        {% include_relative _vizitka.html
-            name="Jan Pošvář" link="/lide/jan-posvar/" mail="poslanci@pirati.cz"
-            img="/assets/img/snemovna/Posvar_Jan.jpg"
-            res="Kontakt pro veřejnost"
-            columns=cols
-        %}
-
-        {% include_relative _vizitka.html
-            name="Radek Holomčík" link="/lide/radek-holomcik" mail="radek.holomcik@pirati.cz"
-            img="/assets/img/snemovna/Holomcik_Radek.jpg"
-            res="Kontakt pro média"
-            columns=cols
-        %}
-
-        {% include_relative _vizitka.html
-            name="Tomáš Vymazal" link="/lide/tomas-vymazal" mail="tomas.vymazal@pirati.cz"
-            img="/assets/img/snemovna/Vymazal_Tomas.jpg"
-            res="Technické systémy klubu"
-            desc=""
-            columns=cols
-        %}
-        </div>
-    </div>
-    <div class="">
         <h2 class="l-micropage__detail-title text-center">Resorty</h2>
         <div class="row">
         {% assign cols=4 %}
@@ -65,16 +37,8 @@
         {% include_relative _vizitka.html
             name="Lenka Kozlová" link="/lide/lenka-kozlova"
             img="/assets/img/snemovna/Kozlova_Lenka.jpg"
-            desc="členka podvýboru pro kulturu"
+            desc="výbor pro vědu, vzdělání, kulturu, mládež a tělovýchovu"
             res="Kultura"
-            columns=cols
-        %}
-
-        {% include_relative _vizitka.html
-            name="Mikuláš Peksa" link="/lide/mikulas-peksa"
-            img="/assets/img/snemovna/Peksa_Mikulas.jpg"
-            desc="místopředseda výboru pro evropské záležitosti"
-            res="Zahraniční věci"
             columns=cols
         %}
 
@@ -83,6 +47,14 @@
             img="/assets/img/snemovna/Bartos_Ivan.jpg"
             desc="předseda výboru pro veřejnou správu a regionální rozvoj"
             res="Místní rozvoj"
+            columns=cols
+        %}
+
+        {% include_relative _vizitka.html
+            name="František Kopřiva" link="/lide/frantisek-kopriva" mail="frantisek.kopriva@pirati.cz"
+            img="/assets/img/snemovna/Kopriva_Frantisek.jpg"
+            res="Mládež a tělovýchova"
+            desc="výbor pro evropské záležitosti a výbor pro obranu"
             columns=cols
         %}
 
@@ -135,6 +107,14 @@
         %}
 
         {% include_relative _vizitka.html
+            name="Mikuláš Peksa" link="/lide/mikulas-peksa"
+            img="/assets/img/snemovna/Peksa_Mikulas.jpg"
+            desc="místopředseda výboru pro evropské záležitosti"
+            res="Zahraniční věci"
+            columns=cols
+        %}
+
+        {% include_relative _vizitka.html
             name="Petr Třešňák" link="/lide/petr-tresnak" mail="petr.tresnak@pirati.cz"
             img="/assets/img/snemovna/Tresnak_Petr.jpg"
             desc="místopředseda výboru pro zdravotnictví"
@@ -155,14 +135,6 @@
             img="/assets/img/snemovna/Balcarova_Dana.jpg"
             desc="předsedkyně výboru pro životní prostředí"
             res="Životní prostředí"
-            columns=cols
-        %}
-
-        {% include_relative _vizitka.html
-            name="František Kopřiva" link="/lide/frantisek-kopriva" mail="frantisek.kopriva@pirati.cz"
-            img="/assets/img/snemovna/Kopriva_Frantisek.jpg"
-            res="Mládež a tělovýchova"
-            desc="podvýbor pro mládež"
             columns=cols
         %}
         </div>
@@ -212,6 +184,34 @@
             %}
 
 
+        </div>
+    </div>
+    <div class="" style="display:none">
+        <h2 class="l-micropage__detail-title text-center" id="transparence">Fungování klubu</h2>
+        <div class="row">
+        {% assign cols=4 %}
+
+        {% include_relative _vizitka.html
+            name="Jan Pošvář" link="/lide/jan-posvar/" mail="poslanci@pirati.cz"
+            img="/assets/img/snemovna/Posvar_Jan.jpg"
+            res="Kontakt pro veřejnost"
+            columns=cols
+        %}
+
+        {% include_relative _vizitka.html
+            name="Radek Holomčík" link="/lide/radek-holomcik" mail="radek.holomcik@pirati.cz"
+            img="/assets/img/snemovna/Holomcik_Radek.jpg"
+            res="Kontakt pro média"
+            columns=cols
+        %}
+
+        {% include_relative _vizitka.html
+            name="Tomáš Vymazal" link="/lide/tomas-vymazal" mail="tomas.vymazal@pirati.cz"
+            img="/assets/img/snemovna/Vymazal_Tomas.jpg"
+            res="Technické systémy klubu"
+            desc=""
+            columns=cols
+        %}
         </div>
     </div>
 
