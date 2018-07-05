@@ -68,19 +68,29 @@ layout: default
                   {{content}}
                 </div>
               </div>
+
               <div class="medium-12 large-4 columns">
-                <div class="c-widget-share-box c-widget-share-box--mediumstacked">
-                  <div class="c-widget-share-box-headline">Sdílení je aktem lásky</div>
-                  <div class="c-widget-share-box-content">
-                    <div class="c-widget-share-box__tweet">
-                      <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
-                      <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
-                    <div class="c-widget-share-box__fb">
-                      <div class="fb-like" data-href="{{page.url | relative_url}}" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
-                    </div>
+                  <div class="c-widget-share-box c-widget-share-box--mediumstacked">
+                      <div class="c-widget-share-box-headline">Sdílení je aktem lásky</div>
+                      <div class="c-widget-share-box-content">
+                          <!-- https://mycyberuniverse.com/web/social-media-share-bar-jekyll-blog-website.html --> 
+                          <div class="share-buttons">
+                              <a  href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+                                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                  title="Share on Facebook" >
+                                  <i class="fa fa-facebook-official share-button"> facebook</i>
+                              </a>
+                              </br>
+                              <a  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}"
+                                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                  title="Share on Twitter" >
+                                  <i class="fa fa-twitter share-button"> twitter</i>
+                              </a>
+                          </div>
+                      </div>
                   </div>
-                </div>
+               </div>
+
                 <div class="c-widget-simple-text c-widget-simple-text--stacked" id="relatives-box">
                   <div class="c-widget-share-box-headline u-center">Kam dále?</div>
                   <div class="c-widget-share-box-content">
