@@ -29,7 +29,7 @@ Probíhá proces založení oblastního sdružení v Jablonci nad Nisou.
 
 Možnosti zapojení:
 
-* Kontaktujte koordinátora pro Liberecký kraj [Samuela Machata]({{ '/lide/samuel-machat/' | relative_url }}) (samuel.machar(at)pirati.cz). 
+* Kontaktujte koordinátorku pro Liberecký kraj [Helenu Vondrákovou]({{ '/lide/helena-vondrakova/' | relative_url }}) (helena.vondrakova(at)pirati.cz). 
 * V nepravidelných intervalech se konají setkání místních Pirátů v Jablonci nad Nisou, Liberci, České Lípě, Semilech, Turnově a Železném Brodě. 
 * Sledujte [náše webové stránky](https://liberecky.pirati.cz) a [náš Facebook](https://www.facebook.com/pg/cpslbc/events/).
 
