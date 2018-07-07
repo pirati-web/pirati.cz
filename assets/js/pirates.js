@@ -1,5 +1,5 @@
 pirates.siteUrl = 'http://'+(document.location.hostname||document.location.host);
-pirates.modal_triggers = document.body.querySelectorAll("a[data-modal]");
+pirates.modal_triggers = document.body.querySelectorAll("[data-modal]");
 
 pirates.integrations = {
 
