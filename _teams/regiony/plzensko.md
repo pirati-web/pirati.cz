@@ -12,7 +12,7 @@ deputy:
 contact:
 - miroslav.masek
 region: Plzeňský kraj
-url: https://plzensky.pirati.cz
+customUrl: https://plzen.pirati.cz
 categories:
 - regiony
 tags:
