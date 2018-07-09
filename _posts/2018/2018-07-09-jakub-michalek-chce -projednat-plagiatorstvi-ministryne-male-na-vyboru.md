@@ -19,10 +19,10 @@ V minulosti jsme mohli být svědky obdobných kauz s opisováním závěrečný
 
 Jakub Michálek ve své žádosti adresované Marku Bendovi, předsedovi výboru, navrhuje přijetí následujícího usnesení:
 
-*Ústavně právní výbor PSP ČR:
+*Ústavně právní výbor PSP ČR:*
 
-1. považuje za nevhodné jmenovat do funkce ministra spravedlnosti osobu, která se dopustila plagiátorství v diplomové práci a nepravdivě podepsala čestné prohlášení;
+*1. považuje za nevhodné jmenovat do funkce ministra spravedlnosti osobu, která se dopustila plagiátorství v diplomové práci a nepravdivě podepsala čestné prohlášení;*
 
-2. žádá předsedu vlády, aby z tohoto důvodu navrhl prezidentovi republiky odvolání ministryně spravedlnosti, a to ještě před projednáním žádosti o důvěru vládě Poslaneckou sněmovnou;
+*2. žádá předsedu vlády, aby z tohoto důvodu navrhl prezidentovi republiky odvolání ministryně spravedlnosti, a to ještě před projednáním žádosti o důvěru vládě Poslaneckou sněmovnou;*
 
-3. žádá Vládu ČR, aby předložila návrh novely zákona o vysokých školách, aby byla prodloužena lhůta pro zahájení řízení o vyslovení neplatnosti státní zkoušky nebo její části, neboť stávající 3letá lhůta je příliš krátká (§ 47c odst. 4 zákona č. 111/1998 Sb., o vysokých školách, v platném znění).*
+*3. žádá Vládu ČR, aby předložila návrh novely zákona o vysokých školách, aby byla prodloužena lhůta pro zahájení řízení o vyslovení neplatnosti státní zkoušky nebo její části, neboť stávající 3letá lhůta je příliš krátká (§ 47c odst. 4 zákona č. 111/1998 Sb., o vysokých školách, v platném znění).*
