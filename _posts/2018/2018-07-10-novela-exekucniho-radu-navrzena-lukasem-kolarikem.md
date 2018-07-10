@@ -5,7 +5,7 @@ tags:         exekuce
 layout:       post
 title:        "Piráti v boji proti kupčení s chudobou představili novelu exekučního řádu"
 image:        assets/img/articles/2018/lukas-kolarik.jpg
-author:       KMediální odbor
+author:       Mediální odbor
 ---
 
 
