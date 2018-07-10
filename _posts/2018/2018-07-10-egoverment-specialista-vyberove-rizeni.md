@@ -8,7 +8,7 @@ author:       Mediální odbor
 ---
 
 
-Piráti hledají prostřednictvím tradičně vypsaného otevřeného výběrového řízení posilu. Specialista eGovernmentu, kterého poptáváme, by měl mít znalosti z oblasti světa informačních technologii i z veřejné správy.
+Piráti hledají prostřednictvím již tradičního otevřeného výběrového řízení posilu. Specialista eGovernmentu, kterého poptáváme, by měl mít znalosti z oblasti světa informačních technologii i z veřejné správy.
 
 **Požadujeme:**
 * Zkušenosti s vedením IT projektů, jejich architekturou i programováním
