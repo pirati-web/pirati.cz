@@ -19,4 +19,4 @@ uvádí předseda Pirátů Ivan Bartoš.
 
 říká Pirát Mikuláš Peksa, místopředseda sněmovního Výboru pro evropské záležitosti.
 
-Piráti na problematickou směrnici upozorňovali dlouho. Německá europoslankyně za Piráty Julie Reda se problematikou autorských práv a svobody internetu zabývá již od zisku mandátu. Čeští Piráti spustili web [www.zachraninternet.cz](www.zachraninternet.cz), na němž návštěvníci najdou odkaz na znění směrnice a další informace.
+Piráti na problematickou směrnici upozorňovali dlouho. Německá europoslankyně za Piráty Julie Reda se problematikou autorských práv a svobody internetu zabývá již od zisku mandátu. Čeští Piráti spustili web [www.zachraninternet.cz](http://www.zachraninternet.cz), na němž návštěvníci najdou odkaz na znění směrnice a další informace.
