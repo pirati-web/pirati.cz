@@ -21,4 +21,4 @@ Piráti hledají prostřednictvím tradičně vypsaného otevřeného výběrov�
 * Odměnu až 50000,- měsíčně na IČo (podmínka sněmovny) při plném úvazku + bonus až 10000,- měsíčně
 
 ### Odkazy
-**Pokud vás inzerát zaujal, navštivte [pirátské fórum](https://forum.pirati.cz/viewtopic.php?f=572&t=42690), kde naleznete kompletní informace o výběrovém řízení. 
+Pokud vás inzerát zaujal, navštivte [pirátské fórum](https://forum.pirati.cz/viewtopic.php?f=572&t=42690), kde naleznete kompletní informace o výběrovém řízení. 
