@@ -3,7 +3,7 @@ date:         2018-07-12
 category:     blog
 tags:         životní-prostředí
 layout:       post
-title:        "Piráti vítají návrh směrnice, která omezí plasty. Nejlepší je odpad, který nevznikne
+title:        "Piráti vítají návrh směrnice, která omezí plasty. Nejlepší je odpad, který nevznikne"
 image:        assets/img/articles/2018/plastove-nadobi.jpg
 author:       Mediální odbor
 ---
