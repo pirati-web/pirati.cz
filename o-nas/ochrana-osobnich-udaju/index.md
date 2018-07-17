@@ -80,6 +80,7 @@ Externími dodavateli jsou poskytovatelé:
   <li> PayPal (Europe) S.a r.l. et Cie S.C.A., 22-24 Boulevard Royal , L-2449 Luxembourg, Lucembursko, Paymill GmbH, St.-Martin-Straße 63, 81669 München, Německo, Wirecard Bank AG, Einsteinring 35, 85609 Aschheim, Německo za účelem poskytování platebních služeb a zúčtování transakcí platebními kartami,</li>
   <li> Česká pošta, s.p., Politických vězňů 909/4, 225 99 Praha 1, Česká republika, za účelem poskytování kurýrních a poštovních služeb,</li>
   <li> Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA za účelem poskytování reklamních a analytických služeb.</li>
+  <li> Rocket Science Group, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA za účelem poskytování služeb spojených s newslettery.</li>
 </ol>
 
 Externí dodavatelé se sídlem v USA splňují podmínky systému předávání osobních údajů mezi EU a USA v obchodních vztazích s názvem Privacy Shield. Případné předání a zpracování osobních údajů v zemích mimo EU je prováděno vždy v souladu s platnou legislativou.
