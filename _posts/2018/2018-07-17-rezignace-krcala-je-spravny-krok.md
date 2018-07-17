@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda
 layout:       post
 title:        "Piráti: Rezignace ministra Krčála je správným krokem. Kompetence a důvěryhodnost jsou pro řízení resortů klíčové"
-image:        assets/img/articles/2018/ivan-olga.jpg
+image:        assets/img/articles/2018/ivan-olga.png
 author:       Karolína Sadílková
 ---
 
