@@ -23,7 +23,7 @@ asistenti:
     tel:  733 252 652
 office: 
   - address: 8. května 522, 779 00  Olomouc
-    opening:
+    opening: "Pondělí 9:00 - 13:00, případně po telefonické domluvě na +420 734 182 042 "
 profiles:
   github:     https://github.com/Fafrin
   facebook: 	https://www.facebook.com/vpikal
@@ -35,7 +35,7 @@ profiles:
 ordpsp: 7
 redmine: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
-calendar: vpfafrin%40gmail.com
+calendar: vpfafrin@gmail.com
 ---
 
 Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj.
