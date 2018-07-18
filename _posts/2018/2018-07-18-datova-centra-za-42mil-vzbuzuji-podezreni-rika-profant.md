@@ -12,7 +12,7 @@ Praha, 18. července 2018 – Dle dnes Vládou ČR projednávaných dokumentů p
 
 Ministerstvo vnitra se i přes upozornění Jiřího Malého z Národního bezpečnostního úřadu rozhodlo uplatnit výjimku a nehodlá uspořádat standardní veřejnou soutěž. Přitom na konci minulého roku ÚOHS potvrdil vnitru pokutu právě za přidělení IT zakázky bez soutěže. Zakázku na datová centra dnes projedná a zřejmě i podpoří vláda.
 
-> „Je nutné objednávat takový hardware či software, ve kterém se nebudou tolerovat chyby a pokud se objeví, tak budou odstraněné. Není možné se snažit je nesystémově “zalátat”. Piráti zkrátka podporují takzvanou otevřenou bezpečnost, zatímco Ministerstvo vnitra v nepřiměřené míře spatřuje bezpečnostní hrozby ve zpřístupnění zadávací dokumentace. Musíme si přestat hrát na to, že systémy jsou bezpečné, když nám to slíbí anonymní dodavatel. Správnou cestou je tvořit systémy již svým návrhem, který může být nezávisle posouzen,“ 
+> „Je nutné objednávat takový hardware či software, ve kterém se nebudou tolerovat chyby a pokud se objeví, tak budou odstraněné. Není možné se snažit je nesystémově “zalátat”. Piráti zkrátka podporují takzvanou otevřenou bezpečnost, zatímco Ministerstvo vnitra v nepřiměřené míře spatřuje bezpečnostní hrozby ve zpřístupnění zadávací dokumentace. Musíme si přestat hrát na to, že systémy jsou bezpečné, když nám to slíbí anonymní dodavatel. Správnou cestou je tvořit systémy bezpečné již svým návrhem, který může být nezávisle posouzen,“ 
 
 uvádí poslanec Pirátů Ondřej Profant.
 
