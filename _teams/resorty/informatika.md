@@ -49,13 +49,13 @@ Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za
 Členové týmu jsou:
 
 * **[Ondřej Profant](/lide/ondrej-profant)**, poslanec zodpovědný za oblast informatiky, předseda podvýboru pro e-government.
-* **[Tomáš Martínek](/lide/tomas-martinek)**, poslanec
+* **[Tomáš Martínek](/lide/tomas-martinek)**, poslanec, člen podvýboru pro e-government
 * **Michal Bláha**
 * **Patrik Zandl**
 * **Ivor Kolár**: kyberbezpečnost
-* **Jan Hamal Dvořák**: IT veřejná správa, linux
+* **Jan Hamal Dvořák**: IT veřejná správa, linuxový admin
 * **Zdeněk Kubala**: linuxový admin
-* **Martin Nečaský**: nezávislý odborník v opendata
+* **Martin Nečaský**: nezávislý odborník v oblasti opendat
 * **Martin Šebek**: IT veřejná správa
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
