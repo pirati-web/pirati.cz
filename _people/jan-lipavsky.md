@@ -24,10 +24,11 @@ report: 1E2WqnQfo53CQSNy1sS6Dfm5WUjWmyRA8
 redmine: 124
 ---
 
-Jan Lipavský (* 2. července 1985) je pirátský poslanec, člen republikového výboru, volebního výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází.
+Jan Lipavský (* 2. července 1985) je Pirát, který se soustředí především na bezpečnost a zahraniční politiku. Pracuje například za vzniku zákona chránícího strategická odvětví české ekonomiky před ztrátou citlivých dat a know-how. Kontroluje také činnost českých tajných služeb a zasazuje se o zachování jejich nezávislosti. Je Pražákem srdcem a duší, na Praze 6 se narodil a v současnosti tam také s rodinou žije. 
 
-Vystudoval bakalářský obor Mezinárodní teritoriální studia (Univerzita Karlova, Fakulta sociálních věd – Institut mezinárodních studií). Absolvoval dvousemestrální pobyt na University of Kent v rámci studijního programu ERASMUS.
+Studoval mezinárodní vztahy na univerzitě v Česku a v Anglii. Před vstupem do politiky rozvíjel kariéru v soukromém sektoru, například ve společnostech McKinsey & Company či ZOOT. 
 
-V pracovním životě pracoval ve společnostech McKinsey & Company, Euro RSCG, ZOOT, Total Solutions a Moro Systems. Postupně se vypracoval na analytika a manažera projektů v oblasti informačních technologií v bankovnictví (např. obchodování na burze, FX). Též má praktické zkušenosti s marketingem.
+Postupně se vypracoval do manažerských pozic v oblasti informačních technologií v bankovnictví. 
 
-Pirátům až dosud věnoval vždy jen ve svém volném čase. Mezi jeho hlavní oblasti zájmu patří mezinárodní politika, evropská politika a otázky bezpečnosti. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny jako poslanec PSP ČR za Piráty v Praze. 
+Členem Pirátské strany je od 2015. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny jako poslance PSP ČR za Piráty v Praze.
+
