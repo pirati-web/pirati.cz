@@ -15,7 +15,7 @@ Praha, 25. července 2018 – Ministerstvo průmyslu a obchodu bude spolupracova
  
  uvádí Dana Balcarová, předsedkyně sněmovního Výboru pro životní prostředí o projektu EFEKT. 
 
- > „Aby EFEKT dosáhl maxima, je třeba respektovat tři základní zásady: omezit svícení do horního poloprostoru, eliminovat osvětlování mimo nutné časové období a používat vhodné barevné spektrum a intenzitu zdroje. Nejškodlivější lidskému zdraví je modrá složka světla, která negativně ovlivňuje přirozené biorytmy všech živočichů včetně člověka. Hned za negativními dopady na zdraví, jsou obrovské ekonomické úspory, které to může přinést. Nadměrné svícení nevhodnými zdroji světla totiž působí negativně nejen na přírodu, ale také na tisíce obyvatel, kteří jsou mu nedobrovolně a mnohdy nevědomě vystaveni,“ 
+ > „Aby EFEKT dosáhl maxima, je třeba respektovat tři základní zásady: omezit svícení do horního poloprostoru, eliminovat osvětlování mimo nutné časové období a používat vhodné barevné spektrum a intenzitu zdroje. Nejškodlivější lidskému zdraví je bílá a modrá složka světla, která negativně ovlivňuje přirozené biorytmy všech živočichů včetně člověka. Hned za negativními dopady na zdraví, jsou obrovské ekonomické úspory, které to může přinést. Nadměrné svícení nevhodnými zdroji světla totiž působí negativně nejen na přírodu, ale také na tisíce obyvatel, kteří jsou mu nedobrovolně a mnohdy nevědomě vystaveni,“ 
  
  vypočítává Balcarová rizika světelného smogu. 
 
