@@ -1,7 +1,7 @@
 ---
 date:         2018-06-19
 category:     blog
-tags:         životní prostředí
+tags:         životní-prostředí
 layout:       post
 title:        "Pirátka Balcarová uspořádala kulatý stůl k odpadové novele, shoda panuje na větší míře recyklace"
 image:        assets/img/articles/2018/balcarova-konference.jpg
