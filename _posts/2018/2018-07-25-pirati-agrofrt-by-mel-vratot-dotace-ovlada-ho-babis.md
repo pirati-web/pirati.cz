@@ -23,7 +23,7 @@ Stejná definice se nachází ve standardu OECD Automatic Exchange of Financial 
 
 uvádí Janusz Konieczny protikorupční expert a člen analytického týmu Pirátů.
 
-Analytický tým již dříve nalezl výpis společnosti Agrofert ve slovenském rejstříku vlastníků, který zprostředkovaně doručili jedné z protikorupčních nevládních organizací působících v ČR. Při podrobném zkoumání všech 27 výpisů převážně dceřiných společnosti Agrofertu Piráti nově nalezli výpis, který podepsal přímo Andrej Babiš a u svého jména má uvedeno, že jako ”zakladatel‘ (nepriamo) ovládá samotného Partnera”. Partnerem je přitom ve slovenském rejstříku označovaná společnost, která získává veřejné prostředky.
+Při podrobném zkoumání všech 27 výpisů převážně dceřiných společnosti Agrofertu Piráti nově nalezli výpis, který podepsal přímo Andrej Babiš a u svého jména má uvedeno, že jako ”zakladatel‘ (nepriamo) ovládá samotného Partnera”. Partnerem je přitom ve slovenském rejstříku označovaná společnost, která získává veřejné prostředky.
 
 Při výpočtu objemu prostředků, které byly přidělené během porušování zákona o střetu zájmů, je nutné promítnout období, kdy Andrej Babiš nezasedal ve vládě z důvodu svého odvolání tehdejším premiérem Bohuslavem Sobotkou. Přesto se jedná o obrovskou částku. Jen pro představu například lesnická společnost UNILES, a.s. z koncernu Agrofert získala v tomto inkriminovaném období veřejné zakázky přesahující miliardovou položku.
 
