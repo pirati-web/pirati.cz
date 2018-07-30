@@ -46,3 +46,5 @@ S ohledem na zákon o střetu zájmů má Andrej Babiš jediné dvě možnosti -
 > „Bohužel již dnes lze na některých příkladech prokázat, že dotační politika je nastavovaná ve prospěch velkých podniků a je zde podezření, že dochází ke zneužití střetu zájmů. Piráti si rovněž vyžádali stanoviska českých a slovenských expertů, které v blízké budoucnosti samozřejmě představí. Již nyní je nicméně zřejmé, že koncern Agrofert by měl nepochybně vrátit dotace a objem prostředků ze zakázek, které vzhledem ke střetu zájmů získal neoprávněně,”
 
 uzavírá Fojtík.
+
+[Právní analýza ovládající osoby svěřenského fondu](http://pirati.cz/assets/pdf/ovladajici-osoba-sverenskeho-fondu.pdf). 
