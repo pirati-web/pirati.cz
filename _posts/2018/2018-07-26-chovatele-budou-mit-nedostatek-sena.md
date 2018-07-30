@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Kvůli suchu hrozí v zimě chovatelům nedostatek krmení"
-image:        assets/img/articles/2018/balcarova-dana.jpg
+image:        assets/img/articles/2018/balcarova-dana1.jpg
 author:       Dana Balcarová
 ---
 
