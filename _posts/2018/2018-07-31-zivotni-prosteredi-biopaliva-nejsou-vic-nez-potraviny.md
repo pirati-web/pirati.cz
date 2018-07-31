@@ -17,4 +17,6 @@ uvedla Dana Balcarová, předsedkyně Výboru pro životní prostředí.
 
 Piráti navrhují jít ještě dále a úplně zrušit povinnost přimíchávání biopaliv do pohonných hmot, resp. zachovat tuto povinnosti pouze při použití odpadních a vedlejších produktů, které nemají jiné využití. 
 
-> „Využít by se měly například odpady ze zemědělské a potravinářské výroby či odpadní oleje,“ doplňuje Balcarová.  
+> „Využít by se měly například odpady ze zemědělské a potravinářské výroby či odpadní oleje,“ 
+
+doplňuje Balcarová.  
