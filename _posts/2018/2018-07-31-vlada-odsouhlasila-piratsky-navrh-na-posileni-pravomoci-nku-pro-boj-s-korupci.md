@@ -3,7 +3,7 @@ date:         2018-07-31
 category:     blog
 tags:         vláda
 layout:       post
-title:        "Vláda dnes odsouhlasila pirátský návrh na posílení pravomocí NKÚ. Úřad tak bude moci lépe odhalovat korupci"
+title:        "Vláda odsouhlasila pirátský návrh na posílení pravomocí NKÚ. Úřad tak bude moci lépe odhalovat korupci"
 image:        assets/img/articles/2018/cernohorsky2.jpg
 author:       Karolína Sadílková
 ---
