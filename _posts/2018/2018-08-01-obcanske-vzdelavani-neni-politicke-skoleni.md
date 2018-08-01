@@ -16,5 +16,7 @@ Občanské vzdělávání má různé definice. Podle odloženého dokumentu je 
 Občanské vzdělávání zaměřené na rozvoj kritického myšlení je jedním z hlavních pirátských principů. Aby se z dobré myšlenky nestal penězovod bez výsledku, nebo dokonce nástroj prosazování jedné ideologie, budeme další osud dokumentu bedlivě sledovat.
 
 --
+
+
 [Základní dokument tvorby Koncepce občanského vzdělávání v České republice](https://pirati.cz/assets/pdf/zakladni_dok_koncepce_obcanskeho_vzdelavani.pdf)
 [Polemika Pirátů s blogerským článkem Václava Klause ml.](https://www.piratskelisty.cz/clanek-2096-obcanske-vzdelani-proti-indoktrinaci-bojuje-vymyvani-mozku-zustava-domenou-demagogu)
