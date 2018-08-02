@@ -36,3 +36,5 @@ dodává Bartoš.
 > „Vznikají zde důvodná podezření, že předseda vlády Andrej Babiš je ovládající osobou ve vztahu ke koncernu Agrofert, měl by proto tato podezření rozptýlit a předložit kompletní znění zakládajících listin obou jeho svěřenských fondů,“ 
 
 konstatuje Štěpán Rattay, vedoucí analytického týmu Pirátů.
+
+[Dopis eurokomisařce Corině Cretu, ve kterém Piráti žádají o vysvětlení správného postupu při implementaci nařízení o střetu zájmů.](https://pirati.cz/assets/pdf/Letter DG REGIO - Piráti.pdf)
