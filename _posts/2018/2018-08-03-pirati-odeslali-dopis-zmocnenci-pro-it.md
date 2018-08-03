@@ -18,3 +18,5 @@ komentoval předseda Pirátů Ivan Bartoš.
 Kromě předsedy Výboru pro veřejnou správu a regionální rozvoj Ivana Bartoše Piráti nabízí i IT experta a předsedu Podvýboru pro eGovernment Ondřeje Profanta, dále předsedu Podvýboru pro digitalizaci justice a e-Sbírku Jakuba Michálka, člena Správní rady VZP, specialistu kvality a efektivity veřejných služeb Zdeňka Hřiba, předsedu Podvýboru pro informační technologie a dávkové systémy Lukáše Koláříka a předsedu Podvýboru pro ICT, telekomunikace a digitální ekonomiku Martina Jiránka. Všichni uvedení mají bohaté zkušenosti z praxe i odborné vzdělání a kompetence.
 
 [Dopis: Žádost o pravidelné pozvánky k účasti na jednání Rady vlády pro informační společnost](https://pirati.cz/assets/pdf/Nominace_Pirati_do_RVIS_a_skupin.pdf)
+
+[Odpověď Andreje Babiše na žádost Pirátů o přizvání na pravidelná jednání Rady vlády pro informační společnost](https://pirati.cz/assets/pdf/595270652_0_Bartoš_RVIS.pdf)
