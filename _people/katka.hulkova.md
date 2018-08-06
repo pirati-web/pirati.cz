@@ -1,10 +1,10 @@
 ---
-uid: katerina.hulkova
+uid: katka.hulkova
 name:     Kateřina Hůlková      	# běžně používáné jméno
 fullname: Kateřina Hůlková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
-img: people/katerina-hulkova.jpg           # 165 x 220
+img: people/katka-hulkova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Jihočeský kraj # kratký popis, max 160 znaků
 mail:
 - katka.hulkova@pirati.cz
