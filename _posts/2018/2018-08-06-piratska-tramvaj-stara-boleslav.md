@@ -17,4 +17,4 @@ Praha, 6. srpna 2018 – Klasický tramvajový vůz typu T3 umístili Piráti do
 
 Piráti v Brandýse-Boleslavi se rozhodli, že nebudou před letošními volbami hyzdit město billboardy. Namísto nevzhledných reklam podél silnic nebo v památkové zóně se kandidující koalice Pirátů a Starostů a nezávislých rozhodla věnovat prostředky do zvelebení města. A právě čtvrteční příjezd a instalace tramvaje na staroboleslavské Mariánské náměstí symbolicky odstartovaly letní a podzimní sérii akcí, při nichž budou kandidáti s občany diskutovat o zásadních problémech města. Mimo téma dopravy místní trápí také fungování nemocnic, nedostatečná kapacita škol a školek nebo domovů důchodců. 
 
-Podrobnosti o projektu vlakotramvaje, program a přehled akcí koalice Pirátů a STANu najdete na webu [www.piratisestanem.cz](www.piratisestanem.cz).  
+Podrobnosti o projektu vlakotramvaje, program a přehled akcí koalice Pirátů a STANu najdete na webu [www.piratisestanem.cz](https://www.piratisestanem.cz).  
