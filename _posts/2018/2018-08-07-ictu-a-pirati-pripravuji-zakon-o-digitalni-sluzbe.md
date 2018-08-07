@@ -3,7 +3,7 @@ date:         2018-08-07
 category:     blog
 tags:         digitalizace
 layout:       post
-title:        "S ICTU spolupracujeme na zákonu o digitální službě, na podzim půjde do Sněmovny"
+title:        "Komentář poslance Ondřeje Profanta: S ICTU spolupracujeme na zákonu o digitální službě, na podzim půjde do Sněmovny"
 image:        /assets/img/articles/2018/ondrej-profant1.jpg
 author:       Jakub Dušánek
 ---
