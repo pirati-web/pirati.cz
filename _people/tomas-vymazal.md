@@ -9,14 +9,18 @@ img: people/tomas-vymazal.jpg   # 165 x 220
 description: poslanec PSP ČR za Jihomoravský kraj          	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
+- vymazalt@psp.cz
 - tomas.vymazal@pirati.cz
-mob:			  +420 774 363 736
+mob:  +420 774 363 736
 asistenti:
-  - name: Mgr. David Albrecht
-  - name: Bc. Markéta Gregorová
+  - name: Petra Vymazalová
+    mob:  +420 778 111 469
   - name: Mgr. Ivan Prouza
+    mob:  +420 778 111 464
+  - name: Mgr. David Albrecht
 profiles:
   facebook: https://www.facebook.com/tom.vymazal
+  twitter: https://twitter.com/tom_vymazal
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=tom%C3%A1%C5%A1%20vymazal
   wiki: https://wiki.pirati.cz/lide/tomas_vymazal
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.3&soc=-7.4
