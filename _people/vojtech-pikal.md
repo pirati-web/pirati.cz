@@ -18,9 +18,6 @@ asistenti:
     name: Nela Chudová
     mail: nela.chudova@pirati.cz
     tel:  734 182 042
-  - name: Tomáš Svoboda
-    mail: tomas.svoboda@pirati.cz
-    tel:  733 252 652
 office: 
   - address: 8. května 522, 779 00  Olomouc
     opening: "Pondělí 9:00 - 13:00, případně po telefonické domluvě na +420 734 182 042 "
@@ -41,20 +38,22 @@ calendar:  dnBmYWZyaW5AZ21haWwuY29t
 
 Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj.
 
-Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujícím programu magisterském.
+Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujících programech magisterských.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester softwaru v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
 
-Vojtěch žil a snad vždy bude v Olomouci. Bydlí též na "poslanecké koleji" v Praze.
+Vojtěch žil a snad vždy bude v Olomouci. Jako poslanec bydlí též v Praze.
 
 Je [poslancem](http://www.psp.cz/sqw/detail.sqw?id=6531) za Olomoucký kraj. Zastupoval Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice) a stále zastupuje v [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie).
 
 Členem Pirátů je od února 2012, aktivně se do fungování zapojuje o trochu déle.
-Působí v administrativním, zahraničním, finančním a personálním odboru.
+Aktuálně působí v administrativním, zahraničním a finančním odboru.
 Předsedá na internetových jednáních celostátního fóra.
 
-Ve straně v minulosti dále sloužil v kontrolní komisi, republikovém předsednictvu a byl předsedou a místopředsedou Olomouckého krajského sdružení a místopředsedou Olomouckého místního sdružení. V minulosti byl vedoucím celostátního i krajského administrativního odboru.
+Ve straně v minulosti dále sloužil v personálním odboru, kontrolní komisi, republikovém předsednictvu a byl předsedou a místopředsedou Olomouckého krajského sdružení a místopředsedou Olomouckého místního sdružení. Dále byl v minulosti vedoucím celostátního i krajského administrativního odboru.
 Zapojuje se také na mezinárodní úrovni, například v letech 2013 až 2014 byl spolupředsedou [Pirátské internacionály](https://pp-international.net/).
 Spoluzakládal též [Mladé Piráty](https://wiki.pirati.cz/mladi/start), kde byl strážcem pokladu.
+
+Ve sněmovně se kromě místopředsednických povinností věnuje otázkám voleb, demokracie a ústavy.
 
 Jeho cílem v politice je reforma kopírovacího monopolu (majetkových autorských práv) a ochrana svobody slova tak, aby zbytečně nebyl bržděn technický a kulturní rozvoj společnosti a lidstvo se mohlo soustředit na důležité cíle jako osidlování vesmíru. Neméně důležitá je možnost lidí svobodně rozhodovat o sobě a společných věcech na úrovni, která je k takovému rozhodnutí nejvhodnější, tedy nejbližší smysluplně vhodná. Považuje se za [sociálního liberála](https://en.wikipedia.org/wiki/Social_liberalism), velmi středového sociálního liberála.
 
