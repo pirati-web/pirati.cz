@@ -89,22 +89,26 @@
                   <li{% if page.url contains 'regiony'%} class="is-active"{% endif %}>
                     <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
                   </li>
-                  <li{% if page.url contains 'snemovna'%} class="is-active"{% endif %}>
-                    <a href="{{ '/snemovna/' | relative_url }}">Sněmovna</a>
+                  {% if page.url != '/' %}
+                  <li{% if page.url contains 'otevrenost'%} class="is-active"{% endif %}>
+                    <a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a>
                   </li>
+                  <li{% if page.url contains 'download'%} class="is-active"{% endif %}>
+                    <a href="{{ '/download/' | relative_url }}">Ke stažení</a>
+                  </li>
+                  {% endif %}
                 </ul>
               </li>
-              {% if page.url == '/' %}
               <li {% if page.url contains 'snemovna' %} class="is-active"{% endif %}>
                 <a href="{{'/snemovna/' | relative_url }}">Sněmovna</a>
               </li>
-              {% endif %}
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
               </li>
               <li{% if page.url contains 'pripoj-se' %} class="is-active"{% endif %}>
                 <a href="{{ '/pripoj-se/' | relative_url }}">Připoj se</a>
               </li>
+              {% if page.url == '/' %}
               <li{% if page.url contains 'otevrenost' or page.url contains 'download' %} class="is-active"{% endif %}>
                 <a href="{{ '/otevrenost/' | relative_url }}">Zveřejňujeme</a>
 
@@ -117,6 +121,7 @@
                   </li>
                 </ul>
               </li>
+              {% endif %}
               <li{% if page.url contains 'kontakt' %} class="is-active"{% endif %}>
                 <a href="{{ '/kontakt/' | relative_url }}">Kontakt</a>
               </li>
