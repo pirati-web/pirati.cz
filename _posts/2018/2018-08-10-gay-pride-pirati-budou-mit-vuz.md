@@ -5,6 +5,7 @@ tags:         lidská-práva
 layout:       post
 title:        "Piráti se chystají do průvodu Prague Pride. Jako první politická strana budou mít vlastní vůz"
 image:        /assets/img/articles/2018/gay-pride.jpg
+author:       Andrea Mádlová
 ---
 
 
