@@ -1,13 +1,13 @@
 ---
-uid: katerina.hulkova
+uid: katka.hulkova
 name:     Kateřina Hůlková      	# běžně používáné jméno
 fullname: Kateřina Hůlková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
-img: people/katerina-hulkova.jpg           # 165 x 220
+img: people/katka-hulkova.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Jihočeský kraj # kratký popis, max 160 znaků
 mail:
-- katerina.hulkova@pirati.cz
+- katka.hulkova@pirati.cz
 mob: 
 profiles:
   github:
@@ -16,7 +16,7 @@ profiles:
   linkedin:
 ---
 
-Kateřina Hůlková je od roku 2018 koordinátorkou Pirátské strany pro Jihočeský kraj. Narodila se v Českých Budějovicích, většinu dětství strávila v Ševětíně.
+Kateřina Hůlková (u Pirátů katka.hulkova) je od roku 2018 koordinátorkou Pirátské strany pro Jihočeský kraj. Narodila se v Českých Budějovicích, většinu dětství strávila v Ševětíně.
 
 V Budějovicích vystudovala Biskupské gymnázium a později na Jihočeské univerzitě obor anglický a francouzský jazyk pro administrativu Evropské unie. Další léta prožila v Praze jako studentka žurnalistiky na Univerzitě Karlově. V té době začala pracovat pro Lidové noviny jako redaktorka zahraničního oddělení. Po třech letech v Lidovkách odešla zpět do Budějovic, aby jako editorka posílila tým jihočeské redakce Mladé fronty Dnes. V roce 2009 ji oslovila společnost Mladá fronta a.s., aby pro ni v jižních Čechách nastartovala a další tři roky vedla projekt zpravodajského týdeníku Sedmička. Kateřina sestavila dvacetičlenný tým redaktorů, editorů a fotografů, kteří ve čtyřech jihočeských redakcích po tři roky tvořili kvalitní regionální zpravodajství.
 

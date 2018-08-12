@@ -20,7 +20,7 @@ asistenti:
   - name: Adam Komenda
 profiles:
   github:       
-  facebook:     https://www.facebook.com/karel.vosmera
+  facebook:     https://www.facebook.com/mikulas.peksa
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=mikul%C3%A1%C5%A1%20peksa&view_all=1
   report: https://forum.pirati.cz/poslanci-f884/reporty-mikulase-peksy-t38999.html
