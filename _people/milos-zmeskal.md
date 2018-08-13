@@ -9,7 +9,7 @@ img: people/milos-zmeskal.jpg           # 165 x 220
 description: Koordinátor dobrovolníků pro Olomoucký kraj # kratký popis, max 160 znaků
 mail:
 - milos.zmeskal@pirati.cz
-mob: 731 464 910
+mob: 770 113 650
 profiles:
   github:
   facebook:	https://www.facebook.com/Milhauzz18			
