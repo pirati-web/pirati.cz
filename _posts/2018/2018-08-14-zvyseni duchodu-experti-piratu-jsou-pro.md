@@ -1,7 +1,7 @@
 ---
 date:         2018-08-14
 category:     blog
-tags:         okd
+tags:         ekonomika
 layout:       post
 title:        "Piráti chtějí zamezit skokovému zvýšení platů politiků. Experti strany také navrhli podpořit navýšení důchodů pro občany nad 85 let "
 image:        /assets/img/articles/2018/mikulas.jpg
