@@ -1,7 +1,7 @@
 ---
 date:         2018-08-14
 category:     blog
-tags:         sněmovna okd
+tags:         okd
 layout:       post
 title:        "Černohorský: Vyšetřovací komise k OKD se shodla na předvedení Zdeňka Bakaly policií"
 image:        /assets/img/articles/2018/cernohorsky.jpg
