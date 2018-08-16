@@ -1,5 +1,5 @@
 <head>
-    {% capture title %}{%if page.fullname%}{{page.fullname}}{% elsif page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+    {% capture title %}{% if page.name %}{{ page.name | escape }}{% elsif page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
     {% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
     {% capture keywords %}{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}{% endcapture %}
     <meta charset="utf-8">
