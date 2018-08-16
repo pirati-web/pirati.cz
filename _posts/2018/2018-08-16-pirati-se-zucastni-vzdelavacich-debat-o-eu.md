@@ -1,5 +1,5 @@
 ---
-date:         2018-08-15
+date:         2018-08-16
 category:     blog
 tags:         vláda
 layout:       post
