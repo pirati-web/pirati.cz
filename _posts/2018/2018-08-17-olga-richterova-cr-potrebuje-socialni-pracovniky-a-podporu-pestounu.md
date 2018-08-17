@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna bydlení
 layout:       post
 title:        "Komentář poslankyně Pirátů Olgy Richterové: ČR potřebuje více odborných sociálních pracovníků a větší podporu dlouhodobých pěstounů"
-image:        /assets/img/articles/2018/olga-richterova-mpsv.jpg.jpg
+image:        /assets/img/articles/2018/olga-richterova-mpsv.jpg
 author:       Olga Richterová
 ---
 
