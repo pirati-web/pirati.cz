@@ -1,7 +1,7 @@
 ---
 date:         2018-08-22
 category:     blog
-tags:         sbezpečnost
+tags:         bezpečnost
 layout:       post
 title:        "Komentář poslance Lukáše Koláříka: Na bezpečnostním výboru dnes požádám o informace k výběrovému řízení na ředitele GIBS"
 image:        /assets/img/articles/2018/kolarik-zluta.jpg
