@@ -6,6 +6,7 @@ layout:       post
 title:        "Svoboda internetu je stále v ohrožení. Evropský parlament bude hlasovat o návrhu na zavedení cenzury"
 image:        /assets/img/articles/2018/demonstrace-cenzura-internetu.jpg
 author:       Mediální odbor
+---
 
 Praha, 23. srpna 2018 - Evropský parlament bude 12. září 2018 znovu hlasovat o směrnici o copyrightu, na jejíž úskalí Piráti dlouhodobě upozorňují. Stávající návrh by podle nich směřoval k cenzuře a ohrozil tak pestrost a svobodu internetu. Problém by to byl také pro malé a střední firmy neschopné dostát požadavkům směrnice. Už podruhé proto strana svolává happening na záchranu internetu, kam mohou lidé přijít vyjádřit svůj nesouhlas se směrnicí. Na akci promluví předseda Pirátů Ivan Bartoš, poslanci Mikuláš Peksa a Tomáš Martínek, a také kandidát na pražského primátora Zdeněk Hřib.
 
