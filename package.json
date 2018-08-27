@@ -21,7 +21,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-run": "^1.7.1",
-    "gulp-uglify": "^3.0.0"
+    "gulp-uglify": "^3.0.0",
     "gulp-static-hash-pirati": "^0.1.4"
   }
 }

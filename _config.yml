@@ -74,6 +74,11 @@ defaults:   # defaults values for collection scope
       rbar: "program program_item"
   -
     scope:
+      path: "_program/komunal2018"
+    values:
+      layout: "page"
+  -
+    scope:
       path: "_teams"
     values:
       layout: "team"
