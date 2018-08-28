@@ -4,7 +4,7 @@ category:     blog
 tags:         autorské-právo cenzura
 layout:       post
 title:        "Piráti dnes ve Sněmovně uspořádali seminář ke směrnici o autorském právu"
-image:        /assets/img/articles/2018/peksa
+image:        /assets/img/articles/2018/seminar-cenzura.jpg
 author:       Jakub Dušánek
 ---
 
