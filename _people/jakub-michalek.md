@@ -15,9 +15,9 @@ mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
 asistenti:
-  - name: Lukáš Lev Červinka
-    mail: lukas.lev.cervinka@pirati.cz
-    tel: +420 739 639 021
+  - name: Mgr. Kristýna Plašilová
+    mail: kristyna.plasilova@pirati.cz
+    tel: +420 728 859 187
 profiles:
   github: https://github.com/jmichalek
   facebook: https://www.facebook.com/smidak
@@ -43,7 +43,7 @@ carousel:
 
 Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů a místopředsedou strany. Na Univerzitě Karlově vystudoval práva a teoretickou fyziku. Část střední školy studoval v zahraničí (UK, USA). 
 
-V letech 2014-2017 byl šéf zastupitelů za Piráty v Praze. Na pražském Magistrátu se věnoval řadě kauz: 
+V letech 2014-2017 byl šéfem zastupitelů za Piráty v Praze. Na pražském Magistrátu se věnoval řadě kauz: 
 
 * Podrobně se zabýval kauzami z doby primátora Pavla Béma, např. Opencard, nevýhodného pronájmu Škodova paláce a vyzval primátorku k podání žaloby. 
 * Upozornil na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a na potřebné se nedostává. 
