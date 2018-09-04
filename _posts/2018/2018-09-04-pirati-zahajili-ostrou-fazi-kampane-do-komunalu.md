@@ -19,3 +19,8 @@ Podle pirátského kandidáta na primátora  Zdeňka Hřiba trápí Prahu vlekl�
 Na konferenci promluvili: David Witosz (Ostrava), Pavel Bosák (Plzně), Hynek Melichar (Olomouc), Ondřej Karas (Pardubice), Zuzana Kudláčková (České Budějovice) a Jindřich Čermák (Karlovy Vary). 
 
 > „Pokud chceme být úspěšní a prosazovat věci, kterým věříme, nemůžeme to dělat pouze na celostátní úrovni. Začít se musí právě už v obcích a městech,” zmínila Richterová. „Piráti na radnicích jsou rozhodně potřeba. Já sama jsem byla zastupitelkou na Praze 10, takže zkušenosti s lokální politikou mám a vím, že to není vždy snadné. Přeji proto všem našim kandidátům pevné nervy a hodně sil,” uzavřela konferenci.
+
+### Odkazy 
+
+* [https://www.facebook.com/ceska.piratska.strana/videos/314938469266457/](Záznam přenosu z ostrého startu kampaně)
+* [https://www.youtube.com/watch?v=Me_S4vNCBxE&feature=youtu.be](Vystoupení lídra v Brně, Tomáše Koláčného, který se nemohl zahájení účastnit vzhledem k probíhajícímu zasedání zastupitelstva města Brna)
