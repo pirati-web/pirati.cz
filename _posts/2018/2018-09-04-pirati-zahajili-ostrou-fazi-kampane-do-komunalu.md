@@ -22,5 +22,5 @@ Na konferenci promluvili: David Witosz (Ostrava), Pavel Bosák (Plzně), Hynek M
 
 ### Odkazy 
 
-* [https://www.facebook.com/ceska.piratska.strana/videos/314938469266457/](Záznam přenosu z ostrého startu kampaně)
-* [https://www.youtube.com/watch?v=Me_S4vNCBxE&feature=youtu.be](Vystoupení lídra v Brně, Tomáše Koláčného, který se nemohl zahájení účastnit vzhledem k probíhajícímu zasedání zastupitelstva města Brna)
+* [Záznam přenosu z ostrého startu kampaně](https://www.facebook.com/ceska.piratska.strana/videos/314938469266457/)
+* [Vystoupení lídra v Brně, Tomáše Koláčného, který se nemohl zahájení účastnit vzhledem k probíhajícímu zasedání zastupitelstva města Brna](https://www.youtube.com/watch?v=Me_S4vNCBxE&feature=youtu.be)
