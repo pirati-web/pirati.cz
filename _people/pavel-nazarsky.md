@@ -2,7 +2,7 @@
 uid: pavel.nazarsky
 name:     Pavel Nazarský      		# běžně používáné jméno
 fullname: Pavel Nazarský  		# jméno s tituly etc.
-category: praha              		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:             		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/pavel-nazarsky.jpg           # 165 x 220
 description:  # kratký popis, max 160 znaků
 mail:
