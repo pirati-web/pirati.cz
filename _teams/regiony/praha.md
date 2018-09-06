@@ -27,16 +27,13 @@ twitter: https://twitter.com/piratipraha
 
 Máme 4 Piráty na pražském magistrátu a 11 zastupitelů na městských částech.
 Na magistrátu jsme v opozici, prosazujeme průhledné hospodaření a rozhodování.
-Krajské sdružení se schází v **Pirátském centru**, Řehořova 19, Praha 3.
 
 Možnosti zapojení:
 
 * Přijďte na pravidelnou **krajskou schůzi**, která se koná
-  vždy první čtvrtek v měsíci v Pirátském centru od 18:00.
-* Přijďte se podívat na **Pirátská úterý**, což jsou pravidelné
-  přednášky pro veřejnost, v Pirátském centru od 18:00 hodin.
+  vždy první čtvrtek v měsíci od 18:00
 
 Podívejte se na konkrétní termíny akcí v [kalendáři](https://praha.pirati.cz/pripoj-se/kalendar/  ),
-abyste se ujistili, že akce bude.
+abyste se ujistili, že akce bude a kde se aktuálně bude konat.
 
 Více informací na krajském webu [praha.pirati.cz](https://praha.pirati.cz).
