@@ -342,6 +342,6 @@ keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirát
 
 ---
 
-[^1]: Sídlo strany je [upřesněno](https://wiki.pirati.cz/rv/29_2014) na adresu *Řehořova 943/19, Praha 3*.
+[^1]: Sídlo strany je [upřesněno](https://forum.pirati.cz/viewtopic.php?p=577569#p577569) na adresu *Na Moráni 360/3, 120 00, Praha - Nové Město*.
 [^2]: Termín občan upřesňuje [§ 6 odst. (1) Pravidel pro příspěvky](https://wiki.pirati.cz/rules/pcp#podminka_obcanstvi)
 [^3]: Celostátní fórum stanovuje velikost této skupiny v [§ 5 svého jednacím řádu](https://wiki.pirati.cz/rules/jdr#skupina_clenu) na dvojnásobek odmocniny z počtu členů.
