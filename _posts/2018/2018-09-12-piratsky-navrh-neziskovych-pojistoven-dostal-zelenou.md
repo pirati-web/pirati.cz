@@ -29,3 +29,7 @@ Další podrobnosti k návrhu reformy zdravotních pojišťoven dle Pirátů lze
 Tento návrh byl také nedávno představen na půdě Sněmovny:
 
 * [https://www.pirati.cz/tiskove-zpravy/zdravotnictvi-bez-der-podle-piratu.html](https://www.pirati.cz/tiskove-zpravy/zdravotnictvi-bez-der-podle-piratu.html)
+
+Usnesení pléna Ústavního soudu:
+
+* [https://www.usoud.cz/aktualne/stavajici-zpusob-voleb-do-organu-zamestnaneckych-pojistoven-zaklada-nerovnost-mezi-jeji/](https://www.usoud.cz/aktualne/stavajici-zpusob-voleb-do-organu-zamestnaneckych-pojistoven-zaklada-nerovnost-mezi-jeji/)
