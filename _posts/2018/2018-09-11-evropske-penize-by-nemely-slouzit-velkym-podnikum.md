@@ -3,7 +3,7 @@ date:         2018-09-11
 category:     blog
 tags:         sněmovna dotace
 layout:       post
-title:        "Piráti: Evropské peníze by neměly sloužit k protěžování velkých zemědělských podniků. Chceme otevřít debatu o zastropování dotací"
+title:        "Piráti: Evropské peníze by neměly sloužit k protežování velkých zemědělských podniků. Chceme otevřít debatu o zastropování dotací"
 image:        /assets/img/articles/2018/tk2018.jpg
 author:       Jakub Michálek, Mikuláš Ferjenčík, František Kopřiva, Lukáš Kolíářík, Vojtěch Pikal, Mikuláš Peksa
 ---
