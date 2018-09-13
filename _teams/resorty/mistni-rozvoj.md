@@ -23,7 +23,7 @@ Co děláme?
 
 * Prosazujeme volební program v oblasti veřejné správy, [místního rozvoje](https://www.pirati.cz/program/psp2017/mistni-rozvoj/) a její [digitalizace](https://www.pirati.cz/program/psp2017/informatika/),
 * projednáváme sněmovní tisky, které jsou přiřazeny [výboru veřejné správy a regionálního rozvoje Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4400),
-* zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
+* pokrýváme oblasti státní správy, územní samosprávy, státního občanství a evidence obyvatel, transparentnosti veřejné správy, kontroly finančního hospodaření, boje proti korupci, územního rozvoje a urbanismu, regionální politiky, bydlení, rozvoje venkova, cestovního ruchu a turistiky, pohřebnictví, způsobu odměňování ve veřejné správě,
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci ministerstva vnitra v obasti veřejné správy a ministerstva pro místní rozvoj,
 * rozpracováváme dlouhodobý program pro [e-government](https://www.pirati.cz/program/dlouhodoby/e-government/), [Internet](https://www.pirati.cz/program/dlouhodoby/internet/), [služební zákon](https://www.pirati.cz/program/dlouhodoby/sluzebni-zakon/) a dostupné bydlení: [1](https://www.pirati.cz/tiskove-zpravy/bartos-richterova-simral-jednali-mmr.html) [2](https://www.pirati.cz/tiskove-zpravy/pirati-pripravuji-legislativu-k-socialnimu-bydleni.html) [3](https://www.pirati.cz/tiskove-zpravy/vyloucenych-lokalit-pribyva.html) [4](https://www.pirati.cz/tiskove-zpravy/pirati-radi-ministryni-jak-zvladnout-airbnb-a-drahe-bydleni.html)
