@@ -1,7 +1,7 @@
 ---
 date:         2018-09-14
 category:     blog
-tags:         sněmovna volby
+tags:         komentář
 layout:       post
 title:        "Piráti prosadili průlomový návrh na zjednodušení krajských a místních referend. Šance na závaznost referend se dramaticky zvyšuje"
 image:        /assets/img/articles/2018/pikal-vojtech.jpg
