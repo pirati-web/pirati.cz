@@ -21,3 +21,7 @@ Po násilné anexi Krymu a vojenské agresi na východě Ukrajiny v roce 2014 se
 Desítky osobností, politiků, novinářů a aktivistů z celé Evropy se proto rozhodly sepsat otevřenou výzvu členům PACE, která je před možnými důsledky schválení ruského návrhu varuje. „Historie tvrdě odsoudí ty, kteří se poddali vydírání od nedemokratických států, kde vláda silnějšího je nadřazena vládě práva,” píše se přímo v dopise. 
 
 Svůj podpis může přidat kdokoliv. „Vyjádření podpory zabere pár okamžiků. Následky může Evropa trpět desítky let,” uzavírá Kopřiva.
+
+### Odkazy 
+
+* [Úplný text výzvy](https://docs.google.com/forms/d/e/1FAIpQLSfQjGOYqKJIg3RhJe2o06ZClrm68mRWyzUuFd6N6NU8WAtBtA/viewform)
