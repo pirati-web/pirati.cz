@@ -5,7 +5,7 @@ tags:         sněmovna dotace
 layout:       post
 title:        "Piráti: Evropské peníze by neměly sloužit k protežování velkých zemědělských podniků. Chceme otevřít debatu o zastropování dotací"
 image:        /assets/img/articles/2018/tk2018.jpg
-author:       Jakub Michálek, Mikuláš Ferjenčík, František Kopřiva, Lukáš Kolíářík, Vojtěch Pikal, Mikuláš Peksa
+author:       Jakub Michálek, Mikuláš Ferjenčík, František Kopřiva, Lukáš Kolářík, Vojtěch Pikal, Mikuláš Peksa
 ---
 
 Praha, 11. září 2018 – Boj proti nepoctivým směnárnám, elektronický oběh dokumentů, zákon o registru smluv, eNeschopenka, změna občanského zákoníku, úpravy volebního zákona a víceletý finanční rámec EU. Taková byla témata tiskové konference Pirátů před 19. schůzí Sněmovny. K těm se vyjádřili předseda klubu Pirátů Jakub Michálek a pirátští poslanci Mikuláš Ferjenčík, František Kopřiva, Lukáš Kolářík, Vojtěch Pikal a Mikuláš Peksa.
