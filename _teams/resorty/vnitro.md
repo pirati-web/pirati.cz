@@ -1,7 +1,7 @@
 ---
 uid: upt # vyplňte jednoznačný identifikátor
-name: Vnitro a otevřený stát
-fullname: Tým pro oblast vnitra a otevřeného státu
+name: Vnitro a bezpečnost
+fullname: Tým pro oblast vnitra a bezpečnosti
 img: teams/resorty/vnitro.jpg # obrázek nemusíte dodávat
 leader: lukas.kolarik
 deputy:
@@ -13,23 +13,23 @@ contact-local:
   img: 
 tags:
 - vnitro
-- otevřený stát
+- bezpečnost
 category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 ---
 
-Vítejte na stránce pirátského **týmu pro oblast vnitra a otevřeného státu**.
+Vítejte na stránce pirátského **týmu pro oblast vnitra a bezpečnosti**.
 
 Co děláme?
 ----------
 
 * prosazujeme volební program v oblasti [vnitra a otevřeného státu](https://www.pirati.cz/program/psp2017/vnitro/), kde jako těžiště vnímáme svobodný přístup k informacím a transparentní přístup ze strany státních institucí, který omezí korupci
-* připravujeme na základě ověřených zdrojů stanoviska týmu k nejaktuálnějšímu dění (např. k personálním změnám na mnisterstvech)
+* připravujeme na základě ověřených zdrojů stanoviska týmu k nejaktuálnějšímu dění (např. k personálním změnám na ministerstvech)
 * aktivně spolupracujeme s odborníky, neziskovým sektorem i státními úřady
 * připomínkujeme rozhodnutí české vlády v bezpečnostní politice
-* projednáváme sněmovní tisky a materiály, které spadají do působnosti [Výboru pro bezpečnost Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4900), [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923), [Stálé komise pro kontrolu Vojenského zpravodajství](http://www.psp.cz/sqw/hp.sqw?k=7900) a [Stálé komise pro kontrolu Úřadu pro zahraniční styky a informace](http://www.psp.cz/sqw/hp.sqw?k=8100)
+* projednáváme sněmovní tisky a materiály, které spadají do působnosti [Výboru pro bezpečnost Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4900), [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923), [Stálé komise pro kontrolu Vojenského zpravodajství](http://www.psp.cz/sqw/hp.sqw?k=7900) a [Stálé komise pro kontrolu Úřadu pro zahraniční styky a informace](http://www.psp.cz/sqw/hp.sqw?k=8100) a další
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub
 * rozpracováváme dlouhodobý program [Pirátské strategie pro snížení korupce v ČR](https://wiki.pirati.cz/navrhy/program/protikorupcni-strategie)
 * každý náš kandidát má povinnost podepsat právně vynutitelné [protikorupční prohlášení](https://www.pirati.cz/program/psp2017/kodex-poslance/)
@@ -63,19 +63,17 @@ Sledujeme falešné správy (fake news), novinářské kachny (hoaxy), překruco
 
 **Máte úplně jiný nápad?**
 
-Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na tel. 737027376 nebo na daniel.galuszka@pirati.cz.
+Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na tel. 737027376 nebo na daniel.galuszka@pirati.cz. Můžete také vyplnit tento dotazník: https://goo.gl/forms/TNCUQ2Qmbf43AqwY2 
 
 Fungování týmu
 ----------------------
 
-Tým pro vnitro a otevřený stát se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je poslanec Lukáš Kolářík.
+Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je poslanec Lukáš Kolářík.
 
 Členové týmu jsou:
 
 * **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, poslanec zodpovědný za oblast vnitra, místopředseda [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), člen [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923) a [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **[Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/)**, předseda poslaneckého klubu, zodpovědný za registr smluv a služební zákon, místopředseda [Ústavně právního výboru](http://www.psp.cz/sqw/hp.sqw?k=4000)
 * **[Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)**, poslanec, člen [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předseda [Stálé komise pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací](http://www.psp.cz/sqw/hp.sqw?k=7600), člen [Podvýboru pro vězeňství](http://www.psp.cz/sqw/hp.sqw?k=4924), člen [Podvýboru pro ochranu práv osob omezených na svobodě](http://www.psp.cz/sqw/hp.sqw?k=3922), člen [Stálé komise pro kontrolu činnosti GIBS](http://www.psp.cz/sqw/hp.sqw?k=7500)
-* **[Jan Lipavský](https://www.pirati.cz/lide/jan-lipavsky/)**, poslanec, člen [Stálé komise pro kontrolu Vojenského zpravodajství](http://www.psp.cz/sqw/hp.sqw?k=7900) a [Stálé komise pro kontrolu Úřadu pro zahraniční styky a informace](http://www.psp.cz/sqw/hp.sqw?k=8100)
 * **Daniel Galuszka**, asistent poslance Lukáše Koláříka a kontaktní osoba pro záležitosti týmu
 * **Petr Fojtík**, politický analytik poslaneckého klubu Pirátů
 * **Janusz Konieczny**, protikorupční analytik poslaneckého klubu Pirátů
