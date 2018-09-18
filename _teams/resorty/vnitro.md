@@ -63,7 +63,7 @@ Sledujeme falešné správy (fake news), novinářské kachny (hoaxy), překruco
 
 **Máte úplně jiný nápad?**
 
-Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na tel. 737027376 nebo na daniel.galuszka@pirati.cz. Můžete také vyplnit tento dotazník: https://goo.gl/forms/TNCUQ2Qmbf43AqwY2 
+Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na tel. 737027376 nebo na daniel.galuszka@pirati.cz. Můžete také vyplnit tento [dotazník](https://goo.gl/forms/TNCUQ2Qmbf43AqwY2).
 
 Fungování týmu
 ----------------------
