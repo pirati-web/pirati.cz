@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna rozpočet
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka, místopředsedy Rozpočtového výboru, k návrhu rozpočtu: Schodek 40 miliard nepodpoříme, jsme ochotni jednat v případě razantních a smysluplných úspor"
-image:        /assets/img/articles/2018/ferjencik.jpg
+image:        /assets/img/articles/2018/ferjencik-snemovna.jpg
 author:       Mikuláš Ferjenčík
 ---
 
