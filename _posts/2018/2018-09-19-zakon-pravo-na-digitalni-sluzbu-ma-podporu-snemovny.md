@@ -23,3 +23,5 @@ shrnul Ondřej Profant, předseda podvýboru pro eGovernment.
 Do současného návrhu Piráti prosadili dva důležité paragrafy. Paragraf 12, který navíc řeší otevřená data a 13, který adresuje technologickou neutralitu. To pro občana znamená, že si nebude muset pro využívání služeb pořizovat další software, jako tomu bylo například dříve u datových schránek. Tedy aby nikdo nebyl nucen pořizovat speciální software pro komunikaci se státem. 
 
 Podle vládního zmocněnce Dzurilly je připravovaná legislativa v souladu s koncepcí Digitálního Česka, kterou schvaluje vláda.
+
+- [Hlavní teze zákona o digitální službě](https://www.lupa.cz/clanky/dokument-co-ma-prinest-zakon-o-pravu-na-digitalni-sluzbu/)
