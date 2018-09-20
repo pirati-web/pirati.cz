@@ -18,10 +18,17 @@ Návrh zákona pochází z pera zkušeného právníka Františka Korbela, kter�
 
 > „Zákon zcela mění dosavadní komunikaci občanů se státem. Doposud se stává, že úřady odmítají komunikovat elektronicky. Nově každý úkon půjde vyřídit z počítače z domova či z chytrého telefonu. Zákon definuje, že se digitální způsob komunikace musí lidem umožnit a oni si mohou tuto cestu zvolit. Možnost digitálně komunikovat s úřady značně sníží finanční náklady státu i jednotlivce a lidé ušetří čas, který dnes prosedí na úřadech,” 
 
+
 shrnul Ondřej Profant, předseda podvýboru pro eGovernment. 
 
 Do současného návrhu Piráti prosadili dva důležité paragrafy. Paragraf 12, který navíc řeší otevřená data a 13, který adresuje technologickou neutralitu. To pro občana znamená, že si nebude muset pro využívání služeb pořizovat další software, jako tomu bylo například dříve u datových schránek. Tedy aby nikdo nebyl nucen pořizovat speciální software pro komunikaci se státem. 
 
 Podle vládního zmocněnce Dzurilly je připravovaná legislativa v souladu s koncepcí Digitálního Česka, kterou schvaluje vláda.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v4Gwx4apIdo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Odkazy
+
 - [Hlavní teze zákona o digitální službě](https://www.lupa.cz/clanky/dokument-co-ma-prinest-zakon-o-pravu-na-digitalni-sluzbu/)
+
+
