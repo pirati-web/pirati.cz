@@ -59,6 +59,6 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 
 - **Tibor Vansa** – odborný garant programu Finance
 
-- **Miluš Kotišová** – asistentka poslance Jana Pošváře
+- **Martin Huňady** – asistent poslance Jana Pošváře
 - **Lukáš Forýtek** – asistent poslance Tomáše Martínka
 - **Jiří Valenta** – asistent resortního týmu a poslance Mikuláše Ferjenčíka
