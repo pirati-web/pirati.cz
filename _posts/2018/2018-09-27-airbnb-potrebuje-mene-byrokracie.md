@@ -20,4 +20,4 @@ Obcím by pirátský návrh zlepšil vybírání místních poplatků.
 
 ### Odkazy
 
-* [Návrh Pirátů v oblasti sdíleného ubytování](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/airbnb.pdf)
+* [Návrh Pirátů v oblasti sdíleného ubytování](https://www.pirati.cz/assets/pdf/airbnb.pdf)
