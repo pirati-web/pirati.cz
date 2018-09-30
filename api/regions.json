@@ -6,6 +6,7 @@ ownweb:
   zlinsko: https://zlinsky.pirati.cz/
   moravskoslezsko: https://moravskoslezsky.pirati.cz
   plzensko: https://plzen.pirati.cz/
+  vysocina: https://vysocina.pirati.cz/
 ---
 {% comment %}
 Praha musí být první, kvůli vykreslování
