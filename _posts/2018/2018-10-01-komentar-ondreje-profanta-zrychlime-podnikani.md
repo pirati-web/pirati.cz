@@ -3,7 +3,7 @@ date:         2018-10-01
 category:     blog
 tags:         sněmovna podnikání
 layout:       post
-title:        "Komentář poslance Ondřeje Profanta, místopředsedy Podvýboru pro e-Government: Piráti urychlí podnikání – k založení firmy může pomoci otevřený software"
+title:        "Poslanec Ondřej Profant: Piráti urychlí podnikání – k založení firmy může pomoci otevřený software"
 image:        /assets/img/articles/2018/ondrej-profant.jpg
 author:       Ondřej Profant
 ---
