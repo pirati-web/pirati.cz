@@ -16,4 +16,4 @@ Doporučení ČNB nově zavádí, že žadatel o hypotéku má mít naspořeno 2
 
 Návrh také mění možnost osvobození novostaveb určených k bydlení pro právnické osoby, které mohlo být zneužíváno k obcházení placení daně například zahraničními spekulativními investory. Všechna tato opatření by měla z makroekonomického hlediska zlepšit dostupnost vlastního trvalého bydlení fyzickým osobám.
 
-[Pirátský návrh novely zákona o dani z nabytí z nemovitých věcí, včetně důvodové zprávy](https://pirati.cz/assets/pdf/DNNV bodová novela.pdf)
+* [Pirátský návrh novely zákona o dani z nabytí z nemovitých věcí, včetně důvodové zprávy](https://pirati.cz/assets/pdf/DNNV bodová novela.pdf)
