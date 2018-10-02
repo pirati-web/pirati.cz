@@ -3,7 +3,7 @@ date:         2018-10-01
 category:     blog
 tags:         sněmovna podnikání
 layout:       post
-title:        "Poslanec Ondřej Profant: Piráti urychlí podnikání – k založení firmy může pomoci otevřený software"
+title:        "Piráti představili politikům bezplatnou aplikaci, díky které si založíte firmu za jeden den"
 image:        /assets/img/articles/2018/ondrej-profant.jpg
 author:       Ondřej Profant
 ---
