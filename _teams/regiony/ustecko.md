@@ -29,6 +29,7 @@ V obvodu Ústí nad Labem – město máme zastupitele Vladimíra Charváta.
 
 ---
 **Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).**
+
 ---
 
 Možnosti zapojení:
