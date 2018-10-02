@@ -8,7 +8,8 @@ leader: František Navrkal
 deputy:
 - Mikuláš Peksa
 - Michaela Schwarzová
-- Vladimír Charvát
+- Vojtěch Karban
+- Michal Ketner
 contact:
 - adam.komenda
 region: Ústecký kraj
@@ -25,6 +26,8 @@ twitter: https://twitter.com/PiratiUstecko
 ---
 
 V obvodu Ústí nad Labem – město máme zastupitele Vladimíra Charváta.
+
+Více informací naleznete na [krajském webu](https://ustecky.pirati.cz)
 
 Možnosti zapojení:
 
