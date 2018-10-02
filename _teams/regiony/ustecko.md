@@ -17,7 +17,7 @@ url: https://ustecky.pirati.cz
 categories:
 - regiony
 tags:
-- ústecký-kraj
+- ústecký-kraj 
 facebook: https://www.facebook.com/pirati.ulk
 redmine: https://forum.pirati.cz/zajemci-o-clenstvi-ustecky-kraj-f448/
 forum: https://forum.pirati.cz/ustecky-kraj-f88/
@@ -27,13 +27,13 @@ twitter: https://twitter.com/PiratiUstecko
 
 V obvodu Ústí nad Labem – město máme zastupitele Vladimíra Charváta.
 
-
-*Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).*
-
+---
+**Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).**
+---
 
 Možnosti zapojení:
 
 * Kontaktujte koordinátora pro ústecký kraj Adama Komendu (adam.komenda(аt)рirati.cz). V nepravidelných intervalech se v Ústí nad Labem a dalších městech kraje konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/pirati.ulk/events/).
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
+Podívejte se na konkrétní termíny akcí v [kalendáři](https://calendar.google.com/calendar/embed?src=uskpirati%40gmail.com&ctz=Europe%2FPrague),
 abyste se ujistili, že akce bude.
