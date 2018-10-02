@@ -14,12 +14,8 @@ mail:
 - lukas.kolarik@pirati.cz
 mob:			  
 asistenti:
-  - name: Drahoslava Křenková
-    mail: drahoslava.krenkova@pirati.cz
-    tel:  727 853 151
   - name: Daniel Galuszka
-  - name: Mgr. Zuzana Klusová
-  - name: Mgr. Zuzana Koláříková
+  - name: Zuzana Kudláčková
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/kolarikl
