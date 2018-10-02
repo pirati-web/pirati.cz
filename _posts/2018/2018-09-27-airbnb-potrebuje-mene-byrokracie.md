@@ -18,6 +18,9 @@ Obcím by pirátský návrh zlepšil vybírání místních poplatků.
 
 > „Obec by získala právo požádat digitální platformu o výběr poplatků za pobyt. Díky této přenesené poplatkové povinnosti by se jejich výběr razantně zvýšil. Pirátským návrhem se navíc odstropuje výše poplatku za pobyt, který dnes omezuje obce zejména v historických centrech – ten by se ve vysoce lukrativních objektech zvýšil ze současných 15 Kč za osobu a noc až na 50 Kč při platbě do 1.000 Kč či na 5 % ceny ubytování u plateb vyšších. To pomůže centru Prahy aspoň trochu finančně regulovat Airbnb,” dodal Michálek.
 
+![Ilustrační obrázek k návrhu](/assets/img/articles/2018/airbnb.png)
+
 ### Odkazy
 
+* [SD 1382 Pozměňovací návrhy Jakuba Michálka k Airbnb](http://www.psp.cz/sqw/text/orig2.sqw?idd=138719) 
 * [Návrh Pirátů v oblasti sdíleného ubytování](https://www.pirati.cz/assets/pdf/airbnb.pdf)
