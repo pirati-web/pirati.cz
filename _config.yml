@@ -96,8 +96,8 @@ tw: PiratskaStrana
 title-page:
   big:
     foto: /assets/img/miscellaneous/featured-hrib.gif
-    alt: Zachraň Internet! 
-    url: https://zachraninternet.cz/
+    alt: Vzhuru na radnice!
+    url: https://www.pirati.cz
   left-top:
     text: Regiony
     url: regiony
@@ -107,9 +107,9 @@ title-page:
     url: lide
     icon: fa fa-users
   left-bottom:
-    text: Darujte
-    url: https://dary.pirati.cz
-    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
+    text: Senát
+    url: https://senat.pirati.cz
+    icon: fa fa-users u-rotate-5 fa-5x u-rotate-345
   right-bottom:
     text: Program<br> Černé na bílém
     url: program
