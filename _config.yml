@@ -109,7 +109,7 @@ title-page:
   left-bottom:
     text: Senát
     url: https://senat.pirati.cz
-    icon: fa fa-users u-rotate-5 fa-5x u-rotate-345
+    icon: fa fa-user
   right-bottom:
     text: Program<br> Černé na bílém
     url: program
