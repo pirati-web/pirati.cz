@@ -4,7 +4,7 @@ category:     blog
 tags:         komentář
 layout:       post
 title:        "Premiér dnes podpořil vykradený návrh Pirátů proti kumulaci odměn politiků"
-image:        /assets/img/articles/2018/michalek-3.jpg
+image:        /assets/img/articles/2018/michalek-2.jpg
 author:       Jakub Michálek
 ---
 
