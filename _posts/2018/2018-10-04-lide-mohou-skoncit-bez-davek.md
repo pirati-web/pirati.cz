@@ -4,7 +4,7 @@ category:     blog
 tags:         komentář
 layout:       post
 title:        "Česku hrozí výpadek sociálních dávek. Statisíce lidí mohou skončit bez peněz"
-image:        /assets/img/articles/2018/kolarik.jpg
+image:        /assets/img/articles/2018/lukas-kolarik2.jpg
 author:       Lukáš Kolařík
 ---
 
