@@ -19,6 +19,7 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 **[Pirátští kandidáti do Senátu](https://senat.pirati.cz)**
 
 **Kandidátky v krajích**
+
 [Jihočeský kraj](https://jihocesky.pirati.cz/volby/)
 * [České budějovice](https://cb.pirati.cz/)
 * [Tábor](https://tabor.pirati.cz/volby/)   
@@ -33,9 +34,13 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 * [Jindřichův Hradec](https://www.facebook.com/otevrenyhradec/     https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=11&xdz=2&xnumnuts=3103&xobec=545881&xstrana=720)
 * [Katovice](https://katovice.pirati.cz/)
 * [Kváskovice](https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=3106&xobec=536750&xstrana=720)
+
 [Jihomoravský kraj](https://jihomoravsky.pirati.cz/volby2018/)
+
 [Karlovarský kraj](http://piratikvk.cz/komunalni-volby-2018/)
+
 [Kraj Vysočina](https://vysocina.pirati.cz/komunalni-volby/)
+
 [Královéhradecký kraj](https://piratihk.cz/)
 * [Hradec Králové](https://piratihk.cz/kandidati/)
 * [Trutnov](https://www.piratitrutnov.cz/)
@@ -44,15 +49,20 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 * [Náchod](https://www.facebook.com/NezavisliPiratiZeleniNachod/)
 * [Dvůr Králové nad Labem](https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=5205&xobec=579203&xstrana=720)
 * [Byzhradec](https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=11&xdz=1&xnumnuts=5204&xobec=576174&xstrana=720)
+
 [Liberecký kraj](https://liberecky.pirati.cz/)
 * [Jablonec nad Nisou](https://jablonec.pirati.cz)
 * [Česká Lípa](http://piraticl.cz)
 * [Turnov](https://turnov.pirati.cz)
 * [Železný Brod](https://zeleznybrod.pirati.cz)
 * [Semily](https://semily.pirati.cz)
+
 [Moravskoslezský kraj](https://moravskoslezsky.pirati.cz/)
+
 [Olomoucký kraj](https://olomoucky.pirati.cz/volby/komunalni/2018/)
+
 [Pardubický kraj](https://pardubicky.pirati.cz/)
+
 [Plzeňský kraj](https://plzen.pirati.cz/)
 * [Plzeň](https://plzen.pirati.cz/komunalni-volby/)
 * [Klatovy](http://piratiklatovy.cz/)
@@ -63,8 +73,12 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 * [Kladruby](https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=3207&xobec=560928&xstrana=720)
 * [Chodová Planá](https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=6&xnumnuts=3207&xobec=560901&xstrana=720)
 * [Holýšov](https://www.volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=2&xnumnuts=3201&xobec=553654&xstrana=541)
+
 [Praha](https://praha.pirati.cz/mestske-casti/)
+
 [Středočeský kraj](https://stredocesky.pirati.cz/volby/2018/komunalni/)
+
 [Ústecký kraj](https://ustecky.pirati.cz/komunalni-volby/)
+
 [Zlínský kraj](https://zlinsky.pirati.cz/volby-2018/komunalni/)
 
