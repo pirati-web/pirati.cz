@@ -12,7 +12,7 @@ Piráti kandidují ve všech 14 krajích České republiky. Na 165 kandidátníc
 
 Kromě komunálních voleb kandiduje i 13 osobností v senátních obvodech po celé ČR. 
 
-Níže si můžete prohlédnout Pirátské kandidátky jak pro komunální volby, tak pro volby do Senátu.
+Níže si můžete prohlédnout stránky krajských a místních sdružení Pirátské strany, kde naleznete kandidátky pro komunální volby a také přehled kandidátů do Senátu.
 
 Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! Už 5. a 6. října.
 
