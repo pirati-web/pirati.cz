@@ -18,7 +18,9 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 
 **[Pirátští kandidáti do Senátu](https://senat.pirati.cz)**
 
-**Kandidátky v krajích**
+
+
+**Kandidátky v krajích:**
 
 **[Jihočeský kraj](https://jihocesky.pirati.cz/volby/)**
 * [České budějovice](https://cb.pirati.cz/)
