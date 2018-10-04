@@ -33,7 +33,7 @@ Nepropásnětě příležitost změnit Vaše město k lepšímu. Volte Piráty! 
 * [Prachatice - 2. místo na kandidátce](https://www.facebook.com/ziveprachatice/)
 * [Třeboň - 6. místo na koaliční kandidátce](https://www.facebook.com/zelenitrebon/)
 * [Písek](https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=11&xdz=2&xnumnuts=3104&xobec=549240&xstrana=720)
-* [Jindřichův Hradec](https://www.facebook.com/otevrenyhradec/     https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=11&xdz=2&xnumnuts=3103&xobec=545881&xstrana=720)
+* [Jindřichův Hradec](https://www.facebook.com/otevrenyhradec/)
 * [Katovice](https://katovice.pirati.cz/)
 * [Kváskovice](https://volby.cz/pls/kv2018/kv21111?xjazyk=CZ&xid=1&xv=12&xdz=1&xnumnuts=3106&xobec=536750&xstrana=720)
 
