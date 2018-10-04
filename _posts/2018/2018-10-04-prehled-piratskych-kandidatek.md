@@ -3,7 +3,7 @@ date:         2018-10-04
 category:     blog
 tags:         volby
 layout:       post
-title:        "Velký přehled pirátských kandidátek pro nadcházející volby"
+title:        "Podívejte se na velký přehled pirátských kandidátek!"
 image:        /assets/img/articles/2018/pirati-kandidati.jpg
 author:       Mediální odbor
 ---
