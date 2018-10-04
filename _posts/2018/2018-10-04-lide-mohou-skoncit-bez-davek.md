@@ -1,5 +1,5 @@
 ---
-date:         2018-10-03
+date:         2018-10-04
 category:     blog
 tags:         komentář
 layout:       post
