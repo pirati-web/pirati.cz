@@ -20,7 +20,7 @@ office:
 profiles:
   github:
   facebook:    https://www.facebook.com/ivan.bartos.37
-  twitter:		 https://twitter.com/IvanCzechPir8
+  twitter:		 https://twitter.com/pirativanbartos
   flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
   report:      https://forum.pirati.cz/poslanci-f884/report-poslance-ivana-bartose-t38992.html
 asistenti:
