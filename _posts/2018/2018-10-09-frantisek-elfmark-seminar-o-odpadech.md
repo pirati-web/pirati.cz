@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Pirát František Elfmark uspořádal seminář k odpadům s účastí ministerstva i odborníků"
-image:        /assets/img/articles/2018/frantisek-elfmark.jpg
+image:        /assets/img/articles/2018/seminar-odpady.jpg
 author:       Mediální odbor
 ---
  
