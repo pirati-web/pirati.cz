@@ -27,3 +27,8 @@ Tyto případy ilustrují, že veřejná kontrola hospodaření ČEZu je zcela k
 > „Pokud by NKÚ mohl kontrolovat ČEZ a smlouvy ČEZu by byly veřejné v registru smluv, tak by k takovéto situaci nemuselo dojít. Případ rovněž dokládá, že státem ovládané společnosti nutně potřebují v dozorčích radách kompetentní osoby, což požaduje předložený nominační zákon. Piráti rovněž budou požadovat po premiérovi na Výboru pro bezpečnost podrobné odpovědi na klíčové otázky – Pirátům například bylo bulharskou vyšetřovací komisí sděleno, že o tomto problematickém prodeji věděly bulharské tajné služby již od roku 2010. Piráti se proto budou dotazovat, zdali rovněž české tajné služby disponovaly těmito informacemi. Předně ovšem budeme požadovat prošetření celé kauzy premiérem, potažmo ministerstvem financí, do dvou měsíců,“ 
 
 dodává předseda poslaneckého klubu Pirátů Jakub Michálek.
+
+* [Dokument bulharské Státní finanční inspekce](https://www.pirati.cz/assets/pdf/bulharsko-dokument-inspekce.pdf)
+* [Dokument bulharské Národní banky k prodeji ČEZu](https://www.pirati.cz/assets/pdf/bulharsko-dopis-narodni-banky.pdf)
+* [Elektrárna Varna – převod obchodního podílu](https://www.pirati.cz/assets/pdf/bulharsko-elektrarna-varna.pdf)
+* [Závěrečná zpráva vyšetřovací komise](https://www.pirati.cz/assets/pdf/bulharsko-zaverecna-zprava.pdf)
