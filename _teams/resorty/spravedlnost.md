@@ -27,15 +27,15 @@ Co děláme?
 * projednáváme sněmovní tisky, které jsou přikázány [ústavněprávnímu výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4000),
 * zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
-* kontrolujeme práci Ministerstva spravedlnosti,
+* kontrolujeme práci a hospodaření Ministerstva spravedlnosti,
 * rozpracováváme dlouhodobý program pro [právní stát](/program/dlouhodoby/pravni-stat/), [přímou demokracii](/program/dlouhodoby/prima-demokracie/) a [dělbu moci](/program/dlouhodoby/delba-moci/).
 
 Jak se můžete zapojit?
 -----------------------------
 
-**Nabízíme šanci právníkům sáhnout si nové zákony a něco se přitom naučit.**
+**Nabízíme šanci právníkům sáhnout si na nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na <lukas.lev.cervinka@pirati.cz>. Rádi vás pozveme na naše setkání. Kontaktní osbou pro oblast lidských práv je poslanec [František Kopřiva](https://www.pirati.cz/lide/frantisek-kopriva/) (<frantisek.kopriva@pirati.cz>).
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
 
 Fungování týmu
 ---------------
@@ -47,7 +47,7 @@ Fungování týmu
 * **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
 * **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
-* **Lukáš Lev Červinka**, asistent poslance Jakuba Michálka, věnuje se ústavnímu právu a parlamentnímu procesu,
+* **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
 
