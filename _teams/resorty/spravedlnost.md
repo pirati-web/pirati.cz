@@ -37,16 +37,22 @@ Jak se můžete zapojit?
 
 Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
 
-Fungování týmu
+Schůzky týmu
 ---------------
 
-Všechny schůzky ústavně právního týmu jsou v kalendáři [zde](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Ústavně právní tým se schází 
+Všechny schůzky ústavně právního týmu jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Ústavně právní tým se schází 
 
-* jednou za šest týdnů vždy v pondělí týden před zahájením schůze,
+* jednou za šest týdnů vždy v pondělí ve 14:00 (týden před zahájením schůze),
 * mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
 
 Ústavně právní tým se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
 Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+
+Online komunikace
+-----------------
+
+Členové týmu jsou v každodenním kontaktu ve skupině [Ústavně právní tým](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+
 
 Členové týmu
 -----------
