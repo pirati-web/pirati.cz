@@ -9,7 +9,7 @@ author:       Jakub Michálek
 ---
 
 
-Praha, 10. listopadu 2018 – Ústavně právní výbor dnes z iniciativy Pirátů schválil žádost vládě, aby řešila problémy, které způsobují obsoletní právní předpisy. Jde o zákony, které náš právní řád převzal z rakouského mocnářství a smetí, které se nahromadilo v zákonech v dobách první republiky a socialismu. Ministerstvo vnitra odhaduje celkový počet celostátních právních předpisů na 38 000, z toho cca 9 000 platných. To znamená, že právní řád obsahuje asi 29 000 mrtvých právních předpisů. 
+Praha, 10. října 2018 – Ústavně právní výbor dnes z iniciativy Pirátů schválil žádost vládě, aby řešila problémy, které způsobují obsoletní právní předpisy. Jde o zákony, které náš právní řád převzal z rakouského mocnářství a smetí, které se nahromadilo v zákonech v dobách první republiky a socialismu. Ministerstvo vnitra odhaduje celkový počet celostátních právních předpisů na 38 000, z toho cca 9 000 platných. To znamená, že právní řád obsahuje asi 29 000 mrtvých právních předpisů. 
 
 Sněmovna se teď připravuje na elektronické přijímání zákonů v e-Legislativě a ministerstvo vnitra začíná mapovat, jak se zákony ve Sněmovně tvoří. Díky tomu se nám podařilo konečně vyzvat vládu, ať zahájí generální úklid právního řádu, protože i soudci upozorňují, že naše zákony jsou džungle, ve které se laik ani právník nemůže vyznat. Považuji to za lepší řešení než partyzánsky rušit staré zákony dalšími novými zákony poslaneckou iniciativou, jak to chtěla ODS, podle které mělo být zrušeno 150 zákonů z roku 1919.
 
