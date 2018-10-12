@@ -1,8 +1,8 @@
 ---
 date:         2018-10-12
 category:     blog
-tags:         sněmovna legislativa
-layout:       sněmovna okd kauzy
+tags:         sněmovna okd kauzy
+layout:       post
 title:        "Piráti chtějí 5 let navíc na dořešení privatizačních kauz, navrhli prodloužit dobu pro mimořádné vydržení"
 image:        /assets/img/articles/2018/cernohorsky2.jpg
 author:       Mediální odbor
