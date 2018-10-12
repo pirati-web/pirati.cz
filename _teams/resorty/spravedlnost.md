@@ -7,7 +7,7 @@ leader: jakub.michalek
 deputy:
 - david.satke
 contact:
-- lukas.cervinka
+- martin.stancl
 tags:
 - justice
 category: resort
@@ -35,14 +35,21 @@ Jak se můžete zapojit?
 
 **Nabízíme šanci právníkům sáhnout si na nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
 
 Fungování týmu
 ---------------
 
-Ústavně právní tým se schází podle potřeby, obvykle před schůzemi ústavněprávního výboru PSP ČR, a to většinou v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Lukáš Červinka a zápis se zveřejňuje [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+Všechny schůzky ústavně právního týmu jsou v kalendáři [zde](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Ústavně právní tým se schází 
 
-Členové týmu jsou:
+* jednou za šest týdnů vždy v pondělí týden před zahájením schůze,
+* mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
+
+Ústavně právní tým se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
+Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+
+Členové týmu
+-----------
 
 * **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
 * **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
