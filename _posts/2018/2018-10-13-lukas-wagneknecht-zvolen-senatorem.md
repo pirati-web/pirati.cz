@@ -4,7 +4,7 @@ category:     blog
 tags:         senát
 layout:       post
 title:        "Piráti vyslali do Senátu Lukáše Wagenknechta"
-image:        /assets/img/articles/2018/michalek-tylova-wagenknecht.jpg
+image:        /assets/img/articles/2018/wagenknecht.jpg
 author:       Karolína Sadílková
 ---
 
