@@ -1,7 +1,7 @@
 ---
 date:         2018-10-14
 category:     blog
-tags:         senát
+tags:         zahraničí
 layout:       post
 title:        "Lucembursko je třetím státem s Piráty v parlamentu, ve volbách získali 6,45 % procent hlasů"
 image:        /assets/img/articles/2018/sven-clement.jpg
