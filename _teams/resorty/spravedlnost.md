@@ -7,7 +7,7 @@ leader: jakub.michalek
 deputy:
 - david.satke
 contact:
-- lukas.cervinka
+- martin.stancl
 tags:
 - justice
 category: resort
@@ -27,27 +27,40 @@ Co děláme?
 * projednáváme sněmovní tisky, které jsou přikázány [ústavněprávnímu výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4000),
 * zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
-* kontrolujeme práci Ministerstva spravedlnosti,
+* kontrolujeme práci a hospodaření Ministerstva spravedlnosti,
 * rozpracováváme dlouhodobý program pro [právní stát](/program/dlouhodoby/pravni-stat/), [přímou demokracii](/program/dlouhodoby/prima-demokracie/) a [dělbu moci](/program/dlouhodoby/delba-moci/).
 
 Jak se můžete zapojit?
 -----------------------------
 
-**Nabízíme šanci právníkům sáhnout si nové zákony a něco se přitom naučit.**
+**Nabízíme šanci právníkům sáhnout si na nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, ozvěte se prosím Lukáši Červinkovi na tel. 739 639 021 nebo na <lukas.lev.cervinka@pirati.cz>. Rádi vás pozveme na naše setkání. Kontaktní osbou pro oblast lidských práv je poslanec [František Kopřiva](https://www.pirati.cz/lide/frantisek-kopriva/) (<frantisek.kopriva@pirati.cz>).
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Martinu Štanclovi na tel. 728 337 464 nebo na <martin.stancl@pirati.cz>. Rádi vás pozveme na naše setkání. 
 
-Fungování týmu
+Schůzky týmu
 ---------------
 
-Ústavně právní tým se schází podle potřeby, obvykle před schůzemi ústavněprávního výboru PSP ČR, a to většinou v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Lukáš Červinka a zápis se zveřejňuje [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+Všechny schůzky ústavně právního týmu jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Ústavně právní tým se schází 
 
-Členové týmu jsou:
+* jednou za šest týdnů vždy v pondělí ve 14:00 (týden před zahájením schůze),
+* mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
+
+Ústavně právní tým se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
+Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+
+Online komunikace
+-----------------
+
+Členové týmu jsou v každodenním kontaktu ve skupině [Ústavně právní tým](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+
+
+Členové týmu
+-----------
 
 * **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
 * **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
-* **Lukáš Lev Červinka**, asistent poslance Jakuba Michálka, věnuje se ústavnímu právu a parlamentnímu procesu,
+* **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
 
