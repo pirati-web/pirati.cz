@@ -11,10 +11,10 @@ description: poslankyně PS PČR, garantka programového bodu životní prostře
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
-mob:			  +420 604 360 199
+mob:			  420 731 785 563
 asistenti:
   - name: Zuzana Vachůňová
-  - name: Tomáš Guth Jarkovský
+  - name: Daniel Hendrych
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/dana.balcarova
