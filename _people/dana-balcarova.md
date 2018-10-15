@@ -13,7 +13,7 @@ mail:
 - dana.balcarova@pirati.cz
 mob:			  420 731 785 563
 asistenti:
-  - name: Zuzana Vachůňová
+  - name: Zuzana Vachůnová
   - name: Daniel Hendrych
 profiles:
   github:                 
