@@ -3,7 +3,7 @@ date:         2018-10-16
 category:     blog
 tags:         vláda
 layout:       post
-title:        ""Bude ministr Petříček zárukou stabilní zahraniční politiky?" ptá se poslanec Lipavského"
+title:        "Bude ministr Petříček zárukou stabilní zahraniční politiky? ptá se poslanec Lipavského"
 image:        /assets/img/articles/2018/lipavsky-jan.jpg
 author:       Jan Lipavský
 ---
