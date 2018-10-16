@@ -19,11 +19,9 @@ asistenti:
     tel:  739 264 791
   - name: Marek Förster
     mail: jablonec@tomas-martinek.eu
-  - name: Petr Jeník
-    mail: ceskalipa@tomas-martinek.eu
 office:
   - address: Děčínská 361, 470 01 Česká Lípa
-    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(setkání přímo s poslancem nutno domluvit předem na ceskalipa@tomas-martinek.eu)
+    opening: Setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
