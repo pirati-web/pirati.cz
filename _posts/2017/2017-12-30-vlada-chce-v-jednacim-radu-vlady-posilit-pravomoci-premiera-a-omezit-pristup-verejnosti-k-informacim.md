@@ -5,7 +5,7 @@ title: "Piráti: Vláda chce v jednacím řádu Vlády posílit pravomoci premi�
 date: 2017-12-30T11:00:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/zhasiname.jpg
-tags: vlada sněmovna
+tags: vláda sněmovna
 ---
 
 Ministr spravedlnosti Robert Pelikán předložil návrh novely jednacího řádu vlády Andreje Babiše.
