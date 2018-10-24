@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: bezpecnost
 name: Vnitro a bezpečnost
 fullname: Tým pro oblast vnitra a bezpečnosti
 img: teams/resorty/vnitro.jpg # obrázek nemusíte dodávat
