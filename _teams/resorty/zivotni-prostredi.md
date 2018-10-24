@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: zivotniprostredi
 name: Životní prostředí
 fullname: Tým pro životní prostředí
 img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
