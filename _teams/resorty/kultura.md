@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: kultura
 name: Kultura
 fullname: Tým pro kulturu
 img: teams/resorty/kultura.jpg # obrázek nemusíte dodávat
