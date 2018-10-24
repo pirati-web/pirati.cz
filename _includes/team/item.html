@@ -3,6 +3,7 @@
       <div class="c-content-card-img">
         <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}"> </div>
       <div class="c-content-card-content-box">
+        <span class="label" style="float:right">#{{ item.uid }}</span>  
         <h3 class="c-content-card-title">
           {% if item.customUrl %}
             {% assign url = item.customUrl %}
