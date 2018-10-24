@@ -14,7 +14,6 @@ contact-local:
   img: 
 category: resort
 redmine: 
-uid: psp-finance
 forum: 
 tags:
  
