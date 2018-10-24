@@ -14,6 +14,8 @@ mail:
 mob:
 asistenti:
   - name: Martin Huňady
+    tel: 732 251 216
+    mail: hunadym@psp.cz
   - name: Ondřej Beníček
     tel: 777 814 824
     mail: beniceko@psp.cz
