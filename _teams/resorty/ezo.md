@@ -1,4 +1,5 @@
 ---
+uid: ezo
 name: Evropská unie, zahraničí, obrana
 title: Evropská unie, zahraničí, obrana
 img: teams/resorty/ezo.jpg
