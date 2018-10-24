@@ -1,5 +1,5 @@
 ---
-upt: finance
+uid: finance
 name: Finance
 title: Finance
 img: teams/resorty/finance.jpg
