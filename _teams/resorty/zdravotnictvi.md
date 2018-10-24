@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: zdravotnictvi
 name: Zdravotnictví
 fullname: Tým pro zdravotnictví
 img: teams/resorty/zdravotnictvi.jpg # obrázek nemusíte dodávat
