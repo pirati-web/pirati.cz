@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: prumyslobchod
 name: Průmysl a obchod
 fullname: Tým pro průmysl a obchod
 img: teams/resorty/prumysl-obchod.jpg # obrázek nemusíte dodávat
