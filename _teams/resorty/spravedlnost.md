@@ -1,5 +1,5 @@
 ---
-uid: spravedlnost
+uid: justice
 name: Spravedlnost
 fullname: Ústavně právní tým
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
