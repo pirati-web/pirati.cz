@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: doprava
 name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
