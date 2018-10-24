@@ -43,7 +43,8 @@ Co děláme?
 
 Jak se můžete zapojit?
 ----------------------
-Pokud souhlasíte s Pirátským programem v oblasti financí vyplňte následující formulář a ozveme se Vám s našim newsletterem nebo v případě zájmu Vás pozveme na naše setkání
+Pokud souhlasíte s Pirátským programem v oblasti financí vyplňte následující formulář a ozveme se Vám s našim newsletterem nebo v případě zájmu Vás pozveme na naše setkání.
+V případě širšího zájmu o pirátskou stranu postupujte dále tímto [odkazem](https://nalodeni.pirati.cz/).
 
 
 
