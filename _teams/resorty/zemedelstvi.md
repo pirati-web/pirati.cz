@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: zemedelstvi
 name: Zemědělství
 fullname: Tým pro zemědělství
 img: teams/resorty/zemedelstvi.jpg # obrázek nemusíte dodávat
