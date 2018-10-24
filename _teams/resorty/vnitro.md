@@ -39,31 +39,43 @@ Jsme pevně na straně lidí a firem, u kterých chceme obnovit důvěru v práv
 Jak se můžete zapojit?
 ----------------------
 
-Práci jsme si v takhle velkém týmu raději rozdělili do několika oblastí.
+Sledujeme širokou agendu Ministerstva Vnitra, do které patří zejména témata:
 
-**Personální výměny ve státních orgánech**
+- zbraní a střeliva
 
-V této oblasti analyzujeme kroky vedoucí k odvolávání vysoko postavených úředníků na vládou spravovaných pracovištích. Vytváříme mapu kontaktů a vztahů mezi politiky a úředníky tak, abychom mohli na základě podezření vykonávat patřičné kroky upozorňující veřejnost na nekalé metody s pochybnými cíli. 
+- požární ochrany
 
-**Kontrola činnosti BIS, GIBS, ÚZSI, Policie a dalších orgánů**
+- povolování pobytů cizincům
 
-Pro Piráty je jedním z nejdůležitějších bodů obnova důvěry občanů k bezpečnostním složkám země. V této oblasti sbíráme podněty na pochybení či překračování pravomoci ve zmíněných institucích, chystáme interpelace na ministra vnitra a předvádíme si zodpovědné lidi k bezpečnostnímu výboru. Chceme zjednodušit žádost o informace, abychom skutečně věděli vše, co je zapotřebí k zodpovědné kontrole “hlídacích psů” bezpečnostní situace v České republice. 
+- hraničních přechodů a ochrany hranic
 
-**Registr smluv**
+- krizového řízení
 
-Chceme všechny státní instituce převést na transparentní organizace, abychom mohli kontrolovat jejich hospodaření s veřejnými prostředky. Dbáme na dodržení firemních tajemství a bezpečnostních rizik vyplývajících ze zveřejňování smluv. Hledáme správnou hranici mezi kontrolou státních orgánů a zachování jejích místa na trhu. 
+- ochrany obyvatelstva
 
-**Služební zákon**
+- služebních poměrů bezpečnostních sborů
 
-Věnujeme se ochraně státního aparátu před politickými otřesy a čistkami tak, aby mohly pokračovat dlouhodobé projekty (např. [eNeschopenka](https://www.pirati.cz/tiskove-zpravy/pirati-e-neschopenka-jde-k-ledu.html)). Chceme odpolitizovat státní správu a chránit whistleblowery, tedy oznamovatele korupce či jednání vedoucího k nevýhodným zakázkám státu se soukromými firmami. 
+- kybernetické bezpečnosti
 
-**Hybridní válka**
+- vězeňství
 
-Sledujeme falešné správy (fake news), novinářské kachny (hoaxy), překrucování rétoriky a vytrhávání obrazových materiálů z kontextu. Mapujeme autory těchto dezinformací a analyzujeme jejich záměry s ohledem na to, čí zájmy tato činnost podporuje. Společně s odborníky a dotčenými institucemi připravujeme metodiku i vzdělávací semináře na téma obraně proti dezinformacím.
+- změn pravidel silničního provozu ve městě 
+
+- a další.
+
+Pokud vás kterékoliv z těchto témat zajímá, můžete se aktivně zapojit do práce na předkládaných sněmovních tiscích pomocí [tohoto formuláře](https://docs.google.com/forms/d/e/1FAIpQLSdy0HBSV0QvbZ_azJtsh3AiFc1wRI6XI1Ea8vJ3zQOwAvul6Q/viewform). Existuje hned několik způsobů, jak nám můžete pomoct.
+
+1) pravidelný odběratel informací - budeme vám zasílat témata, kterými se náš resortní tým zabývá a také zápisy z těchto schůzí. 
+
+2) konzultant sněmovních tisků - nejste-li vyloženě odborník na daná témata, můžete nám i tak zaslat svůj názor na probíraná témata.
+
+3) odborný konzultant - chcete-li se schůzí resortního týmu osobně účastnit, zašlete své CV a motivační dopis na adresu daniel.galuszka@pirati.cz
+
+4) dobrovolný pomocník - pokud vás naše témata přímo nezajímají, ale přesto byste chtěli jakkoliv pomoci, uvítáme i zdatné rešeršisty a organizátory akcí. 
 
 **Máte úplně jiný nápad?**
 
-Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na tel. 737027376 nebo na daniel.galuszka@pirati.cz. Můžete také vyplnit tento [dotazník](https://goo.gl/forms/TNCUQ2Qmbf43AqwY2).
+Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě za tým, kterou je Daniel Galuszka, na e-mail daniel.galuszka@pirati.cz.
 
 Fungování týmu
 ----------------------
