@@ -3,7 +3,7 @@ date:         2018-10-24
 category:     blog
 tags:         sněmovna rozpočet
 layout:       post
-title:        "Piráti navrhují vládě přepracovat rozpočet a snížit výdaje o 23,7 miliardy Kč"
+title:        "Piráti navrhují vládě přepracovat rozpočet a snížit výdaje o 23,7 miliardy korun"
 image:        /assets/img/articles/2018/ferjencik-snemovna.jpg
 author:       Jakub Dušánek
 ---
