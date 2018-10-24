@@ -19,3 +19,4 @@ Kromě zásadního požadavku na omezení výdajů formulují Piráti v usnesen�
 Rozpočet pro příští rok je aktuálně v 1. čtení a Sněmovna bude dnes hlasovat o změně základních údajů. 2. čtení proběhne 5. prosince v případě, že nedojde ke schválení navržených změn. Na schůzi konané v týdnu od 18. prosince má proběhnout 3. čtení.
 
 Vystoupení poslance Mikuláše Ferjenčíka na plénu Sněmovny k tématu rozpočtu naleznete [zde](https://www.youtube.com/watch?v=csalaF_ZJLw).
+[Vybraná makroekonomická data k rozpočtu](https://www.pirati.cz/assets/pdf/grafy-st287).
