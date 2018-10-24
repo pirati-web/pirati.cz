@@ -69,7 +69,7 @@ Pokud vás kterékoliv z těchto témat zajímá, můžete se aktivně zapojit d
 
 2) konzultant sněmovních tisků - nejste-li vyloženě odborník na daná témata, můžete nám i tak zaslat svůj názor na probíraná témata.
 
-3) odborný konzultant - chcete-li se schůzí resortního týmu osobně účastnit, zašlete své CV a motivační dopis na adresu daniel.galuszka@pirati.cz
+3) odborný konzultant - chcete-li se schůzí resortního týmu osobně účastnit, zašlete své CV a motivační dopis na adresu daniel.galuszka@pirati.cz.
 
 4) dobrovolný pomocník - pokud vás naše témata přímo nezajímají, ale přesto byste chtěli jakkoliv pomoci, uvítáme i zdatné rešeršisty a organizátory akcí. 
 
