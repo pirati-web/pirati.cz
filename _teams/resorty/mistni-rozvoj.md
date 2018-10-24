@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: mistnirozvoj
 name: Místní rozvoj
 fullname: Tým pro místní rozvoj
 img: teams/resorty/mistni-rozvoj.jpg # obrázek nemusíte dodávat
