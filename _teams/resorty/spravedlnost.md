@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: spravedlnost
 name: Spravedlnost
 fullname: Ústavně právní tým
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
