@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: informatika
 name: Informatika
 fullname: Informatika
 img: teams/resorty/informatika.jpg # obrázek nemusíte dodávat
