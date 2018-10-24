@@ -9,8 +9,8 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vojtech-pikal.jpg    # 165 x 220
 description: 5. místopředseda sněmovny, člen republikového výboru	# kratký popis, max 160 znaků
 mail:
-- vojtech.pikal@pirati.cz
 - pikalv@psp.cz
+- vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
 direct-contact: true
 asistenti:
