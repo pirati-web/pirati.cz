@@ -1,5 +1,5 @@
 ---
-uid: upt # vyplňte jednoznačný identifikátor
+uid: socialni
 name: Práce a sociální věci
 fullname: Tým pro oblast práce a sociálních věcí
 img: teams/resorty/prace-socialni-veci.jpg # obrázek nemusíte dodávat
