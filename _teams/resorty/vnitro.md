@@ -31,8 +31,6 @@ Co děláme?
 * připomínkujeme rozhodnutí české vlády v bezpečnostní politice
 * projednáváme sněmovní tisky a materiály, které spadají do působnosti [Výboru pro bezpečnost Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4900), [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923), [Stálé komise pro kontrolu Vojenského zpravodajství](http://www.psp.cz/sqw/hp.sqw?k=7900) a [Stálé komise pro kontrolu Úřadu pro zahraniční styky a informace](http://www.psp.cz/sqw/hp.sqw?k=8100) a další
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub
-* rozpracováváme dlouhodobý program [Pirátské strategie pro snížení korupce v ČR](https://wiki.pirati.cz/navrhy/program/protikorupcni-strategie)
-* každý náš kandidát má povinnost podepsat právně vynutitelné [protikorupční prohlášení](https://www.pirati.cz/program/psp2017/kodex-poslance/)
 
 Jsme pevně na straně lidí a firem, u kterých chceme obnovit důvěru v právní a otevřený stát. Chceme razantně zjednodušit [žádání o informace](https://docs.google.com/document/d/1eGgFLuNHWKcQEYOSmS55k7yB2vyoL22ynR7_R3ZFh_E/edit).
 
