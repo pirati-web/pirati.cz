@@ -5,7 +5,7 @@ tags:         zemědělství
 layout:       post
 title:        "Vláda na poslední chvíli převedla 2,5 miliardy z Lesů ČR do rozpočtu, zatímco lesy trpí kůrovcem. Pirát Holomčík proto interpeluje ministra Tomana"
 image:        /assets/img/articles/2018/holomcik1.jpg
-author:       Karolína Sadílková
+author:       Mediální odbor
 ---
 
 
