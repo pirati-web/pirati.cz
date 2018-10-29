@@ -7,9 +7,9 @@ leader: lenka.kozlova
 deputy:
 - ondrej.polansky
 contact-local:
-  name: Jaroslav Němec
-  mob: 608 408 587
-  mail: jarnemec@psp.cz
+  name: Tomáš Hába
+  mob: 723 248 776
+  mail: habat@psp.cz
   img: 
 tags:
 - kultura
@@ -57,6 +57,6 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **Lukáš Funk** - archeologie, muzejnictví
 * **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)** - architektura, veřejný prostor
 * **Vojtěch Ertl** - architektura
-* **Jaroslav Němec**, asistent poslankyně Lenky Kozlové - památková péče, archikultura
+* **Štěpán Drtina**, asistent poslankyně Lenky Kozlové - památková péče
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
