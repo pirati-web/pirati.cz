@@ -120,8 +120,8 @@ layout: default
                     var ctrl = document.getElementById("account_control");
                     // Fill control with options
                     pirates.accounting.makeControls(ctrl,{
-                      'Expertovné {{page.name}}': pirates.accountingData.byAccount['Expertovné {{page.name}}'],
                       'Asistentovné {{page.name}}': pirates.accountingData.byAccount['Asistentovné {{page.name}}'],
+                      'Expertovné {{page.name}}': pirates.accountingData.byAccount['Expertovné {{page.name}}'],
                     });
                     // Bind control handler
                     ctrl.onchange=pirates.accounting.onAccountSelect;
