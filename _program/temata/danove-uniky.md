@@ -35,7 +35,7 @@ Druhý největší ghanský pivovar Accra Brewery, který patří do skupiny dru
 
 K závěru, že Evropský systém patent boxů nepodporuje inovace, ale spíše ve většině případů pobízí nadnárodní společnosti k přesouvání patentů do zemí s nižším zdaněním, aniž by docházelo k reálnému přesunu vědců či výzkumných aktivit, došla i Evropská komise. V ČR se platby nerezidentům za licenční poplatky daní podle smluv o zamezení dvojího zdanění, popř. srážkovou 15% daní. Např. s Nizozemskem je to 5%, a smlouva byla uzavřena v roce 1974. Naproti tomu s jiným profláklým daňovým rájem Panamou jsme smlouvu uzavřeli 2013, a Lucembursku jsme dokonce tuto sazbu nedávno snížili. Piráti prosazují komplexní reformu této problematiky.
 
-Absurditu chování současného ministerstva ukauzuje i případ českých lodníků, majích pracovní poměr u Nizozemské firmy. Těm daňový úřad sdělil, že mají platit daně v Nizozemí. V platné smlouvě je ale vyjímka pro lodníky, kdy rozhoduje domovský přístav lodi, ne sídlo firmy. Teď požaduje zpětné zaplacení daně za několik let i v Česku. Piráti jim daň odpustí, budeme chránit občany před takovouto buzerací. Budme bránot práva českých občanů pracujících v EU a svobodu pohybu.
+Absurditu chování současného ministerstva ukauzuje i případ českých lodníků, majích pracovní poměr u Nizozemské firmy. Těm daňový úřad sdělil, že mají platit daně v Nizozemí. V platné smlouvě je ale výjimka pro lodníky, kdy rozhoduje domovský přístav lodi, ne sídlo firmy. Teď požaduje zpětné zaplacení daně za několik let i v Česku. Piráti jim daň odpustí, budeme chránit občany před takovouto buzerací. Budme bránot práva českých občanů pracujících v EU a svobodu pohybu.
 
 ![Splníme sliby hned ](/assets/img/program/finance/uniky-07a.jpg)
 
