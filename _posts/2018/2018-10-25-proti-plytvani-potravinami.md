@@ -3,7 +3,7 @@ date:         2018-10-25
 category:     blog
 tags:         sněmovna zemědělství
 layout:       post
-title:        "Jak bude stát bojovat proti plýtvání potravin, ptá se premiéra pirátka Olga Richterová"
+title:        "Jak bude stát bojovat proti plýtvání potravinami, ptá se premiéra pirátka Olga Richterová"
 image:        /assets/img/articles/2018/olga-richterova.jpg
 author:       Olga Richterová
 ---
