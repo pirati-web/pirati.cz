@@ -17,9 +17,9 @@ uvedl jeden z autorů novely Pirát Ondřej Polanský. Ze současného znění z
 
 Problematických je podle Polanského a Holomčíka hned několik bodů zákona o spotřební dani, konkrétně tyto povinnosti:
 <ol>
-<li>Nahlásit bezodkladně na celním úřadě místně příslušném trvalému bydlišti datum zahájení výroby, místo výroby a předpokládané množství vyrobeného piva za kalendářní rok./li> 
-<li>Dodržovat limit uvařeného piva do 200 litrů ročně na domácnost – do tohoto limitu je domácí pivo osvobozeno od spotřební daně./li>
-<li>Vést evidenci uvařeného piva a uchovávat ji po dobu 10 let od konce kalendářního roku jejího vyhotovení./li>
+<li>Nahlásit bezodkladně na celním úřadě místně příslušném trvalému bydlišti datum zahájení výroby, místo výroby a předpokládané množství vyrobeného piva za kalendářní rok.</li> 
+<li>Dodržovat limit uvařeného piva do 200 litrů ročně na domácnost – do tohoto limitu je domácí pivo osvobozeno od spotřební daně.</li>
+<li>Vést evidenci uvařeného piva a uchovávat ji po dobu 10 let od konce kalendářního roku jejího vyhotovení.</li>
 </ol>
 
 Pirátští poslanci chtějí odstranit povinnost hlásit se na celním úřadě a vést a archivovat evidenci, dále chtějí navýšit limit na 2000 litrů ročně (analogicky s domácí výrobou vína). V zákoně naopak zachovají zákaz prodeje doma vyrobeného piva.
