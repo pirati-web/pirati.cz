@@ -20,4 +20,4 @@ Předseda Pirátů Ivan Bartoš byl určen zpravodajem tisku a uvedl, že práv�
 
 Argument, který potvrzuje, že kumulace představuje problém, uvedl na plénu Sněmovny Mikuláš Ferjenčík: 
 
-> „Podle statistiky hlasování je z 20 poslanců, kteří nejméně chodí do práce, nejméně sedm komunálních politiků nebo krajských zastupitelů. Zbytek jsou většinou ministři, případně výjimky ze zdravotních důvodů. Podstatná část poslanců, kteří mají viditelně slabou docházku, jsou komunální politici – čísla jsou jednoznačná.“
+> „Podle statistiky hlasování je z 20 poslanců, kteří nejméně chodí do práce, alespoň sedm komunálních politiků nebo krajských zastupitelů. Zbytek jsou většinou ministři, případně výjimky ze zdravotních důvodů. Podstatná část poslanců, kteří mají viditelně slabou docházku, jsou komunální politici – čísla jsou jednoznačná.“
