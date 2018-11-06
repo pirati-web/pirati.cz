@@ -25,7 +25,7 @@ twitter: https://twitter.com/PiratiUstecko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V obvodu Ústí nad Labem – město máme zastupitele Vladimíra Charváta.
+V regionu máme poslance [Mikuláše Peksu](https://ustecky.pirati.cz/lide/mikulas-peksa/)
 
 ---
 **Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).**
