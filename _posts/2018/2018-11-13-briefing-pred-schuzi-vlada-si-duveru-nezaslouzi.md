@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna
 layout:       post
 title:        "Vláda si nezaslouží důvěru, shodli se jednohlasně pirátští poslanci"
-image:        /assets/img/articles/2018/brief20schuze.jpg
+image:        /assets/img/articles/2018/brief20schuze.JPG
 author:       Jakub Dušánek
 ---
 
