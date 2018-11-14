@@ -5,7 +5,7 @@ tags:         sněmovna legislativa
 layout:       post
 title:        "ANO, ODS, KSČM a SPD hlasovaly proti zveřejňování smluv ČEZu"
 image:        /assets/img/articles/2018/michalek.jpg
-author:       ediální odbor
+author:       Mediální odbor
 ---
 
 
