@@ -35,4 +35,3 @@ Piráti na Vysočině aktivně působí na území celého kraje. V Jihlavě ná
 * Pro nováčky (ať zájemce o členství či členy) máme informace na jednom místě na [veřejném úložišti Pirátů Vysočiny](https://drive.google.com/drive/folders/0BxHTLyJwGFGoQjUxdGxXS1doMUE?usp=sharing)
  
 Více na [našem novém webu](https://vysocina.pirati.cz/)
-
