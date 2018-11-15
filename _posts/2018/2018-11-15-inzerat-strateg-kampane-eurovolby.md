@@ -3,7 +3,7 @@ date:         2018-11-15
 category:     blog
 tags:         inzerát
 layout:       post
-title:        "Piráti vypisují otevřené výběrové řízení na stratéga kampaně pro Eurovolby"
+title:        "Piráti vypisují otevřené výběrové řízení na stratéga kampaně pro eurovolby"
 image:        /assets/img/articles/2018/inzerat.jpg
 author:       Mediální odbor
 ---
