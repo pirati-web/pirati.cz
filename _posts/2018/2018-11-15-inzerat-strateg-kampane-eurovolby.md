@@ -22,4 +22,4 @@ Piráti poptávají osobu nebo firmu, která bude zodpovědná za strategické p
 * 50 000 Kč odměna za každý získaný mandát nad 3 získaná křesla.
 * Spolupráce s volebním týmem Pirátů.
 
-[Kompletní informace a odpovědní formulář na vypisovanou pozici](http://www.lmcg2.com/pd/1330091188/?rps=202).
+**[Kompletní informace a odpovědní formulář na vypisovanou pozici](http://www.lmcg2.com/pd/1330091188/?rps=202)**
