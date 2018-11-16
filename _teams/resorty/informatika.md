@@ -55,7 +55,7 @@ Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za
 * **Michal Bláha**
 * **Patrik Zandl**
 * **Ivor Kolár**: kyberbezpečnost
-* **Zdeněk Kubala**: linuxový admin
+* **Zdeněk Kubala**: IT Inženýr/Architekt (Linux/Cloud/Networking)
 * **Martin Nečaský**: nezávislý odborník v oblasti opendat
 * **Martin Šebek**: IT veřejná správa
 
