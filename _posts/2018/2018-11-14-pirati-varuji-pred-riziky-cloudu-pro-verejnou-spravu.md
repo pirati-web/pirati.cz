@@ -19,7 +19,7 @@ Nasazení cloudu sleduje současné trendy v ICT. Po zavedení se jednotlivé in
 
 Obavy z pokračujícího oligopolu však nejsou podle Pirátů jediným problémem. U státní části cloudu, která bude obsahovat např. základní registry státu, mohou existovat i vážné bezpečnostní rizika. 
 
-> „Zavedení cloudu je obrovský krok kupředu, avšak je třeba si uvědomit i hrozící rizika. Například pokud se počítače a další technické vybavení, na kterých vládní cloud poběží, nakoupí pouze od jednoho dodavatele, potom při zneužití bezpečnostní chyby třetí stranou hrozí státu katastrofální problém. Zprávy o novém kompromitovaném hardware se objevují každý měsíc. Časté jsou ale i chyby v obslužném software jako například útoky Meltdown či Spectre. Proto je třeba u této kritické infrastruktury nakupovat vybavení od více dodavatelů,” 
+> „Zavedení cloudu je obrovský krok kupředu, avšak je třeba si uvědomit i hrozící rizika. Například pokud se počítače a další technické vybavení, na kterých vládní cloud poběží, nakoupí pouze od jednoho dodavatele, potom při zneužití bezpečnostní chyby třetí stranou hrozí státu katastrofální problém. Zprávy o novém kompromitovaném hardware se objevují pravidelně. Poslední dobou se diskutují chyby hlavně v procesorech Intel (například útoky Meltdown či Spectre). Chyby v obslužném software síťových prvků taktéž nejsou výjimkou,” 
 
 říká Pirát Ondřej Profant, poslanec a předseda Podvýboru pro e-Government.
 
