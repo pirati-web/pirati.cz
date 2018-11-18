@@ -17,7 +17,7 @@ uvedl předseda Pirátů Ivan Bartoš.
 
 Nasazení cloudu sleduje současné trendy v ICT. Po zavedení se jednotlivé instituce již vůbec nebudou muset starat o hardware, který bude spravován centrálně v datových centrech. Na těchto počítačích potom poběží software, jehož údržbu také centrálně obstará dodavatel. Jednotlivé instituce si pak vyberou z centrálního katalogu cloudu, jaké programové vybavení budou pro svůj vlastní provoz používat. Pro vlastní provoz tak instituce budou potřebovat pouze stolní počítač s připojením na internet.
 
-Obavy z pokračujícího oligopolu však nejsou podle Pirátů jediným problémem. U státní části cloudu, která bude obsahovat např. základní registry státu, mohou existovat i vážné bezpečnostní rizika. 
+Obavy z pokračujícího oligopolu však nejsou podle Pirátů jediným problémem. U státní části cloudu, která bude obsahovat např. základní registry státu, mohou existovat i vážná bezpečnostní rizika. 
 
 > „Zavedení cloudu je obrovský krok kupředu, avšak je třeba si uvědomit i hrozící rizika. Například pokud se počítače a další technické vybavení, na kterých vládní cloud poběží, nakoupí pouze od jednoho dodavatele, potom při zneužití bezpečnostní chyby třetí stranou hrozí státu katastrofální problém. Zprávy o novém kompromitovaném hardware se objevují pravidelně. Poslední dobou se diskutují chyby hlavně v procesorech Intel (například útoky Meltdown či Spectre). Chyby v obslužném software síťových prvků taktéž nejsou výjimkou,” 
 
