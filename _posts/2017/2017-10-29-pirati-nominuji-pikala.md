@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Piráti navrhují do předsednictva Sněmovny olomouckého lídra Vojtěcha Pikala"
-date: 2017-10-29T16:40:00+02:00
+date: 2017-10-29
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-vojta.jpg
 tags: sněmovna
