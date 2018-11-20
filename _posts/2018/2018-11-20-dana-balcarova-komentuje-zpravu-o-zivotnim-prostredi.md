@@ -1,7 +1,7 @@
 ---
 date:         2018-11-20
 category:     blog
-tags:         inzerát
+tags:         životní-prostředí vláda
 layout:       post
 title:        "Zpráva o stavu životního prostředí poukazuje na zaostávání v ochraně přírody, jenom PR stačit nebude, komentuje poslankyně Dana Balcarová"
 image:        /assets/img/articles/2018/balcarova4.jpg
