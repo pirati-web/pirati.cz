@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Pirátka Balcarová kritizuje ministra Brabce, který upřednostňuje adaptační opatření namísto preventivních"
-image:        /assets/img/articles/2018/balcarova-dana2.jpg
+image:        /assets/img/articles/2018/balcarova-brabec.jpg
 author:       Dana Balcarová
 ---
 
