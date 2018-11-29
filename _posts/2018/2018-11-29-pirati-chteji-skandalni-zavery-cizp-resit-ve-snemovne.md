@@ -33,3 +33,5 @@ Dle zjištění ČIŽP Lesy ČR nejednaly v souladu s § 11 odst. 1 lesního zá
 
 ČIŽP také zjistila, že Lesy ČR neměly jakoukoli strategii pro řešení kalamitních situací a to za stavu, kdy byly zaúkolovány do II.Q.2015 takovou strategii vytvořit. Teprve více jak dva a půl roku po uplynutí termínu pro splnění úkolu se takovou strategii chystal management Lesů ČR vytvořit. Z výsledků ČIŽP plyne, že občané České republiky nejsou ze strany Lesů ČR a MZe dlouhodobě objektivně informováni o skutečných příčinách kůrovcové kalamity a realizovaných opatřeních ze strany managementu Lesů ČR a jejich dozorových orgánů.
 
+
+* [Kompletní protokol o kontrole](https://www.pirati.cz/assets/pdf/cizp-protokol-o-kontrole.pdf)
