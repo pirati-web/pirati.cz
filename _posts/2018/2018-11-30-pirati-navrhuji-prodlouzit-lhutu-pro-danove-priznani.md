@@ -19,4 +19,4 @@ V České republice je nyní jedna z nejkratších lhůt pro podání daňového
 
 Podobné opatření platí například v Rakousku, kde elektronické daňové přiznání má lhůtu o 2 měsíce delší než papírové. Kromě Rakouska termínově zvýhodňují elektronické daňové přiznání také v Belgii, Velké Británii, Francii, Irsku, Kypru nebo Maďarsku. V tomto roce podalo daňové přiznání elektronicky zhruba 20,3 % českých poplatníků. Ve většině zemí EU je tento poměr výrazně vyšší. V zemích jako je Dánsko, Finsko, Chorvatsko, Lotyšsko, Nizozemí, Rumunsko, Řecko, Slovinsko či Španělsko je možné podávat přiznání pouze elektronicky.
 
-Podrobné zdůvodnění a text dané úpravy podávané v rámci pozměňovacích návrhů k projednávanému daňovému balíčku lze najít na stránkách Poslanecké sněmovny.
+Podrobné zdůvodnění a text dané úpravy podávané v rámci pozměňovacích návrhů k projednávanému daňovému balíčku lze najít na [stránkách Poslanecké sněmovny](http://www.psp.cz/sqw/text/orig2.sqw?idd=142380).
