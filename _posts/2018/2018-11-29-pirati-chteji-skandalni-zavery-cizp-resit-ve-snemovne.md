@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní životní-prostředí
 layout:       post
 title:        "Inspekce odhalila fatální systémové selhání státu při řešení kůrovcové kalamity, Piráti chtějí skandál řešit ve Sněmovně"
-image:        /assets/img/articles/2018/holomcik-radek.jpg
+image:        /assets/img/articles/2018/balcarova-dana3.jpg
 author:       Mediální odbor
 ---
 
