@@ -8,7 +8,7 @@ img: people/zdenek-hrib.jpg    # 165 x 220
 description: garant programového bodu zdravotnictví             	# kratký popis, max 160 znaků
 mail:
 - zdenek.hrib@pirati.cz
-mob:			  
+mob: +420 602 560 028	  
 profiles:
   github:     
   facebook: 	https://www.facebook.com/zdenek.hrib
