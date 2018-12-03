@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní spravedlnost-a-justice informatika
 layout:       post
 title:        "Ministerstvo chce zakonzervovat výlučné postavení notářů při zakládání firem. Piráti se ptají proč"
-image:        /assets/img/articles/2018/bartos-analytici.jpg
+image:        /assets/img/articles/2018/michalek-4.jpg
 author:       Mediální odbor
 ---
 
