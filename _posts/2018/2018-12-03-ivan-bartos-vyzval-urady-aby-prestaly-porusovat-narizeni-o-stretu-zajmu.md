@@ -1,7 +1,7 @@
 ---
 date:         2018-12-03
 category:     blog
-tags:         celostátní spravedlnost-a-justice informatika
+tags:         celostátní spravedlnost-a-justice finance
 layout:       post
 title:        "Ivan Bartoš vyzval české úřady, aby přestaly porušovat evropské finanční nařízení ke střetu zájmů"
 image:        /assets/img/articles/2018/bartos-dopis.JPG
