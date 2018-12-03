@@ -45,6 +45,8 @@ V letech 1998–2007 pobýval převážně v Plzni. Zde absolvoval nejprve SPŠ 
 
 V roce 2014 byl ve volbách do zastupitelstev obcí zvolen a stal se místostarostou Mariánských lázní. V roce 2015, po rezignaci rovněž pirátského starosty Ing. arch. Vojtěcha Franty, si s ním vyměnil místo ve vedení města a stal se starostou.
 
+Po parlamentních volbách 2017 se stal poslancem za Karlovarský kraj a na pozici starosty z důvodu souběhu funkcí rezignoval. Nyní má na starosti parlamentní resortní tým zdravotnictví a MPO.
+
 Kalendář
 --------
 
