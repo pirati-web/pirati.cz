@@ -14,9 +14,9 @@ mail:
 mob:  +420 774 363 736
 asistenti:
   - name: Petra Vymazalová
-    mob:  +420 778 111 469
+    tel:  +420 778 111 469
   - name: Mgr. Ivan Prouza
-    mob:  +420 778 111 464
+    tel:  +420 778 111 464
   - name: Mgr. David Albrecht
 profiles:
   facebook: https://www.facebook.com/tom.vymazal
