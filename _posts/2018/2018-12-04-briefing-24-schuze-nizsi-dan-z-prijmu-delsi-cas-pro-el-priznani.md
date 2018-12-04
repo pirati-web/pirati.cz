@@ -5,7 +5,7 @@ tags:         sněmovna celostátní finance školství životní-prostředí
 layout:       post
 title:        "Piráti navrhují snížit daň z příjmu fyzických osob a delší čas pro podání elektronického přiznání"
 image:        /assets/img/articles/2018/tz24schuze.jpg
-author:       Jakub Dušánek
+author:       Mediální odbor
 ---
 
 Praha, 4. prosince 2018 – Rozpočet České republiky, daňový balíček, prodloužení doby pro podání elektronického daňového přiznání, zrušení výjimek pro státní firmy z registru smluv a zařazení pevných bodů o kůrovci a platech učitelů byly hlavními tématy briefingu Pirátů před začátkem 24. schůze Poslanecké sněmovny Parlamentu ČR.
