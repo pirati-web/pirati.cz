@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní finance školství životní-prostředí
 layout:       post
 title:        "Piráti navrhují snížit daň z příjmu fyzických osob a delší čas pro podání elektronického přiznání"
-image:        /assets/img/articles/2018/tz24schuze.jpg
+image:        /assets/img/articles/2018/tz24schuze.jpeg
 author:       Mediální odbor
 ---
 
