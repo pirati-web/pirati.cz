@@ -41,7 +41,7 @@ Jak se můžete zapojit?
 ----------------------
 **Chcete s námi pracovat?**
 Pokud nám chcete pomoci, máme několik rozjetých projektů kterých se můžete zúčastnit! Stačí ozvat se uvedené kontaktní osobě.
-Vedoucí týmu je [Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/), kontaktní osobou Jaroslav Němec (608 408 587,  jarnemec@psp.cz / jaroslav.nemec@pirati.cz).
+Vedoucí týmu je [Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/), kontaktní osobou Tomáš Hába (723 248 776,  habat@psp.cz).
 **Máte úplně jiný nápad?**
 Dejte vědět! Rádi si vaše myšlenky vyslechneme a vymyslíme, jak na nich můžeme spolu případně pracovat.
 
@@ -57,6 +57,7 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **Lukáš Funk** - archeologie, muzejnictví
 * **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)** - architektura, veřejný prostor
 * **Vojtěch Ertl** - architektura
-* **Štěpán Drtina**, asistent poslankyně Lenky Kozlové - památková péče
+* **Štěpán Drtina** - asistent poslankyně Lenky Kozlové
+* **Jaroslav Němec** - památková péče 
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
