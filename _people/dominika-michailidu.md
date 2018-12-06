@@ -16,4 +16,4 @@ profiles:
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=dominika%20michailidu&view_all=1
 ---
 
-Dominika Michailidu je předsedkyní krajského sdružení Středočeský kraj. Původem je z Krnska, kde v rámci svého spolku organizuje různé kulturní akce. Profesí je vystudovaná výtvarnice, S manželem pracuje také na rodinné firmě. 
+Dominika Michailidu je členkou krajského sdružení Středočeský kraj. Původem je z Krnska, kde v rámci svého spolku organizuje různé kulturní akce. Profesí je vystudovaná výtvarnice, S manželem pracuje také na rodinné firmě. 
