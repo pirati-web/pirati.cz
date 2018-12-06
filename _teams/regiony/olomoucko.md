@@ -6,8 +6,10 @@ fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
 leader: jan.bednarik
 deputy:
+- petr.kapounek
+- viktor.tichak
 - tomas.svoboda
-- radek.vojtek
+- lubomir.vlcek
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
@@ -25,8 +27,9 @@ twitter: https://twitter.com/piratiOlomoucko
 ---
 
 Pirátským poslancem za Olomoucký kraj je [Vojtěch Pikal]({{ '/lide/vojtech-pikal' | relative_url }}).
-V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). V Šumperku je naší zastupitelkou Zdeňka Dvořáková-Kocourková. V Přerově je Pirátem v zastupitelstvu [Martin Švadlenka](https://olomoucky.pirati.cz/lide/martin-svadlenka/). Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a [Petr Lysek](https://olomoucky.pirati.cz/lide/petr-lysek/).
-Petr Kapounek působí též v krajské komisi pro informatiku. V Olomouci zastupují v orgánech města Piráty Jakub Nepejchal, Vojtěch Pikal a další.
+V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a [Petr Lysek](https://olomoucky.pirati.cz/lide/petr-lysek/). Olomouckými zastupiteli jsou Piráti [Hynek Melichar](https://olomoucky.pirati.cz/lide/hynek-melichar/), [Viktor Tichák](https://olomoucky.pirati.cz/lide/viktor-tichak/) a [Jakub Knápek](https://olomoucky.pirati.cz/lide/jakub-knapek/).
+
+Petr Kapounek působí též v krajské komisi pro informatiku.
 
 Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://olomoucky.pirati.cz/mistni-sdruzeni/piratska-tvrz/)), [Olomouci](https://olomoucky.pirati.cz/mistni-sdruzeni/olomouc/), [Prostějově](https://olomoucky.pirati.cz/mistni-sdruzeni/prostejov/), [Přerově](https://olomoucky.pirati.cz/mistni-sdruzeni/prerov/), na [šumpersku](https://olomoucky.pirati.cz/mistni-sdruzeni/sumpersko/) a [hranicku](https://olomoucky.pirati.cz/mistni-sdruzeni/hranicko/).
 
