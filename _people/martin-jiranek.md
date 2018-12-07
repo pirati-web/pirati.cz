@@ -16,11 +16,15 @@ mob: +420 777 719 282
 office: 
   - address: Veleslavínova 66, 541 01  Trutnov
     opening:
+  - address: Sněmovní 4, 118 26 Praha 1 - Malá Strana
+    opening:
 asistenti:
-  - name: Tomáš Eichler
-    mail: tomas.eichler@pirati.cz
-    tel:  737 529 753
-  - name: Alena Valentová
+  - name: Mgr. Kamila Repaňová
+    tel: +420 773 217 209
+    mail: kamila.repanova@pirati.cz
+  - name: Bc. Kateřina Hůlková
+    mail: info@piratitrutnov.cz
+    tel:  +420 732 823 019
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
