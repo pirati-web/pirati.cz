@@ -14,4 +14,4 @@ Praha, 3. prosince 2018 – Pirát Jakub Michálek interpeloval ministra spraved
 
 > „Ve většině případů by nezbytnosti pro založení firmy šlo vyřídit jednodušeji, rychleji, efektivněji, a tedy i levněji pomocí digitálního podpisu a online formuláře. Tedy podobně, jako je již dnes plně automaticky generován návrh na zápis do obchodního rejstříku,“ dodává advokát David Satke, který se na přípravě interpelace podílel.
 
-[Plné znění interpelace na ministra spravedlnosti Jana Kněžínka](https://www.pirati.cz/assets/pdf/interpelace-MSp-digit-nastroje).
+[Plné znění interpelace na ministra spravedlnosti Jana Kněžínka](https://www.pirati.cz/assets/pdf/interpelace-MSp-digit-nastroje.pdf).
