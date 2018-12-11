@@ -6,6 +6,7 @@ layout:       post
 title:        "Je nutné učinit kroky k udržení oteplení do 1,5 °C, říká Pirátka Balcarová"
 image:        /assets/img/articles/2018/balcarova-katovice.jpg
 author:       Mediální odbor
+---
 
 Katovice, 11. prosince 2018 – V polských Katovicích probíhá druhý týden klimatické konference COP24. Zástupci 200 států z celého světa se sešli, aby se dohodli na podmínkách omezování skleníkových plynů pomocí tzv. Pařížské příručky přijaté v rámci Pařížské dohody v roce 2015. Konference se účastní pirátská poslankyně Dana Balcarová, předsedkyně Výboru životního prostředí.
 
