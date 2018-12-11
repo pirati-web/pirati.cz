@@ -15,6 +15,8 @@ Praha, 14. května 2018 – Předseda poslaneckého klubu Pirátů Jakub Michál
 
 S Airbnb bojuje zejména Praha, kde je cca 7 tisíc hostitelů, z toho 44 % pronajímá byty po celý rok. Úniky na poplatcích městu se odhadují na 120 milionů Kč ročně. Návrh poslal Ministerstvu financí, které má místní poplatky v gesci a vyhlásilo k nim připomínkovací řízení, předseda poslaneckého klubu Jakub Michálek.
 
+**Tato zpráva je v archivu. Aktuální postoj Pirátů k Airbnb po kulatém stolu a připomínkování návrhu naleznete [zde](https://www.pirati.cz/tiskove-zpravy/airbnb-potrebuje-mene-byrokracie.html).**
+
 [Přehled hlavních změn v Airbnb](https://www.pirati.cz/assets/pdf/airbnb-zmeny.pdf).
 
 Celý text návrhu je k dispozici [zde](https://docs.google.com/document/d/1qQIaD6kvTYawR8GvzfdpPZXI1VYsVJOUN_e10K4IYwc/edit).
