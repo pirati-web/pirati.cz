@@ -15,4 +15,4 @@ Praha, 12. prosince 2018 – Pirátský poslanec Mikuláš Ferjenčík podává 
 
 Piráti napadají rozpor s principem rovnosti občanů se zákonem. Návrh na zrušení části zákona podaného na Ústavní soud upřednostnili před poslaneckou novelou zejména proto, aby lidé, kteří kvůli nastavenému systému přišli o peníze, neztratili možnost se bránit.
 
-(Návrh na zrušení části zákona zaslaný Ústavnímu soudu)[pirati.cz/assets/pdf/ferjencik-snemovna.jpg].
+(Návrh na zrušení části zákona zaslaný Ústavnímu soudu)[https://www.pirati.cz/assets/pdf/navrh-us-duchody.pdf].
