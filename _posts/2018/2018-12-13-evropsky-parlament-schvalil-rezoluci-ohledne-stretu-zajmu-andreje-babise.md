@@ -5,7 +5,7 @@ tags:         evropa legislativa kauzy
 layout:       post
 title:        "Evropský parlament drtivou většinou schválil rezoluci, která potvrzuje, že je Andrej Babiš ve střetu zájmů"
 image:        /assets/img/articles/2018/europarlament2.jpg
-author:       IvIvan Bartoš
+author:       Ivan Bartoš
 ---
 
 Praha, 13. prosince 2018 – Evropská komise neproplatí dotace koncernu Agrofert minimálně do doby, než provede mimořádný audit a zveřejní své konečné stanovisko k porušování evropských předpisů ke střetu zájmů. S touto zprávou vystoupil včera evropský komisař pro rozpočet Günther Oettinger na jednání pléna Evropského parlamentu. Evropský parlament navíc dnes schválil rezoluci, ve které jasně konstatoval, že je Andrej Babiš ve střetu zájmů. Pro návrh se vyslovilo 434  europoslanců, proti bylo jen 64. 
