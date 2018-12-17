@@ -3,7 +3,7 @@ date:         2018-12-17
 category:     blog
 tags:         sněmovna kauzy
 layout:       post
-title:        "Komentář předsedy Pirátů Ivana Bartoše_Dnešní rozhodnutí vlády rozhodně neřeší střet zájmů Andreje Babiše"
+title:        "Komentář předsedy Pirátů Ivana Bartoše: Dnešní rozhodnutí vlády rozhodně neřeší střet zájmů Andreje Babiše"
 image:        /assets/img/articles/2018/bartos-tiskovka.jpg
 author:       Ivan Bartoš
 ---
