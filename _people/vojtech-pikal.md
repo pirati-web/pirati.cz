@@ -66,7 +66,7 @@ Své výdělky z veřejných prostředků si nenechává jen pro sebe a tak při
 Mezi jeho zájmy kromě rolových her patří společenský tanec, sledování infotainmentu na youtube či četba fantasy a sci-fi literatury.
 
 Politický životopis: [CZ](https://drive.google.com/open?id=1MqZBzVIY1cutx9pPjL_BmXMP59A1aA-Wn4pCgcfdsSU), [EN](https://drive.google.com/open?id=1XM-kVr4KdxhI8UMS5i5_0h_6Oek-ije_444iOGLaYgw)
-Politický kompas: [1](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=54.3&d=57.4&g=71.9&s=71.9), [2](https://www.politicalcompass.org/yourpoliticalcompass?ec=-3.38&soc=-6.15)
+Politický kompas: [1](https://interaktivni.rozhlas.cz/data/polkviz/results.html?e=54.3&d=57.4&g=71.9&s=71.9), [2](https://www.politicalcompass.org/yourpoliticalcompass?ec=-0.25&soc=-5.13)(k 20.12.2018)
 
 ### Kalendář	
 <iframe src="https://calendar.google.com/calendar/embed?src=vpfafrin%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>	
