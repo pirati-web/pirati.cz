@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna praha doprava
 layout:       post
 title:        "Stavební povolení na Pražský okruh do konce roku 2024? Nereálné, myslí si Piráti"
-image:        /assets/img/articles/2018/michalek-snemovna2.jpg
+image:        /assets/img/articles/2018/michalek-piskovec.jpg
 author:       Jakub Michálek
 ---
  
