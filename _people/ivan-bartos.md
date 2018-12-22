@@ -37,7 +37,7 @@ carousel:
   text: |
     <p><strong>Předseda strany</strong>, celostátní lídr a garant volebního programu Pirátů v oblasti obrany a kyberbezpečnosti</p>
     <p>PhDr. Ivan Bartoš vystudoval informační vědu a knihovnictví. Profesí je systémový a databázový architekt. Vystupuje jako DJ a hudebník, angažuje se v aktivitách souvisejících s DIY kulturou. </p>
-calendar: iv0smi3uu85k9pu53o4an8ejuk
+calendar: iv0smi3uu85k9pu53o4an8ejuk%40group.calendar.google.com
 
 ---
 

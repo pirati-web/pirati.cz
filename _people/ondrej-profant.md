@@ -33,7 +33,7 @@ videa:
   - JRdjRJjWEx0
 redmine: 3
 report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
-calendar: re22cium9203etd7jv7crbf7ck
+calendar: re22cium9203etd7jv7crbf7ck%40group.calendar.google.com
 ---
 
 U Pirátů je od začátku a angažuje se v různých funkcích. Od roku 2014 působil jako zastupitel Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení pražské radiové sítě. Dále se v Praze zabýval majetkem, dopravou a bezpečností. V roce 2017 byl zvolen do Poslanecké sněmovny, kde je členem Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost, Stálé komise pro práci Kanceláře Poslanecké sněmovny, Výboru pro veřejnou správu a regionální rozvoj a podvýborů souvisejících s digitalizací.
