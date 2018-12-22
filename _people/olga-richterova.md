@@ -36,7 +36,7 @@ ordpraha: 5
 redmine: 99
 ordrp: 2
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
-calendar: gn1i05sfapugq65d6l5jcav8b4
+calendar: gn1i05sfapugq65d6l5jcav8b4%40group.calendar.google.com
 ---
 
 PhDr. Olga Richterová, PhD. (* 21. ledna 1985) je poslankyně Parlamentu ČR za Piráty. Je místopředsedkyní Výboru pro sociální politiku, členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny. Profesí je korpusová lingvistka a překladatelka z angličtiny a němčiny. Do října 2018 byla zastupitelkou na Praze 10. Je vdaná a má dvě malé děti, žije ve Vršovicích a pochází z Choltic u Pardubic.
