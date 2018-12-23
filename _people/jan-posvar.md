@@ -30,8 +30,7 @@ profiles:
 ordpsp: 10
 redmine: 219
 report: 1sXIZ706V7IJMuZETOl33SNVRwXvwTF7y
-calendar: 3jlgg8p8nnj3k6t1gduajv0m1g
-calendar: 3jlgg8p8nnj3k6t1gduajv0m1g
+calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
 
 Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského krajského sdružení a poslanec za Vysočinu. V Poslanecké sněmovně je členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise. 

@@ -33,7 +33,7 @@ ordga: 8
 ordpsp: 1
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 redmine: 4
-calendar: 7lsuqerpg58a5pa63r8phu3c2k
+calendar: 7lsuqerpg58a5pa63r8phu3c2k%40group.calendar.google.com
 carousel:
   img: jakub-michalek.jpg
   text: |
