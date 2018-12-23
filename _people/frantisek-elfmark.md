@@ -32,6 +32,7 @@ profiles:
   report: 		https://forum.pirati.cz/poslanci-f884/report-poslance-frantiska-elfmarka-t39035.html
 ordpsp: 21
 report: 12HV0kbkNMm9AWEyOg7LaX47S6APb-9vk
+calendar: frantisek.elfmark%40gmail.com
 redmine: 459
 ---
 
