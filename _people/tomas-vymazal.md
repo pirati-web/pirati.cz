@@ -35,4 +35,4 @@ Už od vstupu k Pirátům je Tomášovou prioritou legislativa upravující nakl
 
 V rámci poslaneckého mandátu je členem Výboru pro bezpečnost, Petičního výboru, Podvýboru pro vězeňství, Podvýboru pro lékovou politiku, racionální využití farmakoterapie a přístrojové techniky, Podvýboru pro ochranu práv osob omezených na svobodě, Stálé komise pro kontrolu činnosti Generální inspekce bezpečnostních sborů a předsedá Stálé komisi pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací.
 
-<iframe width="700" height="750" src="https://pirati.cloud/index.php/apps/calendar/embed/T4B3LEBSCUQ43PDC"></iframe>
+<iframe width="700" height="750" src="https://mrak.pirati.cz/index.php/apps/calendar/embed/HZ3T6wJJWyoDK9FX"></iframe>
