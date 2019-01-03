@@ -6,9 +6,9 @@ fullname: Krajské sdružení Plzeňský kraj
 img: teams/plzen.jpg
 leader: lukas.barton
 deputy:
-- Petr Bohuslav
-- Honza Pošvář
-- Pavel Šrámek
+- Jiří Rezek
+- Magda Daňková
+- Petr Vileta
 contact:
 - miroslav.masek
 region: Plzeňský kraj
