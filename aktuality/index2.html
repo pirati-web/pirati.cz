@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--noSpaceBottom o-section--bigger">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <ul>
+        {% for post in site.posts limit: 50 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+	</ul>
+      </div>
+    </section>
+  </div>
+
+  <div class="small-12 large-4 columns">
+    <aside class="o-section o-section--noSpaceBottom">
+      <div class="o-section-inner o-section-inner--rightBlock">
+        {% include right-bar/bar_fb.html %}
+        {% include right-bar/bar_tw.html %}
+      </div>
+    </aside>
+  </div>
+</div>
