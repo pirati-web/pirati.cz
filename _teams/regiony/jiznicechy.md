@@ -6,10 +6,12 @@ cid: budejice
 img: teams/ceske-budejovice.jpg
 leader: lukas.kolarik
 deputy:
-- Petr Procházka
-- Antonín Schejbal
+- Simon Kostadinov
+- Josef Soumar
+- Václav Klecanda
+- Michal Horák
 contact:
-- katerina.hulkova
+- Klára Bidařová
 region: Jihočeský kraj
 url: https://jihocesky.pirati.cz
 categories:
