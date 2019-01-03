@@ -22,11 +22,11 @@ forum: https://forum.pirati.cz/jihocesky-kraj-f90/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme zastupitele v Písku (Martin Brož), v Soběslavi (Martin Kákona a Iveta Matějů), v Táboře jsme součástí hnutí JINAK!, které má tři zastupitele. Spolu s Volbou pro město prosazujeme pirátský program i v Trhových Svinech.
+V Jihočeském kraji máme v jednotlivých městech a obcích 30 zastupitelů, Nejlepšího výsledku dosáhla samostatná kandidátka Pirátů v Soběslavi: 17,21%, dále potom v Písku 15,33% a v Českých Budějovicích 12,19 %. Piráti jsou zastoupeni čtyřmi zastupiteli v Soběslavi, pěti v Písku, šesti v Českých Budějovicích, čtyřmi v Táboře, dvěma v Týně nad Vltavou a dvěma v Jindřichově Hradci.
 
-Možnosti zapojení:
+V Poslanecké sněmovně je poslancem za Jihočeský kraj Lukáš Kolařík.
 
-* Kontaktujte koordinátorku pro Jihočeský kraj Janu Rohovou na jana.rohova(аt)pirati.cz. Aktivní sdružení Pirátů jsou v Českých Budějovicích, Písku, Strakonicích a v Jindřichově Hradci.
+Chcete-li se dozvědět více o jihočeském sdružení Pirátů, nebo se zapojit do jeho akcí, kontaktujte Kláru Bidařovou (klara.bidarova@pirati.cz, tel.: 770199948) Nezapomeňte se [nalodit](https://nalodeni.pirati.cz/) na palubu!
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude. Sledujte náš [Facebook](https://www.facebook.com/pg/pirati.jck/events/)
