@@ -14,4 +14,6 @@ Praha, 20. prosince 2018 – Ministr dopravy Dan Ťok na výzvu předsedy poslan
 
 Z poskytnutého harmonogramu vyplývá, že stavební povolení na dostavbu úseku 511 (jihovýchodní část) má být vydáno do konce roku 2020, respektive v případě úseku 518, 519 a 520 (severní část) do konce roku 2024. Smlouva se zhotovitelem stavby by měla být podepsána do konce roku 2020, respektive 2025. Materiál poskytl Pirátům ministr Ťok v rámci poslaneckých interpelací.
 
+Ilustrativní mapa úseků Pražského okruhu D0.![Alt text](https://pirati.cz/assets/img/articles/2018/map-ph-okruh.png)
 
+Harmonogram investic.![Alt text](https://pirati.cz/assets/img/articles/2018/harmonogram-investic.png)
