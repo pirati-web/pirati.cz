@@ -11,7 +11,7 @@ deputy:
 - Václav Klecanda
 - Michal Horák
 contact:
-- Klára Bidařová
+- klara.bidarova
 region: Jihočeský kraj
 url: https://jihocesky.pirati.cz
 categories:
