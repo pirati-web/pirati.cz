@@ -3,7 +3,7 @@ date:         2019-01-04
 category:     blog
 tags:         sněmovna spravedlnost-a-justice vnitro komentář
 layout:       post
-title:        "Komentář Jakuba Michálka: Jak plnila vláda protikorupční program v roce 2018? Odmakali to za ní Piráti"
+title:        "Komentář Jakuba Michálka: Jak plnila vláda protikorupční program v roce 2018? Odmakali to za ni Piráti"
 image:        /assets/img/articles/2018/michalek-4.jpg 
 author:       Jakub Michálek
 ---
