@@ -34,4 +34,6 @@ ordrp: 5
 
 Mikuláš Peksa (* 18. června 1986) je pirátský poslanec v PSP ČR za Ústecký kraj. Je rovněž garantem zahraničního týmu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. 
 
-Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG.
+Angažuje se v mezinárodních aktivitách Pirátů a tvorbě mezinárodně-politického programu. K Pirátům se přidal v roce 2013, lákala ho vize jiné evropské politiky. Postupně se stal v Pirátské straně vedoucím zahraničního odboru, působil také jako místopředseda Evropské pirátské strany, byl garantem programového bodu Mezinárodní vztahy. 
+
+Mezi jeho zájmy patří kromě přírodních věd a IT také historie, filozofie, mezinárodní politika, LARPy a RPG. 
