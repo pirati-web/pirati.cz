@@ -11,7 +11,7 @@ deputy:
 - Petr Springfield
 - Pavel Nevrkla
 contact:
-- Radek Holomčík
+- Magdalena Skapová
 region: Jihomoravský kraj
 url: https://www.pirati.cz/regiony/jiznimorava/start
 categories:

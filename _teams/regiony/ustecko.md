@@ -11,7 +11,7 @@ deputy:
 - Vojtěch Karban
 - Michal Ketner
 contact:
-- adam.komenda
+- Václav Židek
 region: Ústecký kraj
 url: https://ustecky.pirati.cz
 categories:
@@ -25,7 +25,7 @@ twitter: https://twitter.com/PiratiUstecko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V regionu máme poslance [Mikuláše Peksu](https://ustecky.pirati.cz/lide/mikulas-peksa/)
+V regionu máme poslance [Mikuláše Peksu](https://ustecky.pirati.cz/lide/mikulas-peksa/). Na úrovni obcí máme okolo deseti zastupitelů. Místní sdružení máme v Ústí nad Labem, Děčíně, Kadani, Žatci a Litoměřicích.
 
 ---
 **Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).**
@@ -34,7 +34,7 @@ V regionu máme poslance [Mikuláše Peksu](https://ustecky.pirati.cz/lide/mikul
 
 Možnosti zapojení:
 
-* Kontaktujte koordinátora pro ústecký kraj Adama Komendu (adam.komenda(аt)рirati.cz). V nepravidelných intervalech se v Ústí nad Labem a dalších městech kraje konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/pirati.ulk/events/).
+* Kontaktujte koordinátora pro ústecký kraj Václava Židka (vaclav.zidek(аt)рirati.cz). V nepravidelných intervalech se v Ústí nad Labem a dalších městech kraje konají schůze krajského sdružení. Sledujte [náš Facebook](https://www.facebook.com/pg/pirati.ulk/events/).
 
 Podívejte se na konkrétní termíny akcí v [kalendáři](https://calendar.google.com/calendar/embed?src=uskpirati%40gmail.com&ctz=Europe%2FPrague),
 abyste se ujistili, že akce bude.
