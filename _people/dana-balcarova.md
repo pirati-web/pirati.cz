@@ -23,6 +23,8 @@ ordga: 11
 ordpsp: 4
 report: 1V4Tkv-LPjqZ6ZSwsZy6UfWjHOl9CqzGo
 redmine: 94
+calendar: 2usth4v1d8e5svifj34eg15kfk%40group.calendar.google.com
+
 ---
 
 Dana Balcarová (* 1960, Pardubice) je garantkou programového bodu životní prostředí. Vystudovala SPŠE a informatiku na VŠE. Dodatečně se vzdělala v oblasti Environmentální ekonomie na VŠE Praha.‭ Pracovala v několika firmách,‭ ‬kde se na manažerské úrovni věnovala informačním systémům a databázím‭ (‬Lidové noviny,‭ ‬Česká inspekce životního prostředí,‭ ‬SCIO,‭ ‬Hestia,‭ ‬o.s.‭‭)‬‭ Od roku‭ ‬2006‭ ‬je místopředsedkyní iniciativy Krocan působící na Praze‭ ‬9, kde se věnuje ochraně zeleně, ‬pořádání občanských akcí a územnímu rozvoji.‭ V roce 2014 byla zvolena zastupitelkou na místní části Praha 9 jako nezávislá s podporou Pirátů. 
