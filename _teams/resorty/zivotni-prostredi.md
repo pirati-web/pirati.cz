@@ -47,7 +47,7 @@ Pokud souhlasíte s [Pirátským programem v oblasti životního prostředí](ht
 Fungování platformy pro životní prostředí
 ----------------------
 
-Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy koordinuje Zuzana Vachůnová.
+Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy koordinuje Anna Doová.
 
 Členové týmu jsou:
 
