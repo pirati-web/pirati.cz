@@ -28,6 +28,7 @@ profiles:
 report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
 redmine: 178
 ordrp: 3
+calendar: cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com
 <!--report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html-->
 ---
 
