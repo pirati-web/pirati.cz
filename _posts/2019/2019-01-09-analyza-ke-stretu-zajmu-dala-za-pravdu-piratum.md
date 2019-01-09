@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna kauzy
 layout:       post
 title:        "Nezávislá právní analýza ke střetu zájmů členů vlády dala za pravdu Pirátům"
-image:        /assets/img/articles/2018/bartos.jpg 
+image:        /assets/img/articles/2018/ivan-dvere.jpg 
 author:       Ivan Bartoš
 ---
 
