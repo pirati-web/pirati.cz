@@ -3,7 +3,7 @@ date:         2019-01-09
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Piráti představili řešení kyberbezpečnosti na komisi pro NÚKIB, uvedl poslanec Profant"
+title:        "Piráti představili řešení kyberbezpečnosti na komisi pro NÚKIB, uvádí poslanec Profant"
 image:        /assets/img/articles/2018/profant-tk.jpg 
 author:       Ondřej Profant
 ---
