@@ -12,10 +12,10 @@ mail:
 - ondrej.polansky@pirati.cz
 mob:			  
 asistenti:
+  - name: Veronika Murzynová
+    mail: murzynovav@psp.cz
+    tel:  728 267 356
   - name: Zuzana Kolaříková
-    mail: kolarikovaz@psp.cz
-    tel:  777 674 414
-  - name: JUDr. Lukáš Jansa
   - name: Mgr. Zuzana Klusová
   - name: Jaroslav Němec
   - name: Ing. David Witosz
