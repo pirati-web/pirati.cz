@@ -4,8 +4,9 @@ name:     Tibor Vansa      		# běžně používáné jméno
 fullname:  Mgr. Tibor Vansa   		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - garanti
+- praha
 img: people/tibor-vansa.jpg       # 165 x 220
-description: Garant programového bodu finance # kratký popis, max 160 znaků
+description: Garant programového bodu finance, Zastupitel hl. m. Prahy # kratký popis, max 160 znaků
 mail:
 - tibor.vansa@pirati.cz
 mob: +420 776 555 622
@@ -14,9 +15,10 @@ profiles:
   facebook: https://www.facebook.com/tibor.vansa				
   twitter:
   linkedin:
+ordpraha: 9
 ---
 
-Tibor Vansa (* 4. listopadu 1983) je garant programového bodu Finance.
+Tibor Vansa (* 4. listopadu 1983) je garant programového bodu Finance a člen zastupitelstva hl. m. Prahy za Piráty.
 
 Vystudoval Matematicko-fyzikální fakultu UK, obor ekonometrie. Pracuje 7 rokem v bance jako analytik kreditního rizika, kde také připravoval retailový rozpočet banky.
 
