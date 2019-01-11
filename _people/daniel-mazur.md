@@ -15,7 +15,7 @@ profiles:
   facebook: 	https://www.facebook.com/daniel.mazur.5268
   twitter: 	
   flickr:	
-odpraha: 5
+ordpraha: 5
 odrga: 7
 ---
 
