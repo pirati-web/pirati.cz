@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna zemědělství otevřený-stát
 layout:       post
 title:        "Piráti vypisují výběrové řízení na nominanta do Dozorčí rady Vinařského fondu"
-image:        /assets/img/articles/2018/martinek-kancelar
+image:        /assets/img/articles/2018/martinek-kancelar.jpg
 author:       Mediální odbor
 ---
 
