@@ -2,8 +2,9 @@
 uid: ladislav.koubek
 name:     Ladislav Koubek          # běžně používáné jméno
 fullname: Ing. Ladislav Koubek         # jméno s tituly etc.
-category:   praha-10                      # kategorie: rp, praha, vary, hradec, jmk, senat
+category:                        # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
+- praha 10
 img: people/ladislav-koubek.jpg    # 165 x 220
 description: zastupitel Prahy 10, člen předsednictva Pirate Parties International, kandidát na pozici lídra Pirátů ve volbách do Evropského parlamentu                      # kratký popis, max 160 znaků
 mail:
