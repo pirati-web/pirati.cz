@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní práce-a-sociální-věci
 layout:       post
 title:        "Piráti uspořádali Piratecon k sociálnímu bydlení"
-image:        pirati.cz/assets/img/articles/2019/piratecon01.jpg
+image:        /assets/img/articles/2019/piratecon01.jpg
 author:       Dana Balcarová
 ---
 
