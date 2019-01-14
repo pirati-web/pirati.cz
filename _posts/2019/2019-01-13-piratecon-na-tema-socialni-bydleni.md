@@ -20,7 +20,7 @@ Praha, 13. ledna 2019 – Pravidelná setkání Pirátů k zásadním politický
 
  
 
-Zástupci Platformy pro sociální bydlení se postarali o metodický úvod. Poté byl představen mezinárodně oceněný projekt sociálního bydlení v Ostravě. Navázala prezentace, jak na založení kontaktního centra pro bydlení a nechyběl ani zástupce Armády spásy coby provozovatele sociální služby pro podporu bydlení. Další účastníci probírali možné způsoby financování podobných projektů. Zazněly i informace o důsledcích absence funkčního systému sociálních a krizových bytů navázaných na síť služeb. Čísla jsou alarmující – pohybují se v řádu miliard korun. Odpoledne následovala diskuse, ve které účastníci cílili své dotazy už na konkrétní řešení či problémy obcí či městských částí, ve kterých sami působí.
+Zástupci Platformy pro sociální bydlení se postarali o metodický úvod do sociální problematiky. Poté byl představen mezinárodně oceněný projekt sociálního bydlení v Ostravě. Navázala prezentace, jak na založení kontaktního centra pro bydlení a nechyběl ani zástupce Armády spásy coby provozovatele sociální služby pro podporu bydlení. Další účastníci probírali možné způsoby financování podobných projektů. Zazněly i informace o důsledcích absence funkčního systému sociálních a krizových bytů navázaných na síť služeb. Čísla jsou alarmující – pohybují se v řádu miliard korun. Odpoledne následovala diskuse, ve které účastníci cílili své dotazy už na konkrétní řešení či problémy obcí či městských částí, ve kterých sami působí.
 
  
 
