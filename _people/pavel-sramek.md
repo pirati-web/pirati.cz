@@ -15,7 +15,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/pavel-šrámek-636823b7/ 
 ---
 
-Pavel Šrámek (* 8. května 1991) je od roku 2016 členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká.
+Pavel Šrámek (* 8. května 1991) je od roku 2016 členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká. V roce 2019 se uchází o kandidaturu Pirátů ve volbách do Evropského parlamentu.
 
 Studoval na Lékařské fakultě v Hradci Králové UK a zároveň na Fakultě vojenského lékařství Univerzity Obrany. Studium nedokončil, po pěti letech jej na obou školách ukončil. V průběhu studia medicíny se aktivně zapojoval do organizování studentských aktivit, zejména činnosti v mezinárodní asociaci mediků IFMSA. Nyní studuje na Právnické fakultě Západočeské univerzity v Plzni.
 

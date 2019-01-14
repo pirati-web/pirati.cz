@@ -7,9 +7,9 @@ leader: dana.balcarova
 deputy:
 - frantisek.elfmark
 contact-local:
-  name: Zuzana Vachůnová
+  name: Anna Doová
   mob:
-  mail: zuzana.vachunova@gmail.com
+  mail: anna.doova@pirati.cz
   img: 
 tags:
 - životní prostředí
@@ -42,12 +42,12 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Pokud souhlasíte s [Pirátským programem v oblasti životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) a chcete nám pomoci, ozvěte se prosím Zuzaně Vachůnové na zuzana.vachunova@gmail.com.
+Pokud souhlasíte s [Pirátským programem v oblasti životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) a chcete nám pomoci, ozvěte se prosím Anně Doové na anna.doova@pirati.cz.
 
 Fungování platformy pro životní prostředí
 ----------------------
 
-Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy koordinuje Zuzana Vachůnová.
+Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy koordinuje Anna Doová.
 
 Členové týmu jsou:
 
@@ -58,5 +58,5 @@ Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy
 * **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)**, poslanec, člen [Podvýboru pro technickou ochranu životního prostředí](http://www.psp.cz/sqw/hp.sqw?k=4624)
 * **Jan Nezhyba**, garant bodu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/) v dlouhodobém programu strany
 * **[Martin Šmída](https://www.pirati.cz/lide/martin-smida/)**, specialista na bio odpady
-* **Zuzana Vachůnová**, odborná asistentka poslankyně Dany Balcarové
+* **Anna Doová**, odborná asistentka poslankyně Dany Balcarové
 * **Jakub Brejša**, odborný asistent poslance Františka Elfmarka
