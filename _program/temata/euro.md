@@ -1,5 +1,5 @@
 ---
-title: Euro 2024 – Roadmapa
+title: Stanovisko k Euru
 img: https://www.pirati.cz/_media/rp/program/korporace.png
 category: témata
 class: tema
