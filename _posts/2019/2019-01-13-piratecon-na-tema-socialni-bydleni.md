@@ -5,7 +5,7 @@ tags:         celostátní práce-a-sociální-věci
 layout:       post
 title:        "Piráti uspořádali Piratecon k sociálnímu bydlení"
 image:        /assets/img/articles/2019/piratecon01.jpg
-author:       Dana Balcarová
+author:       Mediální odbor
 ---
 
 Praha, 13. ledna 2019 – Pravidelná setkání Pirátů k zásadním politickým tématům s názvem Piratecon probíhají i v roce 2019. Již tento víkend se za účasti poslankyně Olgy Richterové, senátora Lukáše Wagenknechta a radního pražského magistrátu Adama Zábranského setkaly desítky Pirátů, sympatizantů a odborníků, které zajímá problematika sociálního bydlení. Podtitul sobotního setkání v Pirátském centru v Praze zněl „Bydlení je klíč k důstojnému životu“ a tématem byla práce zastupitelů v obcích, které potřebují řešit situaci lidí v bytové nouzi a lidí ohrožených ztrátou bydlení.
