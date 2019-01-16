@@ -1,7 +1,7 @@
 ---
 uid: mistnirozvoj
-name: Místní rozvoj
-fullname: Tým pro místní rozvoj
+name: Místní rozvoj a veřejná správa
+fullname: Tým pro místní rozvoj a veřejnou správu
 img: teams/resorty/mistni-rozvoj.jpg # obrázek nemusíte dodávat
 leader: 
 - ivan.bartos
@@ -12,11 +12,14 @@ tags:
 - územní plánování
 - pohřebnictví
 - bytová politika
+- regionální politika
+- státní správa
+- územní samospráva
 category: resort
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 ---
 
-Vítejte na stránce **týmu pro místní rozvoj**.
+Vítejte na stránce **týmu pro místní rozvoj a veřejnou správu**.
 
 Co děláme?
 ----------
