@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna legislativa
 layout:       post
 title:        "Diktuje Hrad rozsudky soudcům a kšeftuje s funkcemi? O nezávislosti soudců budou jednat poslanci"
-image:        /assets/img/articles/2018/michalek2.jpg 
+image:        /assets/img/articles/2018/michalek-jakub.jpg 
 author:       Jakub Michálek
 ---
 
