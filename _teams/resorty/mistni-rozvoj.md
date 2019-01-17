@@ -1,7 +1,7 @@
 ---
 uid: mistnirozvoj
-name: Místní rozvoj
-fullname: Tým pro místní rozvoj
+name: Místní rozvoj a veřejná správa
+fullname: Tým pro místní rozvoj a veřejnou správu
 img: teams/resorty/mistni-rozvoj.jpg # obrázek nemusíte dodávat
 leader: 
 - ivan.bartos
@@ -12,17 +12,20 @@ tags:
 - územní plánování
 - pohřebnictví
 - bytová politika
+- regionální politika
+- státní správa
+- územní samospráva
 category: resort
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 ---
 
-Vítejte na stránce **týmu pro místní rozvoj**.
+Vítejte na stránce **týmu pro místní rozvoj a veřejnou správu**.
 
 Co děláme?
 ----------
 
-* Prosazujeme volební program v oblasti veřejné správy, [místního rozvoje](https://www.pirati.cz/program/psp2017/mistni-rozvoj/) a její [digitalizace](https://www.pirati.cz/program/psp2017/informatika/),
-* projednáváme sněmovní tisky, které jsou přiřazeny [výboru veřejné správy a regionálního rozvoje Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4400),
+* Prosazujeme volební program v oblasti [místního rozvoje](https://www.pirati.cz/program/psp2017/mistni-rozvoj/), veřejné správy a její [digitalizace](https://www.pirati.cz/program/psp2017/informatika/),
+* projednáváme sněmovní tisky, které jsou přiřazeny [výboru pro veřejnou správu a regionální rozvoj Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4400),
 * pokrýváme oblasti státní správy, územní samosprávy, státního občanství a evidence obyvatel, transparentnosti veřejné správy, kontroly finančního hospodaření, boje proti korupci, územního rozvoje a urbanismu, regionální politiky, bydlení, rozvoje venkova, cestovního ruchu a turistiky, pohřebnictví, způsobu odměňování ve veřejné správě,
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci ministerstva vnitra v obasti veřejné správy a ministerstva pro místní rozvoj,

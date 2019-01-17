@@ -5,7 +5,7 @@ tags:         celostátní práce-a-sociální-věci
 layout:       post
 title:        "Piráti uspořádali Piratecon k sociálnímu bydlení"
 image:        /assets/img/articles/2019/piratecon01.jpg
-author:       Dana Balcarová
+author:       Mediální odbor
 ---
 
 Praha, 13. ledna 2019 – Pravidelná setkání Pirátů k zásadním politickým tématům s názvem Piratecon probíhají i v roce 2019. Již tento víkend se za účasti poslankyně Olgy Richterové, senátora Lukáše Wagenknechta a radního pražského magistrátu Adama Zábranského setkaly desítky Pirátů, sympatizantů a odborníků, které zajímá problematika sociálního bydlení. Podtitul sobotního setkání v Pirátském centru v Praze zněl „Bydlení je klíč k důstojnému životu“ a tématem byla práce zastupitelů v obcích, které potřebují řešit situaci lidí v bytové nouzi a lidí ohrožených ztrátou bydlení.
@@ -20,7 +20,7 @@ Praha, 13. ledna 2019 – Pravidelná setkání Pirátů k zásadním politický
 
  
 
-Zástupci Platformy pro sociální bydlení se postarali o metodický úvod. Poté byl představen mezinárodně oceněný projekt sociálního bydlení v Ostravě. Navázala prezentace, jak na založení kontaktního centra pro bydlení a nechyběl ani zástupce Armády spásy coby provozovatele sociální služby pro podporu bydlení. Další účastníci probírali možné způsoby financování podobných projektů. Zazněly i informace o důsledcích absence funkčního systému sociálních a krizových bytů navázaných na síť služeb. Čísla jsou alarmující – pohybují se v řádu miliard korun. Odpoledne následovala diskuse, ve které účastníci cílili své dotazy už na konkrétní řešení či problémy obcí či městských částí, ve kterých sami působí.
+Zástupci Platformy pro sociální bydlení se postarali o metodický úvod do sociální problematiky. Poté byl představen mezinárodně oceněný projekt sociálního bydlení v Ostravě. Navázala prezentace, jak na založení kontaktního centra pro bydlení a nechyběl ani zástupce Armády spásy coby provozovatele sociální služby pro podporu bydlení. Další účastníci probírali možné způsoby financování podobných projektů. Zazněly i informace o důsledcích absence funkčního systému sociálních a krizových bytů navázaných na síť služeb. Čísla jsou alarmující – pohybují se v řádu miliard korun. Odpoledne následovala diskuse, ve které účastníci cílili své dotazy už na konkrétní řešení či problémy obcí či městských částí, ve kterých sami působí.
 
  
 
