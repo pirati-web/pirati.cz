@@ -1,5 +1,5 @@
 ---
-date:         2019-01-19
+date:         2019-01-17
 category:     blog
 tags:         sněmovna legislativa
 layout:       post
