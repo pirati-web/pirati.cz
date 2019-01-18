@@ -1,0 +1,133 @@
+---
+layout: page
+title: Medializované výsledky 
+maintext: |
+  Seznam medializovaných výsledků
+rbar: ""
+description: Seznam medializovaných výsledků
+keywords: medializované, výsledky, seznam
+redmine-json-url-old: https://redmine.pirati.cz/projects/snemovna/issues.json?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc%2C%2C&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%3D&v%5Bissue_tags%5D%5B%5D=vysledek&f%5B%5D=&c%5B%5D=subject&c%5B%5D=tags_relations&group_by=&c%5B%5D=description&t%5B%5D=
+redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=500&utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc%2C%2C&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=28&f%5B%5D=status_id&op%5Bstatus_id%5D=%21&v%5Bstatus_id%5D%5B%5D=6&f%5B%5D=&c%5B%5D=subject&c%5B%5D=tags_relations&group_by=project&t%5B%5D=
+---
+
+<section class="o-section o-section--spaceBot">
+  <div class="o-section-inner">
+    <div class="o-section-block">
+      <div class="c-BasicPage">
+        <div class="c-BasicPage-content">
+          <div class="row">
+            <div class="columns small-12">
+              <p>
+              {{page.maintext}}
+              </p>
+            </div>
+            
+            {% if page.redmine-json-url %}
+            <div class="columns small-12">
+              <div id="redmine_vysledky">
+              
+                <div class="accordion" data-accordion>
+                  <div class='cloner' data-accordion-item style='display:none;'>
+                    <a href="#" class="accordion-title" style='text-decoration: none;'>XXX</a>
+                    <div class="accordion-content" data-tab-content>
+                      <div class='content'>XXX</div>
+                      <p class='text-right'>
+                        <small><a class='redmine-href' target="_blank" href="XXX">Podrobnosti</a></small>
+                      </p>  
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="row" id="loading">
+                  <div class="small-12 columns">
+                    <p>
+                      <i class="fa fa-spinner fa-pulse fa-fw"></i> Nahrávám data, chvíli strpení ...
+                      <span class="sr-only">Loading...</span>
+                    </p>  
+                  </div>  
+                </div>
+                
+                <div class="reveal large" id="reveal1" style='border:0; padding:0.4rem; max-width:56em;' data-reveal data-show-delay='200' data-hide-delay='200'>
+                  <div class='callout' style='border:0; margin:0;'>
+                    <h2 class='head'></h2>
+                    <img class='img' />
+                    <p class='desc' style='text-align:left; margin-top:0.8rem;'></p>
+                    <p class='float-left' style='font-size:75%; margin:0;'><i class="fa fa-user" aria-hidden="true"></i> <span class='autor'></span></p>
+                    <p class='link float-right' style='font-size:75%; margin:0;'>
+                      <a target='_blank' class='permalink' href='XXX'><i class="fa fa-link" aria-hidden="true"></i> Permalink</a>
+                    </p>                    
+                    <div style='clear:both;'></div>
+                  </div>
+                  <button class="close-button" data-close aria-label="Close reveal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                  </button>  
+                </div>
+                
+                
+                
+                <div class="grid row" id="masonry_container" style='margin-bottom:0.8em;'>
+                  <div class="grid-sizer small-12 medium-4 large-3 columns" style='padding-left:0.625rem; padding-right:0.625rem;'></div>
+                  <div class="small-12 columns grid-item" style='padding-left:0.625rem; padding-right:0.625rem;'>
+                    <h1 class='head'></h1>
+                  </div>
+                  <div class='cloner2 grid-item small-12 medium-4 large-3 columns' style='display:none; padding-left:0.625rem; padding-right:0.625rem;'>
+                    <div class='callout'>
+                      <a class='mas_content' href="#" style='text-decoration:none; color:#000000;'>
+                        <h3 class='nadpis'>XXX</h3>
+                        <p class='perex'>XXX</p>
+                      </a>
+                    </div>  
+                  </div>
+                </div>
+
+                <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/bebas" type="text/css"/>
+                <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&amp;subset=latin-ext" rel="stylesheet">
+                <style>
+                h1.head, h2.head, h3.nadpis {text-transform: uppercase; font-weight: normal !important; font-family: 'BebasNeueRegular';}
+                h1.head {font-size:200%;}
+                div.callout.active {background-color:#f0f0f0;}
+                div.callout {transition: all 1s ease; color:#000000; border:1px solid #f0f0f0;}
+                div.callout:hover {background-color:#f0f0f0;}
+                #loading {transition:all 1s ease;}
+                .mas_content {text-decoration:none; color:inherit;}
+                .mas_content h3 {color:inherit; text-decoration:none;}
+                .mas_content p.perex {color:inherit; font-size:92%; font-family: 'Roboto Condensed', sans-serif; line-height:1.4; text-align:left; text-decoration:none; margin:0;}
+                p.desc {font-family: 'Roboto Condensed', sans-serif;} 
+                </style>
+              
+                <div id='inv' style='display:none;'></div>
+              </div>
+            </div>
+              <script src="https://cdn.jsdelivr.net/remarkable/1.7.1/remarkable.min.js"></script>
+              <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+              <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+              <script>
+                var md = new Remarkable();
+                pirates.priorityStack.push(function (context) {
+                  var url = '{{page.redmine-json-url}}';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var doc = JSON.parse(xhr.responseText);
+                    var div = document.getElementById('redmine_vysledky');
+                    pirates.integrations.redmine.masonry(doc);
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
+            {% endif %}
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
