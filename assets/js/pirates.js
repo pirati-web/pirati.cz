@@ -35,7 +35,225 @@ pirates.integrations = {
         body.appendChild(row);
       }
       return element;
+    },
+    vysledky: function(doc) {
+      divCopy=$(".accordion .cloner").clone(true);
+      divCopy.css('display', 'true');
+      for(var i in doc.issues) {
+        var divNew=divCopy.clone().appendTo(".accordion");
+        //$("a.accordion-title",divNew).text("("+doc.issues[i].id+") "+doc.issues[i].subject+" ["+doc.issues[i].assigned_to.name+"]");
+        if (doc.issues[i].description!="") {
+          descHtml=md.render(doc.issues[i].description); 
+          var mess = $.parseHTML(descHtml);
+          bd = $('#inv').html('').append(mess);
+          first_p = bd.find('p:first').html();
+          bd.find('p:first').remove();
+          desc_rest=bd.html();
+          } else {
+          descHtml="Podrobný popis chybí ...";
+          first_p="";
+          desc_rest="";
+          }
+        $("a.accordion-title",divNew).html("<h3>"+doc.issues[i].subject+"</h3><p style='font-size:120%;'>"+first_p+"</p>");
+        $("div.accordion-content a.redmine-href",divNew).attr("href", 'https://redmine.pirati.cz/issues/'+doc.issues[i].id);
+        $("div.accordion-content div.content",divNew).html(desc_rest);
+        $("div.accordion-content div.content",divNew).attr('id', 'markdown_'+doc.issues[i].id);
+        divNew.show();
+        }
+      Foundation.reInit('accordion');      
+    },
+    masonry: function(doc) {
+
+      icons={
+      'resort-doprava-a-logistika':'doprava.svg',
+      'resort-evropska-unie-zahranici-obrana':'mezinarodni-vztahy.svg',
+      'resort-finance':'finance.svg',
+      'resort-informatika':'informatika.svg',
+      'resort-mistni-rozvoj':'mistni-rozvoj.svg',
+      'resort-prace-a-socialnich-veci':'prace-a-socialni-veci.svg',
+      'resort-prumysl-a-obchod':'prumysl.svg',
+      'resort-spravedlnost':'spravedlnost.svg',
+      'resort-vnitro-a-bezpecnost':'vnitro.png',
+      'resort-zdravotnictvi':'zdravotnictvi.svg',
+      'resort-zemedelstvi':'zemedelstvi.svg',
+      'resort-zivotni-prostredi':'zivotni-prostredi.svg',
+      'resort-skolstvi':'vzdelani.png',
+      'resort-kultura':'kultura.png'
+      };
+
+      pref={
+      'resort-doprava-a-logistika':4,
+      'resort-evropska-unie-zahranici-obrana':5,
+      'resort-finance':14,
+      'resort-informatika':13,
+      'resort-mistni-rozvoj':1,
+      'resort-prace-a-socialnich-veci':9,
+      'resort-prumysl-a-obchod':6,
+      'resort-spravedlnost':11,
+      'resort-vnitro-a-bezpecnost':12,
+      'resort-zdravotnictvi':3,
+      'resort-zemedelstvi':7,
+      'resort-zivotni-prostredi':8,
+      'resort-skolstvi':10,
+      'resort-kultura':2
+      };
+      
+      masCopy=$("#masonry_container").clone(true);
+      divCopy=$("#masonry_container .cloner2").clone(true);
+      divCopy.css('display', 'true');
+      var proj=[];
+      doc.issues = sortJSON(doc.issues,pref);
+      for(var i in doc.issues) {
+        pd=doc.issues[i].project.name;
+        pid=slug($.trim(pd));
+        if (jQuery.inArray(pid,proj)==-1) {
+          proj.push(pid);
+          var masNew=masCopy.clone().appendTo("#redmine_vysledky");
+          masNew.attr("id","ms_"+pid);
+          if (icons[pid]!==undefined) {
+            $(".head",masNew).html("<img style='width:1em;height:1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd+"</span>");
+            } else {
+            $(".head",masNew).text(pd);
+            }
+          }
+        //var divNew=divCopy.clone().appendTo("#masonry_container");
+        var divNew=divCopy.clone().appendTo("#ms_"+pid);
+        if (doc.issues[i].description!="") {
+          descHtml=md.render(doc.issues[i].description); 
+          var mess = $.parseHTML(descHtml);
+          doc.issues[i].desc_html=descHtml;
+          bd = $('#inv').html('').append(mess);
+          first_p = bd.find('p:first').html();
+          bd.find('p:first').remove();
+          desc_rest=bd.html();
+          } else {
+          descHtml="Podrobný popis chybí ...";
+          doc.issues[i].desc_html=descHtml;
+          first_p="";
+          desc_rest="";
+          }
+        prio=doc.issues[i].priority.id;
+        if (prio==5) divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6'); 
+        $(".nadpis",divNew).html(doc.issues[i].subject);
+        //parsing image
+        if ("custom_fields" in doc.issues[i]) {
+          $.each( doc.issues[i].custom_fields, function( key, value ) {
+            if ((value.id==48) && (value.value!="")) {
+              console.log('img:'+value.value);
+              first_p="<img src='"+value.value+"' style='margin-bottom:0.6em;'><br/>"+first_p;
+              doc.issues[i].img=value.value;
+              }             
+            });
+          }
+        //first_p=first_p.replace(/(\s|^)(a|i|k|o|s|u|v|z)(\s+)([^\p{Cc}\p{Cf}\p{zL}\p{Zp}]+)/gmi , '$1$2&nbsp;$4');
+        first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+        $(".perex",divNew).html(first_p);
+        $("a.mas_content",divNew).data( "id", doc.issues[i].id);
+        $("a.mas_content",divNew).data( "index",i);
+        //console.log('val: '+$("a.content",divNew).data( "id"));
+        divNew.attr("id",doc.issues[i].id);
+        divNew.show();
+        console.log('id:'+doc.issues[i].id+' [prio:'+doc.issues[i].priority.id+']');
+        }
+      console.log('proj:'+proj);  
+      $(document).ready(function () {
+        $("#loading").fadeOut("slow" );   
+        var url=window.location.href;
+        var path=window.location.pathname;
+        var hash=window.location.hash;
+        console.log('url:'+url);
+        console.log('path:'+path);
+        console.log('hash:'+hash);
+        console.log('masonry ...');
+        
+        var container = document.querySelector('#redmine_vysledky');
+        var msnry=[];
+        $.each(proj, function( key, value ) {
+          msnry[key] = new Masonry("#ms_"+value, {
+            itemSelector: '#ms_'+value+' .grid-item',
+            columnWidth: '#ms_'+value+' .grid-sizer',
+            percentPosition: true
+            });
+          });
+        
+        /*      
+        var container = document.querySelector('.grid');
+        var msnry = new Masonry( container, {
+          itemSelector: '.grid .grid-item',
+          columnWidth: '.grid .grid-sizer',
+          percentPosition: true
+          });
+        */  
+          
+        imagesLoaded( container, function( instance ) {
+          console.log('all images are loaded');
+
+          $.each(proj, function( key, value ) {
+            msnry[key].layout();
+            });
+            
+          //msnry.layout();
+          
+          //show actual issue detail when hash
+          if (hash!='') {
+            var target_id=hash.substr(1,5);
+            console.log('searching for id '+target_id);
+            if($("#"+target_id).length != 0) {
+              $('html, body').animate({
+                scrollTop: $("#"+target_id).offset().top-24
+                }, 200);
+              $("#"+target_id+" a.mas_content").trigger("click");
+              $("#"+target_id+" .callout").addClass('active');
+              }            
+            }
+        });
+        
+        
+        //$("#masonry_container a.mas_content").each(function(index) {
+        $("#redmine_vysledky a.mas_content").each(function(index) {
+          //console.log(index+' -> '+$(this).data("id")+' / '+$(this).data("index"));
+          $(this).click(function(event) {
+            event.preventDefault();
+            $(".callout.active").removeClass('active');
+            $(this).parent('div.callout').addClass('active');
+            var i=$(this).data("index");
+            var head=doc.issues[i].subject;
+            var desc=doc.issues[i].desc_html;
+            $("#reveal1 .head").text(head);          
+            $("#reveal1 .desc").html(desc.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;"));
+            $("#reveal1 .desc a").each(function(index) {$(this).attr('target', '_blank');});
+            if ("img" in doc.issues[i]) {
+              $("#reveal1 .img").attr('src',doc.issues[i].img).hide().fadeIn('slow');
+              } else {
+              $("#reveal1 .img").hide();
+              }          
+            if (!("assigned_to" in doc.issues[i])) {
+              $("#reveal1 .autor").html('nepřiřazeno');
+              } else {  
+              $("#reveal1 .autor").html(doc.issues[i].assigned_to.name);
+              }
+            //$("#reveal1 a.redmine-href").attr("href", 'https://redmine.pirati.cz/issues/'+doc.issues[i].id);
+            newpath=path+'#'+$(this).data("id")+'_'+slug(head);
+            $("#reveal1 a.permalink").attr("href", newpath);
+            $("#reveal1").foundation('open');
+            console.log('modal open: '+newpath);
+            window.history.pushState({}, null, newpath);
+            });
+          });            
+        
+        $(document).on('closed.zf.reveal', '[data-reveal]', function () {
+          //console.log("'closed.zf.Reveal' fired. "+path);
+          window.history.replaceState({}, null, path);
+          });            
+
+        $(window).on('popstate', function() {
+          //console.log('Back button was pressed.');
+          $("#reveal1").foundation('close');
+          });
+          
+      });                    
     }
+    
   }
 };
 pirates.makeModal = function(html){
@@ -151,6 +369,32 @@ pirates.csvToJSON = function (csv){
   return result; //JavaScript object
   //return JSON.stringify(result); //JSON
 }
+
+function sortJSON(data,pref) {
+    return data.sort(function (a, b) {
+        var x = pref[slug($.trim(a.project.name))]*10+a.priority.id;
+        var y = pref[slug($.trim(b.project.name))]*10+b.priority.id;
+        return ((x < y) ? 1 : ((x > y) ? -1 : 0));
+    });
+}
+
+var slug = function(str) {
+  str = str.replace(/^\s+|\s+$/g, ''); // trim
+  str = str.toLowerCase();
+
+  // remove accents, swap ñ for n, etc
+  var from = "ÁÄÂÀÃÅČÇĆĎÉĚËÈÊẼĔȆÍÌÎÏŇÑÓÖÒÔÕØŘŔŠŤÚŮÜÙÛÝŸŽáäâàãåčçćďéěëèêẽĕȇíìîïňñóöòôõøðřŕšťúůüùûýÿžþÞĐđßÆa·/_,:;";
+  var to   = "AAAAAACCCDEEEEEEEEIIIINNOOOOOORRSTUUUUUYYZaaaaaacccdeeeeeeeeiiiinnooooooorrstuuuuuyyzbBDdBAa------";
+  for (var i=0, l=from.length ; i<l ; i++) {
+    str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+  }
+
+  str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+    .replace(/\s+/g, '-') // collapse whitespace and replace by -
+    .replace(/-+/g, '-'); // collapse dashes
+
+  return str;
+};
 
 // make accounting object - a set of helpers to interface with Google Sheets based accounting database
 pirates.accounting = {};
