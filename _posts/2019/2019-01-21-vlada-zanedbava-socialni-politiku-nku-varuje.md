@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna práce-a-sociální-věci
 layout:       post
 title:        "Vláda dlouhodobě zanedbává sociální politiku. Kontrolní závěry NKÚ o sociálním bydlení jsou alarmující"
-image:        /assets/img/articles/2019/richterova.jpg 
+image:        /assets/img/articles/2019/16528Richterova.jpg 
 author:       Olga Richterová
 ---
 
