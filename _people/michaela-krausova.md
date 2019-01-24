@@ -17,7 +17,7 @@ profiles:
 ordpraha: 4
 ---
 
-**Michaela Krausová** je předsedkyně zastupitelského klubu Pirátů v ZHMP. Vedla projekt Pirátské listy offline, působila v rámci stáží u senátora Libora Michálka a v klubu Pirátů v Zastupitelstvu hl. m. Prahy. Michaela se narodila v Benešově a odmala bydlí v Praze.
+**Michaela Krausová** je předsedkyně zastupitelského klubu Pirátů v ZHMP. Vedla tým transparentního obsazování míst v dozorčích radách, iniciovala změnu smlouvy o partnerství mezi Prahou a Pekingem a podílí se na vyjednávání. Před tím vedla projekt Pirátské listy offline, působila v rámci stáží u senátora Libora Michálka, v klubu Pirátů v Zastupitelstvu hl. m. Prahy a koordinovala dobrovolníky ve volební kampani v Praze. Michaela se narodila v Benešově a odmala bydlí v Praze.
 
 Vztah k Pirátům získala především díky jejich otevřenosti, transparenci a kvůli efektivnímu využití moderních technologií, bez kterých se ve 21. století nelze obejít. Ráda by žila ve společnosti, která je vzdělaná, svobodná a digitálně propojená.
 
