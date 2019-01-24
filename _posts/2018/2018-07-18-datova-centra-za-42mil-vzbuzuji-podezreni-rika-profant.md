@@ -5,7 +5,7 @@ tags:         vláda
 layout:       post
 title:        "Pirát Ondřej Profant: Zakázka bez soutěže na datová centra vzbuzuje podezření"
 image:        assets/img/articles/2018/ondrej-profant1.jpg
-author:       Mediální odbor
+author:       Ondřej Profant
 ---
 
 Praha, 18. července 2018 – Dle dnes Vládou ČR projednávaných dokumentů plánuje Ministerstvo vnitra ČR přidělit zakázku na vybudování datových center za 42 milionů Kč bez výběrového řízení. Zatímco Ministerstvo vnitra vidí bezpečnostní riziko ve standardním vypsání zakázky, Piráti vidí riziko v neprůhledné vlastnické struktuře i ve vážných finančních problémech společnosti, která je vlastníkem vybraného dodavatele. Zakázky bez výběrového řízení jsou navíc častým předmětem kritiky Nejvyššího kontrolního úřadu i evropských institucí.
