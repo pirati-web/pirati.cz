@@ -19,12 +19,12 @@ calendar: 0hc5kevgjdgvenr4tt7d34g7pc
 # id google kalendáře s událostmi
 ---
 
-Vítejte na stránce **ústavně právního týmu Pirátů**.
+Vítejte na stránce **resortního týmu Spravedlnost**, který se věnuje otázkám justice, občanského a ústavního práva.
 
 Co děláme?
 ----------
 
-* Prosazujeme [volební program v oblasti justice](/program/psp2017/spravedlnost/),
+* Prosazujeme [volební program v oblasti spravedlnosti](/program/psp2017/spravedlnost/),
 * projednáváme sněmovní tisky, které jsou přikázány [ústavněprávnímu výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4000),
 * zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
