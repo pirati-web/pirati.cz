@@ -5,7 +5,7 @@ fullname: Michaela Krausová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220
-description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Předsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - michaela.krausova@pirati.cz
 mob:			  
@@ -17,7 +17,7 @@ profiles:
 ordpraha: 4
 ---
 
-**Michaela Krausová** je místopředsedkyně zastupitelského klubu Pirátů v ZHMP. Vedla projekt Pirátské listy offline, působila v rámci stáží u senátora Libora Michálka a v klubu Pirátů v Zastupitelstvu hl. m. Prahy. Michaela se narodila v Benešově a odmala bydlí v Praze.
+**Michaela Krausová** je předsedkyně zastupitelského klubu Pirátů v ZHMP. Vedla projekt Pirátské listy offline, působila v rámci stáží u senátora Libora Michálka a v klubu Pirátů v Zastupitelstvu hl. m. Prahy. Michaela se narodila v Benešově a odmala bydlí v Praze.
 
 Vztah k Pirátům získala především díky jejich otevřenosti, transparenci a kvůli efektivnímu využití moderních technologií, bez kterých se ve 21. století nelze obejít. Ráda by žila ve společnosti, která je vzdělaná, svobodná a digitálně propojená.
 
@@ -27,6 +27,6 @@ Vystudovala SOŠ pro administrativu EU obor Provoz diplomatických služeb v Pra
 
 Během kampaně do Poslanecké sněmovny v roce 2017 koordinovala tým dvou stovek pražských dobrovolníků, kteří společně s prací pirátských zastupitelů na Magistrátu stojí za historickým úspěchem Pirátů v Praze 17,6 %. Je ráda, že může být součástí strany, jejíž členové a příznivci se nestydí nosit Pirátské tričko a nebojí se vyjít do ulic a rozdávat bez nároku na odměnu stovky tisíc Pirátských listů.
 
-V roce 2018 kandidovala úspěšně do zastupitelstva hlavního města Prahy na šestém místě. Následně byla v rámci zastupitelského klubu Pirátů zvolena za jeho místopředsedkyni. 
+V roce 2018 kandidovala úspěšně do zastupitelstva hlavního města Prahy na šestém místě. Následně byla v rámci zastupitelského klubu Pirátů zvolena za jeho místopředsedkyni a v lednu 2019 za předsedkyni klubu. 
 
 Michaela ráda tráví čas se zajímavými lidmi a má ráda zvířata. Baví ji společenské hry. V posledních letech našla zájem v četbě naučné literatury z oblasti sociokultutní antropologie, filosofie a historie. Michaela o sobě nerada píše ve 3. osobě.
