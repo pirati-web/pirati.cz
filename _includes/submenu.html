@@ -61,7 +61,7 @@
     </div>
   </div>
 </nav>
-{% elsif page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony' %}
+{% elsif page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony' or page.url contains 'tymy' %}
 <nav class="c-top-sub-nav u-center-860-down">
   <div class="row">
     <div class="c-top-sub-nav-inner">
@@ -73,6 +73,9 @@
         <ul class="c-top-sub-nav-items">
           <li class="c-top-sub-nav__item">
             <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{ '/tymy/' | relative_url }}">Resortní týmy</a>
           </li>
           <li class="c-top-sub-nav__item">
             <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
