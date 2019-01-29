@@ -12,11 +12,11 @@ Máte zkušenosti s mediální komunikací, organizací a moderováním tiskový
 
 # Co požadujeme?
 * Vzdělání v oboru žurnalistiky, politického marketingu, politologie či příbuzných oborů.
-* Znalost českého mediální prostředí a krajských sdělovacích prostředků.
+* Znalost českého mediálního prostředí a krajských sdělovacích prostředků.
 * Odolnost vůči stresu, odpovědnost a vysoké pracovní nasazení.
 
 # Co nabízíme?
-* Práci na živnostenský list za 30 tisíc Kč měsíčně + cestovné a telefon s datovým tarifem.
+* Práci na živnostenský list s odměnou 30 tisíc Kč měsíčně + cestovné a telefon s datovým tarifem.
 * Spolupráci s výraznými politickými osobnostmi v přátelském prostředí.
 * Zajímavou práci a cenné zkušenosti s fungováním nejrychleji rostoucí politické strany v ČR.
 
