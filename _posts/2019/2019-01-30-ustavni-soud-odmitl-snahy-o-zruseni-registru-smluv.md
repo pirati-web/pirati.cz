@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna spravedlnost-a-justice
 layout:       post
 title:        "Ústavní soud odmítl snahu senátorů o zrušení registru smluv"
-image:        /assets/img/articles/2019/ustavni-soud.JPG 
+image:        /assets/img/articles/2019/ustavni-soud.jpg 
 author:       Jakub Dušánek
 ---
 
