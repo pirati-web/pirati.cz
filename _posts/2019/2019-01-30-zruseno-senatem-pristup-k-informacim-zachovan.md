@@ -5,7 +5,7 @@ tags:         sněmovna spravedlnost-a-justice
 layout:       post
 title:        "Senát navrhl zásadní zhoršení přístupu občanů a novinářů k informacím"
 image:        /assets/img/articles/2018/senat-lvi.jpg 
-author:       Jakub Michálek
+author:       Mediální odbor
 ---
 
 Praha, 30. ledna 2019 – Dnešní rozhodnutí Senátu zásadně zhorší ochranu práva občanů na informace, které jim mají poskytovat státní úřady. Senátoři totiž přijali návrh senátorů ODS na vypuštění informačního příkazu z návrhu novely zavádějící GDPR. To znamená, že bude dál trvat stav, kdy se občan žádající o informace nedomůže účinné nápravy obstrukcí, ačkoliv právo na informace je zaručeno ústavou.
