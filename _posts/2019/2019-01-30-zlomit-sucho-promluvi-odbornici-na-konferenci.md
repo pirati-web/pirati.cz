@@ -5,7 +5,7 @@ tags:         sněmovna životní-prostředí
 layout:       post
 title:        "Jak prolomit sucho? Odpovědi přivezou do Brna odborníci z celé ČR"
 image:        /assets/img/articles/2019/sucho.jpg 
-author:       Jakub Dušánek
+author:       Karolína Sadílková
 ---
 
 Praha, 30. ledna 2019 – V sobotu 2. února 2019 se do brněnského Impact Hubu sjedou experti zabývající se problematikou sucha, aby na vzdělávacím festivalu Prolomit sucho představili modely a příklady toho, jak jde se suchem bojovat. Akci organizuje pirátský poslanec a místopředseda Zemědělského výboru PSP ČR Radek Holomčík.
