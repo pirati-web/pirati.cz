@@ -12,7 +12,7 @@ img: snemovna/obecne/jednani_klubu.jpg
           <div class="vspace-nb-m">
             <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                <a href="#" class="c-simple-accordion-title">Stálé resortní týmy</a>
+                <a href="#" class="c-simple-accordion-title">Resortní týmy</a>
                 {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'resort'" %}
                 {% include team/list-3col.html param=myteams %}
               </li>

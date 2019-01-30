@@ -9,7 +9,7 @@ deputy:
 contact:
 - martin.stancl
 tags:
-- justice
+- spravedlnost
 category: resort
 redmine: https://redmine.pirati.cz/projects/justice/roadmap
 redmine_id: "https://redmine.pirati.cz/projects/justice/issues.json?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=*&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=&c%5B%5D=subject&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=due_date&group_by=assigned_to&t%5B%5D="
@@ -19,12 +19,12 @@ calendar: 0hc5kevgjdgvenr4tt7d34g7pc
 # id google kalendáře s událostmi
 ---
 
-Vítejte na stránce **ústavně právního týmu Pirátů**.
+Vítejte na stránce **resortního týmu Spravedlnost**, který se věnuje otázkám justice, občanského a ústavního práva.
 
 Co děláme?
 ----------
 
-* Prosazujeme [volební program v oblasti justice](/program/psp2017/spravedlnost/),
+* Prosazujeme [volební program v oblasti spravedlnosti](/program/psp2017/spravedlnost/),
 * projednáváme sněmovní tisky, které jsou přikázány [ústavněprávnímu výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4000),
 * zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
