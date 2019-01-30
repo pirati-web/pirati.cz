@@ -5,7 +5,7 @@ tags:         sněmovna spravedlnost-a-justice
 layout:       post
 title:        "Ústavní soud odmítl snahu senátorů o zrušení registru smluv"
 image:        /assets/img/articles/2019/ustavni-soud.jpg 
-author:       Jakub Dušánek
+author:       Karolína Sadílková
 ---
 
 Praha, 30. ledna 2019 - Ústavní soud zamítl návrh senátorů na zrušení zákona o registru smluv. Pokus asi třicítky senátorů z ODS, ČSSD a dalších, kteří se snažili zamezit přístup lidí ke smlouvám podniků, tak byl neúspěšný. Piráti upozornili, že jednání u ÚS bylo zneužíváno k obstrukcím ve Sněmovně při projednání rozšíření registru smluv na ČEZ a České dráhy.
