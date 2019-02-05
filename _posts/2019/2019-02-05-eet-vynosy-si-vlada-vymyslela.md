@@ -18,4 +18,4 @@ Piráti jdou opačným směrem než vláda, proto ve Sněmovně navrhli snížen
 
 * [Efekt EET a kontrolních hlášení na výběr daní za roky 2016 a 2017](https://pirati.cz/assets/pdf/eet-kontrolni-hlaseni.pdf)
 
-* [Základní údaje o výběru EET v roce 20117](https://pirati.cz/assets/pdf/eet-plakaty.pdf)
+* [Základní údaje o výběru EET v roce 2017](https://pirati.cz/assets/pdf/eet-plakaty.pdf)
