@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/frantisek-elfmark.jpg
 author:       Mediální odbor
 ---
 
-Praha, 5. února 2019 – Pirátský poslanec František Elfmark uspořádal dnes pod záštitou Výboru pro životní prostředí kulatý stůl věnovaný výskytu vlků na území České republiky. Debaty se zúčastnili zástupci z Ministerstva životního prostředí, Agentury na ochranu přírody a krajiny, hnutí DUHA, Zemědělské univerzity a Svazu chovatelů ovcí a koz. Řečníci diskutovali především o tom, zda vlci patří na české území, zda mají mít volný prostor k životu nebo jestli mají být zavedeny zóny a jejich kvóty. 
+Praha, 5. února 2019 – Pirátský poslanec František Elfmark uspořádal dnes pod záštitou Výboru pro životní prostředí kulatý stůl věnovaný výskytu vlků na území České republiky. Debaty se zúčastnili zástupci z Ministerstva životního prostředí, Agentury ochrany přírody a krajiny, hnutí DUHA, Zemědělské univerzity a Svazu chovatelů ovcí a koz. Řečníci diskutovali především o tom, zda vlci patří na české území, zda mají mít volný prostor k životu nebo jestli mají být zavedeny zóny a jejich kvóty. 
 
 > „Vlci jsou bezpochyby přirozenou součástí našeho území. Raději než hledat důvody, proč je z krajiny vyhnat, musíme hledat vhodné a pro všechny strany přijatelné řešení, jak k existenci vlků v ČR přistupovat. Zachovejme vlka jako symbol ochránce lesa a respektujme jeho život, neboť kdo chce s vlky býti, musí s nimi výti,” uvedl František Elfmark.
 
