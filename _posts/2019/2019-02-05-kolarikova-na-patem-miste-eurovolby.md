@@ -9,7 +9,7 @@ author:       Mediální odbor
 ---
  
 
-Praha, 5. února 2019 – Jana Koláříková bude kandidovat z pátého místa kandidátky Pirátů pro volby do Evropského parlamentu. Rozhodlo o tom Celostátní fórum Pirátů v online hlasování. Ve 2. kole doplňovacího hlasování získala jihočeská Pirátka 229 hlasů – o tři hlasy víc než druhý kandidát Ondřej Kolek. O prvních čtyřech pozicích rozhodli členové strany už na únorovém Celostátním fóru v Táboře, čelo pirátské volební kandidátky je nyní kompletní.
+Praha, 5. února 2019 – Jana Koláříková bude kandidovat z pátého místa kandidátky Pirátů pro volby do Evropského parlamentu. Rozhodlo o tom Celostátní fórum Pirátů v online hlasování. Ve 2. kole doplňovacího hlasování získala jihočeská Pirátka 229 hlasů – o tři hlasy víc než druhý kandidát Ondřej Kolek. O prvních čtyřech pozicích rozhodli členové strany už na lednovém Celostátním fóru v Táboře, čelo pirátské volební kandidátky je nyní kompletní.
 
 > „Chtěla bych moc poděkovat všem za podporu! Na těsných výsledcích je však vidět, že Piráti si myslí, že jsme s Ondrou Kolkem stejně relevantní kandidáti. Proto bych byla ráda, aby právě on byl zvolen na šestou pozici,“ uvedla po volbě Jana Koláříková.
 
