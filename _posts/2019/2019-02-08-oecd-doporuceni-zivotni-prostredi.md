@@ -3,7 +3,7 @@ date:         2019-02-08
 category:     blog
 tags:         celostátní životní-prostředí sněmovna komentář
 layout:       post
-title:        "Dana Balcarová: Doporučení OECD v oblasti životního by měla být inspirací pro vládu"
+title:        "Dana Balcarová: Doporučení OECD v oblasti životního prostředí by měla být inspirací pro vládu"
 image:        /assets/img/articles/2019/balcarova-video.jpg
 author:       Dana Balcarová
 ---
