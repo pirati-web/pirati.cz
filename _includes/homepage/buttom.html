@@ -1,0 +1,8 @@
+<a href="{% if include.box.url contains "http" %}{{include.box.url}}{% else %}{{include.box.url | relative_url }}{% endif %}" class="c-card c-card--border">
+    <div class="c-card-header">
+        <div class="c-card__title"> {{include.box.text}} </div>
+    </div>
+    <div class="c-card__icon c-card__icon--pos4">
+        <i class="{{include.box.icon}}" aria-hidden="true"></i>
+    </div>
+</a>

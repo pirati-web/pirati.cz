@@ -1,0 +1,9 @@
+<article class="c-card c-card--big">
+    <div class="c-card-header c-card-header--white">
+    </div>
+    <div class="c-card-image-wrapper">
+        <a href="{% if include.url contains "http" %}{{include.url}}{% else %}{{include.url | relative_url }}{% endif %}">
+            <img src="{{ include.foto | prepend: site.baseurl }}" class="c-card__image" alt="{{include.alt}}">
+        </a>
+    </div>
+</article>

@@ -1,0 +1,16 @@
+<div class="row c-hp-banner">
+  <div class="small-12 columns">
+    <a href="{{ include.link }}" title="{{ include.title }}" class="c-hp-banner__link">
+      {% capture img %}{% asset '{{ include.default }}' magick:resize='1135x' @path %}{% endcapture %}
+      {% if include.breakpoint %}
+        <picture class="c-hp-banner__media">
+          <source media="(min-width: {{ include.breakpoint }}px)" srcset="{{ img }}">
+          <img src="{% asset '{{ include.mobile }}' magick:resize='{{ include.breakpoint +"px" }}' @path %}" alt="{{ include.title }}">
+        </picture>
+      {% else %}
+        <img src="{{ img }}" alt="{{ include.title }}"  class="c-hp-banner__media">
+      {% endif %}
+    </a>
+  </div>
+</div>
+
