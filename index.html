@@ -1,32 +1,6 @@
 ---
 layout: default
 rbar: cal, people, video
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/featured-dekujeme.gif
-    alt: Výsledek voleb
-    url: https://volebnimodely.pirati.cz/index_komunal.php
-box0:
-  foto: /assets/img/miscellaneous/featured-dekujeme.gif
-  alt: Výsledek voleb
-  url: https://volebnimodely.pirati.cz/index_komunal.php
-boxes:
-  left-top
-    text: Regiony
-    url: regiony
-    icon: fa fa-map-signs
-  right-top:
-    text: Naši lidé
-    url: lide
-    icon: fa fa-users
-  left-bottom:
-    text: Senát
-    url: https://senat.pirati.cz
-    icon: fa fa-user
-  right-bottom:
-    text: Program<br> Černé na bílém
-    url: program
-    icon: fa fa-newspaper-o u-rotate-345
 ---
 
 {% include homepage/banner.html 
@@ -37,34 +11,7 @@ boxes:
    breakpoint=640
 %}
 
-    <div class="c-banner-container small-12 columns">
-      <div class="o-section">
-        <div class="o-section-inner o-section-inner--noLarge u-cf">
-          <div class="c-banner-section c-banner-primary-section">
-            <!--
-             <iframe width="540" height="304"
-src="https://www.youtube.com/embed/vRcx7L0itTg">
-               -->
-            <article class="c-card c-card--big">
-              {% assign box0 = page.box0 %}
-              <div class="c-card-header c-card-header--white">
-              </div>
-              <div class="c-card-image-wrapper">
-                <a href="{% if box0.url contains "http" %}{{box0.url}}{% else %}{{box0.url | relative_url }}{% endif %}">
-                  <img src="{{ box0.foto | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
-                </a>
-              </div>
-            </article>
- 
-
-          </div>
-          <div class="c-banner-section c-banner-secondary-section">
-               {% include homepage/four-buttoms.html boxes=page.boxes %}
-          </div>
-        </div>
-      </div>
-</div>
-
+{% include title/title_header.html %}
 
 <div class="row">
   <div class="medium-12 large-8 columns">
