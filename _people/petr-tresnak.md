@@ -4,12 +4,11 @@ uid: petr.tresnak
 name:     Petr Třešňák  	# běžně používáné jméno
 fullname: Ing. Petr Třešňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- vary
 - carousel
 - ga
 - psp
 img: people/petr-tresnak.jpg # 165 x 220
-description: poslanec PSP ČR za Karlovarský kraj, starosta Mariánských Lázní, zastupitel za Piráty v Karlovarském kraji, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Karlovarský kraj, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - petr.tresnak@pirati.cz
@@ -35,7 +34,7 @@ redmine: 11
 carousel:
   img: petr-tresnak.jpg
   text: |
-    <p><strong>Starosta Mariánských Lázní</strong>, krajský zastupitel a garant volebního programu pro oblast průmyslu a obchodu</p>
+    <p><strong>Poslanec Parlamentu České republiky</strong> a garant volebního programu pro oblast průmyslu a obchodu</p>
     <p>V současné době je také místopředsedou krajského sdružení Karlovarský kraj. Ing. Petr Třešňák je energetik v oblasti bezpečnosti jaderných elektráren, věnuje se mimo jiné obnovitelným zdrojům a jejich nasazení v prostředí ČR. Jedním z jeho úspěchů je nasazení transparentních bankovních účtů v Mariánských Lázních.</p>
 ---
 
@@ -43,7 +42,7 @@ Petr Třešňák (\*1983) pirátský poslanec PSP ČR za Karlovarský kraj. Rovn
 
 V letech 1998–2007 pobýval převážně v Plzni. Zde absolvoval nejprve SPŠ Dopravní, obor Informační technologie a poté Fakultu elektrotechnickou, ZČU. Pro zájem o ekologii a energetiku se zde zvolil studijní obor jménem Technická ekologie na Katedře energetiky a ekologie, kde se věnoval převážně obnovitelným zdrojům a jejich nasazení v prostředí ČR. Po absolvování fakulty zakotvil v odvětví jaderné energetiky, kde pracuje doposud jako specialista bezpečnosti. Kromě zájmů již zmíněných, které se promítly i do profesního zaměření, byla již od střední školy jeho hlavní zálibou (životním stylem) punk a hardcore hudba. V současnosti stále hraje v kapelách Ethos of Nemesis a Řetězová reakce.
 
-V roce 2014 byl ve volbách do zastupitelstev obcí zvolen a stal se místostarostou Mariánských lázní. V roce 2015, po rezignaci rovněž pirátského starosty Ing. arch. Vojtěcha Franty, si s ním vyměnil místo ve vedení města a stal se starostou.
+V roce 2014 byl ve volbách do zastupitelstev obcí zvolen a stal se místostarostou Mariánských lázní. V roce 2015, po rezignaci rovněž pirátského starosty Ing. arch. Vojtěcha Franty, si s ním vyměnil místo ve vedení města a stal se starostou. 
 
 Po parlamentních volbách 2017 se stal poslancem za Karlovarský kraj a na pozici starosty z důvodu souběhu funkcí rezignoval. Nyní má na starosti parlamentní resortní tým zdravotnictví a MPO.
 
