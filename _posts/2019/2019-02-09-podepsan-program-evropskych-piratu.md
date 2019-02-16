@@ -5,7 +5,7 @@ tags:         Evropská-unie
 layout:       post
 title:        "Piráti podepsali společný program evropských pirátských stran"
 image:        /assets/img/articles/2019/gregorova.jpg
-author:       Dana Balcarová
+author:       Mediální odbor
 ---
 
 Lucemburk, 9. února 2019 - Svůj podpis pod společný program evropských pirátských stran pro volby do Evropského parlamentu dnes na setkání v Lucemburku připojili i zástupcí České pirátské strany. České Piráty na setkání Evropské pirátské strany kromě jiných reprezentoval lídr české kandidátky Marcel Kolaja a dvojka na kandidátce a předsedkyně Evropské pirátské strany Markéta Gregorová. 
