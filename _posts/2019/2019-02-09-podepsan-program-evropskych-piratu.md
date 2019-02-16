@@ -18,5 +18,5 @@ Stejně jako před pěti lety i pro letošní volby do Evropského parlamentu, k
 
 > „Procházíme turbulentním vývojem daným vzestupem digitální éry. Přejeme si, aby nové technologie chránily lidskou svobodu, nikoli, aby byly zneužívány k utahování šroubů. Chceme lidskou a moderní Evropu, která bude udávat světu kurz v otázkách využívání technologií, inovací, demokracie, občanské participace a životního prostředí. Jsem přesvědčena, že hlas Pirátů v Evropě bude po květnových volbách silnější. Z celého srdce přeji českým Pirátům takový úspěch ve volbách, jaký si předsevzali,“ řekla po tiskové konferenci pirátská europoslankyně Julia Reda (Pirátská strana Německa).  
 
-* [Společný program pirátkských stran pro volby do Evropského parlamentu 2019](https://wiki.ppeu.net/doku.php?id=programme%3Aceep2019&fbclid=IwAR2DMRR0DhYD7SZhHAQgMgaL_8Fu2jg66Yi4N9fpCmySoJDwaTcvB-GJKHg)
+* [Společný program pirátských stran pro volby do Evropského parlamentu 2019 – anglická verze](https://wiki.ppeu.net/doku.php?id=programme%3Aceep2019&fbclid=IwAR2DMRR0DhYD7SZhHAQgMgaL_8Fu2jg66Yi4N9fpCmySoJDwaTcvB-GJKHg)
 * [Navržený text memoranda ke společnému programu](http://pirati.cz/assets/pdf/memorandum.pdf)
