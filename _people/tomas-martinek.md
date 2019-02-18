@@ -52,7 +52,7 @@ Poslanecká sněmovna
 
 ### Výbory poslance
 - Volební výbor, místopředseda
-- Kontrolní výbor
+- Rozpočtový výbor
 
 ### Komise poslance
 - Stálá komise pro kontrolu poskytnutí údajů z centrální evidence účtů
