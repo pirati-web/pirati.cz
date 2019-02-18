@@ -1,7 +1,7 @@
 .c-welcome-header {
   height: 350px;
   position: relative;
-  background: url('../img/header/volby2018d.png') no-repeat;
+  background: url('../img/header/piratipracuji4.png') no-repeat;
   background-size: auto;
   background-position: center 70%;
   overflow: hidden;
@@ -11,14 +11,14 @@
   }
 
   @include breakpoint(medium down) {
-    background: url('../img/header/banner-mobile-1080x2522px-scroll.jpg') no-repeat;
+    background: url('../img/header/piratipracuji5.png') no-repeat;
     height: 1700px;
     background-size: 100%;
     background-position: 20% 70%;
   }
 
   @include breakpoint(640px down) {
-    background: url('../img/header/banner-mobile-432-scroll.jpg') no-repeat;
+    background: url('../img/header/piratipracuji5.png') no-repeat;
     height: 1000px;
     background-size: 100%;
     background-position: 27% 85%;
@@ -42,7 +42,7 @@
       right: -1rem;
       width: 442px;
       height: 325px;
-      background: url('../img/miscellaneous/people-big.png') no-repeat;
+      background: url('../img/header/piratipracuji4.png') no-repeat;
       background-size: 100%;
       transform-origin: bottom left;
     }
