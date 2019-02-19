@@ -50,6 +50,6 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním hospodářskéh
 * **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, poslanec, garant programového bodu [Průmysl a obchod](https://www.pirati.cz/program/psp2017/prumysl-a-obchod/), člen [Podvýboru pro energetiku](http://www.psp.cz/sqw/hp.sqw?k=3521)
 * **[Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek/)**, poslanec odpovědný za oblast průmyslu a obchodu, místopředseda [Hospodářského výboru](http://www.psp.cz/sqw/hp.sqw?k=3500&o=8), předseda [Podvýboru pro ICT, telekomunikace a digitální ekonomiku](http://www.psp.cz/sqw/hp.sqw?k=3528&o=8), místopředseda [Podvýboru pro ochranu spotřebitele](http://www.psp.cz/sqw/hp.sqw?k=3527&o=8)
 * **Josef Pavlovic**, asistent poslance Petra Třešňáka
-* **Kamila Repaňová**, asistent resortního týmu a poslance Martina Jiránka
+* **Kamila Repaňová**, asistentka resortního týmu a poslance Martina Jiránka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Rozpočtového výboru a resortního týmu dopravy).
