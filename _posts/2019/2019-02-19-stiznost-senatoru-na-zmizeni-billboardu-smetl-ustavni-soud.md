@@ -3,7 +3,7 @@ date:         2019-02-19
 category:     blog
 tags:         komentář doprava celostátní
 layout:       post
-title:        "Komentář poslance Onřeje Polanského: Ústavní soud smetl stížnost senátorů – billboardy z dálnic zmizí, otázkou je kdy"
+title:        "Komentář poslance Ondřeje Polanského: Ústavní soud smetl stížnost senátorů – billboardy z dálnic zmizí, otázkou je kdy"
 image:        /assets/img/articles/2018/polansky.jpg
 author:       Ondřej Polanský
 ---
