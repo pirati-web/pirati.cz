@@ -18,7 +18,7 @@ Prvním krokem k regulaci je vypovězení Úmluvy o potlačování obchodu s lid
 
 Piráti mají podporu poslanců sněmovních stran, kteří návrh spolupodepsali nebo podpořili - Bohuslava Svobody (ODS), Heleny Válkové (ANO), Petra Dolínka (ČSSD). Návrh přislíbila podpořit i TOP 09. Podle stanoviska Parlamentního institutu byla již vypovídaná úmluva nahrazena modernějšími smlouvami. S vypovězením souhlasí také Ministerstvo zahraničních věcí ČR. Pokud návrh usnesení projde Sněmovnou, vláda do roka předloží návrh na výpověď parlamentu a Ministerstvo vnitra ČR zpracuje zákon o regulaci prostituce, takže by mohl začít platit ještě v tomto volebním období.
 
-Na diskusi návrhů a tezí popisujících žádoucí způsob regulace se podílely neziskové organizace pracující v této oblasti, zástupci policie, erotického průmyslu a další aktéři. Návrh má podporu neziskových organizací jako Rozkoš bez rizika, Ulice Plzeň,  Network East West a dalších, které zaslaly k návrhu společné stanovisko, ze kterého části citujeme výňatky: 
+Na diskusi návrhů a tezí popisujících žádoucí způsob regulace se podíleli neziskové organizace pracující v této oblasti, zástupci policie, erotického průmyslu a další aktéři. Návrh má podporu neziskových organizací jako Rozkoš bez rizika, Ulice Plzeň,  Network East West a dalších, které zaslaly k návrhu společné stanovisko, ze kterého části citujeme výňatky: 
 
 * Návrh Pirátů opravdu akcentuje zlepšení postavení samotných sexuálních pracujících.
 
