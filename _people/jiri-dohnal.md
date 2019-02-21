@@ -5,7 +5,7 @@ fullname: Jiří Dohnal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jiri-dohnal.jpg   # 165 x 220
-description: Předseda výboru ZHMP pro legislativu, člen zastupitelstva městké části Praha 11             	# kratký popis, max 160 znaků
+description: Předseda výboru ZHMP pro legislativu, starosta MČ Praha 11, člen zastupitelstva městké části Praha 11             	# kratký popis, max 160 znaků
 mail:
 - jiri.dohnal@pirati.cz
 mob:			  
