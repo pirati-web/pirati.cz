@@ -1,7 +1,7 @@
 ---
 date:         2019-02-21
 category:     blog
-tags:         sněmovna celost8tn9 digitaliyace
+tags:         sněmovna celostátní digitalizace
 layout:       post
 title:        "Piráti se aktivně podílí na digitalizaci Česka. Připravili akční plán pro zavedení otevřeného softwaru na úřadech"
 image:        /assets/img/articles/2018/ondrej-profant1.jpg
