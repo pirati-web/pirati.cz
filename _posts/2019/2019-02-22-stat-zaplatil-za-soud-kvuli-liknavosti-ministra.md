@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/michalek-snemovna.jpg
 author:       Mediální odbor
 ---
 
-22. února 2019 – Pirátský poslanec Jakub Michálek se v létě minulého roku obrátil na ministra spravedlnosti Jana Kněžínka s žádostí o informace o soudcích a soudních řízeních. Žádal životopisy jmenovaných soudců a data, ze kterých lze spočítat průměrnou dobu řízení. Ministr na jeho žádost ani stížnost nicméně nijak nereagoval. Michálkovi proto nezbylo než se odpovědi domáhat soudní cestou. Ta nakonec přišla až po podané žalobě. Soud nyní rozhodl, že mu ministerstvo musí jako náhradu nákladů řízení zaplatit přes 13 tisíc korun.
+Praha, 22. února 2019 – Pirátský poslanec Jakub Michálek se v létě minulého roku obrátil na ministra spravedlnosti Jana Kněžínka s žádostí o informace o soudcích a soudních řízeních. Žádal životopisy jmenovaných soudců a data, ze kterých lze spočítat průměrnou dobu řízení. Ministr na jeho žádost ani stížnost nicméně nijak nereagoval. Michálkovi proto nezbylo než se odpovědi domáhat soudní cestou. Ta nakonec přišla až po podané žalobě. Soud nyní rozhodl, že mu ministerstvo musí jako náhradu nákladů řízení zaplatit přes 13 tisíc korun.
 
 > „Když jsem se ani po více než třech měsících odpovědi na svou žádost nedočkal, využil jsem možnosti podat žalobu proti nečinnosti. Ministerstvo odpověď zaslalo až po jejím podání. Jedná se o ukázku toho, jak ministerstvo s odpovědí otálí, ale přitom musí vědět, že se žadatel může obrátit na správní soudy, které mu poté přiřknou náhradu na zastoupení. Stát tak zbytečně přichází o peníze na náhradách nákladů řízení,“ uvedl k tomu předseda poslaneckého klubu Pirátů Michálek. 
 
