@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní zdravotnictví
 layout:       post
 title:        "Přestaňte hazardovat se zdravotnictvím, varují Piráti vládu"
-image:        /assets/img/articles/2018/tresnak.jpg
+image:        /assets/img/articles/2019/tresnak-richterova.jpg
 author:       Mediální odbor
 ---
 
