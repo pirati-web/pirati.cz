@@ -29,7 +29,7 @@ Co děláme?
 * pokrýváme oblasti státní správy, územní samosprávy, státního občanství a evidence obyvatel, transparentnosti veřejné správy, kontroly finančního hospodaření, boje proti korupci, územního rozvoje a urbanismu, regionální politiky, bydlení, rozvoje venkova, cestovního ruchu a turistiky, pohřebnictví, způsobu odměňování ve veřejné správě,
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci ministerstva vnitra v obasti veřejné správy a ministerstva pro místní rozvoj,
-* rozpracováváme dlouhodobý program pro [e-government](https://www.pirati.cz/program/dlouhodoby/e-government/), [Internet](https://www.pirati.cz/program/dlouhodoby/internet/), [služební zákon](https://www.pirati.cz/program/dlouhodoby/sluzebni-zakon/) a dostupné bydlení: [1](https://www.pirati.cz/tiskove-zpravy/bartos-richterova-simral-jednali-mmr.html) [2](https://www.pirati.cz/tiskove-zpravy/pirati-pripravuji-legislativu-k-socialnimu-bydleni.html) [3](https://www.pirati.cz/tiskove-zpravy/vyloucenych-lokalit-pribyva.html) [4](https://www.pirati.cz/tiskove-zpravy/pirati-radi-ministryni-jak-zvladnout-airbnb-a-drahe-bydleni.html)
+* rozpracováváme dlouhodobý program pro rozvoj venkova a regionů, stavební legislativu, [služební zákon](https://www.pirati.cz/program/dlouhodoby/sluzebni-zakon/) a [dostupné bydlení](https://www.socialni-a-dostupne-bydleni.cz/): [1](https://www.pirati.cz/tiskove-zpravy/bartos-richterova-simral-jednali-mmr.html) [2](https://www.pirati.cz/tiskove-zpravy/pirati-pripravuji-legislativu-k-socialnimu-bydleni.html) [3](https://www.pirati.cz/tiskove-zpravy/vyloucenych-lokalit-pribyva.html) [4](https://www.pirati.cz/tiskove-zpravy/pirati-radi-ministryni-jak-zvladnout-airbnb-a-drahe-bydleni.html)
 
 Jak se můžete zapojit?
 -----------------------------
@@ -47,12 +47,16 @@ Tým veřejné správy a regionálního rozvoje se schází podle potřeby, obvy
 Členové týmu jsou:
 
 * [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos), předseda výboru pro veřejnou správu a regionální rozvoj
-* [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka výboru pro zdravotnictví, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí, 
+* [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí 
 * [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), předseda podvýboru pro e-government výboru veřejné správy a regionálního rozvoje, garant programového bodu Informatika
-* [Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik), člen podvýboru pro cestovní ruch výboru veřejné správy a regionálního rozvoje
-* [Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak), člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje
+* [Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik), člen podvýboru pro cestovní ruch výboru veřejné správy a regionálního rozvoje a podvýboru pro ochranu přírody a krajiny výboru pro životní prostředí
+* [Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek), člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje a podvýboru pro podnikatelské prostředí hospodářského výboru
+* [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
 * [Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta), garant programového bodu Regionální rozvoj, krajský radní Karlovarského kraje
-* [Zuzana Freitas](https://www.pirati.cz/lide/zuzana-freitas), aistentka poslankyně Olgy Richterové
+* [Zuzana Freitas](https://www.pirati.cz/lide/zuzana-freitas), asistentka poslankyně Olgy Richterové
+* Kamila Repaňová, asistentka poslance Martina Jiránka
+* Jakub Brejša, asistent poslance Františka Elfmarka
+* Jiří Valenta, asistent poslance Radka Holomčíka
 * [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova), tajemnice-asistentka poslance Ivana Bartoše
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
