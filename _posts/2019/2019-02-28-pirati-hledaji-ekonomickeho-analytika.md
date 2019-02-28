@@ -18,7 +18,7 @@ Baví vás práce s čísly? Dovedete efektně a srozumitelně prezentovat výsl
 # Co nabízíme?
 * Spolupráci s výraznými politickými osobnostmi nejrychleji rostoucí politické strany v ČR a zázemí v atraktivním prostředí Poslanecké sněmovny.
 * Možnost osobně se podílet na zavádění principů transparentnosti, řešit hospodářské kauzy a zabývat se klíčovými politicko-ekonomickými tématy.
-*	Práci na živnostenský list s odměnou až 47 tisíc Kč měsíčně a flexibilní pracovní dobou, jejíž rozsah lze individuálně přizpůsobit.
+*	Práci na živnostenský list s odměnou až 47 tisíc Kč měsíčně a flexibilní pracovní dobou.
 
 Termín nástupu je v dubnu 2019.
 **[Podrobné informace včetně přihlašovacího formuláře naleznete zde](http://www.lmcg2.com/pd/1358937332/?rps=202).**
