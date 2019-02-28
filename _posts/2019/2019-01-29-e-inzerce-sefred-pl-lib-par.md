@@ -1,7 +1,7 @@
 ---
 date:         2019-01-29
 category:     blog
-tags:         inzerat
+tags:         inzerát
 layout:       post
 title:        "Piráti vypisují otevřené výběrové řízení na šéfredaktora Pirátských listů a PR spojku"
 image:        /assets/img/articles/2019/inzerat.jpg 
