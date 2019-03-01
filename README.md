@@ -4,53 +4,11 @@
 
 ## Lokální spuštění
 
-Instalacee na **Fedora 27+**: 
+stejné jako na webech s jekyll-theme-pirati
 
-```
-sudo dnf group install "C Development Tools and Libraries"
-sudo dnf install ruby-devel rubygem-jekyll rubygem-bundler rubygem-nokogiri libffi zlib`
-```
+https://raw.githubusercontent.com/pirati-web/praha.pirati.cz/master/odmeny.md
 
-Instalace **Ubuntu 16.04 LTS** (funguje též pro ubuntu podsystém ve **Windows 10**):
-
-```
-sudo apt-get install ruby2.3-dev gcc make libghc-zlib-dev libffi-dev npm
-gem install rubygems-update
-gem install jekyll bundler
-sudo npm install -g bower
-sudo npm install --global gulp-cli
-```
-
-**Společné**
-
-Přejděte do složky s vyklonovaným projektem:
-
-```
-npm install                             # Nainstaluje gulp apod
-bundle install                          # Nainstaluje lokálně potřebné gemy (např. jekyll, jekyll-paginate apod)
-./node_modules/bower/bin/bower install  # Nainstaluje front-endové knihovny (Foundation, Jquery, ...)
-./node_modules/gulp/bin/gulp.js         # Minifikuje JS 
-```
-
-Repozitář můžeme naklonovat do jakékoliv složky (nemusí být ve `/var/www/`).
-
-`bundle exec jekyll server`, což stránku zkompiluje, spustí a ještě je stránka přístupná skrz localhost: `http://127.0.0.1:4000`
-
-V případě puštění v kontejneru při selhání konverze scss zkontrolujte nastavení `locale`. Mělo by být nastaveno `utf-8`.
-Je-li `POSIX`, doinstalujte např. balíček:
-`sudo apt-get install locales`
-
-A potom `dpkg-reconfigure locales` - zde vyberte třeba `92. cs_CZ.UTF-8 UTF-8`  
-A vložte do ~/.bashrc
-```
-export LC_ALL=cs_CZ.UTF-8
-export LANG=cs_CZ.UTF-8
-export LANGUAGE=cs_CZ.UTF-8
-```
-
-Popřípadě můžeme spustit jen: `bundle exec jekyll build`, což do složky `_site` připraví kompletní web (ten můžeme otevřít z prohlíže pomocí klavesové zkratky `ctrl+o`).
-
-
+POZOR tento web používá stejné gemy, ale theme není zaplé!
 ## Struktura
 
 Samotné stránky jsou v markdownu nebo v html (složitější struktura, např. vícesloupců apod)
