@@ -49,7 +49,7 @@ Jak se můžete zapojit?
 ----------------------
 
 Nabízíme šanci právníkům, ekonomům a odborníkům na zemědělství, lesnictví, ochranu půdy i vody, vodohospodářům a dalším specialistům, spolupracovat na zlepšení situace v České republice, a pro studenty něco se naučit a poznat zajímavé prostředí poslaneckého klubu Pirátské strany.
-Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím Jiřímu Valentovi na tel. 778 111 463 nebo na jiri.valenta@psp.cz. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím Martinovi Huňady na tel. 732 251 216 nebo na martin.hunady@pirati.cz. Rádi vás pozveme na naše setkání.
 
 Fungování týmu
 ----------------------
@@ -59,6 +59,7 @@ Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v
 * **[Aleš Jakl](https://www.pirati.cz/lide/ales-jakl/)**, garant [zemědělského programu](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
 * **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
 * **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
+* Martin Huňady, politolog, asistent poslance Jana Pošváře
 * Jiří Valenta, právník, asistent poslance Radka Holomčíka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Výboru pro životní prostředí, Hospodářského výboru a Rozpočtového výboru).
