@@ -9,7 +9,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: 		people/jakub-michalek.jpg    # 165 x 220
-description: 			předseda poslaneckého klubu Pirátů a místopředseda strany             	        			# kratký popis, max 160 znaků
+description: 			předseda poslaneckého klubu Pirátů a 3. místopředseda strany             	        			# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - jakub.michalek@pirati.cz
