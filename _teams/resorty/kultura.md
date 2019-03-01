@@ -58,7 +58,8 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)** - architektura, veřejný prostor
 * **Vojtěch Ertl** - architektura
 * **Štěpán Drtina** - asistent poslankyně Lenky Kozlové
-* **Jaroslav Němec** - památková péče 
-* **Jan Fíla** - asistent poslankyně Lenky Kozlové 
+* **Jan Fíla** - asistent poslankyně Lenky Kozlové
+* **Kristyna Boháčová**
+* **Anna Vašatová**
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
