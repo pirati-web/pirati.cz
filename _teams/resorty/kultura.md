@@ -62,5 +62,4 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **Kristyna Boháčová**
 * **Anna Vašatová**
 
-
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
