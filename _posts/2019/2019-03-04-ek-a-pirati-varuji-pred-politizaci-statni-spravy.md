@@ -1,10 +1,10 @@
 ---
-date:         2019-03-03
+date:         2019-03-04
 category:     blog
-tags:         sněmovna informatika otevřený-stát
+tags:         sněmovna informatika otevřený-stát celostátní
 layout:       post
 title:        "Piráti a Evropská komise varují před postupující politizací a destabilizací státní správy"
-image:        /assets/img/articles/2019ivan-bartos-parlament.JPG
+image:        /assets/img/articles/2019/ivan-bartos-parlament.JPG
 author:       Mediální odbor
 ---
  
