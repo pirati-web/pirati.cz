@@ -18,7 +18,6 @@ Na analytický tým Pirátů se začali obracet zaměstnanci státní správy, k
 > „Státní správa se vrací pod vliv politické libovůle a zaměstnanci státní správy, kteří si zaslouží uznání, naopak čelí degradaci,“ uvedl předseda Pirátů Ivan Bartoš.
 
 V roce 2014 přijala ČR nový služební zákon jako podmínku pro čerpání evropských dotací. Cílem bylo profesionalizovat a odpolitizovat státní správu. Nyní jsou evropské dotace opět v ohrožení. Již v dubnu minulého roku zaslala Evropská komise Ministerstvu vnitra dopis, ve kterém varovala před chystanou novelou služebního zákona. Tato novela vedla například k politizaci státních tajemníků a možnosti jejich jednoduchého odvolání vládou. Státní tajemníci by přitom měli být garantem nezávislosti státní správy na politice. Nyní 27. února 2019 Evropská komise vydala [analýzu situace v ČR, ve které uvedla](https://www.vlada.cz/assets/evropske-zalezitosti/aktualne/2019-european-semester-country-report-czech-republic_cs.pdf): 
-: 
 
 > „Zmiňovaná novela budí určité obavy, pokud jde o stabilitu a nezávislost státní služby. (…) Česká republika má v rámci EU pořád podprůměrné výsledky v oblasti elektronické veřejné správy. (…) Koordinace a sdílení informací v rámci digitálních veřejných služeb zůstávají nedostatečné.“
 
