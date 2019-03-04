@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní evropská-unie vláda
 layout:       post
 title:        "Piráti podali výzvu Evropské komisi: Požadují, aby rozhodla v kauze střetu zájmů členů Vlády ČR"
-image:        /assets/img/articles/2019/ivan-bartos-zelena.jpg
+image:        /assets/img/articles/2019/ivan-bartos-balkon.jpeg
 author:       Mediální odbor
 ---
  
