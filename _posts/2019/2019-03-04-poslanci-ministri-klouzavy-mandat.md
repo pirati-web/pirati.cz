@@ -18,20 +18,20 @@ Michálek představil návrh na zavedení klouzavého mandátu v únoru. Poslanc
 Michálek pro svůj návrh získal širokou podporu poslanců napříč Sněmovnou. Návrh podporují strany, které dohromady disponují potřebnou ústavní většinou. Podepsalo jej 46 poslanců včetně Ivana Bartoše, Jaroslava Faltýnka, Heleny Válkové, Tomia Okamury nebo Jana Farského.
 
 
-** Přítomnost členů vlády, kteří jsou zároveň poslanci, ve Sněmovně v období 27. června 2018 až 31. ledna 2019: **
+**Přítomnost členů vlády, kteří jsou zároveň poslanci, ve Sněmovně v období 27. června 2018 až 31. ledna 2019:**
 
-Andrej Babiš – 32,6 %
+* Andrej Babiš – 32,6 %
 
-Antonín Staněk – 50,1 %
+* Antonín Staněk – 50,1 %
 
-Jan Hamáček – 58,2 %
+* Jan Hamáček – 58,2 %
 
-Dan Ťok – 71,5 %
+* Dan Ťok – 71,5 %
 
-Adam Vojtěch – 76,7 %
+* Adam Vojtěch – 76,7 %
 
-Richard Brabec – 81,8 %
+* Richard Brabec – 81,8 %
 
-Klára Dostálová – 89,9 %
+* Klára Dostálová – 89,9 %
 
-Průměrný poslanec – 82, 3 %
+* Průměrný poslanec – 82, 3 %
