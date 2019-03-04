@@ -7,20 +7,15 @@ rbar: ""
 description: Seznam medializovaných výsledků
 keywords: medializované, výsledky, seznam
 redmine-json-url-old: https://redmine.pirati.cz/projects/snemovna/issues.json?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc%2C%2C&f%5B%5D=issue_tags&op%5Bissue_tags%5D=%3D&v%5Bissue_tags%5D%5B%5D=vysledek&f%5B%5D=&c%5B%5D=subject&c%5B%5D=tags_relations&group_by=&c%5B%5D=description&t%5B%5D=
-redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=500&utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc%2C%2C&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=28&f%5B%5D=status_id&op%5Bstatus_id%5D=%21&v%5Bstatus_id%5D%5B%5D=6&f%5B%5D=&c%5B%5D=subject&c%5B%5D=tags_relations&group_by=project&t%5B%5D=
+redmine-json-url: http://redmineapi.mfnet.cz
 ---
 
-<section class="o-section o-section--spaceBot">
-  <div class="o-section-inner">
+<section class="o-section" style='padding-top:0;'>
+  <div>
     <div class="o-section-block">
       <div class="c-BasicPage">
         <div class="c-BasicPage-content">
           <div class="row">
-            <div class="columns small-12">
-              
-              {{page.maintext}}
-              
-            </div>
             
             {% if page.redmine-json-url %}
             <div class="columns small-12">
@@ -38,13 +33,19 @@ redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=
                   </div>
                 </div>
                 
+
                 <div class="row" id="loading">
                   <div class="small-12 columns">
                     <p>
-                      <i class="fa fa-spinner fa-pulse fa-fw"></i> Nahrávám data, chvíli strpení ...
-                      <span class="sr-only">Loading...</span>
+                      <i class="fa fa-spinner fa-pulse fa-fw"></i> Probíhá aktualizace dat, prosím o strpení ...
+                      <span class="sr-only">Loading data ...</span>
                     </p>  
                   </div>  
+                </div>
+
+                <div class="row" data-sticky-container>
+                  <div id='sticky-nav' class="small-12 columns" data-sticky data-margin-top='0' data-margin-bottom='0' data-anchor="redmine_vysledky">
+                  </div>
                 </div>
                 
                 <div class="reveal large" id="reveal1" style='border:0; padding:0.4rem; max-width:56em;' data-reveal data-show-delay='200' data-hide-delay='200'>
@@ -65,7 +66,7 @@ redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=
                 
                 
                 
-                <div class="grid row" id="masonry_container" style='margin-bottom:0.8em;'>
+                <div class="grid row" id="masonry_container" style='margin-bottom:1.9em;'>
                   <div class="grid-sizer small-12 medium-4 large-3 columns" style='padding-left:0.625rem; padding-right:0.625rem;'></div>
                   <div class="small-12 columns grid-item" style='padding-left:0.625rem; padding-right:0.625rem;'>
                     <h1 class='head'></h1>
@@ -80,15 +81,24 @@ redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=
                   </div>
                 </div>
 
-                <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/bebas" type="text/css"/>
+                <link rel="stylesheet" media="screen" href="https://piratiliberec.mfnet.cz/fontscdn/bebasneueregular.css" type="text/css"/>
+      
                 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&amp;subset=latin-ext" rel="stylesheet">
                 <style>
-                h1.head, h2.head, h3.nadpis {text-transform: uppercase; font-weight: normal !important; font-family: 'BebasNeueRegular';}
+                h1.head, h2.head, h3.nadpis {text-transform: uppercase; font-weight: normal !important; font-family: 'BebasNeue';}
                 h1.head {font-size:200%;}
                 div.callout.active {background-color:#f0f0f0;}
                 div.callout {transition: all 1s ease; color:#000000; border:1px solid #f0f0f0;}
                 div.callout:hover {background-color:#f0f0f0;}
                 #loading {transition:all 1s ease;}
+                #popis {padding:0;}
+                #sticky-nav {width:100%; padding:0.4em; opacity:0; transition:all 1s ease;}
+                #sticky-nav.loaded {background-color:rgba(255,255,255,0.8); opacity:1;}
+                #sticky-nav a {margin:0.2em; padding:0.2em 0.6em 0em 0.3em; font-size:108%; display:inline-block; text-transform: uppercase; color:#000000; font-family: 'BebasNeue', sans-serif; text-decoration:none; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; transition:all 1s ease; border:1px solid #e8e8e8;}
+                #sticky-nav a.loaded {background-color:#ffffff;}
+                #sticky-nav a:hover {background-color:#f0f0f0;}
+                #sticky-nav a.is-active {background-color:#2785ce;}
+                #sticky-nav a img {width:1.2em; height:1.2em;}
                 .mas_content {text-decoration:none; color:inherit;}
                 .mas_content h3 {color:inherit; text-decoration:none;}
                 .mas_content p.perex {color:inherit; font-size:92%; font-family: 'Roboto Condensed', sans-serif; line-height:1.4; text-align:left; text-decoration:none; margin:0;}
@@ -111,7 +121,12 @@ redmine-json-url: https://redmine.pirati.cz/projects/snemovna/issues.json?limit=
                     return;
                   }
                   xhr.onload = function() {
+                    var d = new Date();
+                    var tsm0 = d.getMilliseconds() + d.getSeconds()*1000;
                     var doc = JSON.parse(xhr.responseText);
+                    var d = new Date();
+                    var tsm1 = d.getMilliseconds() + d.getSeconds()*1000;
+                    console.log('parse time:'+(tsm1-tsm0)+'ms');
                     var div = document.getElementById('redmine_vysledky');
                     pirates.integrations.redmine.masonry(doc);
                   }
