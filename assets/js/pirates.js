@@ -63,7 +63,9 @@ pirates.integrations = {
       Foundation.reInit('accordion');      
     },
     masonry: function(doc) {
-
+      
+      var d = new Date();
+      var tsm2 = d.getMilliseconds() + d.getSeconds()*1000;
       icons={
       'resort-doprava-a-logistika':'doprava.svg',
       'resort-evropska-unie-zahranici-obrana':'mezinarodni-vztahy.svg',
@@ -98,31 +100,54 @@ pirates.integrations = {
       'resort-kultura':2
       };
       
+
+      // clone
       masCopy=$("#masonry_container").clone(true);
-      divCopy=$("#masonry_container .cloner2").clone(true);
+      divCopy=$("#masonry_container .cloner2").clone(true);      
       divCopy.css('display', 'true');
+      
+      // adding beside DOM (not reflowing after each append)
+      // todo: rewrite jqury routines to vanilla (much faster)
+      var c=$("<div />").addClass('container');
+      
       var proj=[];
-      doc.issues = sortJSON(doc.issues,pref);
+      var masNew=[];
+      var inv=$('#redmine_vysledky #inv');
+            
+      var nav = document.querySelector('#sticky-nav');
+      
+      var pocetdoc=doc.issues.length;
+      console.log('Pocet polozek:'+pocetdoc);
       for(var i in doc.issues) {
         pd=doc.issues[i].project.name;
         pid=slug($.trim(pd));
+        // main sections (resorts)
         if (jQuery.inArray(pid,proj)==-1) {
           proj.push(pid);
-          var masNew=masCopy.clone().appendTo("#redmine_vysledky");
-          masNew.attr("id","ms_"+pid);
+          masNew[pid]=masCopy.clone().appendTo(c);            
+          masNew[pid].attr("id","ms_"+pid);
           if (icons[pid]!==undefined) {
-            $(".head",masNew).html("<img style='width:1em;height:1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd+"</span>");
+            $(".head",masNew[pid]).html("<img style='width:1.1em;height:1.1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd+"</span>");
             } else {
-            $(".head",masNew).text(pd);
+            $(".head",masNew[pid]).text(pd);
             }
+          // add navigation link to sticky nav
+          var navlink = document.createElement('a');
+          navlink.setAttribute('href',"#ms_"+pid);
+          if (icons[pid]!==undefined) {
+            navlink.innerHTML = "<img src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd.substr(7)+"</span>";
+            } else {
+            navlink.innerHTML = pd;
+            }
+          nav.appendChild(navlink);  
           }
-        //var divNew=divCopy.clone().appendTo("#masonry_container");
-        var divNew=divCopy.clone().appendTo("#ms_"+pid);
+        // content  
+        var divNew=divCopy.clone().appendTo(masNew[pid]);
         if (doc.issues[i].description!="") {
           descHtml=md.render(doc.issues[i].description); 
           var mess = $.parseHTML(descHtml);
           doc.issues[i].desc_html=descHtml;
-          bd = $('#inv').html('').append(mess);
+          bd = inv.html('').append(mess);
           first_p = bd.find('p:first').html();
           bd.find('p:first').remove();
           desc_rest=bd.html();
@@ -139,79 +164,110 @@ pirates.integrations = {
         if ("custom_fields" in doc.issues[i]) {
           $.each( doc.issues[i].custom_fields, function( key, value ) {
             if ((value.id==48) && (value.value!="")) {
-              console.log('img:'+value.value);
               first_p="<img src='"+value.value+"' style='margin-bottom:0.6em;'><br/>"+first_p;
               doc.issues[i].img=value.value;
               }             
             });
           }
-        //first_p=first_p.replace(/(\s|^)(a|i|k|o|s|u|v|z)(\s+)([^\p{Cc}\p{Cf}\p{zL}\p{Zp}]+)/gmi , '$1$2&nbsp;$4');
         first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
         $(".perex",divNew).html(first_p);
         $("a.mas_content",divNew).data( "id", doc.issues[i].id);
         $("a.mas_content",divNew).data( "index",i);
-        //console.log('val: '+$("a.content",divNew).data( "id"));
         divNew.attr("id",doc.issues[i].id);
         divNew.show();
-        console.log('id:'+doc.issues[i].id+' [prio:'+doc.issues[i].priority.id+']');
         }
-      console.log('proj:'+proj);  
+        
+      $("#redmine_vysledky").append(c);  
+        
+      var d = new Date();
+      var tsm4 = d.getMilliseconds() + d.getSeconds()*1000;
+      console.log('Populating DOM (optimized jQuery):'+(tsm4-tsm2)+'ms');
+      
+      // after data processing
+        
       $(document).ready(function () {
-        $("#loading").fadeOut("slow" );   
+        $("#loading").fadeOut("slow");
+             
         var url=window.location.href;
         var path=window.location.pathname;
         var hash=window.location.hash;
         console.log('url:'+url);
         console.log('path:'+path);
         console.log('hash:'+hash);
-        console.log('masonry ...');
+        console.log('starting masonry ...');
         
+        // masonry initialization (resort)
         var container = document.querySelector('#redmine_vysledky');
         var msnry=[];
         $.each(proj, function( key, value ) {
+          var msid="#ms_"+value;
           msnry[key] = new Masonry("#ms_"+value, {
             itemSelector: '#ms_'+value+' .grid-item',
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          });
-        
-        /*      
-        var container = document.querySelector('.grid');
-        var msnry = new Masonry( container, {
-          itemSelector: '.grid .grid-item',
-          columnWidth: '.grid .grid-sizer',
-          percentPosition: true
-          });
-        */  
-          
-        imagesLoaded( container, function( instance ) {
-          console.log('all images are loaded');
-
-          $.each(proj, function( key, value ) {
+          var mscont = document.querySelector(msid);  
+          imagesLoaded( mscont, function( instance ) {
+            //console.log('all images in '+msid.substr(4)+' are loaded');
             msnry[key].layout();
             });
-            
-          //msnry.layout();
+          });
           
-          //show actual issue detail when hash
+        imagesLoaded( container, function( instance ) {
+          $("#sticky-nav a").each(function(index) { $(this).addClass('loaded') });
+          $("#sticky-nav").addClass('loaded');
+          console.log('all images are loaded');
+          
+          //show actual issue detail when hash or scroll to resort
           if (hash!='') {
-            var target_id=hash.substr(1,5);
-            console.log('searching for id '+target_id);
-            if($("#"+target_id).length != 0) {
+            var navheight=20;
+            cmq=Foundation.MediaQuery.current;
+            if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false; 
+            var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+            if (active) navheight+=$("#sticky-nav").height();
+            //console.log('hash - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
+            // scroll to resort
+            var resort_id=hash.substr(1);
+            if (jQuery.inArray(resort_id,proj)>-1) {
+              console.log('searching resort id '+resort_id);
+                $('html, body').animate({
+                  scrollTop: $("#ms_"+resort_id).offset().top-navheight
+                  }, 200);
+              } else {
+              // scroll to issue
+              var target_id=hash.substr(1,5);
+              console.log('searching for id '+target_id);
+              if($("#"+target_id).length != 0) {
+                $('html, body').animate({
+                  scrollTop: $("#"+target_id).offset().top-navheight
+                  }, 200);
+                $("#"+target_id+" a.mas_content").trigger("click");
+                $("#"+target_id+" .callout").addClass('active');
+                }            
+              }
+            }  
+          
+          // smoothscroll to resorts  
+          $("#sticky-nav a").each(function(index) {
+             $(this).click(function(event) {             
+              event.preventDefault();
+              var navheight=20;
+              cmq=Foundation.MediaQuery.current;
+              if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false;
+              var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+              if (active) navheight+=$("#sticky-nav").height();
+              //console.log('nav click - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
+              var link=$(this).attr('href');
+              window.history.pushState({}, null, '#'+link.substr(4));
               $('html, body').animate({
-                scrollTop: $("#"+target_id).offset().top-24
-                }, 200);
-              $("#"+target_id+" a.mas_content").trigger("click");
-              $("#"+target_id+" .callout").addClass('active');
-              }            
-            }
+                scrollTop: $(link).offset().top-navheight
+                }, 200);              
+              }); 
+            }); 
         });
         
-        
-        //$("#masonry_container a.mas_content").each(function(index) {
+        // reveal issue details (hash)
         $("#redmine_vysledky a.mas_content").each(function(index) {
-          //console.log(index+' -> '+$(this).data("id")+' / '+$(this).data("index"));
           $(this).click(function(event) {
             event.preventDefault();
             $(".callout.active").removeClass('active');
@@ -232,7 +288,6 @@ pirates.integrations = {
               } else {  
               $("#reveal1 .autor").html(doc.issues[i].assigned_to.name);
               }
-            //$("#reveal1 a.redmine-href").attr("href", 'https://redmine.pirati.cz/issues/'+doc.issues[i].id);
             newpath=path+'#'+$(this).data("id")+'_'+slug(head);
             $("#reveal1 a.permalink").attr("href", newpath);
             $("#reveal1").foundation('open');
@@ -242,20 +297,20 @@ pirates.integrations = {
           });            
         
         $(document).on('closed.zf.reveal', '[data-reveal]', function () {
-          //console.log("'closed.zf.Reveal' fired. "+path);
           window.history.replaceState({}, null, path);
           });            
 
         $(window).on('popstate', function() {
-          //console.log('Back button was pressed.');
           $("#reveal1").foundation('close');
           });
-          
+                   
       });                    
     }
     
   }
 };
+
+
 pirates.makeModal = function(html){
   var modal = document.getElementsByClassName("l-micropage__modal")[0];
   modal.innerHTML = html;
