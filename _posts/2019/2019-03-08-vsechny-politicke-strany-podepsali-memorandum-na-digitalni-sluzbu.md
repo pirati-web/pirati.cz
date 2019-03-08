@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní informatika
 layout:       post
 title:        "Všechny politické strany podepsaly memorandum o podpoře zákona o právu na digitální službu. Návrh jde do Sněmovny v březnu"
-image:        /assets/img/articles/2019/ivan-navrh.jpg
+image:        /assets/img/articles/2019/ivan-navrh2.jpg
 author:       Ivan Bartoš
 ---
 
