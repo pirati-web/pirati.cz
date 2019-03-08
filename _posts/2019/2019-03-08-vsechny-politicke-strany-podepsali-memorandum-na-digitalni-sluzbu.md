@@ -16,4 +16,8 @@ Práce na zákoně probíhala pod záštitou Výboru pro veřejnou správu a reg
 
 > „Zákon je v souladu s programem Digitálního Česka a na další roky bude definovat postup, kterým bude vláda každý rok garantovat digitalizaci svých agend. Právě závazek dostát v rozumném časovém horizontu této změny je to, co memorandum i zastřešující zákon přináší. V realizaci změn zákonů a postupném propojení informačních systémů je ještě spousta práce, která politiky i ministerstva čeká,” komentoval předseda Pirátů Ivan Bartoš.
 
+### Odkazy
+
+* [Dohoda uzavřená mezi politickými kluby](https://github.com/pirati-web/pirati.cz/raw/gh-pages/assets/pdf/dohoda.pdf)
+
 
