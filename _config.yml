@@ -15,8 +15,9 @@ url: "https://www.pirati.cz" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-pirati
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
