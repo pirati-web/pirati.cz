@@ -1,9 +1,57 @@
 ---
 layout: default
 rbar: cal, people, video
+boxes:
+  left-top:
+    text: Regiony
+    url: regiony
+    icon: fa fa-map-signs
+  right-top:
+    text: Naši lidé
+    url: lide
+    icon: fa fa-users
+  left-bottom:
+    text: Senát
+    url: https://senat.pirati.cz
+    icon: fa fa-user
+  right-bottom:
+    text: Program<br> Černé na bílém
+    url: program
+    icon: fa fa-newspaper-o u-rotate-345
 ---
 
-{% include title/title_header.html %}
+{% include homepage/banner.html 
+   link='https://evropapotrebuje.cz'
+   title='Evropa potřebuje Piráty'
+   default='header/EvropaPotrebuje3.png'
+   mobile='header/EvropaPotrebuje3.png'
+   breakpoint=640
+%}
+
+
+<div class="c-banner">
+  <div class="row">
+    <div class="c-banner-container small-12 columns">
+      <div class="o-section">
+        <div class="o-section-inner o-section-inner--noLarge u-cf">
+          <div class="c-banner-section c-banner-primary-section">
+              {% include homepage/gif-box.html
+                foto="/assets/img/header/piratipracuji.gif"
+                alt="Pirati pracují"
+                url="https://piratipracuji.cz"
+              %}
+          </div>
+          <div class="c-banner-section c-banner-secondary-section">
+               {% include homepage/four-buttoms.html boxes=page.boxes %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <div class="row">
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
