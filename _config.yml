@@ -94,26 +94,28 @@ calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&a
 fb: https://www.facebook.com/ceska.piratska.strana/
 tw: PiratskaStrana
 
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/featured-dekujeme.gif
-    alt: Výsledek voleb
-    url: https://volebnimodely.pirati.cz/index_komunal.php
-  left-top:
-    text: Regiony
-    url: regiony
-    icon: fa fa-map-signs
-  right-top:
-    text: Naši lidé
-    url: lide
-    icon: fa fa-users
-  left-bottom:
-    text: Senát
-    url: https://senat.pirati.cz
-    icon: fa fa-user
-  right-bottom:
-    text: Program<br> Černé na bílém
-    url: program
-    icon: fa fa-newspaper-o u-rotate-345
 
-emptyArray: []
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.2.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
+
+  emptyArray: []
