@@ -13,7 +13,7 @@ Praha, 19. března 2019 – Předseda klubu Pirátů Jakub Michálek a poslankyn
 
 > „Pokud si kupujete flashdisk, zaplatíte až 90 korun za prázdné médium, v případě pevného disku počítače jde dokonce o 150 Kč. Z každého kusu přepisovatelného DVD zaplatíte 5 korun. Kolektivní správci vyberou celkem 75,5 milionu korun z médií, která používáte,“ shrnula aktuální ceník kolektivních správců poslankyně Kozlová.
 
-> Jakub Michálek dodal, že je třeba najít jinou formu kompenzace odměn pro autory: „Proto jsme přišli s návrhem snížení DPH na knihy a služby spisovatelů, autorů a výkonných umělců. Autoři a vydavatelé tím ušetří každý rok 430 milionů korun na daních. Díky rozložení efektu ušetří zákazníci 280 milionů. Naše změna, tak jak ji navrhujeme, je celkově výhodná pro autory, vydavatele a koncové zákazníky.“
+> Jakub Michálek dodal, že je třeba najít jinou formu kompenzace odměn pro autory: „Proto jsme přišli s návrhem snížení DPH na honoráře za psaní knih a služby spisovatelů, autorů a výkonných umělců. Autoři a vydavatelé tím ušetří každý rok 430 milionů korun na daních. Díky rozložení efektu ušetří zákazníci 280 milionů. Naše změna, tak jak ji navrhujeme, je celkově výhodná pro autory, vydavatele a koncové zákazníky.“
 
 > Kritizovanou věcí je i náhrada bezdůvodného obohacení ve dvojnásobné výši, která jde proti smyslu náhrady škody kompenzace poškozenému. Kozlová upozornila i na další absurditu v současném autorském zákoně, kterou je nemožnost kopírování notových záznamů: „V případě, že si chcete namnožit noty pro svou zájmovou činnost, musíte za to zaplatit, přitom knihy ve veřejných knihovnách kopírovat lze,“ uvedla.
 
