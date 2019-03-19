@@ -18,3 +18,5 @@ Praha, 19. března 2019 – Předseda klubu Pirátů Jakub Michálek a poslankyn
 > Kritizovanou věcí je i náhrada bezdůvodného obohacení ve dvojnásobné výši, která jde proti smyslu náhrady škody kompenzace poškozenému. Kozlová upozornila i na další absurditu v současném autorském zákoně, kterou je nemožnost kopírování notových záznamů: „V případě, že si chcete namnožit noty pro svou zájmovou činnost, musíte za to zaplatit, přitom knihy ve veřejných knihovnách kopírovat lze,“ uvedla.
 
 > Jedním z dalších návrhů je zrušení povinnosti autorů hrajících vlastní hudbu hlásit předem seznam skladeb: „OSA inkasuje nejen v případě, že hudebník hraje pouze svá díla, ale i v případě, že má souhlas původního autora. Autor sám totiž musí aktivně požádat o vyřazení ze zastupování,“ doplnil Michálek.
+
+* [Paragrafové znění pozměňovacích návrhů autorského zákona](https://www.pirati.cz/assets/pdf/novela-autz-paragraf.pdf).
