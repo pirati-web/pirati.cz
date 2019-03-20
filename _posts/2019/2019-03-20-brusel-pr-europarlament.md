@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/inzerat.jpg
 author:       Mediální odbor
 ---
 
-Náplní práce bude mediální podpora poslanců Evropského parlamentu zvolených za Piráty. Součástí pracovních aktivit bude psaní tiskových výstupů, organizace a moderování konferencí a seminářů, příprava podkladů, plánování komunikační strategie, školení europoslanců v mediálních dovednostech a podobně.
+Náplní práce ředitele mediální komunikace bude mediální podpora poslanců Evropského parlamentu zvolených za Piráty. Součástí pracovních aktivit bude psaní tiskových výstupů, organizace a moderování konferencí a seminářů, příprava podkladů, plánování komunikační strategie, školení europoslanců v mediálních dovednostech a podobně. Místo výkonu bude převážně v Bruselu a dalších sídelních městech unijních institucí.
 
 # Co požadujeme?
 * Vzdělání v oboru žurnalistiky, politologie, evropských studií, politického marketingu a příbuzných oborů.
