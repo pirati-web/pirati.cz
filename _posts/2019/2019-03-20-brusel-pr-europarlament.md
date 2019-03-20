@@ -21,4 +21,4 @@ Náplní práce bude mediální podpora poslanců Evropského parlamentu zvolen�
 * Prestižní pracovní prostředí a spolupráce s politickými a mediálními osobnostmi.
 * Možnost zapojit se do předvolební kampaně v případě dřívějšího nástupu. 
 
-## Přihlášku lze podat do 31. března, výběrové řízení probíhá dvoukolově: Vyhodnocením zaslaných materiálů, poté osobním pohovorem. Kompletní informace o vypisované pozici, přihlašovací formulář a podmínky přijímacího řízení naleznete **[ZDE](http://www.lmcg2.com/pd/1366676659/?rps=202&fbclid=IwAR1XW3W5Bki_e2Y36NF-oeADAq9m-ccxFw6UhIp6be4_7C4ajWqjri8Kvbk).**
+Přihlášku lze podat do 31. března, výběrové řízení probíhá dvoukolově: Vyhodnocením zaslaných materiálů, poté osobním pohovorem. Kompletní informace o vypisované pozici, přihlašovací formulář a podmínky přijímacího řízení naleznete **[ZDE](http://www.lmcg2.com/pd/1366676659/?rps=202&fbclid=IwAR1XW3W5Bki_e2Y36NF-oeADAq9m-ccxFw6UhIp6be4_7C4ajWqjri8Kvbk).**
