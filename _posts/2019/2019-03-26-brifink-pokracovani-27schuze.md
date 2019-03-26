@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní 
 layout:       post
 title:        "Piráti dohlédnou na zvýšení platů učitelů a očekávají projednávání zpožděné eNeschopenky"
-image:        /assets/img/articles/2019/TK27brezen26.jpg
+image:        /assets/img/articles/2019/TK27brezen26.jpeg
 author:       Mediální odbor
 ---
 
