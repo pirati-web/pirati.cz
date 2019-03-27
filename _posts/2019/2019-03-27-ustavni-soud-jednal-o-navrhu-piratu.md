@@ -16,4 +16,4 @@ Praha, 27. března 2019 – Ústavní soud dnes projednal návrh Pirátů na zru
 
 ### Odkazy
 
-* [Návrh Pirátů a IuRe na zrušení plošného sledování](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/dr-stiznost-fin.pdf)
+* [Návrh Pirátů a IuRe na zrušení plošného sledování](https://pirati.cz/assets/pdf/dr-stiznost-fin.pdf)
