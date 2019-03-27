@@ -16,5 +16,5 @@ Do současného návrhu Piráti prosadili otevřená data a technologickou neutr
 
 ## Odkazy 
 
-* [Návrh zákona o právu na digitální služby](https://github.com/pirati-web/pirati.cz/raw/gh-pages/assets/pdf/zz-zakon.pdf)
-* [Důvodová zpráva k zákonu](https://github.com/pirati-web/pirati.cz/raw/gh-pages/assets/pdf/zz-duvodova-zprava.pdf)
+* [Návrh zákona o právu na digitální služby](https://pirati.cz/assets/pdf/zz-zakon.pdf)
+* [Důvodová zpráva k zákonu](https://pirati.cz/assets/pdf/zz-duvodova-zprava.pdf)
