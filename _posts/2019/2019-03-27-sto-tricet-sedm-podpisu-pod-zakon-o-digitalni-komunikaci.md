@@ -12,7 +12,7 @@ Praha, 27. března 2019 – Předseda Pirátů a Výboru pro veřejnou správu a
 
 > „Zákon o právu na digitální služby vznikal pod Výborem pro veřejnou správu a regionální rozvoj a to za spolupráce všech politických stran, zástupců soukromého sektoru prostřednictvím ICT UNIE a zároveň má podporu vládního zmocněnce pro IT Vladimíra Dzurilly. Právě ten široký konsenzus a dlouhodobou spolupráci považuji za velmi dobrý základ pro další cestu zákona legislativním procesem. Ten odstartujeme již dnes, kdy návrh se 137 podpisy nahrajeme do sněmovního systému,” uvedl Bartoš. 
 
-Do současného návrhu Piráti prosadili dva důležité paragrafy. Paragraf 12, který navíc řeší otevřená data a 13, který adresuje technologickou neutralitu. To pro občana znamená, že si nebude muset pro využívání služeb pořizovat další software, jako tomu bylo například dříve u datových schránek. Tedy aby nikdo nebyl nucen pořizovat speciální software pro komunikaci se státem.
+Do současného návrhu Piráti prosadili otevřená data a technologickou neutralitu. To pro občana znamená, že si nebude muset pro využívání služeb pořizovat další software, jako tomu bylo například dříve u datových schránek. Tedy aby nikdo nebyl nucen pořizovat speciální software pro komunikaci se státem.
 
 ## Odkazy 
 
