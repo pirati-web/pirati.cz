@@ -7,9 +7,9 @@ leader: radek.holomcik
 deputy:
 - jan.posvar
 contact-local:
-  name: Jiří Valenta
-  mob: 778 111 463
-  mail: jiri.valenta@psp.cz
+  name: Martin Huňady
+  mob: 732 251 216
+  mail: martin.hunady@pirati.cz
   img: 
 tags:
 - zemědělství
@@ -35,26 +35,26 @@ Podali jsme pozměňovací návrh k novele č. 254/2001 Sb. - Zákon o vodách a
 
 Na čem pracujeme?
 ----------------------
-* podrobná analýza zemědělských dotací za roky 2015, 2016 a 2017
-* novela zákona č. 353/2003 Sb., o spotřebních daních vedoucí ke snížení daňového zvýhodnění biopaliv 1. generace a některým dalším dílčím změnám
-* koncept řešení kůrovcové kalamity a rozvoje lesního hospodářství v ČR
-* legislativní uchopení zahrádkářství, komunitního a komunitou podporovaného zemědělství
-* podpora zavádění prvků agrolesnictví
-* novela zákona č. 246/1992 Sb., o ochraně zvířat proti týrání a zákona č. 166/1999 Sb., o veterinární péči a souvisejících zákonů vedoucí k lepšímu zacházení se zvířaty
-* novela zákona č. 326/2004 Sb., o rostlinolékařské péči vedoucí k lepší ochraně včelstev před zemědělskou chemií
-* vzorové projekty pro zvyšování schopnosti krajiny zadržovat vodu
-* rozvoj podpůrných programů melioračních a tradičních plodin, např. lnu a konopí 
+* Snižování negativních dopadů zemědělské politiky
+* Zjednodušování a zastropování systému dotací
+* Podpora začínajících zemědělců, rodinných farem, malých družstev a komunitou podporovaného zemědělství
+* Rozvoj zemědělství s pestrými osevními postupy a chovem zvířat volně v přírodě
+* Ochrana půdy a její dostupnost
+* Změny v oblasti přimíchávání biopaliv
+* Kontrola Lesů ČR
+* Dostupnost zdravých, kvalitních a lokálních potravin
+* Ochrana zahrádkářských osad před tlakem developerů
 
 Jak se můžete zapojit?
 ----------------------
 
 Nabízíme šanci právníkům, ekonomům a odborníkům na zemědělství, lesnictví, ochranu půdy i vody, vodohospodářům a dalším specialistům, spolupracovat na zlepšení situace v České republice, a pro studenty něco se naučit a poznat zajímavé prostředí poslaneckého klubu Pirátské strany.
-Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím Martinovi Huňady na tel. 732 251 216 nebo na martin.hunady@pirati.cz. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím Martinovi Huňadymu na tel. 732 251 216 nebo na martin.hunady@pirati.cz. Rádi vás pozveme na naše setkání.
 
 Fungování týmu
 ----------------------
 
-Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Jiří Valenta.
+Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Martin Huňady.
 Členové týmu jsou:
 * **[Aleš Jakl](https://www.pirati.cz/lide/ales-jakl/)**, garant [zemědělského programu](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
 * **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
