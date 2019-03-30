@@ -17,8 +17,6 @@ asistenti:
   - name: Stanislava Pajerová
     mail: profanto@psp.cz
     tel:  726 362 025
-  - name: Martin Rejman
-    mail: martin.rejman@pirati.cz
 profiles:
   web:          https://www.profant.eu
   github:       https://github.com/kedrigern
