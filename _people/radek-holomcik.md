@@ -16,7 +16,7 @@ mob:		+420 728 034 460
 asistenti:
   - name: Petra Vymazalová
     mail: vymazalovap@psp.cz
-    mob:  778 111 469 
+    tel:  778 111 469 
     description: Organizační záležitosti
   - name: Petr Springinsfeld
     mail: petr.springinsfeld@pirati.cz
