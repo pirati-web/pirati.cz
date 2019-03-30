@@ -20,12 +20,16 @@ asistenti:
     description: Organizační záležitosti
   - name: Petr Springinsfeld
     mail: petr.springinsfeld@pirati.cz
+    description: Kontakt pro občanskou společnost a neziskové organizace
   - name: Simona Kollárová
     tel:  778 111 474    
+    description: Provoz regionální kanceláře
   - name: Jiří Valenta
     mail: jiri.valenta@pirati.cz
+    description: Asistent
   - name: Tomáš Uhnák
     mail: t.uhnak@gmail.com
+    description: Odborné záležitosti
 profiles:
   github:                
   facebook:
