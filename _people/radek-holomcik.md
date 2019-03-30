@@ -14,12 +14,18 @@ mail:
 - radek.holomcik@pirati.cz
 mob:		+420 728 034 460 
 asistenti:
+  - name: Petra Vymazalová
+    mail: vymazalovap@psp.cz
+    mob:  778 111 469 
+    description: Organizační záležitosti
   - name: Petr Springinsfeld
     mail: petr.springinsfeld@pirati.cz
-    tel:  608 366 554 
-  - name: Bc. Markéta Gregorová
   - name: Simona Kollárová
+    tel:  778 111 474    
   - name: Jiří Valenta
+    mail: jiri.valenta@pirati.cz
+  - name: Tomáš Uhnák
+    mail: t.uhnak@gmail.com
 profiles:
   github:                
   facebook:
