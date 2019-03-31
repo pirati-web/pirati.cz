@@ -29,7 +29,7 @@
 							<hr />
 							<h3>Asistent/ka</h3>
               						{% for main in page.asistenti %}
-               						<p>{% if main.description %}{{main.description}}<br/>{%endif%}
+		                                        <p>{% if main.description %}<i>{{main.description}}</i><br/>{%endif%}
 							<i class="fa fa-user-o"></i> {{main.name}}<br/>
 							{% if main.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{main.mail}}">{{main.mail}}</a><br/>{% endif %}
 							{% if main.tel %}<i class="fa fa-phone"></i> {{ main.tel }}<br/>{% endif %}
