@@ -12,6 +12,10 @@ direct-contact: true
 mail:
 - jan.lipavsky@pirati.cz
 mob:	  
+asistenti:
+  - name: Mgr. Kristýna Plašilová
+    mail: kristyna.plasilova@pirati.cz
+    tel: +420 728 859 187 
 profiles:
   github:       
   facebook:     https://www.facebook.com/honzyk
