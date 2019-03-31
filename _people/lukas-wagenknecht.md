@@ -24,3 +24,5 @@ V roce 2015 obdržel Cenu za odvahu od Nadačního fondu proti korupci za své d
 V posledních let se věnuje prosazování myšlenek vedoucích k větší transparentnosti a fungování České republiky. Jedná se například o konkrétní vymahatelnost odpovědnosti za rozhodování úředníků a politiků, jasně a předem definovaná kritéria pro efektivní nakládání s veřejnými penězi nebo o kontrolu veřejných výdajů. 
  
 V roce 2018 se ucházel o post senátora jako kandidát Pirátské strany a ve volbách uspěl, když ve druhém kole získal 54,45 % a porazil nestraníka za TOP 09 a hnutí STAN Pavla Dungla. Vzhledem ke svým dlouholetým zkušenostem by se v senátu rád aktivně věnoval problémům spojeným s transparentním hospodařením a kontrolou financí. V neposlední řadě chce fungovat jako “ombudsman” volebního obvodu 23, za který byl zvolen. V současné době také přednáší na Vysoké škole ekonomické v Praze předmět interní audit.
+
+https://lukaswagenknecht.cz
