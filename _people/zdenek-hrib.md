@@ -23,5 +23,4 @@ odpraha: 1
 
 V roce 2018 byl jako lídr Pirátů v komunálních volbách zvolen do zastupitelstva hl. m. Prahy. V povolebních vyjednáváních s občanskou kandidátkou Praha Sobě a Spojenými silami pro Prahu uspěl a dne 15. listopadu 2018 byl zvolen za primátora hl. m. Prahy, prvního v dějinách i na světě, kterého nominovala Pirátská strana. Jako primátor má Zdeněk Hřib na starosti mimo jiné oblast informatiky, bezpečnosti, evropských fondů a zahraničních vztahů.
 
-Je členem správní rady Všeobecné zdravotní pojišťovny za Českou pirátskou stranu. 
 
