@@ -3,10 +3,9 @@ date:         2019-02-12
 category:     blog
 tags:         celostátní sněmovna
 layout:       post
-title:        "Piráti představili nominanta do rady VZP a hlásí konec neomluvených absencí poslanců po 20 letech
-"
+title:        "Piráti představili nominanta do rady VZP a hlásí konec neomluvených absencí poslanců po 20 letech"
+author:       "Mediální odbor"
 image:        /assets/img/articles/2019/26schuze-variabilni.jpg
-author:       Mediální odbor
 ---
 
 
