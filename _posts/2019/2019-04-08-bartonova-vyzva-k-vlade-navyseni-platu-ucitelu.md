@@ -1,5 +1,5 @@
 ---
-date:         2019-04-07
+date:         2019-04-08
 category:     blog
 tags:         celostátní vzdělávání komentář
 layout:       post
