@@ -14,9 +14,9 @@ mob:	        +420 728 237 646
 asistenti:
   - name: Ing. Lukáš Forýtek
     mail: asistent@tomas-martinek.eu
+    tel:  603 527 606
   - name: RNDr. Martin Rejman, Ph.D.
     mail: asistent@tomas-martinek.eu
-    tel:  739 264 791
   - name: Marek Förster
     mail: jablonec@tomas-martinek.eu
 office:
