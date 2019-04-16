@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Hlasy sněmovní vládní většiny a komunistů neumožnily zařadit projednání střetu zájmů Andreje Babiše"
-image:        /assets/img/articles/2019/tz28schuze.jpeg
+image:        /assets/img/articles/2019/tk28schuze.jpeg
 author:       Mediální odbor
 ---
 
