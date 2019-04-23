@@ -12,7 +12,7 @@ contact-local:
   mail: anna.doova@pirati.cz
   img: 
 tags:
-- životní prostředí
+- životní-prostředí
 category: resort
 redmine:
 forum:
