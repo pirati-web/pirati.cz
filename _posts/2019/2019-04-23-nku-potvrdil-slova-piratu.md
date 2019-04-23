@@ -1,7 +1,7 @@
 ---
 date:         2019-04-23
 category:     blog
-tags:         celostátní sněmovna
+tags:         celostátní sněmovna digitalizace
 layout:       post
 title:        "NKÚ ve své zprávě k výdajům finanční správy potvrdil slova Pirátů"
 image:        /assets/img/articles/2019/ondrej-profant.jpg
