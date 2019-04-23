@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní sněmovna
 layout:       post
 title:        "Piráti sdělili výhrady k nové ministryni spravedlnosti i podrobnosti k mimořádné schůzi"
-image:        /assets/img/articles/2019/tk28schuze.jpg
+image:        /assets/img/articles/2019/tk28schuze.JPG
 author:       Mediální odbor
 ---
 
