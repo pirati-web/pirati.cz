@@ -1,7 +1,7 @@
 ---
 uid: justice
 name: Spravedlnost
-fullname: Ústavně právní tým
+fullname: tým Spravedlnost
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
 leader: jakub.michalek
 deputy:
