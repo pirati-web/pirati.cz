@@ -27,7 +27,7 @@ Co děláme?
 
 * Prosazujeme [volební program v oblasti spravedlnosti](/program/psp2017/spravedlnost/),
 * projednáváme sněmovní tisky, které jsou přikázány [ústavněprávnímu výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4000),
-* zejména návrhy na změnu Ústavy (např. referendum, přímá volba starostů),
+* projednáváme návrhy na změnu Ústavy (např. referendum, přímá volba starostů, klouzavý mandát),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci a hospodaření Ministerstva spravedlnosti,
 * rozpracováváme dlouhodobý program pro [právní stát](/program/dlouhodoby/pravni-stat/), [přímou demokracii](/program/dlouhodoby/prima-demokracie/) a [dělbu moci](/program/dlouhodoby/delba-moci/).
@@ -42,25 +42,25 @@ Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp
 Schůzky týmu
 ---------------
 
-Všechny schůzky ústavně právního týmu jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Ústavně právní tým se schází 
+Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Tým Spravedlnost se schází 
 
 * jednou za šest týdnů vždy v pondělí ve 14:00 (týden před zahájením schůze),
 * mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
 
-Ústavně právní tým se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
+Tým Spravedlnost se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
 Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
 
 Online komunikace
 -----------------
 
-Členové týmu jsou v každodenním kontaktu ve skupině [Ústavně právní tým](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu na facebooku [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/) na facebooku.
 
 
 Členové týmu
 -----------
 
-* **[Jakub Michálek](/lide/jakub-michalek/)**, poslanec zodpovědný za resort justice, místopředseda ústavně právního výboru, řeší kvalitu justice, jmenování soudců,
-* **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, místopředseda ústavně právního výboru, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
+* **[Jakub Michálek](/lide/jakub-michalek/)**, místopředseda ústavně právního výboru, poslanec zodpovědný za resort justice, řeší kvalitu justice, jmenování soudců,
+* **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
 * **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
