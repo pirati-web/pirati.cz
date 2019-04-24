@@ -6,7 +6,7 @@ layout:       post
 title:        "Komentář Lenky Kozlové: Národní galerie potřebuje kontinuitu, odbornost a především výběrové řízení na nového ředitele
 "
 image:        /assets/img/articles/2018/kozlova.jpg
-author:       Mediální odbor
+author:       Lenka Kozlová
 ---
  
 
