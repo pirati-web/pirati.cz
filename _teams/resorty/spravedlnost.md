@@ -16,6 +16,7 @@ redmine_id: "https://redmine.pirati.cz/projects/justice/issues.json?utf8=%E2%9C%
 forum: https://forum.pirati.cz/viewforum.php?f=960
 newsletter: https://docs.google.com/forms/d/e/1FAIpQLSfcx45d76nrGIuTXtnmTMf5r2zQmpj3-350jQOBDKTdwclcKA/viewform
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc
+zapis: https://forum.pirati.cz/viewtopic.php?f=960&t=40389&view=unread#unread
 # id google kalendáře s událostmi
 ---
 
