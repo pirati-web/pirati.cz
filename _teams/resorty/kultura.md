@@ -17,6 +17,7 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=971&t=42124
 ---
 
 Vítejte na stránce pirátského **týmu pro kulturu**. Zachovávat a rozvíjet umění, kulturní dědictví znamená upevňovat základy, na kterých stojíme sami a na kterých budou jednou stát i naše děti.

@@ -1,12 +1,12 @@
 ---
 date:         2019-04-23
 category:     blog
-tags:         sněmovna celostátní kultura 
+tags:         sněmovna celostátní kultura komentář
 layout:       post
 title:        "Komentář Lenky Kozlové: Národní galerie potřebuje kontinuitu, odbornost a především výběrové řízení na nového ředitele
 "
 image:        /assets/img/articles/2018/kozlova.jpg
-author:       Mediální odbor
+author:       Lenka Kozlová
 ---
  
 

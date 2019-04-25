@@ -16,6 +16,7 @@ category: resort
 redmine: 
 forum: 
 tags:
+zapis: https://forum.pirati.cz/viewtopic.php?f=554&t=47006
  
 ---
 

@@ -21,6 +21,7 @@
             {% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">FB: {{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
             {% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">TW: {{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
             {% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">GH: {{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}
+            {% if page.zapis %}<i class="fa fa-file"></i> <a href="{{ page.zapis }}">Zápisy z týmu {{ page.name }}</a><br/>{% endif %}
             {% if page.forum %}<i class="fa fa-comments-o"></i> <a href="{{ page.forum }}">Forum: {{ page.forum | remove: "https://forum.pirati.cz/" }}</a><br/>{% endif %}
             {% if page.redmine %}<i class="fa fa-check-square-o"></i> <a href="{{ page.redmine }}">Úkoly</a>{% endif %}
         </div>
