@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/elfmark.jpg
 author:       Mediální odbor
 ---
 
-Praha, 26. dubna 2019 – Pirátský poslanec František Elfmark svolal ve čtvrtek 25. dubna již pátou schůzku pracovní skupiny k rekodifikaci stavebního práva, na kterou přizval zástupce Ministerstva pro místní rozvoj a Hospodářské komory. Hlavním bodem schůzky byla debata nad vypořádanými pirátskými připomínkami k věcnému záměru, se kterými ministerstvo ve většině případů plně souhlasí.
+Praha, 26. dubna 2019 – Pirátský poslanec František Elfmark svolal na čtvrtek 25. dubna již pátou schůzku pracovní skupiny k rekodifikaci stavebního práva, na kterou přizval zástupce Ministerstva pro místní rozvoj a Hospodářské komory. Hlavním bodem schůzky byla debata nad vypořádanými pirátskými připomínkami k věcnému záměru, se kterými ministerstvo ve většině případů plně souhlasí.
  
 > „Ze strany Pirátů byly vedle zjednodušení stavebních procesů, elektronizace a zvýšení nezávislosti rozhodování dále připomínkovány záměry změn v oblasti postavení dotčených orgánů nebo problematiky nástrojů územního plánování. Předmětem debaty bylo také zavedení automatického vygenerování rozhodnutí o povolení stavby, vymizení účasti veřejnosti a další,” sdělil Elfmark.
  
