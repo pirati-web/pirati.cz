@@ -172,6 +172,7 @@ var show_relatives = function(data) {
   var ul = $("#relatives");
   if(ul.length) {
     var global_tags = data[0];
+    var counter = 10;
 
     if(!page_tags.length) {
       $('#relatives-box').hide();
@@ -179,7 +180,7 @@ var show_relatives = function(data) {
 
     $.each(page_tags, function(index, tag) {
       $.each(global_tags[tag], function(index, post) {
-        if(post.url != page_url) {
+        if(post.url != page_url && counter-- > 0) {
           var li = $('<li/>').appendTo(ul);
           var a = $('<a/>').text(post.title).attr('href',post.url).appendTo(li);
         }
