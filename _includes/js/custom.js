@@ -172,7 +172,7 @@ var show_relatives = function(data) {
   var ul = $("#relatives");
   if(ul.length) {
     var global_tags = data[0];
-    var counter = 10;
+    var counter = 5;
 
     if(!page_tags.length) {
       $('#relatives-box').hide();
