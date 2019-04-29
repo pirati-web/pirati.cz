@@ -21,3 +21,5 @@ Piráti jdou do voleb s 20 programovými prioritami a hlavními pilíři jsou sv
 
 Piráti dnes také předložili petici, ve které žádají premiéra, aby Českou republiku nereprezentoval v evropských ani jiných zahraničních institucích, dokud nebude jeho střet zájmů vyřešen a objasněn. 
 > „Ačkoliv Evropská komise stále nezveřejnila výsledky svého šetření týkajícího se střetu zájmů českého premiéra, je nad míru jasné, že předseda vlády ve střetu zájmu je. Budeme tlačit na Komisi, aby výsledky šetření střetu zájmů premiéra Babiše zveřejnila ještě před volbami, protože voliči mají právo vědět, jaké důsledky bude mít, že pošlou do Bruselu Babišovy europoslance,“ uzavřel tiskovou konferenci Mikuláš Peksa.
+
+* [Petice za důstojnou reprezentaci Česka v Evropské radě](https://www.pirati.cz/assets/pdf/petice-za-dustojnou-reprezentaci-cr.pdf)
