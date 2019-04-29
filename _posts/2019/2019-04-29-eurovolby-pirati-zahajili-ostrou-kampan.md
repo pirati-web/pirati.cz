@@ -1,7 +1,7 @@
 ---
 date:         2019-04-29
 category:     blog
-tags:         celostátní sněmovna vláda 
+tags:         celostátní kampaň volby 
 layout:       post
 title:        "Piráti zahájili ostrou fázi kampaně před volbami do europarlamentu"
 image:        /assets/img/articles/2019/pice-start-kampane.jpg
