@@ -15,7 +15,7 @@ profiles:
   linkedin:
 ---
 
-Věra Marušiaková pracuje pro předsedu Pirátů, Ivana Bartoše. Vystudovala sociální práci na Filozofické fakultě Univerzity Karlovy. Celý život se profesionálně zabývá komunikací a příbuznými obory. Pracovala v přední mezinárodní PR agentuře, působila v největší české firmě jako specialistka interní komunikace. Má zkušenosti s publikační, editorskou i redakční prací v online i v tištěných médiích. Pracovala pro cestovní kancelář jako online copywriter a inbound specialistka. Ve volných chvílích se baví psaním motivačních dopisů a koučováním.
+Věra Marušiaková pracuje pro předsedu Pirátů, poslance a předsedy sněmovního výboru pro veřejnou správu a regionální rozvoj, Ivana Bartoše. Z tohoto titulu Věra vykonává funkci tajemnice sněmovního resortního týmu [Místní rozvoj a veřejná správa](https://www.pirati.cz/pripoj-se/mistni-rozvoj/). Vystudovala sociální práci na Filozofické fakultě Univerzity Karlovy. Celý život se profesionálně zabývá komunikací a příbuznými obory. Pracovala v přední mezinárodní PR agentuře, působila v největší české firmě jako specialistka interní komunikace. Má zkušenosti s publikační, editorskou i redakční prací v online i v tištěných médiích. Pracovala pro přední cestovní kancelář jako online copywriter a inbound specialistka. Ve volných chvílích se baví psaním motivačních dopisů a koučováním.
  
 K Pirátům se připojila jako příznivkyně a zaměstnankyně v březnu 2016, kdy začala psát pro Mediální odbor. Zapojuje se do příprav Pirátských listů jako editorka a korektorka, příležitostně vedla pirátské workshopy o PR a psaní, radí koordinátorům v regionech. Snaží se odstraňovat komunikační bariéry a usnadňovat spolupráci. Členkou Pirátů je od ledna 2018. 
  
