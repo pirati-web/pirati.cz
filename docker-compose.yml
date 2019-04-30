@@ -1,0 +1,11 @@
+version: '3'
+services:
+  site:
+    command: >
+      bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload --host 0.0.0.0"
+    build: .
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+      - 35729:35729

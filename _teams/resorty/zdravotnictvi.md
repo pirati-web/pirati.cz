@@ -17,6 +17,7 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=549&t=47025
 ---
 
 Vítejte na stránce pirátského **týmu pro zdravotnictví**. Kvalitní zdravotnictví vnímáme jako jednu ze zásadních služeb veřejného sektoru vůči svým občanům. 
