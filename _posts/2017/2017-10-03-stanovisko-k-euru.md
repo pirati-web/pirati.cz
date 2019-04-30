@@ -132,7 +132,7 @@ byl tento přístup ekonomicky nevýhodný. Za druhé je to přesně to, co bych
 kdybychom přijali Euro, jen ta ohromná finanční nerovnováha by nešla použít na splácení
 státního dluhu, ale ležela by na imaginárním, nikdy nevyužitém účtu ČNB. A za třetí je to
 přesně to, co z ekonomického pohledu dělá Německo. V případě rozbití Eura by jeho měna
-prudce vystřelila nahoru a následoval by hospodářských pokles.
+prudce vystřelila nahoru a následoval by hospodářský pokles.
 
 ### Finanční ústava a Austerity
 

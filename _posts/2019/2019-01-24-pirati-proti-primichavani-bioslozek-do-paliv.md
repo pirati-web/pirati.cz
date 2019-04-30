@@ -1,7 +1,7 @@
 ---
 date:         2019-01-24
 category:     blog
-tags:         sněmovna Životní-prostředí
+tags:         sněmovna životní-prostředí
 layout:       post
 title:        "Piráti navrhují zrušení povinnosti přimíchávat biopaliva do pohonných hmot"
 image:        /assets/img/articles/2019/holomcik-radek.jpg 

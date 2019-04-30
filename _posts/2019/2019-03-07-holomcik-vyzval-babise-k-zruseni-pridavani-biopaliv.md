@@ -1,7 +1,7 @@
 ---
 date:         2019-03-07
 category:     blog
-tags:         sněmovna celostátní Životní-prostředí
+tags:         sněmovna celostátní životní-prostředí
 layout:       post
 title:        "Pirát Holomčík vyzval premiéra Babiše k podpoře návrhu na zrušení povinnosti přimíchávat biopaliva do pohonných hmot"
 image:        /assets/img/articles/2019/holomcik-radek.jpg

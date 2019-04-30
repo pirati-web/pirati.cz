@@ -7,9 +7,9 @@ leader: daniel.mazur
 deputy:
 - daniel.mazur
 contact-local:
-  name: David Wagner
-  mob: 721 030 120
-  mail: david.wagner@pirati.cz
+  name: Martin Úlovec
+  mob: 724 944 309
+  mail: martin.ulovec@pirati.cz
   img: 
 tags:
 - skolstvi
@@ -18,6 +18,7 @@ redmine:
 forum:
 newsletter:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=546&t=47012&p=617314#p617314
 ---
 
 Vítejte na stránce Pirátského týmu pro vzdělávání, vědu a školství.

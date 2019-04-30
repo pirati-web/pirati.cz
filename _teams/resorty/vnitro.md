@@ -18,6 +18,7 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=529&t=43863
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast vnitra a bezpečnosti**.

@@ -19,6 +19,7 @@ redmine:
 forum:
 newsletter:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=544&t=45888
 ---
 
 Co děláme?

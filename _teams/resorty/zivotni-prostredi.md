@@ -12,11 +12,12 @@ contact-local:
   mail: anna.doova@pirati.cz
   img: 
 tags:
-- životní prostředí
+- životní-prostředí
 category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=47009
 ---
 
 

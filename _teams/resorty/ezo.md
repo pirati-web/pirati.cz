@@ -16,6 +16,7 @@ category: resort
 redmine: https://redmine.pirati.cz/projects/ezo-tym
 uid: ezo
 forum: https://forum.pirati.cz/mezinarodni-vztahy-f559/
+zapis: https://forum.pirati.cz/viewtopic.php?f=559&t=45987
 tags:
  - Evropská unie
  - Zahraniční věci

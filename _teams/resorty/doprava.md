@@ -15,6 +15,7 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=550&t=46370
 ---
 
 

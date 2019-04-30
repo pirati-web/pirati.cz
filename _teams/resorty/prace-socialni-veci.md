@@ -18,6 +18,7 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
+zapis: https://forum.pirati.cz/viewtopic.php?f=548&t=45705
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast práce a sociálních věcí**.

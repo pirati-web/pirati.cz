@@ -1,0 +1,18 @@
+---
+date:         2019-04-23
+category:     blog
+tags:         celostátní sněmovna
+layout:       post
+title:        "Piráti sdělili výhrady k nové ministryni spravedlnosti i podrobnosti k mimořádné schůzi"
+image:        /assets/img/articles/2019/bartos-holomcik.JPG
+author:       Mediální odbor
+---
+
+
+Praha, 23. dubna 2019 – Mimořádná schůze Poslanecké sněmovny, na které se bude řešit střet zájmů premiéra Andreje Babiše, zpráva NKÚ a aktuální rozpočtový deficit, byla vedle zásadních personálních změn ve vládě a legislativních návrhů na zpřehlednění exekucí a zavedení manželství pro všechny hlavním tématem tiskového brífinku před pokračováním 28. schůze Poslanecké sněmovny.
+
+> Šéf Pirátů Ivan Bartoš informoval, že mimořádná schůze se odehraje ve čtvrtek, protože standardní projednání neumožnila vládní koalice a spolupracující strany. „Jde o tři velmi důležitá témata pro občany ČR. Prvním tématem je výsledek auditu EK, který šetří čerpání dotací v ČR, zejména v souvislosti se střetem zájmů premiéra Babiše. Šetření komise se týká evropského finančního nařízení z minulého roku, které české úřady vůbec nereflektovaly. Výsledky auditu mají být sděleny až 15. května a vláda bude mít další 2 měsíce na vyjádření, zatímco dokumenty budou neveřejné. Právní oddělení evropské komise již v prosinci minulého roku potvrdilo střet zájmů premiéra. Chceme, aby výsledky auditu i jasné stanovisko Evropské komise byly dostupné veřejnosti před volbami do Evropského parlamentu. Druhým bodem je zpráva NKÚ, která hovoří o řadě oblastí, v nichž ČR zaostává. Klíčovým tématem je bytová politika a nedostupnost bydlení, ale i ohrožené financování sociálních služeb. Posledním tématem schůze bude deficit státního rozpočtu. Neočekávaný, ale razantní propad vláda sanovala 18 miliardami korun z peněz z výnosů státních firem. Bez těchto uměle dodaných zdrojů je vláda v minusu 40 miliard korun oproti výsledkům z minulého roku,“ shrnul obsah mimořádné schůze Bartoš.
+
+> Jakub Michálek, předseda pirátského klubu, představil postoj Pirátů k poslední personální změně ve vládě: „ANO má 5 let ve své gesci Ministerstvo spravedlnosti a jedná se už o pátého ministra. Pan ministr Kněžínek byl z našeho pohledu donucen k odstoupení v okamžiku, kdy zveřejnil reformní kroky, které chtěl podniknout. Upozornili jsme na problematické skutečnosti týkající se nové ministryně Marie Benešové. Ta ještě jako poslankyně novelu, která rozšířila okruh osob, ze kterých se může vyvinit právnická osoba z korupce. Zákon byl následně aplikován v případu Metrostav a také v případu firmy Agrotec z koncernu Agrofert. Paní Benešová v roli advokátky také hájila osoby spojené s neprůhlednými finančními toky prostřednictvím ROP severozápad. Protože nyní budou státní žalobci rozhodovat o podání obžaloby na premiéra Babiše, budeme ministerstvo bedlivě sledovat.“ Michálek rovněž sdělil, že na programu schůze je bod, který zásadně zlepší postavení lidí v exekucích: „Navrhli jsme řešení dluhové pasti a exekucí 900 tisíc lidí, a to zavedením zásady teritoriality a zásady jeden dlužník = jeden exekutor. Ze strany ANO nám bylo přislíbeno zařazení bodu na program jednání. Tento návrh ve Sněmovně leží již půl roku a stále se kvůli nabitému programu odkládá. Počet dlužníků mezi tím roste a přesouvají se do šedé či černé ekonomiky.“
+
+> Poslanec František Kopřiva v závěru brífinku uvedl, že navrhne pevné zařazení novely občanského zákoníku, která by umožnila uzavírat sňatky stejnopohlavním párům: „Rádi bychom zítra dokončili první čtení, aby návrh mohl konečně postoupit dál. Pokud bychom s novelou uspěli, Česká republika by se stala první postkomunistickou zemí, která by manželství stejnopohlavních párů umožnila. Piráti návrh podporují jednotně.“
