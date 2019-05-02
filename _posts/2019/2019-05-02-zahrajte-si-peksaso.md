@@ -3,7 +3,7 @@ date:         2019-05-02
 category:     blog
 tags:         celostátní volby evropská-unie
 layout:       post
-title:        "Piráti: S naší programem do eurovoleb se můžete seznámit i díky hře pexeso"
+title:        "Piráti: S naším programem do eurovoleb se můžete seznámit i díky hře pexeso"
 image:        /assets/img/articles/2019/peksaso.JPG
 author:       Mediální odbor
 ---
