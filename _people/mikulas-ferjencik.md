@@ -13,7 +13,7 @@ mail:
 - mikulas.ferjencik@pirati.cz
 mob:			  +420 737 943 770
 office: 
-  - address: Sladkovského 482, 530 02 Pardubice
+  - address: Masarykovo náměstí 1484, 530 02 Pardubice
     opening: pondělí 9:00 - 11:00, čtvrtek 14:00 - 16:00, po domluvě na tel. č. 604 794 181
 asistenti:
   - name: Lucie Procházková
