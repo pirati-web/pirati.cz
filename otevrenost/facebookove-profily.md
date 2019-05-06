@@ -20,7 +20,7 @@ Tímto zveřejňujeme seznam Faceboových profilů, jejichž aktivita je součá
 * [Piráti - Pardubický kraj](https://www.facebook.com/pirati.pardubicko/?ref=br_rs)
 * [Česká pirátská strana - Piráti Plzeňský kraj](https://www.facebook.com/pirati.plzensky.kraj/?ref=br_rs)
 * [Česká pirátská strana - Středočeský kraj](https://www.facebook.com/pirati.stc/?ref=br_rs)
-* [Česká pirátská strana - Liberecký kraj](https://www.facebook.com/cpslbc/?ref=br_rs))
+* [Česká pirátská strana - Liberecký kraj](https://www.facebook.com/cpslbc/?ref=br_rs)
 * [Česká pirátská strana - Ústecký kraj](https://www.facebook.com/pirati.ulk/?ref=br_rs)
 * [Pirátská strana - Karlovarský kraj](https://www.facebook.com/pirati.karlovarsko/?ref=br_rs)
 * [Pirátská strana - Vysočina](https://www.facebook.com/pirati.vysocina/)
