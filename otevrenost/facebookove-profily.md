@@ -26,4 +26,4 @@ Tímto zveřejňujeme seznam Faceboových profilů, jejichž aktivita je součá
 * [Pirátská strana - Vysočina](https://www.facebook.com/pirati.vysocina/)
 * [Česká pirátská strana - Královéhradecký kraj](https://www.facebook.com/pirati.khk/?ref=br_rs)
 * [Česká pirátská strana - Jihomoravský kraj](https://www.facebook.com/CeskaPiratskaStranaPraha/?ref=br_rs)
-* [Česká pirátská strana - Praha]()
+* [Česká pirátská strana - Praha](https://www.facebook.com/CeskaPiratskaStranaPraha/?ref=br_rs)
