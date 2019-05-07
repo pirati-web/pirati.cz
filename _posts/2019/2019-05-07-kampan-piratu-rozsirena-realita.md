@@ -21,4 +21,4 @@ Podobný nástroj použil v minulosti například prezidentský kandidát Muhamm
 
 Pro zobrazení postavičky není třeba stahovat do telefonu žádnou aplikaci, stačí otevřít ve webovém prohlížeči stránku www.evropapotrebuje.cz/ar, na kterou odkazuje také vytištěný QR kód a zamířit fotoaparát na znak na titulní stránce novin. Animovaný Ivan Bartoš, který reaguje na skutečný pohyb novin, čtenáři řekne, proč volit Piráty ve volbách do Evropského parlamentu.
 
-[Celostátní vydání Pirátských listů](http://www.pirati.cz/assets/pdf/pirlisty2019celostat.pdf)
+* [Celostátní vydání Pirátských listů](http://www.pirati.cz/assets/pdf/pirlisty2019celostat.pdf)
