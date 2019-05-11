@@ -1,33 +1,57 @@
--
-  img: marcel-kolaja-round.jpg
+- img: marcel-kolaja-round.jpg
   name: Marcel Kolaja
   role: manažer v softwarové firmě 
-  description: >
-     Rozhodl jsem se kandidovat do Evropského parlamentu, protože si vážím svobody, kterou máme, a nechci o ni přijít. Přeji si mít Evropu, ve které se nám bude dobře žít i dobře dýchat. A ve které bude bezpečno. S pirátským týmem se soustředíme na to, abychom spolu s Evropou prosperovali a nezaostali v konkurenci světových velmocí. 
+  description: > 
+     <ul>
+     <li>    expert na technologie open source a bojovník za svobodný internet</li>
+     <li>    spoluzaložil spolek Otevřená města</li>
+     <li>    bývalý místopředseda České pirátské strany</li>
+     </ul>
+
 -
   img: marketa-gregorova-round.jpg
   name: Markéta Gregorová 
   role: Brněnská zastupitelka a předsedkyně Evropské pirátské strany 
   description: >
-      Evropská unie není vzdálená instituce žijící svým životem – jsme to my všichni. Přesto máme někdy problém se orientovat či přímo angažovat v evropské politice. To chci změnit a být mostem mezi občany a Unií. Zjednodušme lidem zapojení do rozhodování o jejich budoucnosti a dojdeme tím k lepším společným řešením a informované společnosti.
+    <ul>
+    <li>    předsedá Evropské pirátské straně</li>
+    <li>    pracovala jako marketingová a PR poradkyně</li>
+    <li>    podporuje Erasmus+ a programy pro mladé</li>
+    </ul>
+
 -
   img: mikulas-peksa-round.jpg
   name: Mikuláš Peksa 
   role: Poslanec a místopředseda Pirátů 
   description: > 
-      Evropské peníze jsou peníze nás všech, každého z půl miliardy Evropanů. Chci, aby evropská daňová politika neumožňovala rozkrádání peněz korporacemi. S Piráty budeme v Evropském parlamentu dohlížet na to, abychom prostředky využívali účelně, stejně jako to už teď děláme ve Sněmovně.
+    <ul>
+    <li>    místopředseda České pirátské strany</li>
+    <li>    ve Sněmovně působí v zahraničním výboru a výboru pro evropské záležitosti</li>
+    <li>    vystudoval biofyziku a pracoval jako výzkumník a programátor</li>
+    </ul>
+
 -
   img: lukas-blazej-round.jpg
   name: Lukáš Blažej 
   role: Protikorupční aktivista a odborník na právo životního prostředí 
   description: > 
-      Životnímu prostředí se věnuji dlouhodobě, ale teprve na stáži v Evropském parlamentu jsem poznal, jak důležitou roli v něm hrají europoslanci. Vymírání hmyzu, mikroplasty ve vodě nebo vysychání půdy – žádný z těchto problémů nelze vyřešit na úrovni jediného státu. S Piráty k nim přistupujeme racionálně na základě vědeckých poznatků a s vaší pomocí v tom budeme pokračovat i v europarlamentu.
+    <ul>
+    <li>    získal Cenu za odvahu Nadačního fondu proti korupci za rozkrytí řady kauz města Ústí nad Labem</li>
+    <li>    opakovaně zastupoval české environmentální neziskové organizace při jednání na evropské úrovni</li>
+    <li>    založil spolek Ústecké šrouby, který podporuje ochranu přírody a krajiny</li>
+    </ul>
+
 -
   img: jana-kolarikova.jpg
   name: Jana Koláříková 
   role: HR manažerka a specialistka na rozvojovou spolupráci 
   description: > 
-      Chci ovlivňovat evropskou politiku, protože mi není lhostejná budoucnost. Pro naše děti by mělo být i nadále snadné cestovat a pracovat, kde se jim zachce. Naopak se mi příčí, aby ve 21. století a v době nadprodukce museli lidé řešit existenční problémy. Pro nás neexistují občané druhé kategorie. Všichni mají nárok na férové podmínky.
+    <ul>
+    <li>vedoucí personálního odboru Pirátů</li>
+    <li>věnovala se rozvojové vzdělávací práci v Malawi</li>
+    <li>má zkušenosti z neziskové organizace pracující s drogově závislými</li>
+    </ul>
+
 -
   img: ondrej-kolek.jpg
   name: Ondřej Kolek
