@@ -9,7 +9,7 @@ author:       Mediální odbor
 ---
 
 
-Praha, 10. května 2019 - Zákon o svobodném přístupu k informacím č. 106/1999 Sb., již skoro 20 let umožňuje občanům získávat informace od státních orgánů. Před 20 lety, tedy 11. května 1999, Poslanecká sněmovna přijala návrh navržený Senátem. Cestu neměl jednoduchou, tehdy ho navrhly zamítnout hned čtyři výbory. Povinnost poskytovat informace vztahující se k jejich působnosti mají nyní státní orgány, územní samosprávné celky a veřejné instituce. Zákon například umožňuje občanům dostat se k dokumentům, které jsou hrazeny z peněz daňových poplatníků nebo k informacím o tom, jak je nakládáno s veřejnými prostředky. 
+Praha, 11. května 2019 - Zákon o svobodném přístupu k informacím č. 106/1999 Sb., již skoro 20 let umožňuje občanům získávat informace od státních orgánů. Před 20 lety, tedy 11. května 1999, Poslanecká sněmovna přijala návrh navržený Senátem. Cestu neměl jednoduchou, tehdy ho navrhly zamítnout hned čtyři výbory. Povinnost poskytovat informace vztahující se k jejich působnosti mají nyní státní orgány, územní samosprávné celky a veřejné instituce. Zákon například umožňuje občanům dostat se k dokumentům, které jsou hrazeny z peněz daňových poplatníků nebo k informacím o tom, jak je nakládáno s veřejnými prostředky. 
 
 
 > „Prostřednictvím žádosti o informace se veřejnost dostala například ke zprávě OLAF, která potvrdila dotační podvod v kauze Čapí hnízdo. Dále na základě žádosti o informace byly zveřejněny platy zaměstnanců Kanceláře prezidenta republiky, ale i ceny za zahraniční cesty bývalé ministryně Karly Šlechtové (ANO), nebo například plán na dostavbu Pražského okruhu a Metra D,” přibližuje předseda poslaneckého klubu Pirátů Jakub Michálek.
