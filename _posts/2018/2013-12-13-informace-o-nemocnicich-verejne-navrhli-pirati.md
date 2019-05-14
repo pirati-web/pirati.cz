@@ -8,7 +8,7 @@ image:        /assets/img/articles/2018/marek-paris.jpg
 author:       Mediální odbor
 ---
 
-13. prosince 2018 – Marek Paris, zástupce Pirátů v Dozorčí radě VZP, navrhnul na úterním zasedání rady doporučení zveřejňovat vykázanou péči na úroveň jednotlivých poskytovatelů zdravotních služeb. To by pacientům dalo možnost zjistit např. počet konkrétních provedených operací v krajských a fakultních nemocnicích. Dozorčí rada VZP přijala usnesení doporučující tyto údaje zveřejňovat.
+Marek Paris, zástupce Pirátů v Dozorčí radě VZP, navrhnul na úterním zasedání rady doporučení zveřejňovat vykázanou péči na úroveň jednotlivých poskytovatelů zdravotních služeb. To by pacientům dalo možnost zjistit např. počet konkrétních provedených operací v krajských a fakultních nemocnicích. Dozorčí rada VZP přijala usnesení doporučující tyto údaje zveřejňovat.
 
 > „Přijetí doporučení dozorčí radou považuji za velký úspěch. Přestože z těchto údajů nelze dělat závěry o kvalitě péče, je to jednoznačně krok správným směrem. Pacient má právo vědět například počet provedených ortopedických operací v nemocnicích v jeho kraji. Údaje potom mohou sloužit jako určité vodítko pro výběr nemocnice. Pacienti se tak nebudou muset spoléhat na informace z druhé ruky a budou si moci vybrat poskytovatele na základě svého uvážení a nově i těchto údajů,“ vysvětluje Paris přínos navrženého opatření pro pacienty.
 
