@@ -3,7 +3,7 @@ date:         2019-05-13
 category:     blog
 tags:         celostátní kontrola-moci-a-mocných vláda
 layout:       post
-title:        "Vláda v reakci na výzvu veřejné ochránkyně práv nepodpořila iniciativu Pirátů na zrušení poplatku za podnět na ÚOHS"
+title:        "Vláda nepodpořila iniciativu Pirátů na zrušení poplatku za podnět na ÚOHS"
 image:        /assets/img/articles/2018/pikal-vojtech.jpg
 author:       Mediální odbor
 ---
