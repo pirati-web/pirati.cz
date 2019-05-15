@@ -3,7 +3,7 @@ date:         2019-05-15
 category:     blog
 tags:         celostátní sněmovna legislativa
 layout:       post
-title:        "Díky Pirátům budou dotace v zemědělství průhlednější"
+title:        "Komentář Radka Holomčíka: Díky Pirátům budou dotace v zemědělství průhlednější"
 image:        /assets/img/articles/2018/holomcik2.jpg
 author:       Mediální odbor
 ---
