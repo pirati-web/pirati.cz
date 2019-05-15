@@ -3,7 +3,7 @@ date:         2019-05-15
 category:     blog
 tags:         celostátní sněmovna legislativa
 layout:       post
-title:        "Komentář Martina Jiránka: Hospodářský výbor se postavil za zrušení drakonických pokut při změně operátora"
+title:        "Komentář Martina Jiránka: Hospodářský výbor se postavil za zrušení vysokých pokut při změně operátora"
 image:        /assets/img/articles/2019/martin-jiranek.jpg
 author:       Mediální odbor
 ---
