@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní školství finance
 layout:       post
 title:        "Komentář Lukáše Bartoně: Vláda o platech učitelů v příštím roce stále mlží"
-image:        /assets/img/articles/2019/2019/barton-lukas.jpg
+image:        /assets/img/articles/2019/barton-lukas.jpg
 author:       Mediální odbor
 ---
 
