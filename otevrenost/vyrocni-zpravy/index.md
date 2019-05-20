@@ -4,6 +4,7 @@ rbar: otevrenost
 title: Výroční zprávy
 ---
 
+- [za rok 2018](https://zpravy.udhpsh.cz/zprava/vfz2018/pirati) (web ÚDHPSH)
 - [za rok 2017](https://zpravy.udhpsh.cz/zprava/vfz2017/pirati) (web ÚDHPSH)
 - [za rok 2016](2016/) [(pdf)](2016/2016.pdf)
 - [za rok 2015 (pdf)](2015/2015.pdf)
