@@ -3,7 +3,7 @@ date:         2019-05-20
 category:     blog
 tags:         celostátní vláda sněmovna legislativa
 layout:       post
-title:        "Komentář Mikuláše Ferjenčíka: Vláda odmítla návrh Pirátů snížit zdanění práce
+title:        "Komentář Mikuláše Ferjenčíka: Vláda odmítla návrh Pirátů snížit zdanění práce"
 image:        /assets/img/articles/2019/mikulas-ferjencik1.jpg
 author:       Mediální odbor
 ---
