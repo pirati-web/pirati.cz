@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní legislativa spravedlnost-a-justice
 layout:       post
 title:        "Kárné řízení a zavedení funkčního období – strany se shodly na posílení nezávislosti státních zástupců, Benešová předloží novelu v červnu"
-image:        /assets/img/articles/2019/michalek-seminar.jpg
+image:        /assets/img/articles/2019/michalek-seminar.jpeg
 author:       Mediální odbor
 ---
 
