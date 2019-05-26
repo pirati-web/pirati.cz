@@ -28,7 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11"
+  gem "jekyll-assets", "3.0.10"
   gem 'jekyll-environment-variables'
 end
 
