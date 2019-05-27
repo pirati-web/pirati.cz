@@ -13,6 +13,6 @@ Praha, 27. května 2019 – Ve volbách do Evropského parlamentu získala Pirá
 
 > „Pro evropské volby jsme představili kvalitní program a kompetentní kandidáty s patřičnou odborností. V programu jsme identifikovali zásadní problémy, s nimiž se Evropská unie potýká. Evropa potřebuje systematicky řešit témata, jako je reforma autorských práv, daňové ráje a zastropování zemědělských dotací. Voličům, kteří nás podpořili, patří náš dík,“ uvedl po oznámení konečných výsledků lídr pirátské kandidátky Marcel Kolaja.
 
-> „V evropském parlamentu budeme hájit nejenom národní, ale i celoevropský program Pirátů. Doufáme, že se naše práce promítne v dalších volbách a Piráti budou posilovat v Evropě podobně, jako se to daří Pirátům v České republice,“ uvedla nově zvolená europoslankyně a předsedkyně Evropské pirátské strany Markéta Gregorová.
+> „V evropském parlamentu budeme hájit nejenom národní, ale i celoevropský program Pirátů. Doufáme, že se naše práce promítne v dalších volbách a Piráti budou posilovat v Evropě podobně, jako se to daří Pirátům v České republice,“ sdělila nově zvolená europoslankyně a předsedkyně Evropské pirátské strany Markéta Gregorová.
 
 > „Děkuji voličům za vloženou důvěru. Politické zemětřesení v Bruselu dělá z Pirátů zajímavé partnery pro ostatní politické strany. Věřím, že se nám díky tomu podaří znovu otevřít otázku směrnice o copyrightu, daňových rájů a dalších pro nás důležitých témat při nastávajícím jednání o složení Evropské komise,“ uvedl Mikuláš Peksa, zvolený ze třetího místa kandidátky.
