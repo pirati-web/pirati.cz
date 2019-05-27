@@ -1,7 +1,7 @@
 ---
 date:         2019-05-27
 category:     blog
-tags:         evropská-unie celostátní
+tags:         evropská-unie celstátní
 layout:       post
 title:        "Piráti vyšlou do Bruselu tři europoslance"
 image:        /assets/img/articles/2019/dekujeme-ep.jpg
