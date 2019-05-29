@@ -10,9 +10,9 @@ author:       Mediální odbor
 
 Brusel, 29. května 2019 - Nově zvolení pirátští europoslanci se zúčastnili společného jednání v rámci politické skupiny Greens/Evropská svobodná aliance. „Setkání přineslo významný pokrok ve vyjednávání o vstupu do této frakce, ve které je nejlepší předpoklad k prosazení našeho volebního programu,” uvedl lídr kandidátky do eurovoleb Marcel Kolaja.
 
-> Jednání kromě jiného zahrnovala také požadavky, které frakce vznese vůči budoucímu předsedovi Evropské komise. 
+Jednání kromě jiného zahrnovala také požadavky, které frakce vznese vůči budoucímu předsedovi Evropské komise. 
 
-„Jednou z nich bude náš požadavek na zastavení nové legislativy o monitoringu osob,” vysvětluje německý pirátský europoslanec Patrick Breyer. „Aniž bychom bránili naši svobodu a základní práva na soukromí, směřujeme bez odporu do společnosti permanentního sledování a vzájemné nedůvěry. Budeme prosazovat svobodu projevu na internetu a bránit cenzuře ve všech jejích podobách,” dodává Breyer.
+> „Jednou z nich bude náš požadavek na zastavení nové legislativy o monitoringu osob,” vysvětluje německý pirátský europoslanec Patrick Breyer. „Aniž bychom bránili naši svobodu a základní práva na soukromí, směřujeme bez odporu do společnosti permanentního sledování a vzájemné nedůvěry. Budeme prosazovat svobodu projevu na internetu a bránit cenzuře ve všech jejích podobách,” dodává Breyer.
 
 Další z požadavků je bezodkladné zveřejnění šetření Evropské komise ohledně střetu zájmu českého premiéra Andreje Babiše a auditu společnosti Agrofert.
 
