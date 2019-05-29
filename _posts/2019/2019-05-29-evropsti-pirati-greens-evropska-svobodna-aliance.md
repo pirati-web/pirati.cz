@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie
 layout:       post
 title:        "Evropští Piráti se zúčastnili zasedání politické skupiny Evropského parlamentu Greens/Evropská svobodná aliance"
-image:        /assets/img/articles/2019/eu-peksa-kolaja.jpg
+image:        /assets/img/articles/2019/pirati-greens.jpg
 author:       Mediální odbor
 ---
 
