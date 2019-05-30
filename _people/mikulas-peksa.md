@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 - euro
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: poslanec PSP ČR za Ústecký kraj, 4. místopředseda Pirátů, garant programového bodu Zahraničí             	# kratký popis, max 160 znaků
+description: Europoslanec, 4. místopředseda Pirátů, garant programového bodu Zahraničí 
 direct-contact: false
 mail:
 - mikulas.peksa@pirati.cz

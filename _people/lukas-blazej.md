@@ -3,13 +3,11 @@ uid: lukas.blazej
 name:     Lukáš Blažej                      # běžně používáné jméno
 fullname: Lukáš Blažej                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
-   - euro
 img: people/lukas-blazej.jpg           # 165 x 220
 description: kandidát do europarlamentu, ústecký zastupitel, protikorupční aktivista a odborník na právo životního prostředí  
 mail:
 - lukas.blazej@pirati.cz
 mob: 
-ordeuro: 4
 profiles:
   github:
   facebook: https://www.facebook.com/blazej.lukas

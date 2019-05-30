@@ -5,7 +5,7 @@ fullname: Marcel Kolaja                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - euro
 img: people/marcel-kolaja.jpg           # 165 x 220
-description: leader do europarlamentu, manažer v softwarové firmě a expert na opensource technologie 
+description: Europoslanec, bojovník za svobodný software a expert na opensource technologie
 mail:
 - marcel.kolaja@pirati.cz
 mob: 

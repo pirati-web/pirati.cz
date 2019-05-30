@@ -4,10 +4,8 @@ name:     Jana Kolaříková      		# běžně používáné jméno
 fullname: Bc. Jana Kolaříková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
-- euro
 img: people/jana-kolarikova.jpg           # 165 x 220
 description: kandidátka do europarlamentu, vedoucí Personálního odboru # kratký popis, max 160 znaků
-ordeuro: 5
 mail:
 - jana.kolarikova@pirati.cz
 mob: 770 113 643
