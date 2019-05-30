@@ -1,0 +1,30 @@
+---
+layout: default
+img: brand/logo.svg
+---
+{% include submenu.html %}
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#euro" class="c-simple-accordion-title">Europoslanci</a>
+                                    <div id="euro" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'euro'" | sort:"ordeuro" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>
+{% include button/central.html text="Program" url="/program/eurovoporlament2019" %}
