@@ -41,3 +41,6 @@ K projektům, které jsou v souladu s naším programem a kterým dáme prioritu
 * návrh podporovaný zájmovými skupinami, jinými stranami, médii či dalšími subjekty, které mohou prosazení návrhu pomoci.
 
 Posílejte nám prosím projekty, které jsou v souladu s [naším programem](https://www.pirati.cz/program/) a liberálně středovým politickým ukotvením Pirátské strany.
+
+<div style="margin: 2em auto;text-align: center;margin-top: 3em;"><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vRoq05o7XDoFoD0t4aViCAG1zrDGbwqhsAlKDY9dLTJFVPSw5r_Wz4U7zKsThw-uhsyPr3zL92LdNaa/pubhtml?gid%3D1630362413%26single%3Dtrue" target="_blank" style="display: inline-block;padding: 1em 2em;background: #e2f6ff;border: 1px solid #267ca4;cursor: pointer;color: #2b5ab7;">Najít kontaktního poslance</a>
+</div>
