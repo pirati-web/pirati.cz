@@ -95,11 +95,19 @@
                   {% endif %}
                 </ul>
               </li>
-              <li {% if page.url contains 'snemovna' %} class="is-active"{% endif %}>
-                <a href="https://www.evropapotrebuje.cz">Evropské volby</a>
-              </li>
-              <li {% if page.url contains 'snemovna' %} class="is-active"{% endif %}>
-                <a href="https://www.evropapotrebuje.cz">Kandidáti do EP</a>
+              <li{% if page.url contains 'parlament' or page.url contains 'snemovna' %} class="is-active"{% endif %}>
+                <a href="{{ '/snemovna/' | relative_url }}">Parlament</a>
+                <ul class="menu vertical">
+                  <li{% if page.url contains 'snemovna'%} class="is-active"{% endif %}>
+                    <a href="{{ '/snemovna/' | relative_url }}">Sněmovna</a>
+                  </li>
+                  <li{% if page.url contains 'senat'%} class="is-active"{% endif %}>
+                    <a href="https://senat.pirati.cz">Senát</a>
+                  </li>
+                  <li{% if page.url contains 'europarlament'%} class="is-active"{% endif %}>
+                    <a href="{{ '/europarlament/' | relative_url }}">Europarlament</a>
+                  </li>
+                </ul>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/program/' | relative_url }}">Program</a>
