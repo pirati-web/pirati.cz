@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní sněmovna kontrola-moci-a-mocných
 layout:       post
 title:        "Zaručte nezávislost státních zástupců, požadují Piráti po vládě. Babišovi a Benešové zaslali vlastní návrh"
-image:        /assets/img/articles/2019/michalek99.jpg
+image:        /assets/img/articles/2019/michalek98.jpg
 author:       Mediální odbor
 ---
 
