@@ -25,5 +25,5 @@ Návrh obsahuje pouze nejzákladnější opatření nezávislosti státního zas
 
 Na přípravě návrhu se podílela platforma Rekonstrukce státu.
 
-* [Návrh novely zákona o státním zastupitelství](https://pirati.cz/assets/pdf/návrh úzké novely z. o státním zastupitelství.pdf)
+* [Návrh úzké novely zákona o státním zastupitelství](https://pirati.cz/assets/pdf/návrh úzké novely z. o státním zastupitelství.pdf)
 * [Teze k posílení nezávislosti vedoucích státních zástupců](https://pirati.cz/assets/pdf/Teze-k-posílení-nezávislosti-vedoucích-státních zástupců.pdf)
