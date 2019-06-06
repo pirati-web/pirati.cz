@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní ksněmovna školství legislativa
 layout:       post
 title:        "Piráti odmítají experimentování s povinnou maturitou z matematiky, odnesou to desetitisíce studentů, varují"
-image:        /assets/img/articles/2019/jtk-skolstvi.JPG
+image:        /assets/img/articles/2019/tk-skolstvi.JPG
 author:       Mediální odbor
 ---
 
