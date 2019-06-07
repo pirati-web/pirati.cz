@@ -51,7 +51,7 @@ Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za
 
 * **[Ondřej Profant](/lide/ondrej-profant)**, poslanec zodpovědný za oblast informatiky, předseda podvýboru pro e-government.
 * **[Tomáš Martínek](/lide/tomas-martinek)**, poslanec, člen podvýboru pro e-government
-* **Ladislav Koubek**: egovernment specialista klubu Pirátů
+* **Bára Soukupová**: egovernment specialistka klubu Pirátů
 * **Jan Hamal Dvořák**: IT veřejná správa, linuxový admin, asistent O. Profanta
 * **Michal Bláha**
 * **Patrik Zandl**
