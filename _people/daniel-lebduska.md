@@ -3,9 +3,9 @@ uid: daniel.lebduska
 name:     Daniel Lebduška      		# běžně používáné jméno
 fullname: Bc. Daniel Lebduška		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
+- pak
 img: people/daniel-lebduska.jpg           # 165 x 220
-description: Předseda krajského sdružení Pardubického kraje # kratký popis, max 160 znaků
+description: Předseda krajského sdružení Pardubického kraje, výkonný ředitel, marketér # kratký popis, max 160 znaků
 mail:
 - daniel.lebduska@pirati.cz
 mob: 
