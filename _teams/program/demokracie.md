@@ -46,4 +46,4 @@ Tým se zatím neschází. Zodpovědným za shromažďování agendy na hlavní 
 Členové týmu jsou:
 
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme zejména s týmy [Spravedlnost](/pripoj-se/spravedlnost/) a [Místní rozvoj]([/pripoj-se/mistni-rozvoj/]) (a veřejnou správou).
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme zejména s týmy [Spravedlnost](/pripoj-se/spravedlnost/) a [Místní rozvoj](/pripoj-se/mistni-rozvoj/) (a veřejnou správou).
