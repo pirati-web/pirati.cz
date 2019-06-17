@@ -23,7 +23,7 @@ profiles:
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jan%20lipavsk%C3%BD&view_all=1
   report: https://forum.pirati.cz/poslanci-f884/report-poslance-jana-lipavskeho-t39022.html
-ordpsp: 5
+ordpsp: 3
 report: 1E2WqnQfo53CQSNy1sS6Dfm5WUjWmyRA8
 redmine: 124
 ---
