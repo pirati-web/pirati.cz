@@ -29,7 +29,7 @@ asistenti:
 ordrp: 1
 ordcar: 1
 ordga: 3
-ordpsp: 2
+ordpsp: 6
 report: 1Vm9V6BS0Yaeop1W09jSeLsBoFaWEGpJ_
 redmine: 157
 carousel:
