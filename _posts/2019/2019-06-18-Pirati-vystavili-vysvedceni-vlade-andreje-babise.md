@@ -19,4 +19,6 @@ Naopak jedničku získal premiér za „Pěstitelské práce: čerpání dotací
 > „Pan premiér rozšířil školní záhonek s řepkou na celé Česko. Holding čerpá tak dobře, že nezbývá na ostatní a jeho pěstitelských úspěchů si všimli i v zahraničí,” doplnil Michálek.
 
 
+
+
 [Vysvědčení vládě Andreje Babiše](https://pirati.cz/assets/pdf/vysvedceni_A0_3.pdf)
