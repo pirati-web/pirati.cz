@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní sněmovna legislativa
 layout:       post
 title:        "Příjmy z poplatků nejen pro lázeňská města se díky Pirátům zvýší"
-image:        /assets/img/articles/2019/petr-tresnak.jpg
+image:        /assets/img/articles/2019/tresnak-petr.jpg
 author:       Mediální odbor
 ---
 
