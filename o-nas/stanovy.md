@@ -110,7 +110,7 @@ keywords: stanovy, Pirátské stanovy, Stanovy České pirátské strany, Pirát
 - c) [republikové předsednictvo](#Čl-10-republikové-předsednictvo),
 - d) [komise](#Čl-11-komise) a [odbory](#Čl-12-odbory).
 
-(2) Organizační jednotky strany jsou [oblastní sdružení](#Čl-7-oblastní-sdružení) vytvořená na územním principu: oblastní sdružení jsou krajská sdružení a místní sdružení. Místní sdružení vyvíjí činnost v rámci příslušného krajského sdružení a je mu podřízeno. Člen podřízeného oblastního sdružení je tak též členem nad
+(2) Organizační jednotky strany jsou [oblastní sdružení](#Čl-7-oblastní-sdružení) vytvořená na územním principu: oblastní sdružení jsou krajská sdružení a místní sdružení. Místní sdružení vyvíjí činnost v rámci příslušného krajského sdružení a je mu podřízeno. Člen podřízeného oblastního sdružení je tak též členem nadřízeného oblastního sdružení.
 
 (3) V oblastních sdruženích jsou orgány strany
 
