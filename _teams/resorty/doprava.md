@@ -3,17 +3,20 @@ uid: doprava
 name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
-leader: david.witosz
-deputy:
+leader:
+- ondrej.polansky
+leader:
+- david.witosz
+contact:
 - jan.licka
 contact:
-- david.witosz
+- veronika.murzynova
 tags:
 - doprava
 - logistika
 category: resort
 redmine:
-forum:
+forum: https://forum.pirati.cz/viewforum.php?f=550
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=550&t=46370
 ---
@@ -27,15 +30,18 @@ Co děláme?
 * předkládáme vlastní pozměňovací návrhy
 * okruhy témat, která řešíme v souvislosti s legislativním procesem PSP:
   * novela zákona  416/2009 Sb. o urychlení výstavby dopravní infrastruktury
-  * novela zákona  56/2001 Sb o podmínkách provozu vozidel na pozemních komunikacích
+  * novely zákona  266/1994 Sb. (drážní zákon)
+  * další řadu poslaneckých i vládních návrhů a novel
 * další okruhy témat, která nyní řešíme:
+  * zavedení elektronického stavebního deníku pro nadlimitní zakázky
+  * plánování výstavby VRT - rychlých železničních spojení
   * stáčení odometrů
-  * železniční systém Brno
+  * železniční uzel Brno
   * mýtný systém v ČR
   * nelegální billboardy
-  * plánování výstavby VRT aneb rychlá spojení
-  * rozpočet SFDI
+  * rozpočet SFDI, UPDI, státní rozpočet
   * zákon o liniových stavbách
+  * kosmické aktivity
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub
 * předkládáme pozměňovací návrhy a připomínkujeme sněmovní tisky
 * sledujeme práci vlády a vyjadřujeme se k práci Ministerstva dopravy
@@ -45,18 +51,20 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Pokud souhlasíte s [pirátským programem v oblasti dopravy a logistiky](https://www.pirati.cz/program/psp2017/doprava/) a chcete nám pomoci, ozvěte se prosím:
+Pokud souhlasíte s [pirátským programem v oblasti dopravy a logistiky](https://www.pirati.cz/program/psp2017/doprava/) a chcete nám pomoci, ozvěte se!
+Nabízíme zapojení expertům na různá dopravní odvětví, právníkům i nadšencům.
 
-a) pokud jste z Čech - Janu Ličkovi, zástupci garanta dopravy na jan.licka@pirati.cz
+Hlavní kontakt, tajemnice dopravího týmu: Veronika Murzynová, veronika.murzynova@pirati.cz
 
-b) pokud jste z Moravy a Slezska - Davidu Witoszovi, garantovi dopravy na david.witosz@pirati.cz
+Vedoucí týmu, koordinátor krajských týmů: Jan Lička, jan.licka@pirati.cz
 
-c) pokud jste z Prahy - Michalu Štěpánovi na michal.stepan@pirati.cz
+Garant programového bodu: David Witosz, david.witosz@pirati.cz
 
-Fungování platformy pro životní prostředí
+Fungování týmu dopravy
 ----------------------
 
-Scházíme se podle potřeby. Většinou spolupracujeme online. Schůzky online procesně  koordinuje Jan Lička. Setkání týmu dopravy se rovněž odehrává osobně minimálně jednou ročně. O těchto schůzkách se můžete dovědět na pirátském fóru v sekci Doprava.
+Scházíme se podle potřeby, běžně přizýváme spolupracovníky na jednání meziresortních týmů a sněmovních podvýborů.
+Každé úterý ve 20:00 se scházíme online na Skype, pro zapojení prosím kontaktuj Veroniku nebo Honzu.
 
 Členové týmu jsou:
 
