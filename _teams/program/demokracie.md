@@ -11,7 +11,7 @@ contact-local:
   mob:
   mail: stanislav.zavadil@pirati.cz
   img: 
-category: resort
+category: tym
 redmine: https://redmine.pirati.cz/projects/demokracie
 uid: demokracie
 forum: https://forum.pirati.cz/viewforum.php?f=534
