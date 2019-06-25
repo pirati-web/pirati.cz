@@ -1,7 +1,7 @@
 ---
 date:         2019-03-08
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných
+tags:         sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Sněmovna schválila návrh Pirátů na zrušení výjimek z registru smluv pro ČEZ a další společnosti"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
