@@ -1,7 +1,7 @@
 ---
 date:         2019-04-08
 category:     blog
-tags:         celostátní Evropská-unie celostátní kontrola-moci-a-mocných
+tags:         celostátní evropská-unie celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "O dvojí kvalitě potravin se v europarlamentu rozhodne za týden"
 image:        /assets/img/articles/2019/jana-kolarikova1.jpg
