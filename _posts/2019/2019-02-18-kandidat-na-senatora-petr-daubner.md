@@ -1,7 +1,7 @@
 ---
 date:         2019-02-18
 category:     blog
-tags:         celostátní Praha senát volby
+tags:         celostátní senát volby
 layout:       post
 title:        "Kandidátem Pirátů na senátora v obvodě Praha 9 je Petr Daubner"
 image:        /assets/img/articles/2019/daubner-petr.jpg
