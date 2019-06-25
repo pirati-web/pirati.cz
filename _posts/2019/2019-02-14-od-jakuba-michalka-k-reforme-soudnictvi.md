@@ -1,7 +1,7 @@
 ---
 date:         2019-02-14
 category:     blog
-tags:         celostátní kontrola-moci-a-mocných
+tags:         celostátní kontrola-moci-a-mocných legislativa
 layout:       post
 title:        "Piráti zaslali ministrovi návrhy, jak zrychlit soudy: Omezit zbytečnou represi, analyzovat rozdíly mezi soudy, vymáhat škodu po odsouzených soudcích a povolit hromadné žaloby"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
