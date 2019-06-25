@@ -1,7 +1,7 @@
 ---
 date:         2018-08-15
 category:     blog
-tags:         sněmovna zemědělství kauzy agrofert
+tags:         sněmovna zemědělství kauzy kontrola-moci-a-mocných
 layout:       post
 title:        "Garanční fond dal Pirátům za pravdu. Agrofert by měl státu vrátit peníze"
 image:        /assets/img/articles/2018/konieczny.jpg
