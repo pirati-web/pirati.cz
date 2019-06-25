@@ -1,7 +1,7 @@
 ---
 date:         2019-03-21
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných
+tags:         sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Jakuba Michálka: Tvorba zákonů přes internet do roku a čtvrt, slíbilo vnitro"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
