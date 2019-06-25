@@ -1,7 +1,7 @@
 ---
 date:         2019-01-31
 category:     blog
-tags:         sněmovna Obchod
+tags:         sněmovna finance
 layout:       post
 title:        "Založit firmu půjde za jeden den a online. Piráti připravili potřebnou legislativu"
 image:        /assets/img/articles/2019/firma-za-den.jpg 
