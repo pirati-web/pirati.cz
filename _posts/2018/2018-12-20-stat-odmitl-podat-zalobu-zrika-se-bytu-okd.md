@@ -1,7 +1,7 @@
 ---
 date:         2018-12-20
 category:     blog
-tags:         sněmovna kauzy byty
+tags:         sněmovna kauzy kontrola-moci-a-mocných
 layout:       post
 title:        "Stát odmítl podat žalobu, zříká se tak šance na vrácení bytů OKD, kritizuje šéf vyšetřovací komise Lukáš Černohorský"
 image:        /assets/img/articles/2018/cernohorsky.jpg
