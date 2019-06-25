@@ -1,7 +1,7 @@
 ---
 date:         2019-02-27
 category:     blog
-tags:         sněmovna Doprava-a-logistika Spravedlnost-a-justice
+tags:         sněmovna doprava spravedlnost-a-justice
 layout:       post
 title:        "Komentář předsedy poslaneckého klubu Pirátů Jakuba Michálka: Nová pravidla pro taxislužbu: Pokrok pro zákazníky a moderní dobu"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
