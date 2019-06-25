@@ -1,7 +1,7 @@
 ---
 date:         2019-02-19
 category:     blog
-tags:         komentář Informatika
+tags:         komentář informatika
 layout:       post
 title:        "Komentář pirátského poslance Lukáše Bartoně: Celoplošný zákaz mobilních telefonů ve školách je krokem zpět"
 image:        /assets/img/articles/2018/barton.jpg
