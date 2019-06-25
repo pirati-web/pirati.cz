@@ -1,7 +1,7 @@
 ---
 date:         2019-02-13
 category:     blog
-tags:         celostátní Kontrola-moci-a-mocných
+tags:         celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti prosadili rozšíření pravomocí NKÚ, nově by měl kontrolovat i města a kraje"
 image:        /assets/img/articles/2019/cernohorsky2.jpg
