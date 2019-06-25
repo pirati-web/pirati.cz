@@ -1,7 +1,7 @@
 ---
 date:         2019-03-12
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných
+tags:         sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Ondřeje Polanského: Vláda rezignovala na boj s korupcí, akční plán je nedostatečný"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
