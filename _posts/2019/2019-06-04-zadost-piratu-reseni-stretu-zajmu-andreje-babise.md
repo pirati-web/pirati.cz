@@ -1,7 +1,7 @@
 ---
 date:         2019-06-04
 category:     blog
-tags:         celostátní Evropská-unie kontrola-moci-a-mocných
+tags:         celostátní evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "Pirátští europoslanci žádají Tuska a Junckera o řešení Babišova střetu zájmů"
 image:        /assets/img/articles/2019/peksa.jpg
