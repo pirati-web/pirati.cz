@@ -1,7 +1,7 @@
 ---
 date:         2019-04-16
 category:     blog
-tags:         Evropská-unie celostátní kontrola-moci-a-mocných
+tags:         evropská-unie celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Důslednější výběr poplatků od Airbnb by Praze přinesl přes 120 milionů korun, navrhují Piráti"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
