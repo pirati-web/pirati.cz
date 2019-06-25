@@ -1,7 +1,7 @@
 ---
 date:         2019-02-20
 category:     blog
-tags:         sněmovna Spravedlnost-a-justice
+tags:         sněmovna spravedlnost-a-justice
 layout:       post
 title:        "Piráti chtějí regulovat prostituci"
 image:        /assets/img/articles/2019/tk-regulace.jpg
