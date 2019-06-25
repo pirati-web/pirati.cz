@@ -1,7 +1,7 @@
 ---
 date:         2019-04-15
 category:     blog
-tags:         Evropská-unie celostátní kontrola-moci-a-mocných
+tags:         evropská-unie celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Pokud bude Evropská komise dál otálet s rozhodnutím ohledně střetu zájmů premiéra Babiše, obrátí se Piráti na Evropský soudní dvůr"
 image:        /assets/img/articles/2019/ivan-dvere.jpg
