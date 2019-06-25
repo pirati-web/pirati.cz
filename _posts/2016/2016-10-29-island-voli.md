@@ -1,7 +1,7 @@
 ---
 date:         2016-10-29
 category:     blog
-tags:         Island
+tags:         zahraničí
 layout:       post
 title:        "Island dnes volí poslance, Piráti mohou zvítězit."
 image:        /assets/img/articles/2016/bj2.jpg
