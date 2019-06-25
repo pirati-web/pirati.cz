@@ -1,7 +1,7 @@
 ---
 date:         2019-02-20
 category:     blog
-tags:         sněmovna Spravedlnost-a-justice
+tags:         sněmovna spravedlnost-a-justice
 layout:       post
 title:        "Problémy sociálně vyloučených lokalit jsou časovanou bombou. Richterová opět interpeluje premiéra ohledně sociálního bydlení a chudoby"
 image:        /assets/img/articles/2019/richterova-pult.jpg
