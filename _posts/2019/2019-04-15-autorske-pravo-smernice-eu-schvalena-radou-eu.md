@@ -1,7 +1,7 @@
 ---
 date:         2019-04-15
 category:     blog
-tags:         Evropská-unie celostátní autorské-právo
+tags:         evropská-unie celostátní autorské-právo
 layout:       post
 title:        "Rada EU definitivně schválila směrnici o autorském právu"
 image:        /assets/img/articles/2019/kolaja-tk.jpg
