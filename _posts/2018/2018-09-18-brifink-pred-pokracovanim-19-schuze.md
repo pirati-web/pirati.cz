@@ -1,7 +1,7 @@
 ---
 date:         2018-09-18
 category:     blog
-tags:         sněmovna gdpr NKÚ rozpočet
+tags:         sněmovna gdpr rozpočet
 layout:       post
 title:        "Piráti představili návrh na rozšíření pravomocí NKÚ a budou usilovat o snížení schodku rozpočtu"
 image:        /assets/img/articles/2018/tz-18zari.jpg
