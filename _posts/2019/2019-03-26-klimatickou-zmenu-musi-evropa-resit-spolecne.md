@@ -1,7 +1,7 @@
 ---
 date:         2019-03-26
 category:     blog
-tags:         sněmovna celostátní Evropská-unie životní-prostředí
+tags:         sněmovna celostátní evropská-unie životní-prostředí
 layout:       post
 title:        "Pirátka Balcarová: Klimatickou změnu musí Evropa řešit společně"
 image:        /assets/img/articles/2019/balcarova-petricciani.jpeg
