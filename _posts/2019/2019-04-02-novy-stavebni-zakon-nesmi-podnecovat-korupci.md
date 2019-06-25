@@ -1,7 +1,7 @@
 ---
 date:         2019-04-02
 category:     blog
-tags:         celostátní Kontrola-moci-a-mocných komentář
+tags:         celostátní kontrola-moci-a-mocných komentář
 layout:       post
 title:        "Elfmark: Nový stavební zákon nesmí podněcovat korupci"
 image:        /assets/img/articles/2019/elfmark.jpg
