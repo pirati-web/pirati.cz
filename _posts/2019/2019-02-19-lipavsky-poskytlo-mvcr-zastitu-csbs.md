@@ -1,7 +1,7 @@
 ---
 date:         2019-02-19
 category:     blog
-tags:         komentář Obrana
+tags:         komentář obrana
 layout:       post
 title:        "Lipavský: Poskytlo Ministerstvo obrany ČR záštitu vzpomínkovému večeru Českého svazu bojovníků za svobodu?"
 image:        /assets/img/articles/2018/lipavsky.jpg
