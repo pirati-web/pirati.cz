@@ -1,7 +1,7 @@
 ---
 date:         2019-02-08
 category:     blog
-tags:         Evropská-unie
+tags:         evropská-unie
 layout:       post
 title:        "Piráti podepsali společný program evropských pirátských stran"
 image:        /assets/img/articles/2019/gregorova.jpg
