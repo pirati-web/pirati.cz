@@ -1,7 +1,7 @@
 ---
 date:         2019-03-13
 category:     blog
-tags:         sněmovna legislativa Kontrola-moci-a-mocných
+tags:         sněmovna legislativa kontrola-moci-a-mocných
 layout:       post
 title:        "Sněmovna schválila omezení kumulace platů politiků, které Piráti dlouhodobě prosazují"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
