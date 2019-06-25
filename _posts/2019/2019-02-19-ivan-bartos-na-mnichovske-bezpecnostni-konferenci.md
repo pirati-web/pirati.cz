@@ -1,7 +1,7 @@
 ---
 date:         2019-02-19
 category:     blog
-tags:         Obrana
+tags:         obrana
 layout:       post
 title:        "Nejen mezinárodní otázky diskutoval předseda Pirátů Bartoš na mezinárodní Mnichovské bezpečnostní konferenci 2019"
 image:        /assets/img/articles/2019/ivan-bartos-mnichov.jpg
