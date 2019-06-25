@@ -1,7 +1,7 @@
 ---
 date:         2019-04-18
 category:     blog
-tags:         sněmovna Evropská-unie kontrola-moci-a-mocných
+tags:         sněmovna evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti, ODS a KDU-ČSL chtějí v příštím týdnu mimořádnou schůzi ke střetu zájmů premiéra, zprávě NKÚ a deficitnímu rozpočtu vlády"
 image:        /assets/img/articles/2019/ivan-bartos-znak.jpg
