@@ -1,7 +1,7 @@
 ---
 date:         2019-03-12
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných legislativa
+tags:         sněmovna celostátní kontrola-moci-a-mocných legislativa
 layout:       post
 title:        "Schválením informačního příkazu končí obstrukce úřadů při získávání informací občany"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
