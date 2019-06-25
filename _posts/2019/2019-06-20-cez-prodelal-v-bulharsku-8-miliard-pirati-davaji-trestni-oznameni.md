@@ -1,7 +1,7 @@
 ---
 date:         2019-06-20
 category:     blog
-tags:         celostátní sněmovna legislativa Spravedlnost-a-justice
+tags:         celostátní sněmovna legislativa spravedlnost-a-justice
 layout:       post
 title:        "Piráti podávají trestní oznámení, ČEZ na bulharské elektrárně prodělal až 8,5 miliard Kč"
 image:        /assets/img/articles/2019/tk-cez-bul.jpg
