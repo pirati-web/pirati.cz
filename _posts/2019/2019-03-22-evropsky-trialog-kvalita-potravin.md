@@ -1,7 +1,7 @@
 ---
 date:         2019-03-22
 category:     blog
-tags:         sněmovna celostátní Evropská-unie kontrola-moci-a-mocných
+tags:         sněmovna celostátní evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "Evropský trialog nedokázal vyjednat konec produkce potravin dvojí kvality"
 image:        /assets/img/articles/2019/peksa.jpg
