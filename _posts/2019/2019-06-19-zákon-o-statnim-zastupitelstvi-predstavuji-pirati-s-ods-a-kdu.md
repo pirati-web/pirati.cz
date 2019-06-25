@@ -1,7 +1,7 @@
 ---
 date:         2019-06-19
 category:     blog
-tags:         celostátní sněmovna legislativa Spravedlnost-a-justice
+tags:         celostátní sněmovna legislativa spravedlnost-a-justice
 layout:       post
 title:        "Piráti, ODS a KDU-ČSL představují návrh novely zákona o státním zastupitelství"
 image:        /assets/img/articles/2019/michalek99.jpg
