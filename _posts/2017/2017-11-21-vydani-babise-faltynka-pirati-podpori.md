@@ -5,7 +5,7 @@ title: "Piráti budou hlasovat pro vydání Babiše a Faltýnka"
 date: 2017-11-21T13:30:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-jakub-vydani.jpg
-tags: babiš
+tags: sněmovna 
 ---
 
 Praha, 21. listopadu 2017 - Poslanecký klub Pirátů se již na svém ustavujícím zasedání dne 22. října 2017 jednomyslně shodl, že ve Sněmovně bude hlasovat pro vydání poslanců Andreje Babiše a Jaroslava Faltýnka k trestnímu stíhání. Piráti tak byli první, kteří po volbách deklarovali, že budou pro vydání hlasovat. 
