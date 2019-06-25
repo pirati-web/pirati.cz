@@ -1,7 +1,7 @@
 ---
 date:         2019-03-25
 category:     blog
-tags:         sněmovna celostátní Evropská-unie kontrola-moci-a-mocných
+tags:         sněmovna celostátní evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "O cenzuře internetu v EU rozhodne zítřejší hlasování europarlamentu"
 image:        /assets/img/articles/2019/kolaja-marcel.jpg
