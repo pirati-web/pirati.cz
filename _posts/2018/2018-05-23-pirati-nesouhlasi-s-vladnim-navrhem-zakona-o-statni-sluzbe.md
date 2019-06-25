@@ -1,7 +1,7 @@
 ---
 date:         2018-05-23
 category:     blog
-tags:         Sněmovna
+tags:         sněmovna
 layout:       post
 title:        "Sněmovna posunula dál novelu zákona o státní službě. Piráti nesouhlasí"
 image:        /assets/img/articles/2018/jakub-ivan-lavice.jpg
