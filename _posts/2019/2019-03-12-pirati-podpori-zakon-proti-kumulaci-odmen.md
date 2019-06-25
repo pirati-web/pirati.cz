@@ -1,7 +1,7 @@
 ---
 date:         2019-03-12
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných legislativa
+tags:         sněmovna celostátní kontrola-moci-a-mocných legislativa
 layout:       post
 title:        "Piráti podpoří zákon proti kumulaci odměn a senátní daňový balíček. V pátek chtějí jednat o změně klimatu"
 image:        /assets/img/articles/2019/tk-2019.jpg
