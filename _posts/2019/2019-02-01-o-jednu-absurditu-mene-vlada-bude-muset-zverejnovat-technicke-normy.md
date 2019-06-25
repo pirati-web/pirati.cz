@@ -1,7 +1,7 @@
 ---
 date:         2019-02-01
 category:     blog
-tags:         sněmovna Informatika
+tags:         sněmovna informatika
 layout:       post
 title:        "Komentář Ondřeje Profanta: O jednu absurditu méně – vláda bude muset nově zveřejňovat technické normy"
 image:        /assets/img/articles/2018/ondrej-profant1.jpg 
