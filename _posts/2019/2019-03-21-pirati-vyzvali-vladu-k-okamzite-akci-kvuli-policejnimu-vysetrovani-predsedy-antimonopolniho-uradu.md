@@ -1,7 +1,7 @@
 ---
 date:         2019-03-21
 category:     blog
-tags:         sněmovna celostátní Kontrola-moci-a-mocných
+tags:         sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti vyzvali vládu k okamžité akci kvůli policejnímu vyšetřování předsedy antimonopolního úřadu"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
