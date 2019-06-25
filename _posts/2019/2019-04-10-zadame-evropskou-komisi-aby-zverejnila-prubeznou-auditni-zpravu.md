@@ -1,7 +1,7 @@
 ---
 date:         2019-04-10
 category:     blog
-tags:         Zahraničí Kontrola-moci-a-mocných
+tags:         zahraničí kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti vyzvali Evropskou komisi, aby zveřejnila průběžnou auditní zprávu v souvislosti se střetem zájmů Andreje Babiše"
 image:        /assets/img/articles/2019/berlaymont.jpg
