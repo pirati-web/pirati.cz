@@ -1,7 +1,7 @@
 ---
 date:         2019-02-28
 category:     blog
-tags:         sněmovna Informatika Spravedlnost-a-justice
+tags:         sněmovna informatika spravedlnost-a-justice
 layout:       post
 title:        "Zveřejněte instrukci pro hlasování ČR o návrhu směrnice k autorskému právu, žádají Piráti ministra kultury"
 image:        /assets/img/articles/2019/peksa.jpg
