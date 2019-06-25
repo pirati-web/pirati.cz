@@ -1,7 +1,7 @@
 ---
 date:         2019-03-26
 category:     blog
-tags:         sněmovna celostátní Evropská-unie
+tags:         sněmovna celostátní evropská-unie
 layout:       post
 title:        "Piráti: Dnešní rozhodnutí europoslanců omezí svobodu internetu "
 image:        /assets/img/articles/2019/europarlament.jpg
