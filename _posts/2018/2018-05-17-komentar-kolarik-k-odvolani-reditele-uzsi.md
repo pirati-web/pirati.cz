@@ -1,7 +1,7 @@
 ---
 date:         2018-05-17
 category:     blog
-tags:         bezpečnost
+tags:         bezpečnost vnitro
 layout:       post
 title:        "Komentář Piráta Lukáše Koláříka k postavení šéfa civilní rozvědky Jiřího Šaška mimo službu"
 image:        /assets/img/articles/2018/lukas-kolarik.jpg
