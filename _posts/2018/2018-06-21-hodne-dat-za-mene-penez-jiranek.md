@@ -1,7 +1,7 @@
 ---
 date:         2018-06-21
 category:     blog
-tags:         telekomunikace
+tags:         obchod 
 layout:       post
 title:        "Pirát Martin Jiránek: Češi si zaslouží adekvátní ceny za mobilní data"
 image:        assets/img/articles/2018/jirnanek-vysilac.jpg
