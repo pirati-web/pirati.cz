@@ -1,7 +1,7 @@
 ---
 date:         2019-03-20
 category:     blog
-tags:         sněmovna celostátní obrana bezpečnost cenzura
+tags:         sněmovna celostátní obrana bezpečnost cenzura vnitro
 layout:       post
 title:        "Piráti: Soukromí občanů v ohrožení. Vláda chce zavést možnost zpravodajských služeb šmírovat občany na internetu "
 image:        /assets/img/articles/2018/kopriva.jpg
