@@ -1,7 +1,7 @@
 ---
 date:         2019-04-26
 category:     blog
-tags:         celostátní tranparentnost sněmovna média
+tags:         celostátní transparentnost sněmovna média
 layout:       post
 title:        "Piráti budou nominovat Josefa Šlerku do Rady ČTK i v příští volbě"
 image:        /assets/img/articles/2019/josef-slerka1.jpg
