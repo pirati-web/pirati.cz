@@ -1,7 +1,7 @@
 ---
 date:         2018-01-23
 category:     blog
-tags:         bezpečnost
+tags:         bezpečnost vnitro sněmovna
 layout:       post
 title:        "Piráti nominovali do čela komise pro kontrolu GIBS poslance Mikuláše Ferjenčíka"
 image:        /assets/img/articles/2018/ferjencik-snemovna.jpg
