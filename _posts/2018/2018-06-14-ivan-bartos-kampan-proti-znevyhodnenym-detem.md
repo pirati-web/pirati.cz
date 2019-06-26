@@ -1,7 +1,7 @@
 ---
 date:         2018-06-14
 category:     blog
-tags:         děti
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Piráti spouští kampaň na pomoc sociálně znevýhodněným dětem"
 image:        assets/img/articles/2018/ivan-9.jpg
