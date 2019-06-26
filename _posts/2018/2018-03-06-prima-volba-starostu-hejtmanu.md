@@ -1,7 +1,7 @@
 ---
 date:         2018-03-06
 category:     blog
-tags:         přímá demokracie
+tags:         přímá-demokracie legislativa
 layout:       post
 title:        "Komentář místopředsedy Sněmovny a pirátského poslance Vojtěcha Pikala k návrhu přímé volby starostů a hejtmanů"
 image:        /assets/img/articles/2018/pikal.jpg
