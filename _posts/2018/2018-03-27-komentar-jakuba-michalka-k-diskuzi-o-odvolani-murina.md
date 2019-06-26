@@ -1,7 +1,7 @@
 ---
 date:         2018-03-27
 category:     blog
-tags:         sněmovna bezpečnost
+tags:         sněmovna bezpečnost vnitro
 layout:       post
 title:        "Komentář předsedy poslaneckého klubu Pirátů Jakuba Michálka k dnešní schůzi o odvolání ředitele GIBS Murína"
 image:        /assets/img/articles/2018/michalek-snemovna.jpg
