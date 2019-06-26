@@ -1,7 +1,7 @@
 ---
 date:         2018-06-01
 category:     blog
-tags:         zahraničí bezpečnost
+tags:         zahraničí bezpečnost vnitro sněmovna
 layout:       post
 title:        "Piráti podpoří mandát pro zahraniční mise"
 image:        /assets/img/articles/2018/vlajka.jpg
