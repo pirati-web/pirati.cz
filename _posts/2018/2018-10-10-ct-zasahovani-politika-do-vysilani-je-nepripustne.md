@@ -1,7 +1,7 @@
 ---
 date:         2018-10-10
 category:     blog
-tags:         televize
+tags:         média sněmovna
 layout:       post
 title:        "Zasahování školského výboru do obsahu vysílání ČT je nepřípustné, říká poslanec Lukáš Bartoň"
 image:        /assets/img/articles/2018/barton.jpg
