@@ -1,7 +1,7 @@
 ---
 date:         2018-02-19
 category:     blog
-tags:         zahraničí bezpečnost
+tags:         zahraničí bezpečnost vnitro
 layout:       post
 title:        "Čeští Piráti se zúčastnili pirátské mezinárodní konference o bezpečnosti v Mnichově"
 image:        /assets/img/articles/2018/ivan4.jpg
