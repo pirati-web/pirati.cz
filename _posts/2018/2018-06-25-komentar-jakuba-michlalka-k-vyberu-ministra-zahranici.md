@@ -1,7 +1,7 @@
 ---
 date:         2018-06-25
 category:     blog
-tags:         vláda dopis komentář
+tags:         vláda komentář
 layout:       post
 title:        "Piráti doložili prezidentovi výhrady k Pochemu. Protikorupční vláda musí být bez Pocheho a bez Babiše"
 image:        assets/img/articles/2018/michalek.jpg
