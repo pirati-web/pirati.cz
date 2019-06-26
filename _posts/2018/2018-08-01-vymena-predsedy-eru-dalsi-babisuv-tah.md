@@ -1,7 +1,7 @@
 ---
 date:         2018-08-01
 category:     blog
-tags:         průmysl
+tags:         průmysl vláda
 layout:       post
 title:        "Komentář poslance Petra Třešňáka: Výměna předsedy rady ERÚ je další Babišův tah k posílení vlivu ANO"
 image:        assets/img/articles/2018/tresnak-petr.jpg
