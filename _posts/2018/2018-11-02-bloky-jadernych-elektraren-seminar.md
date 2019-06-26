@@ -1,7 +1,7 @@
 ---
 date:         2018-11-02
 category:     blog
-tags:         bezpečnost
+tags:         bezpečnost vnitro
 layout:       post
 title:        "Pirátští poslanci představili vizi pro budoucnost jaderné energetiky"
 image:        /assets/img/articles/2018/lipavsky.jpg
