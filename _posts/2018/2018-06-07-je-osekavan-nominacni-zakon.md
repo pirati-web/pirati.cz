@@ -1,7 +1,7 @@
 ---
 date:         2018-06-07
 category:     blog
-tags:         sněmovna trafiky
+tags:         sněmovna transparence
 layout:       post
 title:        "Vláda vyškrtla z nominačního zákona dozorčí rady a navrhne ještě horší zákon než před volbami"
 image:        /assets/img/articles/2018/martinek-zed.jpg
