@@ -1,7 +1,7 @@
 ---
 date:         2018-06-27
 category:     blog
-tags:         sněmovna trafiky
+tags:         sněmovna transparence
 layout:       post
 title:        "Sněmovna hlasovala o politických trafikách, Babiš odešel a jeho poslanci zákon potopili"
 image:        assets/img/articles/2018/trafiky-hlasovani.jpg
