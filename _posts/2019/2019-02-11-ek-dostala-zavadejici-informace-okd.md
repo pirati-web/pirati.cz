@@ -1,7 +1,7 @@
 ---
 date:         2019-02-11
 category:     blog
-tags:         celostátní sněmovna Moravskoslezský-kraj kauzy okd
+tags:         celostátní sněmovna moravskoslezský-kraj kauzy okd
 layout:       post
 title:        "Ministerstvo financí podalo Evropské komisi zavádějící informace o nedovolené podpoře Karbon Investu, upozornil Lukáš Černohorský evropskou komisařku"
 image:        /assets/img/articles/2019/cernohorsky-komisarka.jpg
