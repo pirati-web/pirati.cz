@@ -1,7 +1,7 @@
 ---
 date:         2018-11-06
 category:     blog
-tags:         děti
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Piráti iniciovali setkání v kojeneckém ústavu. Soustřeďme se na rodiny dětí s těžkým postižením a jejich doprovázení, říká Pirátka Richterová"
 image:        /assets/img/articles/2018/richterova-olga2.jpg
@@ -20,6 +20,4 @@ doplnila Richterová.
 
 Ředitelka dětského centra Veská podrobně informovala o povaze pobytových, terénních i respitních služeb, které poskytuje její zařízení, a upozornila, že se starají i o pacienty z jiných regionů. Komplikace s financováním zazněly také ze strany představitelů kraje. Ti žádali informace z ministerstev k tomu, jak bude zajištěno financování do budoucna, aby mohli adekvátním způsobem nastavit systémové projekty, o něž nyní mohou žádat z fondů EU.
 
-> „Všem jsem na místě slíbila, že budu i nadále komunikovat s příslušnými ministerstvy a současně připomínat, že před touto dírou v systému není možné dál zavírat oči,“ 
-
-zdůraznila Richterová.
+> „Všem jsem na místě slíbila, že budu i nadále komunikovat s příslušnými ministerstvy a současně připomínat, že před touto dírou v systému není možné dál zavírat oči,“ zdůraznila Richterová.
