@@ -1,7 +1,7 @@
 ---
 date:         2018-01-12
 category:     blog
-tags:         soud
+tags:         spravedlnost-a-justice
 layout:       post
 title:        "Jana Nečasová stáhla žalobu na Piráty"
 image:        /assets/img/articles/2018/necasova-autobus.jpg
