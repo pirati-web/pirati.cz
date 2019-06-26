@@ -1,7 +1,7 @@
 ---
 date:         2018-02-27
 category:     blog
-tags:         čez sněmovna bezpečnost
+tags:         čez sněmovna bezpečnost vnitro
 layout:       post
 title:        "Piráti budou požadovat zrušení výjimek pro ČEZ. Poslance Ferjenčíka chtějí do čela komise pro kontrolu GIBS"
 image:        /assets/img/articles/2018/mikulas.jpg
