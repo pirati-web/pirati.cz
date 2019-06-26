@@ -1,7 +1,7 @@
 ---
 date:         2018-05-10
 category:     blog
-tags:         bezpečnost
+tags:         bezpečnost vnitro sněmovna
 layout:       post
 title:        "Komentář Piráta Jana Lipavského k výsledkům jednání Zahraničního výboru a komise pro kontrolu Vojenského zpravodajství"
 image:        /assets/img/articles/2018/lipavsky.jpg
