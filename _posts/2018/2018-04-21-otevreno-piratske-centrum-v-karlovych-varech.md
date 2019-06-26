@@ -1,7 +1,7 @@
 ---
 date:         2018-04-21
 category:     blog
-tags:         Karlovarsko
+tags:         karlovarský-kraj
 layout:       post
 title:        "Pirátské centrum v Karlových Varech slavnostně otevřel Ivan Bartoš"
 image:        /assets/img/articles/2018/epice.jpg
