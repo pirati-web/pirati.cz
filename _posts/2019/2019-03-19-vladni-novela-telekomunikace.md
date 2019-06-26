@@ -1,7 +1,7 @@
 ---
 date:         2019-03-19
 category:     blog
-tags:         sněmovna celostátní média telekomunikace
+tags:         sněmovna celostátní média obchod
 layout:       post
 title:        "Piráti zahájili odbornou diskuzi nad vládní novelou zákona o elektronických komunikacích. Chceme konstruktivní shodu všech"
 image:        /assets/img/articles/2019/jiranek.jpg
