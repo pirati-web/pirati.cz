@@ -1,7 +1,7 @@
 ---
 date:         2018-09-07
 category:     blog
-tags:         sněmovna bezpečnost
+tags:         sněmovna bezpečnost vnitro
 layout:       post
 title:        "Se zbraněmi můžeme vyhovět EU i bez omezení našich občanů"
 image:        /assets/img/articles/2018/kolarik.jpg
