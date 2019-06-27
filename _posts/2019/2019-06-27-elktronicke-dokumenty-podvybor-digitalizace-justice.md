@@ -16,4 +16,5 @@ Na popud Pirátů Kancelář Poslanecké sněmovny v současné době připravuj
 
 Nejde o první úspěch Pirátů v digitalizaci vlastní agendy Sněmovny, protože už přibližně před rokem naučili úředníky Sněmovny pracovat s interpelacemi, které jsou podávány elektronicky přes datovou schránku. Řada ministrů však odpovědi podepisuje stále ručně.
 
-[Elektronicky podepsaný zápis z jednání Podvýboru pro digitalizaci justice a e-sbírku](https://pirati.cz/assets/pdf/00159006.pdf)
+
+* [Elektronicky podepsaný zápis z jednání Podvýboru pro digitalizaci justice a e-sbírku](https://pirati.cz/assets/pdf/00159006.pdf)
