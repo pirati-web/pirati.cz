@@ -25,7 +25,7 @@ twitter: https://twitter.com/PiratiUstecko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V regionu máme poslance [Mikuláše Peksu](https://ustecky.pirati.cz/lide/mikulas-peksa/). Na úrovni obcí máme okolo deseti zastupitelů. Místní sdružení máme v Ústí nad Labem, Děčíně, Kadani, Žatci a Litoměřicích.
+V regionu máme poslance [Františka Navrkala](https://ustecky.pirati.cz/lide/frantisek-navrkal/). Na úrovni obcí máme okolo deseti zastupitelů. Místní sdružení máme v Ústí nad Labem, Děčíně, Kadani, Žatci a Litoměřicích.
 
 ---
 **Více informací naleznete na [krajském webu](https://ustecky.pirati.cz).**
