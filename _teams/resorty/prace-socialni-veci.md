@@ -5,7 +5,7 @@ fullname: Tým pro oblast práce a sociálních věcí
 img: teams/resorty/prace-socialni-veci.jpg # obrázek nemusíte dodávat
 leader: olga.richterova
 deputy:
-- vit.simral
+- lukas.kolarik
 contact-local:
   name: Zuzana Freitas
   mob: 776 278 860
@@ -49,7 +49,6 @@ Tým pro oblast práce a sociální věci se schází podle potřeby, obvykle p�
 
 * **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
 * **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, poslanec, člen [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), předseda [Podvýboru pro informační technologie a dávkové systémy](http://www.psp.cz/sqw/hp.sqw?k=4329), člen [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **Vít Šimral**, garant [programového bodu Práce a sociální věci](https://www.pirati.cz/program/psp2017/prace-a-socialni-veci/)
 * **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)**, místostarosta města Mariánské Lázně a zastupitel Karlovarského kraje, garant [programového bodu Místní rozvoj](https://www.pirati.cz/program/psp2017/mistni-rozvoj/)
 * **Zuzana Freitasová**, asistentka poslankyně Olgy Richterové
 
