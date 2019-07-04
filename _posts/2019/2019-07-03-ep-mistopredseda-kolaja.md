@@ -1,5 +1,5 @@
 ---
-date:         2019-07-04
+date:         2019-07-03
 category:     blog
 tags:         celostátní evropská-unie
 layout:       post
