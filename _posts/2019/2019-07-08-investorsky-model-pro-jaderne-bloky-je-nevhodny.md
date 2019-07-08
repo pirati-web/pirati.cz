@@ -1,7 +1,7 @@
 ---
 date:         2019-07-08
 category:     blog
-tags:         celostátní vláda průmysl-a-obchod energetika komentář
+tags:         celostátní vláda průmysl obchod energetika komentář
 layout:       post
 title:        "Vládou schválený investorský model pro jaderné bloky je nevhodný"
 image:        /assets/img/articles/2019/tresnak-petr.jpg
