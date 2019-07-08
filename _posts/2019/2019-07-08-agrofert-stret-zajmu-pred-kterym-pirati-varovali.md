@@ -33,3 +33,4 @@ Praha, 8. července 2019 – Piráti varovali úřady před závažnými dopady 
 
 > „Úředníci státní správy, kteří rozhodují o případném zastavení proplácení dotací z důvodu střetu zájmů premiéra, jsou bohužel pod tlakem i z důvodu politizace státní správy. Přesto je nezbytné, aby se nebáli rozhodnout nezávisle a ve veřejném zájmu dle platných právních předpisů,“ komentuje Bartoš.
 
+* [Dopis náměstkovi pro řízení Sekce Fondů EU na Ministerstvu průmyslu a obchodu](https://www.pirati.cz/assets/pdf/dopis-mpo.pdf)
