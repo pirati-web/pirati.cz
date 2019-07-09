@@ -1,0 +1,25 @@
+---
+date:         2019-07-09
+category:     blog
+tags:         celostátní sněmovna legislativa
+layout:       post
+title:        "Piráti představili valorizaci rodičovského příspěvku, jednodušší insolvenci pro ty, kteří mají dluhy z dětství a úpravy důchodového systému"
+image:        /assets/img/articles/2019/tk33schuze.jpg
+author:       Mediální odbor
+---
+
+Praha, 9. července 2019 – Střet zájmů premiéra Babiše, úprava rodičovského příspěvku, změna telefonního operátora, alkohol na vodě, dětské exekuce nebo navyšování důchodů byly hlavními tématy Pirátů na tiskové konferenci před 33. schůzí Poslanecké sněmovny PČR.
+
+> Předseda Pirátů Ivan Bartoš uvedl brífink kauzou předsedy vlády: „Střet zájmů premiéra Andreje Babiše je aktuální a zároveň trvalý problém. Peníze v dotačních programech, které přicházejí z EU, byly zastaveny pro firmy z holdingu Agrofert. Vyplácení nadále probíhá z národních zdrojů a pouze jediný úřad, kterým je Státní zemědělský a investiční fond, toto reflektoval. Peníze se nyní budou vyplácet firmám z našich daní a hrozí, že tyto peníze nebudou proplaceny. Včera jsem proto oslovil osm úřadů pod osmi ministerstvy a na tento problém jsem je upozornil. Dokud se věc nevyřeší, je třeba toto proplácení zastavit.“
+
+> Olga Richterová, místopředsedkyně Výboru pro sociální politiku, následně informovala o pozměňovacích návrzích Pirátů k tisku upravujícímu rodičovské příspěvky: „Připravili jsme zásadní pozměňovací návrh k rodičovskému příspěvku. Chceme jeho pravidelnou valorizaci, obdobně jako u důchodů, a navázat jej na inflaci, tedy růst cen, a také na podíl z růstu průměrné mzdy. Také jsme připravili návrh, který zaručuje, aby stát lidi nenutil zůstat na rodičovské i po dosažení třetího roku věku dítěte. Třetí pozměňovací návrh má odstranit nespravedlnost například vůči rodičům, kteří se rozhodli pracovat už po dvou letech pobírání příspěvku, aby nebyli tak výrazně znevýhodněni oproti rodičům, kteří si zvolili delší dobu.“
+
+> Martin Jiránek, předseda podvýboru pro telekomunikaci, komentoval návrh, který má umožnit volnější přecházení mezi operátory: „Návrh měl být původně projednán ve Sněmovně již před prázdninami, aby mohl být finálně přijat již na podzim před aukcí čtvrtého operátora. Tento týden má probíhat teprve druhé čtení, a nakonec budeme rádi, pokud se tisk projedná do Vánoc. Navrhli jsme proto předřazení tohoto návrhu, stejně jako i předřazení návrhu Pirátů, který umožňuje založení firmy online za jeden den,“ komentoval Jiránek
+
+> Navrhovatel úpravy zákona o vnitrozemské plavbě Lukáš Bartoň rekapituloval historii tohoto tisku, který má umožnit dekriminalizaci pití alkoholu u vodáků: „Je to již 15 měsíců, kdy jsem návrh předložil a stále leží na stole poslanců. Tisk senátoři vrátili s rozšířením o cyklisty. V případě hlasování o cyklistech budeme mít volné hlasování klubu, v případě přehlasování senátního návrhu budeme hlasovat jednotně pro sněmovní verzi. Je třeba připomenout, že během prodlouženého víkendu vyjelo na vodu velké množství vodáků, kteří byli na suchu, přestože voda v řece ještě je.“ 
+
+> Sněmovnou by tento týden měl projít návrh o dětských exekucích, který představil poslanec Pirátů Lukáš Kolářík spolu s dalšími stranami: „Základem návrhu je umožnit insolvenci ve zrychleném režimu lidem, kterým dluh vznikl v dětství. Pokud budou dvě třetiny dluhů pocházet z období dětství, budou tyto osoby řazeny ke zvláště zranitelným spolu se seniory a zdravotně postiženými. Exekuční pasti se pak budou moci zbavit jednodušším způsobem. Zákon by měl být projednán ve zrychleném režimu, tak aby byl schválen už v prvním čtení.“
+
+> Petr Třešňák, místopředseda zdravotního výboru, připomněl návrh Pirátů ke zdravotním pojišťovnám: „Ačkoliv oborové pojišťovny hospodaří s téměř 130 miliardami korun, mají naprosto netransparentní nominace i volby do řídících orgánů a neumožňují pojištěncům do nich kandidovat. To potvrdil v loňském roce Ústavní soud. Náš návrh umožňuje zástupcům pojišťoven, aby byli voleni a zároveň mohli volit, a to prostřednictvím elektronických a korespondenčních voleb. Zajišťoval by je Český statistický úřad.“
+
+> Tomáš Martínek, člen důchodové komise a místopředseda volebního výboru, uzavřel tiskovou konferenci tématem důchodů: „Podporujeme navyšování důchodů a předkládáme proto pozměňovací návrhy, které mají situaci seniorů zlepšit. Chceme navrácení možnosti částečného započítávání prvního řádného studia, které může řešit situaci nejen doktorandů. Předkládáme též návrh na snížení rozdílu v důchodech mezi osobami, které vychovávají děti, a ostatními. Ve středu budou na pořadu schůze volební body, během nichž se budou volit poslední dva členové Rady ČTK  v tomto volebním období. Navrhli jsme nezávislého odborníka doktora Josefa Šlerku, který vyhrál veřejné výběrové řízení Pirátů a zároveň získal nominaci KDU-ČSL. Na základě poměrného klíče by tedy měl radu obsadit právě tento kandidát, nikoliv například nominand SPD Michal Semín, protože SPD v radě svého zástupce již má. Ve druhém kole volby veřejného ochránce lidských práv podpoříme kandidátku navrženou Senátem Markétu Seluckou.“
