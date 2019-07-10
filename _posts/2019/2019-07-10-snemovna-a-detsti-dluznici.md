@@ -1,5 +1,5 @@
 ---
-date:         2019-07-09
+date:         2019-07-10
 category:     blog
 tags:         celostátní sněmovna legislativa
 layout:       post
