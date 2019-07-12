@@ -37,6 +37,8 @@ calendar: vpfafrin%40gmail.com
 
 Vojtěch Pikal (19. února 1987) je člen republikového výboru a 5. místopředseda sněmovny a poslanec za Olomoucký kraj.
 
+Ve sněmovně se kromě místopředsednických povinností věnuje otázkám voleb, demokracie a ústavy v rámci týmu [Demokracie](/pripoj-se/demokracie/).
+
 Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujících programech magisterských.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester softwaru v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
 
@@ -51,8 +53,6 @@ Předsedá na internetových jednáních celostátního fóra.
 Ve straně v minulosti dále sloužil v personálním odboru, kontrolní komisi, republikovém předsednictvu a byl předsedou a místopředsedou Olomouckého krajského sdružení a místopředsedou Olomouckého místního sdružení. Dále byl v minulosti vedoucím celostátního i krajského administrativního odboru.
 Zapojuje se také na mezinárodní úrovni, například v letech 2013 až 2014 byl spolupředsedou [Pirátské internacionály](https://pp-international.net/).
 Spoluzakládal též [Mladé Piráty](https://wiki.pirati.cz/mladi/start), kde byl strážcem pokladu.
-
-Ve sněmovně se kromě místopředsednických povinností věnuje otázkám voleb, demokracie a ústavy.
 
 Jeho cílem v politice je reforma kopírovacího monopolu (majetkových autorských práv) a ochrana svobody slova tak, aby zbytečně nebyl bržděn technický a kulturní rozvoj společnosti a lidstvo se mohlo soustředit na důležité cíle jako osidlování vesmíru. Neméně důležitá je možnost lidí svobodně rozhodovat o sobě a společných věcech na úrovni, která je k takovému rozhodnutí nejvhodnější, tedy nejbližší smysluplně vhodná. Považuje se za [sociálního liberála](https://en.wikipedia.org/wiki/Social_liberalism), velmi středového sociálního liberála.
 
