@@ -10,6 +10,11 @@ mail:
 - karolina.sadilkova@pirati.cz
 mob:
 - +420 776 505 557
+nepritomnost:
+- name: Jakub Dušánek
+  tel: +420 770 138 763
+- name: Andrea Mádlová
+  tel: +420 603 332 255
 profiles:
   github:     
   facebook: https://www.facebook.com/karolina.kyselova
