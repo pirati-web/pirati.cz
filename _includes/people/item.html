@@ -26,6 +26,14 @@
       </p>
       {% endif %}
       {% endif %}
+      {% if item.nepritomnost %}
+      <p>
+        <strong>V případě nepřítomnosti:</strong><br/>
+        {% for ncontact in item.nepritomnost %}
+          {{ncontact.tel}} ({{ncontact.name}})<br/>
+        {% endfor %}
+      </p>
+      {% endif %}
     </div>
   </div>
 </div>
