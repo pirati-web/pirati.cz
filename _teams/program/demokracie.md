@@ -31,19 +31,19 @@ Co děláme?
 * připravujeme a předkládáme vlastní návrhy změn legislativy, 
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub.
 
-Zabýváme se volebnímy systémy, administrativou voleb a hlasování, referendy místními i celostátními, zákonem o sdružování v politických stranách, jednacím řádem sněmovny či senátu nebo zákonem o střetu zájmů.
+Zabýváme se volebnímy systémy, administrativou voleb a hlasování, referendy místními i celostátními, zákonem o sdružování v politických stranách, jednacím řádem sněmovny či senátu nebo zákony o platech politiků.
 
 Jak se můžete zapojit?
 ----------------------
 
-Tým je ve fázy ustavování, v případě zájmu se připojte na fóru.
+Přihlaste se k odběru [newsletteru](https://nalodeni.pirati.cz/) a zapojte do [diskuzí na fóru](https://forum.pirati.cz/viewforum.php?f=534). Můžete také požádat o členství v [pracovní skupině](https://forum.pirati.cz/memberlist.php?mode=group&g=179).
 
 Fungování týmu
 ---------------
 
-Tým se zatím neschází. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je Vojtěch Pikal.
+Tým se zatím neschází. Zodpovědným za shromažďování agendy na hlavní schůzky je zodpovědný Stanislav Zavadil, a za jejich vedení Vojtěch Pikal.
 
-Členové týmu jsou:
+Členové týmu jsou evidováni [zde](https://forum.pirati.cz/memberlist.php?mode=group&g=179).
 
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je tým [Spravedlnost](/pripoj-se/spravedlnost/). Spolupracujeme dále s týmem pro [Místní rozvoj](/pripoj-se/mistni-rozvoj/) (a veřejnou správou).
