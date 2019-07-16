@@ -63,3 +63,4 @@ Tým veřejné správy a regionálního rozvoje se schází podle potřeby, obvy
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
 
 [Zápisy z jednání týmu](https://forum.pirati.cz/viewtopic.php?f=1136&t=47010&p=617443#p617443)
+[Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20/)
