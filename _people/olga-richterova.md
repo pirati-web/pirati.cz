@@ -23,7 +23,7 @@ asistenti:
  
 office:
   - address: Francouzská 164/108, 101 00  Praha 10 - Vršovice
-    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
+    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci) Během dovolené, tzn. od 21.7. do 7.8.2019, se nebude konat pondělní otevřená poslanecká kancelář. Děkujeme za pochopení.
 profiles:
   github:       
   facebook:     https://www.facebook.com/olga.richterova
