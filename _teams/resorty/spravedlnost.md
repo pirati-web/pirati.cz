@@ -1,5 +1,5 @@
 ---
-uid: justice
+uid: spravedlnost
 name: Spravedlnost
 fullname: tým Spravedlnost
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
