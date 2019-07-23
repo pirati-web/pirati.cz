@@ -59,11 +59,14 @@ Online komunikace
 Členové týmu
 -----------
 
-* **[Jakub Michálek](/lide/jakub-michalek/)**, místopředseda ústavně právního výboru, poslanec zodpovědný za resort justice, řeší kvalitu justice, jmenování soudců,
-* **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik/)**, člen finančního podvýboru, řeší financování justice, ochranu soukromí a základních práv, volební systém,
+* **[Jakub Michálek](/lide/jakub-michalek/)**, místopředseda ústavně právního výboru a člen komise pro Ústavu, poslanec zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců,
+* **[František Navrkal](/lide/frantisek-navrkal/)**, člen ústavně právního výboru, řeší ochranu soukromí a základních práv, volební systémy,
+* **[Vojtěch Pikal](/lide/vojtech-pikal/)**, místopředseda Poslanecké sněmovny a člen komise pro Ústavu, řeší fungování politických stran a volební systémy
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
 * **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
 * **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
-* **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům.
+* **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům,
+* **Markéta Řádková**, legislativec poslaneckého klubu,
+* **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).
