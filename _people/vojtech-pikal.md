@@ -58,7 +58,7 @@ Jeho cílem v politice je reforma kopírovacího monopolu (majetkových autorsk�
 
 Jeho cílem ve straně je efektivizace a profesionalizace jejího vnitřního aparátu tak, aby se členové mohli věnovat především prosazování Pirátského programu a udržení strany v ekonomicko-politickém středu a zachování důrazu liberálního přístup k občanským svobodám.
 
-Kromě politiky se dlouhodobě věnuje organizaci LARPů a dalších her pro mládež v rámci sdružení [Kahla o.s.](http://www.kahla.cz/), je členem [ČSOP](http://www.csop.cz/) - kde v minulosti dlouhodobě působil jako vedoucí oddílu [MOP](http://www.emop.cz/)([Lidu medvědího potoka](http://www.moplmp.cz/)) - a zapisovatelem sdružení [Pro referendum](https://www.facebook.com/PROREFERENDUM/). Když zbýval čas, byl [wikignomem](https://cs.wikipedia.org/wiki/Wikipedista:Fafrin).
+Kromě politiky se dlouhodobě věnuje organizaci LARPů a dalších her pro mládež v rámci sdružení [Kahla o.s.](http://www.kahla.cz/), je členem [ČSOP](http://www.csop.cz/) - kde v minulosti dlouhodobě působil jako vedoucí oddílu [MOP](http://www.emop.cz/)([Lidu medvědího potoka](http://www.moplmp.cz/)). Podílel se na tvrobě pravidel pro hru [Dračí Doupě 2](http://drd2.cz/). Když zbýval čas, byl [wikignomem](https://cs.wikipedia.org/wiki/Wikipedista:Fafrin).
 
 Své výdělky z veřejných prostředků si nenechává jen pro sebe a tak přispívá na [Místo pro přírodu](http://www.mistoproprirodu.cz/), [Kohovolit.eu](http://kohovolit.eu/) a [Rekonstrukci státu](http://www.rekonstrukcestatu.cz/cs) a je [donátorem NFPK](http://www.nfpk.cz/cz/donatori-12).
 
