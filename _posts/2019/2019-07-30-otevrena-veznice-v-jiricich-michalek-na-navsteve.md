@@ -3,7 +3,7 @@ date:         2019-07-30
 category:     blog
 tags:         celostátní bezpečnost spravedlnost-a-justice
 layout:       post
-title:        "Komentář Jakuba Michálka: Vyzkoušel jsem si otevřenou věznici v Jiřicích
+title:        "Komentář Jakuba Michálka: Vyzkoušel jsem si otevřenou věznici v Jiřicích"
 image:        /assets/img/articles/2019/michalek-vezeni.jpg
 author:       Mediální odbor
 ---
