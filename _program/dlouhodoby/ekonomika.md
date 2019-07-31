@@ -28,6 +28,7 @@ Ekonomika ČR je v dnešní době nedílnou součástí globální ekonomiky. V 
 Je třeba maximálně zjednodušit byrokracii pro podnikatele, většinu lze vyřídit přes Internet.
 * Podporujeme využívání svobodného a open source software ve školách a na úřadech, což zpřístupní informace a služby veřejné správy všem občanům. Uspoří se také v rozpočtech školství a státní a veřejné správy.
 * Jsme pro zavádění nových forem platebního styku (flattr, bitcoin).
+* Prosazujeme, aby se Česká republika i okolní státy řídily v průběhu celého roku podle stejného, jednotného času.
 
 **Podnikání (malé podniky, práce z domu)**
 

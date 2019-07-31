@@ -15,6 +15,7 @@ profiles:
   facebook: https://www.facebook.com/gregorova.marketka
   twitter: https://twitter.com/MarketkaG 
   linkedin: 
+calendar: u5v3n1v7h04mm9jlgfprm27ujg%40group.calendar.google.com
 ---
 
 Markéta Gregorová (*14. ledna 1993) je členkou Pirátů, europoslankyní, 1. místopředsedkyní krajského sdružení Pirátů v Jihomoravském kraji a předsedkyní Evropské pirátské strany. Pochází z Mostu, od září 2012 se vyskytovala především v Brně a nyní to střídá i s Bruselem a Štrasburkem.
