@@ -16,3 +16,5 @@ Praha, 31. července 2019 – Více než 19 let čekají oběti v kauze H-Systé
 Zabraný majetek byl původně ve vlastnictví Petra Smetky a už od počátku trestního řízení byl zajištěn pro účely odškodnění obětí. Navzdory tomu došlo v prosinci roku 2005 za mimořádně podezřelých okolností k jeho vydražení v rámci exekuce a vlastníkem majetku se stal Luděk Fabinger. 
 
 Až po mnohaletém snažení o nápravu těchto pochybení došlo na přelomu letošního roku k vydání rozhodnutí o zabrání majetku v Rabyni coby výnosu z trestné činnosti a majetek se stal vlastnictvím České republiky. V tuto chvíli je tedy v moci státu, aby použil zabraný majetek k jeho původnímu účelu, pro který byl zajištěn a ke kterému by byl použit nebýt pochybení orgánů veřejné moci. Tedy k odškodnění obětí kauzy H-Systém.
+
+* [Kompletní znění interpelace](http://pirati.cz/assets/pdf/interpelace_h-system.pdf)
