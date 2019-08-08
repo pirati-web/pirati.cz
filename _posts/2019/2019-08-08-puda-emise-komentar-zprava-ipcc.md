@@ -17,4 +17,4 @@ Hospodaření v lesích může pozitivně ovlivnit právě projednávaná novela
 
 Rychle postupující změna klimatu je nejen globální, ale také velmi komplexní problém, který se bude čím dál víc projevovat v našich životech. Je jen na nás, v jakém světě budeme žít a v jakém stavu ho předáme našim dětem.
 
-* [Odkaz na kompletní zprávu IPCC](https://www.ipcc.ch/site/assets/uploads/2019/08/4.-SPM_Approved_Microsite_FINAL.pdf).
+* [Odkaz na kompletní zprávu IPCC](https://www.ipcc.ch/site/assets/uploads/2019/08/4.-SPM_Approved_Microsite_FINAL.pdf)
