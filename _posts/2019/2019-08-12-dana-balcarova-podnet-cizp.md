@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní životní-prostředí
 layout:       post
 title:        "Plošné trávení hrabošů se musí zrušit. Podala jsem proto podnět na Českou inspekci životního prostředí"
-image:        /assets/img/articles/2019/balcarova.jpg
+image:        /assets/img/articles/2019/balcarova-cizp.jpg
 author:       Mediální odbor
 ---
 
