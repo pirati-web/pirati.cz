@@ -18,3 +18,4 @@ V podnětu reaguji na povolení, které vydal Ústřední kontrolní a zkušebn�
 * [Podnět zaslaný České inspekci životního prostředí](http://pirati.cz/assets/pdf/podnet-cizp.pdf)
 * [Nařízení Ústředního kontrolního a zkušebního ústavu zemědělského o povolení přípravku na ochranu rostlin pro omezené a kontrolované použití](http://eagri.cz/public/web/file/630378/Stutox_II_narizeni_UKZUZ_plosna_aplikace.pdf)
 * [Návod k aplikaci Stutox II.](http://www.chem-bar.cz/view/files/files/918.pdf) - povolení ÚKZÚZ je v rozporu s tímto návodem 
+
