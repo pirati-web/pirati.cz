@@ -13,7 +13,7 @@ mail:
 - dana.balcarova@pirati.cz
 mob:			  420 607 575 772
 asistenti:
-  - name: Anna Doová
+  - name: Kristina Marie Kubcová
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/dana.balcarova
