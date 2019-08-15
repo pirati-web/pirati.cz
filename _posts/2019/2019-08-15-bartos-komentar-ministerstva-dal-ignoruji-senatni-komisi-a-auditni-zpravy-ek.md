@@ -3,7 +3,7 @@ date:         2019-08-15
 category:     blog
 tags:         celostátní kontrola-moci-a-mocných senát
 layout:       post
-title:        "Ministerstva dál ignorují senátní komisi zabývající se auditními zprávami Evropské komise o střetu zájmů premiéra Babiše"
+title:        "Ivan Bartoš: Ministerstva dál ignorují senátní komisi zabývající se auditními zprávami o střetu zájmů premiéra Babiše"
 image:        /assets/img/articles/2019/bartos-komise.jpg
 author:       Mediální odbor
 ---
