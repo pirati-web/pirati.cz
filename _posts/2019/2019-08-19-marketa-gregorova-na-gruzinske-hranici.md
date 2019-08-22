@@ -16,7 +16,6 @@ Dnes po poledni místního času zavítala pirátská europoslankyně Markéta G
 
 > „Před necelými dvěma týdny došlo k dalšímu násilnému posunu hranic na tomto území. Protože jsem na místě na dovolené, chtěla jsem situaci vidět na vlastní oči a budu o ní referovat na příslušných výborech Evropského parlamentu. Porušování mezinárodního práva nesmí zůstat bez odezvy a beru si jako osobní úkol o každém takovém jednání v budoucnu spravit Evropský parlament. K takovýmto situacím musíme zaujmout jasně odmítavé stanovisko,“ uvedla Gregorová.
 
-
 V městečku Gugutianthkari se posunutí hranic dotklo dokonce dvou rodin, jejichž domy byly zkonfiskovány. 
 
 > „Chci vyslat jasný signál místním obyvatelům, že v tom nejsou sami, že situaci podrobně sledujeme. Je to pro ně nesmírně důležité. A taky je třeba Rusku dávat jasně najevo, že si nemohou dovolit cokoliv a kde jsou hranice shovívavosti mezinárodního společenství. Představa, že přijdete na nějaké území, zapíchnete se samopalem v ruce do země klacek s cedulkou, dáte lidem tři dny na vystěhování, několik z nich zavřete s tím, že ta zem je od teď vaše, je neakceptovatelná, nejsme v pravěku,“ dodala Gregorová.
