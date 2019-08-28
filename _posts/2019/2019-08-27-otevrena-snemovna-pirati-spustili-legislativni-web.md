@@ -18,7 +18,7 @@ Kromě veřejnosti se počítá se zapojením desítek profesních organizací, 
 > „Meziresortní připomínkové řízení, tak jak dnes funguje, zahrnuje jen část organizací dotčených příslušnou legislativou. Desítky organizací, jejichž slovo se dnes při tvorbě zákonů nebere v potaz, budou nyní mít možnost se otevřeně vyjádřit k legislativě a tím se spolupodílet na její tvorbě. Pro občana bude zásadní, že ve finální zprávě najde veškeré návrhy a vyjádření relevantních organizací. Otevřená sněmovna je aplikace, která zásadně zprůhlední proces přijímání zákonů ještě před přijetím zákona o regulaci lobbingu,“ dodal Ondřej Profant, předseda sněmovního Podvýboru pro eGovernment.
 
 
-Dnes spuštěná aplikace je přístupná na adrese [www.otevrenasnemovna.cz](www.otevrenasnemovna.cz). Obsahuje zatím čtyři legislativní návrhy otevřené k připomínkování. Každý uživatel se o funkčnosti systému může dozvědět víc z instruktážních videí, která jsou součástí webu. 
+Dnes spuštěná aplikace je přístupná na adrese [www.otevrenasnemovna.cz](http://www.otevrenasnemovna.cz). Obsahuje zatím čtyři legislativní návrhy otevřené k připomínkování. Každý uživatel se o funkčnosti systému může dozvědět víc z instruktážních videí, která jsou součástí webu. 
 
 
-* **Video představující projekt Otevřená sněmovna naleznete [zde](https://www.youtube.com/watch?v=nTE2ryZpqjs&feature=youtu.be&fbclid=IwAR0mRUW8N7WsIhApHh8wgrosUFimGWdHnfAPDFCvo9c_D8Mu4H5dM9GMLzg). **
+* **Video představující projekt Otevřená sněmovna naleznete [zde](https://www.youtube.com/watch?v=nTE2ryZpqjs&feature=youtu.be&fbclid=IwAR0mRUW8N7WsIhApHh8wgrosUFimGWdHnfAPDFCvo9c_D8Mu4H5dM9GMLzg).**
