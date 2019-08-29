@@ -16,6 +16,5 @@ Praha, 29. srpna 2019 – Téměř sto tisíc nezákonných přístupů do regis
 Zákon o osobních údajích, který upřesňuje Obecné nařízení o ochraně osobních údajů známé jako GDPR, přijala Sněmovna v březnu tohoto roku v podobě, kterou navrhnul Senát. Podle přijatého zákona úřad upustí od správního trestu v případě, že jde o orgány veřejné moci a veřejné subjekty usazené v daném členském státě. V březnu, kdy se ve Sněmovně vrácená senátní úprava projednávala, jsem upozornil na to, že porušuje princip rovnosti před zákonem. Současná praxe by proto mohla být napadena u Ústavního soudu ČR. Zatímco podnikatelé a živnostníci jsou pokutovaní za každou drobnou nesrovnalost, státní správa je v pozici nedotknutelné vrchnosti, která zneužívá své pozice a ohrožuje informace o vlastních občanech. Škodlivou výjimku nakonec odhlasovala sněmovní většina ANO, ČSSD, ODS, KDU-ČSL a STAN a už po čtyřech měsících platnosti zákona registrujeme první škody. Reálná odpovědnost viníků je přitom nulová.
 
 
-
-* Podrobné informace naleznete na [webu ÚOOU](https://www.uoou.cz/uoou-nemohl-udelit-pokutu-ministerstvu-neumoznuje-mu-to-zakon/d-35454/p1=1483?fbclid=IwAR2kxzAgh4Xi1W5ly7R7MTem5pQhCRnX3_qCBzlUppA2uYg5MlR836M6ZJE).
-* [Informace o GDPR] na blogu poslance Ondřeje Profanta(https://www.profant.eu/2019/prinos-gdpr.html).
+* Podrobné informace naleznete na [webu ÚOOU](https://www.uoou.cz/uoou-nemohl-udelit-pokutu-ministerstvu-neumoznuje-mu-to-zakon/d-35454).
+* [Informace o GDPR](https://www.profant.eu/2019/prinos-gdpr.html) na blogu poslance Ondřeje Profanta.
