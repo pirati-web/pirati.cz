@@ -4,10 +4,11 @@ cid: hradec
 name: Královéhradecký kraj
 fullname: Krajské sdružení Královéhradecký kraj
 img: teams/hradec-kralove.jpg
-leader: pavel.bulicek
+leader: adam.valenta
 deputy:
-- Kamil Kubica
-- Karel Ficenec
+- pavel.vrbicky
+- petr.polacek
+- arnost.stepanek
 contact:
 - liba.verisova
 region: Královéhradecký kraj
