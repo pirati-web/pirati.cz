@@ -93,7 +93,7 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alex Mansurov**, asistent Františka Kopřivy
-* **David Wagner**, asistent Mikuláše Peksy
+* **David František Wagner**, asistent Mikuláše Peksy
 * **[František Navrkal](/lide/frantisek-navrkal)**, člen zahraničního výboru
 * **Lukáš Bartík**, asistent Františka Navrkala
 * **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, poslanec a člen výboru pro obranu
