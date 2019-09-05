@@ -13,7 +13,7 @@ contact-local:
   mail: david.wagner@pirati.cz
   img: 
 category: resort
-redmine: https://redmine.pirati.cz/projects/ezo-tym
+redmine: https://redmine.pirati.cz/projects/resort-evropska-unie-zahranici-obrana
 uid: ezo
 forum: https://forum.pirati.cz/mezinarodni-vztahy-f559/
 zapis: https://forum.pirati.cz/viewtopic.php?f=559&t=45987
@@ -67,7 +67,7 @@ Pod tímto rozsáhlým bodem se myslí aktuální spletenec konfliktů a vztahů
 
 ### Kontakt s Piráty v zahraničí
 
-Naším cílem je koordinovat pirátské hnutí v zahraničí a podporovat jejich růst a rozvoj. Zodpovědnou a kontaktní osobou je Markéta Gregorová (<marketa.gregorova@pirati.cz>).
+Naším cílem je koordinovat pirátské hnutí v zahraničí a podporovat jejich růst a rozvoj. Zodpovědnou a kontaktní osobou je David František Wagner (<david.frantisek@pirati.cz>).
 
 ### Efektivní armáda
 
@@ -75,7 +75,7 @@ Naším cílem je armáda jako přísně kontrolovaná a výkonná součást na�
 
 ### Máte úplně jiný nápad?
 
-Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je David Wagner (<david.wagner@pirati.cz>).
+Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je Kristýna Plášilová (<kristyna.plasilova@pirati.cz>).
 
 
 
@@ -86,14 +86,19 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 
 Členové týmu jsou:
 
-* **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec zodpovědný za oblast zahraničních věcí, místopředseda výboru pro evropské záležitosti a vedoucí týmu
+* **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
 * **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec zodpovědný za oblast obrany, místopředseda výboru pro zahraniční věci a místopředseda výboru pro obranu
 * **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec
-* **Markéta Gregorová**, vedoucí zahraničního odboru
+* **David František Wagner**, vedoucí zahraničního odboru
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
-* **Tomáš Hába**, asistent Jana Lipavského
+* **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alex Mansurov**, asistent Františka Kopřivy
 * **David Wagner**, asistent Mikuláše Peksy
-
+* **[František Navrkal](/lide/frantisek-navrkal)**, člen zahraničního výboru
+* **Lukáš Bartík**, asistent Františka Navrkala
+* **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, poslanec a člen výboru pro obranu
+* **Zuzana Koláříková**, asistentka Lukáše Černohorského
+* **[Petr Třešňák](/lide/petr-tresnak)**, člen výboru pro obranu
+* **Josef Pavlovic**, asistent Petra Třešňáka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
