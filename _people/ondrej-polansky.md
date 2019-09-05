@@ -15,13 +15,14 @@ asistenti:
   - name: Veronika Murzynová
     mail: murzynovav@psp.cz
     tel:  728 267 356
-  - name: Zuzana Kolaříková
   - name: Mgr. Zuzana Klusová
+    mail: klusovaz@psp.cz
+    tel: 737 480 813
   - name: Jaroslav Němec
   - name: Ing. David Witosz
 office: 
-  - address: Nádražní 1248, 702 00  Ostrava - Moravská Ostrava
-    opening: 9&#58;00 - 12&#58;00; 12&#58;30 - 17&#58;00<br/>   tel.&#58; 737 480 813 (Zuzana Klusová)
+  - address: Denisova 639/2, 702 00  Ostrava - Moravská Ostrava
+    opening: 10:00 - 14:00<br/>   tel.&#58; 737 480 813 (Zuzana Klusová)
 profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky
