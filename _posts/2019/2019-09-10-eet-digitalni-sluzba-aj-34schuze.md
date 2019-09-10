@@ -1,7 +1,7 @@
 ---
 date:         2019-09-10
 category:     blog
-tags:         celostátní legislativa
+tags:         celostátní legislativa sněmovna
 layout:       post
 title:        "Piráti předloží EET k posouzení Ústavnímu soudu a prosadili projednání zákona, který umožní občanům elektronickou komunikaci s úřady"
 image:        /assets/img/articles/2019/brifink34schuze.jpg
