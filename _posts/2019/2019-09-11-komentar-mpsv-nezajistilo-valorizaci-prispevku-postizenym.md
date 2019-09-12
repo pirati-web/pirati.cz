@@ -3,7 +3,7 @@ date:         2019-09-11
 category:     blog
 tags:         celostátní legislativa práce-a-sociální-věci
 layout:       post
-title:        "Nechápu, proč MPSV stále nebylo schopno zajistit valorizaci příspěvku na podporu zaměstnání zdravotně postižených "
+title:        "Nechápu, proč MPSV stále nebylo schopno zajistit valorizaci příspěvku na podporu zaměstnání zdravotně postižených"
 image:        /assets/img/articles/2019/richterova-pult.jpg
 author:       Mediální odbor
 ---
