@@ -1,7 +1,7 @@
 ---
 date:         2019-09-04
 category:     blog
-tags:         celostatní informatika legislativa
+tags:         celostátní informatika legislativa
 layout:       post
 title:        "Jiránek: Lidé budou moci změnit svého mobilního operátora rychleji a už po prvních třech měsících zdarma bez pokuty"
 image:        /assets/img/articles/2019/jiranek99.jpg
