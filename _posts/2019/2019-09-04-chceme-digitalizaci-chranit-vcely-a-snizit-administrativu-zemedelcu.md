@@ -1,7 +1,7 @@
 ---
 date:         2019-09-04
 category:     blog
-tags:         celostatní digitalizace zemědělství
+tags:         celostátní digitalizace zemědělství
 layout:       post
 title:        "Piráti chtějí digitalizací lépe chránit včely a snížit administrativní zátěž zemědělců"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
