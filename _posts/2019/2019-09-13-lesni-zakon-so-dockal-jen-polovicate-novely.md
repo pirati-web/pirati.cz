@@ -19,4 +19,3 @@ Praha, 13. září 2019 – Sněmovna dnes ve třetím čtení schválila novelu
 
 > „V současné situaci stavu českých lesů již není možné nadále čekat, potřebujeme silný zákon, který bude řešit aktuální problémy i budoucnost. Slova ministra zemědělství Tomana, který pronesl na plénu, že “připravuje přípravu koncepce”, mluví jasně – žádná systémová změna se zatím ani nezačala připravovat. I proto jsem na plénu vyzvala poslance k podpoře pozměňovacích návrhů TOP 09 a Pirátů, které měly potenciál výrazně napravit způsob hospodaření v českých lesích, podpořit obnovu lesních ekosystémů a vytvořit podmínky pro budoucí zdravé lesy, které by odolávaly škůdcům i postupující změně klimatu. Velmi smutné je, že poslanci většinu našich návrhů nepodpořili a zdevastované lesy tak budou čekat na to, než ministerstvo připraví přípravu koncepce,“ říká pirátská předsedkyně výboru pro životní prostředí Dana Balcarová.
 
---
