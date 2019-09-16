@@ -9,7 +9,7 @@ description: Kontakt pro veřejnost<br/>Volejte ve všední dny mezi 9:00 až 17
 mail:
 - info@pirati.cz
 mob:
-- +420 608 963 111
+- +420 776 815 005
 profiles:
   github:    
   facebook:
