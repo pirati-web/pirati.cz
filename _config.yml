@@ -17,8 +17,8 @@ url: "https://www.pirati.cz" # the base hostname & protocol for your site
 markdown: kramdown
 theme: jekyll-theme-pirati
 
-#administrator:
-#  email: # mail kam pujdou chybove vystupy
+administrator:
+  email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
 
 plugins:
   - jekyll-paginate
