@@ -18,7 +18,7 @@ Toto vyrozumění je jediným nástrojem, díky kterému se může občan obrát
 
  
 
-> „Ministr spravedlnosti Kněžínek mi v reakci na můj nátlak zaslal začátkem roku dopis, ze kterého vyplývá, že soudy i státní zastupitelství začnou od letošního července splnění informační povinnosti důsledně evidovat. Komise pro kontrolu užití odposlechů, jejímž jsem předsedou, provede do konce tohoto roku kontrolu, zdali to nebyla jen planá slova,“ komentuje zjištění pirátský poslanec Tomáš Vymazal. 
+> „Ministr spravedlnosti Kněžínek mi v reakci na můj nátlak zaslal začátkem roku dopis, ze kterého vyplývá, že soudy i státní zastupitelství začnou od letošního července splnění informační povinnosti důsledně evidovat. Komise pro kontrolu užití odposlechů, jejíž jsem předsedou, provede do konce tohoto roku kontrolu, zdali to nebyla jen planá slova,“ komentuje zjištění pirátský poslanec Tomáš Vymazal. 
 
  
 
