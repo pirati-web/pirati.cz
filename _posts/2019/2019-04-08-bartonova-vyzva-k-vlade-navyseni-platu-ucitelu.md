@@ -1,7 +1,7 @@
 ---
 date:         2019-04-08
 category:     blog
-tags:         celostátní vzdělávání komentář
+tags:         celostátní vzdělání komentář
 layout:       post
 title:        "Lukáš Bartoň: Vláda by měla především dodržet slib a navýšit platy učitelů na 150 procent průměrného platu z roku 2017"
 image:        /assets/img/articles/2019/barton.jpg
