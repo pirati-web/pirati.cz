@@ -33,6 +33,7 @@
 							<i class="fa fa-user-o"></i> {{main.name}}<br/>
 							{% if main.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{main.mail}}">{{main.mail}}</a><br/>{% endif %}
 							{% if main.tel %}<i class="fa fa-phone"></i> {{ main.tel }}<br/>{% endif %}
+							{% if main.mob %}<i class="fa fa-phone"></i> {{ main.mob }}<br/>{% endif %}
                						</p>
               						{% endfor %} 
 						{% endif %}
@@ -57,6 +58,7 @@
 						<i class="fa fa-user-o"></i> Asistent/ka: {{page.asistent.name}}<br/>
 						<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.asistent.mail}}">{{ page.asistent.mail}}</a><br/>
 						<i class="fa fa-phone"></i> {{ page.asistent.tel }}<br/>
+						<i class="fa fa-phone"></i> {{ page.asistent.mob }}<br/>
 						{% else %}
 						{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
 						{% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}

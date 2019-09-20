@@ -14,9 +14,9 @@ mail:
 mob:			  +420 607 580 015
 direct-contact: false
 asistenti:
-  - name: Stanislava Pajerová
-    mail: profanto@psp.cz
-    tel:  726 362 025
+  - name: Dan Kolář
+    mail: KolarDan@psp.cz
+    tel:  +420 778 111 470
 profiles:
   web:          https://www.profant.eu
   github:       https://github.com/kedrigern
