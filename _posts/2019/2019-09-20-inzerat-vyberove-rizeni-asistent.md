@@ -18,7 +18,7 @@ Piráti hledají do svého poslaneckého týmu posilu se zkušenostmi z agendy �
 
 # Co nabízíme?
 * Úvazek 0,5 – 0,6.
-* Odměna až 20 000 – 25 000 Kč měsíčně na IČO (dle požadavků Sněmovny).
+* Odměna až 25 000 Kč měsíčně na IČO (dle požadavků Sněmovny).
 * Možnost podílet se na smysluplné a transparentní politice.
 
 Výběrové řízení probíhá ve třech kolech a předpokládaný termín nástupu je v listopadu 2019. Přihlášku lze podat do 4. října 2019. Přihlašovací formulář, hodnotící kritéria a podrobnosti přijímacího řízení naleznete [ZDE](http://www.lmcg2.com/pd/1413344839/?rps=202).
