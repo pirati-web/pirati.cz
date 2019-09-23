@@ -18,7 +18,7 @@ profiles:
   flickr:     		https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20navrkal&view_all=1
 ---
 
-František Navrkal (* 15. září 1992, Děčín) je poslanec za Ústecký kraj, předseda krajského sdružení Ústeckého kraje a rozhodčí komise strany. František pochází z Děčína.
+František Navrkal (* 15. září 1992, Děčín) je poslanec za Ústecký kraj, předseda krajského sdružení Ústeckého kraje. František pochází z Děčína.
 
 V roce 2012 odmaturoval na Gymnáziu Děčín a byl přijat na ČVUT, kde momentálně studuje obor aplikace softwarového inženýrství. Zatím úspěšně ukončil bakalářské studium tohoto oboru. Profesně se zabývá datovým modelováním a analýzou.
 
