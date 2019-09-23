@@ -18,10 +18,12 @@ profiles:
   flickr:     		https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20navrkal&view_all=1
 ---
 
-František Navrkal (* 15. září 1992, Děčín) je poslanec za Ústecký kraj, předseda krajského sdružení Ústeckého kraje. František pochází z Děčína.
+František Navrkal (* 15. září 1992, Děčín) je poslanec Parlamentu České republiky zvolený za Ústecký kraj a předseda krajského sdružení Ústeckého kraje strany. Pochází z Děčína.
 
-V roce 2012 odmaturoval na Gymnáziu Děčín a byl přijat na ČVUT, kde momentálně studuje obor aplikace softwarového inženýrství. Zatím úspěšně ukončil bakalářské studium tohoto oboru. Profesně se zabývá datovým modelováním a analýzou.
+V roce 2012 odmaturoval na Gymnáziu Děčín a pokračoval na FJFI ČVUT, kde studoval obor aplikace softwarového inženýrství. Od podzimu 2016 do března 2019 pracoval jako datový inženýr a IT analytik pro různé firmy. Nyní svoje zkušenosti a znalosti využívá v rámci poslaneckého klubu Pirátů.
 
-Mezi Františkovy zájmy patří počítačové hry, jízda automobilem, informační technologie, politika a poznávání světa obecně. Mluví plynně anglicky.
+Mezi Františkovy zájmy patří počítačové hry, jízda automobilem, informační technologie, politika a obecně poznávání světa. Mluví plynně anglicky.
 
-Do strany vstoupil kvůli zájmu o liberalizaci Internetu, rozvoj osobních svobod, informovanost a vzdělanost občanů, vědu, napřímení demokracie a zvýšení efektivity státní správy České republiky. 
+Do strany vstoupil kvůli zájmu o liberalizaci Internetu, rozvoj osobních svobod, informovanost a vzdělanost občanů, vědu, napřímení demokracie a zvýšení efektivity státní správy České republiky.
+
+Členem strany je od července 2012. Ve straně se zabývá hlavně předpisy, administrativou a politickým programem.
