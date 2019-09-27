@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna legislativa kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti předložili změny pro posílení nezávislosti státního zástupce, vládní koalice se rozhodla je nepodpořit"
-image:        /assets/img/articles/2019/michalek95k.jpg
+image:        /assets/img/articles/2019/michalek95.jpg
 author:       Mediální odbor
 ---
 
