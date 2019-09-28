@@ -21,7 +21,7 @@ asistenti:
     mail: jablonec@tomas-martinek.eu
 office:
   - address: Děčínská 361, 470 01 Česká Lípa
-    opening: Po 16-18 hod., setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
+    opening: Pondělí 16-18 hod., setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
