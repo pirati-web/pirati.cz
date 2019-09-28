@@ -21,7 +21,7 @@ asistenti:
     mail: jablonec@tomas-martinek.eu
 office:
   - address: Děčínská 361, 470 01 Česká Lípa
-    opening: Setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
+    opening: Po 16-18 hod., setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
@@ -64,6 +64,7 @@ Poslanecká sněmovna
 - Podvýbor pro vědu a vysoké školy (Výbor pro vědu, vzdělání, kulturu, mládež a tělovýchovu)
 - Podvýbor pro svobodu slova a média (Petiční výbor)
 - Podvýbor pro e-government (Výbor pro veřejnou správu)
+- Podvýbor pro daně, cla a loterie (Rozpočtový výbor)
 
 
 Kalendář
