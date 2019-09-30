@@ -40,7 +40,7 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního prostředí a chcete nám pomoci, ozvěte se prosím Tomáši Eichlerovi na tel. 737529753 nebo na eichlert@psp.cz.
+Pokud souhlasíte s Pirátským programem v oblasti průmyslu a obchodu a chcete nám pomoci, ozvěte se prosím Petru Pletichovi na tel. 603460210 nebo na pletichap@psp.cz.
 
 Fungování týmu
 ----------------------
