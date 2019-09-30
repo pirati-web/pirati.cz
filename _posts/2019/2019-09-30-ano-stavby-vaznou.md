@@ -3,7 +3,7 @@ date:         2019-09-30
 category:     blog
 tags:         vláda doprava
 layout:       post
-title:        "Velké dopravní stavby pod vedením hnutí ANO váznou. Čtyři ze šesti městských okruhů se letos nezahájí podle plánu"
+title:        "Komentář Ondřeje Polanského: Velké dopravní stavby pod vedením hnutí ANO váznou. Čtyři ze šesti městských okruhů se letos nezahájí podle plánu"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
 author:       Ondřej Polanský
 ---
