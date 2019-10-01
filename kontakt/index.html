@@ -37,8 +37,9 @@ img: miscellaneous/residence.png
                         </tr>
                         <tr>
                           <td class="cell-description">
-                            <i class="cell-icon fa fa-files-o"></i>
-                            <span class="cell-text">Elektronická podatelna</span>
+                            <i class="cell-icon fa fa-envelope"></i>
+                            <span class="cell-text">Elektronická podatelna,
+                              <br> kontakt pro veřejnost</span>
                           </td>
                           <td>
                             <a href="mailto:info@pirati.cz">info@pirati.cz</a> (elektronická pošta)
@@ -47,7 +48,7 @@ img: miscellaneous/residence.png
                         </tr>
                         <tr>
                           <td class="cell-description">
-                            <i class="cell-icon fa fa-envelope"></i>
+                            <i class="cell-icon fa fa-phone"></i>
                             <span class="cell-text">Informace, telefonický kontakt</span>
                           </td>
                           <td> +420 608 963 111 </td>
@@ -161,8 +162,7 @@ img: miscellaneous/residence.png
                 {% include people/list-2col.html param=team %}
               <br>
               <h2>Kontakt pro veřejnost</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'ao-contact'" | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
+               <i class="cell-icon fa fa-envelope"></i> <a href="mailto:info@pirati.cz">info@pirati.cz</a>
             </div>
           </div>
         </div>
