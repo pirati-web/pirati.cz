@@ -7,9 +7,9 @@ leader: ondrej.profant
 deputy:
 - tomas.martinek
 contact-local:
-  name: Stanislava Pajerová
-  mob: 726 362 025
-  mail: profanto@psp.cz
+  name: Dan Kolář 
+  mob:  +420 778 111 470
+  mail: KolarDan@psp.cz
   img: 
 tags:
 - informatika
