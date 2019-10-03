@@ -4,10 +4,12 @@ name: Karlovarský kraj
 fullname: Krajské sdružení Karlovarský kraj
 cid: vary
 img: teams/karlovy-vary.jpg
-leader: petr.tresnak
+leader: karel.nykles
 deputy:
-- Josef Janů
-- Barbora Hradečná
+- Petr Třešňák
+- Nikola Indrová
+- Lukáš Zykán
+- Jindřich Čermák
 contact:
 - lucie.trckova
 region: Karlovarský kraj
@@ -45,8 +47,8 @@ V Aši máme 3 mandáty, do zastupitelstva se dostali Mgr. Jaroslav Staněk, Mgr
 
 **Možnosti zapojení:**
 
-* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Lucii Trčkovou (lucie.trckova@pirati.cz), tel.: +420 778 111 472 
+* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajského sdružení pro Karlovarský kraj, Lucii Trčkovou (lucie.trckova@pirati.cz), tel.: +420 778 111 472 
 * Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),, abyste se ujistili, že akce bude.
-* Krajský kalendář naleznete zde: [http://piratikvk.cz/portfolio-items/kalendar-akci-piratu-v-karlovarskem-kraji/?portfolioCats=78](http://piratikvk.cz/portfolio-items/kalendar-akci-piratu-v-karlovarskem-kraji/?portfolioCats=78)
-* Aktuality a krajské webové stránky: [http://piratikvk.cz/](http://piratikvk.cz/)
-* Odkaz na krajskou wiki: [https://wiki.pirati.cz/regiony/karlovarsko/start](https://wiki.pirati.cz/regiony/karlovarsko/start)
+* Krajský kalendář naleznete [zde](http://piratikvk.cz/portfolio-items/kalendar-akci-piratu-v-karlovarskem-kraji/?portfolioCats=78).
+* Aktuality a krajské webové stránky zatím aktualizujeme.
+* Odkaz na krajskou [wiki](https://wiki.pirati.cz/regiony/karlovarsko/start).
