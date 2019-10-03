@@ -4,7 +4,7 @@ category:     blog
 tags:         senát kontrola-moci-a-mocných
 layout:       post
 title:        "Pirátský senátor Lukáš Wagenknecht podává podnět nejvyššímu státnímu zástupci v kauze střetu zájmů Andreje Babiše"
-image:        /assets/img/articles/2019/lukas-wagenknecht1.jpg
+image:        /assets/img/articles/2019/wagenknecht-bartos.jpg
 author:       Mediální odbor
 ---
 
