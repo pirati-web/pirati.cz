@@ -3,7 +3,7 @@ date:         2019-10-02
 category:     blog
 tags:         sněmovna legislativa práce-a-sociální-věci
 layout:       post
-title:        "Richterová: Desetitisíce lidí v ČR žijí na ubytovnách. Situaci může zlepšit větší iniciativa a spolupráce státu s obcemi"
+title:        "Richterová: Tisíce lidí v ČR žijí na ubytovnách. Situaci může zlepšit větší iniciativa a spolupráce státu s obcemi"
 image:        /assets/img/articles/2019/konference-bydleni.jpg
 author:       Mediální odbor
 ---
