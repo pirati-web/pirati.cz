@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní kontrola-moci-a-mocných doprava
 layout:       post
 title:        "Piráti podali podnět vládnímu výboru k prověření volby generálního ředitele Českých drah"
-image:        /assets/img/articles/2019/cernohorsky-lukas.jpg
+image:        /assets/img/articles/2018/cernohorsky-lukas.jpg
 author:       Mediální odbor
 ---
 
