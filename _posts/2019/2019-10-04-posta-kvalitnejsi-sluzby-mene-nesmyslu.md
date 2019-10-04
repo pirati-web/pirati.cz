@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/ivan-bartos-prst.jpg
 author:       Mediální odbor
 ---
 
- Praha, 4. října 2019 – Premiér Andreje Babiš tvrdí, že Česká pošta má být od roku 2021 zisková a nabídnout moderní služby bez redukce poboček. Zároveň sníží počet míst o 7 tisíc. Protože největší státní podnik dosud nedokázal zajistit bezpečné fungování datových schránek, které jsou v provozu od roku 2009, ani vyřešit personální problémy, obávám se, že dnes představené plány jsou jen pokračováním marketingové kampaně vlády. Základem správného fungování pošty pro občany musí být zkvalitnění stávajících základních služeb a opuštění nesmyslných konceptů.
+Praha, 4. října 2019 – Premiér Andreje Babiš tvrdí, že Česká pošta má být od roku 2021 zisková a nabídnout moderní služby bez redukce poboček. Zároveň sníží počet míst o 7 tisíc. Protože největší státní podnik dosud nedokázal zajistit bezpečné fungování datových schránek, které jsou v provozu od roku 2009, ani vyřešit personální problémy, obávám se, že dnes představené plány jsou jen pokračováním marketingové kampaně vlády. Základem správného fungování pošty pro občany musí být zkvalitnění stávajících základních služeb a opuštění nesmyslných konceptů.
 
  
 
