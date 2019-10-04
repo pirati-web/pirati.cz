@@ -4,9 +4,8 @@ name:     Daniel Mazur  	# běžně používáné jméno
 fullname: RNDr. Daniel Mazur, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
-- praha
 img: people/daniel-mazur.jpg    # 165 x 220
-description: garant programového bodu vzdělávání, zastupitel hl. m. Prahy             	# kratký popis, max 160 znaků
+description: garant programového bodu vzdělávání             	# kratký popis, max 160 znaků
 mail:
 - daniel.mazur@pirati.cz
 mob:			  
