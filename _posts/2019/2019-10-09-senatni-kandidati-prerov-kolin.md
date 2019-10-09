@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní senát volby
 layout:       post
 title:        "Piráti v Přerově vyšlou do boje o Senát Pavla Ondrůje, v Kolíně Cyrila Kokyho"
-image:        /assets/img/articles/2019/senat-lvi.jpg
+image:        /assets/img/articles/2018/senat-lvi.jpg
 author:       Mediální odbor
 ---
 
