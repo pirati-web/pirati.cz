@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa právo-a-justice
 layout:       post
 title:        "Vláda nedrží kvalitu zákonů, měla by více poslouchat experty"
-image:        /assets/img/articles/2019/michalek98.jpg
+image:        /assets/img/articles/2019/seminar-ria.jpg
 author:       Mediální odbor
 ---
 
@@ -31,3 +31,8 @@ Nekvalitní zákony jsou podle výsledků semináře důsledkem toho, že minist
  
 
 Z výročních zpráv komise pro RIA vyplývá, že oproti vládě Bohuslava Sobotky klesl pod vládou Andreje Babiše počet kvalitně připravených zákonů z 50 na pouhých 11 ročně. Vedle kvalitnější přípravy legislativy a zjišťování názorů občanů musí mít vláda a opozice k dispozici kvalitní data a realizovat pilotní projekty. 
+
+**Prezentace řečníků**
+* [Jiřina Jílková](http://pirati.cz/assets/pdf/Jilkova_RIA.pdf)
+* [Daniel Munich](http://pirati.cz/assets/pdf/Munich_RIA.pdf)
+* [Marek Havrda](http://pirati.cz/assets/pdf/Havrda_RIA.pdf)
