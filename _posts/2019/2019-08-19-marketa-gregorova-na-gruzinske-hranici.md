@@ -1,7 +1,7 @@
 ---
 date:         2019-08-19
 category:     blog
-tags:         evropská-unie zahraničí mezinárodní-vztahy
+tags:         evropská-unie zahraničí bezpečnost
 layout:       post
 title:        "Pirátka Gregorová na gruzínsko-ruské hranici"
 image:        /assets/img/articles/2019/gregorova-gruzie.jpg
