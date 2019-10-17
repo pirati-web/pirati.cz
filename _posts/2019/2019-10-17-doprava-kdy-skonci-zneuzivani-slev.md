@@ -3,7 +3,7 @@ date:         2019-10-17
 category:     blog
 tags:         celostátní doprava sněmovna
 layout:       post
-title:        "Komentář Ondřeje Polanskéh: Jak a kdy zamezí ministr dopravy zneužívání slev na jízdném?"
+title:        "Komentář Ondřeje Polanského: Jak a kdy zamezí ministr dopravy zneužívání slev na jízdném?"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
 author:       Mediální odbor
 ---
