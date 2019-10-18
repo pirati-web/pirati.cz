@@ -36,3 +36,6 @@ Z výročních zpráv komise pro RIA vyplývá, že oproti vládě Bohuslava Sob
 * [Jiřina Jílková](http://pirati.cz/assets/pdf/Jilkova_RIA.pdf)
 * [Daniel Munich](http://pirati.cz/assets/pdf/Munich_RIA.pdf)
 * [Marek Havrda](http://pirati.cz/assets/pdf/Havrda_RIA.pdf)
+
+**Záznam semináře**
+Odkaz naleznete [zde](https://www.youtube.com/watch?v=mM2dfrPzDnY&fbclid=IwAR2JmRDnh5jsj2iRxzAxHkwiGJvhIxFBUQrcAlG3PDetise3xj6ubr2Hz54) 
