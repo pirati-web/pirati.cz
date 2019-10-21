@@ -24,7 +24,7 @@ Na Palackého náměstí v Praze bude probíhat rovněž výstava fotografií od
 * 21.října od 17:00: Praha, Palackého náměstí (demonstrace).
 * 21.října od 17:30: Jihlava, Masarykovo náměstí (demonstrace).
 * 22.října od 16:00: Ústí nad Labem, Mírové náměstí (demonstrace).
-* 23.října od 17:00: České Budějovice, náměstí Přemysla Otakara (demonstrace) a klub Horká vana (odborná diskuse po skončení demonstrace).
+* 23.října od 17:00: České Budějovice, náměstí Přemysla Otakara (demonstrace) a klub Horká vana (odborná diskuze po skončení demonstrace).
 * 23.října od 18:00: Liberec, náměstí Dr. E. Beneše (demonstrace).
 * 24.října od 17:00: Karlovy Vary, Zeyerova (demonstrace).
 * 25.října od 18:00: Písek, Starý most (demonstrace).
