@@ -1,7 +1,7 @@
 ---
 date:         2019-10-22
 category:     blog
-tags:         celostátní zahraničí digitalizace evropská-unie
+tags:         celostátní sněmovna legislativa
 layout:       post
 title:        "Piráti kritizují vládu za schodkový rozpočet, zvýšení spotřební daně a roky neřešený rodičovský příspěvek"
 image:        /assets/img/articles/2019/martinek-richterova-ferjencik.jpg
