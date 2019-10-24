@@ -1,7 +1,7 @@
 ---
 date:         2019-10-24
 category:     blog
-tags:         zahraničí evropská-unie
+tags:         zahraničí evropská-unie bezpečnost
 layout:       post
 title:        "Evropští Piráti podpořili rezoluci proti turecké invazi v Sýrii"
 image:        /assets/img/articles/2019/marketa-gregorova1.jpg
