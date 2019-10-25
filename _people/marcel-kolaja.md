@@ -24,3 +24,5 @@ Pracuje jako technický produktový manažer v softwarové firmě, specializuje 
 Marcel Kolaja se zabývá problematikou autorského práva na jednotném digitálním trhu. V Evropském parlamentu se chce zaměřit na to, aby občanům nebyly odepírány jejich svobody, a pokračovat ve snažení německé pirátské europoslankyně Julie Reda o zachování internetu bez cenzury.
 
 Dále se chce věnovat inovacím a investicím do digitálních technologií, které jsou podle něho nutné pro zvýšení kybernetické bezpečnosti a aby Evropa nezaostávala za vzestupujícím vlivem čínské velmoci. Kromě politických aktivit je Marcel také nadšeným sportovcem – účastní se běžeckých závodů a rád jezdí na kole či na motorce. 
+
+[Transparentní účet](https://ib.fio.cz/ib/transparent?a=2901637243)
