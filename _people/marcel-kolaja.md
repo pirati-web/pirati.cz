@@ -25,4 +25,4 @@ Marcel Kolaja se zabývá problematikou autorského práva na jednotném digitá
 
 Dále se chce věnovat inovacím a investicím do digitálních technologií, které jsou podle něho nutné pro zvýšení kybernetické bezpečnosti a aby Evropa nezaostávala za vzestupujícím vlivem čínské velmoci. Kromě politických aktivit je Marcel také nadšeným sportovcem – účastní se běžeckých závodů a rád jezdí na kole či na motorce. 
 
-[Transparentní účet](https://ib.fio.cz/ib/transparent?a=2901637243)
+[Transparentní účet člena Evropského parlamentu - General Expenditures Allowances](https://ib.fio.cz/ib/transparent?a=2901637243)
