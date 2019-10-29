@@ -3,7 +3,6 @@ uid: michal.gill
 name:     Michal Gill      		# běžně používáné jméno
 fullname: Bc. Michal Gill  		# jméno s tituly etc.
 category:                  		# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/michal-gill.jpg           # 165 x 220
 description: Odborný asistent pirátských radních Prahy 3 # kratký popis, max 160 znaků
 mail:

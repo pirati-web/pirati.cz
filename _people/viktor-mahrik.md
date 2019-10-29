@@ -14,7 +14,7 @@ profiles:
   facebook: 		  https://www.facebook.com/viktor.mahrik
   twitter: 		  https://twitter.com/_ViM
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
-ordpraha: 4
+ordpraha: 2
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a předseda místního sdružení Praha 6. V letech 2015-2016 byl členem finančního výboru zastupitelstva hlavního města Prahy. V roce 2018 byl zvolen místopředsedou zastupitelského klubu Pirátů; svůj zastupitelský mandát v komunálních volbách v roce 2018 úspěšně obhájil. Byl rovněž zvolen za předsedu majetkového výboru v ZHMP. 
