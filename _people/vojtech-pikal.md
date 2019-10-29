@@ -46,7 +46,7 @@ Vojtěch žil a snad vždy bude v Olomouci. Jako poslanec bydlí též v Praze.
 
 Je [poslancem](http://www.psp.cz/sqw/detail.sqw?id=6531) za Olomoucký kraj. Zastupoval Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice) a v [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie).
 
-Členem Pirátů je od února 2012, aktivně se do fungování zapojuje o trochu déle.
+Členem Pirátů je od února 2012, aktivně se do fungování zapojuje o trochu déle. Nikdy nebyl členem žádné jiné politické strany.
 Aktuálně působí v administrativním a zahraničním odobru a finančním týmu.
 Předsedá na internetových jednáních celostátního fóra.
 
