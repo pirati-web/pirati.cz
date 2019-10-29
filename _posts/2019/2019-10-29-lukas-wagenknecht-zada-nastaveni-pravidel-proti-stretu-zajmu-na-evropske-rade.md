@@ -4,7 +4,7 @@ category:     blog
 tags:         senát kontrola-moci-a-mocných evropská-unie
 layout:       post
 title:        "Senátor Lukáš Wagenknecht žádá nastavení pravidel proti střetu zájmů českého premiéra Andreje Babiše na jednání Evropské rady"
-image:        /assets/img/articles/2019/wagenknecht99.jpg
+image:        /assets/img/articles/2019/wagenknecht98.png
 author:       Mediální odbor
 ---
 
