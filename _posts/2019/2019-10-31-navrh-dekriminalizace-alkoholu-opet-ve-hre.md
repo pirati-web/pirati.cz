@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa
 layout:       post
 title:        "Dekriminalizace alkoholu u vodáků opět ve hře"
-image:        /assets/img/articles/2019/lukas-barton1.jpg
+image:        /assets/img/articles/2019/barton1.jpg
 author:       Mediální odbor
 ---
 
