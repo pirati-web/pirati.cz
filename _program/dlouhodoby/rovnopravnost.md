@@ -11,7 +11,7 @@ Diskriminace staví mezi lidmi umělé hranice, a proto ji odmítáme:
 
 * **Rasová diskriminace.** Boj za právní rovnost mezi lidmi bez ohledu na barvu pleti a další fyzické znaky byl již vybojován v minulém století. Odmítáme rasismus a chceme reálně řešit problémy, které k rasistickým náladám vedou, včetně jejich příčin.
 * **Věková diskriminace.** Odmítáme záměrné rozdělování společnosti podle věku. Podporujeme vzdělávání seniorů v oblasti technologií a změny v systému vzdělávání, které otevřou přístup ke vzdělání i starším lidem.
-* **Náboženská diskriminace.** Prosazujeme nezávislost státu na náboženství a podporujeme odluku církve od státu. Na veřejných školách má mít výuka jednotlivých vyznání stejné postavení jako další výběrové předměty.
+* **Náboženská diskriminace.** Každý má právo na svobodu myšlení a náboženského vyznání, včetně práva náboženské vyznání změnit. Prosazujeme nezávislost státu na náboženství a podporujeme odluku církve od státu. Na veřejných školách má mít výuka jednotlivých vyznání stejné postavení jako další výběrové předměty.
 * **Sexuální diskriminace.** Piráti se zasazují za svobodné sebeurčení pohlavní a sexuální identity. Zrušíme povinnost uvádět pohlaví v úředních dokumentech, kde to není pro vyřízení věci podstatné. Zasazujeme se o mezinárodní dekriminalizaci homosexuality.
 * **Diskriminace migrantů.** Pirátská strana si uvědomuje problémy pracujících imigrantů a migrujících pracovníků. Zasadíme se o to, aby na migrantech nevydělával organizovaný zločin, aby měli možnost získat vzdělání a najít společenské uplatnění.
 
