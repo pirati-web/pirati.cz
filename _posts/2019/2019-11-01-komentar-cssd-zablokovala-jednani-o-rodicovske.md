@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa práce-a-sociální-věci
 layout:       post
 title:        "Komentář Olgy Richterové: ČSSD zablokovala projednávání rodičovské rozborem pozměňovacích návrhů, který mohla dát předem "
-image:        /assets/img/articles/2019/olga-richterova1.jpg
+image:        /assets/img/articles/2019/richterova.jpg
 author:       Mediální odbor
 ---
 
