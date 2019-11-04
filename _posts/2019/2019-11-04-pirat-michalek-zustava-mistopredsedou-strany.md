@@ -15,4 +15,6 @@ Praha, 4. listopadu 2019 - Celostátní fórum Pirátské strany dnes skončilo 
 
 > „Demokracie v naší straně funguje a rozhodnutí celostátního fóra bych v každém případě respektoval. Za projevenou důvěru děkuju a vážím si jí. Jak všichni víte, znovu v lednu kandidovat nebudu, protože práce ve sněmovně mě naplňuje a plně vytěžuje. Navíc chci dát příležitost mnoha nadějným zastupitelům, které máme. V předsednictvu jsme taky schválili kroky ke zlepšení podpory našim pracovníkům. Nyní chci pracovat na usmíření s lidmi, kteří tento podnět založili a vrátit pozornost zpět k našemu poslání. Chtěl bych poděkovat mnoha stovkám lidí, kteří mě podpořili. Věřím, že celá tato kauza přispěje tomu, že strana dozrává a bude lépe připravena na vládní zodpovědnost,” dodal místopředseda strany Jakub Michálek.
 
+
+
 [Výsledky hlasování](https://helios.pirati.cz/helios/elections/ecbe2072-fa31-11e9-bf56-00000a2a0114/view?fbclid=IwAR3Z0Hatxw_63b6PACW_ZPZ39gxJgBpoB4Fhzuk95a_6vtf01EgGE-t_TmQ)
