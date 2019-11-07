@@ -7,7 +7,7 @@ title:        "Sněmovna podpořila pirátskou novelu exekucí"
 image:        /assets/img/articles/2019/lukas-kolarik1.jpg
 author:       Mediální odbor
 ---
->
+
 
 Praha, 6. listopadu 2019 – Novela exekučního řádu prošla Sněmovnou. Piráty iniciovaná diskuze o změně systému vymáhání dluhů se nyní přesune do výborů, kde budou poslanci debatovat o sloučení poslaneckého a vládního návrhu. Piráti prosazují princip jeden dlužník = jeden exekutor v místě bydliště. Ten má do současného složitého systému přinést přehlednost, odlehčit zaměstnavatelům a usnadnit dlužníkům splatit jejich závazky.
  
