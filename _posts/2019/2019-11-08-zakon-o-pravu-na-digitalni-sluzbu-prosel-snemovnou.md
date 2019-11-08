@@ -1,5 +1,5 @@
 ---
-date:         2019-11-07
+date:         2019-11-08
 category:     blog
 tags:         celostátní legislativa egov digitalizace  
 layout:       post
