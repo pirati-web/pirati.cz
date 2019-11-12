@@ -17,6 +17,6 @@ profiles:
   flickr:     		  
 ---
 
-Petr Kapounek (* 9. prosince 1986, Prostějov) je místopředseda místního sdružení v Prostějově a zastupitel v Prostějově. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
+Petr Kapounek (* 9. prosince 1986, Prostějov) je zastupitel v Prostějově, člen komise IT a Smart city v Prostějově a komise IT na Olomouckém kraji. Je také lídrem kandidátky do krajských voleb 2020 za KS Olomoucký kraj. Vystudoval Střední průmyslovou školu elektrotechnickou. Pracuje jako projektový manažer v telekomunikační společnosti.
 
-Dlouhodobě se zajímá o politické dění v ČR i zahraničí. Politicky se považuje za libertariána. Je pastafariánem. Jeho zájmy jsou příroda, rekreační sporty (kolo, brusle), programování, linux, věda a technika, sci-fi.
+Dlouhodobě se zajímá o politické dění v ČR i zahraničí. Politicky se považuje za libertariána. Jeho zájmy jsou příroda, rekreační sporty (kolo, brusle), programování, linux, věda a technika, sci-fi.
