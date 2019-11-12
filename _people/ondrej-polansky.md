@@ -27,8 +27,7 @@ profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky
   twitter: 		  
-  flickr:		  
-  report: https://forum.pirati.cz/poslanci-f884/report-poslance-ondreje-polanskeho-t39036.html
+  flickr:
 ordga: 9
 ordrp: 5
 ordpsp: 12
