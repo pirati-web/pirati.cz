@@ -25,7 +25,6 @@ profiles:
   twitter:
   facebook: 		  https://www.facebook.com/petr.tresnak		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=petr%20t%C5%99e%C5%A1%C5%88%C3%A1k
-  report: https://forum.pirati.cz/poslanci-f884/report-poslance-petra-tresnaka-t39046.html
 ordcar: 2
 ordga: 2
 ordpsp: 21
