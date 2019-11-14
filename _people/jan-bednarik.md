@@ -3,10 +3,10 @@ uid: jan.bednarik
 name:     Jan Bednařík   # běžně používáné jméno
 fullname: Jan Bednařík   # jméno s tituly etc.
 category:
-- olomoucko                   # kategorie: rp, praha, vary, hradec, jmk, senat
-position: Předseda krajského sdružení
+- olomoucko, olomouc                   # kategorie: rp, praha, vary, hradec, jmk, senat
+position: 
 img: people/jan-bednarik.jpg   # 165 x 220
-description: Předseda olomouckého krajského sdružení   # kratký popis, max 160 znaků
+description: člen technického odboru # kratký popis, max 160 znaků
 mail: 
 - jan.bednarik@pirati.cz
 mob: 603 439 481

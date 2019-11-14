@@ -33,7 +33,7 @@ Petr Kapounek působí též v krajské komisi pro informatiku.
 
 Máme místní sdružení v Majetíně (sdružení [Pirátská Tvrz](https://olomoucky.pirati.cz/mistni-sdruzeni/piratska-tvrz/)), [Olomouci](https://olomoucky.pirati.cz/mistni-sdruzeni/olomouc/), [Prostějově](https://olomoucky.pirati.cz/mistni-sdruzeni/prostejov/), [Přerově](https://olomoucky.pirati.cz/mistni-sdruzeni/prerov/), na [šumpersku](https://olomoucky.pirati.cz/mistni-sdruzeni/sumpersko/) a [hranicku](https://olomoucky.pirati.cz/mistni-sdruzeni/hranicko/).
 
-Další informace můžete nalézt na [krajském webu](https://olomoucky.pirati.cz).
+**Další informace můžete nalézt na [krajském webu](https://olomoucky.pirati.cz).**
 
 Možnosti zapojení:
 
