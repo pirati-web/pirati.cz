@@ -50,7 +50,12 @@ zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
 * [zápisy z porad](https://forum.pirati.cz/viewtopic.php?f=560&t=48297)
 * [newslettery](https://nalodeni.pirati.cz/news/list/22/)
 * [web výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600)
-Na agendě životního prostředí pracuje v rámci Pirátů několik týmů. Některé týmy jsou dočasné, jiné stálé, některé jsou formálně zařazené do pirátských struktur, jiné jsou čistě neformální. Máme i týmy úzce specializované či lokálně vymezené.
+
+
+V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde například o:
+* **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
+* **Týrání zvířat** vede Martin Archalous, kontaktní osoba: Martin Huňady (hunadym@psp.cz)
+* **ZeŽiv**, koordinační porada složená z pirátských poslanců z Výboru pro životní prostředí a Zemědělského výboru
 
  <br> <br> <br>
 
@@ -69,12 +74,6 @@ Na agendě životního prostředí pracuje v rámci Pirátů několik týmů. N�
 - kontaktní osoby: Jana Nezhybu nebo Kristinu Marii Kubcovou, email: kristina.kubcova@pirati.cz
 
 Pod týmem se schází i permanentní **skupina pro klima**, kterou také vede Jan Nezhyba
-
-
-V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde například o:
-* **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
-* **Týrání zvířat** vede Martin Archalous, kontaktní osoba: Martin Huňady (hunadym@psp.cz)
-* **ZeŽiv**, koordinační porada složená z pirátských poslanců z Výboru pro životní prostředí a Zemědělského výboru
 
 
  <br> <br> <br>
