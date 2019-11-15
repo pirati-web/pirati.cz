@@ -17,47 +17,69 @@ category: resort
 redmine:
 forum:
 calendar: # id google kalendáře s událostmi
-zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297&fbclid=IwAR2oWGJXkwMEOnRWNU4Kq2QyATm9Z8DxrnPfaEWiVPeq6T5KkufuCSTuRy0
+zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
 ---
 
+# Poslanecký resortní tým - PoŽiv
+* v poslanecké sněmovně prosazujeme náš [volební program](/program/psp2017/zivotni-prostredi/) pro životní prostředí a projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP) (nebo související tisky). Naše aktivita je tedy primárně směřována na práci ve Výboru pro životní prostředí, kde předkládáme vlastní pozměňovací návrhy. Mezi okruhy témat, která řešíme v souvislosti s legislativním procesem v PSP, patří: ochrana přírody a krajiny, technická ochrana životního prostředí, financování ochrany životního prostředí, udržitelný rozvoj.
 
-Co děláme?
-----------
+* připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 
-* v poslanecké sněmovně prosazujeme volební program v oblasti [životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/), projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP), nebo i související tisky
-* aktivita je primárně směřována na práci ve Výboru pro životní prostředí (http://www.psp.cz/sqw/hp.sqw?k=4600)
-* předkládáme vlastní pozměňovací návrhy
-* okruhy témat, která řešíme v souvislosti s legislativním procesem PSP:
-  * ochranu přírody a krajiny
-  * technickou ochranu ŽP
-  * financování ŽP
-  * udržitelný rozvoj
-* připravujeme k návrhům podklady a stanoviska pro poslanecký klub
-* předáváme zprávy o legislativním procesu ve VŽP našim senátorům
-* vyjadřujeme se k práci Ministerstva životního prostředí
-* spolupracujeme v širší platformě ZeŽiv, která je složena z pirátských poslanců z [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) včetně podvýborů a [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700) včetně podvýborů
-* sledujeme práci vlády
-* sledujeme evropský legislativní proces v oblasti ŽP
-* připravujeme interpelace na členy vlády a premiéra
+* předáváme zprávy o legislativním procesu ve VŽP našim senátorům,
 
-Jak se můžete zapojit?
-----------------------
+* vyjadřujeme se k práci Ministerstva životního prostředí,
 
-Pokud souhlasíte s [Pirátským programem v oblasti životního prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) a chcete nám pomoci, ozvěte se prosím Kristině Marii Kubcové na kristina.kubcova@pirati.cz.
+* sledujeme práci vlády,
 
-Fungování platformy pro životní prostředí
-----------------------
+* sledujeme evropský legislativní proces v oblasti ŽP,
 
-Scházíme se podle potřeby. Většinou spolupracujeme online. Práci platformy koordinuje Kristina Marie Kubcová.
+* připravujeme interpelace na členy vlády a premiéra.
 
-Členové týmu jsou:
 
-* **[Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/)**, poslankyně, předsedkyně [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), garantka programového bodu [Životní prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) pro volby do Poslanecké sněmovny 2017
-* **[František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark/)**, poslanec, člen [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), předseda [Podvýboru pro financování péče o životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4621), člen [Podvýboru pro technickou ochranu životního prostředí](http://www.psp.cz/sqw/hp.sqw?k=4624)
-* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, poslanec, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620) a [Podvýboru pro udržitelný rozvoj](http://www.psp.cz/sqw/hp.sqw?k=4625)
-* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, poslanec, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
-* **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)**, poslanec, člen [Podvýboru pro technickou ochranu životního prostředí](http://www.psp.cz/sqw/hp.sqw?k=4624)
-* **Jan Nezhyba**, garant bodu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/) v dlouhodobém programu strany
-* **[Martin Šmída](https://www.pirati.cz/lide/martin-smida/)**, specialista na bio odpady
+### Složení týmu:
+* [Dana Balcarová](/lide/dana-balcarova), poslankyně, předsedkyně Výboru pro životní prostředí, garantka programového bodu Životní prostředí pro volby do Poslanecké sněmovny 2017, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
+* [František Elfmark](/lide/frantisek-elfmark), poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
+* [Jan Nezhyba](/lide/jan-nezhyba), garant bodu Životní prostředí v dlouhodobém programu strany
+* **Jiří Lehejček**, garant programu Zemědělství do sněmovních voleb 2017
+* **Lukáš Blažej**, odborník na právo životního prostředí
 * **Kristina Marie Kubcová**, odborná asistentka poslankyně Dany Balcarové
 * **Jakub Brejša**, odborný asistent poslance Františka Elfmarka
+
+### Komunikační kanály: 
+
+* [zápisy z porad](https://forum.pirati.cz/viewtopic.php?f=560&t=48297)
+* [newslettery](https://nalodeni.pirati.cz/news/list/22/)
+* [web výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600)
+Na agendě životního prostředí pracuje v rámci Pirátů několik týmů. Některé týmy jsou dočasné, jiné stálé, některé jsou formálně zařazené do pirátských struktur, jiné jsou čistě neformální. Máme i týmy úzce specializované či lokálně vymezené.
+
+ <br> <br> <br>
+
+# Resortní tým pro životní prostředí
+
+* Pracuje na programových dokumentech pirátské strany, dohlíží nad dodržováním [dlouhodobého programu Životní prostředí](/program/dlouhodoby/zivotni-prostredi/), zabývá se aktuálními kauzami i koncepčními otázkami.
+
+
+### Složení týmu:
+* [Jan Nezhyba](/lide/jan-nezhyba/), vedoucí týmu a kontaktní osoba, garant bodu Životní prostředí v dlouhodobém programu strany
+* [Martin Šmída](/lide/martin-smida/), specialista na bioodpady
+* [Dana Balcarová](/lide/dana-balcarova/), vedoucí resortního týmu ŽP PSP a garantka volebního programu 2017
+
+### Komunikační kanály: 
+- [forum](https://forum.pirati.cz/viewforum.php?f=560) 
+- kontaktní osoby: Jana Nezhybu nebo Kristinu Marii Kubcovou, email: kristina.kubcova@pirati.cz
+
+Pod týmem se schází i permanentní **skupina pro klima**, kterou také vede Jan Nezhyba
+
+
+ <br> <br> <br>
+# Krajské expertní týmy - KET
+
+* Krajské expertní týmy jsou odborné týmy s různou strukturou funkcí. Garant pro životní prostředí KET odborně podporuje a poskytuje odpovědi k dlouhodobému programu Životní prostředí. 
+
+* KET se obrací na poslance s návrhy na interpelace v zásadních lokalních kauzách v oblasti ŽP.
+
+* Pokud máte zájem stát se členem/členkou krajského expertního týmu, obraťte se prosím na [příslušného koordinátora](/regiony/)
+
+
+<br> <br> <br>
+Mimo tyto týmy existují i obecné stranické týmy ve smyslu ZaTyS [zásady týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys), které se sestavují s různým cílem a jejich práce může být časově omezená. Takovou skupinu není třeba formálně zakládat, záleží na dohodě členů a souladem se zásadami týmové spolupráce. 
