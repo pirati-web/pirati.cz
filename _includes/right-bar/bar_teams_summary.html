@@ -18,6 +18,7 @@
             {% endif %}
             <hr>
             {% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail }}">{{ page.mail }}</a><br/>{% endif %}
+            {% if page.newsletter %}<i class="fa fa-newspaper-o"></i> <a href="{{ page.newsletter }}">Archiv newsletteru</a><br/>{% endif %}
             {% if page.facebook %}<i class="fa fa-facebook"></i> <a href="{{ page.facebook }}">FB: {{ page.facebook | remove: "https://www.facebook.com/" }}</a><br/>{% endif %}
             {% if page.twitter %}<i class="fa fa-twitter"></i> <a href="{{ page.twitter }}">TW: {{ page.twitter | remove: "https://twitter.com/" }}</a><br/>{% endif %}
             {% if page.github %}<i class="fa fa-github"></i> <a href="{{ page.github }}">GH: {{ page.github | remove: "https://github.com/"}}</a><br/>{% endif %}

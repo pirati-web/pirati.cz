@@ -19,6 +19,7 @@ redmine:
 forum: https://forum.pirati.cz/viewforum.php?f=550
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=550&t=46370
+newsletter:  https://nalodeni.pirati.cz/news/list/18/
 ---
 
 

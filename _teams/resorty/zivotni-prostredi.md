@@ -71,6 +71,12 @@ Na agendě životního prostředí pracuje v rámci Pirátů několik týmů. N�
 Pod týmem se schází i permanentní **skupina pro klima**, kterou také vede Jan Nezhyba
 
 
+V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde například o:
+* **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
+* **Týrání zvířat** vede Martin Archalous, kontaktní osoba: Martin Huňady (hunadym@psp.cz)
+* **ZeŽiv**, koordinační porada složená z pirátských poslanců z Výboru pro životní prostředí a Zemědělského výboru
+
+
  <br> <br> <br>
 # Krajské expertní týmy - KET
 
