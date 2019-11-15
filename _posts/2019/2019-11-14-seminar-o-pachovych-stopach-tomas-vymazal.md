@@ -10,7 +10,7 @@ author:       Mediální odbor
 
  
 
-Praha, 14. listopadu 2019 – Dnes jsem ve Sněmovně uspořádal odborný seminář, který měl nalézt odpověď na otázku, zdali je metodu pachové identifikace policejními psi vhodné používat jako důkaz. Za hojné účasti vědců, policejních psovodů a uznávaných odborníků ze zahraničí jsme analyzovali vědecké důkazy o tom, že policejní psi zkrátka nejsou v identifikaci pachatele podle svého čichu stoprocentní. Mohou je například ovlivnit odměny, které dostávají za splněný úkol. 
+Praha, 14. listopadu 2019 – Dnes jsem ve Sněmovně uspořádal odborný seminář, který měl nalézt odpověď na otázku, zdali je metodu pachové identifikace policejními psy vhodné používat jako důkaz. Za hojné účasti vědců, policejních psovodů a uznávaných odborníků ze zahraničí jsme analyzovali vědecké důkazy o tom, že policejní psi zkrátka nejsou v identifikaci pachatele podle svého čichu stoprocentní. Mohou je například ovlivnit odměny, které dostávají za splněný úkol. 
 
 Zástupci Ministerstva vnitra nám potvrdili, že si uvědomují nedostatky debatované metody. Zároveň přiznali, že už museli učinit celou řadu opatření, aby předešli případným omylům. Omylům však úplně předejít nemohou. Soudce při rozhodování k případnému důkazu ve formě pachové stopy přihlíží na základě znaleckého posudku, aniž by při tom problematice pachové identifikace rozuměl. 
 
