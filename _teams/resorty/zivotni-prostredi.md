@@ -36,7 +36,7 @@ zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
 * připravujeme interpelace na členy vlády a premiéra.
 
 
-### Složení týmu:
+### Kmenovými členy týmu jsou
 * [Dana Balcarová](/lide/dana-balcarova), poslankyně, předsedkyně Výboru pro životní prostředí, garantka programového bodu Životní prostředí pro volby do Poslanecké sněmovny 2017, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
 * [František Elfmark](/lide/frantisek-elfmark), poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
 * [Jan Nezhyba](/lide/jan-nezhyba), garant bodu Životní prostředí v dlouhodobém programu strany
