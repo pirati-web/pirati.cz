@@ -64,7 +64,7 @@ V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde např�
 * Pracuje na programových dokumentech pirátské strany, dohlíží nad dodržováním [dlouhodobého programu Životní prostředí](/program/dlouhodoby/zivotni-prostredi/), zabývá se aktuálními kauzami i koncepčními otázkami.
 
 
-### Kmnovými členy týmu jsou:
+### Kmenovými členy týmu jsou:
 * [Jan Nezhyba](/lide/jan-nezhyba/), vedoucí týmu a kontaktní osoba, garant bodu Životní prostředí v dlouhodobém programu strany
 * [Martin Šmída](/lide/martin-smida/), specialista na bioodpady
 * [Dana Balcarová](/lide/dana-balcarova/), vedoucí resortního týmu ŽP PSP a garantka volebního programu 2017

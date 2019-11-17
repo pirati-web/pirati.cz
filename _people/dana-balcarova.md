@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: people/dana-balcarova.jpg   # 165 x 220
-description: poslankyně PS PČR, garantka programového bodu životní prostředí, pro volby do Poslanecké sněmovny 2017             	# kratký popis, max 160 znaků
+description: poslankyně PS PČR, garantka programového bodu životní prostředí pro volby do Poslanecké sněmovny 2017             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
