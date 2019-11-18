@@ -5,9 +5,9 @@ fullname: Tomáš Murňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/tomas-murnak.jpg   # 165 x 220
-description: Místopředseda výboru pro územní rozvoj a územní plánování v ZHMP, zastupitel hl. m. Prahy, zastupitel městské části Praha 13             	# kratký popis, max 160 znaků
+description: Předseda výboru pro legislativu, místopředseda výboru pro územní rozvoj a územní plánování v ZHMP, zastupitel hl. m. Prahy, zastupitel městské části Praha 13             	# kratký popis, max 160 znaků
 mail:
-- viktor.mahrik@pirati.cz
+- tomas.murnak@pirati.cz
 mob:			  
 profiles:
   github:                 
