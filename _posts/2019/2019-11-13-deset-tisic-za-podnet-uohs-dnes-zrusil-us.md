@@ -9,7 +9,7 @@ author:       Mediální odbor
 ---
 
 
-Praha, 13. listopadu 2019 – Plénum Ústavní soudu dnes rozhodlo, že desetitisícový poplatek za podnět na Úřad pro ochranu hospodářské soutěže je protiústavní. Občané tak budou opět mít možnost upozornit na případnou korupci ve veřejných zakázkách bezplatně. Poplatek, proti kterému podala organizace Transparency International podnět v lednu 2017, byl zaveden již v roce 2016, ale ani současná vláda neprojevila zájem jej zrušit. Skupina pirátských poslanců podala v dubnu 2019 legislativní návrh na zrušení poplatku, který Babišova vláda odmítla.
+Praha, 13. listopadu 2019 – Plénum Ústavního soudu dnes rozhodlo, že desetitisícový poplatek za podnět na Úřad pro ochranu hospodářské soutěže je protiústavní. Občané tak budou opět mít možnost upozornit na případnou korupci ve veřejných zakázkách bezplatně. Poplatek, proti kterému podala organizace Transparency International podnět v lednu 2017, byl zaveden již v roce 2016, ale ani současná vláda neprojevila zájem jej zrušit. Skupina pirátských poslanců podala v dubnu 2019 legislativní návrh na zrušení poplatku, který Babišova vláda odmítla.
 
 > „Úprava poplatku byla protiústavní, jednalo se o nepřiměřený zásah do petičního práva garantovaného Listinou základních práv a svobod, který omezoval právo občanů podílet se na správě věcí veřejných. Bylo zcela absurdní, aby občan musel nést vysokou poplatkovou povinnost za to, že státu ve svém volném čase pomáhá plnit úkoly, ke kterým je sám ze zákona povinen. Náš návrh zákona ke zrušení poplatku nyní stáhneme,“ vysvětluje situaci předkladatel novely pirátský poslanec a místopředseda Sněmovny Vojtěch Pikal.
 
