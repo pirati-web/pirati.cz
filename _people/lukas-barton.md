@@ -28,16 +28,13 @@ calendar: frcko71obqued67aa05k4cfbo8%40group.calendar.google.com
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-lukase-bartone-t38994.html-->
 ---
 
-Ing. Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj.
+Ing. Lukáš Bartoň, Ph.D. (* 1981, České Budějovice)
 
-Povoláním je strojař, výzkumník. Vede Zkušebnu provozní pevnosti a únavové životnosti Regionálního technologického institutu na Fakultě strojní Západočeské univerzity v Plzni. Na univerzitě působí už od roku 2008, kdy začal učit na Katedře konstruování strojů. Zasloužil se o inovaci výuky v oboru konstruování strojů včetně jeho znalostní teoretické, metodické a počítačové podpory.
+Od roku 2017 je poslancem Parlamentu České republiky. Ve sněmovně je hlavním předmětem jeho zájmu oblast školství na všech úrovních. Je místopředsedou Školského výboru a předsedou Podvýboru pro regionální školství. Zabývá se zejména tématy koncepce a rozvojem školské soustavy, strategickými dokumenty v oblasti školství a zvyšování kvality vzdělávání. Mezi jeho hlavní témata patří oblast maturitních zkoušek, kde předložil novelu školského zákona, dále umožnění individuálního vzdělávání, důraz na růst platů učitelů a další témata, která vedou ke zvýšení kvality vzdělávání. Podrobně se věnuje i oblasti sportu, kde je jeho vizí udělat sport i sportoviště dostupné pro volnočasové využití zejména dětem, ale i všem sportovním amatérům. V Poslanecké sněmovně předložil novelu o dekriminalizaci nějakého toho piva u vodáku na vodě. Dále se zabývá tvorbou a prosazením zákona o eutanázii. V Plzeňském kraji je od roku 2013 předsedou krajského sdružení Pirátů.
 
-V letech 2011-2013 byl externím konstruktérem pro několik soukromých firem na Plzeňsku, kdy se zabýval mimo jiné konstrukcí zařízení a strojů pro elektrárny. V letech 2005 až 2012 absolvoval doktorské studium na Fakultě strojní – Katedře konstruování strojů Západočeské univerzity, kde v roce 2012 získal doktorát v oboru Stavba strojů a zařízení svou dizertační prací „Znalostní podpora pro návrh systému aktivního magnetického ložiska“.
+Před zvolení do Poslanecké sněmovny učil na Strojní fakultě v Plzni a vedl vědecké pracoviště. Na stejné fakultě vystudoval obor Konstruktér a následně získal doktorát. Byl lektorem dalšího vzdělávání pro podniky v Plzeňském kraji v oblasti technické dokumentace. Byl také externím konstruktérem, kdy se zabýval mimo jiné konstrukcí zařízení pro elektrárny (JE Temelín) i konstrukcí výrobních strojů a zařízení. Poté vedl Zkušebnu provozní pevnosti a únavové životnosti Regionálního technologického institutu.
 
-Od ledna až do června 2008 absolvoval semestrální studijní stáž v rámci projektu Erasmus na Manchester metropolitan university, kde se věnoval výzkumu v oblasti znalostních systémů a magnetických ložisek. Přednášel zde na téma výpočtu magnetických ložisek. Inženýrský titul získal v roce 2005 v oboru Stavba výrobních strojů a zařízení; se zaměřením na moderní konstrukční pomůcky, CAD systémy a MKP výpočty. Od června až do září 2003 pobýval a pracoval ve Spojených státech.
+V rámci studia vycestoval na 3 měsíce do USA a pak na půl roku do Velké Británie. Byl dlouholetým členem akademických senátů univerzity i fakulty, delegátem v Radě vysokých škol. V rámci poznávání světa  pak procestoval mnoho států zejména v jižní Asii.
 
-Od roku 2012 je členem Pirátů. Kandidoval v komunálních volbách v roce 2014 do Zastupitelstva městského obvodu Plzeň 3 (lídr kandidátky) a města Plzeň, a to za subjekt s názvem "Společně za Plzeň-koalice Plzeňské aliance, Piráti, Změna, STAN a SZ". Ani v jednom případě však neuspěl. 
+Více informací o Lukášovi Bartoňovi je na stránkách [www.plzenskypirat.cz](www.plzenskypirat.cz)
 
-V krajských volbách v roce 2016 kandidoval za Piráty do Zastupitelstva Plzeňského kraje, a to z pozice lídra, ale opět neuspěl. Ve volbách do Poslanecké sněmovny PČR v roce 2013 kandidoval za Piráty v Plzeňském kraji, ale do Sněmovny se nedostal. Ve volbách do Poslanecké sněmovny PČR v roce 2017 byl lídrem Pirátů v Plzeňském kraji. Získal 2 366 preferenčních hlasů a byl zvolen poslancem. 
-
-V Poslanecké sněmovně je členem Mandátového a imunitního výboru, a dále je členem a zároveň místopředsedou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu. 
