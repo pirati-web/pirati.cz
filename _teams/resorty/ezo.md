@@ -17,6 +17,7 @@ redmine: https://redmine.pirati.cz/projects/resort-evropska-unie-zahranici-obran
 uid: ezo
 forum: https://forum.pirati.cz/mezinarodni-vztahy-f559/
 zapis: https://forum.pirati.cz/viewtopic.php?f=559&t=45987
+newsletter:  https://nalodeni.pirati.cz/news/list/15/
 tags:
  - Evropská unie
  - Zahraniční věci
