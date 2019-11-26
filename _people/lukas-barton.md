@@ -20,7 +20,7 @@ profiles:
   github:                 
   facebook: 		  https://www.facebook.com/bartonlk
   twitter: 		  
-  flickr:     		  https://www.flickr.com/search/?sort=date-taken-desc&advanced=1&text=luk%C3%A1%C5%A1%20barto%C5%88
+  flickr: "https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Luk.._Barto"
   report: https://forum.pirati.cz/viewtopic.php?f=956&t=38994
 report: 1s-u1A52gywtW88SCb-HhAJNQok-OzPZd
 redmine: 182

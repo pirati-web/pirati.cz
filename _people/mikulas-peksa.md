@@ -19,7 +19,7 @@ profiles:
   github:
   facebook: https://www.facebook.com/peksamikulas/
   twitter: https://twitter.com/vonpecka  
-  flickr:
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=mikul%C3%A1%C5%A1%20peksa
   web: https://mikulas-peksa.eu/
 ordga: 9
 ordeuro: 3

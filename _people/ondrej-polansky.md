@@ -27,7 +27,7 @@ profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky
   twitter: 		  
-  flickr:
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Polansk.
 ordga: 9
 ordrp: 5
 ordpsp: 12

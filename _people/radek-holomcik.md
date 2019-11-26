@@ -34,7 +34,7 @@ profiles:
   github:                
   facebook:
   twitter: 		  
-  flickr:
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Radek%20Holom
 report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
 redmine: 178
 ordrp: 3

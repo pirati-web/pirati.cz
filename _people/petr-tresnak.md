@@ -24,7 +24,7 @@ profiles:
   github:                 
   twitter:
   facebook: 		  https://www.facebook.com/petr.tresnak		  
-  flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=petr%20t%C5%99e%C5%A1%C5%88%C3%A1k
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Petr_T 
 ordcar: 2
 ordga: 2
 ordpsp: 21

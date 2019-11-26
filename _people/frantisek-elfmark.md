@@ -28,7 +28,7 @@ profiles:
   facebook:     https://www.facebook.com/FrantisekElfmark.DiS/
   twitter: 	http://twitter.com/ElfmarkF
   linkedin:    https://www.linkedin.com/in/frantisek-elfmark/
-  flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20elfmark&view_all=1
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Elfmark
 ordpsp: 21
 report: 12HV0kbkNMm9AWEyOg7LaX47S6APb-9vk
 calendar: frantisek.elfmark%40gmail.com

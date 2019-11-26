@@ -14,7 +14,8 @@ profiles:
   github:
   facebook: https://www.facebook.com/gregorova.marketka
   twitter: https://twitter.com/MarketkaG 
-  linkedin: 
+  linkedin:
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=mark%C3%A9ta%20gregorov%C3%A1
 calendar: u5v3n1v7h04mm9jlgfprm27ujg@group.calendar.google.com
 ---
 

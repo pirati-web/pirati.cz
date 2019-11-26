@@ -14,7 +14,8 @@ profiles:
   github:
   facebook: 
   twitter: https://twitter.com/PiratKolaja
-  linkedin: 
+  linkedin:
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Marcel%20Kolaja
 ---
 
 Marcel Kolaja je členem České pirátské strany od roku 2010. V roce 2014 kandidoval do Evropského parlamentu na druhém místě kandidátky. V minulosti působil například jako spolupředseda mezinárodní organizace Pirate Parties International nebo místopředseda Pirátské strany. Marcel vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.

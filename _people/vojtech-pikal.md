@@ -25,7 +25,7 @@ profiles:
   facebook: 	https://www.facebook.com/vpikal
   twitter: 		https://twitter.com/VPikal
   wikipedia:  https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Pikal
-  flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=vojt%C4%9Bch%20pikal
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-t&view_all=1&text=Pikal
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
 ordpsp: 7
 redmine: 69
