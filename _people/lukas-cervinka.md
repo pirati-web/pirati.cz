@@ -3,7 +3,7 @@ uid: lukas.cervinka
 name:     Lukáš Červinka      		# běžně používáné jméno
 fullname: JUDr. Lukáš Lev Červinka  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-asistenti
+-
 img: people/lukas-lev-cervinka.jpg           # 165 x 220
 description: externí poradce poslance Jana Lipavského, člen MS Praha 4 # kratký popis, max 160 znaků
 mail:
