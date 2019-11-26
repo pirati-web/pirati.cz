@@ -37,7 +37,7 @@ carousel:
     <p>V současné době je také místopředsedou krajského sdružení Karlovarský kraj. Ing. Petr Třešňák je energetik v oblasti bezpečnosti jaderných elektráren, věnuje se mimo jiné obnovitelným zdrojům a jejich nasazení v prostředí ČR. Jedním z jeho úspěchů je nasazení transparentních bankovních účtů v Mariánských Lázních.</p>
 ---
 
-Petr Třešňák (\*1983) pirátský poslanec PSP ČR za Karlovarský kraj. Rovněž je předsedou krajského sdružení Karlovarský kraj a dočasným garantem programového bodu energetika. Pochází z Mariánských Lázní.
+Petr Třešňák (\*1983) pirátský poslanec PSP ČR za Karlovarský kraj. Rovněž je 1. místopředsedou krajského sdružení Karlovarský kraj a dočasným garantem programového bodu energetika. Pochází z Mariánských Lázní.
 
 V letech 1998–2007 pobýval převážně v Plzni. Zde absolvoval nejprve SPŠ Dopravní, obor Informační technologie a poté Fakultu elektrotechnickou, ZČU. Pro zájem o ekologii a energetiku se zde zvolil studijní obor jménem Technická ekologie na Katedře energetiky a ekologie, kde se věnoval převážně obnovitelným zdrojům a jejich nasazení v prostředí ČR. Po absolvování fakulty zakotvil v odvětví jaderné energetiky, kde pracuje doposud jako specialista bezpečnosti. Kromě zájmů již zmíněných, které se promítly i do profesního zaměření, byla již od střední školy jeho hlavní zálibou (životním stylem) punk a hardcore hudba. V současnosti stále hraje v kapelách Ethos of Nemesis a Řetězová reakce.
 
