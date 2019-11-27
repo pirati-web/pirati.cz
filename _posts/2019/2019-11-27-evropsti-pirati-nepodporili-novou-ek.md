@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí evropská-unie
 layout:       post
 title:        "Evropští Piráti nepodpořili novou Evropskou komisi"
-image:        /assets/img/articles/2019/peksa-kolaja-bartos-gregorova.jpg
+image:        /assets/img/articles/2019/eu-pirati1.jpg
 author:       Mediální odbor
 ---
 
