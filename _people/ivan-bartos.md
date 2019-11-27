@@ -23,8 +23,10 @@ profiles:
   twitter:		 https://twitter.com/pirativanbartos
   flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
 asistenti:
-  - name: Mgr. Věra Marušiaková
+   - name: Mgr. Věra Marušiaková
     mail: vera.marusiakova@pirati.cz
+  - name: Anna Doova
+    mail: anna.doova@pirati.cz
 ordrp: 1
 ordcar: 1
 ordga: 3
