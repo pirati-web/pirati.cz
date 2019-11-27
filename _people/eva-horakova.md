@@ -5,7 +5,7 @@ fullname: Eva Horáková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
-description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, členka Rady městské části Praha 5             	# kratký popis, max 160 znaků
+description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - eva.horakova@pirati.cz
 mob:			  
@@ -17,7 +17,7 @@ profiles:
 ordpraha: 7
 ---
 
-**Eva Horáková** ( *1980) je místopředsedkyně Pirátů pro Prahu 5, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
+**Eva Horáková** ( *1980) je místopředsedkyně zastupitelského klubu Pirátů v ZHMP, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
 
 Pochází z východních Čech a od 18ti let žije v Praze, je šťastně vdaná. Vystudovala střední zdravotnickou školu obor všeobecná zdravotní sestra v Novém Bydžově, tuto práci vykonávala 2 roky po škole v Ústřední vojenské nemocnice v Praze na nejnáročnějším oddělení ARO-RES. Poté se rozhodla dále studovat, a to na 1. lékařské fakultě na Univerzitě Karlově v Praze. Tato studia se prodloužila nejen na bakalářské studium ošetřovatelství ale také na magisterské studium oboru učitelství zdravotnických předmětů pro střední školy. Během studia si odskočila v rámci programu Sokrates Erasmus do Německa na jeden semestr na polytechnické škole v Neubrandenburg.
 
