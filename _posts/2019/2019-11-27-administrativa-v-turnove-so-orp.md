@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa
 layout:       post
 title:        "Sněmovna schválila možnost zachování obvodu s rozšířenou působností Turnov"
-image:        /assets/img/articles/2019/2019/tomas-martinek1.jpg
+image:        /assets/img/articles/2019/tomas-martinek1.jpg
 author:       Mediální odbor
 ---
 
