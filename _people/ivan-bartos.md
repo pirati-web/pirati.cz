@@ -25,8 +25,6 @@ profiles:
 asistenti:
    - name: Mgr. Věra Marušiaková
     mail: vera.marusiakova@pirati.cz
-  - name: Anna Doova
-    mail: anna.doova@pirati.cz
 ordrp: 1
 ordcar: 1
 ordga: 3
