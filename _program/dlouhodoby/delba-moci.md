@@ -5,7 +5,7 @@ category: dlouhodoby
 topic: Demokracie
 ---
 
-Prosazujeme důslednou dělbu moci mezi zákonodárnou, výkonnou a soudní moc a několik málo zvláštních nezávislých orgánů (Česká národní banka, Nejvyšší kontrolní úřad apod.). Pirátská strana prosazuje důslednou dělbu moci ve státě, územních a profesních samosprávách, politických stranách i na vysokých školách. Dělba moci znesnadňuje systematickou korupci a privatizaci veřejné moci.
+Prosazujeme důslednou dělbu moci mezi zákonodárnou, výkonnou a soudní moc a několik málo zvláštních nezávislých orgánů (Česká národní banka, Nejvyšší kontrolní úřad apod.). Pirátská strana prosazuje důslednou dělbu moci ve státě, územních a profesních samosprávách, politických stranách i na vysokých školách, a to důsledným zákazem vykonávání vícero veřejných funkcí jednou osobou a personálním oddělením rozhodovacích a výkonných činností. Dělba moci znesnadňuje systematickou korupci a privatizaci veřejné moci.
 
 Současný systém počítá s tím, že výkonná moc je se zákonodárnou mocí úzce propojena. V praxi to znamená, že vláda není hodnocena podle toho, jak vládne a spravuje zemi, ale podle toho, jaké navrhuje zákony. Vládnoucí koalice si uzurpuje nejen moc výkonnou – řízení ministerstev a přípravu rozpočtu podle priorit vlády – nýbrž i moc zákonodárnou – tvorbu zákonů. Parlament neplní svůj zákonodárný úkol a degraduje se na rétorické cvičiště a pole působnosti lobbistů.
 
