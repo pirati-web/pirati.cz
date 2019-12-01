@@ -5,7 +5,7 @@ fullname: Dominika Michailidu  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - sck
 img: people/dominika-michailidu.jpg   # 165 x 220
-description: předsedkyně krajského sdružení Středočeský kraj            	# kratký popis, max 160 znaků
+description: členka krajského sdružení Středočeský kraj            	# kratký popis, max 160 znaků
 mail:
 - dominika.michailidu@pirati.cz
 mob:			  
