@@ -26,3 +26,6 @@ Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získa
 V Pirátské straně působila v letech 2013 - 2015 jako volená vedoucí Zahraničního odboru, od května 2017 tuto pozici zastávala na dva roky znovu. V rámci toho reprezentuje české Piráty i na pozici předsedkyně Evropské pirátské strany (PPEU), kterou byla na rok zvolená v prosinci 2018.
 
 Aktivně se zajímá o politiku již několik let, zpívá v kapele [Definitivní Ententýk](http://www.ententyk.cz/), předstírá slavnou [ukulelistku](https://www.youtube.com/channel/UC9sCCCSH8NRsimvToKNZ-aw), je závislá na svojí kočce Kočce a při volbách by jí největší radost udělalo, kdyby lidé volili informovaně.
+
+
+[Transparentní účet člena Evropského parlamentu - General Expenditures Allowances](https://ib.fio.cz/ib/transparent?a=2301637274)
