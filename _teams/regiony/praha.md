@@ -3,7 +3,7 @@ uid: praha
 name: Praha
 fullname: Krajské sdružení Praha
 img: teams/praha.jpg
-leader: ondrej.profant
+leader: jaromir.beranek
 deputy:
 - Tomáš Murňák
 - Pavel Hájek
@@ -25,8 +25,7 @@ twitter: https://twitter.com/piratipraha
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme 4 Piráty na pražském magistrátu a 11 zastupitelů na městských částech.
-Na magistrátu jsme v opozici, prosazujeme průhledné hospodaření a rozhodování.
+Máme 13 Pirátů na pražském Magistrátu v zastupitelstvu, včetně historicky prvního [Pirátora](https://cestina20.cz/slovnik/pirator/), Zdeňka Hřiba! Jsme v koalici s hnutím Praha Sobě a Spojenými silami pro Prahu. Na městských částech máme nespočet dalších zastupitelů, vedeme Prahu 11, Prahu 12; jsme ve vedení Prahy 3. Naši zastupitelé jsou téměř na každé městské části!
 
 Možnosti zapojení:
 
