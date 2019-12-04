@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda sněmovna celostátní lidska-prava
 layout:       post
 title:        "Z iniciativy Pirátů vzniklo ve Sněmovně podpisové místo pro Maraton psaní dopisů"
-image:        /assets/img/articles/2019/tk27frantisek.kopriva.jpg
+image:        /assets/img/articles/2019/frantisek.kopriva.jpg
 author:       Mediální odbor
 ---
 
