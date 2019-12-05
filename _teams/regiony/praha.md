@@ -10,7 +10,7 @@ deputy:
 - Viktor Mahrik
 - Roman Kučera
 contact:
-- michal.jokes
+- michal.hrib
 region: Praha
 url: http://praha.pirati.cz
 categories:
