@@ -3,7 +3,7 @@ date:         2019-12-09
 category:     blog
 tags:         vláda legislativa životní-prostředí
 layout:       post
-title:        "Odpadová legislativa není dobře připravená. Odklad termínu konce skládkování ještě zhorší současný stav"
+title:        "Komentář Františka Elfmarka: Odpadová legislativa není dobře připravená. Odklad termínu konce skládkování ještě zhorší současný stav"
 image:        /assets/img/articles/2019/frantisek-elfmark.jpg
 author:       František Elfmark
 ---
