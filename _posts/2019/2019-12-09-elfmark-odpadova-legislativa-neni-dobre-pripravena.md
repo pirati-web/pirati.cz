@@ -14,4 +14,4 @@ Jeden z hlavních problémů spočívá v odkladu termínu konce skládkování 
 
 Mám obavy, že zákon mohl vzniknout pod lobbistickým tlakem, protože s ním nejsou spokojeni ani zástupci krajů. Většina krajů se vyjádřila proti posunu termínu konce skládkování, protože mají zainvestováno do dílčích řešení a respektují stávající zákon. Mluví se o nepřipravenosti, ale kdo zajistí, že se na rok 2030 připravíme, když jsme teď deset let nedělali vůbec nic? 
 
-Legislativní návrh budou Piráti nadále připomínkovat a ve spolupráci s odborníky chystají uspořádat kulatý stůl a připravit pozměňovací návrhy. Piráti k tématu uspořádali již dva semináře a vytvořili tematický web pro odborníky i veřejnost. Na webové stránce je k dispozici také veřejný výzkum k odpadům.
+Legislativní návrh budou Piráti nadále připomínkovat a ve spolupráci s odborníky chystají uspořádat kulatý stůl a připravit pozměňovací návrhy. Piráti k tématu uspořádali již dva semináře a vytvořili [tematický web](https://www.obehovehospodarstvi.eu/) pro odborníky i veřejnost. Na webové stránce je k dispozici také veřejný výzkum k odpadům.
