@@ -22,7 +22,7 @@ Chyba v implementaci nastala v části, která se týká možnosti uživatelů v
 > „Komise se domnívá, že povinnosti stanovené v odstavcích 7 a 9 směrnice nemohou být považovány za splněné členskými státy tím, že se budou opírat o jakékoli obecné ustanovení, kterým jsou uživatelé informováni o stávajících výjimkách a omezeních v obchodních podmínkách poskytovatelů služeb,” uvádí přímo ve zprávě komisařka Mariya Gabrielová.
 
 
-Implementace směrnice samozřejmě probíhá i v Česku. Za Piráty ji řeší poslanec Ondřej Profant, který uvedl: "Ministerstvo bylo velmi překvapeno, že se jako poslanci zajímáme o přípravu této legislativy. Je vidět, že úředníci nejsou zvyklí konzultovat legislativu mimo úzké lobbistické kruhy. Mojí rolí je zamezit dalším nepřesnostem či zadním vrátkům, které vychylují legislativu v neprospěch občanů."
+> Implementace směrnice samozřejmě probíhá i v Česku. Za Piráty ji řeší poslanec Ondřej Profant, který uvedl: "Ministerstvo bylo velmi překvapeno, že se jako poslanci zajímáme o přípravu této legislativy. Je vidět, že úředníci nejsou zvyklí konzultovat legislativu mimo úzké lobbistické kruhy. Mojí rolí je zamezit dalším nepřesnostem či zadním vrátkům, které vychylují legislativu v neprospěch občanů."
 
 
 
