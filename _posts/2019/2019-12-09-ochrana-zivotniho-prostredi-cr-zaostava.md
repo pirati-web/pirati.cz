@@ -3,7 +3,7 @@ date:         2019-12-09
 category:     blog
 tags:         vláda legislativa životní-prostředí
 layout:       post
-title:        "Zpráva o životním prostředí ukazuje, že Česká republika v ochraně životního prostředí zaostává"
+title:        "Komentář Dany Balcarové: Zpráva o životním prostředí ukazuje, že Česká republika v ochraně životního prostředí zaostává"
 image:        /assets/img/articles/2019/balcarova-snemovna.jpg
 author:       Dana Balcarová
 ---
