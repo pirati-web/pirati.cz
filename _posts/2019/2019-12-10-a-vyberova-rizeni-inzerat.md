@@ -57,6 +57,6 @@ Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/vi
 
 Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50143).
 
-**Termíny:**
-* Zaslání dokumentace: 18. 12. 2019 .
+**Termíny pro všechny vypisované pozice:**
+* Zaslání dokumentace: 18. prosince 2019.
 * Nástup v prvním čtvrtletí 2020.
