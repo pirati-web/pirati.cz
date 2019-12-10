@@ -7,16 +7,17 @@ title:        "Piráti vypisují výběrová řízení na pozice v Technickém o
 image:        /assets/img/articles/2019/inzerat.jpg 
 author:       Mediální odbor
 ---
+Pirátská strana hledá do svého týmu vývojáře, správce systému a správce webových prezentací. Splňujete uvedené požadavky a pracujete se svobodným softwarem? Pak se neváhejte přihlásit do některého z výběrových řízení.
 
-**Vývojář**
+# Vývojář
 
-# Co požadujeme?
+**Co požadujeme?**
 * Analýza, vývoj a testování programů.
 * Vedení vývojových projektů.
 * Podpora uživatelů.
 * Zkušenosti s vývojem webových aplikací na platformě Linux.
 
-# Co nabízíme?
+**Co nabízíme?**
 * Smlouva na dobu neurčitou (ŽO), cca 20h/týdně.
 * Odměna 30 tisíc Kč.
 * Měsíční bonus až 10 tisíc Kč.
@@ -24,15 +25,15 @@ author:       Mediální odbor
 
 Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50141).
 
-**Správce systémů**
+# Správce systémů
 
-# Co požadujeme?
+**Co požadujeme?**
 * Zajištění fungování technických systémů Pirátské strany.
 * Rozvoj těchto systémů.
 * Podpora uživatelů.
 * Ochota držet pohotovost.
 
-# Co nabízíme?
+**Co nabízíme?**
 * Smlouva na dobu neurčitou (ŽO), cca 20h/týdně.
 * Odměna 30 tisíc Kč.
 * Měsíční bonus až 5 tisíc Kč.
@@ -40,15 +41,15 @@ Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/vi
 
 Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50142)
 
-**Správce webových prezentací**
+# Správce webových prezentací
 
-# Co požadujeme?
+**Co požadujeme?**
 * Obsahová a technická údržba webových prezentací.
 * Podpora interních uživatelů v souvislosti s webovými prezentacemi.
 * Školení interních uživatelů (dalších správců) webových prezentací.
 * Drobné programátorské práce.
 
-# Co nabízíme?
+**Co nabízíme?**
 * Smlouva na dobu neurčitou (ŽO), cca 20h/měsíčně.
 * Odměna 5 tisíc Kč.
 * Měsíční bonus až 5 tisíc Kč.
@@ -56,6 +57,6 @@ Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/vi
 
 Podrobnosti k výběrovému řízení naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50143).
 
-# Termíny:
+**Termíny:**
 * Zaslání dokumentace: 18. 12. 2019 .
 * Nástup v prvním čtvrtletí 2020.
