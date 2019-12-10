@@ -1,5 +1,5 @@
 ---
-date:         2019-09-20
+date:         2019-12-10
 category:     blog
 tags:         inzerát
 layout:       post
