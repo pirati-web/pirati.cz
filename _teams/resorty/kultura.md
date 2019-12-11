@@ -7,9 +7,8 @@ leader: lenka.kozlova
 deputy:
 - ondrej.polansky
 contact-local:
-  name: Tomáš Hába
-  mob: 723 248 776
-  mail: habat@psp.cz
+  name: Štěpán Drtina
+  mail: stepan.drtina@pirati.cz
   img: 
 tags:
 - kultura
@@ -54,13 +53,16 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)**, poslanec, člen [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
 * **[Giuseppe Maiello](https://www.pirati.cz/lide/giuseppe-maiello/)**, garant programového bodu [kultura](https://www.pirati.cz/program/psp2017/kultura/)
 * **[Dominika Michailidu](https://www.pirati.cz/lide/dominika-michailidu/)** - kultura, živé umění
-* **David Wagner** - církve
-* **Lukáš Funk** - archeologie, muzejnictví
+* **[David František Wagner](https://wiki.pirati.cz/lide/david_frantisek_wagner)** - církve
+* **[Lukáš Funk](https://praha2.pirati.cz/lide/lukas-funk/)** - archeologie, muzejnictví
 * **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)** - architektura, veřejný prostor
-* **Vojtěch Ertl** - architektura
-* **Štěpán Drtina** - asistent poslankyně Lenky Kozlové
-* **Jan Fíla** - asistent poslankyně Lenky Kozlové
+* **[Vojtěch Ertl](https://wiki.pirati.cz/lide/vojtech_ertl)** - architektura
+* **[Štěpán Drtina](https://stredocesky.pirati.cz/lide/stepan-drtina/)** - asistent poslankyně Lenky Kozlové
+* **[Jaroslav Němec](https://www.pirati.cz/lide/jaroslav-nemec/)**
+* **[Ondřej Chrást](https://wiki.pirati.cz/lide/ondrej_chrast)**
+* **[Lucie Chocholová](https://kladno.pirati.cz/lide/lucie-chocholova/)**
 * **Kristyna Boháčová**
 * **Anna Vašatová**
+* **Jan Čečrdle**
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
