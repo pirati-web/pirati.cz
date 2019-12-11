@@ -32,7 +32,7 @@ layout: default
             {% if page.redmine_id or page.calendar %}
               <ul class="tabs" data-tabs id="profilove_zalozky">
                 <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
-                {% if page.redmine_id %}<li class="tabs-title"><a data-tabs-target="ukoly_tymu" href="#ukoly_tymu">Úkoly</a></li>{% endif %}
+                {% if page.redmine_id %}<li class="tabs-title"><a data-tabs-target="ukoly_tymu" href="#ukoly_tymu">Střednědobé cíle týmu</a></li>{% endif %}
                 {% if page.calendar %}<li class="tabs-title"><a data-tabs-target="kalendar_tymu" href="#kalendar_tymu">Kalendář</a></li>{% endif %}
               </ul>
             {% endif %}
@@ -54,12 +54,13 @@ layout: default
 
             {% if page.redmine_id %}
             <div id="ukoly_tymu" class="tabs-panel">
-              <h3>Úkoly týmu</h3>
+              <h3>Střednědobé cíle týmu</h3>
               <div id="redmine_tasks">
               </div>
               <script>
                 pirates.priorityStack.push(function (context) {
-                  var url = '{{page.redmine_id}}';
+                  //var url = '{{page.redmine_id}}';
+                  var url = 'https://redmine.pirati.cz/projects/{{page.redmine_id}}/issues.json?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=23&f%5B%5D=&c%5B%5D=subject&c%5B%5D=done_ratio&group_by=priority&t%5B%5D=';
                   //var url = 'https://redmine.pirati.cz/{{page.redmine_id}}/issues.json?&fixed_version_id=28';
                   var xhr = pirates.createCORSRequest('GET', url);
                   if (!xhr) {
