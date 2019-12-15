@@ -288,6 +288,165 @@ pirates.integrations = {
       });                    
     },
     
+    mpv: function(doc,aId, type) {
+      
+      var d = new Date();
+      var tsm2 = d.getMilliseconds() + d.getSeconds()*1000;
+      icons={};
+      pref={
+      'test-medialnich-vystupu':20,
+      };
+
+      // clone
+      masCopy=$("#masonry_container").clone(true);
+      divCopy=$("#masonry_container .cloner2").clone(true);      
+      divCopy.css('display', 'true');
+      
+      // adding beside DOM (not reflowing after each append)
+      // todo: rewrite jqury routines to vanilla (much faster)
+      var c=$("<div />").addClass('container');
+      
+      var proj=[];
+      var masNew=[];
+      masNew[aId]=masCopy.clone().appendTo(c);
+         
+      var inv=$('#redmine_vysledky #inv');
+            
+      var nav = document.querySelector('#sticky-nav');
+      
+      var pocetdoc=doc.issues.length;
+      console.log('Pocet polozek:'+pocetdoc);
+
+      //sort
+      doc.issues=sortJSONbyPriority(doc.issues);
+      
+            
+      for(var i in doc.issues) {
+        pd=doc.issues[i].project.name;
+        pid=slug($.trim(pd));
+        if (type==1) {
+          if (doc.issues[i].hasOwnProperty('assigned_to')) {
+            var asId=doc.issues[i].assigned_to.id;
+            } else {
+            var asId=-1;
+            }
+          } else {
+          if (doc.issues[i].hasOwnProperty('project')) {
+            var asId=slug($.trim(doc.issues[i].project.name));
+            } else {
+            var asId=-1;
+            }
+          }  
+        if (asId == aId) {
+        var divNew=divCopy.clone().appendTo(masNew[aId]);
+          var first_p="";
+          if (doc.issues[i].description!="") {
+            descHtml=md.render(doc.issues[i].description); 
+            var mess = $.parseHTML(descHtml);
+            doc.issues[i].desc_html=descHtml;
+            bd = inv.html('').append(mess);
+            first_p = bd.find('p:first').html();
+            bd.find('p:first').remove();
+            desc_rest=bd.html();
+            } else {
+            descHtml="Podrobný popis chybí ...";
+            doc.issues[i].desc_html=descHtml;
+            first_p="";
+            desc_rest="";
+            }
+          prio=doc.issues[i].priority.id;
+          $(".nadpis",divNew).html(doc.issues[i].subject);
+          //parsing image
+          if ("custom_fields" in doc.issues[i]) {
+            $.each( doc.issues[i].custom_fields, function( key, value ) {
+              if ((value.id==48) && (value.value!="")) {
+                first_p="<img src='"+value.value+"' style='margin-bottom:0.6em; width:100%;'><br/>"+first_p;
+                doc.issues[i].img=value.value;
+                }             
+              });
+            }
+          if (first_p!="") first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+          $(".perex",divNew).html(first_p);
+          $("a.mas_content",divNew).data( "id", doc.issues[i].id);
+          $("a.mas_content",divNew).data( "index",i);
+          divNew.attr("id",doc.issues[i].id);
+          divNew.show();
+          }
+        }
+      
+      $("#redmine_vysledky").append(c);  
+        
+      var d = new Date();
+      var tsm4 = d.getMilliseconds() + d.getSeconds()*1000;
+      console.log('Populating DOM (optimized jQuery):'+(tsm4-tsm2)+'ms');
+      
+      // after data processing
+        
+      $(document).ready(function () {
+        var url=window.location.href;
+        var path=window.location.pathname;
+        var hash=window.location.hash;
+        console.log('url:'+url);
+        console.log('path:'+path);
+        console.log('hash:'+hash);
+        
+        
+        // reveal issue details (hash)
+        $("#redmine_vysledky a.mas_content").each(function(index) {
+          $(this).click(function(event) {
+            event.preventDefault();
+            $(".callout.active").removeClass('active');
+            $(this).parent('div.callout').addClass('active');
+            var i=$(this).data("index");
+            var head=doc.issues[i].subject;
+            var desc=doc.issues[i].desc_html;
+            $("#reveal1 .head").text(head);          
+            $("#reveal1 .desc").html(desc.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;"));
+            $("#reveal1 .desc a").each(function(index) {$(this).attr('target', '_blank');});
+            if ("img" in doc.issues[i]) {
+              $("#reveal1 .img").attr('src',doc.issues[i].img).hide().fadeIn('slow');
+              } else {
+              $("#reveal1 .img").hide();
+              }          
+            if (!("assigned_to" in doc.issues[i])) {
+              $("#reveal1 .autor").html('nepřiřazeno');
+              } else {  
+              $("#reveal1 .autor").html(doc.issues[i].assigned_to.name);
+              }
+            newpath=path+'#'+$(this).data("id")+'_'+slug(head);
+            $("#reveal1 a.permalink").attr("href", newpath);
+            $("#reveal1").foundation('open');
+            console.log('modal open: '+newpath);
+            window.history.pushState({}, null, newpath);
+            });
+          });
+          
+        if (hash!='') {
+          var navheight=20;
+          // scroll to issue
+          $("#mpv-label").trigger("click");
+          var target_id=hash.substr(1,5);
+          console.log('searching for id '+target_id);
+          if($("#"+target_id).length != 0) {
+            $('html, body').animate({
+              scrollTop: $("#"+target_id).offset().top-navheight
+              }, 200);
+            $("#"+target_id+" a.mas_content").trigger("click");
+            $("#"+target_id+" .callout").addClass('active');
+            }
+          }  
+                      
+        
+        $(document).on('closed.zf.reveal', '[data-reveal]', function () {
+          window.history.replaceState({}, null, path);
+          });            
+
+        $(window).on('popstate', function() {
+          $("#reveal1").foundation('close');
+          });
+                   
+      });                    
+    },
     
     
     
