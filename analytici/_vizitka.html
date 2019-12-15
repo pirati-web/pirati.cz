@@ -1,0 +1,23 @@
+<div class="l-vizitka columns medium-6 large-{{include.columns}}">
+    <div class="o-media o-media--top">
+        <div class="o-media__image o-media__image--lgspace">
+            {% if include.name %}
+                <img src="{{ include.img }}" alt="{{ include.name }}">
+                {% if include.icon %}<img src="{{ include.icon }}" alt="ikona">{% endif %}
+            {% endif %}
+        </div>
+        <div class="o-media__body">
+            {% if include.res %}<h3 class="l-vizitka__title">{{ include.res }}</h3>{% endif %}
+            {% if include.name %}
+                <h4 class="o-media__headline">
+                 <a href="{{ include.link }}">{{ include.name }}</a>
+                    <!--{{ include.name }}-->
+                </h4>
+            {% endif %}
+            {% if include.mail %}<a href="mailto:{{ include.mail }}">{{ include.mail }}</a>{% endif %}
+            {% if include.tel %}{{ include.tel }}{% endif %}
+            {% if include.desc %}<p>{{ include.desc }}</p>{% endif %}
+            </p>
+        </div>
+    </div>
+</div>
