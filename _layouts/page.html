@@ -23,11 +23,12 @@ layout: default
                 <li class="tabs-title is-active"><a data-tabs-target="popis" href="#popis" aria-selected="true">Popis</a></li>
                 {% if page.redmine %}<li class="tabs-title"><a data-tabs-target="ukoly_uzivatele" href="#ukoly_uzivatele">Úkoly</a></li>{% endif %}
                 {% if page.calendar %}<li class="tabs-title"><a data-tabs-target="kalendar_poslance" href="#kalendar_poslance">Kalendář</a></li>{% endif %}
-                {% if page.report %}<li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz poslance</a></li>{% endif %}
+                {% if page.report %}<li class="tabs-title"><a data-tabs-target="report_poslance" href="#report_poslance">Výkaz<span class='show-for-medium'> poslance</span></a></li>{% endif %}
+                {% if page.mpv %}<li class="tabs-title"><a data-tabs-target="mpv" href="#mpv"><span class='show-for-medium'>Mediální v</span><span class='hide-for-medium'>V</span>ýsledky</a></li>{% endif %}
               </ul>
             {% endif %}
 
-            {% if page.report or page.redmine or page.calendar %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
+            {% if page.report or page.redmine or page.calendar or page.mpv %}<div data-tabs-content="profilove_zalozky" class="tabs-content">{% endif %}
             <div id="popis" class="tabs-panel is-active"  itemprop="description" class="c-BasicPage-content{%if page.class%} {{page.class}}{%endif%}">
               {{content}}
 
@@ -163,7 +164,104 @@ layout: default
             <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
             {% endif %}
 
-            {% if page.report or page.redmine or page.calendar %}</div>{% endif %}
+            {% if page.mpv %}
+            <div id="mpv" class="tabs-panel">
+              <div id="redmine_vysledky">
+
+                <div class="reveal large" id="reveal1" style='border:0; padding:0.4rem; max-width:56em;' data-reveal data-show-delay='200' data-hide-delay='200'>
+                  <div class='callout' style='border:0; margin:0;'>
+                    <h2 class='head' style='text-transform: uppercase; font-size:132%;'></h2>
+                    <img class='img' />
+                    <p class='desc' style='text-align:left; margin-top:0.8rem;'></p>
+                    <p class='tags' style='text-align:left; margin-top:0.8rem;'></p>
+                    <p class='float-left' style='font-size:75%; margin:0;'><i class="fa fa-user" aria-hidden="true"></i> <span class='autor'></span></p>
+                    <p class='link float-right' style='font-size:75%; margin:0;'>
+                      <a target='_blank' class='permalink' href=''><i class="fa fa-link" aria-hidden="true"></i>&nbsp;Permalink</a>
+                    </p>                    
+                    <div style='clear:both;'></div>
+                  </div>
+                  <button class="close-button" data-close aria-label="Close reveal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                  </button>  
+                </div>
+                
+                <div class="grid row" id="masonry_container" style='margin-bottom:1.2em;'>
+                  <div class="small-12 columns grid-item" style='padding-left:0.625rem; padding-right:0.625rem;'>
+                    <h1 class='head'></h1>
+                  </div>
+                  <div class='cloner2 grid-item small-12 columns' style='display:none; padding-left:0.625rem; padding-right:0.625rem;'>
+                    <div class='callout' style='padding:0; border:0;'>
+                      <a class='mas_content' href="#" style='text-decoration:none; color:#000000;'>
+                        <h3 class='nadpis' style='text-transform: uppercase; font-size:132%;'></h3>
+                        <p class='perex'></p>
+                      </a>
+                    </div>  
+                  </div>
+                </div>
+
+                <link rel="stylesheet" media="screen" href="https://piratiliberec.mfnet.cz/fontscdn/bebasneueregular.css" type="text/css"/>
+                <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&amp;subset=latin-ext" rel="stylesheet">
+                
+                <style>
+                h1.head, h2.head, h3.nadpis {text-transform: uppercase; font-weight: normal !important; font-family: 'BebasNeue';}
+                h1.head {font-size:200%;}
+                h3.nadpis {font-size:132%; margin-bottom:0.5em; padding:1rem 1rem 0 1rem;}
+                div.callout.active {background-color:#f0f0f0;}
+                div.callout {transition: all 1s ease; color:#000000; border:1px solid #f0f0f0;}
+                div.callout:hover {background-color:#f0f0f0;}
+                #loading {transition:all 1s ease; font-family: 'Roboto Condensed', sans-serif;}
+                p.perex {padding:0 1rem 1rem 1rem;}
+                p.perex img {margin-bottom:0.6em;}
+                .callout img {margin:-1px; max-width:calc(100% + 2px); outline: 1px solid rgba(0,0,0,0.06); outline-offset: -1px;}
+                .mas_content {text-decoration:none; color:inherit;}
+                .mas_content h3 {color:inherit; text-decoration:none;}
+                .mas_content p.perex {color:inherit; font-size:100%; font-family: 'Roboto Condensed', sans-serif; line-height:1.4; text-align:left; text-decoration:none; margin:0;}
+                p.desc, p.tags, span.autor, a.permalink, #dotazinfo {font-family: 'Roboto Condensed', sans-serif;}
+                p.nbm {margin-bottom:0;}
+                .hidden {display:none;}                
+                .nomargin {margin-bottom:0 !important;}
+                {% if page.mpv %}
+                .tabs-title>a {
+                  padding: 1.25rem 1.25rem;
+                  }
+                {% endif %}
+                </style>
+              
+                <div id='inv' style='display:none;'></div>
+              </div>
+              <script src="https://cdn.jsdelivr.net/remarkable/1.7.1/remarkable.min.js"></script>
+              
+              <script>
+                var md = new Remarkable();
+                pirates.priorityStack.push(function (context) {
+                  var url = 'https://redmineapitest.mfnet.cz';
+                  var xhr = pirates.createCORSRequest('GET', url);
+                  if (!xhr) {
+                    alert('CORS not supported');
+                    return;
+                  }
+                  xhr.onload = function() {
+                    var d = new Date();
+                    var tsm0 = d.getMilliseconds() + d.getSeconds()*1000;
+                    var doc = JSON.parse(xhr.responseText);
+                    var d = new Date();
+                    var tsm1 = d.getMilliseconds() + d.getSeconds()*1000;
+                    console.log('parse time:'+(tsm1-tsm0)+'ms');
+                    var div = document.getElementById('redmine_vysledky');
+                    pirates.integrations.redmine.mpv(doc,{{page.mpv}},1);
+                  }
+                  xhr.onerror = function() {
+                    alert('Woops, there was an error making the request.');
+                  };
+                  xhr.send();
+                });
+              </script>
+              
+            </div>  
+            {% endif %}
+
+
+            {% if page.report or page.redmine or page.calendar or page.mpv %}</div>{% endif %}
           </article>
           <!-- /Article -->
         </main>

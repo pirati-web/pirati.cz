@@ -18,6 +18,7 @@ newsletter: https://docs.google.com/forms/d/e/1FAIpQLSfcx45d76nrGIuTXtnmTMf5r2zQ
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc
 zapis: https://forum.pirati.cz/viewtopic.php?f=960&t=40389&view=unread#unread
 # id google kalendáře s událostmi
+mpv: resort-spravedlnost
 ---
 
 Vítejte na stránce **resortního týmu Spravedlnost**, který se věnuje otázkám justice, občanského a ústavního práva.
