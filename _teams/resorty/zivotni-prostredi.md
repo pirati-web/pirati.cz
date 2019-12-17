@@ -18,6 +18,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
+redmine_id: resort-zivotni-prostredi # Střednědobé cíle týmu
+mpv: resort-zivotni-prostredi # Mediální výsledky
 ---
 
 # Poslanecký resortní tým - PoŽiv
