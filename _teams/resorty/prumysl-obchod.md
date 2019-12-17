@@ -18,6 +18,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=531&t=47041
+redmine_id: resort-prumysl-a-obchod # Střednědobé cíle týmu
+mpv: resort-prumysl-a-obchod # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského týmu pro oblast **průmyslu a obchodu**.
