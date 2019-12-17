@@ -21,6 +21,8 @@ newsletter:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=544&t=45888
 newsletter:  https://nalodeni.pirati.cz/news/list/17/
+redmine_id: resort-informatika # Střednědobé cíle týmu
+mpv: resort-informatika # Mediální výsledky
 ---
 
 Co děláme?
