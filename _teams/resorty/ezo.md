@@ -22,6 +22,8 @@ tags:
  - Evropská unie
  - Zahraniční věci
  - Obrana
+redmine_id: resort-evropska-unie-zahranici-obrana # Střednědobé cíle týmu
+mpv: resort-evropska-unie-zahranici-obrana # Mediální výsledky
 ---
 
 Vítejte na stránce Pirátského týmu pro záležitosti Evropské unie, zahraničních věcí a obrany.
