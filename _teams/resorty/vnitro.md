@@ -19,6 +19,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=529&t=43863
+redmine_id: resort-vnitro-a-bezpecnost # Střednědobé cíle týmu
+mpv: resort-vnitro-a-bezpecnost # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast vnitra a bezpečnosti**.
