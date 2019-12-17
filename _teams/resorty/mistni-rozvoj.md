@@ -43,7 +43,7 @@ Pokud souhlasíte s Pirátským programem v oblasti regionálního rozvoje a dig
 Fungování týmu
 ---------------
 
-Tým veřejné správy a regionálního rozvoje se schází podle potřeby, obvykle před schůzemi Poslanecké sněmovny případně výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
+Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle před schůzemi Poslanecké sněmovny případně výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
 
 Členové týmu:
 
@@ -55,10 +55,12 @@ Tým veřejné správy a regionálního rozvoje se schází podle potřeby, obvy
 * [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
 * [Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta), garant programového bodu Regionální rozvoj, krajský radní Karlovarského kraje
 * [Zuzana Freitas](https://www.pirati.cz/lide/zuzana-freitas), asistentka poslankyně Olgy Richterové
-* Kamila Repaňová, asistentka poslance Martina Jiránka
+* Petr Pleticha, asistent poslance Martina Jiránka
+* Dan Kolář, asistent poslance Ondřeje Profanta
 * Jakub Brejša, asistent poslance Františka Elfmarka
 * Jiří Valenta, asistent poslance Radka Holomčíka
 * [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova), tajemnice-asistentka poslance Ivana Bartoše
+* Anna Doová, asistentka poslance Ivana Bartoše
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
 
