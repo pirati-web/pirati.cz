@@ -24,6 +24,7 @@ profiles:
   report: https://forum.pirati.cz/viewtopic.php?f=956&t=38994
 report: 1s-u1A52gywtW88SCb-HhAJNQok-OzPZd
 redmine: 182
+mpv: 182
 calendar: frcko71obqued67aa05k4cfbo8%40group.calendar.google.com
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-lukase-bartone-t38994.html-->
 ---
