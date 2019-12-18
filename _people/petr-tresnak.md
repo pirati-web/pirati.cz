@@ -30,6 +30,7 @@ ordga: 2
 ordpsp: 21
 report: 16COL5GffnSa9ZSPvRbTs3jwtDlhTm2va
 redmine: 11
+mpv: 11
 carousel:
   img: petr-tresnak.jpg
   text: |
