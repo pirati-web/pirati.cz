@@ -18,6 +18,9 @@ forum:
 tags:
 zapis: https://forum.pirati.cz/viewtopic.php?f=554&t=47006
 newsletter:  https://nalodeni.pirati.cz/news/list/14/
+redmine_id: resort-finance # Střednědobé cíle týmu
+mpv: resort-finance # Mediální výsledky
+
 ---
 
 Vítejte na stránce Pirátského týmu – Finance

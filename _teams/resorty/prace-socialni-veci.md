@@ -19,6 +19,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=548&t=45705
+redmine_id: resort-prace-a-socialnich-veci # Střednědobé cíle týmu
+mpv: resort-prace-a-socialnich-veci # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast práce a sociálních věcí**.

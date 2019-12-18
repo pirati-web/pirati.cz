@@ -19,6 +19,8 @@ forum:
 newsletter:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=546&t=47012&p=617314#p617314
+redmine_id: resort-skolstvi # Střednědobé cíle týmu
+mpv: resort-skolstvi # Mediální výsledky
 ---
 
 Vítejte na stránce Pirátského týmu pro vzdělávání, vědu a školství.
