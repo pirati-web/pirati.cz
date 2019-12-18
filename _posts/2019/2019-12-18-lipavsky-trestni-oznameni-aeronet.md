@@ -5,7 +5,7 @@ tags:         komentář sněmovna
 layout:       post
 title:        "Lipavský: Šíření poplašných zpráv a nenávisti je trestné, podáváme trestní oznámení na Aeronet"
 image:        /assets/img/articles/2019/jan-lipavsky1.jpg
-author:       Mediální odbor
+author:       Jan Lipavský
 ---
 
 
