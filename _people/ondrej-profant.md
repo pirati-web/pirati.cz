@@ -30,6 +30,7 @@ ordpsp: 20
 videa:
   - JRdjRJjWEx0
 redmine: 3
+mpv: 3
 report: 1dBTFBld5zAz5JSzwfHwU26li4i0eyNRn
 calendar: re22cium9203etd7jv7crbf7ck%40group.calendar.google.com
 ---

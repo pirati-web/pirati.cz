@@ -17,6 +17,8 @@ profiles:
   twitter: 		  
   flickr:     		https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Navrkal
   report:         https://forum.pirati.cz/viewtopic.php?f=956&t=49185
+redmine: 119
+mpv: 119  
 ---
 
 František Navrkal (* 15. září 1992, Děčín) je poslanec Parlamentu České republiky zvolený za Ústecký kraj a předseda krajského sdružení Ústeckého kraje strany. Pochází z Děčína.

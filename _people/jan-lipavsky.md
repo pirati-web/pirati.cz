@@ -25,6 +25,7 @@ profiles:
 ordpsp: 3
 report: 1E2WqnQfo53CQSNy1sS6Dfm5WUjWmyRA8
 redmine: 124
+mpv: 124
 ---
 
 Jan Lipavský (* 2. července 1985) je Pirát, který se soustředí především na bezpečnost a zahraniční politiku. Pracuje například za vzniku zákona chránícího strategická odvětví české ekonomiky před ztrátou citlivých dat a know-how. Kontroluje také činnost českých tajných služeb a zasazuje se o zachování jejich nezávislosti. Je Pražákem srdcem a duší, na Praze 6 se narodil a v současnosti tam také s rodinou žije. 

@@ -31,6 +31,7 @@ ordga: 3
 ordpsp: 6
 report: 1Vm9V6BS0Yaeop1W09jSeLsBoFaWEGpJ_
 redmine: 157
+mpv: 157
 carousel:
   img: ivan-bartos.jpg
   text: |
