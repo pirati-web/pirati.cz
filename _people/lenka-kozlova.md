@@ -26,6 +26,7 @@ profiles:
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=lenka%20kozlov%C3%A1
 ordpsp: 9
 redmine: 96
+mpv: 96
 report: 1Z6AQ-MWw1ZDvDvugTilUIN49soj3IO5z
 ---
 
