@@ -26,6 +26,7 @@ profiles:
   compass: https://www.politicalcompass.org/printablegraph?ec=-3.3&soc=-7.4
 ordpsp: 13
 redmine: 47
+mpv: 47
 report: 13V8nCbzHSI8clcCvplWBWfpL53AlYy_G
 ---
 
