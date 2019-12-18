@@ -29,6 +29,7 @@ profiles:
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
 ordpsp: 7
 redmine: 69
+mpv: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
 calendar: vpfafrin%40gmail.com
 
