@@ -33,6 +33,7 @@ ordpsp: 21
 report: 12HV0kbkNMm9AWEyOg7LaX47S6APb-9vk
 calendar: frantisek.elfmark%40gmail.com
 redmine: 459
+mpv: 459
 ---
 
 František Elfmark (*19. 10. 1978, Uherské Hradiště) je pirátským poslancem PSP ČR za Zlínský kraj a člen Pirátů. Bydlí s rodinou v místní části Míkovice v Uherském Hradišti. Má dvě děti Štěpánka a Stellinku.
