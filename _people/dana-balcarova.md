@@ -14,6 +14,7 @@ mail:
 mob:			  420 607 575 772
 asistenti:
   - name: Kristina Marie Kubcová
+  - name: Nikola Havlová
 mob:        420 605 458 159
 profiles:
   github:                 
