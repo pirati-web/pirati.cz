@@ -28,4 +28,4 @@ Novelu zákona o evidenci tržeb přijal parlament v září 2019. V plném rozs
 
  
 
-* [Plné znění návrhu](https://pirati.cz/assets/pdf/NavrhUS191219)
+* [Plné znění návrhu](https://render.githubusercontent.com/view/pdf?commit=96e333a5b8bccedf7906d18f89006c32da295f45&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7069726174692d7765622f7069726174692e637a2f393665333333613562386263636564663739303664313866383930303663333264613239356634352f6173736574732f7064662f4e6176726855533139313231392e706466&nwo=pirati-web%2Fpirati.cz&path=assets%2Fpdf%2FNavrhUS191219.pdf&repository_id=66212269&repository_type=Repository#65438027-2eee-4844-bd81-04398f1028a6)
