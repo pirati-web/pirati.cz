@@ -43,12 +43,12 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Pokud souhlasíte s [Pirátským programem v oblasti infromatiky](/program/psp2017/informatika/) a chcete nám pomoci, ozvěte se prosím Stanislavě Pajerové na tel. 726 362 025 nebo na <profanto@psp.cz>. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s [Pirátským programem v oblasti infromatiky](/program/psp2017/informatika/) a chcete nám pomoci, ozvěte se prosím Danovi Kolářovi na tel. 778 111 470 nebo na <profanto@psp.cz>. Rádi vás pozveme na naše setkání.
 
 Fungování týmu
 ---------------
 
-Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za přípravu agendy setkání zodpovídá Stanislava Pajerová.
+Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za přípravu agendy setkání zodpovídá Dan Kolář.
 
 Členové týmu jsou:
 
