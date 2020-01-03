@@ -2,29 +2,100 @@
 layout: default
 img: brand/logo.svg
 ---
-{% include submenu.html %}
-<div class="row o-section-block o-section-block--divided">
-    <div class="medium-12 large-12 columns">
-        <section class="o-section">
-            <div class="o-section-inner">
-                <main class="o-section-block">
-                    <div class="c-BasicPage">
-                        <div class="c-BasicPage-content">
-                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#euro" class="c-simple-accordion-title">Europoslanci</a>
-                                    <div id="euro" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'euro'" | sort:"ordeuro" %}
-                                        {% include people/list-2col.html param=team %}
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </main>
-            </div>
-        </section>
-        <!-- /. o-section -->
+
+
+<section class="l-micropage__section row o-section" id="europoslanci">
+<div class="">
+    <div class="">
+        <div class="row">
+        {% assign cols=4 %}
+        {% include snemovna/vizitka.html
+            name="Marcel Kolaja" link="/lide/marcel-kolaja/" mail="marcel.kolaja@pirati.cz "
+            img="/assets/img/people/marcel-kolaja.jpg"
+            desc="člen BURO, IMCO, D-IN <hr> <a href=https://ib.fio.cz/ib/transparent?a=2901637243> Transparentní účet </a>"
+            res="Místpoředseda sněmovny"
+            columns=cols
+        %}
+        {% include snemovna/vizitka.html
+            name="Marketa Gregorova" link="/lide/marketa-gregorova/" mail="marketa.gregorova@pirati.cz "
+            img="/assets/img/people/marketa-gregorova.jpg"
+            desc="místopřsedkyně DEPA, členka INTA a DSCA <hr> <a href=https://ib.fio.cz/ib/transparent?a=2301637274> Transparentní účet </a>"
+            res="Lidská práva"
+            columns=cols
+        %}
+        {% include snemovna/vizitka.html
+            name="Mikuláš Peksa" link="/lide/mikulas-peksa/" mail="mikulas.peksa@pirati.cz "
+            img="/assets/img/people/mikulas-peksa.jpg"
+            desc="člen ITRE, D-UA <hr> <a href=https://ib.fio.cz/ib/transparent?a=2001637811> Transparentní účet </a>"
+            res="Průmysl"
+            columns=cols
+        %}
+        </div>
     </div>
 </div>
+</section>
+
+<style>
+  .bottom-three {
+     margin-bottom: 5cm;
+  }
+</style>
+
+<section class="l-micropage__section row o-section" id="program">
 {% include button/central.html text="Program" url="/program/europarlament2019.html" %}
+</section>
+
+<section class="l-micropage__section row o-section" id="aktuality">
+<div class="row">
+    <div class="columns medium-8">
+    {% assign posts = site.posts | where: "tags","evropská-unie" %}
+    {% for article in posts limit: 6%}
+        <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
+                <div class="c-BlogPosting-excerpt-photoBox">
+                    <!-- BlogPosting image -->
+                    <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting-excerpt__image" itemscope="">
+                        <a href="{{article.url | relative_url}}">
+                            <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+                        </a>
+                        <meta itemprop="url" content="{{ article.image | relative_url }}">
+                        <meta itemprop="width" content="">
+                        <meta itemprop="height" content=""> </div>
+                </div>
+                <div class="c-BlogPosting-excerpt-contentBox">
+                    <!-- Headline -->
+                    <h2 itemprop="headline" class="c-BlogPosting-excerpt__title">
+                        <a href="{{article.url | relative_url}}" itemprop="url">{{article.title}}</a>
+                    </h2>
+                    <!-- BlogPosting description-->
+                    <div itemprop="description" class="c-BlogPosting-excerpt-content">{{ article.excerpt | truncatewords: 33 | strip_html }} </div>
+                    <a href="{{article.url | relative_url }}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
+                </div>
+                <!-- Publisher -->
+                <div itemprop="publisher" itemtype="http://schema.org/Organization" class="u-hidden" itemscope="">
+                    <div itemprop="logo" itemtype="http://schema.org/ImageObject" itemscope="">
+                        <meta itemprop="url" content="{{ 'assets/img/brand/logo.svg' | relative_url }}"> </div>
+                    <meta itemprop="name" content="Česká pirátská strana"> </div>
+            </div>
+            <div class="c-BlogPosting-excerpt-infoBox">
+                <!-- Date published -->
+                <span itemprop="description" class="c-BlogPosting-excerpt__datePublished">
+                      <i class="fa fa-calendar-o" aria-hidden="true"></i> {{article.date | date: "%d.%m.%Y"}}
+                      <meta itemprop="datePublished" content="{{article.date | date_to_xmlschema }}">
+                      <meta itemprop="dateModified" content=""> </span>
+                <br class="hide-for-medium">
+                <!-- Authors -->
+                <span itemprop="author" itemtype="http://schema.org/Person" class="c-BlogPosting-excerpt__authors" itemscope="">
+                      <i class="fa fa-user" aria-hidden="true"></i>
+                      <span itemprop="name" class="c-BlogPosting-excerpt__author">{{ article.author }}</span>
+                      <br class="hide-for-medium"> </span>
+            </div>
+        </article>
+    {% endfor %}
+    </div>
+    <div class="l-micropage__activity-perex-item columns medium-4">
+        {% include right-bar/rbar.html param='rbar' %}
+    </div>
+</div>
+</section>
