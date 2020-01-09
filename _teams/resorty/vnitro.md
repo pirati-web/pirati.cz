@@ -89,6 +89,7 @@ Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé
 * **[Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)**, poslanec, člen [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předseda [Stálé komise pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací](http://www.psp.cz/sqw/hp.sqw?k=7600), člen [Podvýboru pro vězeňství](http://www.psp.cz/sqw/hp.sqw?k=4924), člen [Podvýboru pro ochranu práv osob omezených na svobodě](http://www.psp.cz/sqw/hp.sqw?k=3922), člen [Stálé komise pro kontrolu činnosti GIBS](http://www.psp.cz/sqw/hp.sqw?k=7500)
 * **[Jan Hora](https://praha4.pirati.cz/lide/jan-hora/)**, člen [Výboru pro bezpečnost ZHMP](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594)
 * **Daniel Galuszka**, asistent poslance Lukáše Koláříka a kontaktní osoba pro záležitosti týmu
+* **Ondřej Klíma**, asistent poslance Tomáše Vymazala
 * **Petr Fojtík**, politický analytik poslaneckého klubu Pirátů
 * **Janusz Konieczny**, protikorupční analytik poslaneckého klubu Pirátů
 * **Martin Archalous**, legislativec poslaneckého klubu Pirátů
