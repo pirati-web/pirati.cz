@@ -5,7 +5,7 @@ fullname: Mgr. Matouš Vanča  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - analytik
 img: people/matous-vanca.png    # 165 x 220
-description: Člen analytického týmu, správce životního cyklu schůze	# kratký popis, max 160 znaků
+description: Člen analytického týmu, tajemník	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - matous.vanca@pirati.cz
