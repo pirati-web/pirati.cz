@@ -27,6 +27,7 @@ pirates.integrations = {
         var link = document.createElement('a');
         link.textContent = doc.issues[i].subject;
         done.textContent = doc.issues[i].done_ratio+'%';
+        done.style.width = '15%';
         link.href='https://redmine.pirati.cz/issues/'+doc.issues[i].id;
         link.target='_blank'
         subject.appendChild(link);

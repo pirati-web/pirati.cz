@@ -1,11 +1,11 @@
 ---
 uid: petr.fojtik
 name:     Petr Fojtík  	# běžně používáné jméno
-fullname: Mgr. et Mgr. Petr Fojtík  	# jméno s tituly etc.
+fullname: Mgr. Petr Fojtík  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - analytik
 img: people/petr-fojtik.png    # 165 x 220
-description: Člen analytického týmu, politický analytik	# kratký popis, max 160 znaků
+description: Vedoucí analytického týmu	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - petr.fojtik@pirati.cz

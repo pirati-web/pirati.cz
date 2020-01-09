@@ -23,8 +23,8 @@ profiles:
   instagram:    https://www.instagram.com/koprivafrantisek
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-t&view_all=1&text=Fr%20Kop
 ordpsp: 22
-redmine: 109
-mpv: 109
+redmine: 107
+mpv: 107
 report: 1hXfW3W33AYYJqzOXb-xEhJPGCJHaYy3R
 calendar: u01isditduonhgh4qjglfc1fq0%40group.calendar.google.com
 ---
