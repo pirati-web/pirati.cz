@@ -1,43 +1,56 @@
 ---
 layout: default
 img: brand/logo.svg
+#        <hr> Člen BURO  Předsednictvo Evropského parlamentu  
+#        <hr> Člen IMCO  Výbor pro vnitřní trh a ochranu spotřebitelů  
+#        <hr> Člen D-IN  Delegace pro vztahy s Indií  
+#        <hr> Náhradník  CULT  Výbor pro kulturu a vzdělávání  
+#        <hr> Náhradník  D-US  Delegace pro vztahy se Spojenými státy americkými  
+#        <hr> Členka  INTA  Výbor pro mezinárodní obchod  
+#        <hr> Členka  DSCA  Delegace v Parlamentním výboru pro partnerství EU-Arménie, ve Výboru pro parlamentní spolupráci EU-Ázerbájdžán a v Parlamentním výboru pro přidružení EU-Gruzie  
+#        <hr> Náhradnice AFET  Výbor pro zahraniční věci  
+#        <hr> Náhradnice SEDE  Podvýbor pro bezpečnost a obranu  
+#        <hr> Náhradnice DNAT  Delegace pro vztahy s Parlamentním shromážděním NATO  
+#        <hr> Člen  ITRE  Výbor pro průmysl, výzkum a energetiku  
+#        <hr> Člen  D-UA  Delegace v Parlamentním výboru pro přidružení EU-Ukrajina  
+#        <hr> Náhradník CONT  Výbor pro rozpočtovou kontrolu 
+#        <hr> Náhradník ECON  Hospodářský a měnový výbor  
 ---
 
 
 <section class="l-micropage__section row o-section" id="europoslanci">
-<div class="">
-    <div class="">
-        <div class="row">
-        {% assign cols=4 %}
-        {% include snemovna/vizitka.html
-            name="Marcel Kolaja" link="/lide/marcel-kolaja/" mail="marcel.kolaja@pirati.cz "
-            img="/assets/img/people/marcel-kolaja.jpg"
-            desc="člen BURO, IMCO, D-IN <hr> <a href=https://ib.fio.cz/ib/transparent?a=2901637243> Transparentní účet </a>"
-            res="Místpoředseda sněmovny"
-            columns=cols
-        %}
-        {% include snemovna/vizitka.html
-            name="Marketa Gregorova" link="/lide/marketa-gregorova/" mail="marketa.gregorova@pirati.cz "
-            img="/assets/img/people/marketa-gregorova.jpg"
-            desc="místopřsedkyně DEPA, členka INTA a DSCA <hr> <a href=https://ib.fio.cz/ib/transparent?a=2301637274> Transparentní účet </a>"
-            res="Lidská práva"
-            columns=cols
-        %}
-        {% include snemovna/vizitka.html
-            name="Mikuláš Peksa" link="/lide/mikulas-peksa/" mail="mikulas.peksa@pirati.cz "
-            img="/assets/img/people/mikulas-peksa.jpg"
-            desc="člen ITRE, D-UA <hr> <a href=https://ib.fio.cz/ib/transparent?a=2001637811> Transparentní účet </a>"
-            res="Průmysl"
-            columns=cols
-        %}
-        </div>
+    <div class="row">
+    {% assign cols=4 %}
+    {% include snemovna/vizitka.html
+        name="Marcel Kolaja" link="/lide/marcel-kolaja/" mail="marcel.kolaja@pirati.cz "
+        img="/assets/img/europarlament/kolaja.jpg"
+        desc= "
+        <hr> <a href=https://ib.fio.cz/ib/transparent?a=2901637243> Transparentní účet </a>"
+        res="Místopředseda Evropského parlamentu"
+        columns=cols
+    %}
+    {% include snemovna/vizitka.html
+        name="Marketa Gregorova" link="/lide/marketa-gregorova/" mail="marketa.gregorova@pirati.cz "
+        img="/assets/img/europarlament/gregorova.jpg"
+        desc="
+        <hr> <a href=https://ib.fio.cz/ib/transparent?a=2301637274> Transparentní účet </a>"
+        res="Poslanec Evropského parlamentu"
+        columns=cols
+    %}
+    {% include snemovna/vizitka.html
+        name="Mikuláš Peksa" link="/lide/mikulas-peksa/" mail="mikulas.peksa@pirati.cz "
+        img="/assets/img/europarlament/peksa.jpg"
+        desc="
+        <hr> <a href=https://ib.fio.cz/ib/transparent?a=2001637811> Transparentní účet </a>"
+        res="Poslanec Evropského parlamentu"
+        columns=cols
+    %}
     </div>
-</div>
 </section>
 
 <style>
   .bottom-three {
-     margin-bottom: 5cm;
+     margin-bottom: 15cm;
   }
 </style>
 
