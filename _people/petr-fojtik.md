@@ -1,7 +1,7 @@
 ---
 uid: petr.fojtik
 name:     Petr Fojtík  	# běžně používáné jméno
-fullname: Mgr. et Mgr. Petr Fojtík  	# jméno s tituly etc.
+fullname: Mgr. Petr Fojtík  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - analytik
 img: people/petr-fojtik.png    # 165 x 220
