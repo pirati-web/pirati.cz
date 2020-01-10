@@ -25,7 +25,12 @@ ordga: 9
 ordeuro: 3
 calendar: ch4ju55vp6kou6k7scjvf1q510%40group.calendar.google.com
 
+#* Člen **ITRE**  Výbor pro průmysl, výzkum a energetiku  
+#* Člen **D-UA**  Delegace v Parlamentním výboru pro přidružení EU-Ukrajina  
+#* Náhradník **CONT**  Výbor pro rozpočtovou kontrolu 
+#* Náhradník **ECON**  Hospodářský a měnový výbor  
 ---
+
 
 Mikuláš Peksa je europoslanec a předseda Evropské pirátské strany. Působí také jako garant zahraničního týmu Pirátů. V Evropském parlamentu působí ve výborech pro [Průmysl, výzkum a energetiku (ITRE)](https://www.europarl.europa.eu/committees/cs/itre/home.html), [Hospodářství a měnu (ECON)](https://www.europarl.europa.eu/committees/cs/econ/home.html) a [Rozpočtovou kontrolu (CONT)](https://www.europarl.europa.eu/committees/cs/cont/home.html). Vystudoval Biofyziku na Matematic­ko-fyzikální fakultě Univerzity Karlovy a v průběhu studia se specializoval na využití jaderné magnetické rezonance, později pracoval jako výzkumný pracovník a softwareový vývojář. Během svého předchozího působení jako poslanec českého parlamentu a místopředseda Výboru pro evropské záležitosti mimo jiné inicioval a jasně podpořil unijní výtky vůči Orbánově Maďarsku, ve chvíli, kdy se většina poslanců Maďarska zastala.
 

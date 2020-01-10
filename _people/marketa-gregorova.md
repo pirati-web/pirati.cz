@@ -19,6 +19,12 @@ profiles:
 calendar: u5v3n1v7h04mm9jlgfprm27ujg@group.calendar.google.com
 ---
 
+* Členka **INTA**  Výbor pro mezinárodní obchod  
+* Členka **DSCA**  Delegace v Parlamentním výboru pro partnerství EU-Arménie, ve Výboru pro parlamentní spolupráci EU-Ázerbájdžán a v Parlamentním výboru pro přidružení EU-Gruzie  
+* Náhradnice **AFET**  Výbor pro zahraniční věci  
+* Náhradnice **SEDE**  Podvýbor pro bezpečnost a obranu  
+* Náhradnice **DNAT**  Delegace pro vztahy s Parlamentním shromážděním NATO  
+
 Markéta Gregorová (*14. ledna 1993) je členkou Pirátů, europoslankyní, 1. místopředsedkyní krajského sdružení Pirátů v Jihomoravském kraji a předsedkyní Evropské pirátské strany. Pochází z Mostu, od září 2012 se vyskytovala především v Brně a nyní to střídá i s Bruselem a Štrasburkem.
 
 Markéta vystudovala Podkrušnohorské gymnázium v Mostě a v lednu 2016 získala bakalářský titul na Masarykově univerzitě v Brně v oborech Mezinárodní vztahy a Evropská studia. Po třech letech v milovaném [BizBoxu](http://www.bizbox.cz/), kde byla e-commerce specialistou a testerem webových aplikací, se do parlamentních voleb 2017 vrhla pomoci Pirátům jako volební manažer. Po úspěchu Pirátů v těchto volbách pracovně oscilovala mezi soukromou sférou (markéťačka a PR specialistka) a aktivismem (vedoucí zahraničního odboru Pirátů). V říjnu 2018 se stala neuvolněnou zastupitelkou města Brna, tuto funkci složila po získání mandátu europoslankyně v květnu 2019.
