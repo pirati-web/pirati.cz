@@ -17,4 +17,4 @@ Praha, 13. ledna 2020 – Pirátští poslanci Mikuláš Peksa a František Kop�
 
 Piráti se tureckou agresí a porušováním lidských práv [zabývali už loni](https://www.pirati.cz/tiskove-zpravy/turecka-agrese-ohrozuje-mirovy-proces.html), kdy [vyzvali premiéra](https://www.pirati.cz/tiskove-zpravy/bartos-dnes-preda-premierovi-vyzvu-k-turecku.html), aby na úrovni Evropské rady nadnesl téma unijní politiky vůči Turecku. Ihned po zahájení nedávné turecké invaze do Rojavy se aktivně připojili k rezoluci Poslanecké sněmovny a Evropského parlamentu. Premiéra jsme se také [marně ptali](https://www.pirati.cz/tiskove-zpravy/evropska-rada-piraty-zajimalo-stanovisko-premiera-na-summitu.html), jaký je jeho postoj a jaké kroky hodlá podniknout. Po celé republice jsme [uspořádali řadu demonstrací](https://www.pirati.cz/tiskove-zpravy/demonstrace-proti-turecke-invazi-po-cele-cr.html).
 
-* [Celý text petice](http://pirati.cz/assets/pdf/petice-pirati-turecko)
+* [Celý text petice](http://pirati.cz/assets/pdf/petice-pirati-turecko.pdf)
