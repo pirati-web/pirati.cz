@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 - rp
 img: people/radek-holomcik.jpg   # 165 x 220
-description: poslanec za Jihomoravský kraj, 2. místopředseda Pirátů           	# kratký popis, max 160 znaků
+description: poslanec za Jihomoravský kraj, 3. místopředseda Pirátů           	# kratký popis, max 160 znaků
 ordpsp: 8
 direct-contact: false
 mail:
@@ -38,7 +38,7 @@ profiles:
 report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
 redmine: 178
 mpv: 178
-ordrp: 3
+ordrp: 4
 calendar: cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com
 <!--report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html-->
 ---
