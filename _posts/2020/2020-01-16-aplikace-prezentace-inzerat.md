@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/inzerat.jpg
 author:       Mediální odbor
 ---
 
-Piráti poptávají dlouhodobého partnera, která navrhne a nakóduje jednotnou grafickou podobu prezentací a aplikací. 
+Piráti poptávají dlouhodobého partnera, který navrhne a nakóduje jednotnou grafickou podobu prezentací a aplikací. 
 
 **Jeho úkolem bude:**
 
@@ -24,4 +24,4 @@ Piráti poptávají dlouhodobého partnera, která navrhne a nakóduje jednotnou
 
 Předpokládaný nástup je v 1. čtvrtletí roku 2020.
 
-Podrobnosti k výběrovému řízení, včetně náležitostí přihlášky a hodnotících kritérií, naleznete **[ZDE]**(https://forum.pirati.cz/viewtopic.php?f=572&t=50755&fbclid=IwAR34m_irZDb96XUIT8iNO-DMnesdIcCiEz2XsrJA_KGajX509-8KVvBxuYE).
+Podrobnosti k výběrovému řízení, včetně náležitostí přihlášky a hodnotících kritérií, naleznete **[ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50755&fbclid=IwAR34m_irZDb96XUIT8iNO-DMnesdIcCiEz2XsrJA_KGajX509-8KVvBxuYE)**.
