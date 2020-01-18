@@ -1,3 +1,4 @@
+{% capture link %}{% if page.profiles.twitter %}{{ page.profiles.twitter }}{% else %}{{ site.fb }}{% endif %}{% endcapture %}
 <div class="o-section-block">
  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
    <li class="c-widget-accordion-item is-active" data-accordion-item="">
@@ -8,7 +9,7 @@
        </span>
      </a>
      <div class="c-widget-accordion-content" data-tab-content="">
-       <a class="twitter-timeline" href="https://twitter.com/{{site.tw}}" data-height="520">Tweets by @{{site.tw}}</a>
+       <a class="twitter-timeline" href="https://twitter.com/{{link}}" data-height="520">Tweets by @{{link}}</a>
      </div>
    </li>
  </ul>
