@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: marketa.gregorova
 name:     Markéta Gregorová                      # běžně používáné jméno
 fullname: Markéta Gregorová                  # jméno s tituly etc.
@@ -12,9 +13,11 @@ mob:
 ordeuro: 2
 profiles:
   github:
+  web: http://gregorova.eu/
   facebook: https://www.facebook.com/gregorova.marketka
   twitter: https://twitter.com/MarketkaG 
   linkedin:
+  instagram: https://www.instagram.com/ruzovarebelka/
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=mark%C3%A9ta%20gregorov%C3%A1
 calendar: u5v3n1v7h04mm9jlgfprm27ujg@group.calendar.google.com
 ---

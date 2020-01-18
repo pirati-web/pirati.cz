@@ -1,4 +1,5 @@
 ---
+data-version: 2
 uid: marcel.kolaja
 name:     Marcel Kolaja                      # běžně používáné jméno
 fullname: Marcel Kolaja                  # jméno s tituly etc.
@@ -12,9 +13,11 @@ mob:
 ordeuro: 1
 profiles:
   github:
-  facebook: 
+  web: https://personal.kolaja.eu/
+  facebook: https://www.facebook.com/PiratKolaja/ 
   twitter: https://twitter.com/PiratKolaja
   linkedin:
+  instagram: https://www.instagram.com/kolajamarcel/
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Marcel%20Kolaja
 ---
 * Člen **BURO**  Předsednictvo Evropského parlamentu  
