@@ -1,7 +1,7 @@
 ---
 date:         2016-12-13
 category:     blog
-tags:         práce
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Nový zákoník práce pohřbívá home office. Piráti poslali otevřený dopis ministryni"
 image:        /assets/img/articles/2016/home-office.jpg
