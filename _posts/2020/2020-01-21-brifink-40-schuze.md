@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní
 layout:       post
 title:        "Piráti představili plán na rozšíření pravomocí NKÚ, kritizovali slučování ministerstev a připomněli blížící se volbu do mediálních rad"
-image:        /assets/img/articles/2020/tk-40schuze2.jpg
+image:        /assets/img/articles/2020/tz-40schuze3.JPG
 author:       Mediální odbor
 ---
  
