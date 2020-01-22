@@ -11,11 +11,11 @@ description: poslankyně PS PČR, garantka programového bodu životní prostře
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
-mob:			  420 607 575 772
+mob:			  +420 607 575 772
 asistenti:
   - name: Kristina Marie Kubcová
   - name: Nikola Havlová
-mob:        420 605 458 159
+mob:        +420 605 458 159
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/dana.balcarova
