@@ -11,7 +11,7 @@ author:       Mediální odbor
 
 
 
-Praha, 22. ledna 2019 - Piráti se dlouhodobě zabývají problematikými zakázkami v oblasti IT na jednotlivých ministerstvech, na kterých český stát, a tudíž všichni lidé, tratí stamiliony korun každý rok. Systémy jsou navíc často v praxi nepoužitelné a pomalé, chybové, ztrácejí se z nich data, nefungují správně. Ostatně byli to právě Piráti, kdo v minulém volebním období, ještě jako strana bez zastoupení ve Sněmovně, oponovali předraženou zakázku na EET, kterou zadal dřívější ministr Babiš pod falešnou záminkou bez výběrového řízení jediné firmě, a to IBM. 
+Praha, 22. ledna 2019 - Piráti se dlouhodobě zabývají problematickými zakázkami v oblasti IT na jednotlivých ministerstvech, na kterých český stát, a tudíž všichni lidé, tratí stamiliony korun každý rok. Systémy jsou navíc často v praxi nepoužitelné a pomalé, chybové, ztrácejí se z nich data, nefungují správně. Ostatně byli to právě Piráti, kdo v minulém volebním období, ještě jako strana bez zastoupení ve Sněmovně, oponovali předraženou zakázku na EET, kterou zadal dřívější ministr Babiš pod falešnou záminkou bez výběrového řízení jediné firmě, a to IBM. 
 
 
 V posledních dnech vzbudila velký zájem veřejná zakázka na informační systém pro online prodej dálničních známek za 400 milionů korun bez DPH. Smutnou pravdou je, že to opravdu není jediná „zpackaná” IT zakázka ve veřejné správě. Principy strategie Digitálního Česka nejsou ministerstvy dodržovány, stejně tak jako Akční plán boje vendor lock-in a podpoře open source, který dodali Piráti a akceptovala ho Rada vlády pro informační společnost. Ačkoliv Česká republika má vládního zmocněnce pro IT i národního architekta, ministerstva nakupují řešení stále po staru a doporučení obcházejí nebo rovnou ignorují. 
