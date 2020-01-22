@@ -39,11 +39,11 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 
 
 ### Složení týmu:
-* **[Dana Balcarová]**(/lide/dana-balcarova), poslankyně, předsedkyně Výboru pro životní prostředí, garantka programového bodu Životní prostředí pro volby do Poslanecké sněmovny 2017, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
-* **[František Elfmark]**(/lide/frantisek-elfmark), poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
-* **[Jan Nezhyba]**(/lide/jan-nezhyba), garant bodu Životní prostředí v dlouhodobém programu strany
-* **[Mikuláš Peksa]**(/lide/mikulas-peksa), poslanec Evropského parlamentu, člen frakce Zelených/Evropské svobodné aliance
-* **[Lukáš Wagenknecht]**(/lide/lukas-wagenknecht), senátor za obvod Praha 8, člen senátního Výboru pro územní rozvoj, veřejnou správu a životní prostředí
+* **[Dana Balcarová](/lide/dana-balcarova)**, poslankyně, předsedkyně Výboru pro životní prostředí, garantka programového bodu Životní prostředí pro volby do Poslanecké sněmovny 2017, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
+* **[František Elfmark](/lide/frantisek-elfmark)**, poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
+* **[Jan Nezhyba](/lide/jan-nezhyba)**, garant bodu Životní prostředí v dlouhodobém programu strany
+* **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec Evropského parlamentu, člen frakce Zelených/Evropské svobodné aliance
+* **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**, senátor za obvod Praha 8, člen senátního Výboru pro územní rozvoj, veřejnou správu a životní prostředí
 * **Jiří Lehejček**, garant programu Zemědělství do sněmovních voleb 2017
 * **Lukáš Blažej**, odborník na právo životního prostředí
 * **Kristina Marie Kubcová**, odborná asistentka poslankyně Dany Balcarové
