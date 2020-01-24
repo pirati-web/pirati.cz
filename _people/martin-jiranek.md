@@ -19,12 +19,12 @@ office:
   - address: Sněmovní 4, 118 26 Praha 1 - Malá Strana
     opening:
 asistenti:
-  - name: Mgr. Kamila Repaňová
-    tel: +420 773 217 209
-    mail: kamila.repanova@pirati.cz
-  - name: Bc. Kateřina Hůlková
+  - name: Petr Pleticha
+    tel: +420 603 460 210
+    mail: pletichap@psp.cz
+  - name: Alena Valentová
     mail: info@piratitrutnov.cz
-    tel:  +420 732 823 019
+    tel:  +420 731 609 213
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
@@ -36,9 +36,15 @@ mpv: 281
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html-->
 ---
 
+Martin Jiránek (* 10. dubna 1978) je pirátský poslanec PSP ČR za Královéhradecký kraj. Je rovněž krajským zastupitelem v opozici. Členem Pirátů je od roku 2010.
 
-Martin Jiránek (* 10. dubna 1978) je pirátský poslanec PSP ČR za Královéhradecký kraj. Je rovněž i krajský zastupitel v opozici a radní města Trutnova. Členem Pirátů je od roku 2010.
+Maturoval na Gymnáziu v Trutnově a má vystudovaný obor Informační management na Univerzitě Hradec Králové. Celou svou profesní kariéru pomáhá primárně malým firmám a živnostníkům s marketingem a nastavením firemních procesů. Jeho hlavní ideou je mít úspěšné lokální podnikatele a udržet tak více peněz v regionu.
 
-Maturoval na Gymnáziu v Trutnově a má vystudovaný obor Informační management na Univerzitě Hradec Králové. Celou svou profesní kariéru pomáhá primárně malým firmám a živnostníkům s marketingem a nastavením firemních procesů. Jeho hlavní ideou je mít úspěšné podnikatele v regionu a udržet tak více peněz v regionu.
+Ve Sněmovně je místopředsedou Hospodářského výboru a hlavní oblasti, kterým se věnuje, jsou:
+1. Telekomunikace, mobilní operátoři a snížení cen mobilních dat
+2. Cestovní ruch a příprava zákonu o cestovním ruchu
+3. Změna české levné ekonomiky v moderní ekonomiku s vyšší přidanou hodnotou
+4. Startupy, inovace a systém státní podpory začínajících podnikatelů
+5. Podnikání, nové přístupy ke vztahu k zákazníkům, zaměstnancům i obchodním partnerům
 
-Ve Sněmovně se věnuje oblastem podnikání, telekomunikací a cestovního ruchu v rámci členství v Hospodářském výboru a Podvýboru pro cestovní ruch.
+Pokud vás tato témata zajímají a chcete nám s nimi pomoci, ozvěte se mně nebo mému asistentovi Petru Pletichovi. Moc díky :-)
