@@ -12,7 +12,6 @@ description: poslanec PSP ČR za Karlovarský kraj, předseda krajského sdruže
 direct-contact: false
 mail:
 - tresnakp@psp.cz
-- petr.tresnak@pirati.cz
 asistenti:
   - name: Josef Pavlovic
     mail: josef.pavlovic@pirati.cz
