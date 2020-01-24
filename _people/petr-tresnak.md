@@ -11,8 +11,8 @@ img: people/petr-tresnak.jpg # 165 x 220
 description: poslanec PSP ČR za Karlovarský kraj, předseda krajského sdružení Pirátů v Karlovarském kraji             	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
+- tresnakp@psp.cz
 - petr.tresnak@pirati.cz
-mob:			  +420 354 922 132
 asistenti:
   - name: Josef Pavlovic
     mail: josef.pavlovic@pirati.cz
