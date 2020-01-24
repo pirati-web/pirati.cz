@@ -1,7 +1,7 @@
 ---
 date:         2020-01-24
 category:     blog
-tags:         sn2movna legislativa doprava
+tags:         sněmovna legislativa doprava
 layout:       post
 title:        "Návrh Piráta Polanského posílí kontrolu SFDI, kterým ročně projde 100 miliard korun"
 image:        /assets/img/articles/2019/polansky.jpg
