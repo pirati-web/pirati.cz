@@ -4,10 +4,6 @@ name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
 leader:
-- ondrej.polansky
-leader:
-- david.witosz
-contact:
 - jan.licka
 contact:
 - veronika.murzynova
@@ -57,7 +53,7 @@ Jak se můžete zapojit?
 Pokud souhlasíte s [pirátským programem v oblasti dopravy a logistiky](https://www.pirati.cz/program/psp2017/doprava/) a chcete nám pomoci, ozvěte se!
 Nabízíme zapojení expertům na různá dopravní odvětví, právníkům i nadšencům.
 
-Hlavní kontakt, tajemnice dopravího týmu: Veronika Murzynová, veronika.murzynova@pirati.cz
+Hlavní kontakt, tajemnice dopravního týmu: Veronika Murzynová, veronika.murzynova@pirati.cz
 
 Vedoucí týmu, koordinátor krajských týmů: Jan Lička, jan.licka@pirati.cz
 
