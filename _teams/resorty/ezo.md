@@ -3,14 +3,14 @@ uid: ezo
 name: Evropská unie, zahraničí, obrana
 title: Evropská unie, zahraničí, obrana
 img: teams/resorty/ezo.jpg
-leader: mikulas.peksa
+leader: frantisek.kopriva
 deputy:
  - jan.lipavsky
  - frantisek.kopriva
 contact-local:
-  name: David Wagner
+  name: Alexandr Mansurov
   mob:
-  mail: david.wagner@pirati.cz
+  mail: alexandr.mansurov@pirati.cz
   img: 
 category: resort
 redmine: https://redmine.pirati.cz/projects/resort-evropska-unie-zahranici-obrana
@@ -31,14 +31,14 @@ Vítejte na stránce Pirátského týmu pro záležitosti Evropské unie, zahran
 Co děláme?
 ----------
 
-* Prosazujeme volební program v oblasti [obrany](/program/psp2017/obrana/) i [mezinárodních vztahů](/program/psp2017/mezinarodni-vztahy/), kde těžiště vnímáme v postoji k Evropské unii,
-* připravujeme na základě ověřených zdrojů stanoviska týmu k nejaktuálnějšímu dění (např. k [Sýrii](/tiskove-zpravy/pirati-zadaji-aktivni-roli-evropy-pri-vyjednavani-v-syrii.html)),
-* aktivně spolupracujeme s akademiky, neziskovým sektorem i státními úřady,
+* Prosazujeme volební program v oblasti [obrany](/program/psp2017/obrana/) a [mezinárodních vztahů](/program/psp2017/mezinarodni-vztahy/), kde těžiště vnímáme v postoji k Evropské unii,
+* plníme jednu z priorit našeho volebního programu - Aktivní účast na rozhodování v EU,
+* připravujeme na základě ověřených zdrojů stanoviska týmu k nejaktuálnějšímu dění,
+* aktivně spolupracujeme s vládou, akademiky, neziskovým sektorem i státními úřady,
 * připomínkujeme rozhodnutí české vlády v zahraniční politice,
-* projednáváme sněmovní tisky, které jsou přikázány [výboru pro evropské záležitosti](http://www.psp.cz/sqw/hp.sqw?k=500), [zahraničnímu výboru](http://www.psp.cz/sqw/hp.sqw?k=3300) a [výboru pro obranu](http://www.psp.cz/sqw/hp.sqw?k=5000),
+* projednáváme sněmovní tisky a evropské dokumenty, které jsou přikázány [výboru pro evropské záležitosti](http://www.psp.cz/sqw/hp.sqw?k=500), [zahraničnímu výboru](http://www.psp.cz/sqw/hp.sqw?k=3300) a [výboru pro obranu](http://www.psp.cz/sqw/hp.sqw?k=5000),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
-* rozpracováváme dlouhodobý program [Mezinárodních vztahů](/program/dlouhodoby/mezinarodni-vztahy/),
-* podporujeme Pirátské strany v zahraničí.
+* rozpracováváme dlouhodobý program [Mezinárodních vztahů](/program/dlouhodoby/mezinarodni-vztahy/).
 
 Jsme pevně na straně lidských práv a mezinárodního práva, snažíme se o Česko jako zemi aktivní v Evropské unii a přispívající k její demokratické reformě.
 
@@ -50,58 +50,63 @@ Práci jsme si v takhle velkém týmu raději rozdělili do několika oblastí. 
 
 ### Evropská unie
 
-V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jaké normy z ní přicházejí a připravujeme k nim stanoviska. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner (<david.wagner@pirati.cz>). 
+V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jaké normy z ní přicházejí a připravujeme k nim stanoviska. Zodpovědným europoslancem je Mikuláš Peksa, kontaktní osobou David Wagner (<mikulas.peksa@europarl.europa.eu>). 
 
 ### Lidská práva
 
-Piráti se staví za lidská práva ve světě i doma. Pokud chcete pracovat na jejich ochraně nebo máte vlastní námět, ozvěte se nám. Zodpovědným poslancem je František Kopřiva, kontaktní osobou Tomáš Guth Jarkovský (<koprivaf@psp.cz>).
+Piráti se staví za lidská práva ve světě i doma. Pokud chcete pracovat na jejich ochraně nebo máte vlastní námět, ozvěte se nám. Zodpovědným poslancem je František Kopřiva, kontaktní osobou Tomáš Guth Jarkovský (<tomas.guth.jarkovsky@pirati.cz>).
 
 ### Transatlantické vztahy
 
-Nejen vztahy s USA a vazby v rámci NATO, ale i obchodní dohody jako námi kritizovaná TTIP či vztahy s Mexikem, Kanadou či zeměmi latinské Ameriky. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába (<lipavskyj@psp.cz>).
+Nejen vztahy s USA a vazby v rámci NATO, ale i obchodní dohody jako námi kritizovaná TTIP či vztahy s Mexikem, Kanadou či zeměmi latinské Ameriky. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Kristýna Plašilová (<kristyna.plasilova@pirati.cz>).
 
 ### Východní Evropa
 
-V tomto bodě sdružujeme předně tématiku vztahů s Ruskem, Ukrajinou a pobaltskými státy. Klíčovými tématy jsou zde válka na Ukrajině, konflikt NATO vs Ruská federace a komplikované česko ruské vztahy. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába.
+V tomto bodě sdružujeme předně tématiku vztahů s Ruskem, Ukrajinou a pobaltskými státy. Klíčovými tématy jsou zde válka na Ukrajině, konflikt NATO vs Ruská federace a komplikované česko ruské vztahy. Zodpovědným poslancem je Jan Lipavský, zodpovědnou eruoposlankyní je Markéta Gregorová, kontaktní osobou Kristýna Plašilová (<kristyna.plasilova@pirati.cz>).
 
 ### Blízký Východ a Kavkaz
 
-Pod tímto rozsáhlým bodem se myslí aktuální spletenec konfliktů a vztahů v Sýrii, Izraeli a Palestině, utužování autoritářského režimu v Turecku a jeho agresivní výpady a další problémy tohoto nestabilního regionu. Zodpovědným poslancem je Mikuláš Peksa, kontaktní osobou David Wagner. 
-
-### Kontakt s Piráty v zahraničí
-
-Naším cílem je koordinovat pirátské hnutí v zahraničí a podporovat jejich růst a rozvoj. Zodpovědnou a kontaktní osobou je David František Wagner (<david.frantisek@pirati.cz>).
+Pod tímto rozsáhlým bodem se myslí aktuální spletenec konfliktů a vztahů v Sýrii, Izraeli a Palestině, utužování autoritářského režimu v Turecku a jeho agresivní výpady a další problémy tohoto nestabilního regionu. Zodpovědným europoslancem je Mikuláš Peksa, kontaktní osobou David Wagner (<mikulas.peksa@europarl.europa.eu>).
 
 ### Efektivní armáda
 
-Naším cílem je armáda jako přísně kontrolovaná a výkonná součást naší obrany, připravená čelit moderním hrozbám a s vybavením odpovídajícím reálným potřebám, nikoliv výnosným zakázkám. Odpovědným poslancem je Jan Lipavský, kontaktní osobou Tomáš Hába.
+Naším cílem je armáda jako přísně kontrolovaná a výkonná součást naší obrany, připravená čelit moderním hrozbám a s vybavením odpovídajícím reálným potřebám, nikoliv výnosným zakázkám. Zodpovědným poslancem je Jan Lipavský, kontaktní osobou Kristýna Plašilová (<kristyna.plasilova@pirati.cz>).
+
+### Rozvojová spolupráce a humanitární pomoc
+
+V dnešním propojeném globalizovaném světě mají humanitární katastrofy celosvětové dopady, které se často promítnou i u nás. Piráti považují rozvojovou spolupráci a humanitární pomoc za plnohodnotnou investici do ekonomiky, bezpečnosti, a diplomatických vztahů. Zodpovědným poslancem je František Navrkal, kontaktní osobou Lukáš Bartík (<bartikl@psp.cz>)
+
+### Rada Evropy
+
+Členem delegace Parlamentu ČR do Parlamentního shromáždění Rady Evropy je poslanec František Kopřiva. Ve výboru pro rovné příležitosti se účastní zpracovávání zpráv a rezolucí, v monitorovacím výboru sleduje dodržování lidských práv a demokratických principů napříč Evropou.
 
 ### Máte úplně jiný nápad?
 
-Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je Kristýna Plášilová (<kristyna.plasilova@pirati.cz>).
+Dejte vědět! Vaše další návrhy můžete posílat kontaktní osobě za tým, kterou je Alexandr Mansurov (<alexandr.mansurov@pirati.cz>).
 
 
 
 Fungování týmu
 ---------------
 
-EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je Mikuláš Peksa.
+EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je poslanec František Kopřiva.
 
 Členové týmu jsou:
 
+* **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec, místopředseda výboru pro evropské záležitosti
+* **[Marcel Kolaja]**, místopředseda Evropského parlamentu
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
-* **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec zodpovědný za oblast obrany, místopředseda výboru pro zahraniční věci a místopředseda výboru pro obranu
-* **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec
-* **David František Wagner**, vedoucí zahraničního odboru
+* **[Markéta Gregorová]**, europoslankyně
+* **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec, místopředseda zahraničního výboru a místopředseda výboru pro obranu
+* **[Lukáš Černohorský]**, poslanec, člen výboru pro evropské záležitosti
+* **[Petr Třešňák]**, poslanec, člen výboru pro obranu
+* **[František Navrkal]**, poslanec, člen zahraničního výboru
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Kristýna Plášilová**, asistent Jana Lipavského
-* **Alex Mansurov**, asistent Františka Kopřivy
+* **Alexandr Mansurov**, asistent Františka Kopřivy
 * **David František Wagner**, asistent Mikuláše Peksy
-* **[František Navrkal](/lide/frantisek-navrkal)**, člen zahraničního výboru
 * **Lukáš Bartík**, asistent Františka Navrkala
-* **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, poslanec a člen výboru pro obranu
 * **Zuzana Koláříková**, asistentka Lukáše Černohorského
-* **[Petr Třešňák](/lide/petr-tresnak)**, člen výboru pro obranu
 * **Josef Pavlovic**, asistent Petra Třešňáka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
