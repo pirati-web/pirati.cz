@@ -94,13 +94,13 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 Členové týmu jsou:
 
 * **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec, místopředseda výboru pro evropské záležitosti
-* **[Marcel Kolaja]**, místopředseda Evropského parlamentu
+* **Marcel Kolaja**, místopředseda Evropského parlamentu
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
-* **[Markéta Gregorová]**, europoslankyně
+* **Markéta Gregorová**, europoslankyně
 * **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec, místopředseda zahraničního výboru a místopředseda výboru pro obranu
-* **[Lukáš Černohorský]**, poslanec, člen výboru pro evropské záležitosti
-* **[Petr Třešňák]**, poslanec, člen výboru pro obranu
-* **[František Navrkal]**, poslanec, člen zahraničního výboru
+* **Lukáš Černohorský**, poslanec, člen výboru pro evropské záležitosti
+* **Petr Třešňák**, poslanec, člen výboru pro obranu
+* **František Navrkal**, poslanec, člen zahraničního výboru
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alexandr Mansurov**, asistent Františka Kopřivy
