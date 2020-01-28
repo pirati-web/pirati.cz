@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda legislativa digitalizace
 layout:       post
 title:        "Další krok k digitalizaci Česka: Balíček DEPO projednán vládou"
-image:        /assets/img/articles/2020/ivan-bez-ciga.jpg
+image:        /assets/img/articles/2019/bartos-profant.jpg
 author:       Mediální odbor
 ---
 
