@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna celostátní exekuce
 layout:       post
 title:        "Premiér Babiš se bude zabývat pirátskou novelou exekučního řádu"
-image:        /assets/img/articles/2019/ivan66.jpg
+image:        /assets/img/articles/2020/kolis-ivan.jpg
 author:       Mediální odbor
 ---
 
