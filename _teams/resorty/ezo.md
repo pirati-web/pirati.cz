@@ -6,7 +6,6 @@ img: teams/resorty/ezo.jpg
 leader: frantisek.kopriva
 deputy:
  - jan.lipavsky
- - frantisek.kopriva
 contact-local:
   name: Alexandr Mansurov
   mob:
@@ -93,14 +92,14 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 
 Členové týmu jsou:
 
-* **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec, místopředseda výboru pro evropské záležitosti
-* **Marcel Kolaja**, místopředseda Evropského parlamentu
+* **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec, místopředseda [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro rozvojovou spolupráci
+* **[Marcel Kolaja](/lide/marcel-kolaja)**, místopředseda Evropského parlamentu
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
-* **Markéta Gregorová**, europoslankyně
-* **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec, místopředseda zahraničního výboru a místopředseda výboru pro obranu
-* **Lukáš Černohorský**, poslanec, člen výboru pro evropské záležitosti
-* **Petr Třešňák**, poslanec, člen výboru pro obranu
-* **František Navrkal**, poslanec, člen zahraničního výboru
+* **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně
+* **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec, místopředseda [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300) a místopředseda [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000), člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro obrannou, kybernetickou a bezpečnostní politiku a strategické koncepce ČR
+* **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, poslanec, člen [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), člen Podvýboru pro evropské fondy a přeshraniční spolupráci
+* **[Petr Třešňák](/lide/petr-tresnak)**, poslanec, člen [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000)
+* **[František Navrkal](/lide/frantisek-navrkal)**, poslanec, člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), člen Podvýboru pro rozvojovou spolupráci
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alexandr Mansurov**, asistent Františka Kopřivy
