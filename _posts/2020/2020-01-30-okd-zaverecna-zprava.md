@@ -6,7 +6,7 @@ layout:       post
 title:        "Sněmovna projednala závěrečnou zprávu ke kauze OKD, trestní oznámení už prošetřuje Národní centrála proti organizovanému zločinu"
 image:        /assets/img/articles/2020/cernohorsky.jpg
 author:       Mediální odbor
-
+---
 
 
 Praha, 30. ledna 2020 – Poslanecká sněmovna dnes naposledy projednala a vzala na vědomí závěrečnou zprávu vyšetřovací komise k OKD. Šéf vyšetřovací komise Pirát Lukáš Černohorský už také podal všechna trestní oznámení, která vyplynula ze závěrečné zprávy. „Některé z podezřelých okolností už prověřuje Národní centrála proti organizovanému zločinu, se kterou nadále spolupracuji. Trestní oznámení se týkají exministrů Vladimíra Dlouhého, Bohuslava Sobotky, Milana Urbana a Jiřího Skalického. Nevyhnuli se jim ale ani podnikatelé Viktor Koláček a Zdeněk Bakala,“ doplňuje Lukáš Černohorský.
