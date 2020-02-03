@@ -3,7 +3,7 @@ date:         2020-02-03
 category:     blog
 tags:         sněmovna kontrola-moci-a-mocných
 layout:       post
-title:        "Piráti řeší problematiku zneužívání seniorů v rámci pracovní skupiny"
+title:        "Piráti řeší v rámci pracovní skupiny problematiku zneužívání seniorů"
 image:        /assets/img/articles/2020/martinek-richterova.jpg
 author:       Mediální odbor
 ---
