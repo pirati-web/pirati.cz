@@ -4,12 +4,10 @@ cid: olomouc
 name: Olomoucký kraj
 fullname: Krajské sdružení Olomoucký kraj
 img: teams/olomouc.jpg
-leader: jan.bednarik
+leader: viktor.tichak
 deputy:
+- jaromir.horky
 - petr.kapounek
-- viktor.tichak
-- tomas.svoboda
-- lubomir.vlcek
 contact:
 - milos.zmeskal
 region: Olomoucký kraj
