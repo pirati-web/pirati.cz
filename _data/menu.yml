@@ -1,0 +1,16 @@
+top:
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "fa fa-newspaper-o"
+  - link: "E-shop"
+    url:  "https://www.piratskyobchod.cz/"
+    icon: "fa fa-shopping-basket"
+  - link: "Připojte se"
+    url:  "https://nalodeni.pirati.cz"
+    icon: "fa fa-users"
+  - link: "Dary"
+    url:  "https://www.dary.pirati.cz"
+    icon: "fa fa-gift"
+  - link: "Sněmovna"
+    url: https://pirati.cz/snemovna
+    icon: "fa fa-university"
