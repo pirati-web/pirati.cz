@@ -1,85 +1,28 @@
-{% if page.url contains 'program' %}
-<nav class="c-top-sub-nav u-center-860-down">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <div class="u-cf">
-        <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> <a href="{{'/program/' | relative_url }}">Program</a> </div>
-        </div>
-        <div class="c-top-sub-nav-divider"></div>
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/program/europarlament2019.html' | relative_url }}">Europarlament 2019</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/program/komunal2018/' | relative_url }}">Komunál 2018</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/program/psp2017.html' | relative_url }}">Parlament 2017</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/program/strana.html' | relative_url }}">Dlouhodobý program</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-{% elsif page.url contains 'pripoj-se' %}
-<nav class="c-top-sub-nav u-center-860-down">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <div class="u-cf">
-        <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> Připoj se </div>
-        </div>
-        <div class="c-top-sub-nav-divider"></div>
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item">
-            <a href="https://nalodeni.pirati.cz">Dej o sobě vědět</a>
-          </li>
-<!--          <li class="c-top-sub-nav__item">
-            <a href="{{'/pripoj-se/tymy/' | relative_url }}">najdi si tým</a>
-        </li> -->
-<!--          <li class="c-top-sub-nav__item">
-            <a href="http://objekty.jdem.cz/">Nabídni plot</a>
-          </li> -->
-          <li class="c-top-sub-nav__item">
-            <a href="{{'/pripoj-se/kalendar/' | relative_url }}">Kalendář akcí</a>
-          </li>
-<!--          <li class="c-top-sub-nav__item">
-            <a href="http://pozice.jdem.cz/">Volné pozice</a>
-          </li> -->
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-{% elsif page.url contains 'o-nas' or page.url contains 'lide' or page.url contains 'regiony' or page.url contains 'tymy' %}
-<nav class="c-top-sub-nav u-center-860-down">
-  <div class="row">
-    <div class="c-top-sub-nav-inner">
-      <div class="u-cf">
-        <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> O nás </div>
-        </div>
-        <div class="c-top-sub-nav-divider"></div>
-        <ul class="c-top-sub-nav-items">
-          <li class="c-top-sub-nav__item">
-            <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ '/tymy/' | relative_url }}">Resortní týmy</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ '/regiony/' | relative_url }}">Regiony</a>
-          </li>
-          <li class="c-top-sub-nav__item">
-            <a href="{{ 'o-nas/stanovy.html' | relative_url }}">Stanovy</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</nav>
-{% endif %}
+{% for menu in site.data.menu.main %}
+  {% assign matches = menu.match | split: ", " %}
+  {% for match in matches %}
+    {% if page.url contains match %}
+      {% if menu.submenu %}
+        <nav class="c-top-sub-nav u-center-860-down">
+          <div class="row">
+            <div class="c-top-sub-nav-inner">
+              <div class="u-cf">
+              <div class="c-top-sub-nav-header">
+                <div class="c-top-sub-nav__heading"> <a href="{{ menu.link }}">{{ menu.name }} </a> </div>
+              </div>
+              <div class="c-top-sub-nav-divider"></div>
+              <ul class="c-top-sub-nav-items">
+                {% for submenu in menu.submenu %}
+                <li class="c-top-sub-nav__item {% if page.url contains submenu.match %}is-active{% endif %}">
+                  <a href="{{ submenu.link }}">{{ submenu.name }} </a>
+                </li>
+                {% endfor %}
+              </ul>
+              </div>
+            </div>
+          </div>
+        </nav>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

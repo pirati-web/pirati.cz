@@ -16,9 +16,25 @@ top:
     icon: "fa fa-university"
 
 main:
+  #matche oddělené čárkou zatím nefunguji - když jste na dané stranec to menu není oranžové, pokud to chcete zprovoznit poproste Jitku je to cca 2h práce
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+  - link: /program/
+    name: Program
+    match: program
+    submenu:
+      - link: /program/europarlament2019/
+        name: Europarlament 2019
+      - link: /program/komunal2018/
+        name: Komunál 2018
+        match: komunal2018
+      - link: /program/psp2017/
+        name: Parlament 2017
+        match: psp2017
+      - link: /program/dlouhodoby/
+        name: Dlouhodobý program
+        match: dlouhodoby
   - link: /o-nas/
     name: O nás
     match: o-nas, regiony
@@ -29,45 +45,35 @@ main:
         name: Regiony
       - link: '/program/'
         name: Program
-      - link: '/o-nas/stanovy.html'
-        name: Stanovy
-      - link: '/hoax'
-        name: Hoaxy
-  - link: /otevrenost/
-    name: Transparentnost
-    match: otevrenost, download, stanovy
-    submenu:
-      - link: /otevrenost/
-        name: Otevřenost
-        match: otevrenost
-      - link: /o-nas/stanovy.html
-        name: Stanovy
       - link: /download/
         name: Ke stažení
         match: download
-  - link: /lide/
-    name: Naši lidé
-    match: lide
-    #- link: /program/europarlament2019/
-  - link: /kandidatka/
-    name: EP kandidatka
-    match: kandidatka
-  - link: /program/
-    name: Program
-    match: program
+      - link: /assets/pdf/piratska-strategie.pdf
+        name: Pirátská strategie
+  - link: /snemovna/
+    name: Parlament
     submenu:
+      - link: /snemovna/
+        name: Sněmovna
+      - link: https://senat.pirati.cz
+        name: Senát
+      - link: /europarlament
+        name: Europarlament
+  - notInMainManu: yes
+    link: /europarlament/
+    name: Europarlament
+    match: europarlament
+    submenu: 
+      - link: /people/
+        name: Náš Tým
       - link: /program/europarlament2019/
-        name: Europarlament 2019
-        match: komunal2018
-      - link: /program/komunal2018/
-        name: Komunál 2018
-        match: komunal2018
-      - link: /program/psp2017/
-        name: Parlament 2017
-        match: psp2017
-      - link: /program/dlouhodoby/
-        name: Dlouhodobý program
-        match: dlouhodoby
+        name: Program
+      - link: /otevrenost/europrlament/
+        name: Hospodaření
+
+  - link: https://nalodeni.pirati.cz 
+    name: Připoj se
+    match: pripoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
