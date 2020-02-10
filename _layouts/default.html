@@ -9,6 +9,13 @@
   <body>
 
     {% include header.html %}
+    
+    {% if site.data.menu.main %}
+        {% include menu.html %}
+        {% unless page.nosubmenu %}
+            {% include submenu.html %}
+        {% endunless %}
+    {% endif %}
 
     <div class="page-content">
       <div class="wrapper">
