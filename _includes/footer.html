@@ -4,7 +4,6 @@
  Navrhni úpravu</a>
 </div>
 
-
 <footer class="o-section o-section--tiled o-section--bigger u-inverted u-cf">
   <div class="o-section-inner">
     <div class="row">
@@ -13,90 +12,37 @@
           <img src="{{ 'assets/img/brand/logo_napis_white.png' | relative_url }}" style="width: 170px" alt="Česká pirátská strana" class="u-center-medium-down u-10paddingTop">
         </a>
         <p class="u-0margin u-noWrap u-50paddingTop u-smaller-line-height show-for-large">
-          <span class="u-mirror-horizontally">&copy;</span> Piráti, 2016. Všechna práva vyhlazena.
+          <span class="u-mirror-horizontally">&copy;</span> Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
           <br> Sdílejte a nechte ostatní sdílet za stejných
           <br> podmínek.
           <br><br> <a href="{{'o-nas/ochrana-osobnich-udaju' | relative_url}}" style="text-decoration:none;">Zásady ochrany osobních údajů</a>
       </div>
       <div class="medium-12 large-7 u-stacked-medium-down columns">
         <div class="row u-custom-gutter">
-          <div class="small-6 medium-3 columns">
-            <nav class="c-vertical-navigation u-center-medium-only">
-              <h3 class="c-vertical-navigation__title"><a href="{{ '/o-nas/' | relative_url }}">O nás</a></h3>
-              <ul class="c-vertical-navigation-items">
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'lide/' | relative_url }}">Lidé</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'regiony/' | relative_url }}">Regiony</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'program/' | relative_url }}">Program</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'o-nas/stanovy.html' | relative_url }}">Stanovy</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'hoax' | relative_url }}">Hoaxy</a>
-                </li>
-              </ul>
-            </nav>
-          </div>
-          <div class="small-6 medium-3 columns">
-            <nav class="c-vertical-navigation u-center-medium-only">
-              <h3 class="c-vertical-navigation__title"><a href="https://nalodeni.pirati.cz">Připoj se</a></h3>
-              <ul class="c-vertical-navigation-items">
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'https://nalodeni.pirati.cz/' | relative_url }}">Dej nám vědět</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ '/feed.xml' | absolute_url }}">RSS / Atom feed</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ '/ke-stazeni/' | absolute_url }}">Ke stažení</a>
-                </li>
-                {% comment %}
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'pripoj-se/tymy/' | relative_url }}">Naše týmy</a>
-                </li>
-                {% endcomment %}
-              </ul>
-            </nav>
-          </div>
-          <div class="small-6 medium-3 u-mobile-down-clear columns">
-            <nav class="c-vertical-navigation u-center-medium-only">
-              <h3 class="c-vertical-navigation__title"><a href="https://piratipracuji.cz">Makáme</a></h3>
-              <ul class="c-vertical-navigation-items">
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'aktuality/' | relative_url }}">Aktuality</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="{{ 'pripoj-se/kalendar/' | relative_url }}">Kalendář</a>
-                </li>
-              </ul>
-            </nav>
-          </div>
-          <div class="small-6 medium-3 columns">
-            <nav class="c-vertical-navigation u-center-medium-only">
-              <h3 class="c-vertical-navigation__title"><a href="{{ '/otevrenost/' | relative_url }}">Otevřenost</a></h3>
-              <ul class="c-vertical-navigation-items">
-                <li class="c-vertical-navigation__item">
-                  <a href="https://ucet.pirati.cz" title="Zvláštní účet ve smyslu § 17b zákona č. 424/1991 Sb. o sdružování v politických stranách">Účet dle §17b ZPS</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="https://smlouvy.pirati.cz">Registr smluv</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="https://wiki.pirati.cz/fo/otevrene_ucetnictvi">Otevřené účetnictví</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="https://drive.google.com/drive/folders/1p9XK-pSPpOd60JGNCNnW8q31tltNki6p" title="Senátní volby 2018 - přehled darů">Senát - dary 2018</a>
-                </li>
-                <li class="c-vertical-navigation__item">
-                  <a href="http://www.pirati.cz/fo" title="Financování a hospodaření">Financování</a>
-              </ul>
-            </nav>
-          </div>
+          {% for linkGroup in site.data.menu.bottom %}
+            <div class="columns {{ linkGroup.class }}">
+                <nav class="c-vertical-navigation u-center---medium-down">
+                  {% if linkGroup.title %}
+                    {% if linkGroup.link %}
+                      <h3 class="c-vertical-navigation__title"><a href="{{ linkGroup.link }}">{{ linkGroup.title }}</a></h3>
+                    {% else %}
+                      <h3 class="c-vertical-navigation__title">{{ linkGroup.title }}</h3>
+                    {% endif %}
+                  {% endif %}
+                  <ul class="c-vertical-navigation-items">
+                    {% for linkGroupItem in linkGroup.links %}
+                    <li class="c-vertical-navigation__item">
+                      {% if linkGroupItem.title %}
+                        <a href="{{ linkGroupItem.link }}" title="{{ linkGroupItem.title }}">{{ linkGroupItem.name }}</a>
+                      {% else %}
+                        <a href="{{ linkGroupItem.link }}">{{ linkGroupItem.name }}</a>
+                      {% endif %}
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </nav>
+            </div>
+          {% endfor %}
         </div>
       </div>
       <div class="medium-12 large-2 u-stacked-medium-down columns u-center-medium-down">
@@ -128,12 +74,13 @@
           </ul>
         </nav>
         <p class="u-10paddingTop u-maxWidth80percent u-smaller-line-height hide-for-large">
-          <span class="u-mirror-horizontally">&copy;</span> Piráti, 2016. Všechna práva vyhlazena.
+          <span class="u-mirror-horizontally">&copy;</span> Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
           <br> Sdílejte a nechte ostatní sdílet za stejných podmínek.
       </div>
     </div>
   </div>
 </footer>
+
 <aside class="o-section o-section--bigger c-contact-bar u-inverted u-center-medium-down">
   <div class="o-section-inner">
     <div class="row">

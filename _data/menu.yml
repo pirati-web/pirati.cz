@@ -14,3 +14,53 @@ top:
   - link: "Sněmovna"
     url: https://pirati.cz/snemovna
     icon: "fa fa-university"
+
+bottom:
+  - class: small-12 medium-3
+    title: O nás
+    link: /o-nas/
+    links:
+      - link: '/lide/'
+        name: Lidé
+      - link: '/regiony/'
+        name: Regiony
+      - link: '/program/'
+        name: Program
+      - link: '/o-nas/stanovy.html'
+        name: Stanovy
+      - link: '/hoax'
+        name: Hoaxy
+  - class: small-12 medium-3
+    title: Připoj se
+    link: https://nalodeni.pirati.cz
+    links:
+      - link: /kontakt/
+        name: Dej nám vědět
+      - link: '/feed.xml'
+        name: RSS / Atom feed
+      - link: '/ke-stazeni/'
+        name: Ke stažení
+  - class: small-12 medium-3
+    title: Makáme
+    link: https://piratipracuji.cz
+    links:
+      - link: /aktuality/
+        name: Aktuality
+      - link: 'pripoj-se/kalendar/'
+        name: Kalendář
+  - class: small-12 medium-3
+    title: Otevřenost
+    links:
+      - link: https://ucet.pirati.cz
+        name: Účet dle §17b ZPS
+        title: Zvláštní účet ve smyslu § 17b zákona č. 424/1991 Sb. o sdružování v politických stranách
+      - link: https://smlouvy.pirati.cz
+        name: Registr smluv
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
+        name: Otevřené účetnictví
+      - link: https://drive.google.com/drive/folders/1p9XK-pSPpOd60JGNCNnW8q31tltNki6p
+        title: "Senátní volby 2018 - přehled darů"
+        name: Senát - dary 2018
+      - link: https://wiki.pirati.cz/fo/start
+        name: Financování
+        title: Financování a hospodaření 
