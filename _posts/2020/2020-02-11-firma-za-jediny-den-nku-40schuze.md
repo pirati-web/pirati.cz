@@ -5,7 +5,7 @@ tags:         sněmovna legislativa celostátní
 layout:       post
 title:        "Piráti očekávají přijetí rozšíření pravomocí NKÚ a první čtení zákona, který umožní založit firmu za jediný den"
 image:        /assets/img/articles/2020/schuze40variabilni.jpg
-author:       Dana Balcarová
+author:       Mediální odbor
 ---
 
  
