@@ -33,7 +33,7 @@ main:
         name: Parlament 2017
         match: psp2017
       - link: /program/dlouhodoby/
-        name: Dlouhodobý program
+        name: Dlouhodobý
         match: dlouhodoby
   - link: /o-nas/
     name: O nás
@@ -43,8 +43,6 @@ main:
         name: Lidé
       - link: '/regiony/'
         name: Regiony
-      - link: '/program/'
-        name: Program
       - link: /download/
         name: Ke stažení
         match: download
@@ -61,14 +59,16 @@ main:
         name: Europarlament
   - notInMainManu: yes
     link: /europarlament/
-    name: Europarlament
+    name: Piráti v europarlamntu
     match: europarlament
     submenu: 
-      - link: /people/
-        name: Náš Tým
+      - link: /europarlament/aktuality
+        name: Aktuality
+      - link: /europarlament/europoslanci/
+        name: Europoslanci
       - link: /program/europarlament2019/
         name: Program
-      - link: /otevrenost/europrlament/
+      - link: /europarlament/hospodareni
         name: Hospodaření
 
   - link: https://nalodeni.pirati.cz 
