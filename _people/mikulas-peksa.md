@@ -24,7 +24,7 @@ profiles:
   web: https://mikulas-peksa.eu/
 ordga: 9
 ordeuro: 3
-calendar: ch4ju55vp6kou6k7scjvf1q510%40group.calendar.google.com
+#calendar: ch4ju55vp6kou6k7scjvf1q510%40group.calendar.google.com
 
 #* Člen **ITRE**  Výbor pro průmysl, výzkum a energetiku  
 #* Člen **D-UA**  Delegace v Parlamentním výboru pro přidružení EU-Ukrajina  

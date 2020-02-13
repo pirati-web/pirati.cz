@@ -1,0 +1,31 @@
+-
+  name: 
+  items:
+  - title: Výdaje
+    content: |
+      <p>Naši lidé hospodaří transparentně v Pirátské straně, a proto to zvládnou i ve státě.</p>
+      <ul>
+        <li><a href="https://nextcloud.pp-eu.eu/index.php/s/cMmLo3MD868WnBe">Výdaje</a></li>
+        <li><a href="https://wiki.pirati.cz/fo/seznam_uctu">Bankovní účty</a></li>
+      </ul>
+-
+  name: Rozhodování
+  items:
+  - title: Politická aktivita
+    content: |
+      <p>Hlavním úkolem Pirátů je prosazovat Pirátský program v politice. Díky řešení legislativy na internetovém fóru se může zapojit hodně lidí. Také máme archiv programu a tiskových zpráv, abyste viděli, že nefalšujeme historii.</p>
+      <ul>
+        <li><a href="https://pirati.cz/program/">Seznam programových dokumentů Pirátů</a></li>
+        <li><a href="https://pirati.cz/aktuality/">Tiskové zprávy a stanoviska</a></li>
+      </ul>
+-
+  name: Lidé
+  items:
+  - title: Seznam členů a funkcí
+    content: |
+      <p>Členové pirátů nejsou mrtvé duše, jak to je někdy u starých politických stran.</p>
+      <ul>
+        <li><a href="https://pirati.cz/lide/">Významné osobnosti</a></li>
+        <li><a href="https://pirati.cz/kontakt/">Kontakty na členy orgánů apod.</a></li>
+        <li><a href="https://forum.pirati.cz/memberlist.php?g=47&amp;mode=group">Seznam členů strany</a></li>
+      </ul>

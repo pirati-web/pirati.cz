@@ -11,6 +11,8 @@ mail:
 - marcel.kolaja@pirati.cz
 mob: 
 ordeuro: 1
+office: 
+  - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
   github:
   web: https://personal.kolaja.eu/
