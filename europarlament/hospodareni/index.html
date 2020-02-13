@@ -7,25 +7,90 @@ profiles:
   twitter: EuropeanPirates 
 ---
 
-{% include homepage/banner.html 
-   link=''
-   title='Držíme kurz!'
-   default='miscellaneous/europoslanci.jpg'
-   mobile='miscellaneous/europoslanci.jpg'
-   breakpoint=640
-%}
+{% capture md %} 
+ 
+# Rozpočet na platy asistentů
+ 
+Každý europoslanec má měsíčně k dispozici 25 442 EUR na všechny výdaje spojené se svými asistenty. To zahrnuje jak samotné platy asistentů v Bruselu a v Česku, tak i ze zákona povinné odvody. Dále se ze stejné částky hradí náklady na stážisty, účetní, poskytovatele služeb a výdaje na služební cesty všech asistentů. 
+ 
+## Co to znamená konkrétně?
+ 
+Plat asistenta působícího v Bruselu se pohybuje od 1 663 EUR do 6 341 EUR, v závislosti na předchozích zkušenostech, dosaženém vzdělání i náplni práce.
+Výše odměn pro asistenty působící v Česku, pro účetní či poskytovatele služeb je závislá na přímém rozhodnutí europoslance.
+Jelikož smlouvy asistentů akreditovaných v Bruselu jsou uzavírány přímo mezi asistentem a Evropským parlamentem jako takovým, nemají europoslanci žádnou legální možnost, jak platy jednotlivých asistentů zveřejnit. 
+ 
+Přehled všech asistentů, pracujících pro pirátské europoslance, je k dispozici zde:
+
+[Marcel](https://www.europarl.europa.eu/meps/en/197546/MARCEL_KOLAJA/assistants#mep-card-content)
+[Markéta](https://www.europarl.europa.eu/meps/en/197549/MARKETA_GREGOROVA/assistants#mep-card-content) 
+[Mikuláš](https://www.europarl.europa.eu/meps/en/197539/MIKULAS_PEKSA/assistants#mep-card-content) 
+[Patrick](https://www.europarl.europa.eu/meps/en/197431/PATRICK_BREYER/assistants#mep-card-content)
+ 
+
+ Aby europoslanci dosáhli co největší efektivity, rozhodli se část svých asistentů sdílet, skrze tzv. sdružení, neboli Grouping. To znamená, že tito asistenti pracují pro všechny europoslance zároveň a mohou tak ušetřit část nákladů.
+ 
+
+# Příspěvek na všeobecné výdaje (GEA)
+
+Jedná se o částku ve výši 4 563 EUR vyplácenou měsíčně každému europoslanci na hrazení chodu kanceláří. Pirátští europoslanci se jako jediní v celém Evropském parlamentu rozhodli transparentně zveřejnit složení těchto výdajů a každý se tak může podívat, za co byly tyto peníze utraceny.
+ 
+ 
+{% endcapture %}
 
 
-
-<section class="l-micropage__section row o-section" id="odkazy">
-{% include button/central.html text="Program" url="/program/europarlament2019.html" %}
-    </section>
-<section class="l-micropage__section row o-section" id="odkazy2">
 <div class="row">
-{% include button/small.html text="Výdaje" url="https://nextcloud.pp-eu.eu/index.php/s/cMmLo3MD868WnBe" %}
-{% include button/small.html text="Faktury" url="https://nextcloud.pp-eu.eu/index.php/s/QgFTytZAcMZj3rn" %}
-{% include button/small.html text="Registr smluv" url="https://nextcloud.pp-eu.eu/index.php/s/3Me3Ddr6qgsrsfZ" %}
-</div>
-<p></p>
-</section>
+  <div class="medium-12 columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            
+            <h1 itemprop="headline" class="c-BasicPage__title"> Výdaje delegace European Pirates v Evropském parlamentu </h1>
 
+            <div class="row o-section-block o-section-block--fill">
+              {% for topic in site.data.transparence-eu %}
+            <div class="o-section-inner">
+                <div class="medium-12 large-4 columns o-section-block--medium">
+                  {% for point in topic.items %}
+                  {% include accordeon/accordeon.html param='point' %}
+                  {% endfor %}
+                </div>
+            </div>
+
+              {% endfor %}
+            </div>
+
+
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="medium-12 columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <style>
+              .bottom-three {
+                 margin-bottom: 15px;
+              }
+            </style>
+              <div class="medium-12 large-8 columns">
+                <div itemprop="description" class="c-BasicPage-content">
+            {{ md | markdownify }}
+                </div>
+              </div>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+</div>
