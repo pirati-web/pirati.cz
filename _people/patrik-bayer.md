@@ -9,6 +9,9 @@ img: people/patrick-breyer.jpg   # 165 x 220
 description: Europoslanec, garant programového bodu Zahraničí, předseda Evroské pirátské strany
 mail:
 - patrick.breyer@europarl.europa.eu 
+asistenti:
+  - name: Amilia Givropoulou 
+  - name: Frank Herrmann
 mob:
 profiles:
   github:

@@ -11,6 +11,8 @@ mail:
 - marketa.gregorova@pirati.cz
 mob: 
 ordeuro: 2
+asistenti:
+  - name: Kristyna Koubkova 
 profiles:
   github:
   web: http://gregorova.eu/

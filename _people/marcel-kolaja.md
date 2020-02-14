@@ -11,6 +11,9 @@ mail:
 - marcel.kolaja@pirati.cz
 mob: 
 ordeuro: 1
+asistenti:
+  - name: Tomas Adamec 
+  - name: Eszter Bako
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:

@@ -15,6 +15,7 @@ asistenti:
   - name: David Wagner
     mail: david.wagner@pirati.cz
     tel:  721 030 120
+  - name: Cindy Degreef  
 profiles:
   github:
   facebook: https://www.facebook.com/peksamikulas/
