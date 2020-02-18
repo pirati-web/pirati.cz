@@ -113,6 +113,7 @@ bottom:
         name: Kalendář
   - class: small-12 medium-3
     title: Otevřenost
+    link: https://pirati.cz/otevrenost
     links:
       - link: https://ucet.pirati.cz
         name: Účet dle §17b ZPS
