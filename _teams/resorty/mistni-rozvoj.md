@@ -57,6 +57,7 @@ Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle 
 * [Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek), člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje a podvýboru pro podnikatelské prostředí hospodářského výboru
 * [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
 * [Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta), garant programového bodu Regionální rozvoj, krajský radní Karlovarského kraje
+* [Matouš Vanča](https://www.pirati.cz/lide/matous-vanca/), tajemník poslaneckého klubu, zastupitel obce Čestlice
 * [Zuzana Freitas](https://www.pirati.cz/lide/zuzana-freitas), asistentka poslankyně Olgy Richterové
 * Petr Pleticha, asistent poslance Martina Jiránka
 * Dan Kolář, asistent poslance Ondřeje Profanta
