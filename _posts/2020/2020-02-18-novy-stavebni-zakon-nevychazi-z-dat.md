@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrola-moci-a-mocných celostátní legislativa
 layout:       post
 title:        "Komentář Františka Elfmarka: Nový stavební zákon nevychází z analytických dat, podle MMR by to bylo složité"
-image:        /assets/img/articles/2020/balcarova-voda.jpg
+image:        /assets/img/articles/2019/elfmark.jpg
 author:       František Elfmark
 ---
 
