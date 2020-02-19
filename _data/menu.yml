@@ -43,6 +43,8 @@ main:
         name: Lidé
       - link: '/regiony/'
         name: Regiony
+      - link: '/otevrenost/'
+        name: Otevřenost
       - link: /download/
         name: Ke stažení
         match: download
@@ -60,7 +62,7 @@ main:
   - notInMainManu: yes
     link: /europarlament/
     name: Piráti v europarlamentu
-    match: europarlament
+    match: europarlament/aktuality, europarlament/europoslanci, europarlament/hospodareni
     submenu: 
       - link: /europarlament/aktuality
         name: Aktuality
