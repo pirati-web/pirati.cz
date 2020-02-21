@@ -62,7 +62,7 @@ main:
   - notInMainManu: yes
     link: /europarlament/
     name: Piráti v europarlamentu
-    match: europarlament/aktuality, europarlament/europoslanci, europarlament/hospodareni
+    match: europarlament/
     submenu: 
       - link: /europarlament/aktuality
         name: Aktuality
