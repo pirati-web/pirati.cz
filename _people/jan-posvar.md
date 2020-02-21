@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vys
 - psp
 img: people/jan-posvar.jpg   # 165 x 220
-description: poslanec PSP PČR, předseda krajského sdružení Vysočina            	# kratký popis, max 160 znaků
+description: poslanec PS PČR, předseda krajského sdružení Vysočina            	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - jan.posvar@pirati.cz
