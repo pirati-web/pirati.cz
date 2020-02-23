@@ -12,7 +12,12 @@ mail:
 mob: 
 ordeuro: 2
 asistenti:
-  - name: Kristyna Koubkova 
+  - name: Kristyna Koubkova
+    tel: 32 22847334
+    mail: kristyna.koubkova@europarl.europa.eu
+  - name: Paul Diegel
+    tel: 32 22837334
+    mail: paul.diegel@europarl.europa.eu
 profiles:
   github:
   web: http://gregorova.eu/

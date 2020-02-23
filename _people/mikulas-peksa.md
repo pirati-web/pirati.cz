@@ -16,6 +16,8 @@ asistenti:
     mail: david.wagner@pirati.cz
     tel:  721 030 120
   - name: Cindy Degreef  
+    mail: cindy.degreef@europarl.europa.eu
+    tel: 32 22847522
 profiles:
   github:
   facebook: https://www.facebook.com/peksamikulas/
