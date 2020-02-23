@@ -32,7 +32,7 @@ main:
       - link: /program/psp2017/
         name: Parlament 2017
         match: psp2017
-      - link: /program/dlouhodoby/
+      - link: /program/strana.html
         name: Dlouhodobý
         match: dlouhodoby
   - link: /o-nas/
