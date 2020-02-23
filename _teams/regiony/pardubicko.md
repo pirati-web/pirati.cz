@@ -6,12 +6,12 @@ fullname: Krajské sdružení Pardubický kraj
 img: teams/pardubice.jpg
 leader: daniel.lebduska
 deputy:
-- Filip Vařecha
+- Filip Mezera
 - Andrea Linhartová
 - Martin Saifrt
 - Jiří Krátký
 contact:
-- pavel.stepanek
+- david.marhold
 region: Pardubický kraj
 url: https://www.pirati.cz/regiony/pardubicko/start
 categories:
@@ -24,19 +24,18 @@ forum: https://forum.pirati.cz/pardubicky-kraj-f85/
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Chcete se s námi potkat ? Jsme aktivní v celém Pardubickém kraji. V Chrudimi máme vlastní Pirátské centrum. Ve Svitavách, Pardubicích, České Třebové a dalších městech máme své zástupce v místních zastupitelstvech.
-
-Kontaktujte krajského koordinátora, nebo předsedu krajskéo sdružení pro více informací.
+Chcete se s námi potkat ? Jsme aktivní v celém Pardubickém kraji. V Pardubicích, Chrudimi a Svitavách máme zastupitelské kluby a vlastní Pirátská centra. V dalších městech máme své zástupce v místních zastupitelstvech.
 
 Pro každodenní novinky stači sledovat Facebookový profil Piráti - Pardubický kraj a nic vám neujde. Dejte like [našemu Facebooku](https://www.facebook.com/pg/pirati.pardubicko/events/?ref=page_internal).
 
-Chcete se zapojit jako příznivec strany?
+**Chcete dostávat novinky, stát se registrovaným příznivcem, nebo rovnou členem strany?**
 
-* Zaregistrujte se jako příznivec Pirátů a budete dostávat aktuální informace o aktualitách a obecném dění ve straně. Registrujte se [ZDE](https://nalodeni.pirati.cz/).
+* Není nic jednoduššího - zaregistrujte se [ZDE](https://nalodeni.pirati.cz/) a vyberte si jak se chcete zapojit.
 
-* Přijďte se podívat na konkrétní akce - detaily najdete v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}).
+* Přijďte se podívat na konkrétní akce - detaily najdete na [našem webu](https://pardubicky.pirati.cz/). 
 
-* Přijďte na naše pravidelné setkání! Konají se pravidelně vždy jednou měsíčně v jednom z měst Pardubického kraje. Kontaktujte Pavla Štěpánka (pavel.stepanek(аt)pirati.cz) pro více informací o tom, kdy se bude konat další schůze Pirátů Pardubického kraje. 
-Pokud se [ZDE](https://nalodeni.pirati.cz/) zaregistrujete k odběru novinek/jako dobrovolník/zájemce o členství, tak veškeré informace budete dostávat automaticky do e-mailu.
+* Pro více informací kontaktujte našeho koordinátora, kdy se bude konat další schůze Pirátů Pardubického kraje. 
 
-Veškeré informace najdete na krajském webu [pardubicky.pirati.cz](https://pardubicky.pirati.cz).
+* Pokud se [ZDE](https://nalodeni.pirati.cz/) zaregistrujete k odběru novinek/jako dobrovolník/zájemce o členství, tak veškeré informace budete dostávat automaticky do e-mailu.
+
+* Budeme se těšit na viděnou
