@@ -1,0 +1,4 @@
+Contact: mailto:to@pirati.cz
+Note: Or contact "vedouci technickeho odboru" directly
+Preferred-Languages: en, cz
+Canonical: https://pirati.cz/.well-known/security.txt

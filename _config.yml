@@ -39,6 +39,9 @@ exclude:
   - vendor
   - node_modules
 
+include:
+  - .well-known
+
 sass:
     style: compressed
 
