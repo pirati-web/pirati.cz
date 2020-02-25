@@ -2,19 +2,19 @@
   items:
   - title: Výdaje
     content: |
-      <p>
-       Podívejte se, jak 
-        <a href="https://nextcloud.pp-eu.eu/index.php/s/cMmLo3MD868WnBe"> hospodaří </a> pirátští europoslanci. 
-      </p>
+      <ul>
+        <li><a href="https://nextcloud.pp-eu.eu/index.php/s/cMmLo3MD868WnBe"> Všeobecné výdaje </li>
+        <li><a href="https://nextcloud.pp-eu.eu/index.php/s/QgFTytZAcMZj3rn"> Všechny faktury </li>
+      </ul>
 -
   items:
-  - title: Faktury
+  - title: Transparetní účty
     content: |
-      <p>
-       Podívejte se, jak 
-        <a href="https://nextcloud.pp-eu.eu/index.php/s/QgFTytZAcMZj3rn"> hospodaří </a>
-       pirátští europoslanci. 
-      </p>
+      <ul>
+        <li> <a href=https://ib.fio.cz/ib/transparent?a=2901637243> Marcel Kolaja </a> </li>
+        <li> <a href=https://ib.fio.cz/ib/transparent?a=2301637274> Markéta Gregorová </a> </li>
+        <li> <a href=https://ib.fio.cz/ib/transparent?a=2001637811> Mikuláš Peksa </a> </li>
+      </ul>
 -
   items:
   - title: Registr smluv

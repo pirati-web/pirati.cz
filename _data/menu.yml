@@ -64,7 +64,7 @@ main:
     name: Piráti v europarlamentu
     match: europarlament/
     submenu: 
-      - link: /europarlament/aktuality
+      - link: /europarlament/
         name: Aktuality
       - link: /europarlament/europoslanci/
         name: Europoslanci
