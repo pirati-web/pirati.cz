@@ -3,7 +3,7 @@ date:         2020-02-25
 category:     blog
 tags:         mezinárodní
 layout:       post
-title:        "Na setkání s tibetskými duchovními v ČR navážeme návštěvou tibetské exilové vlády u příležitosti tibetského národního povstání"
+title:        "Na setkání s tibetskými duchovními v ČR navážeme návštěvou tibetské exilové vlády u příležitosti výročí tibetského národního povstání"
 image:        /assets/img/articles/2020/tibet3.jpg
 author:       František Kopřiva
 --- 
