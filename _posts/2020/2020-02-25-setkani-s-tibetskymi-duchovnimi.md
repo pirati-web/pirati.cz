@@ -3,7 +3,7 @@ date:         2020-02-25
 category:     blog
 tags:         mezinárodní
 layout:       post
-title:        "Na setkání s tibetskými duchovními v Poslanecké sněmovně navážeme návštěvou dalajlámy v Indii"
+title:        "Na setkání s tibetskými duchovními v ČR navážeme návštěvou Jeho Svatosti u příležitosti tibetského národního povstání"
 image:        /assets/img/articles/2020/tibet3.jpg
 author:       František Kopřiva
 --- 
