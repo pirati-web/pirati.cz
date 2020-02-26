@@ -11,6 +11,7 @@ description: Europoslanec, garant programového bodu Zahraničí, předseda Evro
 mail:
 - mikulas.peksa@ep.europa.eu
 mob:
+direct-contact: true
 asistenti:
   - name: David Wagner
     mail: david.wagner@pirati.cz

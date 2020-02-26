@@ -18,6 +18,7 @@ asistenti:
   - name: Paul Diegel
     tel: 32 22837334
     mail: paul.diegel@europarl.europa.eu
+direct-contact: true
 profiles:
   github:
   web: http://gregorova.eu/

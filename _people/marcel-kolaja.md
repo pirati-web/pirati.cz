@@ -18,6 +18,7 @@ asistenti:
   - name: Eszter Bako
     tel: 32 22857149
     mail: eszter.bako@europarl.europa.eu
+direct-contact: true
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:

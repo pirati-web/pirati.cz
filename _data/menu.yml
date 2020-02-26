@@ -66,8 +66,6 @@ main:
     submenu: 
       - link: /europarlament/
         name: Aktuality
-      - link: /europarlament/europoslanci/
-        name: Europoslanci
       - link: /program/europarlament2019/
         name: Program
       - link: /europarlament/hospodareni
