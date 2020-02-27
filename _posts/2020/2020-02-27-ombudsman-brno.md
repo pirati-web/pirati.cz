@@ -4,7 +4,7 @@ category:     blog
 tags:         lidská-práva celostátní
 layout:       post
 title:        "Poslankyně Richterová se v Brně setkala s novým ombudsmanem i jeho zástupkyní, mluvili o lidech se zdravotním postižením i celkovém směřování úřadu "
-image:        /assets/img/articles/2020/richterova.jpg
+image:        /assets/img/articles/2020/richterova-brno.jpg
 author:       Mediální odbor
 --- 
 
