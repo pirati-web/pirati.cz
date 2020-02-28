@@ -64,7 +64,7 @@ main:
     name: Piráti v europarlamentu
     match: europarlament/
     submenu: 
-      - link: /europarlament/
+      - link: /europarlament/#auktuality
         name: Aktuality
       - link: /program/europarlament2019/
         name: Program
