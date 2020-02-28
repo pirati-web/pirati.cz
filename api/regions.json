@@ -3,10 +3,17 @@ ownweb:
   praha: https://praha.pirati.cz
   jiznimorava: https://jihomoravsky.pirati.cz
   jiznicechy: https://jihocesky.pirati.cz
-  zlinsko: https://zlinsky.pirati.cz/
+  karlovarsko: https://karlovarsky.pirati.cz/ 
+  kralovehradecko: https://kralovehradecky.pirati.cz/
+  liberecko: https://liberecky.pirati.cz/
   moravskoslezsko: https://moravskoslezsky.pirati.cz
+  olomoucko: https://olomoucky.pirati.cz/
+  pardubicko: https://pardubicky.pirati.cz/
   plzensko: https://plzensko.pirati.cz/
+  strednicechy: https://stredocesky.pirati.cz/
+  ustecko: https://ustecky.pirati.cz/ 
   vysocina: https://vysocina.pirati.cz/
+  zlinsko: https://zlinsky.pirati.cz/
 ---
 {% comment %}
 Praha musí být první, kvůli vykreslování
