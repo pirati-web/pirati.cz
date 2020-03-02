@@ -3,7 +3,7 @@ date:         2020-03-02
 category:     blog
 tags:         legislativa celostátní
 layout:       post
-title:        "Piráti navrhují změnu pravidel pro vodicí a asistenční psi, která usnadní pohyb lidí s postižením ve veřejném prostoru"
+title:        "Piráti navrhují změnu pravidel pro vodicí a asistenční psy, která usnadní pohyb lidí s postižením ve veřejném prostoru"
 image:        /assets/img/articles/2020/holomcik.jpg
 author:       Mediální odbor
 --- 
