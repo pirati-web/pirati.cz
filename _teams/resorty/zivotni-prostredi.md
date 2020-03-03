@@ -47,7 +47,7 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 * **Jiří Lehejček**, garant programu Zemědělství do sněmovních voleb 2017
 * **Lukáš Blažej**, odborník na právo životního prostředí
 * **Kristina Marie Kubcová**, odborná asistentka poslankyně Dany Balcarové
-* **Jakub Brejša**, odborný asistent poslance Františka Elfmarka
+* **Jana Míšková**, odborná asistentka poslance Františka Elfmarka
 
 ### Komunikační kanály: 
 
