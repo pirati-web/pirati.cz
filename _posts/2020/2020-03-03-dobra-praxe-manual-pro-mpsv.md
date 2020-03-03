@@ -4,7 +4,7 @@ category:     blog
 tags:         práce-a-sociální-věci sněmovna
 layout:       post
 title:        "Piráti připravili ve světle kauzy na MPSV manuál, jak postupovat při výběru lidí do vysokých pozic"
-image:        /assets/img/articles/2020/kolarik.jpg
+image:        /assets/img/articles/2020/kolarik-manual.jpg
 author:       Mediální odbor
 --- 
 
