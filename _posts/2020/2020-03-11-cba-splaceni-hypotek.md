@@ -10,7 +10,7 @@ author:       Mediální odbor
 
  
 
-Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek požádal v otevřeném dopise členy České bankovní asociace o zmírnění pravidel splácení hypoték a jiných úvěrů kvůli opatřením ke koronavirové nákaze. V dopise píše:
+Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek požádal v otevřeném dopise členy České bankovní asociace o zmírnění pravidel splácení hypoték a jiných úvěrů kvůli opatřením ke koronavirové nákaze. V dopise napsal:
 
 
 > Vážený pane řediteli, vážený pane náměstku, vážení členové prezidia, vážení členové,
