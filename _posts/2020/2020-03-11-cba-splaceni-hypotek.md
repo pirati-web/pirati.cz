@@ -10,7 +10,7 @@ author:       Mediální odbor
 
  
 
-Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek žádá v otevřeném dopise členy České bankovní asociace ke zmírnění pravidel splácení hypoték a jiných úvěrů kvůli opatřením ke koronavirové nákaze. V dopise píše:
+Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek požádal v otevřeném dopise členy České bankovní asociace o zmírnění pravidel splácení hypoték a jiných úvěrů kvůli opatřením ke koronavirové nákaze. V dopise píše:
 
 
 > Vážený pane řediteli, vážený pane náměstku, vážení členové prezidia, vážení členové,
@@ -26,5 +26,7 @@ Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek žádá v otev
 > Ing. Tomáš Martínek v. r.
 > místopředseda Podvýboru pro bankovnictví, pojišťovnictví a finanční trhy PSP ČR
 
+Pavel Štěpánek, výkonný ředitel České bankovní asociace, v dnešní odpovědi směřované Tomáši Martínkovi uvedl, že banky intenzivně pracují na opatřeních, která pomohou zmírnit ekonomické dopady probíhající pandemie na klienty. Příprava opatření probíhá za spolupráce s Ministerstvem průmyslu a obchodu ČR, s Českomoravskou záruční a rozvojovou bankou i Českou národní bankou. Podoba opatření bude oznámena v nejbližších dnech.
+
 * [Dopis](https://pirati.cz/assets/pdf/dopis-cba-martinek.docx.pdf) ve formátu pdf.
-* [Odpověď](https://pirati.cz/assets/pdf/odpoved-cba.pdf) Pavla Štěpánka, ředitele České bankovní asociace.
+* [Odpověď](https://pirati.cz/assets/pdf/odpoved-cba.pdf) Pavla Štěpánka, výkonného ředitele České bankovní asociace.
