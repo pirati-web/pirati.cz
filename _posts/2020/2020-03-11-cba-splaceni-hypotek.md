@@ -27,3 +27,4 @@ Praha, 11. března 2020 – Pirátský poslanec Tomáš Martínek žádá v otev
 > místopředseda Podvýboru pro bankovnictví, pojišťovnictví a finanční trhy PSP ČR
 
 * [Dopis](https://pirati.cz/assets/pdf/dopis-cba-martinek.docx.pdf) ve formátu pdf.
+* [Odpověď](https://pirati.cz/assets/pdf/odpoved-cba.pdf) Pavla Štěpánka, ředitele České bankovní asociace.
