@@ -200,7 +200,7 @@ $wa-ns: '';
 }
 
 .#{$wa-ns}c-widget-accordion.#{$wa-ns}c-widget-accordion--alert
- .#{$wa-ns}c-widget-accordion-link {
+.#{$wa-ns}c-widget-accordion-link {
   background: $alert-color !important;
 
   &:hover {
@@ -209,7 +209,7 @@ $wa-ns: '';
 }
 
 .#{$wa-ns}c-widget-accordion.#{$wa-ns}c-widget-accordion--dark
- .#{$wa-ns}c-widget-accordion-link {
+.#{$wa-ns}c-widget-accordion-link {
   background: #343434 !important;
 
   &:hover {
