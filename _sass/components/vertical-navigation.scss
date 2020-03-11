@@ -32,7 +32,7 @@ $vn-ns: '';
   &.#{$vn-ns}c-vertical-navigation-items--horizontal {
 
     .#{$vn-ns}c-vertical-navigation__item +
-    .#{$vn-ns}c-vertical-navigation__item  {
+    .#{$vn-ns}c-vertical-navigation__item {
       margin-left: 13px;
     }
 
@@ -43,7 +43,7 @@ $vn-ns: '';
     &.#{$vn-ns}c-vertical-navigation-items--horizontal {
 
       .#{$vn-ns}c-vertical-navigation__item +
-      .#{$vn-ns}c-vertical-navigation__item  {
+      .#{$vn-ns}c-vertical-navigation__item {
         margin-left: 10px;
       }
 

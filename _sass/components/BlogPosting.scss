@@ -67,8 +67,8 @@ $bp-ns: '';
   }
 }
 
-.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting-excerpt-readMore ,
-.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt-readMore {
+.#{$bp-ns}c-BlogPosting.#{$bp-ns}c-BlogPosting--featured .#{$bp-ns}c-BlogPosting-excerpt-readMore,
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-readMore {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -96,7 +96,7 @@ $bp-ns: '';
 }
 
 .#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting__title,
-.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt__title {
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__title {
   line-height: 1.15;
 
   @include breakpoint(medium down) {
@@ -169,7 +169,7 @@ $bp-ns: '';
 }
 
 .#{$bp-ns}c-BlogPosting .#{$bp-ns}c-BlogPosting-content p,
-.#{$bp-ns}c-BlogPosting-excerpt  .#{$bp-ns}c-BlogPosting-excerpt-content {
+.#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt-content {
   line-height: 1.25;
 }
 
@@ -209,6 +209,6 @@ $bp-ns: '';
 .#{$bp-ns}c-BlogPosting-excerpt .#{$bp-ns}c-BlogPosting-excerpt__author:not(:first-of-type) {
 
   @include breakpoint(medium down) {
-      margin-left: 20px;
+    margin-left: 20px;
   }
 }

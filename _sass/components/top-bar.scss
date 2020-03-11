@@ -200,6 +200,7 @@
 
     a:hover {
       color: darken(#f3c289, 5%);
+
       &:after {
         content: none;
       }
@@ -264,11 +265,11 @@
       float: none;
     }
 
-    .top-bar-header-group{
+    .top-bar-header-group {
       display: table-header-group;
     }
 
-    .top-bar-footer-group{
+    .top-bar-footer-group {
       display: table-footer-group;
     }
 
@@ -362,6 +363,7 @@
       a {
         text-transform: none;
         padding: 1rem 0.5rem;
+
         &:before {
           visibility: hidden;
         }
@@ -383,6 +385,7 @@
 
       a:hover {
         color: darken(#f3c289, 5%);
+
         &:before {
           content: none;
         }
@@ -436,7 +439,7 @@
     }
   }
 
-   @include breakpoint(xlarge) {
+  @include breakpoint(xlarge) {
     .c-top-bar-menu .top-bar-left > .menu > li:first-child a {
       padding-left: 0.65rem;
 
