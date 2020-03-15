@@ -1,7 +1,7 @@
 ---
 date:         2020-03-15
 category:     blog
-tags:         celostátní 
+tags:         celostátní vláda legislativa
 layout:       post
 title:        "Piráti vyzývají k přepracování korupčního zákona, který byl narychlo zařazen na zítřejší jednání vlády a je šitý na míru Babišově Agrofertu"
 image:        /assets/img/articles/2020/navrkal99.jpg
