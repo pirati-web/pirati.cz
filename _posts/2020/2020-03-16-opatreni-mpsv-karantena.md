@@ -38,4 +38,4 @@ Další skupina otázek, které zaslala Richterová ministryni, se týká upřes
 8. Lidé v exekuci a insolvenci: Zvažuje se jednání s ministerstvem spravedlnosti kvůli zvlášť obtížné situaci těchto osob v důsledku současné krize? Mohou přijít o oddlužení a vrátit se do bodu nula před vstupem do insolvence.
 
 
-* Plné znění dopisu.
+* [Plné znění dopisu](https://pirati.cz/assets/pdf/koronavirus-mpsv.pdf).
