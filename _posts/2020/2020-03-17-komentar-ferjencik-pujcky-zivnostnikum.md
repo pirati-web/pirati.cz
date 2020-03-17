@@ -9,10 +9,6 @@ author:       Mediální odbor
 --- 
 
 
-Komentář Mikuláše Ferjenčíka: Bezúročné půjčky pro malé živnostníky oceňujeme a věříme, že se vláda inspiruje našimi dalšími návrhy
-
- 
-
 Praha, 17. března 2020 – Krátce poté, co jsme uveřejnili několik zásadních návrhů opatření v oblasti ekonomiky, zdravotnictví a sociálních věcí v souvislosti s probíhající pandemií, ohlásili zástupci vlády, že realizují jeden z námi navržených požadavků. Ministr Karel Havlíček na jednání s opozicí totiž přislíbil rozšíření programu bezúročných půjček se státní garancí i o půjčky pod půl milionu korun, přesně jak jsme žádali. Protože trváme na podpoře všech podnikatelů, včetně těch nejmenších, rozhodnutí ministra jsme uvítali.
 
  
