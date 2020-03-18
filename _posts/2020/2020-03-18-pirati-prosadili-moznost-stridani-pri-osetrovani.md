@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní legislativa sněmovna zdravotnictví
 layout:       post
 title:        "Piráti na zdravotním výboru prosadili možnost střídání rodičů během domácího ošetřování"
-image:        /assets/img/articles/2020/martinek-ferjencik.jpg
+image:        /assets/img/articles/2020/richterova.jpg
 author:       Mediální odbor
 --- 
 
