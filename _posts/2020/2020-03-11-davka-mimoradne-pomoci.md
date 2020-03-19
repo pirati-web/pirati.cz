@@ -1,7 +1,7 @@
 ---
 date:         2020-03-11
 category:     blog
-tags:         sněmovna zdravotnictví
+tags:         sněmovna zdravotnictví koronavirus
 layout:       post
 title:        "Richterová: Zvažuje MPSV s ohledem na uzavření škol vydat pokyn k dávce mimořádné okamžité pomoci?"
 image:        /assets/img/articles/2020/richterova.jpg

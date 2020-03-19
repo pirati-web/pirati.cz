@@ -1,7 +1,7 @@
 ---
 date:         2020-03-10
 category:     blog
-tags:         sněmovna legislativa celostátní
+tags:         sněmovna legislativa celostátní koronavirus
 layout:       post
 title:        "Piráti s vládou probrali možnost ustavení dětských skupin během zrušené školní výuky a budou navrhovat rozšíření zákona o lobbingu"
 image:        /assets/img/articles/2020/tk-41schuze2.jpg

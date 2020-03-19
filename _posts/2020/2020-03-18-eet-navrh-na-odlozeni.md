@@ -1,7 +1,7 @@
 ---
 date:         2020-03-18
 category:     blog
-tags:         celostátní vláda finance
+tags:         celostátní vláda finance koronavirus
 layout:       post
 title:        "Piráti s opozicí předložili návrh na odložení dalších vln EET"
 image:        /assets/img/articles/2020/martinek-ferjencik.jpg

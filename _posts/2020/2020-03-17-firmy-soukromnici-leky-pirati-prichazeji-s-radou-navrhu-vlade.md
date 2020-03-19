@@ -1,7 +1,7 @@
 ---
 date:         2020-03-17
 category:     blog
-tags:         celostátní vláda zdravotnictví práce-a-sociální-věci
+tags:         celostátní vláda zdravotnictví práce-a-sociální-věci koronavirus
 layout:       post
 title:        "Piráti dnes premiérovi navrhnou sérii opatření k podpoře firem a soukromníků. Jednat chtějí i o dostupnosti zdravotních ochranných pomůcek a léků"
 image:        /assets/img/articles/2020/ferjencik.jpg

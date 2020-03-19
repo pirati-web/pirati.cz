@@ -1,7 +1,7 @@
 ---
 date:         2020-03-12
 category:     blog
-tags:         finance celostátní 
+tags:         finance celostátní koronavirus 
 layout:       post
 title:        "Martínek: Děkuji prezidiu České bankovní asociace, které vyslyšelo moji žádost ohledně možnosti odkladu splátek vzhledem ke koronavirové nákaze"
 image:        /assets/img/articles/2020/martinek.jpg
