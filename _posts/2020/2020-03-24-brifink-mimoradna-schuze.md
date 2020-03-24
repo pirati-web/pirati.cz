@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní sněmovna legislativa
 layout:       post
 title:        "Ministerstva částečně vyslyšela ekonomické návrhy Pirátů, o dalších úlevách pro občany budou jednat odpoledne"
-image:        /assets/img/articles/2020/tk-korona.jpg
+image:        /assets/img/articles/2020/tk-korona.JPG
 author:       Mediální odbor
 --- 
 
