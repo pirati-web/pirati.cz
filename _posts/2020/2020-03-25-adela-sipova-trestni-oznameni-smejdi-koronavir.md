@@ -20,4 +20,5 @@ Internetový portál svetomat.cz nabízí k prodeji roušky, antibakteriální g
 
 > Na občany apeluje rovněž analytik Pirátů Janusz Konieczny: „Pokud máte podezření na podvodné jednání při prodeji zdravotnických ochranných pomůcek, tak se neváhejte obrátit na policii, případně můžete kontaktovat pirátský analytický tým (janusz.konieczny@pirati.cz) s podnětem, který bude následně vyhodnocen a případně předán policejnímu orgánu.”
 
-Lukáš Zelený, který dříve vedl právní oddělení v organizaci dTest, ve svém vyjádření pro trestní oznámení Pirátů uvedl, že svetomat.cz se tváří jako standardní e-shop, nicméně ve skutečnosti zprostředkovává nic netušícímu zákazníkovi smlouvu se subjektem mimo Českou republiku. Dle jeho názoru je toto ujednání s odkazem na občanský zákoník neplatné s ohledem na takzvané „překvapivé ujednání”.  
+Lukáš Zelený, který dříve vedl právní oddělení v organizaci dTest, ve svém vyjádření pro trestní oznámení Pirátů uvedl, že svetomat.cz se tváří jako standardní e-shop, nicméně ve skutečnosti zprostředkovává nic netušícímu zákazníkovi smlouvu se subjektem mimo Českou republiku. Dle jeho názoru je toto ujednání s odkazem na občanský zákoník neplatné s ohledem na takzvané „překvapivé ujednání”.  7
+
