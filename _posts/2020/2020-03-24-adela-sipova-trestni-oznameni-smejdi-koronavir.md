@@ -1,5 +1,5 @@
 ---
-date:         2020-03-25
+date:         2020-03-24
 category:     blog
 tags:         celostátní kontrola-moci-a-mocných
 layout:       post
