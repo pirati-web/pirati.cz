@@ -18,6 +18,8 @@ Piráty navržená opatření jsou rozdělena do tří kategorií:
 
 
 * Nutná opatření – kroky, které Piráti považují za mimořádně důležité učinit co nejdříve.
+
+
 1. Snažit se nahradit chybějící zahraniční sezónní pracovníky v zemědělství českými občany, kteří se kvůli výpadku mzdy v důsledku mimořádných opatření mohou dostat do existenčních potíží.
 
 2. Připravit se na podávání jednotných žádostí o dotace, snížit administrativní zátěž a předejít případným komplikacím.
@@ -29,6 +31,8 @@ Piráty navržená opatření jsou rozdělena do tří kategorií:
  
 
 * Doporučená opatření – kroky, které je vhodné učinit, ale mají čas.
+
+
 1. Zajistit odbyt pro české výrobce v rámci veřejného stravování.
 
 2. Povolit prodej ovoce a zeleniny na farmářských trzích a tržnicích.
@@ -45,7 +49,9 @@ Piráty navržená opatření jsou rozdělena do tří kategorií:
 
  
 
-* Další opatření – jedná se o opatření navržená k dalším ministerstvům (např. MF, MPSV či MPO), která zlepší situaci podnikatelského prostředí jako celku. 
+* Další opatření – jedná se o opatření navržená k dalším ministerstvům (např. MF, MPSV či MPO), která zlepší situaci podnikatelského prostředí jako celku.
+
+
 1. Perspektiva dlouhodobého fungování ekonomiky – kroky nutné k adaptaci.
 
 2. Opatření pro OSVČ, kteří jsou v současnosti bez příjmů.
