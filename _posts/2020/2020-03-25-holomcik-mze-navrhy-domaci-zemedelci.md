@@ -58,4 +58,4 @@ Piráti v uplynulých týdnech navrhli řadu opatření, která snižují ekonom
 
 
 
-* Kompletní přehled návrhů podaných Ministerstvu zemědělství naleznete v [dokumentu](pirati.cz/assets/pdfdopis-holomcik-mze.pdf).
+* Kompletní přehled návrhů podaných Ministerstvu zemědělství naleznete v [dokumentu](https://pirati.cz/assets/pdf/dopis-holomcik-mze.pdf).
