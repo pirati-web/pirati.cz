@@ -1,7 +1,7 @@
 ---
 date:         2020-03-24
 category:     blog
-tags:         celostátní sněmovna legislativa
+tags:         celostátní sněmovna legislativa koronavirus
 layout:       post
 title:        "Ministerstva částečně vyslyšela ekonomické návrhy Pirátů, o dalších úlevách pro občany budou jednat odpoledne"
 image:        /assets/img/articles/2020/tk-korona.JPG
