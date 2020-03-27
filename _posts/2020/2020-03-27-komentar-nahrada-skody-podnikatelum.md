@@ -33,4 +33,4 @@ Smyslem mé celé interpelace není zpochybňovat potřebnost opatření ke sní
 
 Zvolil jsem cestu interpelace, abych pokud možno vládu pohnul k tomu, že nápravu problémů provede z vlastní iniciativy. Výrazné aktivity ke zpochybňování opatření vlády nepovažuji v tuto chvíli z naší strany za vhodné. Pokud by vláda považovala za potřebné zákony v důsledku nouzového stavu změnit, jsem já i moji kolegové připraveni projednat návrhy změn v řádu dnů ve stavu legislativní nouze.
 
-Celé znění interpelace naleznete v příloze emailu.
+Celé znění interpelace naleznete v [dokumentu](https://pirati.cz/assets/pdf/interpelace-opatreni-nouze.pdf).
