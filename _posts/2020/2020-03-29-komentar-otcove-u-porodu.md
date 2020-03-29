@@ -27,6 +27,6 @@ Nezapomínejme, že kdyby měl zdravotní personál dostatek ochranných pomůce
 
 Apeluji proto na ministra zdravotnictví, aby co nejdřív našel rozumné řešení, jak nechat rodiny pohromadě v jeden z nejdůležitějších okamžiků života každého z nás.
 
-[Odkaz](https://www.mzcr.cz/dokumenty/mimoradne-opatreni-zakaz-navstev-pacientu-v-zdravotnickych-zarizenichs-vyjim_18840_4135_1.html) na mimořádné opatření ministerstva ze dne 27. března 2020, kde je výjimka uvedena:
+* [Odkaz](https://www.mzcr.cz/dokumenty/mimoradne-opatreni-zakaz-navstev-pacientu-v-zdravotnickych-zarizenichs-vyjim_18840_4135_1.html) na mimořádné opatření ministerstva ze dne 27. března 2020, kde je výjimka uvedena.
 
-Technická připomínka: Nejedná se jen o otce dítěte - pokud žena spadá do kategorie rodiček uvedených ve výjimce a přítomnost otce není možná, může mít s sebou i někoho jiného - například vlastní porodní asistentku - prostě jakoukoli třetí osobu.
+* Technická připomínka: Nejedná se jen o otce dítěte - pokud žena spadá do kategorie rodiček uvedených ve výjimce a přítomnost otce není možná, může mít s sebou i někoho jiného - například vlastní porodní asistentku - prostě jakoukoli třetí osobu.
