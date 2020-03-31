@@ -58,7 +58,13 @@ keywords: Piráti kandidáti evropský parlament, Piráti volby, Piráti kampaň
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts limit: 6 %}
+        {% assign index = 0 %}
+        {% for article in site.posts %}
+        {% if index contains "6" %}
+            {% break %}
+        {% endif %}
+        {% unless article.tags contains "ostatní" %}
+        {% capture index %} {{ index | plus: 1 }} {% endcapture %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
           <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
           <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
@@ -101,6 +107,7 @@ keywords: Piráti kandidáti evropský parlament, Piráti volby, Piráti kampaň
               <br class="hide-for-medium"> </span>
           </div>
         </article>
+        {% endunless %}
         {% endfor %}
         <div class="c-BlogPosting-excerpt-nextBox">
           <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
