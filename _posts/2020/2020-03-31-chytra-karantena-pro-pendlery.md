@@ -15,4 +15,4 @@ Praha, 31. března 2020 – Poslanci Pirátů Petr Třešňák a Lukáš Kolář
 
 > Jak uvedl Lukáš Kolářík, poslanec za Jihočeský kraj, který eviduje další desítky tisíc pendlerů, bude se problém dotýkat i českého sociálního systému: „Pokud skončí velká část pendlerů na úřadech práce, bude to znamenat další dlouhodobou zátěž pro náš sociální systém. Podmínky pro pendlery typu C jsou přitom mnohem přísnější než pro pendlery typu A, kteří pracují ve zdravotnictví, a jsou tedy mnohem rizikovější skupinou. Chceme pendlery skupiny C zařadit do karanténního systému, ve kterém by cestovali pouze do práce a jinak by během pobytu v ČR byli v karanténě, a to včetně celé rodiny. Tím zajistíme ochranu zdraví obyvatel i ekonomické zájmy samotných pendlerů. Bylo by to i lidské gesto, nevidět rodinu 21 dní je opravdu dlouhá doba.“
 
-* [Dopis zaslaný ministru vnitra](https:/pirati.cz/assets/pdf/pendleri-dopisMV.pdf).
+* [Dopis zaslaný ministru vnitra](https://pirati.cz/assets/pdf/pendleri-dopisMV.pdf).
