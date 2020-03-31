@@ -4,7 +4,7 @@ category:     blog
 tags:         celostatni koronavirus zdravotnictví plzeňský-kraj
 layout:       post
 title:        "Piráti tisknou ochranné štíty pro zdravotnická zařízení"
-image:        /assets/img/articles/2020/plzen-pirati-3d.jpg
+image:        /assets/img/articles/2020/plzen-pirati-masky.png
 author:       Mediální odbor
 --- 
 
