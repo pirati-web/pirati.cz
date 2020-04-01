@@ -74,7 +74,7 @@ body{
     height: 100%;
   }
   &__modal{
-    //position: fixed;
+    position: fixed;
     background: white;
 
     top: 4.75rem;
@@ -286,7 +286,7 @@ body{
       border-bottom: 3px solid #f3c289;
       margin: $u 0 2*$u;
       padding: $u 0;
-      height: 100%;
+      //height: 100%;
       //position: relative;
       //font-size: 1.75em;
       //&:before{
