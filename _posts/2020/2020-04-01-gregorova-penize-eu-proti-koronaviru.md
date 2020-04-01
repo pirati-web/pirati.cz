@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus evropská-unie ostatní
 layout:       post
 title:        "Markéta Gregorová: Jak je to s těmi penězi od EU proti koronaviru?"
-image:        /assets/img/articles/2020/gregorova.png
+image:        /assets/img/articles/2020/gregorova.jpg
 author:       Mediální odbor
 --- 
 
