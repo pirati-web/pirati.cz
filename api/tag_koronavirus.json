@@ -1,0 +1,17 @@
+---
+---
+[
+  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","koronavirus" %}
+  {% for post in sorted-posts %}
+    {
+      "date"     : "{{ post.date | escape }}",
+      "category" : "{{ post.categories | join: ' ' }}",
+      "title"    : "{{ post.title | escape }}",
+      "tags"     : "{{ post.tags | strip_html | strip_newlines | remove:  "  " | escape | remove: "\"}}",
+      "author"   : "{{ post.author | join: ',' }}",
+      "image"    : "{{ post.image | escape }}",
+      "content"  : {{ post.content | jsonify }},
+      "url"      : "{{ site.baseurl }}{{ post.url }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
