@@ -18,4 +18,4 @@ Závěrečná auditní zpráva dorazila v anglickém jazyce na MMR dne 29. listo
 
 > „Evropská komise, nezávislí odborníci i opozice dlouhodobě upozorňují, že Andrej Babiš je ve střetu zájmů a porušuje tak české a evropské předpisy. Po vstupu Andreje Babiše do politiky stouply dotace pro jeho firmy na trojnásobek a činí 2 mld. korun ročně, tedy podobnou částku jako rozpočet Poslanecké sněmovny a Senátu dohromady. Oproti tehdejším dotacím cca 630 milionů ročně si tak přišel na 1,2 miliardu korun ročně navíc. Celkem tak od státu získal přes 6,6 miliardy korun oproti období před vstupem do politiky,” komentuje Michálek a dodává: „Bohužel to není první případ snahy zneužít epidemie koronaviru k protekci. Vláda už se pokusila změnit zákon o skutečných majitelích firem, který by účelově změnil definici ve prospěch Agrofertu.”
 
-* [Interpelace Jakuba Michálka na ministryni Kláru Dostálovou](https://pirati.cz/assets/pdf/_Interpelace-MMR-1-1.pdf).
+* [Interpelace Jakuba Michálka na ministryni Kláru Dostálovou](https://pirati.cz/assets/pdf/interpelace-mmr-michalek.pdf).
