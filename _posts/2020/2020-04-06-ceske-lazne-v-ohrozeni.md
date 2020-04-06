@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus zdravotnictví legislativa
 layout:       post
 title:        "České lázeňství je ve vážném ohrožení, varují Piráti"
-image:        /assets/img/articles/2020/tresnak.jpeg
+image:        /assets/img/articles/2020/tresnak.jpg
 author:       Mediální odbor
 --- 
 
