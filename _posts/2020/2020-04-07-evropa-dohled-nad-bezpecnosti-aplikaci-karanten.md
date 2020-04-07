@@ -18,4 +18,4 @@ Brusel, 7. dubna 2020 - Evropské země se po prvotním náporu a extrémních o
 
 > „Jedna z důležitých pravomocí Komise je monitorování, zda jednotlivé členské země jednají v souladu s unijním právem, kde je ochrana dat přímo zakotvena. V případě chytrých karantén by měl tento dohled probíhat obzvlášť podrobně,“ dodal Kolaja. 
 
-V [přiložené infografice](https://pirati/assets/img/articles/2020/chytra-karantena.jpg) přinášíme přehled toho, co by chytrá karanténa měla být a co by z ní naopak snadno dělalo systém zneužitelný pro vychytralé šmírování.
+V [přiložené infografice](https://pirati.cz/assets/img/articles/2020/chytra-karantena.jpg) přinášíme přehled toho, co by chytrá karanténa měla být a co by z ní naopak snadno dělalo systém zneužitelný pro vychytralé šmírování.
