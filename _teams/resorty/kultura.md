@@ -43,7 +43,7 @@ Jak se můžete zapojit?
 ----------------------
 **Chcete s námi pracovat?**
 Pokud nám chcete pomoci, máme několik rozjetých projektů kterých se můžete zúčastnit! Stačí ozvat se uvedené kontaktní osobě.
-Vedoucí týmu je [Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/), kontaktní osobou Tomáš Hába (723 248 776,  habat@psp.cz).
+Vedoucí týmu je [Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/), kontaktní osobou Štěpán Drtina (stepan.drtina@pirati.cz).
 **Máte úplně jiný nápad?**
 Dejte vědět! Rádi si vaše myšlenky vyslechneme a vymyslíme, jak na nich můžeme spolu případně pracovat.
 
