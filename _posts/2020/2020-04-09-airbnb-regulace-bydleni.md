@@ -1,5 +1,5 @@
 ---
-date:         2020-04-09 0:00:00
+date:         2020-04-09
 category:     blog
 tags:         bydlení sněmovna legislativa
 layout:       post
