@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 # - euro #přidámim do kategorie euro se objeví na strance pirati.cz/lide v kategii europoslancu
 direct-contact: true
 img: people/patrick-breyer.jpg   # 165 x 220
-description: Europoslanec, garant programového bodu Zahraničí, předseda Evroské pirátské strany
+description: Europoslanec, člen Pirátské strany Německa
 mail:
 - patrick.breyer@europarl.europa.eu 
 asistenti:
