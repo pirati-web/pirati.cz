@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus zdravotnictví
 layout:       post
 title:        "Jak vyřeší ministerstvo problém se zamezením přístupu k porodům a k umírajícím, ptá se poslankyně Pirátů Richterová"
-image:        /assets/img/articles/2020/richterova1.jpg
+image:        /assets/img/articles/2020/richterova.jpg
 author:       
 --- 
 
