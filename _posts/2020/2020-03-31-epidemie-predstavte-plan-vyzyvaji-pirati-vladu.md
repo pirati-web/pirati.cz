@@ -1,7 +1,7 @@
 ---
 date:         2020-03-31
 category:     blog
-tags:         celostatni koronavirus legislativa
+tags:         celostátní koronavirus legislativa
 layout:       post
 title:        "Představte jasný plán v boji s epidemií koronaviru, apelují na vládu Piráti. Bod chtějí zařadit na jednání Sněmovny"
 image:        /assets/img/articles/2020/bartos-rouska.jpg

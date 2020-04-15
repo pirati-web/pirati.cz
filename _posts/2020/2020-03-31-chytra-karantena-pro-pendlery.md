@@ -1,7 +1,7 @@
 ---
 date:         2020-03-31
 category:     blog
-tags:         celostatni koronavirus legislativa
+tags:         koronavirus legislativa
 layout:       post
 title:        "Piráti navrhli systémové řešení pro pendlery, chtějí „chytrou karanténu“"
 image:        /assets/img/articles/2020/tresnak.jpg
