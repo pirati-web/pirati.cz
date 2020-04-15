@@ -23,4 +23,4 @@ Podezřelí prodejci často vzbuzovali dojem klasického e-shopu, nicméně ve s
 
 Piráti zároveň informují, že fungování podezřelého e-shopu svetomat.cz je prověřováno pod č.j. KRPL-29080/TČ-2020-181181 na Oddělení hospodářské kriminality SKPV, Územního odboru v Semilech, kam se případně mohou hlásit potenciální poškození. Právnička Adéla Šípová zároveň doručí všem oznamovatelům podnětu základní informace o aktuální situaci. 
 
-Analytický tým Pirátů připravil ke každému z 11 e-shopů stručný komentář, který je přílohou k této tiskové zprávě.
+Analytický tým Pirátů připravil ke každému z 11 e-shopů stručný komentář, který naleznete [zde](https://pirati.cz/assets/pdf/komentar-e-shopy.pdf).
