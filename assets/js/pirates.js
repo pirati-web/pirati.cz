@@ -80,7 +80,7 @@ pirates.integrations = {
       divCopy.css('display', 'true');
       
       // adding beside DOM (not reflowing after each append)
-      // todo: rewrite jqury routines to vanilla (much faster)
+      // todo: rewrite jquery routines to vanilla (much faster)
       var c=$("<div />").addClass('container');
       
       var proj=[];
@@ -125,17 +125,12 @@ pirates.integrations = {
         var divNew=divCopy.clone().appendTo(masNew[pid]);
         if (doc.issues[i].description!="") {
           descHtml=md.render(doc.issues[i].description); 
-          var mess = $.parseHTML(descHtml);
           doc.issues[i].desc_html=descHtml;
-          bd = inv.html('').append(mess);
-          first_p = bd.find('p:first').html();
-          bd.find('p:first').remove();
-          desc_rest=bd.html();
+          first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
           } else {
           descHtml="Podrobný popis chybí ...";
           doc.issues[i].desc_html=descHtml;
           first_p="";
-          desc_rest="";
           }
         prio=doc.issues[i].priority.id;
         if (prio>=5) divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6'); 
@@ -199,6 +194,7 @@ pirates.integrations = {
           $("#sticky-nav").addClass('loaded');
           */
           console.log('all images are loaded');
+          console.log('imagesloaded hash:'+hash);
           
           //show actual issue detail when hash or scroll to resort
           if (hash!='') {
@@ -342,18 +338,13 @@ pirates.integrations = {
         var divNew=divCopy.clone().appendTo(masNew[aId]);
           var first_p="";
           if (doc.issues[i].description!="") {
-            descHtml=md.render(doc.issues[i].description); 
-            var mess = $.parseHTML(descHtml);
+            descHtml=md.render(doc.issues[i].description);
             doc.issues[i].desc_html=descHtml;
-            bd = inv.html('').append(mess);
-            first_p = bd.find('p:first').html();
-            bd.find('p:first').remove();
-            desc_rest=bd.html();
+            first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
             } else {
             descHtml="Podrobný popis chybí ...";
             doc.issues[i].desc_html=descHtml;
             first_p="";
-            desc_rest="";
             }
           prio=doc.issues[i].priority.id;
           $(".nadpis",divNew).html(doc.issues[i].subject);
@@ -622,19 +613,13 @@ pirates.integrations = {
             
           var divNew=divCopy.clone().appendTo(masNew[pid]);
           if (doc.issues[i].description!="") {
-            descHtml=md.render(doc.issues[i].description); 
-            var mess = $.parseHTML(descHtml);
+            descHtml=md.render(doc.issues[i].description);
             doc.issues[i].desc_html=descHtml;
-            bd = inv.html('').append(mess);
-            first_p = bd.find('p:first').html();
-            //console.log(first_p);
-            bd.find('p:first').remove();
-            desc_rest=bd.html();
+            first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
             } else {
             descHtml="Podrobný popis chybí ...";
             doc.issues[i].desc_html=descHtml;
             first_p="";
-            desc_rest="";
             }
           prio=doc.issues[i].priority.id;
           if (prio>=5) {
@@ -648,10 +633,7 @@ pirates.integrations = {
             $.each( doc.issues[i].custom_fields, function( key, value ) {
               if ((value.id==48) && (value.value!="")) {                
                 var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
-
                 $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
-                //first_p="<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' /><br/>"+first_p;
-
                 doc.issues[i].img=value.value;
                 }             
               });
@@ -690,19 +672,13 @@ pirates.integrations = {
             
           var divNew=divCopy.clone().appendTo(masNew[pid]);
           if (doc.issues[i].description!="") {
-            descHtml=md.render(doc.issues[i].description); 
-            var mess = $.parseHTML(descHtml);
+            descHtml=md.render(doc.issues[i].description);
             doc.issues[i].desc_html=descHtml;
-            bd = inv.html('').append(mess);
-            first_p = bd.find('p:first').html();
-            //console.log(first_p);
-            bd.find('p:first').remove();
-            desc_rest=bd.html();
+            first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1]; 
             } else {
             descHtml="Podrobný popis chybí ...";
             doc.issues[i].desc_html=descHtml;
             first_p="";
-            desc_rest="";
             }
           prio=doc.issues[i].priority.id;
           if (prio>=5) {
@@ -715,10 +691,7 @@ pirates.integrations = {
             $.each( doc.issues[i].custom_fields, function( key, value ) {
               if ((value.id==48) && (value.value!="")) {
                 var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
-
                 $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
-                //first_p="<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' /><br/>"+first_p;
-                
                 doc.issues[i].img=value.value;
                 }             
               });
@@ -730,7 +703,6 @@ pirates.integrations = {
           $("a.mas_content",divNew).data( "index",i);
           divNew.attr("id",doc.issues[i].id);
           divNew.attr("style","display: block");
-          //divNew.show();
           }
           
         $("#redmine_vysledky").append(c);
@@ -786,18 +758,12 @@ pirates.integrations = {
             
             if (doc.issues[i].description!="") {
               descHtml=md.render(doc.issues[i].description); 
-              var mess = $.parseHTML(descHtml);
               doc.issues[i].desc_html=descHtml;
-              bd = inv.html('').append(mess);
-              first_p = bd.find('p:first').html();
-              //console.log(first_p);
-              bd.find('p:first').remove();
-              desc_rest=bd.html();
+              first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
               } else {
               descHtml="Podrobný popis chybí ...";
               doc.issues[i].desc_html=descHtml;
               first_p="";
-              desc_rest="";
               }
             prio=doc.issues[i].priority.id;
             if (prio>=5) {
@@ -811,10 +777,7 @@ pirates.integrations = {
               $.each( doc.issues[i].custom_fields, function( key, value ) {
                 if ((value.id==48) && (value.value!="")) {
                   var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
-  
                   $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
-                  //first_p="<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' /><br/>"+first_p;
-  
                   doc.issues[i].img=value.value;
                   }             
                 });
@@ -1013,42 +976,6 @@ pirates.integrations = {
             activateResortDateFilter();
             });
         
-        /*
-        $('#butt_cyklusfilter').click(function(event) {             
-            event.preventDefault();
-            if (viewtype!=2) {
-              removeVysledky();
-              doc.issues=sortJSONbyPoslanec(doc.issues,poslanci_pref);
-              viewtype=2;
-              generatePrehledPoslanci();
-              createMasonry();
-              updateReveals();
-              }
-            var dates=getDates('#datefilter4');
-            var people=getPeople(poslanciMS2);
-            var ids=initFilter();
-            ids=filterByDate(ids,dates);
-            ids=filterByPeople(ids,people);
-            showAndHideByIds(ids);
-            });
-
-        $('#butt_weekfilter').click(function(event) {             
-            event.preventDefault();
-            if (viewtype!=3) {
-              removeVysledky();
-              doc.issues=sortJSONbyPriority(doc.issues);
-              viewtype=3;
-              generatePrehled();
-              createMasonry();
-              updateReveals();
-              }
-            var dates=getDates('#datefilter3');
-            var ids=initFilter();
-            ids=filterByDate(ids,dates);
-            showAndHideByIds(ids);
-            });
-         */
-        
         // osetreni prepinani vlastniho prehledu
         function activateOwnFilter() {
           $("#loading").css("display", "block");
@@ -1112,7 +1039,42 @@ pirates.integrations = {
             activateOwnFilter();
             });
         
-             
+        // osetreni prepinani koronavirus prehledu
+        function activateKoronavirusFilter() {
+          $("#loading").css("display", "block");
+            var hash={};
+            hash['type']='koronavirus';
+            hash['datefilter6']=$('#datefilter6').val();
+            $("#butt_koronafilter_permalink").attr("href","#"+jQuery.param(hash));
+          if (viewtype!=5) {
+            removeVysledky();
+            doc.issues=sortJSONbyDate(doc.issues);
+            doc.issues=sortJSONbyPriority(doc.issues);
+            viewtype=5;
+            generatePrehled();
+            createMasonry();
+            updateReveals();
+            }
+          var dates=getDates('#datefilter6');
+          var ids=initFilter();
+          ids=filterByDate(ids,dates);
+          ids=filterByKoronavirus(ids);
+          showAndHideByIds(ids);
+          $("#loading").fadeOut("slow");          
+          }
+        
+        
+        $('#butt_koronafilter').click(function(event) {             
+            event.preventDefault();
+            activateKoronavirusFilter();
+            });
+
+        $('#koronavirus-label').click(function(event) {             
+            event.preventDefault();
+            console.log('Přehled Koronavirus');
+            activateKoronavirusFilter();
+            });
+
         url=window.location.href;
         path=window.location.pathname;
         hash=window.location.hash;
@@ -1144,6 +1106,7 @@ pirates.integrations = {
           //$("#sticky-nav a").each(function(index) { $(this).addClass('loaded') });
           // $("#sticky-nav").addClass('loaded');
           console.log('all images are loaded');
+          console.log('imagesLoaded hash:'+hash);
 
           
           //show actual issue detail when hash or scroll to resort
@@ -1164,7 +1127,8 @@ pirates.integrations = {
               } else {
               // scroll to issue
               var target_id=hash.substr(1,5);
-              if (Number.isInteger(target_id)) { 
+              console.log('hash target id:'+target_id);
+              if (!isNaN(target_id)) { 
                 console.log('searching for id '+target_id);
                 if($("#"+target_id).length != 0) {
                   $('html, body').animate({
@@ -1268,6 +1232,11 @@ pirates.integrations = {
           } else if (permtype=='basic') {
             $('#datefilter').val(getUrlParameter('datefilter'));
             activateDateFilter();
+            
+          } else if (permtype=='koronavirus') {
+            $('#datefilter6').val(getUrlParameter('datefilter6'));
+            activateKoronavirusFilter();
+            $('#example-tabs').foundation('selectTab', 'koronavirus');
             
           } else {
           activateDateFilter();
@@ -1461,7 +1430,6 @@ pirates.integrations = {
               prirazeno=jmeno;
               }
 
-            
             // poladit aby to ukazovalo spravnym poslancum  
             $.each(poslanci, function( key, poslanec ) {
               if (doc.issues[i].tags.indexOf(slug(poslanec))>-1) {
@@ -1471,7 +1439,6 @@ pirates.integrations = {
                 }
               });
             // konec poladeni
-              
               
             ids[id]=0;      
             $.each(people, function( key, poslanec ) {
@@ -1499,6 +1466,17 @@ pirates.integrations = {
       return(ids);  
       }
 
+    function filterByKoronavirus(ids) {
+      for(var i in doc.issues) {
+        var id=doc.issues[i].id;
+        if (ids[id]==1) {
+          var prirazeno=false;            
+          if (doc.issues[i].tags.indexOf('korona')>-1) prirazeno=true;
+          if (prirazeno==false) ids[id]=0;
+          }  
+        }
+      return(ids);  
+      }
 
     function showAndHideByIdsMulti(ids,people) {
       var counter = 0;
@@ -1677,6 +1655,12 @@ getDates = function(el) {
     } else if (value=='y2019') {
     var today=new Date();
     var dod=new Date('2019-01-01');
+    var ddo=today;
+    //console.log(dod.toString()+' -> '+ddo.toString());
+    return({'od':dod,'do':ddo});
+    } else if (value=='y2020') {
+    var today=new Date();
+    var dod=new Date('2020-01-01');
     var ddo=today;
     //console.log(dod.toString()+' -> '+ddo.toString());
     return({'od':dod,'do':ddo});

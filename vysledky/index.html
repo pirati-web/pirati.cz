@@ -59,6 +59,7 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                       <li class="tabs-title"><a data-tabs-target="panel4" href="#panel4">Za týden</a></li>
                       --->
                       <li class="tabs-title"><a data-tabs-target="panel5" href="#panel5">Vlastní přehled</a></li>
+                      <li class="tabs-title"><a data-tabs-target="koronavirus" href="#koronavirus">Koronavirus</a></li>
                     </ul>
 
                     <div class="tabs-content" data-tabs-content="example-tabs">
@@ -69,7 +70,8 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                           <div class="small-7 medium-8 large-9 columns">
                               <select id='datefilter' class='multiselect'>
                                 <option value="all">Vše</option>
-                                <option value="y2019">Aktuální rok</option>
+                                <option value="y2020">Aktuální rok</option>
+                                <option value="y2019">Rok 2019</option>
                                 <option value="m6">Posledních 6 měsíců</option>
                                 <option value="m3">Poslední 3 měsíce</option>
                               </select>
@@ -94,7 +96,8 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                           <div class="small-12 medium-4 large-5 columns">
                               <select id='datefilter2' class='multiselect'>
                                 <option value="all">Vše</option>
-                                <option value="y2019">Aktuální rok</option>
+                                <option value="y2020">Aktuální rok</option>
+                                <option value="y2019">Rok 2019</option>
                                 <option value="m6">Posledních 6 měsíců</option>
                                 <option value="m3">Poslední 3 měsíce</option>
                               </select>
@@ -173,10 +176,12 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                               <select id='datefilter5' class='multiselect'>
                                 <optgroup label='Období'>
                                   <option value="all">Vše</option>
-                                  <option value="y2019">Aktuální rok</option>
+                                  <option value="y2020">Aktuální rok</option>
+                                  <option value="y2019">Rok 2019</option>
                                   <option value="m6">Posledních 6 měsíců</option>
                                   <option value="m3">Poslední 3 měsíce</option>
-                                </optgroup>  
+                                </optgroup>
+                                <!---  
                                 <optgroup label='Cykly Poslanecké sněmovny'>
                                   <option value="2019090220191013">2. 9. - 13. 10. 2019</option>
                                   <option value="2019051720190707">27. 5. - 7. 7. 2019</option>
@@ -184,12 +189,16 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                                   <option value="2019030420190414">4. 3. - 14. 4. 2019</option>
                                   <option value="2019012120190303">21. 1. - 3. 3. 2019</option>
                                   <option value="2018120320190120">3. 12. 2018 - 10. 1. 2019</option>                                
-                                </optgroup>  
+                                </optgroup>
+                                --->  
                                 <optgroup label='Poslední měsíce'>
+                                  <option value="2020030120200331">Březen 2020</option>                                
+                                  <option value="2020020120200229">Únor 2020</option>                                
+                                  <option value="2020010120200131">Leden 2020</option>                                
+                                  <option value="2019120120191231">Prosinec 2019</option>                                
                                   <option value="2019110120191130">Listopad 2019</option>                                
                                   <option value="2019100120191031">Říjen 2019</option>                                
                                   <option value="2019090120190930">Září 2019</option>                                
-                                  <option value="2019080120190831">Srpen 2019</option>                                
                                 </optgroup>  
                                 <optgroup label='Poslední týdny'>
                                   <option value="d7">Poslední týden</option>                                
@@ -239,6 +248,50 @@ redmine-json-url: https://redmineapitest.mfnet.cz
                         </div>
 
                       </div>
+
+                      <div class="tabs-panel" id="koronavirus">
+                      
+                        <div class="row">
+                          <div class="small-12 medium-6 large-9 columns">
+                              <select id='datefilter6' class='multiselect'>
+                                <optgroup label='Období'>
+                                  <option value="all">Vše</option>
+                                  <option value="y2020">Aktuální rok</option>
+                                  <option value="y2019">Rok 2019</option>
+                                  <option value="m6">Posledních 6 měsíců</option>
+                                  <option value="m3">Poslední 3 měsíce</option>
+                                </optgroup>
+                                <optgroup label='Poslední měsíce'>
+                                  <option value="2020040120200430">Duben 2020</option>                                
+                                  <option value="2020030120200331">Březen 2020</option>                                
+                                  <option value="2020020120200229">Únor 2020</option>                                
+                                  <option value="2020010120200131">Leden 2020</option>                                
+                                  <option value="2019120120191231">Prosinec 2019</option>                                
+                                </optgroup>  
+                                <optgroup label='Poslední týdny'>
+                                  <option value="d7">Poslední týden</option>                                
+                                  <option value="d14">Posledních 14 dnů</option>                                
+                                </optgroup>  
+                              </select>
+                          </div>
+                        
+                          <div class="small-12 medium-6 large-3 columns">
+                              <a class='butt' id='butt_koronafilter'>Zobraz výsledky</a>
+                          </div>
+                        </div>
+
+                        <div class="row">
+                          <div class="columns small-9 medium-10">
+                            <p class='nbm text-left'>Koronavirus</p>
+                          </div>  
+                          <div class="columns small-3 medium-2">
+                            <p class='nbm text-right' style='font-size:80%;'><a id='butt_koronafilter_permalink' href='#'><i class="fa fa-link" aria-hidden="true"></i>&nbsp;Permalink</a></p>
+                          </div>  
+                        </div>
+
+                      </div>
+                      
+                      
                     </div>
                   </div>
                   <div class="small-12 columns" >
