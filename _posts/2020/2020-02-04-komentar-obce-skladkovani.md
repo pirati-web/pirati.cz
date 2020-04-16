@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: Obce přicházejí o miliony za skládkování, nový zákon jejich problém zatím neřeší"
 image:        /assets/img/articles/2019/balcarova.jpg
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Ivana Bartoše: Podpořme všechny pracující, nikdo nesmí padnout na dno"
 image:        /assets/img/articles/2020/ivan-rouska-venku.jpeg
 author:       Ivan Bartoš
+authorId: ivan.bartos
 --- 
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Problémy v lékařské posudkové službě řeší vláda polovičatě"
 image:        /assets/img/articles/2019/olga-richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
 Praha, 13. ledna 2020 – Vláda se dnes na jednání věnovala situaci v lékařské posudkové službě. Ta dlouhodobě nezvládá vyřizovat žádosti o vydání posudků k žádostem o invalidní důchody nebo příspěvky na péči. Má přitom ročně na starosti zhruba 450 tisíc posudků a desítky tisíc kontrol. Tisíce lidí kvůli nefunkčnímu řízení LPS tak včas nedostávají finanční podporu, kterou nutně potřebují pro zvládání těžké životní situace. Často se do ní dostali například po závažném onemocnění nebo úrazu. Vládní návrh ovšem úlevu hned tak nepřinese. Na problémy upozorňuji dlouhodobě – formou interpelací, i v rámci svého působení ve Výboru pro sociální politiku. Navrhovaná řešení považuji stále za nedostatečná, proto se obracím na ministryni práce a sociálních věcí Janu Maláčovou s dalšími dotazy ve formě interpelace. Stále totiž zůstávají tisíce nevyřízených žádostí po lhůtě.

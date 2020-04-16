@@ -6,6 +6,7 @@ layout:       post
 title:        "Zakonzervování senátních obvodů povede k nerovnosti hlasů voličů"
 image:        /assets/img/articles/2020/navrkal.jpg
 author:       František Navrkal
+authorId: frantisek.navrkal
 ---
  
 

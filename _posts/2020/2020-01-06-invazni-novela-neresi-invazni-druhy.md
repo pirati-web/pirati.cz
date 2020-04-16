@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: Invazní novela Ministerstva životního prostředí paradoxně neřeší invazní druhy"
 image:        /assets/img/articles/2019/balcarova.jpg
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
  

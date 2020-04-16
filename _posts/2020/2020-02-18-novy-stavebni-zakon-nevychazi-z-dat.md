@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Františka Elfmarka: Nový stavební zákon nevychází z analytických dat, podle MMR by to bylo složité"
 image:        /assets/img/articles/2019/elfmark.jpg
 author:       František Elfmark
+authorId: frantisek.elfmark
 ---
 
 

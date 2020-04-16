@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Tomáše Martínka: Zvýšení daňové slevy na poplatníka a její předčasné vyplacení pomůže občanům ekonomicky ustát období epidemie"
 image:        /assets/img/articles/2020/martinek1.jpg
 author:       Tomáš Martínek
+authorId: tomas.martinek
 --- 
 
 

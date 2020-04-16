@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Lukáše Bartoně: Piráti prosadili více času pro studenty k předložení dokladů o splnění podmínek pro přijetí k vysokoškolskému studiu"
 image:        /assets/img/articles/2020/barton.jpg
 author:       Lukáš Bartoň
+authorId: lukas.barton
 --- 
 
 

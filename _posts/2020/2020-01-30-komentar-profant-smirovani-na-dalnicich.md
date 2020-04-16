@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Ondřeje Profanta: Ministr Havlíček dnes přislíbil, že plošné šmírování kvůli dálničním známkám nebude"
 image:        /assets/img/articles/2020/profant.jpg
 author:       Ondřej Profant
+authorId: ondrej.profant
 ---
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Lukáše Koláříka: Návrh na změkčení exekucí nemyslí na nové dlužníky"
 image:        /assets/img/articles/2020/kolarik.jpg
 author:       Lukáš Kolářík
+authorId: lukas.kolarik
 --- 
 
 Praha, 1. dubna 2020 – Podle Pirátů je nezbytné přijmout opatření na změkčení exekucí tak, abychom zmírnili dopady krize spojené s šířením koronaviru nejen na současné dlužníky, ale i na ty budoucí. Rodící se společný návrh na úpravu systému exekucí a insolvencí, který dnes projednával podvýbor pro exekuce a ochranu spotřebitele, bohužel však není dostatečný a zbytečně se drží při zemi. S Piráty proto navrhujeme, aby se plošně zastavilo nařizování exekucí, dokud Sněmovna nepřijme nová pravidla pro přidělování exekucí. Noví dlužníci by se tak již řídili novým systémem. Nabízí se tak nyní otevřený vládní návrh, v jehož rámci vybíráme novou variantu rozdělování exekucí, a u kterého bychom měli zrychlit projednávání. 

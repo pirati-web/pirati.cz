@@ -6,6 +6,7 @@ layout:       post
 title:        "Vládě chybí vize a funkční strategie k boji proti chudobě"
 image:        /assets/img/articles/2019/richterova-pult.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
 

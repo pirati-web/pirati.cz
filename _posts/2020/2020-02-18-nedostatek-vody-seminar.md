@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: Nedostatek vody vyřeší podpora jejího zadržování v krajině, péče o ekosystémy a vývoj nových technologií"
 image:        /assets/img/articles/2020/balcarova-voda.jpg
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
 

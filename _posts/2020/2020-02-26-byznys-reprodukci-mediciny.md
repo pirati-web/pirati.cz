@@ -6,6 +6,7 @@ layout:       post
 title:        "Reprodukční medicína se nesmí stát bezohledným byznysem"
 image:        /assets/img/articles/2020/richterova1.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 --- 
 
 

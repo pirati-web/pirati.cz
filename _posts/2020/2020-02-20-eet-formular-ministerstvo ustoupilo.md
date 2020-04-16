@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Ministerstvo vyhovělo Pirátům. Zruší formulář o pěti stech položkách pro zvláštní režim EET"
 image:        /assets/img/articles/2019/mikulas-ferjencik.jpg
 author:       Mikuláš Ferjenčík
+authorId: mikulas.ferjencik
 --- 
 
  

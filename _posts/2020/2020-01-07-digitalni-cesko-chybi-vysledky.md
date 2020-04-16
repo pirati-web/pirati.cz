@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Ondřeje Profanta: Program Digitální Česko – plány nechybí, výsledky ano"
 image:        /assets/img/articles/2019/profant99.jpg
 author:       Ondřej Profant
+authorId: ondrej.profant
 ---
 
 

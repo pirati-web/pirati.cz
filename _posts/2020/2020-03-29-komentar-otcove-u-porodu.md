@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Ministerstvo zdravotnictví na můj návrh umožnilo doprovod u porodu ve výjimečných případech. Nechte přítomnost otců u porodu na uvážení porodnic!"
 image:        /assets/img/articles/2020/richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 --- 
 
 

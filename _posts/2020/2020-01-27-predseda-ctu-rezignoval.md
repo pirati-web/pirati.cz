@@ -6,6 +6,7 @@ layout:       post
 title:        "Předseda Rady ČTÚ rezignoval, vláda následně projednala 5G aukce neveřejně. Co bude dál s aukcí na příchod čtvrtého operátora?"
 image:        /assets/img/articles/2019/martin-jiranek.jpg
 author:       Martin Jiránek
+authorId: martin.jiranek
 ---
 
  

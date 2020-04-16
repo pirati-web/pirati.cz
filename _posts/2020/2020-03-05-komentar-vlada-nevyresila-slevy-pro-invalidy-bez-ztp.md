@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Vláda stále nezvládla vyřešit slevy na jízdné pro invalidy, kteří nemají průkaz ZTP"
 image:        /assets/img/articles/2019/richterova-pult.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 --- 
 
 

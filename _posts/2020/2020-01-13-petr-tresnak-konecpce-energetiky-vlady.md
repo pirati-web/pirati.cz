@@ -6,6 +6,7 @@ layout:       post
 title:        "Česko si zaslouží posunout energetiku do 21. století, koncepce vlády je příliš konvenční"
 image:        /assets/img/articles/2019/petr-tresnak.jpg
 author:       Petr Třešňák
+authorId: petr.tresnak
 ---
 
 

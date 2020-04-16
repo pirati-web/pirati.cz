@@ -6,6 +6,7 @@ layout:       post
 title:        "Pod tlakem Piratů přislíbil ministr zdravotnictví vznik registru dárkyň vajíček"
 image:        /assets/img/articles/2020/richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
  

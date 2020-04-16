@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Vládní poslanci se postavili zády k pracovníkům na dohodu"
 image:        /assets/img/articles/2020/ferjencik.jpg
 author:       Mikuláš Ferjenčík
+authorId: mikulas.ferjencik
 --- 
 
 

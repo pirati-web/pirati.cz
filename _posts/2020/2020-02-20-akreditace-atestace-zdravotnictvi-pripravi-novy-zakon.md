@@ -6,6 +6,7 @@ layout:       post
 title:        "Na žádost Pirátů připraví rezort zdravotnictví zákon řešící uznání působení studujících lékařů na neakreditovaných pracovištích"
 image:        /assets/img/articles/2020/tresnak.jpg
 author:       Petr Třešňák
+authorId: petr.tresnak
 ---
 
 

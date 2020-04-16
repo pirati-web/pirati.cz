@@ -6,6 +6,7 @@ layout:       post
 title:        "Zásah NCOZ na MPSV? Piráti upozorňují na podezřelé IT zakázky už dva roky"
 image:        /assets/img/articles/2020/kolarik.jpg
 author:       Lukáš Kolářík
+authorId: lukas.kolarik
 --- 
 
 

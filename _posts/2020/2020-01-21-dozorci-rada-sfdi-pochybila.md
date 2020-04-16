@@ -6,6 +6,7 @@ layout:       post
 title:        "SFDI vědomě pochybil při vypsání zakázky na e-shop, dozorčí rada by měla být odvolána"
 image:        /assets/img/articles/2019/ondrej-profant1.jpg
 author:       Ondřej Profant
+authorId: ondrej.profant
 ---
  
 Praha, 21. ledna 2020 - Státní fond dopravní infrastruktury při vypsání zakázky na e-shop na elektronické známky vědomě obešel Centrum dopravních informačních systémů Ministerstva dopravy ČR. Jako jednu z podmínek uvedl nutnost bezpečnostní prověrky. Tím a dalšími nekompetentními kroky zakázku výrazně prodražil. Na základě toho jsem dnes navrhnul zařazení bodu na jednání Poslanecké sněmovny, kterým je odvolání Dozorčí rady SFDI. Koaliční většinou nebyl ale tento návrh přijat a vládní poslanci tak přikryli pochybení SFDI.

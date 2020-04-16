@@ -6,6 +6,7 @@ layout:       post
 title:        "Jaká bude personální budoucnost úřadu ombudsmana?"
 image:        /assets/img/articles/2020/richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 --- 
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Náměstek Prymula přislíbil účast otců u porodu už za dva dny, potvrdí to vláda?"
 image:        /assets/img/articles/2020/olga-richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterová
 --- 
 
 

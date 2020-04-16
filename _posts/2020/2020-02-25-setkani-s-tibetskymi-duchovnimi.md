@@ -6,6 +6,7 @@ layout:       post
 title:        "Na setkání s tibetskými duchovními v ČR navážeme návštěvou tibetské exilové vlády u příležitosti výročí tibetského národního povstání"
 image:        /assets/img/articles/2020/tibet3.jpg
 author:       František Kopřiva
+authorId: frantisek.kopriva
 --- 
 
 

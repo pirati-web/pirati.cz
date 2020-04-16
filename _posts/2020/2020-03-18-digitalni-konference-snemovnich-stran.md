@@ -6,6 +6,7 @@ layout:       post
 title:        "Na úterní digitální konferenci s premiérem a zástupci sněmovních stran proberou Piráti návrhy pro odlehčení ekonomické zátěže našich občanů"
 image:        /assets/img/articles/2020/bartos-rouska.jpg
 author:       Ivan Bartoš
+authorId: ivan.bartos
 --- 
 
 

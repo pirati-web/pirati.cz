@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Piráti chtějí pomoc pro všechny rodiče, i ty pracující na dohodu"
 image:        /assets/img/articles/2020/richterova1.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 --- 
 
 

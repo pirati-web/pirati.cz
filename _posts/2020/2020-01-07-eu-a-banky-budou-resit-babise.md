@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář senátora Lukáše Wagenknechta: Banky a Evropská komise budou řešit možné porušení pravidel proti praní špinavých peněz společností premiéra Babiše"
 image:        /assets/img/articles/2019/wagenknecht98.png
 author:       Lukáš Wagenknecht
+authorId: lukas.wagenknecht
 ---
 
 

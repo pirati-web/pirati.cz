@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Vláda přistoupila na ekonomická opatření navržená Piráty, přikročí i k dočasnému omezení odvodů za zaměstnance firem a OSVČ?"
 image:        /assets/img/articles/2020/ferjencik.jpg
 author:       Mikuláš Ferjenčík
+authorId: mikulas.ferjencik
 --- 
 
 
