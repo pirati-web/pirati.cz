@@ -1,5 +1,5 @@
 ---
-date:         2020-04-16
+date:         2020-04-17
 category:     blog
 tags:         koronavirus zdravotnictví kontrola-moci-a-mocných
 layout:       post
