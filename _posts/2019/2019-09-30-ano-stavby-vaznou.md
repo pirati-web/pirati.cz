@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Ondřeje Polanského: Velké dopravní stavby pod vedením hnutí ANO váznou. Čtyři ze šesti městských okruhů se letos nezahájí podle plánu"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
 author:       Ondřej Polanský
+authorId:       ondrej.polansky
 ---
 
   

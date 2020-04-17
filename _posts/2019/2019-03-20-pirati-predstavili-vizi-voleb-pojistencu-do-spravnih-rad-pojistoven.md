@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti představili vizi pro způsob volby pojištěnců do správních rad zdravotních pojišťoven"
 image:        /assets/img/articles/2019/petr-tresnak.jpg
 author:       Petr Třešňák
+authorId: petr.tresnak
 ---
 
 Praha, 20. března 2019 – Poslanec Pirátů Petr Třešňák dnes na tiskové konferenci představil pirátský návrh na zavedení způsobu volby pojištěnců do správních rad oborových zdravotních pojišťoven. Piráti chtějí prosadit přímou volbu zástupců pojištěnců do správních rad zaměstnaneckých pojišťoven. Že současný systém obsazování správních rad neodpovídá Ústavě ČR konstatoval Ústavní soud již v září 2018. Na něj se v roce 2015 obrátila senátorka Alena Dernerová, která se dnešní tiskové konference rovněž zúčastnila. Svým rozhodnutím soud otevřel otázku, jakým způsobem mají být voleni zástupci do správních rad zdravotních pojišťoven.

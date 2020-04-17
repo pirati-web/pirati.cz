@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář předsedy Pirátů Ivana Bartoše: Nekompetentní výroky koordinátorky Vedralové škodí české protidrogové politice"
 image:        /assets/img/articles/2019/ivan-bartos-zelena.jpg 
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Praha, 10. ledna 2019 – Úřad vlády podle nás překračuje své kompetence, když kariérní úřednici – národní protidrogové koordinátorce Jarmile Vedralové – dává možnost se veřejně vyjadřovat ke zdravotním tématům, která nejsou v její odborné kompetenci ani odborných znalostech a schopnostech. Národní protidrogová koordinátorka Jarmila Vedralová se kriticky vyjadřuje například k pirátskému návrhu na regulaci pěstování konopí pro vlastní potřebu, který prošel rozsáhlou veřejnou konzultací a získal podporu laické i odborné veřejnosti. Naposledy své nekompetentní výroky Jarmila Vedralová prezentovala  poslední prosincový den v rozhovoru pro Hospodářské noviny. Jménem Pirátské strany proto žádám, aby tyto a podobné názory nebyly vydávány jako názory odborné. Tímto způsobem totiž manipulují politickou debatu zvolených sněmovních zástupců, a především matou veřejnost.

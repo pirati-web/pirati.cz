@@ -6,6 +6,7 @@ layout:       post
 title:        "Důvěryhodnost úřadu ombudsmana v ohrožení – Piráti varují před volbou Zdeňka Koudelky"
 image:        /assets/img/articles/2019/olga-richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
 Praha, 13. března 2019 – Sněmovna dnes zvolí nového zástupce Veřejného ochránce práv (VOP), jelikož mandát skončí Stanislavu Křečkovi. Piráti znovuzvolení Stanislava Křečka nepodporují, zejména kvůli nevhodným vyjádřením na adresu lidských práv a zpochybňování boje proti korupci. Skutečným ohrožením důvěryhodnosti úřadu VOP je ovšem podle Pirátů volba údajného spoluautora Klausovy amnestie včetně velice problémové aboliční části – Zdeňka Koudelky. Piráti naopak podporují zvolení ústavní expertky Elišky Wagnerové, která má jednak významné zkušenosti při posuzování složitých případů, a zároveň je nezávislou a odbornou veřejností respektovanou osobou. Posledním čtvrtým kandidátem je Markéta Selucká, která je dle Pirátů rovněž vhodnou kandidátkou.

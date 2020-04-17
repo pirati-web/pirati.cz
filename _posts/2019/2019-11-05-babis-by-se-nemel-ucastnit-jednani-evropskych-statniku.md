@@ -6,6 +6,7 @@ layout:       post
 title:        "Bartoš: Andrej Babiš by neměl hostit ani se účastnit jednání evropských státníků, ze kterých může profitovat holding Agrofert"
 image:        /assets/img/articles/2019/ivan-podzim.jpg
 author:       Ivan Bartoš
+authorId:       ivan.bartos
 ---
 
 Praha, 5. listopadu 2019 – „Předseda vlády Andrej Babiš je dle celé řady důkazů ve střetu zájmů a měl by mít proto povinnost se zdržet jednání, ze kterého by mohl mít přímý prospěch prostřednictvím koncernu Agrofert,” uvedl předseda Pirátů Ivan Bartoš. Český premiér byl před několika dny v prestižním deníku The New York Times popsán jako oligarcha, který je největším příjemcem zemědělských dotací v ČR. Přesto právě dnes Andrej Babiš hostí summit 10 premiérů členských zemí EU, na kterém se mimo jiné projednává finanční rámec unie na léta 2021-2027, jehož hlavní část tvoří zemědělská dotační politika. Děje se tak v situaci, kdy Evropská komise dokončuje finální auditní zprávu o střetu zájmů Andreje Babiše a Soudní dvůr Evropské unie se zabývá střetem zájmů členů vlády s ohledem na jejich účast na Evropské radě při jednání o zemědělské dotační politice.   

@@ -6,6 +6,7 @@ layout:       post
 title:        "Fungující propojení domácí a evropské politiky je pro nás výzvou, uvedl Ivan Bartoš na Celostátním fóru Pirátů"
 image:        /assets/img/articles/2019/cf-bartos.jpg 
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Tábor, 19. ledna 2019 – Na Celostátním fóru Pirátů dnes vystoupil předseda Pirátů Ivan Bartoš se Zprávou o stavu České pirátské strany. Ve své řeči zhodnotil proces transformace strany v uplynulém roce, pozici Pirátů ve Sněmovně i na radnicích a pirátskou strategii. Představil také ambice strany do voleb do Evropského parlamentu – získat v nadcházejících evropských volbách 20 procent a vyhrát. 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti budou usilovat o jasné podmínky pro sdílené bydlení"
 image:        /assets/img/articles/2018/michalek-airbnb.jpeg
 author:       Jakub Dušánek
+authorId: jakub.dusanek
 ---
  
 

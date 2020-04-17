@@ -6,6 +6,7 @@ layout:       post
 title:        "Zjištění zprávy OSN o stavu životního prostředí ve světě jsou alarmující"
 image:        /assets/img/articles/2019/balcarova.jpg
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
 

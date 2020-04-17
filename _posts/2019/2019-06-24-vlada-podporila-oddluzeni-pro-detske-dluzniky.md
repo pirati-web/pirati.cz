@@ -6,6 +6,7 @@ layout:       post
 title:        "Vláda podpořila oddlužení pro dětské dlužníky"
 image:        /assets/img/articles/2019/lukas-kolarik.jpg
 author:       Lukáš Kolařík
+authorId: lukas.kolarik
 ---
 
 Praha, 24. června 2019 – Vláda dnes dala zelenou Piráty podporované a spolupředložené novele insolvenčního zákona, která má ulehčit oddlužení těm, kteří se zadlužili ještě jako děti. Soudy tak dle nových pravidel budou moci rychleji oddlužit oběti závratných sum, které naboptnaly na původně stokorunových pohledávkách neřešených zákonnými zástupci nezletilých. Zákon podpořený všemi sněmovními stranami nyní putuje do Sněmovny, kde může být schválen hned v prvním čtení. 

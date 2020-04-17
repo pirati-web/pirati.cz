@@ -6,6 +6,7 @@ layout:       post
 title:        "Pirát Holomčík vyzval premiéra Babiše k podpoře návrhu na zrušení povinnosti přimíchávat biopaliva do pohonných hmot"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
 author:       Radek Holomčík
+authorId: radek.holomcik
 ---
 
 Praha, 7. března 2019 – Pirátský poslanec Radek Holomčík dnes v rámci interpelací nabídl premiérovi Babišovi, aby se spolupodílel na Piráty připravené novele zákona o ochraně ovzduší, která má rušit povinnost přimíchávat biopaliva do pohonných hmot. Reagoval tak na premiérův proslov z únorového sněmu hnutí ANO. 

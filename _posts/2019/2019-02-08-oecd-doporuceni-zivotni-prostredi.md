@@ -6,6 +6,7 @@ layout:       post
 title:        "Dana Balcarová: Doporučení OECD v oblasti životního prostředí by měla být inspirací pro vládu"
 image:        /assets/img/articles/2019/balcarova-video.jpg
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
 

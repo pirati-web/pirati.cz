@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: Sněmovna přiznala ekologům právo zapojit se do prevence ekologické újmy, odmítla ale rozšířit ochranu druhů a půdy"
 image:        /assets/img/articles/2019/balcarova-snemovna.jpg 
 author:       Dana Balcarová
+authorId: dana.balcarova
 ---
 
 

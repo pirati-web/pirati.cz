@@ -6,6 +6,7 @@ layout:       post
 title:        "Národní sportovní agentura bude sloužit především hrstce vybraných, varují Piráti"
 image:        /assets/img/articles/2019/barton-lukas.jpg
 author:       Lukáš Bartoň
+authorId: lukas.barton
 ---
 
 Praha, 13. března 2019 – Poslanecká sněmovna dnes schválila novelu zákona o podpoře sportu, která zakládá Národní sportovní agenturu. Ta nebude podléhat žádnému ministerstvu. Piráti proto varují před způsobem, jakým mohou být finance rozdělovány. Obávají se, že peníze namísto podpory volnočasového sportu pro širokou veřejnost skončí hlavně u těch, kdo peníze dále přerozdělují. Problematické podle Pirátů tedy je, že na rozhodování o přidělování dotací se budou zřejmě podílet velké sportovní asociace, které jsou zároveň příjemci dotací. Strana upozorňuje, že hospodaření ve sportu nebude dostatečně transparentní. 

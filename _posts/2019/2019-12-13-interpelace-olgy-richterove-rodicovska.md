@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Jak bude veřejnost informována o možnostech navýšení rodičovského příspěvku? Obávám se, že MPSV zaspalo"
 image:        /assets/img/articles/2019/olga111.jpg
 author:       Olga Richterová
+authorId:       olga.richterova
 ---
 
  

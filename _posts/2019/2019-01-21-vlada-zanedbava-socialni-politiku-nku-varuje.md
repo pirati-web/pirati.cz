@@ -6,6 +6,7 @@ layout:       post
 title:        "Vláda dlouhodobě zanedbává sociální politiku. Kontrolní závěry NKÚ o sociálním bydlení jsou alarmující"
 image:        /assets/img/articles/2018/16528Richterova.jpg 
 author:       Olga Richterová
+authorId: olga.richterová
 ---
 
 Praha, 21. ledna 2019 – Piráti jsou zásadně znepokojeni závěry kontrolní akce NKÚ, jejímž cílem bylo prověřit, zda vybrané státní intervence v oblasti takzvaného sociálního bydlení přispěly k efektivnímu řešení příčin sociálního vyloučení nebo ohrožení sociálním vyloučením. Piráti upozorňují na skutečnost, že v oblasti sociálního bydlení chybí relevantní legislativa, zainteresované instituce nejsou dostatečně koordinovány a s příspěvky na bydlení není nakládáno efektivně. 

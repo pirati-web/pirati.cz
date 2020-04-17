@@ -6,6 +6,7 @@ layout:       post
 title:        "Sněmovna přijala oddlužení pro dětské dlužníky"
 image:        /assets/img/articles/2019/lukas-kolarik1.jpg
 author:       Lukáš Kolařík
+authorId: lukas.kolarik
 ---
 
 Praha, 10. července 2019 – Poslanecká sněmovna dnes schválila Piráty spolupředloženou novelu insolvenčního zákona, která má ulehčit oddlužení těm, kteří se zadlužili ještě jako děti. Soudy tak dle nových pravidel budou moci rychleji oddlužit oběti závratných sum, které naboptnaly na původně stokorunových pohledávkách neřešených zákonnými zástupci nezletilých. Zákon podpořený všemi sněmovními stranami nyní putuje do Senátu.

@@ -6,6 +6,7 @@ layout:       post
 title:        "Založit firmu půjde za jeden den a online. Piráti připravili potřebnou legislativu"
 image:        /assets/img/articles/2019/firma-za-den.jpg 
 author:       Martin Jiránek
+authorId: marin.jiranek
 ---
 
 Praha, 31. ledna 2019 - Piráti dnes společně s poslanci ANO a ODS představili přelomový návrh novely, která umožní založení firmy přes internet během jednoho dne díky aplikaci vytvořené Piráty. Celý proces se tak zjednoduší, zrychlí a zlevní. Strana přišla s webem urad.pirati.cz, kde prezentuje vlastní software, který podnikatelům umožní reálně založit firmu online již dnes. Tuto aplikaci nabízí k využití i státu skrze Ministerstvo spravedlnosti. Návrh pirátských poslanců Ondřeje Profanta a Martina Jiránka má již podporu poslanců z ANO, ČSSD, ODS, SPD, KDU-ČSL, TOP 09 a STAN.

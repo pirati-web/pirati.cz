@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti podpoří zákon proti kumulaci odměn a senátní daňový balíček. V pátek chtějí jednat o změně klimatu"
 image:        /assets/img/articles/2019/tk-2019.jpg
 author:       Ondřej Polanský
+authorId: ondrej.polansky
 ---
 
 Praha, 12. března 2019 – Zákon omezující kumulaci odměn za výkon více funkcí, zákon o zpracování osobních údajů, senátní daňový balíček, projednání bodu ke změně klimatu, boj proti kůrovci – tato témata uvedli Piráti jako své priority na pravidelném tiskovém brífinku Pirátů před pokračováním 27. schůze Poslanecké sněmovny PČR.

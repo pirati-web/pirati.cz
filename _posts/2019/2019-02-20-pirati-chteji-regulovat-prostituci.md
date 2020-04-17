@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti chtějí regulovat prostituci"
 image:        /assets/img/articles/2019/tk-regulace.jpg
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 20. února 2019 – Piráti dnes představili teze k regulaci prostituce, která má podle nich přinést ročně do státní pokladny jednu miliardu korun. Cílem Pirátů je omezit šedou ekonomiku, trestnou činnost a zdravotní rizika. Jako první krok předložili vypovězení mezinárodní úmluvy, která regulaci prostituce brání. 

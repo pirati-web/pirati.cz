@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Jakuba Michálka: Jak plnila vláda protikorupční program v roce 2018? Odmakali to za ni Piráti"
 image:        /assets/img/articles/2018/michalek-4.jpg 
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Zákon proti politickým trafikám prošel prvním čtením"
 image:        /assets/img/articles/2019/michalek-list.jpg 
 author:       Jakub Dušánek
+authorId: jakub.dusanek
 ---
 
 

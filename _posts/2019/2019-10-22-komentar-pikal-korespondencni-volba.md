@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Vojtěcha Pikala: Vláda konečně začala řešit korespondenční volbu prosazovanou Piráty"
 image:        /assets/img/articles/2019/vojtech-pikal.jpg
 author:       Vojtěch Pikal
+authorId:       vojtech.pikal
 ---
 
 

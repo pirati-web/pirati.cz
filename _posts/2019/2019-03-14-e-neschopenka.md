@@ -6,6 +6,7 @@ layout:       post
 title:        "Vládní tanečky okolo eNeschopenky nás mohou vrátit o rok a půl zpátky. Vládo, nevyhazuj miliony oknem! "
 image:        /assets/img/articles/2019/lukas-kolarik.jpg
 author:       Lukáš Kolařík
+authorId: lukas.kolarik
 ---
 
 Praha, 14. března 2019 – Návrh exministryně práce a sociálních věcí Jaroslavy Němcové, který měl rozbít stamilionový projekt resortních IT systémů, se setkal s tvrdým odporem politiků i odborné veřejnosti. Výbor pro sociální politiku doporučil návrh zamítnout a vláda ve svém deset dní starém usnesení dokonce stáhnout. Přesto je tento návrh týkající se zejména eNeschopenky zařazen na zítřejší jednání Sněmovny. Vypadá to tedy tak, že vláda své rozhodnutí změnila na svém pondělním zasedání, ze kterého stále nezveřejnila zápis.

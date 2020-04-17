@@ -6,6 +6,7 @@ layout:       post
 title:        "Elfmark: Nový stavební zákon nesmí podněcovat korupci"
 image:        /assets/img/articles/2019/elfmark.jpg
 author:       František Elfmark
+authorId: frantisek.elfmark
 ---
 
 Praha, 2. dubna 2019 – Pirátský poslanec František Elfmark podpořil varování ve věci věcného záměru stavebního zákona Ministerstva pro místní rozvoj ČR, se kterým v pátek přišly Bezpečnostní informační služby (BIS). Ty poukázaly na korupční riziko a možné nebezpečné ohýbání systému, které záměr obsahuje. Piráti v této věci zaslali už 26. února 2019 ministerstvu své připomínky, na jejich vypořádání však stále čekají. 

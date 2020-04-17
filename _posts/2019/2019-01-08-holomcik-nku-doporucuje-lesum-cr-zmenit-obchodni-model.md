@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Radka Holomčíka: Kontrola NKÚ potvrdila nutnost urychleně změnit obchodní model Lesů ČR"
 image:        /assets/img/articles/2018/holomcik.jpg 
 author:       Radek Holomčík
+authorId: radek.holomčík
 ---
 
 

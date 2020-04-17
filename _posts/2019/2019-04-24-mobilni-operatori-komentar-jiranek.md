@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti se podílí na vzniku zákona, který zlepší postavení zákazníků u mobilních operátorů"
 image:        /assets/img/articles/2019/jiranek.jpg
 author:       Martin Jiránek
+authorId: martin.jiranek
 ---
 
 

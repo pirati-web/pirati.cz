@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti budou hlasovat pro senátní verzi zákona o státní službě a opět mají příslib hnutí ANO, že podpoří pirátskou verzi zákona o registru smluv"
 image:        /assets/img/articles/2019/TK26schuze.jpg 
 author:       Jakub Dušánek
+authorId: jakub.dusanek
 ---
 
 Praha, 22. ledna 2019 – Zákon o státní službě, ovlivňování rozhodnutí soudců, plánovaná třetí a čtvrtá vlna EET, neustálé problémy s dopravou, tvrdý brexit a karenční doba. To byla hlavní témata pravidelného brífinku Pirátů, kterým se věnovali před započetím 26. schůze Poslanecké sněmovny Parlamentu ČR. V návrhu pořadu této schůze je více než 200 bodů.

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Olgy Richterové: Pane premiére, proč neřešíte palčivý problém s dostupným a obecním bydlením?"
 image:        /assets/img/articles/2019/richterova99.jpg
 author:       Olga Richterová
+authorId:       olga.richterova
 ---
 
 Praha, 11. prosince 2019 – Institut INESAN včera zveřejnil reprezentativní výzkum realizovaný pro Ministerstvo práce a sociálních věcí ČR.  Podle 93 procent dotázaných lidí v Česku je podpora v bydlení potřebná. Podle čtyř pětin respondentů současné počty sociálních bytů nestačí a 85 procent dotázaných podporuje vznik zákona, který by měl řešit právě oblast sociálního bydlení. S ohledem na požadavky veřejnosti se formou písemné interpelace ptám předsedy vlády Andreje Babiše, který má zákon o sociálním bydlení ve společném programu, ale vůbec ho neřeší, na následující:        

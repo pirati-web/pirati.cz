@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti vyzvali vládu k okamžité akci kvůli policejnímu vyšetřování předsedy antimonopolního úřadu"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
 author:       Petr Třešňák
+authorId: petr.tresnak
 ---
 
 Praha, 21. března 2019 - Předseda poslaneckého klubu Pirátů Jakub Michálek interpeloval vládu, jak vyhodnotila informace z policejních dokumentů zveřejněných v médiích, dle kterých policie podezírá předsedu antimonopolního úřadu Petra Rafaje z manipulace s mýtným tendrem a dalších prověřovaných zakázek.

@@ -6,6 +6,7 @@ layout:       post
 title:        "Registr smluv, autorský zákon, eNeschopenka – Sněmovna bude tento týden řešit klíčové body pirátského programu"
 image:        /assets/img/articles/2019/tk26schuze-pokrac.JPG 
 author:       Jakub Dušánek
+authorId: jakub.dusanek
 ---
 
 Praha, 29. ledna 2019 – Zákon o registru smluv, platy poslanců, autorský zákon a nemocenské pojištění byly hlavními tématy Pirátů na tiskové konferenci před pokračováním 26. schůze Poslanecké sněmovny.  

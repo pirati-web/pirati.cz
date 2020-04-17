@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti zaslali ministrovi návrhy, jak zrychlit soudy: Omezit zbytečnou represi, analyzovat rozdíly mezi soudy, vymáhat škodu po odsouzených soudcích a povolit hromadné žaloby"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
 author:      Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 14. února 2019 - Celkem čtyři interpelace podal pirátský poslanec Jakub Michálek na ministra spravedlnosti Jana Kněžínka, ve kterých řeší nedostatky v rychlosti soudních řízení. Patří mezi ně velké rozdíly ve výkonnosti jednotlivých soudů, otázka vymáhání škody po kárně odsouzených soudcích či nemožnost uplatňovat po státu škodu v připravovaných hromadných žalobách. Návrh se opírá o analýzu vypracovanou advokátem Davidem Záhumenským, který se profesně věnuje průtahům v soudních řízeních. 

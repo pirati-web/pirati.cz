@@ -6,6 +6,7 @@ layout:       post
 title:        "Omezení pravomocí ředitelů škol a další celoplošné testování – ministr Plaga ustoupil požadavkům krajů"
 image:        /assets/img/articles/2018/barton.jpg
 author:       Lukáš Bartoň
+authorId: lukas.barton
 ---
 
 

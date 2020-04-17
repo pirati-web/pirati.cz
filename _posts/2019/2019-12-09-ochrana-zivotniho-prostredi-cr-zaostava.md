@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: Zpráva o životním prostředí ukazuje, že Česká republika v ochraně životního prostředí zaostává"
 image:        /assets/img/articles/2019/balcarova-snemovna.jpg
 author:       Dana Balcarová
+authorId:       dana.balcarova
 ---
 
 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti prosadili rozšíření pravomocí NKÚ, nově by měl kontrolovat i města a kraje"
 image:        /assets/img/articles/2019/cernohorsky2.jpg
 author:       Lukáš Černohorský
+authorId: lukas.cernohorsky
 ---
 
 Praha, 13. února 2019 - Poslanci dnes v prvním čtení schválili Piráty navrhovanou změnu Ústavy ČR, která nově umožní, aby mohl Nejvyšší kontrolní úřad kontrolovat také státní instituce, města a kraje. V souvislosti s tím Sněmovna přijala také návrh zákona pirátského poslance Lukáše Černohorského na rozšíření pravomocí NKÚ, který úpravu konkretizuje. 

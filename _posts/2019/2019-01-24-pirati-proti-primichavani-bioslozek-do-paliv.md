@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti navrhují zrušení povinnosti přimíchávat biopaliva do pohonných hmot"
 image:        /assets/img/articles/2019/holomcik-radek.jpg 
 author:       Radek Holomčík, Dana Balcarová
+authorId: radek.holomcik
 ---
 
 Praha, 24. ledna 2019 - Pirátští poslanci Radek Holomčík a Dana Balcarová připravili návrh novely zákona o ochraně ovzduší, která ruší povinnost přimíchávat biopaliva do pohonných hmot. Cílem návrhu je zastavit znehodnocování zemědělské půdy pěstováním energetických plodin jako jsou např. řepka či kukuřice a vytvořit tlak na vládu, aby řešila budoucnost snižování emisí a závislost na fosilních palivech. Mezinárodní závazek ČR o snižování emisí v dopravě je návrhem nedotčen.

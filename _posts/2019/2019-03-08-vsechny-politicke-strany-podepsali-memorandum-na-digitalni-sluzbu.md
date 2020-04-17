@@ -6,6 +6,7 @@ layout:       post
 title:        "Všechny politické strany podepsaly memorandum o podpoře zákona o právu na digitální službu. Návrh jde do Sněmovny v březnu"
 image:        /assets/img/articles/2019/ivan-navrh2.jpg
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Praha, 8. března 2019 - Revoluční zákon o právu na digitální službu má podporu Pirátů i všech ostatních sněmovních stran, vládního zmocněnce pro IT a digitalizaci Dzurilly, ministra vnitra Jana Hamáčka i premiéra Andreje Babiše. Zástupci poslaneckých klubů včetně ministra dnes podepsali memorandum, které garantuje podporu zákona v následujícím období ve Sněmovně a zavazuje všechny aktéry ke spolupráci. Na základě zákona bude stát svým občanům garantovat možnost komunikovat s úřady státu čistě elektronicky, a to do pěti let od jeho přijetí.

@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Dany Balcarové: NKÚ potvrdil obavy Pirátů, kvůli znečištění stále umírají tisíce lidí"
 image:        /assets/img/articles/2019/balcarova.jpg 
 author:       Jakub Dušánek
+authorId: jakub.dusanek
 ---
 
 Praha, 28. ledna 2019 – Peníze na podporu zlepšování kvality ovzduší v ČR se nevyužívají efektivně, vyplývá z kontroly Nejvyššího kontrolního úřadu. V dnes zveřejněné prověrce kvality ovzduší se potvrdila dlouhodobá stanoviska Pirátů k problémům životního prostředí.

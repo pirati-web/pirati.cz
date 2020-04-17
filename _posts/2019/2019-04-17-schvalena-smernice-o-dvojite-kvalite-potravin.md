@@ -6,6 +6,7 @@ layout:       post
 title:        "Europarlament odhlasoval směrnici umožňující výrobu potravin ve dvojí kvalitě"
 image:        /assets/img/articles/2019/europarlament.jpg
 author:       Marcel Kolaja
+authorId: marcel.kolaja
 ---
 
 Praha, 17. dubna 2019 – Europoslanci dnes odhlasovali směrnici, která dále umožňuje výrobu potravin ve dvojí kvalitě. Výrobky se tak mohou i nadále v Evropě prodávat pod stejným názvem, ale v různé kvalitě. Směrnice obsahuje tolik výjimek, že produkci odlišných výrobků vlastně legalizuje. Budou to navíc spotřebitelé, kdo bude muset u soudu dokazovat, že byli oklamáni nekalými praktikami výrobce. V reakci na dnešní rozhodnutí budou Piráti apelovat na Evropskou komisi, aby přijala přísnější opatření, podle kterých by prodej potravin ve dvojí kvalitě byl klamavou obchodní praktikou.

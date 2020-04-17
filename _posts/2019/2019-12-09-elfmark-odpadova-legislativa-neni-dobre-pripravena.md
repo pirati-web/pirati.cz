@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Františka Elfmarka: Odpadová legislativa není dobře připravená. Odklad termínu konce skládkování ještě zhorší současný stav"
 image:        /assets/img/articles/2019/frantisek-elfmark.jpg
 author:       František Elfmark
+authorId:       frantisek.elfmark
 ---
 
 Praha, 9. prosince 2019 – Vláda dnes schválila návrh legislativy, který obsahuje čtyři zákony upravující povinnosti při nakládání s odpady. I přes množství připomínek a také uspořádání dvou odborných seminářů, na kterých se k zákonům vyjadřovali experti z oboru, není legislativa dobře připravená. Problematické je nedostatečné projednání problematiky s odbornou veřejností a dále především odklad termínu konce skládkování.

@@ -6,6 +6,7 @@ layout:       post
 title:        "Sněmovna schválila návrh Pirátů na zrušení výjimek z registru smluv pro ČEZ a další společnosti"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 8. března 2019 - Sněmovna dnes ve třetím čtení schválila stěžejní pirátskou novelu zákona o registru smluv. Díky tomu bude mít společnost ČEZ a další společnosti s většinovým podílem státu povinnost zveřejňovat klíčové dokumenty v registru smluv stejně jako všechny ostatní organizace ovládané státem.

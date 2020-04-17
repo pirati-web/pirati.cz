@@ -6,6 +6,7 @@ layout:       post
 title:        "Nezávislá právní analýza ke střetu zájmů členů vlády dala za pravdu Pirátům"
 image:        /assets/img/articles/2018/ivan-dvere.jpg 
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Praha, 9. ledna 2019 – Pirátský analytický tým zveřejňuje právní analýzu přinášející odpovědi na klíčové otázky v souvislosti se střetem zájmů premiéra Andreje Babiše a ministra zemědělství Miroslava Tomana. Analýzu Pirátům dodali právní experti z týmu JUDr. Viktora Rossmana, kteří došli k závěru, že Andrej Babiš a Miroslav Toman jsou ve střetu zájmů dle evropského finančního nařízení, což znemožňuje legální proplácení evropských dotací koncernům Agrofert a Agrotrade a nic na tom nezměnilo ani odstoupení Andreje Babiše z čela Rady pro Evropské strukturální a investiční fondy. Analýza zároveň posoudila roli Andreje Babiše v koncernu Agrofert dle českého zákona o střetu zájmů, který je podle všeho rovněž porušován. Předseda Pirátů Ivan Bartoš předmětnou analýzu zaslal eurokomisaři pro rozpočet Gunterovi Oettingerovi a přestupkovému úřadu města Černošice, který posuzuje porušení zákona o střetu zájmů v souvislosti s provozováním periodického tisku společnosti Mafra spadající pod společnost Agrofert.

@@ -7,6 +7,7 @@ title:        "Komentář Lenky Kozlové: Národní galerie potřebuje kontinuit
 "
 image:        /assets/img/articles/2018/kozlova.jpg
 author:       Lenka Kozlová
+authorId: lenka.kozlova
 ---
  
 

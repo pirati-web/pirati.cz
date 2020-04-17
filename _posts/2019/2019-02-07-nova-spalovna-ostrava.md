@@ -6,6 +6,7 @@ layout:       post
 title:        "Jan Nezhyba, garant pro životní prostředí: Nová spalovna nebezpečných odpadů v Ostravě budí emoce"
 image:        /assets/img/articles/2018/nezhyba-jan.jpg
 author:       Jan Nezhyba
+authorId: jan.nezhyba
 ---
 
 

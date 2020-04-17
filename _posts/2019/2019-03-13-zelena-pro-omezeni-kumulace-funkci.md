@@ -6,6 +6,7 @@ layout:       post
 title:        "Sněmovna schválila omezení kumulace platů politiků, které Piráti dlouhodobě prosazují"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 13. březen 2019 – Sněmovna dnes ve třetím čtení schválila návrh poslanců ANO a Piráta Jakuba Michálka na snížení odměn politiků, kteří kumulují funkce. Za druhou politickou funkci bude nově odměna snížena na 40 procent platu. Přijatý poslanecký návrh je inspirovaný původním dubnovým návrhem Michálka. Piráti tehdy poukázali na to, že mezi poslanci a senátory je jich několik, kteří jsou zároveň plně placenými hejtmany, starosty a členy správních rad. 

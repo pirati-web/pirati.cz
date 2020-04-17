@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář pirátského poslance Mikuláše Ferjenčíka: Další vlna EET bez diskuse i důvěryhodné analýzy – vláda nechce slyšet nepříjemnou pravdu"
 image:        /assets/img/articles/2019/ferjencik-mikrofon.jpg
 author:       Mikuláš Ferjenčík
+authorId: mikulas.ferjencik
 ---
 
 

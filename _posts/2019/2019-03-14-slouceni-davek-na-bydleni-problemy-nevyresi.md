@@ -6,6 +6,7 @@ layout:       post
 title:        "Záměr MPSV na sloučení dávek na bydlení neřeší příčiny a nezavádí systémovou změnu, připomínkují Piráti"
 image:        /assets/img/articles/2019/olga-richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
 Praha, 14. března 2019 - Piráti zaslali své připomínky k záměru na sloučení dávek na bydlení, který představila ministryně práce a sociálních věcí. Upozorňují, že i když souhlasí se záměrem dávky zjednodušit a zpřehlednit, je třeba vzít v úvahu, že navržené zásady nijak neřeší příčiny ztráty bydlení a nezavádí kýženou systémovou změnu ve vztahu k lidem ohroženým ztrátou bydlení.

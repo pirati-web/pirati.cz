@@ -6,6 +6,7 @@ layout:       post
 title:        "Diktuje Hrad rozsudky soudcům a kšeftuje s funkcemi? O nezávislosti soudců budou jednat poslanci"
 image:        /assets/img/articles/2018/michalek-jakub.jpg 
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 17. ledna 2019 – Piráti žádají mimořádné jednání sněmovního Ústavně právního výboru. Řešit se tam má údajné ovlivňování soudců Nejvyššího správního soudu. Piráti chtějí, aby byli na půdu Sněmovny pozváni jak soudci Vojtěch Šimíček a Josef Baxa, tak kancléř Vratislav Mynář nebo přímo prezident Miloš Zeman. Neveřejné jednání Podvýboru pro justici a soudní samosprávu by mohlo proběhnout příští týden.

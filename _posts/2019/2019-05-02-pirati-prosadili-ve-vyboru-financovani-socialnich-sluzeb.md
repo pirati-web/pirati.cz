@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti na klíčovém výboru prosadili usnesení k víceletému financování sociálních služeb"
 image:        /assets/img/articles/2019/olga-richterova.jpg
 author:       Olga Richterová
+authorId: olga.richterova
 ---
 
 Praha, 2. května 2019 – Místopředsedkyně Pirátů Olga Richterová dnes na jednání Výboru pro sociální politiku prosadila usnesení, které Ministerstvu práce a sociálních věcí ukládá povinnost předložit do 16. září 2019 návrh stabilního financování sociálních služeb, včetně modelu víceletého financování. To má zajistit, aby skončilo každoroční handrkování a poskytovatelé terénních, ambulantních i pobytových sociálních služeb věděli, s čím mohou počítat.

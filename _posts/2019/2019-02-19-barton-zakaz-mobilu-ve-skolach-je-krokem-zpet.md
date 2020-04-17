@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář pirátského poslance Lukáše Bartoně: Celoplošný zákaz mobilních telefonů ve školách je krokem zpět"
 image:        /assets/img/articles/2018/barton.jpg
 author:       Lukáš Bartoň
+authorId: lukas.barton
 ---
 
 Praha, 19. února 2019 - Základní škola v Boskovicích na Blanensku zavedla úplný zákaz mobilních telefonů, včetně přestávek a obědových pauz. Piráti takový postup považují za nepřiměřený. O tom, zda ve výuce bude povoleno používání mobilních telefonů, by měl rozhodovat sám učitel. Zákaz mobilních telefonů mimo výuku podle Pirátů zasahuje do soukromí žáků. Piráti se ztotožňují s tím, že by měla být pozornost více věnována možnosti využívání mobilního telefonu jako nástroje, se kterým lze ve výuce pracovat. 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Nejen mezinárodní otázky diskutoval předseda Pirátů Bartoš na mezinárodní Mnichovské bezpečnostní konferenci 2019"
 image:        /assets/img/articles/2019/ivan-bartos-mnichov.jpg
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Praha, 19. února 2019 – Předseda Pirátů Ivan Bartoš se od čtvrtka do neděle účastnil spolu s osobnostmi světové politiky Mnichovské bezpečnostní konference 2019, která se zabývala otázkami mezinárodní spolupráce v oblasti obrany, řešení válečných konfliktů, mírových misí, environmentálních otázek a lidských práv. Bartoš se konference zúčastnil v rámci programu „Munich Young Leaders“ pro aktivní politiky specialisty ze světových institucí, vládního, mediálního i neziskového sektoru do 40 let, který pořádá již 10. rokem Körberova nadace.

@@ -6,6 +6,8 @@ layout:       post
 title:        "Konec digitálních kopií v knihovnách? Ministerstvo kultury nezvládlo zaručit financování"
 image:        /assets/img/articles/2018/ondrej-profant.jpg 
 author:       Ondřej Profant
+authorId: ondrej.profant
+
 ---
 
 Praha, 3. ledna 2019 – V roce 2019 již nebudeme mít možnost zhotovení digitální kopie na objednávku, kterou v minulosti knihovny poskytovaly. Jak je to možné? V průběhu podzimu se vyjednávala nová smlouva mezi knihovnami a kolektivním správcem Dilií upravující právě zhotovení digitální kopie na objednávku. Ministerstvo kultury ČR však nebylo schopné zaručit financování pro novou dohodu. Z tohoto důvodu chtěly knihovny prodloužit současnou smlouvu, nicméně to Dilia odmítla. Na začátku nového roku se tak ocitáme v situace bez možnosti tuto službu využívat.

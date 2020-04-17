@@ -6,6 +6,7 @@ layout:       post
 title:        "Rušení víceletých gymnázií není řešením. V prvé řadě je třeba posilovat kvalitu výuky na základních školách"
 image:        /assets/img/articles/2018/barton.jpg
 author:       Lukáš Bartoň
+authorId:       lukas.barton
 ---
 
 

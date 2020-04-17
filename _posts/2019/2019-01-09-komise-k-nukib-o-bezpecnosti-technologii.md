@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti představili řešení kyberbezpečnosti na komisi pro NÚKIB, uvádí poslanec Profant"
 image:        /assets/img/articles/2018/profant-tk.jpg 
 author:       Ondřej Profant
+authorId: ondrej.profant
 ---
  
 

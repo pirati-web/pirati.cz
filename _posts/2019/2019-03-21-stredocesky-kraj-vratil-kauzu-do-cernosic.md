@@ -6,6 +6,7 @@ layout:       post
 title:        "Středočeský kraj vrátil kauzu střetu zájmů premiéra Černošicím navzdory jednotnému postoji expertů"
 image:        /assets/img/articles/2019/ivan-bartos.jpg
 author:       Ivan Bartoš
+authorId: ivan.bartos
 ---
 
 Praha, 21. března 2019 – Krajský úřad Středočeského kraje vrátil kauzu střetu zájmů premiéra zpět úřadu v Černošicích. Celá řada expertů a analýz se přitom shoduje na závěrech prvoinstančního rozhodnutí městského úřadu v Černošicích, že Andrej Babiš porušuje zákon o střetu zájmů. Česká pirátská strana má navíc oprávněné obavy o nezávislost tohoto rozhodnutí krajského úřadu, neboť zde po zveřejnění prvoinstančního rozhodnutí proběhla utajená a blesková reorganizace. 

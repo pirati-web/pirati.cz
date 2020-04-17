@@ -6,6 +6,7 @@ layout:       post
 title:        "Nezávislost státního zastupitelství? Další nesplněný vládní slib"
 image:        /assets/img/articles/2019/michalek98.jpg
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
  
 Praha, 22. července 2019 - Vláda dnes dala nesouhlasné stanovisko poslaneckému návrhu zákona o státním zastupitelství Pirátů, ODS a KDU-ČSL. Návrh zákona přitom garantuje nezávislost státního zastupitelství a může nabýt účinnosti prakticky několik týdnů po jeho schválení, narozdíl od vládního návrhu, který by nabyl účinnosti až v roce 2022. 

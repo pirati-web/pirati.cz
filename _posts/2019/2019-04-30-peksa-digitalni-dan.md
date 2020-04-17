@@ -6,6 +6,7 @@ layout:       post
 title:        "Digitální daň musí řešit celá Evropa"
 image:        /assets/img/articles/2019/peksa.jpg
 author:       Mikuláš Peksa
+authorId: mikulas.peksa
 ---
 
 

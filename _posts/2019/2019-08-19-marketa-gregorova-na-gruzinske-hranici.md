@@ -6,6 +6,7 @@ layout:       post
 title:        "Pirátka Gregorová na gruzínsko-ruské hranici"
 image:        /assets/img/articles/2019/gregorova-gruzie.jpg
 author:       Štěpán Neubauer
+authorId:       stepan.neubauer
 ---
 
 

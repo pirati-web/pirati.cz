@@ -6,6 +6,7 @@ layout:       post
 title:        "Vláda odmítla další protikorupční opatření. Návrh Pirátů by zjednodušil možnost občanů upozornit na podezřelé zakázky"
 image:        /assets/img/articles/2019/vojtech-pikal.jpg
 author:       Vojtěch Pikal
+authorId: vojtech.pikal
 ---
 
 Praha, 18. března 2019 – Vláda Andreje Babiše dnes smetla pirátský návrh zákona na zrušení desetitisícového poplatku za podnět na Úřad pro ochranu hospodářské soutěže. Vláda tak opět odmítla možnost zavést protikorupční opatření, které by zjednodušilo možnost občanů upozornit na z jejich pohledu podezřelé veřejné zakázky v ČR. V současné době totiž občané za takový podnět musí zaplatit 10 tisíc korun. 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Lipavský: Poskytlo Ministerstvo obrany ČR záštitu vzpomínkovému večeru Českého svazu bojovníků za svobodu?"
 image:        /assets/img/articles/2018/lipavsky.jpg
 author:       Jan Lipavský
+authorId: jan.lipavsky
 ---
 
 Praha, 19. února 2019 – Pirátský poslanec Jan Lipavský interpeluje ministra obrany Lubomíra Metnara v souvislosti se vzpomínkovým večerem Českého svazu bojovníků za svobodu. Podle pozvánky svazu na vzpomínkový večer k 80. výročí okupace Československa nacistickým Německem poskytlo Ministerstvo obrany ČR a Generální štáb Armády ČR akci záštitu. Lipavský se proto ministra ptá, zda jeho ministerstvo a Generální štáb AČR záštitu skutečně poskytly. 

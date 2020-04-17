@@ -6,6 +6,7 @@ layout:       post
 title:        "Vláda v řešení dvojí kvality potravin jen klouže po povrchu. Podpořit musíme lokální zemědělce a výrobce, komentuje poslanec Radek Holomčík"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
 author:       Radek Holomčík
+authorId: radek.holomcik
 ---
 
 

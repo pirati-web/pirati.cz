@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Ondřeje Polanského: Vláda rezignovala na boj s korupcí, akční plán je nedostatečný"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
 author:       Ondřej Polanský
+authorId: ondrej.polansky
 ---
 
 Praha, 11. března 2019 – Vláda Andreje Babiše rezignovala na skutečný boj s korupcí a vysloužila si ostrou kritiku ze strany protikorupční skupiny Rady Evropy (GRECO), protikorupčních nevládních organizací a taky celé řady expertů a analytiků. Dnes měla vláda příležitost se odrazit od dna a vrátit 

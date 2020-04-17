@@ -6,6 +6,7 @@ layout:       post
 title:        "Komentář Jakuba Michálka: Piráti nesouhlasí se záměrem senátora ODS zkomplikovat poskytování informací občanům"
 image:        /assets/img/articles/2019/michalek-5.jpg 
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 23. ledna 2019 – Senát může zásadně zhoršit ochranu práva občanů na informace, které jim mají poskytovat státní úřady. Senátor Miloš Vystrčil (ODS) totiž navrhl vypuštění informačního příkazu z návrhu novely, která zavádí GDPR. To by znamenalo, že bude dál trvat stav, kdy se občan žádající o informace nedomůže účinné nápravy obstrukcí, ačkoliv právo na informace je zaručeno ústavou. 

@@ -6,6 +6,7 @@ layout:       post
 title:        "Schválením informačního příkazu končí obstrukce úřadů při získávání informací občany"
 image:        /assets/img/articles/2019/jakub-michalek.jpg
 author:       Jakub Michálek
+authorId: jakub.michalek
 ---
 
 Praha, 12. března 2019 - Sněmovna dnes schválila pirátský návrh na zavedení tzv. informačního příkazu. Jedná se o institut, který zamezí obstrukcím úřadů při získávání informací ze strany občanů. Informační příkaz nově občanům zajistí přístup k informacím v situacích, kdy úřady nemají zákonný důvod pro jejich odepření, ale přesto dělají obstrukce a odmítají informace poskytnout.

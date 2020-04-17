@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti: Naši zástupci v EU by měli v příštích letech lépe komunikovat s voliči i vládou"
 image:        /assets/img/articles/2019/europarlament.jpg
 author:       Mikuláš Peksa
+authorId: mikulas.peksa
 ---
 
 Praha, 1. května 2019 – Česká republika dnes slaví patnáctileté výročí vstupu do Evropské unie. Svým vstupem Česko utvrdilo, že je plnohodnotným partnerem zemí západní Evropy a přijalo tak spoluzodpovědnost za její vývoj. Součástí této zodpovědnosti je podle Pirátů i volba politiků, kteří Česko v Evropském parlamentu a Evropské komisi zastupují. Ti by měli především chránit Evropu před tlaky populistů a extremistů a v příštím volebním období lépe komunikovat s voliči i vládou.
