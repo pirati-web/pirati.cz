@@ -17,5 +17,5 @@ Praha, 16. dubna 2020 – Poté, co vláda uzavřela hranice, se mnoho rodin oci
 Kopřiva dále připomíná, že situaci mají složitou i čeští pendleři, kteří si nyní musí vybrat mezi rodinou a zaměstnáním v sousedních státech. Čeští občané přitom od 14. dubna mohou vycestovat do zahraničí za účelem „péče o rodinu”. Piráti chtějí dát stejnou možnost cizincům pro vstup do ČR. 
 
 
-[Celé znění interpelace](https//pirati.cz/assets/pdf/Interpelace_ rozdělené rodiny.pdf). 
+[Celé znění interpelace](https://pirati.cz/assets/pdf/Interpelace_ rozdělené rodiny.pdf). 
 
