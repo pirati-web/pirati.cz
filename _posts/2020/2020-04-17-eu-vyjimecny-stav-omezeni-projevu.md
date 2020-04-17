@@ -6,7 +6,7 @@ layout:       post
 title:        "Evropští Piráti: Výjimečný stav nesmí vést k omezení svobody projevu"
 image:        /assets/img/articles/2019/eu-pirati1.jpg
 author:       Mediální odbor
-
+---
 
 Brusel, 17. dubna 2020 – Pirátští europoslanci dnes v hlasování Evropského parlamentu odmítli podpořit rezoluci, jejíž součástí bylo také doporučení, aby provozovatelé sociálních sítí proaktivně zjišťovali a „zastavovali dezinformace a projevy nenávisti”. Automatické filtry obsahu využívané za tímto účelem Facebookem a ostatními sociálními sítěmi zásadně ohrožují svobodu projevu na internetu. Takovéto cenzurní návrhy jsou v době, kdy přesné a včasné informace rozhodují o úspěšném překonání současné krize, naprosto neakceptovatelné.
 
