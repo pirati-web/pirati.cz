@@ -3,7 +3,7 @@ title: Zemědělství
 category: psp2017
 img: zemedelstvi.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-33-2017-program-2017-zemedelstvi-r-h-1-k-t37116.html
-garant: ales.jakl
+garant: jiri.lehejcek
 relatives:
   - name: Doplňující
     items:
