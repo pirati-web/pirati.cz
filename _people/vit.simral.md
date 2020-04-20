@@ -19,11 +19,9 @@ ordga: 7
 ordpraha: 3
 ---
 
-Vít Šimral (9. července 1986, Roudnice nad Labem) je člen Rady hl. m. Prahy s gescí školství a garant programového bodu právo a sociální věci. 
+Vít Šimral (9. července 1986, Roudnice nad Labem) je člen Rady hl. m. Prahy s gescí školství, sportu, vědy a podpory podnikání. Je rovněž členem výboru pro evropské záležitosti ZHMP.
 
-Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce. Akademicky se specializuje na otázky financování politiky, transparentního propojení politiky a businessu a business intelligence. V současnosti působí jako postdoktorand na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
+Vystudoval politologii, historii, právo, historickou sociologii a ekonometrii na univerzitách v Brně, Praze, Leicesteru a v Lucce. Akademicky se specializuje na otázky financování politiky, transparentního propojení politiky a businessu a business intelligence. V současnosti působí jako výzkumník na Ekonomické fakultě Technické univerzity v Liberci a na Filozofické fakultě Univerzity Hradec Králové.
 
-V roce 2017 působil v zastupitelském klubu Pirátů v hl. m. Prahy jako tzv. „stínový zastupitel“. V komunálních volbách v říjnu 2018 byl zvolen zastupitelem hl. m. Prahy, Piráti jej nominovali na člena Rady hl. m. Prahy, do které byl zvolen na ustavujícím zasedání pražského zastupitelstva dne 15. listopadu 2018. Pod působnost Víta Šimrala spadá problematika školství, sportu a podpory podnikání. 
-
-V soukromé sféře je jednatelem společnosti InvEast provozující management consulting v regionu Střední Evropy. Angažuje se v oblasti boje s korupcí. Mezi jeho zájmy patří běh, divadlo, jazz a literatura. Je celoživotním skautem.
+V roce 2017 působil v zastupitelském klubu Pirátů v hl. m. Prahy jako tzv. „stínový zastupitel“. V komunálních volbách v říjnu 2018 byl zvolen zastupitelem hl. m. Prahy, Piráti jej nominovali na člena Rady hl. m. Prahy, do které byl zvolen na ustavujícím zasedání pražského zastupitelstva dne 15. listopadu 2018. Mezi jeho zájmy patří běh, divadlo, jazz a literatura. Je celoživotním skautem.
 
