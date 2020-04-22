@@ -1,7 +1,7 @@
 ---
 date:         2020-04-22
 category:     blog
-tags:         koronavirus bydlení sociální
+tags:         koronavirus bydlení
 layout:       post
 title:        "Piráti tlačí na opravu vládní legislativy, která se týká příspěvků na bydlení"
 image:        /assets/img/articles/2020/richterova.jpg
