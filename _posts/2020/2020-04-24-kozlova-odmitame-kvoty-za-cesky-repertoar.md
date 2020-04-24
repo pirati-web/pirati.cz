@@ -3,7 +3,7 @@ date:         2020-04-24
 category:     blog
 tags:         koronavirus finance kultura
 layout:       post
-title:        "Komentář Lenky Kozlové: Odmítáme kvóty za český repertoár v lokálních médiích"
+title:        "Komentář Lenky Kozlové: Odmítáme kvóty na český repertoár v lokálních médiích"
 image:        /assets/img/articles/2020/lenka-kozlova.jpg
 author:       Lenka Kozlová
 ---
