@@ -13,10 +13,19 @@ img: snemovna/obecne/jednani_klubu.jpg
             <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                 <a href="#" class="c-simple-accordion-title">Resortní týmy</a>
-                {% assign myteams = site.teams | where_exp: "item", "item.categories contains 'resort'" %}
+                {% assign myteams = site.teams | where_exp: "item", "item.category contains 'resort'" %}
                 {% include team/list-3col.html param=myteams %}
               </li>
             </ul>
+            <!--
+            <ul class="c-simple-accordion " data-accordion="" data-options="active: true; allowAllClosed: true">
+              <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                <a href="#" class="c-simple-accordion-title">Meziresortní týmy</a>
+                {% assign myteams = site.teams | where_exp: "item", "item.category contains 'mezire'" %}
+                {% include team/list-3col.html param=myteams %}
+              </li>
+            </ul>
+            -->
           </div>
         </div>
       </div>

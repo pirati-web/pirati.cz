@@ -1,7 +1,7 @@
 ---
 name: Demokracie
 title: Demokracie
-img: teams/zahranici.jpg
+img: teams/demokracie.png
 leader: vojtech.pikal
 deputy:
  - tomas.martinek
@@ -11,7 +11,7 @@ contact-local:
   mob:
   mail: stanislav.zavadil@pirati.cz
   img: 
-category: tym
+category: mezire
 redmine: https://redmine.pirati.cz/projects/demokracie
 uid: demokracie
 forum: https://forum.pirati.cz/viewforum.php?f=534
