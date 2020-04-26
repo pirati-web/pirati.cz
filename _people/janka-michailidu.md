@@ -1,8 +1,8 @@
 ---
-uid: janka.michaelidu
-name:     Janka Michaelidu  	# běžně používáné jméno
-fullname: Ing. Jana Michaelidu  	# jméno s tituly etc.
-img: people/janka-michaelidu.jpg    # 165 x 220
+uid: janka.michailidu
+name:     Janka Michailidu  	# běžně používáné jméno
+fullname: Ing. Jana Michailidu  	# jméno s tituly etc.
+img: people/janka-michailidu.jpg    # 165 x 220
 description: "tl;dr: pirát veterán; garant programového bodu Psychotropní látky; jednatel Republikového výboru"
 direct-contact: true
 mail:

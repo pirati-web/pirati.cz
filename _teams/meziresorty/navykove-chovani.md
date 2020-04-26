@@ -4,7 +4,7 @@ name: Návykové chování
 fullname: Meziresortní tým Návykové chování 
 #img: https://a.pirati.cz/resize/900x-/mo/img/tymy/navykove-chovani.png
 img: teams/navykove-chovani.png
-leader: janka.michaelidu 
+leader: janka.michailidu 
 deputy: 
 - Michal Ketner
 tags:
@@ -29,7 +29,8 @@ Vítejte na stránce pirátského týmu zabývajícího se problematikou návyko
 
 #### Co je už hotové?
 
-Podali jsme návrh na legislativní změnu umožňující dospělým občanům pěstovat a zpracovat beztrestně 5 rostlin konopí (více informací najdete na regulacekonopi.cz).
+Podali jsme návrh na legislativní změnu umožňující dospělým občanům pěstovat a zpracovat beztrestně 5 rostlin konopí (více informací najdete na 
+[regulacekonopi.cz](https://regulacekonopi.cz/)).
 
 #### Na čem pracujeme?
 
@@ -47,7 +48,8 @@ Podali jsme návrh na legislativní změnu umožňující dospělým občanům p
 Nabízíme šanci odborníkům na problematiku návykového chování spolupracovat na zlepšení situace v České republice. Pokud souhlasíte s Pirátským programem v oblasti prevence vzniku rizikového návykového chování a chcete nám pomoci, ozvěte se prosím vedoucí týmu. Rádi vás pozveme na naše setkání.
 #### Fungování týmu
 
-Tým Návykové chování se schází podle potřeby, obvykle v úterky během poslaneckých či výborových týdnů. Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu jsou:
+Tým Návykové chování se schází podle potřeby (viz kalendář níže).
+Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu jsou:
 
 - [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), garant programového bodu Psychotropní látky Pirátské strany
 - [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce garanta programového bodu Psychotropní látky Pirátské strany
@@ -57,6 +59,6 @@ Tým Návykové chování se schází podle potřeby, obvykle v úterky během p
 
 Tým funguje podle zásad týmové spolupráce.  Spolupracujeme s poslanci, kteří mají související gesci (zejména sociální věci, zdravotnictví, školství, vnitro) a také se členy dotčených RT a KET.
 
-**Zápisy ze schůzek týmu Návykové chování** - https://mrak.pirati.cz/s/zcmenta65C4QBK2
+[**Zápisy ze schůzek týmu Návykové chování**](https://mrak.pirati.cz/s/zcmenta65C4QBK2)
 
 <iframe width="700" height="750" src="https://mrak.pirati.cz/apps/calendar/embed/DzimSSom36egMXzG"></iframe>
