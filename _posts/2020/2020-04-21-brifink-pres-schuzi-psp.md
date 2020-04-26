@@ -1,0 +1,25 @@
+---
+date:         2020-04-20
+category:     blog
+tags:         koronavirus sněmovna finance zdravotnictví konopí
+layout:       post
+title:        "Piráti chtějí pomoct 150 tisícům dohodářům i pracovníkům v lázeňství, státní podporu soukromé společnosti ČSA odmítají"
+image:        /assets/img/articles/2020/brifink21-4.JPG
+author:       Mediální odbor
+---
+
+
+
+Praha, 21. dubna 2020 – Podpora pracujícím na dohodu, kompenzace pro OSVČ na vedlejší činnost, stanovení podmínek pro vycestování studentů či vědeckých pracovníků do zahraničí nebo podpora lázeňství byly dnes hlavními tématy Pirátů na pravidelném brífinku před schůzí Sněmovny.
+
+> Brífink zahájila místopředsedkyně Pirátů Olga Richterová, která se zabývá tématem podpory sociálně nejslabších skupin: „Je tu téměř 150 tisíc lidí, kteří pracovali na dohodu a nedostali ošetřovné ani kompenzační příspěvek. S Piráty chceme situaci změnit a našimi návrhy těmto nejrizikovějším skupinám pomoci. Jedná se o lidi, kteří jsou často doma s dětmi a kvůli tomu si nemohou ani shánět další práci. Nefungují ani dávky mimořádné pomoci, protože je zhruba polovina lidí vůbec nedostane, případně s velkým zpožděním. Proto opět navrhujeme ošetřovné pro lidi pracující na dohodu, kteří mají děti v příslušném věku a odváděli pojistné, v maximální výši odpovídající 424 Kč/den, které dostávají OSVČ.“
+
+> Na téma kompenzací navázal poslanec Mikuláš Ferjenčík: „Prodloužení bonusu zasaženým podnikatelům má dnes projednat Rozpočtový výbor. Toto prodloužení podpoříme, ostatně delší období kompenzací jsme navrhovali již v březnu, kdy se kompenzace probíraly poprvé. K tisku podáme pozměňovací návrhy, zahrnující i dohodáře, kteří zároveň odváděli odvody, a to na kompenzaci ve výši 300 Kč/den. Chceme také podpořit OSVČ podnikající na vedlejší činnost, kteří o bonus přišli kvůli zaměstnaneckému úvazku. Stejně tak navrhujeme jednorázový bonus pro jednatele s.r.o., kteří jsou vyňati z kurzarbeitu.“
+
+> Předseda Pirátů Ivan Bartoš se následně vyjádřil k tématu uzavírání hranic: „K uzavření hranic pro vycestování není relevantní důvod, protože pokud se státy rozhodnou lidi za určitých podmínek na své území vpustit, měla by ČR umožnit lidem vycestovat.  Vyjádření pana premiéra Babiše, který sám rád cestuje do zahraničí, pana náměstka Prymuly či pana prezidenta Zemana, že hranice mohou být zavřené i na několik let, jsou nepřípustné. Navíc v zemi, která má se zavřenými hranicemi bolestnou historickou zkušenost. Pokud dodržíme platná opatření po návratu, včetně chytré karantény, musí mít naši občané možnost vycestovat. Asociace agentur pro dlouhodobé zahraniční pobyty požádala Piráty, abychom podpořili jejich žádost o umožnění výjimky pro stáže, kulturně-vědeckou činnost, studijní pobyty na středních školách a univerzitách pro naše studenty. Pirátský klub se k výzvě jednohlasně připojil. Není důvod při dodržení podmínek tyto vzdělávací pobyty omezovat. Výzvu včetně nabídky na spolupráci při nastavení podmínek předám premiéru Babišovi a místopředsedovi vlády Hamáčkovi ve středu. Vzdělání a zahraniční zkušenost bude důležitým pilířem vyvedení z krize.“
+
+> Poslanec Petr Třešňák připomněl problematiku pendlerů a lázeňství, které se dotýkají desítek tisíc lidí v příhraničí a v lázeňských městech: „Jde o nedílnou součást našeho hospodářství. Již 24. března jsem předložil usnesení k záchraně lázeňství, které smetli vládní poslanci. V tomto týdnu bude na popud pirátského zastupitele Vojtěcha Franty uspořádána videokonference k záchraně českých lázní za účasti ministryně Dostálové. Shodli jsme se na několika krocích k záchraně českého lázeňství, mezi nimi především otevření lázeňských provozů a nevyřazení lázeňské péče z úhrad zdravotních pojišťoven a snaha o jejich efektivnější využití. Tato opatření mohou zachránit desítky tisíc pracovních míst.“ 
+
+> Poslanec Jan Lipavský informoval o svém záměru projednat na plénu záměr vlády podpořit společnost ČSA: „Společnost ČSA není strategickým podnikem, je to malá aerolinka s několika letadly a pro chod ČR není tato firma zásadní. Majitelé by se měli především pokusit zachránit společnost z vlastních prostředků. Největšími vlastníky jsou Smartwings vlastněné jedním z nejbohatších Čechů a čínským koncernem CITIC. Podporu ČSA s přihlédnutím k těmto faktům a vzhledem k nouzovému stavu, ve kterém se země nachází, považuji za nemravnou. Na plénu navrhu zařadit tento bod k projednání.“ 
+
+> Poslanec Tomáš Vymazal v závěru brífinku připomněl kauzu z minulého týdne, kdy samopěstitel konopí odešel od soudu s trestem šesti let vězení: „V minulém týdnu se objevila v médiích další zpráva o potrestání pěstitele konopí, o to absurdnější, že uložený trest je přísnější než za zneužití dítěte. Samopěstování konopí je trestným činem bez oběti. Na stávající schůzi navrhnu pevné zařazení samopěstovací novely Pirátů. Projednání a schválení novely by totiž znamenalo příjem 3 až 5 miliard korun do rozpočtu, proto její projednání považuji za relevantní i v době koronavirové krize. Tyto prostředky by bylo možné využít i ve zdravotnictví, a proto doufám i v podporu kolegů.“
