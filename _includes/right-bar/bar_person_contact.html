@@ -11,12 +11,17 @@
         <div class="c-widget-accordion-content-inner">
 					{% if page.data-version == 2 %}
 
-						{% if page.direct-contact %}
-							<h3>{{page.name}}</h3>
-							{% if page.mail %}<i class="fa fa-envelope-o"></i> <a href="mailto:{{ page.mail | first}}">{{ page.mail | first}}</a><br/>{% endif %}
-							{% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
-							<hr />
-						{% endif %}
+							{% if page.mail or page.mob %}
+								<h3>{{page.name}}</h3>
+								{% if page.mail %}
+									{% for l_mail in page.mail %}
+										<i class="fa fa-envelope-o"></i> <a href="mailto:{{ l_mail }}">{{ l_mail }}</a><br/>
+									{% endfor %} 
+								{% endif %}
+								{% if page.mob %}<i class="fa fa-phone"></i> {{ page.mob }}<br/>{% endif %}
+								<hr />
+							{% endif %}
+						
 
 						<h3>Odkazy</h3>
 						{% if page.profiles.web %}<i class="fa fa-globe"></i><a href="{{page.profiles.web}}">Webová stránka</a><br/>{% endif %}
