@@ -2,7 +2,7 @@
 uid: lidska-prava
 name: Lidská práva
 fullname: Meziresortní tým Lidská práva 
-#img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
+img: teams/resorty/lidska-prava.jpg # obrázek nemusíte dodávat
 leader: frantisek.kopriva
 tags:
 - 
