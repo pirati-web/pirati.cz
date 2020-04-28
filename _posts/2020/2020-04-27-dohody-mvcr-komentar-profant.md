@@ -15,3 +15,5 @@ Praha, 27. dubna 2020 - Na dnešní jednání vlády je zařazen bod informujíc
 Na problematičnost tohoto stavu bylo ministerstvo upozorněno již v roce 2018, ale od té doby nepodniklo žádné kroky k nápravě. Další dodavatelé, mnohdy i velmi renomovaní, nemají možnost se zapojit, a to i přesto, že opakovaně projevují zájem. To vede k nežádoucímu zafixování trhu a stagnaci, protože veřejná správa garantuje jistý zisk stávajícím výrobcům, ale nedá prostor inovátorům.
 
 Je skvělé, že se ministerstvo snaží o zjednodušení administrativy, avšak není férové to udělat pro hrstku vybraných dodavatelů, a tím znevýhodnit všechny zbylé. A to za situace, kdy produkty těchto dodavatelů rozhodně nejsou nedostižné. Některé z nich jsou totiž dávno překonané, zbytečně drahé, nebo trpí závažnými bezpečnostními problémy.
+
+Ondřej Profant podrobně rozpracoval problematiku na svém [blogu profant.eu](https://www.profant.eu/2020/ramcove-dohody-mvcr.html), přečtěte si více.
