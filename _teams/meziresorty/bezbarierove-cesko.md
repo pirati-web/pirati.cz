@@ -2,7 +2,7 @@
 uid: bezbarierove-cesko 
 name: Bezbariérové Česko
 fullname: Meziresortní tým Bezbariérové Česko
-#img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
+img: teams/resorty/bezbarierove-cesko.jpg # obrázek nemusíte dodávat
 leader: radek.holomcik 
 deputy:
 - 
