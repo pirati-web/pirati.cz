@@ -19,4 +19,4 @@ Vědci z Harvardovy univerzity poukázali na fakt, že zvýšená koncentrace š
 
 Spatřuji obrovské nebezpečí v rétorice české vlády, zástupců automobilového průmyslu a leteckých společností, kteří využívájí současnou krizi pro sestřelení evropské strategie Zelená dohoda pro Evropu. Tlačí na odsunutí cílů pro snižování emisí, což zdůvodňují oživením těchto odvětví po skončení nouzového stavu. Aktuálně čelíme dvěma krizím, musíme systematicky pokračovat v řešení i té první, klimatické. A musíme koronavirovou krizi využít jako příležitost k transformaci ekonomiky a průmyslu.
 
-* Komentář se opírá o studii Evy Balounové z Parlamentního institutu Poslanecké sněmovny [https://pirati.cz/assets/pdf/Covid-19 a životní prostředí](Covid-19-a-životní-prostředí.pdf).
+* Komentář se opírá o studii Evy Balounové z Parlamentního institutu Poslanecké sněmovny [Covid-19 a životní prostředí](https://pirati.cz/assets/pdf/Covid-19-a-životní-prostředí.pdf).
