@@ -1,5 +1,5 @@
 ---
-date:         2020-05-05
+date:         2020-05-04
 category:     blog
 tags:         zahraničí koronavirus
 layout:       post
