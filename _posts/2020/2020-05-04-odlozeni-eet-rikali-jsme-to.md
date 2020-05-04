@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus finance eet
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Vláda se po šesti týdnech nechala přesvědčit o odložení EET do konce roku"
-image:        /assets/img/articles/ferjencik.jpg
+image:        /assets/img/articles/2020/ferjencik.jpg
 author:       Mikuláš Ferjenčík
 --- 
 
