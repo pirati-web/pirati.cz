@@ -3,7 +3,7 @@ date:         2020-05-04
 category:     blog
 tags:         kultura koronavirus
 layout:       post
-title:        "Pirát nesouhlasí s povinnými půjčkami od obecenstva, navrhují bezúročné půjčky na kulturu od státu"
+title:        "Piráti nesouhlasí s povinnými půjčkami od obecenstva, navrhují bezúročné půjčky na kulturu od státu"
 image:        /assets/img/articles/2020/lenka-kozlova.jpg
 author:       Mediální odbor
 --- 
