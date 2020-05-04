@@ -1,5 +1,5 @@
 ---
-date:         2020-05-04
+date:         2020-04-30
 category:     blog
 tags:         zahraničí kontrola-moci-a-mocných cenzura
 layout:       post
