@@ -3,7 +3,7 @@ date:         2020-05-05
 category:     blog
 tags:         koronavirus sněmovna legislativa
 layout:       post
-title:        "Piráti bojují za druhý termín přijímacích zkoušek a možnost odvolání vůči výsledku přijímacího řízení"
+title:        "Prioritami Pirátů jsou širší podpora pracujících, zachování možnosti volby předmětů u maturity či smysluplná opatření pro řešení dopadů pandemie"
 image:        /assets/img/articles/2020/brifink-45-05-05.jpg
 author:       Mediální odbor
 --- 
