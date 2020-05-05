@@ -24,7 +24,11 @@ Delegace během své mise potvrdila řadu znepokojivých skutečností, na kter�
 
 Největší riziko bylo identifikováno v nejvyšších patrech české politiky – právě v osobě premiéra Babiše.
 
-Na schůzce delegace s Dočasnou komisí Senátu k návrhům auditních zpráv tento premiérův střet zájmů vysvětlil pirátský senátor Lukáš Wagenknecht: 1) Ústava ČR ukládá premiérovi řídit vládu a navrhovat prezidentovi ke jmenování své ministry; 2) Zákon o státní službě předpokládá, že řídící orgán bude následovat premiérovy instrukce; 3) Agrofert je dle bankovních výpisů konečným příjemcem významné části evropských zemědělských dotací, premiér Babiš zároveň prostřednictvím svěřenských fondů nadále ovládá společnost Agrofert, jak dokládá výpis ze Slovenského registru partnerů veřejného sektoru; 4) konstrukce svěřenských fondů je primitivní a účelová: ovládají je Babišovi nejbližší a kdykoliv se rozhodne je zrušit, patří opět všechno jemu.
+Na schůzce delegace s Dočasnou komisí Senátu k návrhům auditních zpráv tento premiérův střet zájmů vysvětlil pirátský senátor Lukáš Wagenknecht: 
+* 1) Ústava ČR ukládá premiérovi řídit vládu a navrhovat prezidentovi ke jmenování své ministry. 
+* 2) Zákon o státní službě předpokládá, že řídící orgán bude následovat premiérovy instrukce.
+* 3) Agrofert je dle bankovních výpisů konečným příjemcem významné části evropských zemědělských dotací, premiér Babiš zároveň prostřednictvím svěřenských fondů nadále ovládá společnost Agrofert, jak dokládá výpis ze Slovenského registru partnerů veřejného sektoru.
+* 4) konstrukce svěřenských fondů je primitivní a účelová: ovládají je Babišovi nejbližší a kdykoliv se rozhodne je zrušit, patří opět všechno jemu.
 
 
 
