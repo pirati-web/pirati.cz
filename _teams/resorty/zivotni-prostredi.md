@@ -72,6 +72,8 @@ V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde např�
 * [Jan Nezhyba](/lide/jan-nezhyba/), vedoucí týmu a kontaktní osoba, garant bodu Životní prostředí v dlouhodobém programu strany
 * [Martin Šmída](/lide/martin-smida/), specialista na bioodpady
 * [Dana Balcarová](/lide/dana-balcarova/), vedoucí resortního týmu ŽP PSP a garantka volebního programu 2017
+* **Eva Tylová**, komunální politička se specializací na technickou ochranu životního prostředí (odpady, ovzduší, voda, staré zátěže), EIA, změnu klimatu (mitigační a adaptační opatření) a uplatnění ochrany životního prostředí v územním rozvoji
+* **Lukáš Blažej**, odborník na právo životního prostředí
 
 ### Komunikační kanály: 
 - [forum](https://forum.pirati.cz/viewforum.php?f=560) 
