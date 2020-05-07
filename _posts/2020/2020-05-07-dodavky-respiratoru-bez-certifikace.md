@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti: Kraje kupovaly dodávky respirátorů zcela neznámé kvality bez platného certifikátu"
-image:        /assets/img/articles/2020/ivan-rouska-venku.jpeg
+image:        /assets/img/articles/2018/bartos-analytici.jpg
 author:       Mediální odbor
 ---  
 
