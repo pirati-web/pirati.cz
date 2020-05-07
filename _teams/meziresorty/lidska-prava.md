@@ -4,6 +4,11 @@ name: Lidská práva
 fullname: Meziresortní tým Lidská práva 
 img: teams/resorty/lidska-prava.jpg # obrázek nemusíte dodávat
 leader: frantisek.kopriva
+contact-local:
+  name: Tomáš Guth Jarkovský
+  mob: 
+  mail: tomas.guth.jarkovsky@pirati.cz
+  img: 
 tags:
 - 
 category: mezire

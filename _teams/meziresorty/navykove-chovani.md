@@ -12,7 +12,7 @@ tags:
 category: mezire
 #forum:
 #calendar: # id google kalendáře s událostmi
-#zapis: # https://forum.pirati.cz/viewtopic.php?f=560&t=48297
+zapis: https://forum.pirati.cz/viewtopic.php?f=541&t=51860
 #redmine_id: psychotropni-latky # Střednědobé cíle týmu
 #mpv:  # Mediální výsledky
 ---
@@ -59,6 +59,6 @@ Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu js
 
 Tým funguje podle zásad týmové spolupráce.  Spolupracujeme s poslanci, kteří mají související gesci (zejména sociální věci, zdravotnictví, školství, vnitro) a také se členy dotčených RT a KET.
 
-[**Zápisy ze schůzek týmu Návykové chování**](https://mrak.pirati.cz/s/zcmenta65C4QBK2)
+[**Zápisy ze schůzek týmu Návykové chování**](https://forum.pirati.cz/viewtopic.php?f=541&t=51860)
 
 <iframe width="700" height="750" src="https://mrak.pirati.cz/apps/calendar/embed/DzimSSom36egMXzG"></iframe>

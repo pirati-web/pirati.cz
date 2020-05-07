@@ -14,7 +14,7 @@ contact-local:
 category: mezire
 redmine: https://redmine.pirati.cz/projects/demokracie
 uid: demokracie
-forum: https://forum.pirati.cz/viewforum.php?f=534
+forum: https://forum.pirati.cz/viewtopic.php?f=541&t=51860 
 tags:
  - Přímá demokracie
  - Volby
