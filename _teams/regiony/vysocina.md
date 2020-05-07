@@ -25,7 +25,7 @@ twitter: https://twitter.com/pirativys
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
  
-Piráti na Vysočině aktivně působí na území celého kraje. V Jihlavě nás najdete v ulici Matky Boží 9, kde máme [Pirátské centrum](https://www.facebook.com/JiPiCentrum/). V odkazu najdete kontakty, otevírací dobu i možnost přihlásit vlastní aktivitu v centru. Součástí centra je i poslanecká kancelář [Jana Pošváře](https://www.pirati.cz/lide/jan-posvar/), otevírací doby a akce sledujte v kalendáři Pirátů z Vysočiny. Místní sdružení na Vysočině: Havlíčkův Brod, Chotěboř, Telčko, Třebíčsko, Jihlava. 
+Piráti na Vysočině aktivně působí na území celého kraje. V Jihlavě nás najdete v ulici Matky Boží 9, kde máme [Pirátské centrum](https://www.facebook.com/JiPiCentrum/). V odkazu najdete kontakty, otevírací dobu i možnost přihlásit vlastní aktivitu v centru. Součástí centra je i poslanecká kancelář [Jana Pošváře](https://www.pirati.cz/lide/jan-posvar/), otevírací doby a akce sledujte v kalendáři Pirátů z Vysočiny. Místní sdružení na Vysočině: Havlíčkův Brod, Telčko, Třebíčsko, Jihlavsko a Pelhřimovsko. 
  
 ### Možnosti zapojení
  
