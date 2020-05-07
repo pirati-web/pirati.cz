@@ -48,6 +48,8 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 * **Lukáš Blažej**, odborník na právo životního prostředí
 * **Kristina Marie Kubcová**, odborná asistentka poslankyně Dany Balcarové
 * **Jana Míšková**, odborná asistentka poslance Františka Elfmarka
+* **Nikola Havlová**,  odborná asistentka poslankyně Dany Balcarové
+
 
 ### Komunikační kanály: 
 
