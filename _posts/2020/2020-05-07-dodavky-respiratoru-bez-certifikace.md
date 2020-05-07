@@ -24,23 +24,23 @@ Pirátský analytický tým požádal experty specializující se na zdravotnick
 
  
 
-* ** Mgr. Bc. Veronika Moravová, LL.M. ze vzdělávací a konzultační společnosti Porta Medica, která zpracovala odbornou [Analýzu srovnávající různé druhy respirátorů a roušek](https://www.portamedica.cz/post/srovn%C3%A1vac%C3%AD-anal%C3%BDza-parametr%C5%AF-respir%C3%A1tor%C5%AF-a-rou%C5%A1ek), **
-* ** Mgr. Štěpán Ciprýn, LL.M. z advokátní kanceláře Ciprýn a Kiršner a **
-* ** Mgr. Eva Ostruszka Klusová, partnerka advokátní kanceláře Forlex. **
-* ** Mgr. Zdeněk Zadražil, Ph.D., imunolog Přírodovědecké fakulty Univerzity Karlovy. **
+* **Mgr. Bc. Veronika Moravová, LL.M. ze vzdělávací a konzultační společnosti Porta Medica, která zpracovala odbornou [Analýzu srovnávající různé druhy respirátorů a roušek](https://www.portamedica.cz/post/srovn%C3%A1vac%C3%AD-anal%C3%BDza-parametr%C5%AF-respir%C3%A1tor%C5%AF-a-rou%C5%A1ek),**
+* **Mgr. Štěpán Ciprýn, LL.M. z advokátní kanceláře Ciprýn a Kiršner a**
+* **Mgr. Eva Ostruszka Klusová, partnerka advokátní kanceláře Forlex.**
+* **Mgr. Zdeněk Zadražil, Ph.D., imunolog Přírodovědecké fakulty Univerzity Karlovy.**
  
 
-** Vyjádření Mgr. Bc. Veroniky Moravové, LL.M. z organizace Porta Medica: **
+**Vyjádření Mgr. Bc. Veroniky Moravové, LL.M. z organizace Porta Medica:**
 
 > „Pro prokázání legálnosti osobního ochranného prostředku na trhu musí dodavatel doložit prohlášení o shodě a platný CE certifikát shody vydaný oznámeným subjektem pro oblast prostředků na ochranu dýchacích cest, anebo dočasnou výjimku z posouzení shody vydanou Českou obchodní inspekcí. Žádný takový relevantní dokument nicméně předložen nebyl. Akreditované laboratoře mohou vydávat certifikáty potvrzující splnění požadavků technické normy EN 149:2001+A1:2009 na dobrovolné bázi, na tom není nic v nepořádku, nicméně pro uvedení osobního ochranného prostředku na trh na území ČR takový dokument rozhodně postačující není. Některé z předložených dokumentů navíc mohou klamavě vytvářet falešný dojem, že by se mohlo jednat o CE certifikát shody. Takto se ostatně nechalo oklamat či přímo podvést velké množství nákupčích napříč institucemi v ČR i v jiných zemích EU.“  
 
-** Vyjádření Mgr. Štěpána Ciprýna, LL.M.: ** 
+**Vyjádření Mgr. Štěpána Ciprýna, LL.M.:** 
 
 > „Po prvotním přezkoumání zaslaných dokumentů je možné dojít k závěru, že se tyto dokumenty tváří jako dokumenty typu EU prohlášení o shodě, ale s největší pravděpodobností nejde o platné dokumenty EU tohoto typu. Zcela zásadním nedostatkem těchto dokumentů je pak skutečnost, že se nejedná o dokumenty vydané na základě certifikátu od notifikované osoby (laboratoře), oznámené Evropské komisi. Ve dvou případech sice byl dokument opřen o certifikát vydaný notifikovanou osobou, ale pro jiný druh produktu. A to pro zdravotnické prostředky. Jedná se pak o absenci klíčového certifikátu, na jehož základě může výrobce vydat dokument typu EU prohlášení o shodě a na výrobek umístit označení CE.
 
 > V případě, že takový certifikát chybí, a výrobce nebo dovozce neprokáže (opět obdobným certifikátem), že výrobky splňují odpovídající úroveň ochrany zdraví a bezpečnosti, a byl zahájen proces posuzování shody, nelze takové výrobky uvádět na český trh. Ve všech podrobnostech pak odkazujeme na podrobný právní rozbor.“
 
-** Vyjádření Mgr. Evy Ostruszka Klusové: ** 
+**Vyjádření Mgr. Evy Ostruszka Klusové:** 
 
 > „V obecné rovině máme za to, že respirátory je třeba posuzovat z pohledu dvou předpisů, a to jednak (i) evropského nařízení č. 2016/425, o osobních ochranných prostředcích, jednak (ii) českého nařízení 54/2015 Sb., o technických požadavcích na zdravotnické prostředky (rovněž vycházejícího z evropské legislativy).
 
@@ -54,7 +54,7 @@ Pirátský analytický tým požádal experty specializující se na zdravotnick
 
 > Závěrem si dovolíme jen pro zajímavost upozornit, že u certifikátu č. 5 je uvedeno, že se jedná o „anti bacterial respirator“, což při riziku virové infekce nemusí být ani z laického hlediska úplně efektivní.“
 
-** K případu se vyjádřil rovněž imunolog Přírodovědecké fakulty Univerzity Karlovy Mgr. Zdeněk Zadražil, Ph.D.: ** 
+**K případu se vyjádřil rovněž imunolog Přírodovědecké fakulty Univerzity Karlovy Mgr. Zdeněk Zadražil, Ph.D.:** 
 
 > „Neověřování certifikátů ochranných pomůcek je hazardováním s lidským zdravím. Ochranné pomůcky určitého typu musí mít jasně definované vlastnosti, aby byly použity v adekvátních situacích. Pokud například zdravotnický personál počítá s tím, že je vybaven respirátorem třídy FFP2 a přitom má respirátor s nedostačujícími filtračními vlastnostmi, je to ohrožení na zdraví. Zdravotník v první linii musí být vybaven tak, aby riziko nákazy bylo co nejmenší, vzhledem k tomu, že se pohybuje v prostředí, kde jsou obrovské dávky viru a jeho koncentrace v prostoru. Pokud ale má, aniž by o tom věděl, vybavení, které filtruje v tomto případě virové částice s mnohem menší účinností, může být ohrožen, a to bez svého vědomí.“
 
