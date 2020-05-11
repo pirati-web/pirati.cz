@@ -15,5 +15,5 @@ Praha, 7. května 2020 - Mlžení, vytáčky, urážky - to jsou reakce premiér
 
 > Řešení je podle něj stejně jednoduché, jako je jasný střet zájmů. „Andrej Babiš se nesmí podílet na rozhodování Evropské rady nebo nesmí být předsedou vlády anebo nesmí být finálním příjemcem holdingu Agrofert. Tak jednoduché to je a žádné mlžení mu z jeho střetu zájmů nepomůže,“ dodává Peksa.
 
-* [Infografika](https://pirati.cz/assets/pdf/dotace-eu.png)
+* [Infografika](https://pirati.cz/assets/img/articles/2020/dotace-eu.png)
 
