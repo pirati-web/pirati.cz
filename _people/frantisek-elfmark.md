@@ -14,9 +14,12 @@ mail:
 mob:	  
 web: www.frantisekelfmark.cz
 asistenti:
-  - name: Marek Houser (Uherské Hradiště)
-    mail: marek.houser@pirati.cz
-    tel:  725 611 894
+  - name: Iva Kučerová (Uherské Hradiště)
+    mail: iva.kucerova@pirati.cz
+    tel:  735 794 141
+  - name: Jana Míšková (Praha)
+    mail: jana.miskova@pirati.cz
+    tel:  724 888 664
   - name: Jakub Brejša (Praha)
     mail: brejsaj@psp.cz
     tel:  774 623 653
