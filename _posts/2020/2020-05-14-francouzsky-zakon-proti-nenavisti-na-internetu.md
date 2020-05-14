@@ -5,7 +5,7 @@ tags:         evropská-unie zahraničí cenzura
 layout:       post
 title:        "Komentář Marcela Kolaji: Poučení z Avia law"
 image:        /assets/img/articles/2020/kolaja.jpg
-author:       Mediální odbor
+author:       Marcel Kolaja
 ---  
 
 
