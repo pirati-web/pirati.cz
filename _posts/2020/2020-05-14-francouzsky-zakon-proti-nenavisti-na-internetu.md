@@ -30,10 +30,10 @@ Evropská komise ve svém odůvodněném stanovisku uvedla, že návrh porušuje
 
 Níže jsou k dispozici stanoviska některých organizací, které se proti návrhu zákona vyslovily:
 
-* Stanovisko Národní poradní komise pro lidská práva(https://www.cncdh.fr/fr/publications/lutte-contre-la-haine-en-ligne-la-cncdh-sinquiete-pour-les-libertes-fondamentales).
-* Stanovisko Ligy pro lidská práva(https://www.ldh-france.org/appel-collectif-a-preserver-nos-droits-fondamentaux-dans-lespace-public-en-ligne-proposition-de-loi-visant-a-lutter-contre-la-haine-sur-internet/).
-* Stanovisko European Digital Rights(https://pirati.cz/assets/pdf/20191118_EDRiCommentsEC_FrenchAvialaw.pdf).
-* Stanovisko EuroISPA(https://pirati.cz/assets/pdf/1910 EuroISPA points of critique - AVIA law.pdf).
+* Stanovisko [Národní poradní komise pro lidská práva](https://www.cncdh.fr/fr/publications/lutte-contre-la-haine-en-ligne-la-cncdh-sinquiete-pour-les-libertes-fondamentales).
+* Stanovisko [Ligy pro lidská práva](https://www.ldh-france.org/appel-collectif-a-preserver-nos-droits-fondamentaux-dans-lespace-public-en-ligne-proposition-de-loi-visant-a-lutter-contre-la-haine-sur-internet/).
+* Stanovisko [European Digital Rights](https://pirati.cz/assets/pdf/20191118_EDRiCommentsEC_FrenchAvialaw.pdf).
+* Stanovisko [EuroISPA](https://pirati.cz/assets/pdf/1910 EuroISPA points of critique - AVIA law.pdf).
 
 **Co se bude v Parlamentu dít dál**
 Podle evropského postupu oznamování týkajícího se regulace produktů a poskytovatelů informačních služeb, měla Francie povinnost vzít v úvahu podrobná stanoviska, odpovědět a vysvětlit kroky, které se chystá učinit. Zatím nevíme, zda a jak přesně Francie tuto povinnost splnila, a proto jsem se na to jako poslanec Evropského parlamentu [zeptal Evropské komise](https://www.europarl.europa.eu/doceo/document/E-9-2020-002235_CS.html).
