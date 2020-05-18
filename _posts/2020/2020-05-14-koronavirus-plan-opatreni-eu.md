@@ -14,7 +14,7 @@ Praha, 14. května 2020 - Evropský parlament v těchto dnech hlasuje o podobě 
 
 > „Je zcela zásadní, aby tyto prostředky byly transparentně přiděleny a neskončily na účtech různých svěřenských fondů a podobně. Piráti proto v souladu s vlastní frakcí Greens/EFA navrhují pět zásadních pravidel, která by měla příjem jakýchkoli prostředků podmiňovat,“ uvádí pirátský eruoposlanec Mikuláš Peksa.
 
-5 podmínek:
+**5 podmínek:**
 
 * Všechny velké podniky, které mají místo podnikání v několika zemích, musí zveřejňovat údaje týkající se globálního rozdělování příjmů, zisků, zaplacených daní a hospodářské činnosti mezi daňovými jurisdikcemi, ve kterých jsou tyto podniky činné.
 
