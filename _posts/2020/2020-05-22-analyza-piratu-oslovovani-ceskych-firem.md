@@ -21,4 +21,4 @@ Pirátští analytici podrobně analyzovali celkem 75 odpovědi. Alespoň jednu 
 
 Toto šetření u českých výrobců zdravotnického materiálu bylo zahrnuto do podnětu, který předseda Pirátů Ivan Bartoš dnes podává NKÚ. Přitom první podnět NKÚ doručil předseda Pirátů již v polovině dubna a obsahoval základní přehledy o nákupech, popis jednotlivých problematických kauz a základní popis čínských dodavatelů včetně výpisů ze zahraničních rejstříků. Tentokrát podnět NKÚ obsahuje podrobné cenové srovnání ochranných pomůcek vytvořené portálem Hlídač státu, podrobné informace o odmítnutých objednávkách z důvodu nedostatečné kvality a základní návod týkající se ověřování CE certifikátů ochranných pomůcek včetně ukázky neplatných, irelevantních či dokonce zfalšovaných certifikátů.
 
-* [Vyhodnocení ankety u 212 českých společností, které prodávají (a ve většině i vyrábějí) roušky a další ochranné pomůcky](pirati.cz/assets/pdf/vyhodnocení-ankety.pdf)
+* [Vyhodnocení ankety u 212 českých společností, které prodávají (a ve většině i vyrábějí) roušky a další ochranné pomůcky](https://pirati.cz/assets/pdf/vyhodnoceni-ankety.pdf)
