@@ -13,8 +13,6 @@ mob:
 nepritomnost:
 - name: Jakub Dušánek
   tel: +420 770 138 763
-- name: Andrea Mádlová
-  tel: +420 778 111 473
 profiles:
   github:     
   facebook: https://www.facebook.com/karolina.kyselova
