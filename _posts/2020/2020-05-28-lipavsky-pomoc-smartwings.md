@@ -10,7 +10,7 @@ author:       Jan Lipavský
 
  
 
-Praha, 28. května 2020 – Požádal jsem vicepremiéra Karla Havlíčka o vysvětlení ke kauze státní záchrany soukromé aerolinky Smartwings. Havlíček totiž zahájil zcela netransparentní proces s 2,5 miliardami korun z kapes daňových poplatníků. Právě tolik by stála „záchrana“ soukromé aerolinky, kterou ovládá Jiří Šimáně, miliardář s blízkými vazbami na premiéra Andeje Babiše. 
+Praha, 28. května 2020 – Požádal jsem vicepremiéra Karla Havlíčka o vysvětlení ke kauze státní záchrany soukromé aerolinky Smartwings. Havlíček totiž zahájil zcela netransparentní proces s 2,5 miliardami korun z kapes daňových poplatníků. Právě tolik by stála „záchrana“ soukromé aerolinky, kterou ovládá Jiří Šimáně, miliardář s blízkými vazbami na premiéra Andreje Babiše. 
 
 Ačkoliv je s Jiřím Šimáně laťka nasazená relativně vysoko, další vlastník Smartwings je ještě problematičtější. Jde o čínský státní fond CITIC, jehož pobočka CITIC Europe Holdings drží 49,9 procent Smartwings. Vlastníkem CITIC i jeho evropské pobočky je společnost Rainbow Wisdom Investment Limited (registrovaná v Hongkongu), o jejíž vlastnické struktuře víme jenom to, že vede do daňového ráje na Britské panenské ostrovy. Není tedy jasné, kdo by byl skutečným příjemcem miliard ze státní pomoci. Na to jsem se také ptal v interpelaci vicepremiéra Havlíčka.
 
