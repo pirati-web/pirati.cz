@@ -40,5 +40,6 @@ Piráti podle něj jako strana hledí do budoucnosti a chtějí občany ochráni
 * Myslet i na chudší rodiny a seniory
 
 
-[**Podrobný účet vládě**](pirati.cz/assets/pdf/ucet-vlade-koronavirus.pdf)
-[**Přehled stupňů pohotovosti dle Pirátů.**](pirati.cz/assets/pdf/stupne-pohotovosti.pdf)
+[**Podrobný účet vládě**](https://pirati.cz/assets/pdf/ucet-vlade-koronavirus.pdf)
+
+[**Přehled stupňů pohotovosti dle Pirátů.**](https://pirati.cz/assets/pdf/stupne-pohotovosti.pdf)
