@@ -16,6 +16,6 @@ Piráti také zaslali prezidentovi svůj plán na zvládnutí krize s názvem Bu
 
 > „Věřím že poskytnutá fakta panu prezidentovi pomohou při budoucím objektivnějším hodnocení práce opozice. Za nás za Piráty mohu s jistotou říci, že děláme maximum pro překonání krize s co možná nejmenšími dopady na ekonomiku, společnost a ústavní pořádek ČR,” dodává Michálek.
 
-* [Dopis se seznamem výsledků pirátské práce](/assets/pdf/dopis-zemanovi.pdf)
+* [Dopis se seznamem výsledků pirátské práce](https://pirati.cz/assets/pdf/dopis-zemanovi.pdf)
 
 
