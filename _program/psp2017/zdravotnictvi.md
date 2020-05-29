@@ -3,7 +3,7 @@ title: Zdravotnictví
 category: psp2017
 img: zdravotnictvi.png
 approved: https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-27-2016-program-2017-zdravotnictvi-r-h-1-k-t36869-10.html
-garant: zdenek.hrib
+garant:
 relatives:
   - name: Doplňující
     items:
