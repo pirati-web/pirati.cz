@@ -16,4 +16,4 @@ profiles:
 
 Matouš u Pirátů zastává funkci tajemníka poslaneckého klubu. Co to znamená? Koordinuje veškerou parlamentní agendu, studuje a klasifikuje sněmovní tisky a rozděluje je příslušným pracovním týmům. Zabezpečuje přípravu klubu na každou schůzi Sněmovny i kontrolu jednání vlády, sleduje průběh jednání Poslanecké sněmovny a asistuje poslancům ve věcech legislativního procesu a parlamentních procedur. Pro poslance i analytiky dohledává potřebné dokumenty a ověřuje fakta. Ve své práci bohatě uplatňuje svou vášeň pro systém a tabulky.
 
-Pirátský správce životního cyklu schůze vystudoval herectví na Pražské konzervatoři, historii a religionistiku na FF UK a politologii a mezinárodní vztahy na FSV UK.
+Pirátský tajemník vystudoval herectví na Pražské konzervatoři, historii a religionistiku na FF UK a politologii a mezinárodní vztahy na FSV UK.
