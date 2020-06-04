@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa sněmovna koronavirus
 layout:       post
 title:        "Sněmovna přijala preventivní opatření pro další vlny pandemie. Vládní poslanci naopak potvrdili ignoraci nejohroženějších skupin lidí a hájili pochybné nákupy ochranných pomůcek"
-image:        /assets/img/articles/2020/50schuze11bodu.JPG
+image:        /assets/img/articles/2020/tk49brifink.jpg
 author:       Mediální odbor
 ---  
 
