@@ -18,4 +18,4 @@ Brusel, 3. června 2020 - Dopis vyzývající ke zřízení jednotného sídla E
 
 Každý rok stojí stěhování mezi Bruselem a Štrasburkem daňové poplatníky přes tři miliardy korun a je odpovědné za 67 % veškeré uhlíkové zátěže celé instituce. Minulý rok pro jednotné sídlo Evropského parlamentu hlasovalo 74 % z 682 přítomných europoslanců.
 
-Celé znění dopisu v angličtině naleznete v [dokumentu](https://pirati.cz/assets/pdf/EP_singleseat.pdf).
+* Celé znění dopisu v angličtině naleznete v [dokumentu](https://pirati.cz/assets/pdf/EP_singleseat.pdf).
