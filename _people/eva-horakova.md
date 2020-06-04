@@ -8,7 +8,7 @@ img: people/eva-horakova.jpg   # 165 x 220
 description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - eva.horakova@pirati.cz
-mob:			  
+mob: +420 727 870 828
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/eva.horakova.520
@@ -17,11 +17,15 @@ profiles:
 ordpraha: 7
 ---
 
-**Eva Horáková** ( *1980) je místopředsedkyně zastupitelského klubu Pirátů v ZHMP, aktivní dobrovolník, člen zdravotního týmu, výboru poslankyně Olgy Richterové pro předkládání změn v oblasti zdravotnického programu Pirátské strany.
+**Mgr.Eva Horáková** (*1980) je předsedkyně výboru pro sociální politiku ZHMP, zastupitelka hlavního města Prahy a MČ Prahy 5, místopředsedkyně zastupitelského klubu Pirátů na MHMP.
 
-Pochází z východních Čech a od 18ti let žije v Praze, je šťastně vdaná. Vystudovala střední zdravotnickou školu obor všeobecná zdravotní sestra v Novém Bydžově, tuto práci vykonávala 2 roky po škole v Ústřední vojenské nemocnice v Praze na nejnáročnějším oddělení ARO-RES. Poté se rozhodla dále studovat, a to na 1. lékařské fakultě na Univerzitě Karlově v Praze. Tato studia se prodloužila nejen na bakalářské studium ošetřovatelství ale také na magisterské studium oboru učitelství zdravotnických předmětů pro střední školy. Během studia si odskočila v rámci programu Sokrates Erasmus do Německa na jeden semestr na polytechnické škole v Neubrandenburg.
+Pochází z východních Čech, od 18ti let žije v Praze. Vystudovala Střední zdravotnickou školu, obor všeobecná zdravotní sestra. Tuto práci vykonávala cca 12 let v různých pražských nemocnicích. Na 1. lékařské fakultě UK v Praze získala v roce 2003 titul bakalář ošetřovatelství a pokračovala v magisterském studiu oboru Učitelství zdravotnických předmětů pro střední školy. Během studia se zúčastnila programu Sokrates Erasmus v Německu na polytechnické škole v Neubrandenburgu. Jako studentka pracovala v nemocnici Milosrdných sester sv. Karla Boromejského na Praze 1 jako zdravotní sestra. Učila také 2 roky na Vyšší odborné zdravotnické škole v Kladně jako pedagog odborných předmětů.
 
-Během vysokoškolských studií stále pracovala jako zdravotní sestra a to v nemocnici Milosrdných sester sv. Karla Boromejského. Učila také na Vyšší odborné zdravotnické škole v Kladně. Díky vědomostem a znalostem v oboru chtěla víc. Další meta byla farmaceutická firma. Bylo jich několik a všechny až na první originální farmaceutické firmy, podléhající AIFP, tedy zákonům a normám. V současné době je na pozici medicínského zástupce u Sanofi s.r.o. Je specialista v oblasti diabetologie. V roce 2018 byla zvolena do zastupitelstva hl. m. Prahy ze 7. místa kandidátky Pirátů. Uspěla rovněž i ve volbách do zastupitelstva městské části Prahy 5.
+Pracovní nabídku do farmaceutické firmy dostala v roce 2005 a do roku 2018 byla součástí toho odvětví. Pracovala v oblasti diabetologie, psychiatrie, kardiologie a hypolipidemik. Vítězství Pirátů ve volbách do zastupitelstva hlavního města Prahy a zastupitelstva městské části Praha 5 jí umožnilo živit se tím, co jí baví. Tj, pomáhat lidem a rozhodovat o našem hlavním městě.
 
-Angažuje se v aktivitách souvisejících se svojí dosavadní praxí a vzdělaním a to jsou zdravotnictví, sociální práce a dobrovolnictví. Před vlastní transplantací v roce 2011 chodila darovat krev. Při poslední návštěvě svatého otce Dalajlamy byla dobrovolník na jeho setkání a setkala se s ním i osobně.
+Za Piráty je v hlavním městě Praha, tedy za kraj, hlavním garantem programu sociálního, zdravotnického a pohřebnictví. Je členem pirátského týmu připravující volební program do krajů v roce 2020. Je členem týmu expertů v Pirátské straně připomínkujících zákony od MPSV. V sociální oblasti se věnuje programu deinstitucionalizace a péče o seniory a jejich problematice. Společně s kolegou Martinem Ardenem a Evou Tichou připravuje každou druhou neděli pirátské guláše, tedy dobrovolný výdej stravy pro lidi na ulici a bez přístřeší. Připravují kolem 50 výdejů, pochutit a vydávají i oblečení.
+Angažuje se v aktivitách souvisejících s dosavadní praxí a vzděláním a to jsou zdravotnictví, sociální práce a dobrovolnictví. Před vlastní transplantací v roce 2011 chodila darovat krev. Již 8 let má transplantovanou ledvinu od žijícího dárce (maminky). Při poslední návštěvě svatého otce Dalajlamy, byla dobrovolník na jeho setkání a setkala se s ním i osobně.
 
+Od roku 2016 je Dobrým andělem a od roku 2019 podporuje organizaci Dobré víly. Její motto zní: „Pomáhat má smysl“, ji dává každodenní náplň věnovat se těžkým společenským problémům.
+
+A také věří, věří že pravda a láska zvítězí nad lží a nenávistí.
