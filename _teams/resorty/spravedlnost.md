@@ -45,16 +45,16 @@ Schůzky týmu
 
 Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.google.com/calendar/embed?src=0hc5kevgjdgvenr4tt7d34g7pc%40group.calendar.google.com&ctz=Europe%2FPrague). Tým Spravedlnost se schází 
 
-* jednou za šest týdnů vždy v pondělí ve 14:00 (týden před zahájením schůze),
+* vždy jednou za šest týdnů v poslaneckém týdnu (týden před zahájením schůze),
 * mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
 
-Tým Spravedlnost se schází ve Velikovského domě, v místnosti G-169 v pracovně Jakuba Michálka (vstup z Malostranského náměstí 7/19).
-Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=960&t=40389).
+Tým Spravedlnost se zpravidla schází zasedací místnosti poslanckého klubu Pirátů (vstup z Malostranského náměstí 7/19).
+Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewforum.php?f=960&sid=1d71bc740c5ce6b4283a957e6206b215).
 
 Online komunikace
 -----------------
 
-Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu na facebooku [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/) na facebooku.
 
 
 Členové týmu
@@ -64,10 +64,10 @@ Online komunikace
 * **[František Navrkal](/lide/frantisek-navrkal/)**, člen ústavně právního výboru, řeší ochranu soukromí a základních práv, volební systémy,
 * **[Vojtěch Pikal](/lide/vojtech-pikal/)**, místopředseda Poslanecké sněmovny a člen komise pro Ústavu, řeší fungování politických stran a volební systémy
 * **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
-* **Martin Štancl**, asistent poslance Jakuba Michálka, věnuje se správnímu a daňovému právu procesnímu a také má na starosti fungování ústavně právního týmu,
-* **Jiří Valenta**, asistent poslance Mikuláše Ferjenčíka, 
+* **Martin Štancl**, asistent poslance Jakuba Michálka, má na starosti fungování ústavně právního týmu,
+* **Lukáš Bartík**, asistent poslance Františka Navrkala, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům,
 * **Markéta Řádková**, legislativec poslaneckého klubu,
 * **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala.
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí).
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí, Tomáš Vymazal pro oblast vězeňství).
