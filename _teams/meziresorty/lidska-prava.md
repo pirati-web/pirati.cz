@@ -46,11 +46,14 @@ Lidskoprávní tým se schází zhruba každých 6 týdnů, jednotlivé projekto
 * [František Kopřiva](/lide/frantisek-kopriva/), poslanec, místopředseda výboru pro evropské záležitosti
 * [Olga Richterová](/lide/olga-richterova/), poslankyně, místopředsedkyně výboru pro sociální politiku
 * [Vojtěch Pikal](/lide/vojtech-pikal/), poslanec, místopředseda Poslanecké sněmovny
+* [František Navrkal](/lide/frantisek-navrkal/), poslanec
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Bára Soukupová**, analytička a expertka na digitalizaci
 * **Martin Archalous**, analytik a legislativec
-* **Michaela Kleslová**, aktivistka
 * **Jiřka Hejduková**, analytička
+* **Michaela Kleslová**
+* **Lydie Franka Bartošová**
+* **Kateřina Stojanová**
 
 Tým funguje podle zásad [týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je [rezortní tým spravedlnost](/pripoj-se/spravedlnost/). Spolupracujeme s poslanci, kteří mají související gesci.
 
