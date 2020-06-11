@@ -4,7 +4,7 @@ category:     blog
 tags:         kultura finance
 layout:       post
 title:        "Stav sbírek nevyřeší inventarizace, ale finanční a personální posílení"
-image:        /assets/img/articles/2020/lenka-kozlova.jpg
+image:        /assets/img/articles/2020/lenka-kozlova1.jpg
 author:       Lenka Kozlová
 ---  
 
