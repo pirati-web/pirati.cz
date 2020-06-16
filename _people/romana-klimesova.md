@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/romana-klimesova.jpg    # 165 x 220
 description: Kontakt pro veřejnost<br/>Volejte ve všední dny mezi 9:00 až 17:00   	# kratký popis, max 160 znaků
 mail:
-- info@pirati.cz
+- romana.klimesova@pirati.cz
 mob:
 -
 profiles:
