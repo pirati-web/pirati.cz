@@ -4,7 +4,7 @@ name:     Věra Marušiaková      	# běžně používáné jméno
 fullname: Mgr. Věra Marušiaková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vera-marusiakova.jpg           # 165 x 220
-description: Tajemnice-asistentka Ivana Bartoše # kratký popis, max 160 znaků
+description: Tajemnice-asistentka Ivana Bartoše, koordinátorka resortního týmu Místní rozvoj a veřejná správa # kratký popis, max 160 znaků
 mail:
 - vera.marusiakova@pirati.cz
 mob: 
