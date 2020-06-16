@@ -5,7 +5,7 @@ fullname: Romana Klimešová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ao-contact
 img: people/romana-klimesova.jpg    # 165 x 220
-description: Kontakt pro veřejnost<br/>Volejte ve všední dny mezi 9:00 až 17:00   	# kratký popis, max 160 znaků
+description:	# kratký popis, max 160 znaků
 mail:
 - romana.klimesova@pirati.cz
 mob:
