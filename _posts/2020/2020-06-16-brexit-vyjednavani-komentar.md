@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí evropská-unie
 layout:       post
 title:        "Komentář europoslankyně Markéty Gregorové k dnešnímu posunu ve vyjednávání EU o Brexitu"
-image:        /assets/img/articles/2020/gregorova.jpg
+image:        /assets/img/articles/2020/marketa-gregorova1.jpg
 author:       Markéta Gregorová
 ---  
 
