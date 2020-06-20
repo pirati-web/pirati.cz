@@ -5,7 +5,7 @@ fullname: Lucie Trčková  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 img: people/lucie-trckova.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Karlovarský kraj # kratký popis, max 160 znaků
+description: Koordinátorka dobrovolníků pro Karlovarský kraj # kratký popis, max 160 znaků
 mail:
 - lucie.trckova@pirati.cz
 mob: 778 111 472
