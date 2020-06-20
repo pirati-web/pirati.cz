@@ -5,7 +5,7 @@ fullname: Mgr. Bára Soukupová  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - analytik
 img: people/bara-soukupova.png    # 165 x 220
-description: Člen analytického týmu, specialistka na e-government	# kratký popis, max 160 znaků
+description: Členka analytického týmu, specialistka na e-government	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - bara.soukupova@pirati.cz
