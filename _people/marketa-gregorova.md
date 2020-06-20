@@ -22,7 +22,7 @@ asistenti:
     tel: 721 760 253
     mail: nadezda.barcalova@la.europarl.europa.eu
 direct-contact: true
-office
+office:
   - adress: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
   github:
