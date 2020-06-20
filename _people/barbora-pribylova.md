@@ -16,4 +16,4 @@ profiles:
   linkedin:
 ---
 
-Jana Rohová (30. září 1986) je lidskoprávní aktivistka. Od roku 2013 působí v Pirátské straně. Vyznává humánní přístup k člověku, svobodu slova a pohybu. Budí lidi k občanské zodpovědnosti a šíří osvětu v oblasti hodnot, dnes často opomíjených – toleranci odlišností a udržení svobod.
+Barbora je lidskoprávní aktivistka. Od roku 2013 působí v Pirátské straně. Vyznává humánní přístup k člověku, svobodu slova a pohybu. Budí lidi k občanské zodpovědnosti a šíří osvětu v oblasti hodnot, dnes často opomíjených – toleranci odlišností a udržení svobod.
