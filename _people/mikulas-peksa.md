@@ -11,7 +11,6 @@ description: Europoslanec, garant programového bodu Zahraničí, předseda Evro
 mail:
 - mikulas.peksa@ep.europa.eu
 mob:
-direct-contact: true
 asistenti:
   - name: David Wagner
     mail: david.wagner@pirati.cz
@@ -19,6 +18,12 @@ asistenti:
   - name: Cindy Degreef  
     mail: cindy.degreef@europarl.europa.eu
     tel: 32 22847522
+  - name: Tomáš Hába (asistent v ČR)
+    mail: tomas.haba@la.europarl.europa.eu
+    tel: 723 248 776
+    direct-contact: true
+office: 
+  - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
   github:
   facebook: https://www.facebook.com/peksamikulas/
