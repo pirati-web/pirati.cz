@@ -29,4 +29,4 @@ Příští týden proto Piráti předloží premiérovi seznam požadavků a ná
 
 6. Zpracovat komplexní LCA/CBA analýzu projektu a ohodnocení a nacenění závazku státu vůči investorovi.
 
-* **[Dokument Budoucnost jaderné energetiky v ČR](pirati.cz/assets/pdf/budoucnost-je-cr.pdf)**
+* **[Dokument Budoucnost jaderné energetiky v ČR](https://pirati.cz/assets/pdf/budoucnost-je-cr.pdf)**
