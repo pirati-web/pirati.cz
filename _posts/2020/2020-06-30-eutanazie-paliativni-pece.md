@@ -3,7 +3,7 @@ date:         2020-06-30
 category:     blog
 tags:         lidská-práva legislativa
 layout:       post
-title:        "Předložili jsme zákon o eutanazii a paliativní péči. Každý člověk musí mít konečně právo volby "
+title:        "Předložili jsme zákon o eutanazii a paliativní péči. Každý člověk musí mít konečně právo volby"
 image:        /assets/img/articles/2020/barton-prochazkova.JPG
 author:       Lukáš Bartoň
 ---  
@@ -27,3 +27,6 @@ Návrh zákona se dlouze zabývá opatřeními, která povedou k co nejnižším
 Jednotlivé kroky jsou zaznamenávány do zdravotní dokumentace a následně odesílány Komisi pro kontrolu a hodnocení, která zpětně každý případ znovu otevře, zkontroluje a vyhodnotí, zda vše proběhlo řádně. Je zde tak stoprocentní kontrola všech provedených výkonů. Komise také vypracovává zprávu pro Poslaneckou sněmovnu a doporučení pro úpravu legislativy v případě, že shledá některé postupy nedostatečnými či zbytečnými.
 
 Eutanazie je v Evropě povolena v Belgii, Nizozemsku a Lucembursku. Asistovaná sebevražda je možná i ve Švýcarsku a Německu. Další státy jako Španělsko a Portugalsko o legislativě jednají. Je jen na nás, zda se Česká republika přidá k těmto zemím a přestaneme přehlížet přání pacientů v terminálním stádiu nemoci, nebo zda i nadále budou tito lidé nuceni umírat dle představ menšinové části společnosti či utíkat přes hranice.
+
+* [Zákon o eutanázii](https://pirati.cz/assets/pdf/z-o-eutanazii.pdf)
+* [Důvodová zpráva](https://pirati.cz/assets/pdf/eutanazie-duvodova-zprava.pdf	)
