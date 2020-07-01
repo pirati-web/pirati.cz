@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí seminář sněmovna
 layout:       post
 title:        "Proč je nám pod stromy dobře? Chladí potichu i zdarma, zaznělo na semináři o městské zeleni"
-image:        /assets/img/articles/2019/dana99.jpg
+image:        /assets/img/articles/2018/balcarova-dana3.jpg
 author:       Mediální odbor
 ---   
 
