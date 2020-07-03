@@ -3,7 +3,7 @@ date:         2020-07-03
 category:     blog
 tags:         sněmovna
 layout:       post
-title:        "Po urgencích Pirátů zveřejní Český statistický úřad konečně data o četnosti jmen i registrovaných partnerstvích"
+title:        "Po urgencích Pirátů zveřejní Český statistický úřad konečně data o registrovaných partnerstvích i četnosti jmen"
 image:        /assets/img/articles/2020/profant.jpg
 author:       Mediální odbor
 ---   
