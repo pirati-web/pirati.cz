@@ -4,12 +4,15 @@ category:     blog
 tags:         životní-prostředí koronavirus sněmovna
 layout:       post
 title:        "Sněmovna na popud Pirátů projedná vývoj kolem koronaviru i kritickou situaci v Karviné. Hrozí kolaps, varuje pirátská zastupitelka"
-image:        /assets/img/articles/20202/klusova-richterova.jpg
+image:        /assets/img/articles/2020/klusova-richterova.jpg
 author:       Mediální odbor
 ---   
 
 
-Praha, 3. července 2020 – Piráti iniciují mimořádné zařazení bodu ohledně aktuálního vývoje nákazy koronaviru na jednání Sněmovny v příštím týdnu. Znepokojuje je především stále kritičtější situace v Karviné. „Již v minulosti jsme žádali po vládě, aby připravila kapacitu pro možné rozsáhlejší testování, dopracovala chytrou karanténu včetně legislativního rámce, a aby byly k dispozici podrobnější, byť anonymizované, údaje o vývoji nákazy. Báli jsme se nepřipravenosti na možnou druhou vlnu pandemie, což se vzhledem k současné krizi na Karvinsku ukázalo bohužel jako opodstatněné,“ uvedla místopředsedkyně Pirátů Olga Richterová. Jednat se bude i o [pirátských usnesení pro vládu](https://www.pirati.cz/tiskove-zpravy/pirati-prosadili-jedenact-usneseni-k-reseni-koronakrize.html), které schválila Sněmovna ohledně dopracování chytré karantény a představení strategie testování pro případ druhé vlny koronaviru.
+Praha, 3. července 2020 – Piráti iniciují mimořádné zařazení bodu ohledně aktuálního vývoje nákazy koronaviru na jednání Sněmovny v příštím týdnu. Znepokojuje je především stále kritičtější situace v Karviné. 
+> „Již v minulosti jsme žádali po vládě, aby připravila kapacitu pro možné rozsáhlejší testování, dopracovala chytrou karanténu včetně legislativního rámce, a aby byly k dispozici podrobnější, byť anonymizované, údaje o vývoji nákazy. Báli jsme se nepřipravenosti na možnou druhou vlnu pandemie, což se vzhledem k současné krizi na Karvinsku ukázalo bohužel jako opodstatněné,“ uvedla místopředsedkyně Pirátů Olga Richterová. 
+
+Jednat se bude i o [pirátských usnesení pro vládu](https://www.pirati.cz/tiskove-zpravy/pirati-prosadili-jedenact-usneseni-k-reseni-koronakrize.html), které schválila Sněmovna ohledně dopracování chytré karantény a představení strategie testování pro případ druhé vlny koronaviru.
 
 > „Na Karvinsku počet nakažených překročil tisícovku, koronavir se prokázal v dolech Darkov, ČSM-Sever, ČSM-Jih, ale i na základní škole nebo v nemocnicích v Karviné i Bohumíně. Bohužel OKD neotestovalo všech 8 tisíc zaměstnanců, jak slíbilo. Například v dole ČSA jde pouze o 60 zaměstnanců. Není jediný racionální důvod domnívat se, že po Dole Darkov a ČSM-Sever i Jih, kde se prokázalo více než 20 % nakažených, bude jiná situace na Dole ČSA. Pokud si bez otestování půjdou užít dovolenou, opět velmi riskujeme. Ale šíření nákazy jim pak rozhodně nemůžeme dávat za vinu,“ popsala Richterová s tím, že právě z toho důvodu chtějí Piráti příští týden ve Sněmovně o kritické situaci jednat. 
 
