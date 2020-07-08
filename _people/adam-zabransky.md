@@ -5,7 +5,7 @@ fullname: Adam Zábranský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/adam-zabransky.jpg   # 165 x 220
-description: Zastupitel hl. m. Prahy, člen Rady hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Člen Rady hl. m. Prahy s působností bydlení a transparentnost             	# kratký popis, max 160 znaků
 mail:
 - adam.zabransky@pirati.cz
 mob:			  +420 721 006 868

@@ -5,7 +5,7 @@ fullname: Michaela Krausová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/michaela-krausova.jpg   # 165 x 220
-description: zastupitelka hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Zastupitelka Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
 mail:
 - michaela.krausova@pirati.cz
 mob:			  +420 732 858 172

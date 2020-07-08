@@ -5,7 +5,7 @@ fullname: Eva Horáková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/eva-horakova.jpg   # 165 x 220
-description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
+description: Místopředsedkyně zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, předsedkyně výboru pro sociální politiku             	# kratký popis, max 160 znaků
 mail:
 - eva.horakova@pirati.cz
 mob: +420 727 870 828

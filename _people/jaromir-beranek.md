@@ -5,7 +5,7 @@ fullname: Mgr. Ing. Jaromír Beránek 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
 img: people/jaromir-beranek.jpg   # 165 x 220
-description: Místopředseda zastupitelského klubu Pirátů, předseda výboru pro IT a Smart Cities           	# kratký popis, max 160 znaků
+description: Místopředseda zastupitelského klubu Pirátů v zastupitelstvu hl. m. Prahy, předseda výboru pro IT a Smart Cities           	# kratký popis, max 160 znaků
 mail:
 - jaromir.beranek@pirati.cz
 mob:			  

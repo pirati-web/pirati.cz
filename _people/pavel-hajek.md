@@ -3,7 +3,6 @@ uid: pavel.hajek
 name:     Pavel Hájek  	# běžně používáné jméno
 fullname: Pavel Hájek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/pavel-hajek.jpg   # 165 x 220
 description: zastupitel hl. m. Prahy, zastupitel městské části Praha 10             	# kratký popis, max 160 znaků
 mail:

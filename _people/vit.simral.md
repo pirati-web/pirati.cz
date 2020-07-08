@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - praha
 img: people/vit-simral.jpg    # 165 x 220
-description: člen Rady hl. m. Prahy garant programového bodu práce a sociální věci             	# kratký popis, max 160 znaků
+description: Člen Rady hl. m. Prahy s působností školství, sportu, vědy, garant programového bodu práce a sociální věci             	# kratký popis, max 160 znaků
 mail:
 - vit.simral@pirati.cz
 mob:			  
