@@ -3,8 +3,8 @@ date:         2020-07-08
 category:     blog
 tags:         sněmovna legislativa bydlení
 layout:       post
-title:        "va roky po předložení pirátského návrhu na podporu vlastnického bydlení se ruší daň z nabytí nemovitých věcí"
-image:        /assets/img/articles/2020/2020/martinek1.jpg
+title:        "Dva roky po předložení pirátského návrhu na podporu vlastnického bydlení se ruší daň z nabytí nemovitých věcí"
+image:        /assets/img/articles/2020/martinek1.jpg
 author:       Mediální odbor
 ---   
 
