@@ -48,7 +48,7 @@ Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.googl
 * vždy jednou za šest týdnů v poslaneckém týdnu (týden před zahájením schůze),
 * mimořádně před schůzí ústavně právního výboru, pokud je to třeba.
 
-Tým Spravedlnost se zpravidla schází zasedací místnosti poslanckého klubu Pirátů (vstup z Malostranského náměstí 7/19).
+Tým Spravedlnost se zpravidla schází v zasedací místnosti poslanckého klubu Pirátů (vstup z Malostranského náměstí 7/19).
 Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewforum.php?f=960&sid=1d71bc740c5ce6b4283a957e6206b215).
 
 Online komunikace
@@ -58,7 +58,7 @@ Online komunikace
 
 
 Členové týmu
------------
+------------
 
 * **[Jakub Michálek](/lide/jakub-michalek/)**, místopředseda ústavně právního výboru a člen komise pro Ústavu, poslanec zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců,
 * **[František Navrkal](/lide/frantisek-navrkal/)**, člen ústavně právního výboru, řeší ochranu soukromí a základních práv, volební systémy,
@@ -71,3 +71,9 @@ Online komunikace
 * **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí, Tomáš Vymazal pro oblast vězeňství).
+
+Podtýmy
+-------
+* Demokracie - kontaktní osoba V. Pikal
+* Vězeňství - kontaktní osoba T. Vymazal
+* Lidská práva - kontaktní osoby M. Archalous a F. Kopřiva
