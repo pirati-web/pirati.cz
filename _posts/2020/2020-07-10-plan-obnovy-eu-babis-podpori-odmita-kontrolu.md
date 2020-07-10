@@ -2,8 +2,9 @@
 date:         2020-07-10
 category:     blog
 tags:         sněmovna finance evropská-unie 
+layout:       post
 title:        "Piráti prosadili, aby premiér Babiš podpořil plán obnovy EU, vládní poslanci však odmítají důslednou kontrolu těchto fondů"
-image:        /assets/img/articles/2020/frantisek-kopriva.jpg
+image:        /assets/img/articles/2020/kopriva-eu.jpg
 author:       Mediální odbor
 ---   
 
