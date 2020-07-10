@@ -11,7 +11,7 @@ author:       Mediální odbor
 
 
 
-Praha, 30. července 2020 – Návrhy na snížení schodku státního rozpočtu, řešení protiprávních exekucí, podpora škol technikou pro online výuku a jednání o dostavbě bloků elektrárny Dukovany byly tématy pirátských poslanců před mimořádnou schůzí Poslanecké sněmovny k projednání novely státního rozpočtu.
+Praha, 30. června 2020 – Návrhy na snížení schodku státního rozpočtu, řešení protiprávních exekucí, podpora škol technikou pro online výuku a jednání o dostavbě bloků elektrárny Dukovany byly tématy pirátských poslanců před mimořádnou schůzí Poslanecké sněmovny k projednání novely státního rozpočtu.
 
 > „Nesouhlasíme, aby stát v situaci hospodářské krize a hrozbě nezaměstnanosti a krachů firem řekl, že není potřeba kdekoliv šetřit. Navrhneme proto tři varianty snížení schodku, a to o 11, 16 a 25 miliard. Prostor pro snižování vidíme například v oblasti PR – není jasné, proč si některé státní instituce platí billboardové kampaně nebo reklamy v televizi. Nechceme snižování platů státních zaměstnanců, ale provozní úspory. Dále navrhujeme vyhrazení prostředků pro rozsáhlejší testování po vzoru Jižní Korey. Navrhujeme také urychlení práce na sjednocení výběru daně z příjmu, zdravotního a sociálního pojištění, což může přinést několik miliard korun ročně, pokud dojde k odstranění duplicitních činností v administrativě. Kromě rozpočtu budeme řešit i zavedení kompenzačního bonusu pro dohodáře. O něm jsme jednali několik týdnů, na náš podnět ho schválila vláda a chceme stihnout jeho přijetí ještě před parlamentními prázdninami,“ uvedl poslanec Mikuláš Ferjenčík.
 
