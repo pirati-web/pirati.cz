@@ -5,7 +5,7 @@ tags:         vláda právo-a-justice
 layout:       post
 title:        "Komentář Tomáše Vymazala: Plošné testování toxikomanii ve vězení neřeší, investujme do prevence místo represe"
 image:        /assets/img/articles/2019/tomas-vymazal.jpg
-author:       Mediální odbor
+author:       Tomáš Vymazal
 ---   
 
 
