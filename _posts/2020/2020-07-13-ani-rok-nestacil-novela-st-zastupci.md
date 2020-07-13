@@ -19,3 +19,4 @@ Předseda poslaneckého klubu Pirátů Jakub Michálek znovu interpeloval minist
 Již v loňském červnu byl předložen návrh z dílny Pirátů, ODS a KDU-ČSL. Návrh zákona zajišťuje větší nezávislost státních zástupců na libovůli politiků. Tento poslanecký návrh vznikl na základě odborných diskusí u kulatého stolu se zástupci poslaneckých klubů a odborníků. Na návrhu se podílela platforma Rekonstrukce státu a byl konzultován s Nejvyšším státním zastupitelstvím a Unií státních zástupců. Ze strany vládní koalice však není vůle tento návrh projednat. Piráti proto tlačí na vládu, aby přišla s vlastním návrhem.
 
  
+* [Stručná historie vládní novely](https://pirati.cz/assets/pdf/osa-st-zastupci.pdf)
