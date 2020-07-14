@@ -18,4 +18,4 @@ Praha, 14. července 2020 – Vláda rozhodla prostřednictvím státní společ
 
 > Paradoxně jsou tak nejvíce zasaženy právě rodiny nemocných horníků, které přišly i o několik desítek tisíc. V případě, že byl zaměstnanec dolů pozitivně testován, většinou na nemocenské skončila i jeho manželka a případně i další členové rodiny. „Neřízený útlum OKD by způsobil regionu obrovské problémy. Společnost tedy samozřejmě podporu potřebuje. Zároveň k tomu ale nelze přistupovat tak, že vláda napumpuje znova do OKD miliardy jako do černé díry, aniž by společnost představila plán útlumu a reorganizaci. Část zaměstnanců se může uplatnit v rekultivacích a útlumových pracech, ale teď všichni potřebují vědět, na čem jsou,” dodává Lukáš Černohorský.    
 
-* [Interpelace Lukáše Černohorského na ministryni Alenu Schillerovou](https://pirati.cz/assets/pdfinterpelace-cernohorsky-schillerova.pdf).
+* [Interpelace Lukáše Černohorského na ministryni Alenu Schillerovou](https://pirati.cz/assets/pdf/interpelace-cernohorsky-schillerova.pdf).
