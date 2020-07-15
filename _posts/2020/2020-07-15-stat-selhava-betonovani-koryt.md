@@ -4,7 +4,7 @@ category:     blog
 tags:         zemědělství životní-prostředí sucho
 layout:       post
 title:        "Komentář Dany Balcarové: Změny nenavrhujeme od stolu. Betonování říčních koryt je příkladem selhání státu při řešení sucha"
-image:        /assets/img/articles/2020/Dana-potok.jpg
+image:        /assets/img/articles/2020/Dana-potok2.jpg
 author:       Dana Balcarová
 ---   
 
