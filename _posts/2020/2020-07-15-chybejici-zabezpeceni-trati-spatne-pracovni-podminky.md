@@ -3,7 +3,7 @@ date:         2020-07-15
 category:     blog
 tags:         doprava bezpečnost
 layout:       post
-title:        "Za vlaková neštěstí mohou i špatné pracovní podmínky strojvedoucích a chybějící moderní zabezpečení železnic. Piráti nabízejí vládě řešení"
+title:        "Komentář Ondřeje Polanského: Za vlaková neštěstí mohou i špatné pracovní podmínky strojvedoucích a chybějící moderní zabezpečení železnic. Piráti nabízejí vládě řešení"
 image:        /assets/img/articles/2019/ondrej-polansky.jpg
 author:       Ondřej Polanský
 ---   
