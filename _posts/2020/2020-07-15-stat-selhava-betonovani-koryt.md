@@ -1,5 +1,5 @@
 ---
-date:         2020-07-15 0:00:00
+date:         2020-07-15
 category:     blog
 tags:         zemědělství životní-prostředí sucho
 layout:       post
