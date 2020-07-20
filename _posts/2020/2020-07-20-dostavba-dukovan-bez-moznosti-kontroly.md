@@ -20,4 +20,4 @@ Před bezpečnostními riziky pro Českou republiku pak varoval předseda STAN V
 
 > „Pro Piráty má znalostní ekonomika zásadní význam, dlouhodobě usilujeme o to, aby bylo Česko mozkovnou a ne montovnou. Uvědomujeme si, že v oblasti jádra máme velmi vysoké know-how i vliv v mezinárodních institucích, jedná se také o dobrý exportní artikl.  Jaderná energetika je rovněž významnou součástí energetického mixu Česka. Při odklonu energetiky od uhlí je tak nutné potenciál jádra plně využít a zajistit energetickou bezpečnost. Chceme proto mimo jiné, aby vláda jasně deklarovala, jak se bude stavět k rozvoji malých jaderných reaktorů a představila desetileté schéma financování jaderného výzkumu,“ uzavřel poslanec.
 
-Podrobný seznam požadavků Pirátů a STAN naleznete [zde](assets/pdf/Požadavky na vládu_Dukovany.pdf).
+Podrobný seznam požadavků Pirátů a STAN naleznete [zde](https://pirati.cz/assets/pdf/Požadavky na vládu_Dukovany.pdf).
