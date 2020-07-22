@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa kultura sněmovna 
 layout:       post
 title:        "Ministr kultury odvolal šéfa Národní knihovny, důvodem jsou i podezřelé zakázky. Na problémy Piráti dlouhodobě upozorňují"
-image:        /assets/img/articles/2020/lenka-kozlova.jpg
+image:        /assets/img/articles/2020/kozlova2020.jpg
 ---   
 
 
