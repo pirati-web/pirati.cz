@@ -1,0 +1,22 @@
+---
+date:         2020-07-22
+category:     blog
+tags:         legislativa sněmovna senát koronavirus 
+layout:       post
+title:        "Díky Pirátům se dohodáři konečně dočkají kompenzačního bonusu a podpory státu. Návrh schválil Senát"
+image:        /assets/img/articles/2020/olga_dite.jpg
+---   
+
+
+Praha, 22. července 2020 –  Senát dnes schválil kompenzační bonus i pro lidi pracující na dohody, tento návrh Piráti usilovně prosazovali již od března. Vláda totiž dohodáře nechala řadu měsíců během pandemie bez pomoci, i když si platili poctivě pojištění. Jde přitom až o sto padesát tisíc lidí – mnohdy o maminky na rodičovské, samoživitele, invalidní či starobní důchodce s nízkými důchody a další ohrožené skupiny. 
+> „Vynechat z pomoci jednu skupinu osob, která do systému přispívala, je nejen hrozně nespravedlivé, ale také neprozřetelné. Jde velmi často o lidi bez finančních rezerv, kombinací několika dohod nezřídka suplují klasický zaměstnanecký poměr. Hrozí jim tak snadno pád do dluhové pasti či ztráta střechy nad hlavou. Proto jsme za Piráty hned po vypuknutí koronavirové krize začali tlačit na vládu, aby bonus poskytla i jim. Trvalo bohužel čtvrt roku, než na to kývla, dnes ale návrh konečně prošel také Senátem. Snad se tak brzy i tito občané dočkají zasloužené podpory,“ uvedla 1. místopředsedkyně Pirátů Olga Richterová.
+
+> „Hned po vypuknutí koronavirové krize jsem vyzvala lidi, kteří se ocitli v problémech, aby se mi ozvali. Během dvou dnů se na mě obrátilo více než 500 lidí v potížích, kteří pracují právě na nějakou formu dohody. Již 22. března jsem tak upozornila na problém ministryni práce a sociálních věcí Janu Maláčovou hlavně v souvislosti s problematickým postavením samoživitelek, které často pracují na dohodu, protože zaměstnanecký poměr neseženou, platí pojištění, ale stát jim žádný příspěvek nepřiznal. V dalších týdnech pak Piráti připravili návrh kompenzačního bonusu pro dohodáře, který však Sněmovna 7. dubna hlasy vládních poslanců odmítla. Až po dlouhém tlaku z naší strany se podařilo návrh konečně protlačit,” popsala Richterová s tím, že schválené kompenzace pro dohodáře by měly činit  350 korun na den. 
+
+> „Při délce období 89 dnů může tato podpora činit až 31 150 Kč. Zásadní je, že podpora se týká i těch, kteří mají souběh dohody s živností a nebudou muset vracet prostředky, které již obdrželi. Dále se maže i rozdíl mezi pěstouny, kteří jsou OSVČ, a tedy nárok na bonus měli, a těmi, kteří jsou společníky malých s.r.o. a žádná podpora se na ně nevztahovala. Celkově by se pomoci mohlo dočkat až sto padesát tisíc lidí, pro které může být bonus záchranou před životem v dluzích,“ uvedl k dnešnímu schválení návrhu v Senátu pirátský poslanec Mikuláš Ferjenčík.
+
+Richterová ale upozorňuje na to, že se během koronavirové krize naplno ukázalo špatné nastavení systému dohod a problém bude třeba řešit. 
+> „Dělat na dohodu není žádná výhra. Už dávno neslouží jen pro zajištění příležitostných prací typu sezónní brigády. Ve snaze ušetřit na odvodech suplují podnikatelé krátkodobými smlouvami klasický pracovní poměr. Nebo hůř - ve státním sektoru se tak řeší nedostatek tabulkových pracovních míst jako třeba u učitelů jazyků. Lidé, kteří pracují v tomto režimu, pak nejsou chráněni pracovními předpisy ani dohodami odborů. Nemají nárok na dovolenou, na přestávky, na odstupné, leckdy ani na podporu v nezaměstnanosti. Pokud neodvádí pojištění na sociální zabezpečení, zůstávají navíc nezajištěni i do budoucna - nepočítají se jim roky do důchodu. Hrozí jim tak velmi nízký nebo dokonce žádný důchod,“ vysvětlila poslankyně. 
+
+Piráti tak mají zájem dohody upravit, aby nedocházelo k jejich zneužívání. 
+> „Dohody jsou potřeba. Jsou práce, které celoročně vykonávat opravdu nelze jako sezónní sběr ovoce, zvukaři na festivalech, odborní medicínští konzultanti a další. Na druhou stranu je ale třeba zamezit jejich zneužívání. Minulé léto Rada EU přijala směrnici, která ukládá zaměstnavatelům například povinnost informovat zaměstnance od prvního dne o počáteční základní částce odměny, délce placené dovolené, standardního pracovního dne nebo týdne, v případě nepředvídatelné pracovní doby pak budou dány referenční hodiny, kdy bude moct být pracovník povolán. Tedy přesně to, co je v současnosti problematické i u lidí pracujících na dohody. Bohužel to zatím vypadá, že vláda se na zpřesnění pravidel pro dohodáře zatím nijak nechystá,“ uzavřela Richterová. Pokud členská země EU nedodrží implementační lhůtu do poloviny roku 2022 hrozí přitom sankce ve výši desítek až stovek milionů korun. 
