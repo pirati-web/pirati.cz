@@ -6,7 +6,7 @@ fullname: Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - euro
-img: people/mikulas-peksa-2020.jpg   # 165 x 220
+img: people/mikulas-peksa.jpg   # 165 x 220
 description: Europoslanec, garant programového bodu Zahraničí, předseda Evroské pirátské strany
 mail:
 - mikulas.peksa@ep.europa.eu
