@@ -3,7 +3,7 @@ date:         2020-07-15
 category:     blog
 tags:         zemědělství životní-prostředí sucho
 layout:       post
-title:        "Komentář Dany Balcarové: Změny nenavrhujeme od stolu. Betonování říčních koryt je příkladem selhání státu při řešení sucha"
+title:        "Komentář Dany Balcarové: Změny nenavrhujeme od stolu. Další technokratická regulace říčních koryt je příkladem selhání státu při řešení sucha"
 image:        /assets/img/articles/2020/Dana-potok2.jpg
 author:       Dana Balcarová
 ---   
@@ -15,7 +15,7 @@ Horní Kamenice, 15. července 2020 – Pokud chceme vzdorovat kritickému suchu
 
  
 
-V minulosti brutálně zregulovaný Srbický potok, který se díky přírodním procesům sám a zdarma zrevitalizoval, začal letos na jaře státní podnik Povodí Vltavy narovnávat a břehy znovu zpevňovat pomocí kamenů. Zjistila jsem, že místní zabránili navrácení celého potoka do regulovaného stavu jen tím, že Povodí Vltavy nepustili na své pozemky. S prosazením přírodě bližšího řešení jim nepomohly ani úřady, které mají na starosti ochranu životního prostředí. Je smutné, že občané sami musí bojovat za to, aby jim stát zpátečnicky nereguloval vodní toky. Ministerstvo zemědělství má mnoho strategií na zadržení vody v krajině a proti suchu. Ale případy jako je tento, dokládají, že je není schopno aplikovat v praxi. 
+V minulosti brutálně zregulovaný Srbický potok, který se díky přírodním procesům sám a zdarma částečně zrevitalizoval, začal letos na jaře státní podnik Povodí Vltavy narovnávat a břehy znovu zpevňovat pomocí kamenů. Zjistila jsem, že místní zabránili navrácení části potoka do regulovaného stavu jen tím, že Povodí Vltavy nepustili na své pozemky. S prosazením přírodě bližšího řešení jim nepomohly ani úřady, které mají na starosti ochranu životního prostředí. Je smutné, že občané sami musí bojovat za to, aby jim stát zpátečnicky nereguloval vodní toky. Ministerstvo zemědělství má mnoho strategií na zadržení vody v krajině a proti suchu. Ale případy jako je tento, dokládají, že je není schopno aplikovat v praxi. 
 
  
 
