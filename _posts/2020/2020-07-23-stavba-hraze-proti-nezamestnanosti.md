@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa evropský-parlament koronavirus 
 layout:       post
 title:        "Evropa staví hráz proti nezaměstnanosti"
-image:        /assets/img/articles/2019/kolaja.jpg
+image:        /assets/img/articles/2020/kolaja.jpg
 ---  
 
 
