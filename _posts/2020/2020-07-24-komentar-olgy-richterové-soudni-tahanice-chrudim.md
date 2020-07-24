@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa spravedlnost komentář 
 layout:       post
 title:        "Komentář Olgy Richterové: Jak ochránit děti před traumaty ze soudních tahanic? Inspirací může být město Chrudim, zlepšováky z praxe předložím ministerstvům"
-image:        /assets/img/articles/olga-richterova.jpg
+image:        /assets/img/articles/richterova1.jpg
 ---  
 
 
