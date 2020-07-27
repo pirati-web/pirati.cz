@@ -13,7 +13,7 @@ Praha, 27. července 2020 – Pirátům, kteří jsou aktuálně nejpopulárněj
 
  
 
-**Konkrétní časová osa: **
+**Konkrétní časová osa:**
 
  
 
