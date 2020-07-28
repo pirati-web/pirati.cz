@@ -4,7 +4,7 @@ category:     blog
 tags:         legislativa koronavirus volby
 layout:       post
 title:        "Piráti dnes předají ministru vnitra návrh, aby občané mohli od podzimu volit na dálku. Lidé v karanténě nesmí přijít o své hlasy, říká předseda Ivan Bartoš"
-image:        /assets/img/articles/2020/bartos-rouska.jpg
+image:        /assets/img/articles/2020/bartos-team.jpg
 ---  
 
  
