@@ -5,7 +5,7 @@ fullname: Bc. František Navrkal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - psp
-img: people/frantisek-navrkal.jpg   # 165 x 220
+img: people/frantisek-navrkal-2020.jpg   # 165 x 220
 description: poslanec PSP ČR, předseda krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
 ordpsp: 22
 mail:
