@@ -4,14 +4,14 @@ cid: jihlava
 name: Kraj Vysočina
 fullname: Krajské sdružení Vysočina
 img: teams/jihlava.jpg
-leader: michaela.vodova
+leader: ondrej.tuma
 deputy:
 - Roman Pašek
 - Milan Daďourek
-- Ondřej Tůma
+- Eva Nováková
 - Jan Pošvář
 contact:
-- ondrej.tuma
+- eva.novakova
 region: Kraj Vysočina
 url: http://vysocina.pirati.cz
 categories:
