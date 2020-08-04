@@ -11,7 +11,7 @@ deputy:
 - Ondřej Tůma
 - Jan Pošvář
 contact:
-- michaela.vodova
+- ondrej.tuma
 region: Kraj Vysočina
 url: http://vysocina.pirati.cz
 categories:
