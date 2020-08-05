@@ -8,10 +8,9 @@ leader: ondrej.tuma
 deputy:
 - Roman Pašek
 - Milan Daďourek
-- Eva Nováková
 - Jan Pošvář
 contact:
-- eva.novakova
+- ondrej.tuma
 region: Kraj Vysočina
 url: http://vysocina.pirati.cz
 categories:
