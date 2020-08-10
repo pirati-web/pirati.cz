@@ -4,7 +4,7 @@ category:     blog
 tags:         volby zahraničí lidská-práva
 layout:       post
 title:        "Karikatura demokracie – Bělorusko uspořádalo prezidentské volby"
-image:        /assets/img/articles/2020/2020/jan-lipavsky1.jpg
+image:        /assets/img/articles/2020/jan-lipavsky1.jpg
 ---  
 
 Praha, 10. srpna 2020 – Letošní prezidentské volby v Bělorusku nenaplnily žádnou ze základních náležitostí demokratických voleb. Jejich oficiální výsledek také zdaleka neodpovídá reálnému rozložení volebních preferencí. Průběh voleb považují Piráti za skandální i na poměry země, která dlouhodobě uplatňuje útlak svobodně smýšlejících lidí. „Bělorusům je odepírána řada základních lidských i politických práv, a to nejen v období voleb. Ty letošní provázelo odepření účasti opozičních kandidátů, zatýkání i brutální policejní zákroky proti pokojným demonstrujícím. Běloruský režim ztratil poslední zbytky legitimity a podpory vlastních obyvatel, a proto se opakovaně uchyluje k totalitním praktikám a útokům vůči vlastním občanům.”
