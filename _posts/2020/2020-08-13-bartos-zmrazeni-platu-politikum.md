@@ -3,7 +3,7 @@ date:         2020-08-13
 category:     blog
 tags:         finance kontrola-moci-a-mocných
 layout:       post
-title:        "Piráti chtějí zmrazit politikům a dalším ústavním činitelům na rok platy, stát ušetří přes půl miliardy. V krizi se musíme šetřit všichni, říká Ivan Bartoš"
+title:        "Piráti chtějí zmrazit politikům a dalším ústavním činitelům na rok platy, stát ušetří přes půl miliardy. V krizi musíme šetřit všichni, říká Ivan Bartoš"
 image:        /assets/img/articles/2020/ivan-mikulas.jpg
 ---  
 
