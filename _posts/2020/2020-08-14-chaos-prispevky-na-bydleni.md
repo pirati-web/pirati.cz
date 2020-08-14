@@ -3,10 +3,11 @@ date:         2020-08-14
 category:     blog
 tags:         finance práce-a-sociální-věci
 layout:       post
-title:        "Komentář Olgy Richterové: Tisíce samoživitelů mohou přijít o střechu nad hlavou. Ministerstvo práce rozpoutalo chaos kolem příspěvků na bydlení
+title:        "Komentář Olgy Richterové: Tisíce samoživitelů mohou přijít o střechu nad hlavou. Ministerstvo práce rozpoutalo chaos kolem příspěvků na bydlení"
 image:        /assets/img/articles/2020/richterova.jpg
 --- 
 
+ 
 Praha, 14. srpna 2020 – Rodiče, kteří zůstali na výchovu potomka sami, patří dlouhodobě do skupiny nejvíce ohrožené chudobou. Úřady jim teď navíc hází další klacky pod nohy. Od července 2020 se totiž změnily podmínky pro získání příspěvku na bydlení – nově musí žadatelka či žadatel dokazovat, že s nimi v domácnosti nežije otec či matka dítěte. Aby byla situace ještě komplikovanější, nemají úřady jasno ani v tom, zda se pravidla týkají pouze nových žadatelů o dávku, nebo i těch již příspěvek pobírajících, popřípadě co se vlastně počítá jako důkaz „nebydlení“. Někde postačuje dokument o rozvodu, jinde chtějí i nájemní smlouvu druhého rodiče potvrzující bydlení na odlišné adrese. To ovšem samoživitelům působí velké problémy, protože druhý rodič mnohdy odmítá spolupracovat. Nebezpečnou páku dává nejasný výklad do rukou i například násilnickým expartnerům, kteří tak mohou svou původní rodinu vydírat. 
 
 Nízkopříjmové domácnosti, z nichž významnou část představují rodiny samoživitelů, dlouhodobě bojují s nedostatkem financí a mnohdy mají problém zajistit sobě a dětem důstojné bydlení. Pro tyto případy mohou žádat o státní podporu v podobě příspěvku na bydlení. Od devadesátých let až dosud se pro jeho výpočet vycházelo z příjmů členů domácnosti, kteří mají v daném bytě trvalý pobyt. To se však od začátku července 2020 změnilo a pracovníci Úřadu práce mohou nově rozhodnout o tom, že se mezi zmíněné členy domácnosti počítá i někdo, kdo tam trvalý pobyt vůbec nemá, ale fakticky členem domácnosti je. Tedy například otec dítěte. Potud to je v pořádku: znění zákona totiž původně znemožňovalo započítat do příjmů rodiny i partnera nahlášeného trvalým pobytem jinde, byť mohl v domácnosti fakticky pobývat. 
