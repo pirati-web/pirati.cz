@@ -9,7 +9,7 @@ image:        /assets/img/articles/2020/tresnak.jpg
 
 
 
-Praha 17. září 2020 - Vláda opět přichází s plošným nošením roušek. Je to asi jediné řešení, které zná. Bez debat, vysvětlení či uveřejnění dat. Znovu se ukazuje, že vláda nezvládne připravit plán ani na víc než 14 dní dopředu. My jsme plán už dávno představili: [budoucnostresimeted.cz](https://budoucnostresimeted.cz). A i nadále jsme svědky toho, jak se vládě nedaří implementovat chytrá a moderní řešení.
+Praha, 17. srpna 2020 - Vláda opět přichází s plošným nošením roušek. Je to asi jediné řešení, které zná. Bez debat, vysvětlení či uveřejnění dat. Znovu se ukazuje, že vláda nezvládne připravit plán ani na víc než 14 dní dopředu. My jsme plán už dávno představili: [budoucnostresimeted.cz](https://budoucnostresimeted.cz). A i nadále jsme svědky toho, jak se vládě nedaří implementovat chytrá a moderní řešení.
 
 Již týdny sledujeme, jak vláda marní čas. Současná relativně klidná situace by měla být využita pro prevenci v rámci nejzranitelnější části populace, tedy mezi seniory a imunodeficientími jedinci. Právě nyní by lidé měli chodit k lékaři na preventivní prohlídky, bohužel ze strany vlády tato výzva dosud vůbec nezazněla.
 
