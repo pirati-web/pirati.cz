@@ -3,7 +3,7 @@ date:         2020-08-17
 category:     blog
 tags:         školství vláda
 layout:       post
-title:        "O návrhu Pirátů na zajištění techniky pro žáky ve školách jedná vláda až po měsíci"
+title:        "Komentář Lukáše Bartoně: O návrhu Pirátů na zajištění techniky pro žáky ve školách jedná vláda až po měsíci"
 image:        /assets/img/articles/2020/barton.jpg
 --- 
 
