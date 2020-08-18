@@ -20,4 +20,4 @@ Situace v Hongkongu se během roku 2020 dramaticky zhoršila. V červnu byl schv
 
 
 
-[Dopis ministru zahraničí Tomáši Petříčkovi](https://pirati.cz/assets/pdf/Dopis_MZV_-_Hongkong_podepsané.pdf).
+* [Dopis ministru zahraničí Tomáši Petříčkovi](https://pirati.cz/assets/pdf/Dopis_MZV_-_Hongkong_podepsané.pdf).
