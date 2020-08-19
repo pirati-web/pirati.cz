@@ -2,7 +2,8 @@
 date:         2020-08-19
 category:     blog
 tags:         sněmovna zahraničí
-layout:       postNa popud Pirátů dnes podpořila Sněmovna běloruské občany. Žádá propuštění politických vězňů i prošetření brutalit Lukašenkova režimu"
+layout:       post
+title:        "Na popud Pirátů dnes podpořila Sněmovna běloruské občany. Žádá propuštění politických vězňů i prošetření brutalit Lukašenkova režimu"
 image:        /assets/img/articles/2020/kopriva.jpg
 --- 
 
