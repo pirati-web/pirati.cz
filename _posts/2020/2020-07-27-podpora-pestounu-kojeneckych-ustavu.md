@@ -1,0 +1,19 @@
+---
+date:         2020-07-27
+category:     blog
+tags:         vláda sociální-práce
+layout:       post
+title:        "Piráti spolunavrhli přeměnu kojeneckých ústavů na centra péče, která mají pomáhat dětem s těžkým zdravotním handicapem. Žádají i lepší podporu pěstounů"
+image:        /assets/img/articles/2020/richterova1.jpg
+---  
+
+ 
+
+Praha, 27. července 2020 – Konec kojeneckých ústavů, jak je známe dnes, se o něco přiblížil realitě. K návrhu na jejich přeměnu na Centra komplexní péče pro děti se zdravotním znevýhodněním totiž vláda zaujala neutrální stanovisko. Na legislativě se podílela i místopředsedkyně Pirátů Olga Richterová, která se dlouhodobě o tuto otázku zajímá. „Česko je poslední země EU, kde kojenecké ústavy, tedy dětské domovy pro děti do tří let, stále fungují. Pro zdárný vývoj je klíčové, aby byly malé děti umisťovány do rodin. K tomu je ale i nutná podpora pěstounů, a včasná prevence potíží u biologických rodin. Zároveň se dnes opomíjí situace rodin s dětmi, které jsou vážně zdravotně handicapované a chybí například odlehčovací pobyty. Pro takové případy by měla fungovat Centra komplexní péče s dostatkem pracovníků, aby byla zajištěna kvalitní péče,“ popsala Richterová.
+
+> Novela chce v první řadě zamezit umisťování dětí bez závažných zdravotních potíží do kojeneckých ústavů. „Naším cílem obecně je, aby děti zůstávaly co nejvíce v rodinném prostředí, kde lépe prospívají. To má ale několik podmínek. V prvé řadě musíme řešit dostupnost bydlení a chudobu rodin tak, aby nebylo nutné odebírání. V případě, že se opravdu o dítě nemá kdo starat, by měli u malých dětí na řadu přijít pěstouni. Nejdříve dočasní, později dlouhodobí nebo je samozřejmě možností u právně volných dětí adopce,“ uvedla Richterová s tím, že stát v současné době pěstouny dostatečně nepodporuje. „Celý přechod kojeneckých ústavů na centra péče naráží na nedostatek pěstounů. Není divu – existuje řada bariér, která lidi odrazuje od toho, aby se do takto zodpovědného a náročného úkolu pustili. Jedním z nich je fakt, že není dostatečně chráněno jejich soukromí. Například u soudu se totiž biologičtí rodiče dozví všechny informace o pěstounské rodině, a to i včetně jejich vlastních dětí. Hrozí pak samozřejmě konflikty. Problémem je také nedostatečné finanční ohodnocení. Je nutné, aby byla v odměně zohledňována alespoň inflace a podle ní se částka pravidelně zvyšovala,“ dodala pirátská poslankyně. 
+
+> Druhá část novely se zabývá transformací kojeneckých ústavů na Centra komplexní péče pro děti s vážným onemocněním. Ta by rodinám měla odlehčovat v domácí péči o těžce nemocné potomky. Stejně tak by se starala o osamělé handicapované děti. „U dětí s těžkým postižením, které nemají rodiny, se bohužel v některých případech ústavním zařízením vyhnout nedá. I pro ně by fungovala centra péče. S hlavním předkladatelem zákona Alešem Juchelkou jsem o tomto tématu dlouze hovořila, povedlo se mi do návrhu prosadit, aby v daných zařízeních byla definována personální náročnost. Jen tak lze dětem zaručit opravdu kvalitní péči. Tyto instituce by rovněž nabízely podporu rodinám, které se doma starají o handicapované dítě. I přes lásku a obětavost jde totiž o velmi náročnou činnost, při které je třeba dopřát rodičům odpočinek,“ nastínila Richterová. 
+
+Místopředsedkyně Pirátů se otázce pěstounů, péče o handicapované děti i kojeneckých ústavů věnuje dlouhodobě. Spolu s pirátskou poslankyní Lenkou Kozlovou uspořádaly například v Ústí n. Labem seminář o tématu dlouhodobé pěstounské péče s odborníky, kde se sdílely postřehy i problémy z praxe. Z iniciativy Richterové proběhlo také setkání náměstkyň Ministerstva práce a sociálních věcí a Ministerstva zdravotnictví v Dětském centru Veská v Pardubickém kraji. To poskytuje právě komplexní péči o děti s těžkým postižením a ze sociálních důvodů děti v zařízení nemá.
+

@@ -5,7 +5,7 @@ fullname: Bc. František Navrkal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - psp
-img: people/frantisek-navrkal.jpg   # 165 x 220
+img: people/frantisek-navrkal-2020.jpg   # 165 x 220
 description: poslanec PSP ČR, předseda krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
 ordpsp: 22
 mail:
@@ -21,7 +21,7 @@ redmine: 119
 mpv: 119  
 ---
 
-František Navrkal (* 15. září 1992, Děčín) je poslanec Parlamentu České republiky zvolený za Ústecký kraj a předseda krajského sdružení Ústeckého kraje strany. Pochází z Děčína.
+František Navrkal (* 15. září 1992, Děčín) je poslanec Parlamentu České republiky zvolený za Ústecký kraj a místopředseda místního sdružení Děčín strany.
 
 V roce 2012 odmaturoval na Gymnáziu Děčín a pokračoval na FJFI ČVUT, kde studoval obor aplikace softwarového inženýrství. Od podzimu 2016 do března 2019 pracoval jako datový inženýr a IT analytik pro různé firmy. Nyní svoje zkušenosti a znalosti využívá v rámci poslaneckého klubu Pirátů.
 

@@ -4,14 +4,13 @@ cid: jihlava
 name: Kraj Vysočina
 fullname: Krajské sdružení Vysočina
 img: teams/jihlava.jpg
-leader: michaela.vodova
+leader: ondrej.tuma
 deputy:
 - Roman Pašek
 - Milan Daďourek
-- Ondřej Tůma
 - Jan Pošvář
 contact:
-- michaela.vodova
+- ondrej.tuma
 region: Kraj Vysočina
 url: http://vysocina.pirati.cz
 categories:
@@ -30,7 +29,7 @@ Piráti na Vysočině aktivně působí na území celého kraje. V Jihlavě ná
 ### Možnosti zapojení
  
 * Přijďte si za námi popovídat. Na konkrétní termíny akcí se podívejte do [kalendáře](https://calendar.google.com/calendar/embed?src=r26esfjiivuu9temt46dholqhs%40group.calendar.google.com&ctz=Europe%2FPrague) Pirátů z Vysočiny a vyberte si. Součástí každé akce jsou informace o programu a případné kontakty.
-* Pro konkrétní zapojení se kontaktujte koordinátorku Michaelu Vodovou (michaela.vodova(аt)pirati.cz).
+* Pro konkrétní zapojení se kontaktujte koordinátorku Ondřeje Tůmu (ondrej.tuma(аt)pirati.cz).
 * Podívejte se na [mapu Pirátů z Vysočiny](https://drive.google.com/open?id=1ZVfpma9qRjEPVzhjQKxsAmhCI_c1dyYF&usp=sharing) a kontaktujte nejbližšího Piráta či Pirátku.
 * Pro nováčky (ať zájemce o členství či členy) máme informace na jednom místě na [veřejném úložišti Pirátů Vysočiny](https://drive.google.com/drive/folders/0BxHTLyJwGFGoQjUxdGxXS1doMUE?usp=sharing)
  
