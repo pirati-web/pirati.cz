@@ -75,6 +75,6 @@ Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or
 
 Podtýmy
 -------
-* Demokracie - kontaktní osoba V. Pikal
+* [Demokracie](/pripoj-se/demokracie/) - vede V. Pikal, kontaktní osoba S. Zavadil
 * Vězeňství - kontaktní osoba T. Vymazal
-* Lidská práva - kontaktní osoba F. Kopřiva
+* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/) - kontaktní osoby M. Archalous a F. Kopřiva
