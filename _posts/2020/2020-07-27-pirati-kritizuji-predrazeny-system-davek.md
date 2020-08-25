@@ -3,12 +3,10 @@ date:         2020-07-27
 category:     blog
 tags:         vláda digitalizace sociální-práce
 layout:       post
+author: 	"Ondřej Profant"
 title:        "Ministerstvo práce chce vyhodit dalších 600 milionů za nechvalně známý systém pro výplatu sociálních dávek. Piráti kritizují předraženost"
 image:        /assets/img/articles/2020/profant1.jpg
-author: 	"Ondřej Profant"
 ---  
-
-
 
 Praha, 27. července 2020 – Piráti upozorňují na další předraženou IT zakázku. Za podporu, nutný rozvoj a ukončení OKaplikací od firmy OKsystem má Ministerstvo práce a sociálních věcí v plánu dát 600 milionů korun z kapes daňových poplatníků. Na příliš vysokou cenu tohoto záměru přitom upozorňují nejen pirátští poslanci, ale i Ministerstvo vnitra ve svém stanovisku. Vláda dnes bude o financích pro dlouhodobě problematický systém na výplatu sociálních dávek jednat. 
 
