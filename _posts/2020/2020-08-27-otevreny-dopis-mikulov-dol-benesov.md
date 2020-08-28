@@ -15,3 +15,6 @@ Praha, 27. srpna 2020 - V polských městech jsou vyhlašovány tzv. „zóny be
 > „V České republice se pro komunitu LGBT snažíme udělat maximum. Každý rok se účastníme pražského pochodu hrdosti a navíc jsme předložili novelu zákona, která má za cíl prosadit manželství pro všechny. Musíme si však všímat i hrozeb za našimi hranicemi,“ komentoval Kopřiva.
 
 > „Dolní Benešov a Mikulov jsou v celé věci nevinně a jejich zastupitele nelze obviňovat z diskriminace,“ dodala Klusová. „Každopádně je nutné upozornit na fakt, že i oni mohou skrze rozvázání spolupráce přispět k lepšímu životu pro gaye a lesby. Proto jsme je v otevřeném dopise vyzvali k tomuto kroku,“ uzavírá.
+
+* [Otevřený dopis zastupitelům Mikulova](https://pirati.cz/assets/pdf/Dopis zastupitelům Mikulova.pdf)
+* [Otevřený dopis zastupitelům Dolního Benešova](https://pirati.cz/assets/pdf/Dopis zastupitelům Dolního Benešova.pdf)
