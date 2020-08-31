@@ -19,13 +19,13 @@ Celý text jednomyslného stanoviska výboru České resuscitační rady, ve kte
 
 Piráti otevřeným dopisem vyzvali hejtmanku, aby zajistila:
 
-1. okamžité stažení všech 149 chemických generátorů kyslíku z předmětných resuscitačních sad, nejlépe do začátku školního roku, nejpozději pak do konce září 2020,
+1. Okamžité stažení všech 149 chemických generátorů kyslíku z předmětných resuscitačních sad, nejlépe do začátku školního roku, nejpozději pak do konce září 2020;
 
-2. informovaní všech organizací, které sadu obdržely, o správných postupech resuscitace v souladu s doporučenými postupy Evropské resuscitační rady GL 2015,
+2. informovaní všech organizací, které sadu obdržely, o správných postupech resuscitace v souladu s doporučenými postupy Evropské resuscitační rady GL 2015;
 
-3. zveřejnění jmen osob zodpovědných za vypsání nadlimitní veřejné zakázky na odborně nesmyslnou resuscitační sadu s chemickým generátorem kyslíku,
+3. zveřejnění jmen osob zodpovědných za vypsání nadlimitní veřejné zakázky na odborně nesmyslnou resuscitační sadu s chemickým generátorem kyslíku;
 
-4. prověření příslušné veřejné zakázky jako celku,
+4. prověření příslušné veřejné zakázky jako celku;
 
 5. vymáhání škody.
 
