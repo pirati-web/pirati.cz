@@ -3,7 +3,7 @@ date:         2020-08-31
 category:     blog
 tags:         zdravotnictví kontrola-moci-a-mocných
 layout:       post
-title:        "Piráti upozornili na další podezřelou zakázku na Středočeském kraji"
+title:        "Piráti upozornili na další podezřelou zakázku ve Středočeském kraji"
 image:        /assets/img/articles/2020/jiri-snizek.jpg
 --- 
 
