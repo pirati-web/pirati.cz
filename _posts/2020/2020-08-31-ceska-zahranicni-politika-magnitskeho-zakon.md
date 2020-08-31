@@ -18,7 +18,7 @@ Zákon na ochranu lidských práv posílí pravomoci české vlády v oblasti za
 
 Návrh zákona představím během debaty u kulatého stolu s odborníky, kterou pořádám v Poslanecké sněmovně příští středu 2. září od 10 hodin. Jako řečníci vystoupí zástupci Ministerstva zahraničních věcí, Ministerstva spravedlnosti, České národní banky, zástupci všech demokratických politických stran ve Sněmovně, senátoři a další experti (mezi nimi Ondřej Kundra z Respektu či Olga Lomová a Michael Romancov z Univerzity Karlovy).
 
-* [Zákon](https://pirati.cz/assets/pdf/Zákon o ochraně lidských práv.pdf), [změnový zákon](https://pirati.cz/assets/pdf/změnový zákon doprovodné zákony) (1).pdf), [doprovodný dokument](https://pirati.cz/assets/pdf/BRIEF_Zákon o ochraně lidských práv.pdf) a [pozvánka na kulatý stůl](https://pirati.cz/assets/pdf/POZVÁNKA_Magnitského zákon.pdf).
+* [Zákon](https://pirati.cz/assets/pdf/Zákon o ochraně lidských práv.pdf), [změnový zákon](https://pirati.cz/assets/pdf/změnový zákon (doprovodné zákony) (1).pdf), [doprovodný dokument](https://pirati.cz/assets/pdf/BRIEF_Zákon o ochraně lidských práv.pdf) a [pozvánka na kulatý stůl](https://pirati.cz/assets/pdf/POZVÁNKA_Magnitského zákon.pdf).
 
 * O Magnitského zákoně jsem v minulosti vydal články na svém [blogu](http://blog.aktualne.cz/blogy/jan-lipavsky.php?itemid=33161), poskytl jsem [rozhovor](https://www.respekt.cz/politika/magnitskeho-zakon-nam-pomuze-znovu-vydobyt-povest-kterou-nam-ziskal-havel) a publikoval [komentář](https://cnn.iprima.cz/cerna-listina-pro-lidske-zrudy-pirati-chteji-sankce-pro-ty-kdo-porusuji-lidska-prava-8016), v němž samotný zákon a okolnosti jeho vzniku popisuji podrobněji.
 
