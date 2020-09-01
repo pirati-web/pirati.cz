@@ -12,13 +12,14 @@ mail:
 - ondrej.polansky@pirati.cz
 mob:			  
 asistenti:
-  - name: Veronika Murzynová
-    mail: murzynovav@psp.cz
-    tel:  728 267 356
+  - name: Jaroslav Němec
+    mail: jaroslav.nemec@pirati.cz
+    tel:  608 408 587
   - name: Mgr. Zuzana Klusová
     mail: klusovaz@psp.cz
     tel: 737 480 813
-  - name: Jaroslav Němec
+  - name: Veronika Murzynová
+    mail: murzynovav@psp.cz
   - name: Ing. David Witosz
 office: 
   - address: Denisova 639/2, 702 00  Ostrava - Moravská Ostrava
@@ -26,7 +27,7 @@ office:
 profiles:
   github:       
   facebook: https://www.facebook.com/ondrej.polansky
-  twitter: 		  
+  twitter: https://twitter.com/ondrej_polansky		  
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Polansk.
 ordga: 9
 ordrp: 5
