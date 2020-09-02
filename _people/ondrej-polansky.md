@@ -13,7 +13,7 @@ mail:
 mob:			  
 asistenti:
   - name: Jaroslav Němec
-    mail: jaroslav.nemec@pirati.cz
+    mail: jarnemec@psp.cz
     tel:  608 408 587
   - name: Mgr. Zuzana Klusová
     mail: klusovaz@psp.cz
