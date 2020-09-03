@@ -37,7 +37,7 @@ pirates.integrations = {
       }
       return element;
     },
-    
+
     vysledky: function(doc) {
       divCopy=$(".accordion .cloner").clone(true);
       divCopy.css('display', 'true');
@@ -45,7 +45,7 @@ pirates.integrations = {
         var divNew=divCopy.clone().appendTo(".accordion");
         //$("a.accordion-title",divNew).text("("+doc.issues[i].id+") "+doc.issues[i].subject+" ["+doc.issues[i].assigned_to.name+"]");
         if (doc.issues[i].description!="") {
-          descHtml=md.render(doc.issues[i].description); 
+          descHtml=md.render(doc.issues[i].description);
           var mess = $.parseHTML(descHtml);
           bd = $('#inv').html('').append(mess);
           first_p = bd.find('p:first').html();
@@ -62,11 +62,11 @@ pirates.integrations = {
         $("div.accordion-content div.content",divNew).attr('id', 'markdown_'+doc.issues[i].id);
         divNew.show();
         }
-      Foundation.reInit('accordion');      
+      Foundation.reInit('accordion');
     },
-    
+
     analytici: function(doc) {
-      
+
       var d = new Date();
       var tsm2 = d.getMilliseconds() + d.getSeconds()*1000;
       icons={};
@@ -76,40 +76,40 @@ pirates.integrations = {
 
       // clone
       masCopy=$("#masonry_container").clone(true);
-      divCopy=$("#masonry_container .cloner2").clone(true);      
+      divCopy=$("#masonry_container .cloner2").clone(true);
       divCopy.css('display', 'true');
-      
+
       // adding beside DOM (not reflowing after each append)
       // todo: rewrite jquery routines to vanilla (much faster)
       var c=$("<div />").addClass('container');
-      
+
       var proj=[];
       var masNew=[];
       var inv=$('#redmine_vysledky #inv');
-            
+
       var nav = document.querySelector('#sticky-nav');
-      
+
       var pocetdoc=doc.issues.length;
       console.log('Pocet polozek:'+pocetdoc);
 
       //sort
       doc.issues=sortJSONbyPriority(doc.issues);
       //doc.issues=sortJSON(doc.issues,pref);
-      
+
       for(var i in doc.issues) {
         pd=doc.issues[i].project.name;
         pid=slug($.trim(pd));
         // main sections (resorts)
         if (jQuery.inArray(pid,proj)==-1) {
           proj.push(pid);
-          masNew[pid]=masCopy.clone().appendTo(c);            
+          masNew[pid]=masCopy.clone().appendTo(c);
           masNew[pid].attr("id","ms_"+pid);
           if (icons[pid]!==undefined) {
             $(".head",masNew[pid]).html("<img style='width:1.1em;height:1.1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd+"</span>");
             } else {
             $(".head",masNew[pid]).text(pd);
             }
-          /*  
+          /*
           // add navigation link to sticky nav
           var navlink = document.createElement('a');
           navlink.setAttribute('href',"#ms_"+pid);
@@ -119,12 +119,12 @@ pirates.integrations = {
             navlink.innerHTML = pd;
             }
           nav.appendChild(navlink);
-          */  
+          */
           }
-        // content  
+        // content
         var divNew=divCopy.clone().appendTo(masNew[pid]);
         if (doc.issues[i].description!="") {
-          descHtml=md.render(doc.issues[i].description); 
+          descHtml=md.render(doc.issues[i].description);
           doc.issues[i].desc_html=descHtml;
           first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
           } else {
@@ -133,7 +133,7 @@ pirates.integrations = {
           first_p="";
           }
         prio=doc.issues[i].priority.id;
-        if (prio>=5) divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6'); 
+        if (prio>=5) divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6');
         $(".nadpis",divNew).html(doc.issues[i].subject);
         //parsing image
         if ("custom_fields" in doc.issues[i]) {
@@ -141,28 +141,28 @@ pirates.integrations = {
             if ((value.id==48) && (value.value!="")) {
               first_p="<img src='"+value.value+"' style='margin-bottom:0.6em;'><br/>"+first_p;
               doc.issues[i].img=value.value;
-              }             
+              }
             });
           }
-        first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+        first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");
         $(".perex",divNew).html(first_p);
         $("a.mas_content",divNew).data( "id", doc.issues[i].id);
         $("a.mas_content",divNew).data( "index",i);
         divNew.attr("id",doc.issues[i].id);
         divNew.show();
         }
-        
-      $("#redmine_vysledky").append(c);  
-        
+
+      $("#redmine_vysledky").append(c);
+
       var d = new Date();
       var tsm4 = d.getMilliseconds() + d.getSeconds()*1000;
       console.log('Populating DOM (optimized jQuery):'+(tsm4-tsm2)+'ms');
-      
+
       // after data processing
-        
+
       $(document).ready(function () {
         $("#loading").fadeOut("slow");
-             
+
         var url=window.location.href;
         var path=window.location.pathname;
         var hash=window.location.hash;
@@ -170,7 +170,7 @@ pirates.integrations = {
         console.log('path:'+path);
         console.log('hash:'+hash);
         console.log('starting masonry ...');
-        
+
         // masonry initialization (resort)
         var container = document.querySelector('#redmine_vysledky');
         var msnry=[];
@@ -181,13 +181,13 @@ pirates.integrations = {
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          var mscont = document.querySelector(msid);  
+          var mscont = document.querySelector(msid);
           imagesLoaded( mscont, function( instance ) {
             //console.log('all images in '+msid.substr(4)+' are loaded');
             msnry[key].layout();
             });
           });
-          
+
         imagesLoaded( container, function( instance ) {
           /*
           $("#sticky-nav a").each(function(index) { $(this).addClass('loaded') });
@@ -195,13 +195,13 @@ pirates.integrations = {
           */
           console.log('all images are loaded');
           console.log('imagesloaded hash:'+hash);
-          
+
           //show actual issue detail when hash or scroll to resort
           if (hash!='') {
             var navheight=20;
             cmq=Foundation.MediaQuery.current;
-            if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false; 
-            var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+            if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false;
+            var stuck=$("#sticky-nav").hasClass('is-stuck');
             if (active) navheight+=$("#sticky-nav").height();
             //console.log('hash - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
             // scroll to resort
@@ -221,29 +221,29 @@ pirates.integrations = {
                   }, 200);
                 $("#"+target_id+" a.mas_content").trigger("click");
                 $("#"+target_id+" .callout").addClass('active');
-                }            
+                }
               }
-            }  
-          
-          // smoothscroll to resorts  
+            }
+
+          // smoothscroll to resorts
           $("#sticky-nav a").each(function(index) {
-             $(this).click(function(event) {             
+             $(this).click(function(event) {
               event.preventDefault();
               var navheight=20;
               cmq=Foundation.MediaQuery.current;
               if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false;
-              var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+              var stuck=$("#sticky-nav").hasClass('is-stuck');
               if (active) navheight+=$("#sticky-nav").height();
               //console.log('nav click - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
               var link=$(this).attr('href');
               window.history.pushState({}, null, '#'+link.substr(4));
               $('html, body').animate({
                 scrollTop: $(link).offset().top-navheight
-                }, 200);              
-              }); 
-            }); 
+                }, 200);
+              });
+            });
         });
-        
+
         // reveal issue details (hash)
         $("#redmine_vysledky a.mas_content").each(function(index) {
           $(this).click(function(event) {
@@ -253,17 +253,17 @@ pirates.integrations = {
             var i=$(this).data("index");
             var head=doc.issues[i].subject;
             var desc=doc.issues[i].desc_html;
-            $("#reveal1 .head").text(head);          
+            $("#reveal1 .head").text(head);
             $("#reveal1 .desc").html(desc.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;"));
             $("#reveal1 .desc a").each(function(index) {$(this).attr('target', '_blank');});
             if ("img" in doc.issues[i]) {
               $("#reveal1 .img").attr('src',doc.issues[i].img).hide().fadeIn('slow');
               } else {
               $("#reveal1 .img").hide();
-              }          
+              }
             if (!("assigned_to" in doc.issues[i])) {
               $("#reveal1 .autor").html('nepřiřazeno');
-              } else {  
+              } else {
               $("#reveal1 .autor").html(doc.issues[i].assigned_to.name);
               }
             newpath=path+'#'+$(this).data("id")+'_'+slug(head);
@@ -272,21 +272,21 @@ pirates.integrations = {
             console.log('modal open: '+newpath);
             window.history.pushState({}, null, newpath);
             });
-          });            
-        
+          });
+
         $(document).on('closed.zf.reveal', '[data-reveal]', function () {
           window.history.replaceState({}, null, path);
-          });            
+          });
 
         $(window).on('popstate', function() {
           $("#reveal1").foundation('close');
           });
-                   
-      });                    
+
+      });
     },
-    
+
     mpv: function(doc,aId, type) {
-      
+
       var d = new Date();
       var tsm2 = d.getMilliseconds() + d.getSeconds()*1000;
       icons={};
@@ -296,28 +296,28 @@ pirates.integrations = {
 
       // clone
       masCopy=$("#masonry_container").clone(true);
-      divCopy=$("#masonry_container .cloner2").clone(true);      
+      divCopy=$("#masonry_container .cloner2").clone(true);
       divCopy.css('display', 'true');
-      
+
       // adding beside DOM (not reflowing after each append)
       // todo: rewrite jqury routines to vanilla (much faster)
       var c=$("<div />").addClass('container');
-      
+
       var proj=[];
       var masNew=[];
       masNew[aId]=masCopy.clone().appendTo(c);
-         
+
       var inv=$('#redmine_vysledky #inv');
-            
+
       var nav = document.querySelector('#sticky-nav');
-      
+
       var pocetdoc=doc.issues.length;
       console.log('Pocet polozek:'+pocetdoc);
 
       //sort
       doc.issues=sortJSONbyPriority(doc.issues);
-      
-            
+
+
       for(var i in doc.issues) {
         pd=doc.issues[i].project.name;
         pid=slug($.trim(pd));
@@ -333,7 +333,7 @@ pirates.integrations = {
             } else {
             var asId=-1;
             }
-          }  
+          }
         if (asId == aId) {
         var divNew=divCopy.clone().appendTo(masNew[aId]);
           var first_p="";
@@ -354,10 +354,10 @@ pirates.integrations = {
               if ((value.id==48) && (value.value!="")) {
                 first_p="<img src='"+value.value+"' style='margin-bottom:0.6em; width:100%;'><br/>"+first_p;
                 doc.issues[i].img=value.value;
-                }             
+                }
               });
             }
-          if (first_p!="") first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+          if (first_p!="") first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");
           $(".perex",divNew).html(first_p);
           $("a.mas_content",divNew).data( "id", doc.issues[i].id);
           $("a.mas_content",divNew).data( "index",i);
@@ -365,15 +365,15 @@ pirates.integrations = {
           divNew.show();
           }
         }
-      
-      $("#redmine_vysledky").append(c);  
-        
+
+      $("#redmine_vysledky").append(c);
+
       var d = new Date();
       var tsm4 = d.getMilliseconds() + d.getSeconds()*1000;
       console.log('Populating DOM (optimized jQuery):'+(tsm4-tsm2)+'ms');
-      
+
       // after data processing
-        
+
       $(document).ready(function () {
         var url=window.location.href;
         var path=window.location.pathname;
@@ -381,8 +381,8 @@ pirates.integrations = {
         console.log('url:'+url);
         console.log('path:'+path);
         console.log('hash:'+hash);
-        
-        
+
+
         // reveal issue details (hash)
         $("#redmine_vysledky a.mas_content").each(function(index) {
           $(this).click(function(event) {
@@ -392,17 +392,17 @@ pirates.integrations = {
             var i=$(this).data("index");
             var head=doc.issues[i].subject;
             var desc=doc.issues[i].desc_html;
-            $("#reveal1 .head").text(head);          
+            $("#reveal1 .head").text(head);
             $("#reveal1 .desc").html(desc.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;"));
             $("#reveal1 .desc a").each(function(index) {$(this).attr('target', '_blank');});
             if ("img" in doc.issues[i]) {
               $("#reveal1 .img").attr('src',doc.issues[i].img).hide().fadeIn('slow');
               } else {
               $("#reveal1 .img").hide();
-              }          
+              }
             if (!("assigned_to" in doc.issues[i])) {
               $("#reveal1 .autor").html('nepřiřazeno');
-              } else {  
+              } else {
               $("#reveal1 .autor").html(doc.issues[i].assigned_to.name);
               }
             newpath=path+'#'+$(this).data("id")+'_'+slug(head);
@@ -412,7 +412,7 @@ pirates.integrations = {
             window.history.pushState({}, null, newpath);
             });
           });
-          
+
         if (hash!='') {
           var navheight=20;
           // scroll to issue
@@ -426,24 +426,24 @@ pirates.integrations = {
             $("#"+target_id+" a.mas_content").trigger("click");
             $("#"+target_id+" .callout").addClass('active');
             }
-          }  
-                      
-        
+          }
+
+
         $(document).on('closed.zf.reveal', '[data-reveal]', function () {
           window.history.replaceState({}, null, path);
-          });            
+          });
 
         $(window).on('popstate', function() {
           $("#reveal1").foundation('close');
           });
-                   
-      });                    
+
+      });
     },
-    
-    
-    
+
+
+
     masonry: function(doc) {
-      
+
       var d = new Date();
       var tsm2 = d.getMilliseconds() + d.getSeconds()*1000;
       icons={
@@ -479,60 +479,60 @@ pirates.integrations = {
       'resort-skolstvi':10,
       'resort-kultura':2
       };
-      
+
       poslanci=[
-      'Dana Balcarová', 
-      'Lukáš Bartoň', 
-      'Ivan Bartoš', 
-      'Lukáš Černohorský', 
-      'František Elfmark', 
-      'Mikuláš Ferjenčík', 
-      'Radek Holomčík', 
-      'Martin Jiránek', 
-      'Lukáš Kolářík', 
-      'František Kopřiva', 
-      'Lenka Kozlová', 
-      'Jan Lipavský', 
-      'Tomáš Martínek', 
-      'Jakub Michálek', 
-      'František Navrkal', 
-      'Mikuláš Peksa', 
-      'Vojtěch Pikal', 
-      'Ondřej Polanský', 
-      'Jan Pošvář', 
-      'Ondřej Profant', 
-      'Olga Richterová', 
-      'Petr Trešňák', 
+      'Dana Balcarová',
+      'Lukáš Bartoň',
+      'Ivan Bartoš',
+      'Lukáš Černohorský',
+      'František Elfmark',
+      'Mikuláš Ferjenčík',
+      'Radek Holomčík',
+      'Martin Jiránek',
+      'Lukáš Kolářík',
+      'František Kopřiva',
+      'Lenka Kozlová',
+      'Jan Lipavský',
+      'Tomáš Martínek',
+      'Jakub Michálek',
+      'František Navrkal',
+      'Mikuláš Peksa',
+      'Vojtěch Pikal',
+      'Ondřej Polanský',
+      'Jan Pošvář',
+      'Ondřej Profant',
+      'Olga Richterová',
+      'Petr Trešňák',
       'Tomáš Vymazal'
       ];
 
       poslanci_pref={
-      'Dana Balcarová':1, 
-      'Lukáš Bartoň':2, 
-      'Ivan Bartoš':3, 
-      'Lukáš Černohorský':4, 
-      'František Elfmark':5, 
-      'Mikuláš Ferjenčík':6, 
-      'Radek Holomčík':7, 
-      'Martin Jiránek':8, 
-      'Lukáš Kolářík':9, 
-      'František Kopřiva':10, 
-      'Lenka Kozlová':11, 
-      'Jan Lipavský':12, 
-      'Tomáš Martínek':13, 
-      'Jakub Michálek':14, 
-      'František Navrkal':15, 
-      'Mikuláš Peksa':16, 
-      'Vojtěch Pikal':17, 
-      'Ondřej Polanský':18, 
-      'Jan Pošvář':19, 
-      'Ondřej Profant':20, 
-      'Olga Richterová':21, 
-      'Petr Trešňák':22, 
+      'Dana Balcarová':1,
+      'Lukáš Bartoň':2,
+      'Ivan Bartoš':3,
+      'Lukáš Černohorský':4,
+      'František Elfmark':5,
+      'Mikuláš Ferjenčík':6,
+      'Radek Holomčík':7,
+      'Martin Jiránek':8,
+      'Lukáš Kolářík':9,
+      'František Kopřiva':10,
+      'Lenka Kozlová':11,
+      'Jan Lipavský':12,
+      'Tomáš Martínek':13,
+      'Jakub Michálek':14,
+      'František Navrkal':15,
+      'Mikuláš Peksa':16,
+      'Vojtěch Pikal':17,
+      'Ondřej Polanský':18,
+      'Jan Pošvář':19,
+      'Ondřej Profant':20,
+      'Olga Richterová':21,
+      'Petr Trešňák':22,
       'Tomáš Vymazal':23
       };
 
-      
+
       resorty={
       'resort-finance':'Finance',
       'resort-informatika':'Informatika',
@@ -549,8 +549,8 @@ pirates.integrations = {
       'resort-kultura':'Kultura',
       'resort-mistni-rozvoj':'Místní rozvoj'
       };
-      
-         
+
+
       // external image proxy for shrinking and resizing images
       const imgproxyurl="https://redmineapitest.mfnet.cz/img/";
 
@@ -561,7 +561,7 @@ pirates.integrations = {
         canvas.width = canvas.height = 1;
         var index = canvas.toDataURL ? canvas.toDataURL('image/webp').indexOf('image/webp') === 5 : false;
         return index;
-        }());      
+        }());
       console.log ('WebP support: '+supportsWebP);
       if (supportsWebP) var imgtype='webp'; else imgtype='jpg';
 
@@ -582,21 +582,21 @@ pirates.integrations = {
 
       // clone
       masCopy=$("#masonry_container").clone(true);
-      divCopy=$("#masonry_container .cloner2").clone(true);      
+      divCopy=$("#masonry_container .cloner2").clone(true);
       divCopy.css('display', 'true');
-      
+
       // adding beside DOM (not reflowing after each append)
       // todo: rewrite jqury routines to vanilla (much faster)
       var c=$("<div />").addClass('container');
-      
+
       var proj=[];
       var masNew=[];
       var inv=$('#redmine_vysledky #inv');
       var viewtype=-1;
       var lastgrouptype='poslanec';
-            
+
       var nav = document.querySelector('#sticky-nav');
-      
+
       var pocetdoc=doc.issues.length;
       console.log('Pocet polozek:'+pocetdoc);
 
@@ -606,11 +606,11 @@ pirates.integrations = {
         var pd='main';
         var pid=slug($.trim(pd));
         proj.push(pid);
-        masNew[pid]=masCopy.clone().appendTo(c);            
+        masNew[pid]=masCopy.clone().appendTo(c);
         masNew[pid].attr("id","ms_"+pid);
         $(".head",masNew[pid]).remove();
         for(var i in doc.issues) {
-            
+
           var divNew=divCopy.clone().appendTo(masNew[pid]);
           if (doc.issues[i].description!="") {
             descHtml=md.render(doc.issues[i].description);
@@ -625,20 +625,20 @@ pirates.integrations = {
           if (prio>=5) {
             divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-12').addClass('large-6');
             var imw=620;
-            } else var imw=540; 
+            } else var imw=540;
           $(".nadpis",divNew).html(doc.issues[i].subject);
-  
+
           //parsing image
           if ("custom_fields" in doc.issues[i]) {
             $.each( doc.issues[i].custom_fields, function( key, value ) {
-              if ((value.id==48) && (value.value!="")) {                
+              if ((value.id==48) && (value.value!="")) {
                 var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
                 $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
                 doc.issues[i].img=value.value;
-                }             
+                }
               });
             }
-          first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+          first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");
           $(".perex",divNew).html(first_p);
           $("a.mas_content",divNew).data( "id", doc.issues[i].id);
           $("a.mas_content",divNew).data( "index",i);
@@ -646,11 +646,11 @@ pirates.integrations = {
           //if (prio>=5) divNew.attr("style","display: block");
           //divNew.show();
           }
-          
-        $("#redmine_vysledky").append(c);
-        }  
 
-      
+        $("#redmine_vysledky").append(c);
+        }
+
+
       // default list - masonry pro kazdy resort (vychozi sorting)
       function generateDefaults() {
         for(var i in doc.issues) {
@@ -661,7 +661,7 @@ pirates.integrations = {
           if (jQuery.inArray(pid,proj)==-1) {
             //console.log('proj -> ('+pid+')');
             proj.push(pid);
-            masNew[pid]=masCopy.clone().appendTo(c);            
+            masNew[pid]=masCopy.clone().appendTo(c);
             masNew[pid].attr("id","ms_"+pid);
             if (icons[pid]!==undefined) {
               $(".head",masNew[pid]).html("<img style='width:1.1em;height:1.1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+pd+"'>&nbsp;<span>"+pd+"</span>");
@@ -669,12 +669,12 @@ pirates.integrations = {
               $(".head",masNew[pid]).text(pd);
               }
             }
-            
+
           var divNew=divCopy.clone().appendTo(masNew[pid]);
           if (doc.issues[i].description!="") {
             descHtml=md.render(doc.issues[i].description);
             doc.issues[i].desc_html=descHtml;
-            first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1]; 
+            first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
             } else {
             descHtml="Podrobný popis chybí ...";
             doc.issues[i].desc_html=descHtml;
@@ -684,8 +684,8 @@ pirates.integrations = {
           if (prio>=5) {
             divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6');
             var imw=620;
-            } else var imw=540; 
-  
+            } else var imw=540;
+
           //parsing image
           if ("custom_fields" in doc.issues[i]) {
             $.each( doc.issues[i].custom_fields, function( key, value ) {
@@ -693,20 +693,20 @@ pirates.integrations = {
                 var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
                 $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
                 doc.issues[i].img=value.value;
-                }             
+                }
               });
             }
           $(".nadpis",divNew).html(doc.issues[i].subject);
-          first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+          first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");
           $(".perex",divNew).html(first_p);
           $("a.mas_content",divNew).data( "id", doc.issues[i].id);
           $("a.mas_content",divNew).data( "index",i);
           divNew.attr("id",doc.issues[i].id);
           divNew.attr("style","display: block");
           }
-          
+
         $("#redmine_vysledky").append(c);
-        }  
+        }
 
       // poslanci list - masonry pro kazdyho poslance
       function generatePrehledPoslanci() {
@@ -719,45 +719,45 @@ pirates.integrations = {
           } else pd='Nepřiřazeno';
 
           prirazeno.push(pd);
-          
+
           $.each(poslanci, function( key, poslanec ) {
             if (doc.issues[i].tags.indexOf(slug(poslanec))>-1) {
               var nalezeno=0;
               $.each(prirazeno, function( pkey, pposlanec ) {
-                if (slug(pposlanec)==slug(poslanec)) nalezeno=1;                
+                if (slug(pposlanec)==slug(poslanec)) nalezeno=1;
                 });
-              if (nalezeno==0) prirazeno.push(poslanec);    
+              if (nalezeno==0) prirazeno.push(poslanec);
               }
             });
-                   
+
           //console.log('Prirazeno:'+prirazeno);
-          
-          
+
+
           $.each(prirazeno, function( pkey, pd ) {
             pid=slug($.trim(pd));
-  
+
             // main sections (resorts)
             if (jQuery.inArray(pid,proj)==-1) {
               //console.log('proj -> ('+pid+')');
               proj.push(pid);
-              masNew[pid]=masCopy.clone().appendTo(c);            
+              masNew[pid]=masCopy.clone().appendTo(c);
               masNew[pid].attr("id","ms_"+pid);
-  
+
               if (pid in poslanci_slug_to_name) name=poslanci_slug_to_name[pid]; else name=pd;
-              
+
               if (icons[pid]!==undefined) {
                 $(".head",masNew[pid]).html("<img style='width:1.1em;height:1.1em;' src='/assets/img/program/"+icons[pid]+"' alt='"+name+"'>&nbsp;<span>"+name+"</span>");
                 } else {
                 $(".head",masNew[pid]).text(name);
                 }
               }
-            
-            // nahrada tohoto  
+
+            // nahrada tohoto
             var divNew=divCopy.clone().appendTo(masNew[pid]);
             // za toto
-            
+
             if (doc.issues[i].description!="") {
-              descHtml=md.render(doc.issues[i].description); 
+              descHtml=md.render(doc.issues[i].description);
               doc.issues[i].desc_html=descHtml;
               first_p=descHtml.match(/<p>((.|\n)*?)<\/p>/)[1];
               } else {
@@ -769,9 +769,9 @@ pirates.integrations = {
             if (prio>=5) {
               divNew.removeClass('medium-4').removeClass('large-3').addClass('medium-8').addClass('large-6');
               var imw=620;
-              } else var imw=540; 
+              } else var imw=540;
             $(".nadpis",divNew).html(doc.issues[i].subject);
-    
+
             //parsing image
             if ("custom_fields" in doc.issues[i]) {
               $.each( doc.issues[i].custom_fields, function( key, value ) {
@@ -779,10 +779,10 @@ pirates.integrations = {
                   var pct=imgproxyurl+encodeURIComponent(value.value)+"?w="+imw;
                   $(".nadpis",divNew).before("<img src='"+pct+"&t="+imgtype+"' alt='"+doc.issues[i].subject+"' />");
                   doc.issues[i].img=value.value;
-                  }             
+                  }
                 });
               }
-            first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");  
+            first_p=first_p.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;");
             $(".perex",divNew).html(first_p);
             $("a.mas_content",divNew).data( "id", doc.issues[i].id);
             $("a.mas_content",divNew).data( "index",i);
@@ -793,23 +793,23 @@ pirates.integrations = {
             //divNew.show();
             });
           }
-          
+
         $("#redmine_vysledky").append(c);
-        }  
+        }
 
 
       doc.issues=sortJSONbyDate(doc.issues);
       generatePrehled();
-        
+
       var d = new Date();
       var tsm4 = d.getMilliseconds() + d.getSeconds()*1000;
       console.log('Populating DOM (optimized jQuery):'+(tsm4-tsm2)+'ms');
-      
+
       // after data processing
-        
+
       $(document).ready(function () {
         $("#loading").fadeOut("slow");
-        
+
         let poslanci_list=[];
         $.each(poslanci, function( key, value ) {
           poslanci_list.push({name:value,slug:slug(value)});
@@ -819,7 +819,7 @@ pirates.integrations = {
         $.each(resorty, function( key, value ) {
           resorty_list.push({name:value,slug:key});
           });
-          
+
         let resorty_list2=[];
         $.each(resorty, function( key, value ) {
           resorty_list2.push({name:value,slug:"_"+key});
@@ -832,8 +832,8 @@ pirates.integrations = {
           sort: false,
           display: 'name',
           placeholder: 'Výběr poslanců',
-          more: '(+{X} poslanců)' 
-          });            
+          more: '(+{X} poslanců)'
+          });
         /*
         let poslanciMS2 = new MultiSelect('#poslanci-select-2', {
           items: poslanci_list,
@@ -841,38 +841,38 @@ pirates.integrations = {
           sort: false,
           display: 'name',
           placeholder: 'Výběr poslanců',
-          more: '(+{X} poslanců)' 
-          });            
-        */  
+          more: '(+{X} poslanců)'
+          });
+        */
         let ms_res_vp = new MultiSelect('#resorty-select', {
           items: resorty_list2,
           current: resorty_list2,
           display: 'name',
           sort: false,
           placeholder: 'Výběr resortů',
-          more: '(+{X} resortů)' 
-          });            
-           
+          more: '(+{X} resortů)'
+          });
+
         let ms_res = new MultiSelect('#resorty-select-2', {
           items: resorty_list,
           current: resorty_list,
           display: 'name',
           sort: false,
           placeholder: 'Výběr resortů',
-          more: '(+{X} resortů)' 
-          });            
+          more: '(+{X} resortů)'
+          });
 
 
         function showMultiselects() {
-          var resorts=getResorts(ms_res_vp);  
-          console.log('ms_res_vp: '+resorts);  
-          var resorts=getResorts(ms_res);  
-          console.log('ms_res: '+resorts);  
-          var resorts=getResorts(poslanciMS);  
-          console.log('poslanciMS: '+resorts);  
+          var resorts=getResorts(ms_res_vp);
+          console.log('ms_res_vp: '+resorts);
+          var resorts=getResorts(ms_res);
+          console.log('ms_res: '+resorts);
+          var resorts=getResorts(poslanciMS);
+          console.log('poslanciMS: '+resorts);
 
           }
-        
+
         poslanciMS.on('change', function() {
           console.log('Poslanci changed ...');
           showMultiselects();
@@ -887,10 +887,10 @@ pirates.integrations = {
           console.log('Resorty podle resortů changed ...');
           showMultiselects();
           });
-        
+
 
         // osetreni zapinani a vypinani filtrovacich kriterii
-        $('#butt_showfilters').click(function(event) {                         
+        $('#butt_showfilters').click(function(event) {
             event.preventDefault();
             var fb=$("#filterbox");
             if (fb.hasClass('on')) {
@@ -902,7 +902,7 @@ pirates.integrations = {
               }
             });
 
-        
+
         // osetreni prepinani hlavniho prehledu
         function activateDateFilter() {
           $("#loading").css("display", "block");
@@ -923,16 +923,16 @@ pirates.integrations = {
           ids=filterByDate(ids,dates);
           ids=filterByPriority(ids,5);
           showAndHideByIds(ids);
-          $("#loading").fadeOut("slow");          
+          $("#loading").fadeOut("slow");
           }
-        
-        
-        $('#butt_datefilter').click(function(event) {             
+
+
+        $('#butt_datefilter').click(function(event) {
             event.preventDefault();
             activateDateFilter();
             });
 
-        $('#panel1-label').click(function(event) {             
+        $('#panel1-label').click(function(event) {
             event.preventDefault();
             console.log('Základní přehled');
             activateDateFilter();
@@ -962,20 +962,20 @@ pirates.integrations = {
           ids=filterByDate(ids,dates);
           ids=filterByResorts(ids,resorts);
           showAndHideByIds(ids);
-          $("#loading").fadeOut("slow");          
+          $("#loading").fadeOut("slow");
           }
 
-        $('#butt_dateresortfilter').click(function(event) {             
+        $('#butt_dateresortfilter').click(function(event) {
             event.preventDefault();
             activateResortDateFilter();
             });
 
-        $('#panel2-label').click(function(event) {             
+        $('#panel2-label').click(function(event) {
             event.preventDefault();
             console.log('Přehled podle resortů');
             activateResortDateFilter();
             });
-        
+
         // osetreni prepinani vlastniho prehledu
         function activateOwnFilter() {
           $("#loading").css("display", "block");
@@ -987,14 +987,14 @@ pirates.integrations = {
             hash['cycletype']=$("input[name='cycletype']:checked").val();
             hash['grouptype']=$('#grouptype').val();
             $("#butt_ownfilter_permalink").attr("href","#"+jQuery.param(hash));
-          var grouptype=$('#grouptype').val();         
+          var grouptype=$('#grouptype').val();
           if ((viewtype!=4) || (grouptype!=lastgrouptype)) {
             removeVysledky();
             doc.issues=sortJSONbyDate(doc.issues);
             doc.issues=sortJSONbyPriority(doc.issues);
-            
+
             // handling grupovani
-            if (grouptype=='none') generatePrehled(); 
+            if (grouptype=='none') generatePrehled();
             if (grouptype=='resort') {
               doc.issues=sortJSONbyResorts(doc.issues,pref);
               generateDefaults();
@@ -1004,7 +1004,7 @@ pirates.integrations = {
               generatePrehledPoslanci();
               }
             //generatePrehled();
-            
+
             viewtype=4;
             lastgrouptype=grouptype;
             createMasonry();
@@ -1027,18 +1027,18 @@ pirates.integrations = {
           if (grouptype!='poslanec') showAndHideByIds(ids); else showAndHideByIdsMulti(ids,people);
           $("#loading").fadeOut("slow");
           }
-        
-        $('#butt_ownfilter').click(function(event) {             
+
+        $('#butt_ownfilter').click(function(event) {
             event.preventDefault();
             activateOwnFilter();
             });
 
-        $('#panel5-label').click(function(event) {             
+        $('#panel5-label').click(function(event) {
             event.preventDefault();
             console.log('Vlastní přehled');
             activateOwnFilter();
             });
-        
+
         // osetreni prepinani koronavirus prehledu
         function activateKoronavirusFilter() {
           $("#loading").css("display", "block");
@@ -1060,16 +1060,16 @@ pirates.integrations = {
           ids=filterByDate(ids,dates);
           ids=filterByKoronavirus(ids);
           showAndHideByIds(ids);
-          $("#loading").fadeOut("slow");          
+          $("#loading").fadeOut("slow");
           }
-        
-        
-        $('#butt_koronafilter').click(function(event) {             
+
+
+        $('#butt_koronafilter').click(function(event) {
             event.preventDefault();
             activateKoronavirusFilter();
             });
 
-        $('#koronavirus-label').click(function(event) {             
+        $('#koronavirus-label').click(function(event) {
             event.preventDefault();
             console.log('Přehled Koronavirus');
             activateKoronavirusFilter();
@@ -1082,7 +1082,7 @@ pirates.integrations = {
         console.log('path:'+path);
         console.log('hash:'+hash);
         console.log('starting masonry ...');
-                
+
         // masonry initialization (resort)
         var container = document.querySelector('#redmine_vysledky');
         //var msnry=[];
@@ -1093,28 +1093,28 @@ pirates.integrations = {
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          var mscont = document.querySelector(msid);  
+          var mscont = document.querySelector(msid);
           imagesLoaded( mscont, function( instance ) {
             console.log('all images in '+msid.substr(4)+' ['+key+'] are loaded');
             msnry[key].layout();
             });
           });
-          
+
         imagesLoaded( container, function( instance ) {
-          
+
           // uncomment this for menu
           //$("#sticky-nav a").each(function(index) { $(this).addClass('loaded') });
           // $("#sticky-nav").addClass('loaded');
           console.log('all images are loaded');
           console.log('imagesLoaded hash:'+hash);
 
-          
+
           //show actual issue detail when hash or scroll to resort
           if (hash!='') {
             var navheight=20;
             cmq=Foundation.MediaQuery.current;
-            if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false; 
-            var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+            if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false;
+            var stuck=$("#sticky-nav").hasClass('is-stuck');
             if (active) navheight+=$("#sticky-nav").height();
             //console.log('hash - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
             // scroll to resort
@@ -1128,7 +1128,7 @@ pirates.integrations = {
               // scroll to issue
               var target_id=hash.substr(1,5);
               console.log('hash target id:'+target_id);
-              if (!isNaN(target_id)) { 
+              if (!isNaN(target_id)) {
                 console.log('searching for id '+target_id);
                 if($("#"+target_id).length != 0) {
                   $('html, body').animate({
@@ -1137,50 +1137,50 @@ pirates.integrations = {
                   $("#"+target_id+" a.mas_content").trigger("click");
                   $("#"+target_id+" .callout").addClass('active');
                   }
-                }              
+                }
               }
-            }  
-          
-          // smoothscroll to resorts  
+            }
+
+          // smoothscroll to resorts
           $("#sticky-nav a").each(function(index) {
-             $(this).click(function(event) {             
+             $(this).click(function(event) {
               event.preventDefault();
               var navheight=20;
               cmq=Foundation.MediaQuery.current;
               if ((cmq!='mobile') && (cmq!='small')) var active=true; else active=false;
-              var stuck=$("#sticky-nav").hasClass('is-stuck'); 
+              var stuck=$("#sticky-nav").hasClass('is-stuck');
               if (active) navheight+=$("#sticky-nav").height();
               //console.log('nav click - sticky active:'+active+', stuck:'+stuck+', navheight:'+navheight);
               var link=$(this).attr('href');
               window.history.pushState({}, null, '#'+link.substr(4));
               $('html, body').animate({
                 scrollTop: $(link).offset().top-navheight
-                }, 200);              
-              }); 
-            }); 
+                }, 200);
+              });
+            });
         });
-        
+
 
         var getUrlParameter = function getUrlParameter(sParam) {
             var sPageURL = window.location.hash.substring(1),
                 sURLVariables = sPageURL.split('&'),
                 sParameterName,
                 i;
-        
+
             for (i = 0; i < sURLVariables.length; i++) {
                 sParameterName = sURLVariables[i].split('=');
-        
+
                 if (sParameterName[0] === sParam) {
                     return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
                 }
             }
         };
-        
+
         if (hash!='') console.log('hash:'+hash);
         var permtype=getUrlParameter('type');
         console.log('permalink type: '+permtype);
         // nastaveni obecneho filtru
-        if (permtype=='own') {        
+        if (permtype=='own') {
             // nastaveni poslancu
             var aktposlanci=getUrlParameter('poslanci-select').split(",");
             console.log('aktivni poslanci:'+aktposlanci);
@@ -1208,7 +1208,7 @@ pirates.integrations = {
             //ostatni nastaveni
             $('#datefilter5').val(getUrlParameter('datefilter5'));
             $("input[name='cycletype']").val([getUrlParameter('cycletype')]);
-            $('#grouptype').val(getUrlParameter('grouptype'));            
+            $('#grouptype').val(getUrlParameter('grouptype'));
             activateOwnFilter();
             $('#example-tabs').foundation('selectTab', 'panel5');
 
@@ -1232,31 +1232,31 @@ pirates.integrations = {
           } else if (permtype=='basic') {
             $('#datefilter').val(getUrlParameter('datefilter'));
             activateDateFilter();
-            
+
           } else if (permtype=='koronavirus') {
             $('#datefilter6').val(getUrlParameter('datefilter6'));
             activateKoronavirusFilter();
             $('#example-tabs').foundation('selectTab', 'koronavirus');
-            
+
           } else {
           activateDateFilter();
-        
+
         //updateReveals();
         //var ids=initFilter();
         //ids=filterByPriority(ids,5);
         //showAndHideByIds(ids);
         }
-        
+
         $(document).on('closed.zf.reveal', '[data-reveal]', function () {
           window.history.replaceState({}, null, path);
-          });            
+          });
 
         $(window).on('popstate', function() {
           $("#reveal1").foundation('close');
           });
-                   
+
       });
-      
+
 
     function updateReveals() {
         // reveal issue details (hash)
@@ -1273,19 +1273,19 @@ pirates.integrations = {
             var revwidth=744;
             if ((md=='xxlarge')||(md=='xlarge')||(md=='large')||(md=='medium')) revwidth=744; else revwidth=576;
             console.log('Media:'+md+', width:'+revwidth);
-            $("#reveal1 .head").text(head);          
-            $("#reveal1 .tags").text('Tagy: '+tags);          
+            $("#reveal1 .head").text(head);
+            $("#reveal1 .tags").text('Tagy: '+tags);
             $("#reveal1 .desc").html(desc.replace(/ ([ai]|[kosuvz]|do|ke|na|od|po|se|ve|za|ze) /gi, " $1&nbsp;"));
             $("#reveal1 .desc a").each(function(index) {$(this).attr('target', '_blank');});
             if ("img" in doc.issues[i]) {
               //$("#reveal1 .img").attr('src',doc.issues[i].img).hide().fadeIn('slow');
               var imgurl=imgproxyurl+encodeURIComponent(doc.issues[i].img)+"?w="+revwidth+"&t="+imgtype;
-              $("#reveal1 .img").attr('src',imgurl).hide().fadeIn('slow');              
+              $("#reveal1 .img").attr('src',imgurl).hide().fadeIn('slow');
               } else {
               $("#reveal1 .img").hide();
               }
-            // seznam poslancu  
-            var prirazeno="";            
+            // seznam poslancu
+            var prirazeno="";
             if ("assigned_to" in doc.issues[i]) {
               var jmeno=doc.issues[i].assigned_to.name;
               $.each(poslanci, function( key, poslanec ) {
@@ -1299,17 +1299,17 @@ pirates.integrations = {
                   if (prirazeno!="") prirazeno+=", "+poslanec; else prirazeno+=poslanec;
                   }
                 }
-              });    
-            if (prirazeno=="") prirazeno="Nepřiřazeno";  
+              });
+            if (prirazeno=="") prirazeno="Nepřiřazeno";
             $("#reveal1 .autor").html(prirazeno+' ('+doc.issues[i].start_date+')');
-              
+
             newpath=path+'#'+$(this).data("id")+'_'+slug(head);
             $("#reveal1 a.permalink").attr("href", newpath);
             $("#reveal1").foundation('open');
             console.log('modal open: '+newpath);
             window.history.pushState({}, null, newpath);
             });
-          });            
+          });
         }
 
 
@@ -1321,14 +1321,14 @@ pirates.integrations = {
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          var mscont = document.querySelector(msid);  
+          var mscont = document.querySelector(msid);
           imagesLoaded( mscont, function( instance ) {
             console.log('all images in '+msid.substr(4)+' ['+key+'] are loaded');
             msnry[key].layout();
             });
           });
       }
-    
+
     function removeVysledky() {
         $.each(proj, function( key, value ) {
             msnry[key].destroy();
@@ -1338,37 +1338,37 @@ pirates.integrations = {
               console.log('element removed ['+key+'] '+value);
               }
             });
-        proj=[];    
+        proj=[];
         }
-    
+
     function getResorts(resortobj) {
       var res=resortobj.getCurrent();
       var resorts=[];
       $.each(res, function( key, resdata ) {
         //console.log('Selected res: '+resdata['slug']);
-        if (resdata['slug'].substr(0,1)=="_") resorts.push(resdata['slug'].substr(1)); else resorts.push(resdata['slug']);        
+        if (resdata['slug'].substr(0,1)=="_") resorts.push(resdata['slug'].substr(1)); else resorts.push(resdata['slug']);
         });
-      return(resorts);  
+      return(resorts);
       }
-  
+
     function getPeople(peopleobj) {
       var res=peopleobj.getCurrent();
       var people=[];
       $.each(res, function( key, resdata ) {
         //console.log('Selected people: '+resdata['slug']);
-        people.push(resdata['slug']);        
+        people.push(resdata['slug']);
         });
-      return(people);  
+      return(people);
       }
-      
+
     function initFilter() {
       var ids={};
       for(var i in doc.issues) {
         ids[doc.issues[i].id]=1;
         }
-      return(ids);  
+      return(ids);
       }
-    
+
     function filterByDate(ids,dates) {
       for(var i in doc.issues) {
         var id=doc.issues[i].id;
@@ -1377,9 +1377,9 @@ pirates.integrations = {
           var date=new Date(dateString);
           if ((date>=dates.od) && (date<=dates.do)) ids[id]=1; else ids[id]=0;
           }
-        //console.log('filter id:'+id+' ('+dateString+') = '+ids[id]);    
+        //console.log('filter id:'+id+' ('+dateString+') = '+ids[id]);
         }
-      return(ids);  
+      return(ids);
       }
 
     function filterByPriority(ids,priority) {
@@ -1390,11 +1390,11 @@ pirates.integrations = {
           if (prio>=priority) ids[id]=1; else ids[id]=0;
           //console.log('priority filter ('+i+') / id:'+id+' ('+prio+') = '+ids[id]);
           }
-        //console.log('filter id:'+id+' ('+dateString+') = '+ids[id]);    
+        //console.log('filter id:'+id+' ('+dateString+') = '+ids[id]);
         }
-      return(ids);  
+      return(ids);
       }
-      
+
     function filterByResorts(ids,resorts) {
       if (Object.keys(resorts).length>0) {
         for(var i in doc.issues) {
@@ -1408,10 +1408,10 @@ pirates.integrations = {
               if (resorts.indexOf(resortSlug)!=-1) ids[id]=1; else ids[id]=0;
               }
             //console.log('filter id:'+id+' = '+ids[id]);
-            }  
+            }
           }
-        }  
-      return(ids);  
+        }
+      return(ids);
       }
 
     function filterByPeople(ids,people) {
@@ -1419,9 +1419,9 @@ pirates.integrations = {
         for(var i in doc.issues) {
           var id=doc.issues[i].id;
           if (ids[id]==1) {
-          
-            // seznam poslancu  
-            var prirazeno="";            
+
+            // seznam poslancu
+            var prirazeno="";
             if ("assigned_to" in doc.issues[i]) {
               var jmeno=doc.issues[i].assigned_to.name;
               $.each(poslanci, function( key, poslanec ) {
@@ -1430,7 +1430,7 @@ pirates.integrations = {
               prirazeno=jmeno;
               }
 
-            // poladit aby to ukazovalo spravnym poslancum  
+            // poladit aby to ukazovalo spravnym poslancum
             $.each(poslanci, function( key, poslanec ) {
               if (doc.issues[i].tags.indexOf(slug(poslanec))>-1) {
                 if (slug(prirazeno).indexOf(slug(poslanec))==-1) {
@@ -1439,43 +1439,43 @@ pirates.integrations = {
                 }
               });
             // konec poladeni
-              
-            ids[id]=0;      
+
+            ids[id]=0;
             $.each(people, function( key, poslanec ) {
               if (slug(prirazeno).indexOf(poslanec)!=-1) ids[id]=1;
               });
             //console.log('filter id:'+id+' = '+ids[id]);
-            }  
+            }
           }
-        }  
-      return(ids);  
+        }
+      return(ids);
       }
 
     function filterByTeritory(ids,teritory) {
       for(var i in doc.issues) {
         var id=doc.issues[i].id;
         if (ids[id]==1) {
-          if (teritory=="regional") {                    
-            var prirazeno=false;            
+          if (teritory=="regional") {
+            var prirazeno=false;
             if (doc.issues[i].tags.indexOf('region')>-1) prirazeno=true;
-    
+
             if (prirazeno==false) ids[id]=0;
-            }      
-          }  
+            }
+          }
         }
-      return(ids);  
+      return(ids);
       }
 
     function filterByKoronavirus(ids) {
       for(var i in doc.issues) {
         var id=doc.issues[i].id;
         if (ids[id]==1) {
-          var prirazeno=false;            
+          var prirazeno=false;
           if (doc.issues[i].tags.indexOf('korona')>-1) prirazeno=true;
           if (prirazeno==false) ids[id]=0;
-          }  
+          }
         }
-      return(ids);  
+      return(ids);
       }
 
     function showAndHideByIdsMulti(ids,people) {
@@ -1487,7 +1487,7 @@ pirates.integrations = {
         $('.cloner2[data-id='+id+']').each(function() {
           var pid=$(this).attr('data-pid');
           //console.log(id+' -> '+pid);
-          
+
             if ((ids[id]==1) && (people.indexOf(pid)>-1) && ($(this).css('display')=='none')) {
               $(this).show();
               //console.log('Showing '+id+' '+pid);
@@ -1502,17 +1502,17 @@ pirates.integrations = {
               $(this).hide();
               //console.log('Hiding '+id+' '+pid);
               }
-          
+
           });
-        
+
         }
       var vysl="";
       if (counter!=0) vysl="Bylo nalezeno "+counter+" kauz odpovídajících danému dotazu."; else vysl="Pro zadaný dotaz neevidujeme žádné výsledky, upravte jej prosím.";
-      //vysl+="<span style='float:right;'><a href='#' id='reload' class='butt'>Reload test</a></span>"; 
+      //vysl+="<span style='float:right;'><a href='#' id='reload' class='butt'>Reload test</a></span>";
       $('#dotazinfo').hide().html(vysl).fadeIn('slow');
       $.each(proj, function( key, value ) {
-        var msid="#ms_"+value;  
-        
+        var msid="#ms_"+value;
+
         var count=0;
         $(msid+' .cloner2').each(function(index, el) {
           if ($(this).css('display')!='none') count++;
@@ -1528,9 +1528,9 @@ pirates.integrations = {
           }
         msnry[key].layout();
         });
-      
-      /*  
-      $('#reload').click(function(event) {             
+
+      /*
+      $('#reload').click(function(event) {
         event.preventDefault();
         console.log('reload pressed');
         removeVysledky();
@@ -1543,17 +1543,17 @@ pirates.integrations = {
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          var mscont = document.querySelector(msid);  
+          var mscont = document.querySelector(msid);
           imagesLoaded( mscont, function( instance ) {
             console.log('all images in '+msid.substr(4)+' ['+key+'] are loaded');
             msnry[key].layout();
             });
           });
-        
-        
+
+
         });
         */
-      }                    
+      }
 
 
     function showAndHideByIds(ids) {
@@ -1571,11 +1571,11 @@ pirates.integrations = {
         }
       var vysl="";
       if (counter!=0) vysl="Bylo nalezeno "+counter+" kauz odpovídajících danému dotazu."; else vysl="Pro zadaný dotaz neevidujeme žádné výsledky, upravte jej prosím.";
-      //vysl+="<span style='float:right;'><a href='#' id='reload' class='butt'>Reload test</a></span>"; 
+      //vysl+="<span style='float:right;'><a href='#' id='reload' class='butt'>Reload test</a></span>";
       $('#dotazinfo').hide().html(vysl).fadeIn('slow');
       $.each(proj, function( key, value ) {
-        var msid="#ms_"+value;  
-        
+        var msid="#ms_"+value;
+
         var count=0;
         $(msid+' .cloner2').each(function(index, el) {
           if ($(this).css('display')!='none') count++;
@@ -1591,9 +1591,9 @@ pirates.integrations = {
           }
         msnry[key].layout();
         });
-      
-      /*  
-      $('#reload').click(function(event) {             
+
+      /*
+      $('#reload').click(function(event) {
         event.preventDefault();
         console.log('reload pressed');
         removeVysledky();
@@ -1606,21 +1606,21 @@ pirates.integrations = {
             columnWidth: '#ms_'+value+' .grid-sizer',
             percentPosition: true
             });
-          var mscont = document.querySelector(msid);  
+          var mscont = document.querySelector(msid);
           imagesLoaded( mscont, function( instance ) {
             console.log('all images in '+msid.substr(4)+' ['+key+'] are loaded');
             msnry[key].layout();
             });
           });
-        
-        
+
+
         });
         */
-      }                    
+      }
 
 
     }
-    
+
   }
 };
 
@@ -1829,7 +1829,7 @@ function sortJSONbyDate(data) {
 
 function sortJSONbyResorts(data,pref) {
     return data.sort(function (a, b) {
-        var slgx=slug(a.project.name); 
+        var slgx=slug(a.project.name);
         var slgy=slug(b.project.name);
         if (pref[slgx] !== undefined) var x = pref[slgx]*10+a.priority.id; else var x=a.priority.id;
         if (pref[slgy] !== undefined) var y = pref[slgy]*10+b.priority.id; else var y=b.priority.id;
@@ -1842,7 +1842,7 @@ function sortJSONbyPoslanec(data,pref) {
     return data.sort(function (a, b) {
         var slgx=0;
         var slgy=0;
-        if ("assigned_to" in a) var slgx=slug(a.assigned_to.name); 
+        if ("assigned_to" in a) var slgx=slug(a.assigned_to.name);
         if ("assigned_to" in b) var slgy=slug(b.assigned_to.name);
         if (pref[slgx] !== undefined) var x = (100-pref[slgx])*10+a.priority.id; else var x=a.priority.id;
         if (pref[slgy] !== undefined) var y = (100-pref[slgy])*10+b.priority.id; else var y=b.priority.id;
@@ -1882,7 +1882,7 @@ var slug = function(str) {
 pirates.accounting = {};
 
 // Default url for data
-pirates.accounting.dataUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQrizm8fnK5qaLeUKOvqi7r19kC8TNB3hVT_LTh_1Ma1fKyBvOjiisyVJg-Qc3Nlcq1VHnMzg25_nPc/pub?gid=0&single=true&output=csv';
+pirates.accounting.dataUrl = 'https://gdocs.pir-test.eu/spreadsheets/d/e/2PACX-1vQrizm8fnK5qaLeUKOvqi7r19kC8TNB3hVT_LTh_1Ma1fKyBvOjiisyVJg-Qc3Nlcq1VHnMzg25_nPc/pub?gid=0&single=true&output=csv';
 
 // Take raw processed CSV -> Object and reformat it for easier calculations
 pirates.accounting.reformatStructure = function(array){
