@@ -1,7 +1,7 @@
 ---
 date:         2020-09-04
 category:     blog
-tags:         konopí legalizace milion
+tags:         konopí legalizace
 layout:       post
 title:        "Piráti budou opět součástí Million Marihuana March. Kromě průvodu se zúčastní i debat s odborníky na Žofíně "
 image:        /assets/img/articles/2020/mmm2019.jpg
