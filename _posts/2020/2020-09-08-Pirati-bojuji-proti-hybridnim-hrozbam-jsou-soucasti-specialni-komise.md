@@ -3,7 +3,7 @@ date:         2020-09-08
 category:     blog
 tags:         sněmovna hybridní-hrozby obrana
 layout:       post
-title:        "Ve Sněmovně dnes poprvé jednala komise pro hybridní hrozby, má zvýšit obranyschopnost Česka. Zasedá v ní i Pirát Jan Lipa"
+title:        "Ve Sněmovně dnes poprvé jednala komise pro hybridní hrozby, má zvýšit obranyschopnost Česka. Zasedá v ní i Pirát Jan Lipavský"
 image:        /assets/img/articles/2020/jan-lipavsky.jpg
 ---
 
