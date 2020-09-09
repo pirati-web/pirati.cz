@@ -9,7 +9,7 @@ deputy:
 contact-local:
   name: Petr Pleticha
   mob: +420 603 460 210
-  mail: pletichap@psp.cz
+  mail: petr.pleticha@pirati.cz
   img: 
 tags:
 - průmysl a obchod
@@ -42,7 +42,7 @@ Co děláme?
 Jak se můžete zapojit?
 ----------------------
 
-Pokud souhlasíte s Pirátským programem v oblasti průmyslu a obchodu a chcete nám pomoci, ozvěte se prosím Petru Pletichovi na tel. 603460210 nebo na pletichap@psp.cz.
+Pokud souhlasíte s Pirátským programem v oblasti průmyslu a obchodu a chcete nám pomoci, ozvěte se prosím Petru Pletichovi na tel. 603460210 nebo na petr.pleticha@pirati.cz.
 
 Fungování týmu
 ----------------------
