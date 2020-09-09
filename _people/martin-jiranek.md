@@ -21,7 +21,7 @@ office:
 asistenti:
   - name: Petr Pleticha
     tel: +420 603 460 210
-    mail: pletichap@psp.cz
+    mail: petr.pleticha@pirati.cz
   - name: Alena Valentová
     mail: info@piratitrutnov.cz
     tel:  +420 731 609 213
