@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/kolaja-tk.jpg
 ---
 
 
-Brusel, 10. září 2020 – Pouze 30 % Evropanů podporuje automatické mazání teroristického obsahu na internetu ze strany vlád. Zbytek je pro zásah soudů či policie. Vyplývá to z nedávného výzkumu YouGov, který proběhl v 10 členských zemích Unie, včetně Česka. Kritici se obávají, že pod rouškou terorismu bude často mazán i legální obsah. Pirátský místopředseda Evropského parlamentu Marcel Kolaja a pirátský europoslanec Patrick Breyer se jasně staví na stranu svobodného internetu.
+Brusel, 11. září 2020 – Pouze 30 % Evropanů podporuje automatické mazání teroristického obsahu na internetu ze strany vlád. Zbytek je pro zásah soudů či policie. Vyplývá to z nedávného výzkumu YouGov, který proběhl v 10 členských zemích Unie, včetně Česka. Kritici se obávají, že pod rouškou terorismu bude často mazán i legální obsah. Pirátský místopředseda Evropského parlamentu Marcel Kolaja a pirátský europoslanec Patrick Breyer se jasně staví na stranu svobodného internetu.
 
 
  > „Nařízení o odstraňování teroristického obsahu on-line projednává v současnosti Komise, Parlament a Rada v rámci tzv. trialogu. I proto jsem zadal výzkum veřejného mínění. Mimo Česka a Německa byly mezi zeměmi například Švédsko, Polsko či Francie,“ uvedl Breyer, který je součástí vyjednávacího týmu Parlamentu. „Jeho výsledky mě samozřejmě potěšily. Téměř 60 % lidí odmítá automatické mazání obsahu na základě filtrů, anebo si přejí posuzovat případ od případu. Tento postoj občanů musí brát v potaz i Komise s Radou,“ dodal.
