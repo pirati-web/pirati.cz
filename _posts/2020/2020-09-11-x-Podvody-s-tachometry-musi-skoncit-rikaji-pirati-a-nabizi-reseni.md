@@ -1,9 +1,9 @@
 ---
 date:         2020-09-11
 category:     blog
-tags:         tachometr auta podvody
+tags:         doprava vláda legislativa
 layout:       post
-title:        "Podvodné přetáčení tachometrů stojí Čechy miliardy korun ročně, vláda s tím nic nedělá. Piráti připravují vlastní řešení "
+title:        "Podvodné přetáčení tachometrů stojí Čechy miliardy korun ročně, vláda s tím nic nedělá. Piráti připravují vlastní řešení"
 image:       /assets/img/articles/2020/polanský.jpg
 ---
 
