@@ -1,7 +1,7 @@
 ---
 date:         2020-09-15
 category:     blog
-tags:         evropa evropska-komise europoslanci
+tags:         zahraničí evropská-unie
 layout:       post
 title:        "Společně proti koronoviru i omezování lidských práv: Pirátští europoslanci vyzývají předsedkyni Evropské komise k jasné vizi pro EU"
 image:        /assets/img/articles/2019/peksa-kolaja-bartos-gregorova.jpg
