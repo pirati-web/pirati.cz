@@ -4,7 +4,7 @@ category:     blog
 tags:         konopí legislativa senát
 layout:       post
 title:        "Komentář kandidáta do Senátu Roberta Veverky: „Šíření toxikomanie“ je gumový bolševický paragraf, zrušme ho!"
-image:        /assets/img/articles/2020/robert-veverka.jpg
+image:        /assets/img/articles/2020/RobertVeverka_03.jpg
 ---
 
 
