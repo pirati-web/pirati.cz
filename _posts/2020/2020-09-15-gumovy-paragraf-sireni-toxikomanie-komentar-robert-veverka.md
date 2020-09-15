@@ -44,4 +44,4 @@ Někdo si možná řekne: „Trávu neužívám, mám alkohol, konopné mastičk
 
 Kriminalizace konopí dnes nemá smysl. Jako zodpovědný občan nicméně ctím momentálně platné zákony. Jako svobodný občan se však musím vzepřít proti gumovému komunistickému paragrafu o šíření toxikomanie, který násilím petrifikuje současný stav, umožňuje stíhání, zavírá lidem ústa a upírá jim základní svobodu názoru a projevu. Zrušme ho.
 
- 
+![Trestný čin pobuřování](https://pirati.cz//assets/img/articles/2020/tc_poburovani-stb.jpg)
