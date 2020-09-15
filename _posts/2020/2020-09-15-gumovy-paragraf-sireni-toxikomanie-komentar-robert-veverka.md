@@ -14,7 +14,7 @@ Drogy s výjimkou alkoholu a tabáku jsou u nás dnes zakázané, nicméně ve s
 
  
 
-Co je to „svádění“? Jak se dokazuje? Je sváděním, když napíšu dívce básničku o trávě? A „jiné podněcování“? To už může být úplně cokoliv. Třeba i tento článek. Paragraf 287, který pochází ještě ze šedesátých let, je zkrátka velmi lehce zneužitelný k potlačení nepohodlných názorů a svobody slova. Řadu jiných, které měly sloužit k „umravnění“ společnosti a prosazení „socialistického způsobu života“, jsme po listopadu 1989 zrušili. Třeba již zmíněné výtržnictví nebo hanobení republiky a jejího představitele.
+Co je to „svádění“? Jak se dokazuje? Je sváděním, když napíšu dívce „básničku o trávě“? A „jiné podněcování“? To už může být úplně cokoliv. Třeba i tento článek. Paragraf 287, který pochází ještě ze šedesátých let, je zkrátka velmi lehce zneužitelný k potlačení nepohodlných názorů a svobody slova. Řadu jiných, které měly sloužit k „umravnění“ společnosti a prosazení „socialistického způsobu života“, jsme po listopadu 1989 zrušili. Třeba již zmíněné výtržnictví nebo hanobení republiky a jejího představitele.
 
  
 
