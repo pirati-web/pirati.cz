@@ -3,8 +3,8 @@ date:         2015-10-22
 category:     blog
 tags:         evropská-unie celostátní bezpečnost vnitro
 layout:       post
-title:        "Postoj České pirátské strany k vlně uprchlíků"
-image:        /assets/img/articles/2015/cyklista.jpg
+title:        "Postoj České pirátské strany k migrační krizi"
+image:        /assets/img/articles/2015/holcicka.jpg
 author:       
 ---
 
