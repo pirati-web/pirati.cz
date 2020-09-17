@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie finance
 layout:       post
 title:        "Evropský parlament připravil transformační podporu pro regiony"
-image:        /assets/img/articles/2020/michalek-rouska.jpg
+image:        /assets/img/articles/2020/klusova.jpg
 ---
 
 
