@@ -22,7 +22,7 @@ Cílem balíčku mělo být především převedení směrnic EU do české legi
 
  
 
-Pirátské pozměňovací návrhy mířily i na zvýšení bezpečnosti na skládkách zavedením povinného monitoringu. „Monitoring by umožnil například dřívější detekci požárů. Požadoval jsem rovněž, aby evidence odpadů na skládkách byla vedena a kontrolním orgánům zpřístupněna online, ani tyto návrhy však neprošly. Stejně jako třeba návrh na zavedení poplatku za energetické využití neupraveného směsného komunálního odpadu, který měl zabránit přesunu recyklovatelných odpadů ze skládek do spaloven a přispět k jejich recyklaci,“ uvedl člen Výboru pro životní prostředí Elfmark. 
+> Pirátské pozměňovací návrhy mířily i na zvýšení bezpečnosti na skládkách zavedením povinného monitoringu. „Monitoring by umožnil například dřívější detekci požárů. Požadoval jsem rovněž, aby evidence odpadů na skládkách byla vedena a kontrolním orgánům zpřístupněna online, ani tyto návrhy však neprošly. Stejně jako třeba návrh na zavedení poplatku za energetické využití neupraveného směsného komunálního odpadu, který měl zabránit přesunu recyklovatelných odpadů ze skládek do spaloven a přispět k jejich recyklaci,“ uvedl člen Výboru pro životní prostředí Elfmark. 
 
  
 
