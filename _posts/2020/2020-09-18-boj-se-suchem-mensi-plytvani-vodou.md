@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí sněmovna legislativa
 layout:       post
 title:        "Piráti prosadili ve Sněmovně omezení plýtvání vodou i zveřejňování dat o jejích zásobách. Plní tak svůj plán na boj se suchem"
-image:        /assets/img/articles/2020/holomcik.jpg
+image:        /assets/img/articles/2020/vodu-resime.jpg
 ---
 
 
