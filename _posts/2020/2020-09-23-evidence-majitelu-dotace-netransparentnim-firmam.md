@@ -16,7 +16,9 @@ Praha, 23. září 2020 – Pirátům se dnes povedlo prosadit na Rozpočtovém 
 
  
 
-> Tím nejzásadnějším bylo řešení zmíněného paradoxu, vznesli ale i požadavek na rozšíření okruhu zveřejňovaných informací o skutečných majitelích společností. Chtěli zavést povinnost zveřejňovat strukturu majetkových vztahů. „To je zcela zásadní pro rozkrývání chobotnic nastrčených a vzájemně provázaných firem, za které se skuteční majitelé, což mohou být klidně aktivní politici či jejich blízcí, často schovávají. Občané mají právo vědět, komu jdou jejich peníze jak v dotacích, tak v zakázkách, které tyto firmy pro stát dodávají,“ doplnil Navrkal. Oba dva návrhy ale členové Ústavně právního výboru v čele se zástupci vládních stran a ODS smetli.
+Tím nejzásadnějším bylo řešení zmíněného paradoxu, vznesli ale i požadavek na rozšíření okruhu zveřejňovaných informací o skutečných majitelích společností. Chtěli zavést povinnost zveřejňovat strukturu majetkových vztahů. 
+
+> „To je zcela zásadní pro rozkrývání chobotnic nastrčených a vzájemně provázaných firem, za které se skuteční majitelé, což mohou být klidně aktivní politici či jejich blízcí, často schovávají. Občané mají právo vědět, komu jdou jejich peníze jak v dotacích, tak v zakázkách, které tyto firmy pro stát dodávají,“ doplnil Navrkal. Oba dva návrhy ale členové Ústavně právního výboru v čele se zástupci vládních stran a ODS smetli.
 
  
 
@@ -26,4 +28,6 @@ Praha, 23. září 2020 – Pirátům se dnes povedlo prosadit na Rozpočtovém 
 
  
 
-> Ten naopak považuje za velký úspěch, že se na Ústavně právním výboru povedlo zalepit několik děr ve vládním návrhu, na které upozornil – zákon například počítal pouze se sankcí při návrhu zápisu nesprávných údajů do evidence, ale už chyběla sankce, pokud vůbec k žádnému návrhu včas a řádně nedojde. I na rozpočtovém výboru se také povedlo prosadit několik zásadních záměrů. „První z nich zajišťuje přidělování dotací jen firmám s řádně evidovanými skutečnými majiteli. Druhý pak počítá s možností odstoupit od smlouvy na veřejnou zakázku s firmami, které do evidence skutečných majitelů uvedly nepřesné či nepravdivé informace,“ uzavřel poslanec.
+> Ten naopak považuje za velký úspěch, že se na Ústavně právním výboru povedlo zalepit několik děr ve vládním návrhu, na které upozornil – zákon například počítal pouze se sankcí při návrhu zápisu nesprávných údajů do evidence, ale už chyběla sankce, pokud vůbec k žádnému návrhu včas a řádně nedojde. I na rozpočtovém výboru se také povedlo prosadit několik zásadních záměrů. 
+
+> „První z nich zajišťuje přidělování dotací jen firmám s řádně evidovanými skutečnými majiteli. Druhý pak počítá s možností odstoupit od smlouvy na veřejnou zakázku s firmami, které do evidence skutečných majitelů uvedly nepřesné či nepravdivé informace,“ uzavřel poslanec.
