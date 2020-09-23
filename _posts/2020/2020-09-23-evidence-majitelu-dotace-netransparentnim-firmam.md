@@ -26,8 +26,6 @@ Tím nejzásadnějším bylo řešení zmíněného paradoxu, vznesli ale i pož
 
 > „Paušální pokuty dosahující maximální výše 500 tisíc korun jsou totiž bičem spíše pro menší podniky a na ty velké nedosáhnou,“ vysvětlil pirátský poslanec s tím, že navíc hrozí i celkové odložení účinnosti zákona o evidenci majitelů. „Na konci jednání naneštěstí předseda výboru Marek Benda z ODS navrhl odložení účinnosti zákona, což i kvůli hlasům vládních poslanců prošlo. To je v momentě, kdy jsme už více než osm měsíců v prodlení, velmi nešťastné. Příslušná evropská směrnice o praní špinavých peněz, ze které vládní návrh vychází, totiž měla být do našeho právního řádu implementována už v lednu tohoto roku. Budeme usilovat o to, abychom tento skluz dohnali a zákon vešel v účinnost co nejdříve,” dodal Navrkal. 
 
- 
-
-> Ten naopak považuje za velký úspěch, že se na Ústavně právním výboru povedlo zalepit několik děr ve vládním návrhu, na které upozornil – zákon například počítal pouze se sankcí při návrhu zápisu nesprávných údajů do evidence, ale už chyběla sankce, pokud vůbec k žádnému návrhu včas a řádně nedojde. I na rozpočtovém výboru se také povedlo prosadit několik zásadních záměrů. 
+Ten naopak považuje za velký úspěch, že se na Ústavně právním výboru povedlo zalepit několik děr ve vládním návrhu, na které upozornil – zákon například počítal pouze se sankcí při návrhu zápisu nesprávných údajů do evidence, ale už chyběla sankce, pokud vůbec k žádnému návrhu včas a řádně nedojde. I na rozpočtovém výboru se také povedlo prosadit několik zásadních záměrů. 
 
 > „První z nich zajišťuje přidělování dotací jen firmám s řádně evidovanými skutečnými majiteli. Druhý pak počítá s možností odstoupit od smlouvy na veřejnou zakázku s firmami, které do evidence skutečných majitelů uvedly nepřesné či nepravdivé informace,“ uzavřel poslanec.
