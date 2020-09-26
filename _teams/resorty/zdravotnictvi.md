@@ -3,11 +3,11 @@ uid: zdravotnictvi
 name: Zdravotnictví
 fullname: Tým pro zdravotnictví
 img: teams/resorty/zdravotnictvi.jpg # obrázek nemusíte dodávat
-leader: petr.tresnak
+leader: josef.pavlovic
 deputy:
 - olga.richterova
 contact-local:
-  name: Josef Pavlovic
+  name: 
   mob: 607 517 967
   mail: josef.pavlovic@pirati.cz
   img: 
