@@ -3,7 +3,7 @@ uid: zemedelstvi
 name: Zemědělství
 fullname: Tým pro zemědělství
 img: teams/resorty/zemedelstvi.jpg # obrázek nemusíte dodávat
-leader: radek.holomcik
+leader: jiri.lehejcek
 deputy:
 - jan.posvar
 contact-local:
