@@ -44,7 +44,7 @@ Angažuje se v aktivitách souvisejících s transparentností ve veřejné spr�
 
 V Pirátské straně působil jako registrovaný příznivec od roku 2012. V roce 2014 organizoval kampaň pro komunální volby v České Lípě, kde se stal i jedním ze zastupitelů za Piráty. Členem České pirátské strany je od roku 2017. Podílel se na přípravě pirátského volebního programu v rámci pracovních skupin i jako člen Republikového výboru České pirátské strany.
 
-Tomáš Martínek pochází z České Lípy. V současné době žije s partnerkou Terezou, se kterou vychovává dceru Miu, syna Elona a kočkou.
+Tomáš Martínek pochází z České Lípy. V současné době žije s partnerkou Terezou, se kterou vychovává dceru Miu, syna Elona a kočku.
 
 Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. 
  nformace o aktuálním dění najdete i na jeho facebookovém [politickém](https://www.facebook.com/tomas.martinek.pirati/) nebo [osobním](https://www.facebook.com/tmartinek) profilu. Kromě toho lze pro sledování využít i [Twitter](https://twitter.com/TomasMartinekCZ) nebo [Instagram](https://www.instagram.com/tommartinek/).
