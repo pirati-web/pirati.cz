@@ -36,17 +36,19 @@ mpv: 315
 ---
 ## Životopis
 
-Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a kontrolního výboru.
+Tomáš Martínek (* 1986) je pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Po Obchodní akademii v České Lípě vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a rozpočtového výboru.
 
 Zabývá se také implementací informačních systémů jako fakultní systémový integrátor na Provozně ekonomické fakultě ČZU v Praze. Je také členem Rady pro vnitřní hodnocení ČZU. Prošel několika firmami, kde se věnoval převážně reklamě a marketingu. V současné době je podnikatelem v oboru internetového marketingu, konkrétně vlastní agenturu [WebCesky.cz](https://www.webcesky.cz). 
 
 Angažuje se v aktivitách souvisejících s transparentností ve veřejné správě a ekonomií, převážně problematikou nezaměstnanosti, e-governmentu a otevřených měst. Podporuje projekty Otevřená města či OpenData. Věnoval se také výchově dětí v rámci ozdravných pobytů a skautingu.
 
-V Pirátské straně působil jako registrovaný příznivec od roku 2012. V roce 2014 organizoval kampaň pro komunální volby v České Lípě, kde se stal i jedním ze zastupitelů za Piráty. Členem České pirátské strany je od roku 2017. Podílel se na přípravě pirátského volebního programu v rámci pracovních skupin i jako člen Republikového výboru České pirátské strany.
+V Pirátské straně působil jako registrovaný příznivec od roku 2012. V roce 2014 organizoval kampaň pro komunální volby v České Lípě, kde se stal i jedním ze zastupitelů za Piráty. Členem České pirátské strany je od roku 2017. Podílel se na přípravě pirátského volebního programu v rámci pracovních skupin i jako člen Republikového výboru České pirátské strany.
 
-Tomáš Martínek pochází z České Lípy. Kromě bydliště v České Lípě využívá také pracovní byt v Horoměřicích u Prahy, odkud dojíždí do práce. V současné době žije s přítelkyní a kočkou.
+Tomáš Martínek pochází z České Lípy. V současné době žije s partnerkou Terezou, se kterou vychovává dceru Miu, syna Elona a kočkou.
 
-Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. Informace o aktuálním dění najdete i na jeho facebookovém [profilu](https://www.facebook.com/tmartinek).
+Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. 
+ nformace o aktuálním dění najdete i na jeho facebookovém [politickém](https://www.facebook.com/tomas.martinek.pirati/) nebo [osobním](https://www.facebook.com/tmartinek) profilu. Kromě toho lze pro sledování využít i [Twitter](https://twitter.com/TomasMartinekCZ) nebo [Instagram](https://www.instagram.com/tommartinek/).
+
 
 Poslanecká sněmovna
 -------------------
