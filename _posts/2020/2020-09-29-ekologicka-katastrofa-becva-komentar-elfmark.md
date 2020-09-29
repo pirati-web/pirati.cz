@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Františka Elfmarka: Piráti se ptají, jak pokračuje vyšetřování ekologické katastrofy v řece Bečvě. Trvají na dopadení viníka i lepší ochraně toků"
-image:        /assets/img/articles/2020/kolaja.jpg
+image:        /assets/img/articles/2020/elfmark.jpg
 ---
 
 
