@@ -13,7 +13,9 @@ Brusel, 30.9.2020 – Spor o Náhorní Karabach je selháním komunikace obou st
 
 S obavami sledujeme, jak se v těchto dnech opět rozhořel doutnající konflikt mezi Arménií a Ázerbájdžánem o sporné území Náhorního Karabachu. Obě strany již hlásí dohromady téměř 100 obětí včetně civilistů a situace se zatím neuklidňuje.
 
-> Konflikt, který započal v roce 1988 a od roku 1994 se jej více či méně dařilo držet v diplomatických rovinách, je vyústěním komplikovaného územního sporu, navázaného na historii regionu. „Nikdo netvrdí, že řešení je snadné. Základem je ale vždy komunikace a diplomacie a v té představitelé obou zemí bohužel dlouhodobě selhávají. Eskalace konfliktu jen potvrzuje, že by měli v zájmu svých občanů přijmout nabídky mediace od regionálních lídrů, jako je například Írán. Konflikt musí přestat eskalovat, než dojde k většímu krveprolití,“ komentuje situaci europoslankyně Markéta Gregorová.
+Konflikt, který započal v roce 1988 a od roku 1994 se jej více či méně dařilo držet v diplomatických rovinách, je vyústěním komplikovaného územního sporu, navázaného na historii regionu. 
+
+> „Nikdo netvrdí, že řešení je snadné. Základem je ale vždy komunikace a diplomacie a v té představitelé obou zemí bohužel dlouhodobě selhávají. Eskalace konfliktu jen potvrzuje, že by měli v zájmu svých občanů přijmout nabídky mediace od regionálních lídrů, jako je například Írán. Konflikt musí přestat eskalovat, než dojde k většímu krveprolití,“ komentuje situaci europoslankyně Markéta Gregorová.
 
 > „NATO i evropské instituce musí také dát jasně najevo dalším aktérům, jako je Rusko a především Turecko, aby se vyvarovali arbitrárních zásahů do konfliktu, které mohou situaci pouze zhoršit. Evropská unie se musí zavázat k uvalení sankcí, bude-li někdo podporovat eskalaci,“ dodává.
 
