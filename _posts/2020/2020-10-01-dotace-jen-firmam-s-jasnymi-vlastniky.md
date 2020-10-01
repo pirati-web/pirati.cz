@@ -7,7 +7,7 @@ title:        "Piráti prosadili udělování dotací jen firmám se známými v
 image:        /assets/img/articles/2020/navrkal02.jpg
 ---
 
-Praha, 1. října 2020 – Poslanecká sněmovna dnes schválila pozměňovací návrhy Pirátů k návrhu zákona proti legalizaci výnosů z trestné činnosti. Autorovi návrhů, pirátskému poslanci Františku Navrkalovi, se podařilo prosadit, aby dotace dostávaly jen společnosti s jasně definovanými skutečnými vlastníky. Druhý schválený návrh Pirátů umožňuje zadavateli veřejné zakázky odstoupit od smlouvy s podnikem, který měl v evidenci nesprávné údaje. Obě dvě podané úpravy schválil v minulém týdnu Rozpočtový výbor.
+Praha, 1. října 2020 – Poslanecká sněmovna schválila pozměňovací návrhy Pirátů k návrhu zákona proti legalizaci výnosů z trestné činnosti. Autorovi návrhů, pirátskému poslanci Františku Navrkalovi, se podařilo prosadit, aby dotace dostávaly jen společnosti s jasně definovanými skutečnými vlastníky. Druhý schválený návrh Pirátů umožňuje zadavateli veřejné zakázky odstoupit od smlouvy s podnikem, který měl v evidenci nesprávné údaje. Obě dvě podané úpravy schválil v minulém týdnu Rozpočtový výbor.
 
  
 
@@ -21,7 +21,6 @@ Dnes schválený zákon je změnovým zákonem k zákonu o evidenci skutečných
 
 > „Budeme požadovat, aby se co nejdříve projednal i zákon o evidenci skutečných majitelů. Jsme již skoro devět měsíců v prodlení s jeho přijetím. Navíc bez něj dnes přijatý změnový zákon ani nemůže plně vejít v účinnost. Je škoda, že vládní většina ve Sněmovně trvala na tomto nesmyslném pořadí projednávání příslušných sněmovních tisků,“ informoval o průběhu legislativního procesu Navrkal.
 
- 
 
 Při projednávání zákona o evidenci skutečných majitelů v minulém týdnu Ústavně právní výbor zamítl návrhy Pirátů na širší zveřejňování informací o majitelích a povinnost zveřejnit strukturu majetkových vztahů.
 
