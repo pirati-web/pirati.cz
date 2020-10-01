@@ -14,7 +14,7 @@ mail:
 mob:			  +420 737 943 770
 office: 
   - address: Masarykovo náměstí 1484, 530 02 Pardubice
-    opening: pondělí 9:00 - 11:00, čtvrtek 14:00 - 16:00, po domluvě na tel. č. 604 794 181
+    opening: pondělí 13:00 - 15:00, čtvrtek 15:00 - 17:00, po domluvě na tel. č. 604 794 181
 asistenti:
   - name: Lucie Procházková
     mail: lucie.prochazkova@pirati.cz
