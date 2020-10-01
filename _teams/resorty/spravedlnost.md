@@ -76,5 +76,5 @@ Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or
 Mezirezortní týmy
 -----------------
 * [Demokracie](/pripoj-se/demokracie/)
-* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/
+* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/)
 * Vězeňství - kontaktní osoba [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)
