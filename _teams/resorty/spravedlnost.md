@@ -73,8 +73,8 @@ Online komunikace
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. František Kopřiva pro oblast lidských práv, Lukáš Kolářík pro oblast exekucí a insolvencí, Tomáš Vymazal pro oblast vězeňství).
 
-Podtýmy
--------
-* [Demokracie](/pripoj-se/demokracie/) - vede V. Pikal, kontaktní osoba S. Zavadil
-* Vězeňství - kontaktní osoba T. Vymazal
-* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/) - kontaktní osoby M. Archalous a F. Kopřiva
+Mezirezortní týmy
+-----------------
+* [Demokracie](/pripoj-se/demokracie/)
+* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/
+* Vězeňství - kontaktní osoba [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)
