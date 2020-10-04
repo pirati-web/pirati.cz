@@ -32,7 +32,6 @@ Co děláme?
   * novely zákona  266/1994 Sb. (drážní zákon)
   * další řadu poslaneckých i vládních návrhů a novel
 * další okruhy témat, která nyní řešíme:
-  * zavedení elektronického stavebního deníku pro nadlimitní zakázky
   * plánování výstavby VRT - rychlých železničních spojení
   * stáčení odometrů
   * železniční uzel Brno
@@ -46,6 +45,7 @@ Co děláme?
 * sledujeme práci vlády a vyjadřujeme se k práci Ministerstva dopravy
 * sledujeme evropský legislativní proces v oblasti dopravní infrastruktury
 * připravujeme interpelace na členy vlády a premiéra
+* sloužíme jako podpora krajským týmům v otázkách legislativy
 
 Jak se můžete zapojit?
 ----------------------
@@ -67,17 +67,21 @@ Každé úterý ve 20:00 se scházíme online na Skype, pro zapojení prosím ko
 
 Členové týmu jsou:
 
-* **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)**, poslanec, člen [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, místopředseda [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), člen [Podvýboru pro letectví a vesmírný program](http://www.psp.cz/sqw/hp.sqw?k=3529)
-* **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)**, poslanec, člen [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
-* **David Witosz**, garant programového bodu [Doprava a logistika](https://www.pirati.cz/program/psp2017/doprava/), asistent poslance Ondřeje Polanského
-* **Jan Lička**, zástupce garanta - automobilová doprava a nové technologie
-* **Miloš Zmeškal**, vysloužilý garant - automobilová doprava
+* **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)** - poslanec, člen [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, místopředseda [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), člen [Podvýboru pro letectví a vesmírný program](http://www.psp.cz/sqw/hp.sqw?k=3529)
+* **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)** - poslanec, člen [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
+* **David Witosz** - garant programového bodu [Doprava a logistika](https://www.pirati.cz/program/psp2017/doprava/), asistent poslance Ondřeje Polanského
+* **Jan Lička** - vedoucí resortního týmu, automobilová doprava a nové technologie (autonomní a bezpilotní doprava)
+* **Miloš Zmeškal** - vysloužilý garant, automobilová doprava
 * **Michal Šimek** - železniční a hromadná doprava
 * **Václav Včelica** - projekční a dozorová činnost ve stavebnictví
 * **Michal Štěpán** - doprava pro hlavní město Praha
-* **Viktor Mahrik**, zastupitel hl. m. Prahy
+* **Ondřej Kališ** - krajská veřejná hromadná doprava
+* **Lubomír Fridrich** - bezmotorová doprava
+* **Václav Kříž** - bezmotorová doprava
+* **Jakub Horák** - letecká doprava
+* **Veronika Murzynová** - kosmické aktivity
 
 Dále úzce spolupracujeme s týmem garanta pro životní prostředí:
 
 * **[Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/)**, poslankyně, předsedkyně [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), garantka programového bodu [Životní prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) pro volby do Poslanecké sněmovny 2017
-* **Jan Nezhyba**, garant bodu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/) v dlouhodobém programu strany
+* **Lukáš Blažej**, vedoucí Resortního týmu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/)
