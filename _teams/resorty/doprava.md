@@ -3,12 +3,11 @@ uid: doprava
 name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
-leader:
-- ondrej.polansky
-contact:
-- jan.licka
-assistents:
-- veronika.murzynova
+leader: ondrej.polansky
+deputy:
+ - jan.licka
+contact-local:
+ - veronika.murzynova
 tags:
 - doprava
 - logistika
