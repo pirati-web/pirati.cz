@@ -62,6 +62,7 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **[Jaroslav Němec](https://www.pirati.cz/lide/jaroslav-nemec/)**
 * **[Ondřej Chrást](https://wiki.pirati.cz/lide/ondrej_chrast)**
 * **[Lucie Chocholová](https://kladno.pirati.cz/lide/lucie-chocholova/)**
+* **[Giuseppe Maiello](https://www.pirati.cz/lide/giuseppe-maiello/)**
 * **Kristyna Boháčová**
 * **Anna Vašatová**
 * **Jan Čečrdle**
