@@ -53,7 +53,6 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 Členové základního týmu jsou:
 * **[Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/)**,  poslankyně, členka [Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu](http://www.psp.cz/sqw/hp.sqw?k=4500) a [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
 * **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)**, poslanec, člen [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
-* **[Giuseppe Maiello](https://www.pirati.cz/lide/giuseppe-maiello/)**, garant programového bodu [kultura](https://www.pirati.cz/program/psp2017/kultura/)
 * **[Dominika Michailidu](https://www.pirati.cz/lide/dominika-michailidu/)** - kultura, živé umění
 * **[David František Wagner](https://wiki.pirati.cz/lide/david_frantisek_wagner)** - církve
 * **[Lukáš Funk](https://praha2.pirati.cz/lide/lukas-funk/)** - archeologie, muzejnictví
