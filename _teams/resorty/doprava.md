@@ -4,8 +4,9 @@ name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
 leader:
-- jan.licka
+- ondrej.polansky
 contact:
+- jan.licka
 - veronika.murzynova
 tags:
 - doprava
