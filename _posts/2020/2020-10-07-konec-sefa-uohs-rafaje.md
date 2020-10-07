@@ -5,7 +5,7 @@ tags:         kontrola-moci-a-mocných korupce vláda
 layout:       post
 title:        "Po dlouhodobém tlaku Pirátů a nerozhodnosti vlády rezignoval šéf antimonopolního úřadu Petr Rafaj"
 image:        assets/img/articles/2020/vojtech-pikal.jpg
-
+---
 
 
 Praha, 7. října 2020 – Už od loňského roku Piráti upozorňují na nekalé praktiky na Úřadu pro ochranu hospodářské soutěže (ÚOHS) pod vedením jeho předsedy Petra Rafaje. V červenci minulého roku kvůli nim premiéra Babiše interpeloval místopředseda Poslanecké sněmovny za Piráty Vojtěch Pikal. Po dalších objevivších se korupčních skandálech pak Pikal znovu interpeloval Babiše o rok později. Piráti oslovili ve věci rezignace přímo premiéra s požadavkem na uspořádání otevřeného výběrového řízení.
