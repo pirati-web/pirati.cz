@@ -4,7 +4,7 @@ category:     blog
 tags:         finance legislativa sněmovna
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: TOP 09 a ODS zablokovaly projednání zmrazení platů politiků v 1. čtení, které mohlo ušetřit státu půl miliardy"
-image:        assets/img/articles/2020/dana-balcarova.jpg
+image:        assets/img/articles/2020/mikulas-ferjencik.jpg
 author:       Mikuláš Ferjenčík
 ---
 
