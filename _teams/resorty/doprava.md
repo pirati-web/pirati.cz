@@ -6,8 +6,12 @@ img: teams/resorty/doprava.jpg
 leader: ondrej.polansky
 deputy:
  - jan.licka
+
 contact-local:
- - veronika.murzynova
+  name: Veronika Murzýnová
+  mob: 
+  mail: veronika.murzynova@pirati.cz
+  img: 
 tags:
 - doprava
 - logistika
