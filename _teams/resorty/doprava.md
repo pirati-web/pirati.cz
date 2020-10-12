@@ -5,11 +5,9 @@ fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
 leader: ondrej.polansky
 deputy:
- - jan.licka
-
+- ondrej.polansky
 contact-local:
   name: Veronika Murzýnová
-  mob: 
   mail: veronika.murzynova@pirati.cz
   img: 
 tags:
