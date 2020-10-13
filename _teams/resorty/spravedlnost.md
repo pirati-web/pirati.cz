@@ -21,7 +21,7 @@ redmine_id: justice # Střednědobé cíle týmu
 mpv: resort-spravedlnost # Mediální výsledky
 ---
 
-Vítejte na stránce **resortního týmu Spravedlnost**, který se věnuje otázkám justice, občanského a ústavního práva.
+Vítejte na stránce **rezortního týmu Spravedlnost**, který se věnuje otázkám justice a občanského a ústavního práva.
 
 Co děláme?
 ----------
@@ -54,7 +54,7 @@ Za přípravu agendy setkání zodpovídá Martin Štancl a zápis a pozvánka s
 Online komunikace
 -----------------
 
-Členové týmu mohou využít pro komunikaci e-mail na všechny členy skupiny nebo skupinu [tým Spravedlnost](https://www.facebook.com/groups/2235605923334102/) na facebooku.
+Komunikace mezi členy rezortního týmu probíhá přes mail a doplňkově i na Zulipu.
 
 
 Členové týmu
@@ -76,5 +76,5 @@ Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or
 Mezirezortní týmy
 -----------------
 * [Demokracie](/pripoj-se/demokracie/)
-* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/
+* [Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/)
 * Vězeňství - kontaktní osoba [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)
