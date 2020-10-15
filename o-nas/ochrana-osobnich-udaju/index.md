@@ -16,7 +16,7 @@ Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaj
 ## 2. Správce osobních údajů
 <table>
 <tr><td>Název:</td><td>Česká pirátská strana</td></tr>
-<tr><td>Sídlo:</td><td> Řehořova 943/19, 130 00 Praha 3, Česká republika</td></tr>
+<tr><td>Sídlo:</td><td> Na Moráni 360/3, 128 00 Praha 2, Česká republika</td></tr>
 <tr><td>IČ:</td><td> 71339698 </td></tr>
 <tr><td></td><td>Zapsaný v Rejstříku politických stran a politických hnutí České republiky od 17. 6. 2009.</td></tr>
 <tr><td>E-mail:</td><td> info@pirati.cz</td></tr>
