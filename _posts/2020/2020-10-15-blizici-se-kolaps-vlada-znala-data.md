@@ -44,3 +44,5 @@ Opatření:
 * Zmatečným opatřením na poslední chvíli.
 * Siláckým řečem nebo bagatelizaci, které zakrývají nepěknou realitu.
 * Ukončit bezhlavé zavírání provozů, předejít krachům, ztrátám zaměstnání a minimalizovat výdaje na případné kompenzace.
+
+**Podrobnější informace naleznete v článku Onřeje Profanta: [Vláda nás ohrozila vědomě](https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html?fbclid=IwAR3hLv5Qe7F5DC3zSfNA_Y2p2wGWVi1MRAegWLKKWPt9a9JHzMyEUjw851E)**
