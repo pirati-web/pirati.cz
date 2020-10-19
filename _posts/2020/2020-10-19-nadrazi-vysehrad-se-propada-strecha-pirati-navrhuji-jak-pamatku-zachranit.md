@@ -8,7 +8,7 @@ image:        /assets/img/articles/2020/vysehrad.jpg
 author:       
 ---
 
-Praha, 16. října 2020 – Kulturní památka nádraží Vyšehrad je v alarmujícím stavu a doslova se ztrácí před očima. Z budovy totiž zmizela část střešní krytiny a to přímo nad nosnou konstrukcí střechy. Poničení spolu s deštivým počasím zapříčinilo postupné propadání střechy budovy, která je každým dnem blíže ke kompletní demolici. Vlastník budovy se o památku dlouhodobě nestará, ač mu to ukládá památkový zákon. Nevidím tedy jinou cestu, než aby vedení hlavního města Prahy bezodkladně přistoupilo k opravě na vlastní náklady a zahájilo proces vyvlastnění.
+Praha, 19. října 2020 – Kulturní památka nádraží Vyšehrad je v alarmujícím stavu a doslova se ztrácí před očima. Z budovy totiž zmizela část střešní krytiny a to přímo nad nosnou konstrukcí střechy. Poničení spolu s deštivým počasím zapříčinilo postupné propadání střechy budovy, která je každým dnem blíže ke kompletní demolici. Vlastník budovy se o památku dlouhodobě nestará, ač mu to ukládá památkový zákon. Nevidím tedy jinou cestu, než aby vedení hlavního města Prahy bezodkladně přistoupilo k opravě na vlastní náklady a zahájilo proces vyvlastnění.
 
 O tom, že do této jedinečné budovy protéká střechou, mě informoval pirátský zastupitel Prahy 2 Jaroslav Němec, který díry ve střeše pečlivě zdokumentoval a okamžitě urgoval i odbor památkové péče. Nyní je uvnitř budovy spousta vody a kromě podmáčení nosných trámů ve střeše dochází i k podmáčení stavby zespodu a narušení celkové statiky. Město Praha nyní podniká kroky, aby zabránilo zhroucení celé budovy, provede dle zákona o státní památkové péči udržovací a neodkladné zabezpečovací práce na náklady vlastníka, které mohou být vymáhány zpětně i exekučně.
 
