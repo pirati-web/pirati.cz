@@ -5,7 +5,7 @@ tags:         celostátní vláda zdravotnictví práce-a-sociální-věci
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Bezúročné půjčky pro malé živnostníky oceňujeme a věříme, že se vláda inspiruje našimi dalšími návrhy"
 image:        /assets/img/articles/2019/ferjencik-mikrofon.jpg
-author:       Mediální odbor
+author:       Mikuláš Ferjenčík
 --- 
 
 
