@@ -3,7 +3,7 @@ date:         2020-10-19
 category:     blog
 tags:         ochrana-pamatek praha vysehrad
 layout:       post
-title:        "Komentář Lukáše Černohorského: Nádraží Vyšehrad se začala propadat střecha, majitel odmítá cokoliv řešit. Jedinou záchranou je oprava na náklady Prahy a odkup či vyvlastnění ze strany Ministerstva kultury  
+title:        "Komentář Lukáše Černohorského: Nádraží Vyšehrad se začala propadat střecha, majitel odmítá cokoliv řešit. Jedinou záchranou je oprava na náklady Prahy a odkup či  vyvlastnění ze strany Ministerstva kultury"  
 image:        /assets/img/articles/2020/vysehrad.jpg 
 author:       
 ---
