@@ -5,7 +5,7 @@ tags:         finance vláda rozpočet
 layout:       post
 title:        "Piráti: Vládní návrh státního rozpočtu na rok 2021 je nedodělek. Nezahrnuje zrušení superhrubé mzdy a možný pokles příjmů až o 100 miliard"
 image:        /assets/img/articles/2019/ferjencik-mikrofon.jpg
-author:       Mikuláš Ferjenčík
+author:       
 --- 
 
 
