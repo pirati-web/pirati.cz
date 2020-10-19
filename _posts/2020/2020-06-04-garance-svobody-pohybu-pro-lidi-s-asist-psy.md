@@ -1,7 +1,7 @@
 ---
 date:         2020-06-04
 category:     blog
-tags:         legislativa práce-a-sociální věci
+tags:         legislativa práce-a-sociální-věci
 layout:       post
 title:        "Piráti spolu s ČSSD navrhují garanci svobody pohybu pro lidi využívající pomoc asistenčních a vodících psů"
 image:        /assets/img/articles/2020/holomcik.jpg
