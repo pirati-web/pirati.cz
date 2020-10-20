@@ -5,7 +5,7 @@ tags:         finance vláda doprava
 layout:       post
 title:        "Komentář Ondřeje Polanského: Vláda navýšila investice do dopravy. Opravdu se z krize proinvestujeme, nebo nás čeká jen další chaotické betonování? "
 image:        /assets/img/articles/2019/polansky.jpg
-author:       
+author:       Ondřej Polanský
 --- 
 
  
