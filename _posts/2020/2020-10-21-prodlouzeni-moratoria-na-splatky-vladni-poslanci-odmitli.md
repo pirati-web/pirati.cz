@@ -24,6 +24,6 @@ Druhá ochranná lhůta se měla vztahovat pouze vůči běžícím úvěrům. S
 
 Poslanci ANO, ČSSD a KSČM také zamítli pirátský návrh na rozšíření transparentnosti zveřejňováním poskytnutých státních záruk včetně skutečného vlastníka za úvěry programu COVID Plus, který je určen pro největší společnosti.
 
-* [Přehled hlasování o prodloužení moratoria dle poslaneckých klubů](https://www.psp.cz/sqw/hlasy.sqw?g=74100&l=cz&fbclid=IwAR0fugBxe75ccaQ25VTSC0vwbrm0PI7VzDVrVRCxdf0z3Yt0PbsqToJCwck) 
+* [Přehled hlasování o prodloužení moratoria dle poslaneckých klubů.](https://www.psp.cz/sqw/hlasy.sqw?g=74100&l=cz&fbclid=IwAR0fugBxe75ccaQ25VTSC0vwbrm0PI7VzDVrVRCxdf0z3Yt0PbsqToJCwck) 
 
-* [Plné znení návrhu na rodloužení moratoria](pirati.cz/assets/pdf/moratorium-martinek.pdf)
+* [Plné znění návrhu na prodloužení moratoria.](https://pirati.cz/assets/pdf/moratorium-martinek.pdf)
