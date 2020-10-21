@@ -41,4 +41,4 @@ Zástupce šéfredaktora týdeníku Respekt. Specializuje se na působení cizí
 
  
 
-Kampaň, jejíž web s aktuálními informacemi najdete na **[http://pravdaboli.eu/](http://pravdaboli.eu/**), je financována z prostředků frakce Evropského parlamentu Greens/EFA.
+Kampaň, jejíž web s aktuálními informacemi najdete na **[http://pravdaboli.eu/](http://pravdaboli.eu/)**, je financována z prostředků frakce Evropského parlamentu Greens/EFA.
