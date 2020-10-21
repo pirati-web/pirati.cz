@@ -23,3 +23,7 @@ Druhá ochranná lhůta se měla vztahovat pouze vůči běžícím úvěrům. S
 > „Vláda dlouhodobě nedokáže řešit situaci lidí v exekuci, kterých je dnes 900 tisíc. K nim přibudou desítky, ne-li statisíce dalších. Ignorováním tohoto problému zakládá vládní koalice hluboký sociální problém, na jehož řešení budeme doplácet jakožto daňoví poplatníci všichni,“ varoval Martínek.
 
 Poslanci ANO, ČSSD a KSČM také zamítli pirátský návrh na rozšíření transparentnosti zveřejňováním poskytnutých státních záruk včetně skutečného vlastníka za úvěry programu COVID Plus, který je určen pro největší společnosti.
+
+* [Přehled hlasování o prodloužení moratoria dle poslaneckých klubů](https://www.psp.cz/sqw/hlasy.sqw?g=74100&l=cz&fbclid=IwAR0fugBxe75ccaQ25VTSC0vwbrm0PI7VzDVrVRCxdf0z3Yt0PbsqToJCwck) 
+
+* [Plné znení návrhu na rodloužení moratoria](pirati.cz/assets/pdf/moratorium-martinek.pdf)
