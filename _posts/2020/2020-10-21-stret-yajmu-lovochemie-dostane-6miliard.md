@@ -1,7 +1,7 @@
 ---
 date:         2020-10-21
 category:     blog
-tags:         finance kontrola-moci-a-mocn7ch korupce transparence
+tags:         finance kontrola-moci-a-mocných korupce transparence
 layout:       post
 title:        "6 miliard pro Lovochemii je nepřípustný střet zájmů, upozorňuje předseda Pirátů ministra Brabce v dopise"
 image:        /assets/img/articles/2020/bartos-rouska.jpg
