@@ -1,5 +1,5 @@
 ---
-date:         2020-10-23
+date:         2020-10-20
 category:     blog
 tags:         zemědělství evropská-unie dotace
 layout:       post
