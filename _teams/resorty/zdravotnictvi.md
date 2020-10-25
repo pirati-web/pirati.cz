@@ -48,10 +48,12 @@ Tým se schází podle potřeby, většinou přímo v Poslanecké sněmovně.
 Členové týmu jsou:
 * **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, poslanec zodpovědný za oblast zdravotnictví, místopředseda [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=3200) a člen dalších zdravotních podvýborů
 * **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
-* **[Zdeněk Hřib](https://www.pirati.cz/lide/zdenek-hrib/)**, garant programového bodu [Zdravotnictví](https://www.pirati.cz/program/psp2017/zdravotnictvi/)
+* **[Zdeněk Hřib](https://www.pirati.cz/lide/zdenek-hrib/)** ředitel Institutu pro výzkum, edukaci a řízení ve zdravotnictví.
 * **Jiří Páral**, člen správní rady VZP
 * **Pavel Východský**, člen správní rady VZP
 * **Adam Janek**, člen dozorčí rady VZP
+* **Bára Malíková**, stálá členka týmu zdravotnictví
+* **Jan Novák**, stálý člen týmu zdravotnictví
 * **Marek Paris**, expert na problematiku zdravotnictví
 * **Josef Pavlovic**, asistent týmu
 
