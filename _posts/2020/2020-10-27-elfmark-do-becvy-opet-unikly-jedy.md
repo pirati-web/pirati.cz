@@ -5,7 +5,7 @@ tags:         životní-prostředí kontrola-moci-a-mocných
 layout:       post
 title:        "Komentář Františka Elfmarka: Do řeky Bečvy opět unikla neznámá látka: Piráti žádají vyšetření dnešní i zářijové ekologické katastrofy a lepší ochranu proti znečištění"
 image:        /assets/img/articles/2020/elfmark.jpg
-author:       
+author:       František Elfmark
 --- 
 
 
