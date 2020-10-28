@@ -59,7 +59,7 @@ Fungování týmu
 
 Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Martin Huňady.
 Členové týmu jsou:
-* **[Aleš Jakl](https://www.pirati.cz/lide/ales-jakl/)**, bývalý garant [zemědělského programu](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
+* **[Jiří Lehejček](https://www.pirati.cz/lide/jiri-lehejcek/)**, vedoucí týmu - zaštiťuje [zemědělský program](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
 * **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
 * **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
 * Martin Huňady, politolog, asistent poslance Jana Pošváře
