@@ -3,10 +3,11 @@ date:         2020-10-30
 category:     blog
 tags:         sněmovna koronavirus zdravotnictví školství
 layout:       post
-title:        "Piráti prosadili ve Sněmovně část opatření proti koronaviru. Mají zmírnit krizi a ulevit školám, zdravotnímu systému i lépe ochránit občany 
+title:        "Piráti prosadili ve Sněmovně část opatření proti koronaviru. Mají zmírnit krizi a ulevit školám, zdravotnímu systému i lépe ochránit občany"
 image:        /assets/img/articles/2020/olga-richterova.jpg
 author:       
---- 
+---
+
 
 
  
