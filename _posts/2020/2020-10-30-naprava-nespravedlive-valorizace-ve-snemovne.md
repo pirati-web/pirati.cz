@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna legislativa finance
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Náprava nespravedlivé valorizace prošla i přes odpor vládních stran"
-image:        /assets/img/articles/2018/mikulas_ferjencik_rouska.jpg
+image:        /assets/img/articles/2020/mikulas_ferjencik_rouska.jpg
 author:       
 --- 
 
