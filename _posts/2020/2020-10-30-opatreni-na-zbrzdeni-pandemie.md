@@ -6,9 +6,7 @@ layout:       post
 title:        "Piráti navrhli 30 opatření, jak zbrzdit pandemii a účinně pomoci občanům, živnostníkům i firmám. Vyzývají vládu k jejich zavedení"
 image:        /assets/img/articles/2020/tk49brifink.jpg
 author:       
---- 
-
-
+---
 
 
 Praha, 30. říjen 2020 – Piráti předloží dnes Sněmovně 30 opatření, která mohou účinně pomoci v boji s pandemii a podpořit občany i firmy. Stane se tak během mimořádné schůze k prodloužení nouzového stavu. Návrhy se týkají například efektivnějšího zapojování odborníků i dobrovolníků do zdravotní péče, školství, elektronizace státní správy či chytrých preventivních opatření. „V Česku jsou dnes nejhorší čísla v Evropě s výjimkou malého státu Andorra. Vinu za to nese vláda Andreje Babiše, která se i přes tlak opozice a odborníků doslova vykašlala na přípravu na druhou vlnu pandemie. Proto nyní vyzýváme Sněmovnu i vládu, aby v zájmu občanů přijaly našich 30 navrhovaných usnesení pro boj s covid-19. Premiér minulé měsíce naše návrhy ignoroval a tvrdil, že strašíme. Tady vidíme výsledek, neopakujte prosím stejnou chybu,“ uvedl Jakub Michálek, předseda pirátského poslaneckého klubu.
