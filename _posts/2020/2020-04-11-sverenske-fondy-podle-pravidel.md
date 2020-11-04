@@ -3,7 +3,7 @@ date:         2020-11-04
 category:     blog
 tags:         finance dotace kontrola-moci-a-mocných
 layout:       post
-title:        "Piráti na výboru prosadili dodržení vlastnických pravidel ve svěřenských fondech"
+title:        "Piráti na výboru prosadili odstranění kličky pro firmy ve svěřenských fondech"
 image:        /assets/img/articles/2020/navrkal01.jpg
 author:       
 ---
