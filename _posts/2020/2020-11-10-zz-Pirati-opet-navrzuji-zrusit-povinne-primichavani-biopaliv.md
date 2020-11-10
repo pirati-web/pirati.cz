@@ -20,4 +20,4 @@ Praha, 10. listopadu 2020 - Piráti opět navrhují zrušení povinného přimí
 
 
 
-Podrobné detailní zdůvodnění lze najít v důvodové zprávě zde.
+Podrobné detailní zdůvodnění lze najít v důvodové zprávě zde (https://pirati.cz/assets/pdf/Důvodová zpráva Piráti Biopaliva.pdf).
