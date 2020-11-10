@@ -12,15 +12,33 @@ mail:
 mob: 
 ordeuro: 2
 asistenti:
-  - name: Kristyna Koubkova
-    tel: 32 22847334
-    mail: kristyna.koubkova@europarl.europa.eu
-  - name: Paul Diegel
-    tel: 32 22837334
+  - name: Paul Diegel	
+    description: Politický poradce
     mail: paul.diegel@europarl.europa.eu
-  - name: Naďa Barcalová (asistentka v ČR)
-    tel: 721 760 253
+    tel: +32 2 2837334
+  - name: Kristýna Koubková	
+    description: Politický poradce
+    mail: kristyna.koubkova@europarl.europa.eu
+    tel: +32 2 2847334
+  - name: Martina Jaňurová	
+    description: Administrativní asistentka
+    mail: martina.janurova@europarl.europa.eu
+    tel: +32 2 2838334
+  - name: Zuzana Picková	
+    description: Poradkyně pro legislativní činnost
+    mail: zuzana.pickova@europarl.europa.eu
+    tel: +32 2 2838522
+  - name: Nadia Barcalová	
+    description: Asistentka v ČR
     mail: nadezda.barcalova@la.europarl.europa.eu
+    tel: +420 721 760 253
+  - name: Vladan Klement	
+    description: PR expert
+    mail: vladanklem@gmail.com	x
+  - name: Petr Bittner	
+    description: Poskytovatel služeb, PR expert
+    mail: bittnerpetr@seznam.cz
+    tel: +420 724 202 681
 direct-contact: true
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
