@@ -34,8 +34,7 @@ asistenti:
     phone: +420 723 248 776
     direct-contact: true
   - name: Ondřej Obergruber
-    description: Poskytovatel služeb
-    description2: PR expert
+    description: Poskytovatel služeb, PR expert
     mail: ondrejobergruber@gmail.com
     phone: +420 731 808 671    
 office: 
