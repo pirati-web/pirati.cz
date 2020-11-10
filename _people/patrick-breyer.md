@@ -11,12 +11,30 @@ description: Europoslanec, člen Pirátské strany Německa
 mail:
 - patrick.breyer@europarl.europa.eu 
 asistenti:
-  - name: Amilia Givropoulou
-    tel: 32 22847664
+  - name: Aimilia Givropoulou
+    description: Politický poradce
     mail: aimilia.givropoulou@europarl.europa.eu
+    tel: +32 2 2847664
   - name: Frank Herrmann
-    tel: 32 22847665
+    description: Politický poradce
     mail: frank.herrmann@europarl.europa.eu
+    tel: +32 2 2847665
+  - name: Stella Gebauer
+    description: Administrativní asistentka
+    mail: stella.gebauer@europarl.europa.eu
+    tel: +32 2 2837664
+  - name: Zuzana Picková
+    description: Poradkyně pro legislativní činnost
+    mail: zuzana.pickova@europarl.europa.eu
+    tel: +32 2 2838522
+  - name: Bente Tiedemann
+    description: Asistentka v DE
+    mail: bente.tiedemann@patrick-breyer.de
+  - name: Julia Weber
+    description: PR expert
+    mail: julia.weber@patrick.breyer.de
+    tel: +49 15787550712    
+
 mob: 00322 28 45664
 office: 
   - address: ASP 08G104 60, rue Wiertz B-1047 Bruxelles 
