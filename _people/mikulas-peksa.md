@@ -13,8 +13,7 @@ mail:
 mob:
 asistenti:
   - name: David František Wagner
-    description: Asistent/ka
-    description2: Politický poradce
+    description: Politický poradce
     mail: david.wagner@pirati.cz
     phone: +420 721 030 120
   - name: Cindy Degreef
