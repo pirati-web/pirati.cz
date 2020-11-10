@@ -15,28 +15,28 @@ asistenti:
   - name: David František Wagner
     description: Politický poradce
     mail: david.wagner@pirati.cz
-    phone: +420 721 030 120
+    tel: +420 721 030 120
   - name: Cindy Degreef
     description: Politický poradce
     mail: cindy.degreef@europarl.europa.eu
-    phone: +32 2 2847522
+    tel: +32 2 2847522
   - name: Samuel Vančo
     description: Administrativní asistent
     mail: samuel.vanco@europarl.europa.eu
-    phone: +32 493 351 050
+    tel: +32 493 351 050
   - name: Zuzana Picková
     description: Poradkyně pro legislativní činnost
     mail: zuzana.pickova@europarl.europa.eu
-    phone: +32 2 2838522
+    tel: +32 2 2838522
   - name: Tomáš Hába
     description: Asistent v ČR
     mail: tomas.haba@la.europarl.europa.eu
-    phone: +420 723 248 776
+    tel: +420 723 248 776
     direct-contact: true
   - name: Ondřej Obergruber
     description: Poskytovatel služeb, PR expert
     mail: ondrejobergruber@gmail.com
-    phone: +420 731 808 671    
+    tel: +420 731 808 671    
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
