@@ -34,7 +34,7 @@ asistenti:
     tel: +420 721 760 253
   - name: Vladan Klement	
     description: PR expert
-    mail: vladanklem@gmail.com	x
+    mail: vladanklem@gmail.com
   - name: Petr Bittner	
     description: Poskytovatel služeb, PR expert
     mail: bittnerpetr@seznam.cz
