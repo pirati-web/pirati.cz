@@ -12,15 +12,34 @@ mail:
 mob: 
 ordeuro: 1
 asistenti:
-  - name: Tomas Adamec 
-    tel: 32 22857149
-    mail: tomas.adamec@europarl.europa.eu
   - name: Eszter Bako
-    tel: 32 22857149
+    description: Politický poradce
     mail: eszter.bako@europarl.europa.eu
-  - name: Lenka Kynclová (asistentka v ČR)
-    tel: 604 744 359
+    tel: +32 2 2857149
+  - name: Tomáš Adamec
+    description: Politický poradce
+    mail: tomas.adamec@europarl.europa.eu
+    tel: +32 2 2857149
+  - name: Julien Bencze
+    description: Asistent místopředsedy EP
+    mail: julien.bencze@europarl.europa.eu
+    tel: +32 2 2838149
+  - name: Michaela Hnízdilová
+    description: Administrativní asistentka
+    mail: michaela.hnizdilova@europarl.europa.eu
+    tel: +32 2 2837149
+  - name: Zuzana Picková
+    description: Poradkyně pro legislativní činnost
+    mail: zuzana.pickova@europarl.europa.eu
+    tel: +32 2 2838522
+  - name: Lenka Kynclová
+    description: Asistentka v ČR
     mail: lenka.kynclova@la.europarl.europa.eu
+    tel: +420 604 744 359
+  - name: Boris Vanka
+    description: PR expert
+    mail: boris.vanka@la.europarl.europa.cz
+    tel: +420 608 445 322        
 direct-contact: true
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
