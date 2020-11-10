@@ -4,7 +4,7 @@ category:     blog
 tags:         biopaliva obnovitelne-zdroje pohonne-hmoty
 layout:       post
 title:        "Piráti opět navrhují zrušit povinné přimíchávání biopaliv"
-image:        /assets/pdf/Důvodová zpráva Piráti Biopaliva.pdf
+image:        /assets/img/articles/2020/holomcik.jpg
 author:       
 ---
 
