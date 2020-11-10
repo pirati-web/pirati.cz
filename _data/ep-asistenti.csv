@@ -1,27 +1,32 @@
-Europoslanec,Jméno,Typ kontraktu,Pozice (popis u jména),E-mail,Tel. č.
-Mikuláš Peksa,David František Wagner,Asistent/ka,(Politický poradce),david.wagner@pirati.cz,+420 721 030 120
-Mikuláš Peksa,Cindy Degreef,,(Politický poradce),cindy.degreef@europarl.europa.eu,+32 2 2847522
-Mikuláš Peksa,Samuel Vančo,,(Administrativní asistent),samuel.vanco@europarl.europa.eu,+32 493 351 050
-Mikuláš Peksa,Zuzana Picková,,(Poradkyně pro legislativní činnost),zuzana.pickova@europarl.europa.eu,+32 2 2838522
-Mikuláš Peksa,Tomáš Hába,,(Asistent v ČR),tomas.haba@la.europarl.europa.eu,+420 723 248 776
-Mikuláš Peksa,Ondřej Obergruber,Poskytovatel služeb,(PR expert),ondrejobergruber@gmail.com ,+420 731 808 671 
-Marcel Kolaja,Eszter Bako,Asistent/ka,(Politický poradce),eszter.bako@europarl.europa.eu,+32 2 2857149
-Marcel Kolaja,Tomáš Adamec,,(Politický poradce),tomas.adamec@europarl.europa.eu,+32 2 2857149
-Marcel Kolaja,Julien Bencze,,(Asistent místopředsedy EP),julien.bencze@europarl.europa.eu,+32 2 2838149
-Marcel Kolaja,Michaela Hnízdilová,,(Administrativní asistentka),michaela.hnizdilova@europarl.europa.eu,+32 2 2837149
-Marcel Kolaja,Zuzana Picková,,(Poradkyně pro legislativní činnost),zuzana.pickova@europarl.europa.eu,+32 2 2838522
-Marcel Kolaja,Lenka Kynclová,,(Asistentka v ČR),lenka.kynclova@la.europarl.europa.eu,+420 604 744 359
-Marcel Kolaja,Boris Vanka,,(PR expert),boris.vanka@la.europarl.europa.cz,+420 608 445 322
-Markéta Gregorová,Paul Diegel,Asistent/ka,(Politický poradce),paul.diegel@europarl.europa.eu,+32 2 2837334
-Markéta Gregorová,Kristýna Koubková,,(Politický poradce),kristyna.koubkova@europarl.europa.eu,+32 2 2847334
-Markéta Gregorová,Martina Jaňurová,,(Administrativní asistentka),martina.janurova@europarl.europa.eu,+32 2 2838334
-Markéta Gregorová,Zuzana Picková,,(Poradkyně pro legislativní činnost),zuzana.pickova@europarl.europa.eu,+32 2 2838522
-Markéta Gregorová,Nadia Barcalová,,(Asistentka v ČR),nadezda.barcalova@la.europarl.europa.eu,+420 721 760 253
-Markéta Gregorová,Vladan Klement,,(PR expert),vladanklem@gmail.com,x
-Markéta Gregorová,Petr Bittner,Poskytovatel služeb,(PR expert),bittnerpetr@seznam.cz,+420 724 202 681
-Patrick Breyer,Aimilia Givropoulou,Asistent/ka,(Politický poradce),aimilia.givropoulou@europarl.europa.eu,+32 2 2847664
-Patrick Breyer,Frank Herrmann,,(Politický poradce),frank.herrmann@europarl.europa.eu,+32 2 2847665
-Patrick Breyer,Stella Gebauer,,(Administrativní asistentka),stella.gebauer@europarl.europa.eu,+32 2 2837664
-Patrick Breyer,Zuzana Picková,,(Poradkyně pro legislativní činnost),zuzana.pickova@europarl.europa.eu,+32 2 2838522
-Patrick Breyer,Bente Tiedemann,,(Asistentka v DE),bente.tiedemann@patrick-breyer.de,x
-Patrick Breyer,Julia Weber,,(PR expert),julia.weber@patrick.breyer.de,+49 15787550712
+Jméno,Europoslanec,Typ kontraktu,Pozice,Místo
+David František Wagner,Mikuláš Peksa,Akreditovaný asistent,Politický poradce,Brusel
+Cindy Degreef,Mikuláš Peksa,Akreditovaný asistent,Politický poradce,Brusel
+Samuel Vančo,Mikuláš Peksa,Akreditovaný asistent,Administrativní asistent,Brusel
+Tomáš Hába,Mikuláš Peksa,Místní asistent,Asistent v ČR,ČR
+Ondřej Obergruber,Mikuláš Peksa,Poskytovatel služeb,PR expert,ČR
+Adam Skořepa,Mikuláš Peksa,Poskytovatel služeb,Copywriting,ČR
+Daniel Kolář,Mikuláš Peksa,Poskytovatel služeb,Poradce,ČR
+Eszter Bako,Marcel Kolaja,Akreditovaný asistent,Politický poradce,Brusel
+Tomáš Adamec,Marcel Kolaja,Akreditovaný asistent,Politický poradce,Brusel
+Julien Bencze,Marcel Kolaja,Akreditovaný asistent,Asistent místopředsedy EP,Brusel
+Michaela Hnízdilová,Marcel Kolaja,Akreditovaný asistent,Administrativní asistentka,Brusel
+Lenka Kynclová,Marcel Kolaja,Místní asistent,Asistentka v ČR,ČR
+Boris Vanka,Marcel Kolaja,Místní asistent,PR expert,ČR
+Michaela Gelnarová,Marcel Kolaja,Poskytovatel služeb,Grafik,ČR
+Paul Diegel,Markéta Gregorová,Akreditovaný asistent,Politický poradce,Brusel
+Kristýna Koubková,Markéta Gregorová,Akreditovaný asistent,Politický poradce,Brusel
+Martina Jaňurová,Markéta Gregorová,Akreditovaný asistent,Administrativní asistentka,Brusel
+Nadia Barcalová,Markéta Gregorová,Místní asistent,Asistentka v ČR,ČR
+Vladan Klement,Markéta Gregorová,Místní asistent,PR expert,ČR
+Petr Bittner,Markéta Gregorová,Poskytovatel služeb,PR expert,ČR
+Aimilia Givropoulou,Patrick Breyer,Akreditovaný asistent,Politický poradce,Brusel
+Frank Herrmann,Patrick Breyer,Akreditovaný asistent,Politický poradce,Brusel
+Stella Gebauer,Patrick Breyer,Akreditovaný asistent,Administrativní asistentka,Brusel
+Bente Tiedemann,Patrick Breyer,Místní asistent,Asistentka v Německu,Neměcko
+Julia Weber,Patrick Breyer,Místní asistent,PR expert,Německo
+Zuzana Picková,Delegace European Pirates,Akreditovaný asistent,Poradkyně pro legislativní činnost,Brusel
+Michal Ketner,Delegace European Pirates,Poskytovatel služeb,IT Administrátor,ČR
+Dan Nepejchal,Delegace European Pirates,Poskytovatel služeb,Software developer,ČR
+Mattia Furlani,Delegace European Pirates,Poskytovatel služeb,Software developer,Itálie
+Anna Duchková,Delegace European Pirates,Osoba pověřená prováděním plateb,Vedení účetnictví,ČR
+Mariarita Germani,Delegace European Pirates,Osoba pověřená prováděním plateb,Vedení účetnictví,Itálie
