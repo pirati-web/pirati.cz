@@ -4,18 +4,17 @@ name: Životní prostředí
 fullname: Tým pro životní prostředí
 img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
 leader: dana.balcarova
-deputy:
-- frantisek.elfmark
+deputy: frantisek.elfmark
 contact-local:
-  name: Kristina Marie Kubcová
-  mob:
-  mail: kristina.kubcova@pirati.cz
-  img: 
+  name: Lukáš Blažej
+  mob: +420 778 702 712
+  mail: lukas.blazej@pirati.cz
+  img: people/lukas-blazej.jpg
 tags:
 - životní-prostředí
 category: resort
-redmine:
-forum:
+redmine: https://redmine.pirati.cz/projects/resort-zivotni-prostredi
+forum: https://forum.pirati.cz/viewforum.php?f=560
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
 redmine_id: resort-zivotni-prostredi # Střednědobé cíle týmu
@@ -23,7 +22,7 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 ---
 
 # Poslanecký resortní tým - PoŽiv
-* v poslanecké sněmovně prosazujeme náš [volební program](/program/psp2017/zivotni-prostredi/) pro životní prostředí a projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP) (nebo související tisky). Naše aktivita je tedy primárně směřována na práci ve Výboru pro životní prostředí, kde předkládáme vlastní pozměňovací návrhy. Mezi okruhy témat, která řešíme v souvislosti s legislativním procesem v PSP, patří: ochrana přírody a krajiny, technická ochrana životního prostředí, financování ochrany životního prostředí, udržitelný rozvoj.
+* v poslanecké sněmovně prosazujeme náš [volební program](/program/psp2017/zivotni-prostredi/) pro životní prostředí a projednáváme sněmovní tisky, které jsou přikázány [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600) (VŽP). Naše aktivita je tedy primárně směřována na práci ve Výboru pro životní prostředí, kde předkládáme vlastní pozměňovací návrhy. Mezi okruhy témat, která řešíme v souvislosti s legislativním procesem v PSP, patří ochrana přírody a krajiny, technická ochrana životního prostředí, financování ochrany životního prostředí a udržitelný rozvoj.
 
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 
@@ -39,16 +38,15 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 
 
 ### Složení týmu:
-* **[Dana Balcarová](/lide/dana-balcarova)**, poslankyně, předsedkyně Výboru pro životní prostředí, garantka programového bodu Životní prostředí pro volby do Poslanecké sněmovny 2017, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
+* **[Dana Balcarová](/lide/dana-balcarova)**, poslankyně, předsedkyně Výboru pro životní prostředí, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
 * **[František Elfmark](/lide/frantisek-elfmark)**, poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
-* **[Jan Nezhyba](/lide/jan-nezhyba)**, garant bodu Životní prostředí v dlouhodobém programu strany
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec Evropského parlamentu, člen frakce Zelených/Evropské svobodné aliance
 * **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**, senátor za obvod Praha 8, člen senátního Výboru pro územní rozvoj, veřejnou správu a životní prostředí
-* **Jiří Lehejček**, garant programu Zemědělství do sněmovních voleb 2017
-* **Lukáš Blažej**, odborník na právo životního prostředí
-* **Kristina Marie Kubcová**, odborná asistentka poslankyně Dany Balcarové
-* **Jana Míšková**, odborná asistentka poslance Františka Elfmarka
-* **Nikola Havlová**,  odborná asistentka poslankyně Dany Balcarové
+* **[Lukáš Blažej](/lide/lukas-blazej)**, vedoucí Resortního týmu Životní prostředí,
+* **Jiří Lehejček**, vedoucí Resrotního týmu Zemědělství,
+* **Nikola Havlová**, odborná asistentka poslankyně Dany Balcarové,
+* **Jana Míšková**, odborná asistentka poslance Františka Elfmarka.
+
 
 
 ### Komunikační kanály: 
@@ -58,41 +56,35 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 * [web výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600)
 
 
-V rámci PSP fungují i dočasné pracovní skupiny, k listopadu 2019 jde například o:
+V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde například o:
 * **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
 * **Týrání zvířat** vede Martin Archalous, kontaktní osoba: Martin Huňady (hunadym@psp.cz)
-* **ZeŽiv**, koordinační porada složená z pirátských poslanců z Výboru pro životní prostředí a Zemědělského výboru
+* **PiroVaK** (skupina pro Vodovody a kanalizace) vede Tomáš Čabla (tomas.cabla@pirati.cz)
+* **Ústavní ochrana vody** vede Lukáš Blažej (lukas.blazej@pirati.cz)
 
  <br> <br> <br>
 
 # Resortní tým pro životní prostředí
 
-* Pracuje na programových dokumentech pirátské strany, dohlíží nad dodržováním [dlouhodobého programu Životní prostředí](/program/dlouhodoby/zivotni-prostredi/), zabývá se aktuálními kauzami i koncepčními otázkami.
+* Pracuje na programových dokumentech pirátské strany, dohlíží nad dodržováním [dlouhodobého programu Životní prostředí](/program/dlouhodoby/zivotni-prostredi/), koordinuje činnost krajských expertních týmů, zabývá se aktuálními kauzami s celostátním dopadem a řeší koncepční otázky.
 
 
-### Kmenovými členy týmu jsou:
-* [Jan Nezhyba](/lide/jan-nezhyba/), vedoucí týmu a kontaktní osoba, garant bodu Životní prostředí v dlouhodobém programu strany
-* [Martin Šmída](/lide/martin-smida/), specialista na bioodpady
-* [Dana Balcarová](/lide/dana-balcarova/), vedoucí resortního týmu ŽP PSP a garantka volebního programu 2017
-* **Eva Tylová**, komunální politička se specializací na technickou ochranu životního prostředí (odpady, ovzduší, voda, staré zátěže), EIA, změnu klimatu (mitigační a adaptační opatření) a uplatnění ochrany životního prostředí v územním rozvoji
-* **Lukáš Blažej**, odborník na právo životního prostředí
+### Členy týmu jsou:
+
+* [Lukáš Blažej](/lide/lukas-blazej), vedoucí týmu a kontaktní osoba,
+* [Dana Balcarová](/lide/dana-balcarova/), poslankyně a předsedkyně Výboru pro životní prostředí PSP,
+* vedoucí [krajských expertních týmů](https://forum.pirati.cz/viewforum.php?f=1137) životního prostředí,
+* Martin Šmída, specialista na bioodpady; Eva Tylová, komunální politička.
 
 ### Komunikační kanály: 
 - [forum](https://forum.pirati.cz/viewforum.php?f=560) 
-- kontaktní osoby: Jana Nezhybu nebo Kristinu Marii Kubcovou, email: kristina.kubcova@pirati.cz
-
-Pod týmem se schází i permanentní **skupina pro klima**, kterou také vede Jan Nezhyba
+- newsletter
+- [Zulip](https://zulip.pirati.cz/#narrow/stream/246-KETy-.C5.BDivotn.C3.AD.20prost.C5.99ed.C3.AD)
 
 
  <br> <br> <br>
 # Krajské expertní týmy - KET
 
-* Krajské expertní týmy jsou odborné týmy s různou strukturou funkcí. Garant pro životní prostředí KET odborně podporuje a poskytuje odpovědi k dlouhodobému programu Životní prostředí. 
+* Krajské expertní týmy vykonávají funkce resortního týmu na lokální úrovni. Poskytují podporu voleným zastupitelům, projednávají lokální otázky, řeší místní kauzy a spolupracují s resortním týmem. 
 
-* KET se obrací na poslance s návrhy na interpelace v zásadních lokalních kauzách v oblasti ŽP.
-
-* Pokud máte zájem stát se členem/členkou krajského expertního týmu, obraťte se prosím na [příslušného koordinátora](/regiony/)
-
-
-<br> <br> <br>
-Mimo tyto týmy existují i obecné stranické týmy ve smyslu ZaTyS [zásady týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys), které se sestavují s různým cílem a jejich práce může být časově omezená. Takovou skupinu není třeba formálně zakládat, záleží na dohodě členů a souladem se zásadami týmové spolupráce. 
+* Pokud máte zájem stát se členem/členkou krajského expertního týmu, obraťte se prosím na vedoucího [místního KET](https://forum.pirati.cz/viewforum.php?f=1137) nebo koordinátora příslušného krajského sdružení.
