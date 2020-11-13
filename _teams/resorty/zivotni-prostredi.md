@@ -79,7 +79,7 @@ V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde napřík
 
 ### Komunikační kanály: 
 - [forum](https://forum.pirati.cz/viewforum.php?f=560) 
-- [newsletter](https://nalodeni.pirati.cz/news/list/22/)
+- newsletter
 - [Zulip](https://zulip.pirati.cz/#narrow/stream/246-KETy-.C5.BDivotn.C3.AD.20prost.C5.99ed.C3.AD)
 
 
