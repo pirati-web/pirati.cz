@@ -4,7 +4,8 @@ name: Životní prostředí
 fullname: Tým pro životní prostředí
 img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
 leader: dana.balcarova
-deputy: frantisek.elfmark
+deputy: 
+- frantisek.elfmark
 contact-local:
   name: Lukáš Blažej
   mob: +420 778 702 712
@@ -78,7 +79,7 @@ V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde napřík
 
 ### Komunikační kanály: 
 - [forum](https://forum.pirati.cz/viewforum.php?f=560) 
-- newsletter
+- [newsletter](https://nalodeni.pirati.cz/news/list/22/)
 - [Zulip](https://zulip.pirati.cz/#narrow/stream/246-KETy-.C5.BDivotn.C3.AD.20prost.C5.99ed.C3.AD)
 
 
