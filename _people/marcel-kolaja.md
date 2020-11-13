@@ -38,7 +38,7 @@ asistenti:
     tel: +420 604 744 359
   - name: Boris Vanka
     description: PR expert
-    mail: boris.vanka@la.europarl.europa.cz
+    mail: boris.vanka@la.europarl.europa.eu
     tel: +420 608 445 322        
 direct-contact: true
 office: 
