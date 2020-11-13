@@ -10,7 +10,7 @@ contact-local:
   name: Lukáš Blažej
   mob: +420 778 702 712
   mail: lukas.blazej@pirati.cz
-  img: people/lukas-blazej.jpg
+  img: assets/img/people/lukas-blazej.jpg
 tags:
 - životní-prostředí
 category: resort
