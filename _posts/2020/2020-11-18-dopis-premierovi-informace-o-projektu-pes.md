@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus zdravotnictví finance školství
 layout:       post
 title:        "Piráti zaslali premiérovi otevřený dopis, před jednáním o prodloužení nouzového stavu žádají informace o projektu PES, vánočních nákupech, očkování i školách. Zasazují se také o záchranu maloobchodu"
-image:        /assets/img/articles/2020/ivan-bartos-podloubi.jpg
+image:        /assets/img/articles/2020/bartos-kancl-rouska.jpg
 author:       
 ---
 
