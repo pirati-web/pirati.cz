@@ -5,7 +5,7 @@ tags:         kontrola-moci-a-mocných média cenzura
 layout:       post
 title:        "Komentář Tomáše Martínka: ČT má poslední šanci na využití předkupního práva ke klíčovým pozemkům. Piráti se budou ptát i na zákonnost odvolání Dozorčí komise ČT"
 image:        /assets/img/articles/2020/martinek.jpg
-author:       
+author:       Tomáš Martínek
 ---
 
 Praha, 18. listopadu 2020 – Velmi podezřelé odvolání Dozorčí komise České televize bez jakékoliv diskuze i věcného zdůvodnění proběhlo minulý týden na návrh Hany Lipovské. Lipovská, úzce spjatá s Janou Bobošíkovou, prosadila na posledním jednání rady rovněž absurdní odmítnutí nákupu pozemků pod budovou ostravské pobočky České televize. Dnes proběhne ještě jednou jednání Rady České televize, kdy její členové budou naposledy tuto věc diskutovat. Později již nebude možné, aby Česká televize předkupního práva využila. Na čtvrtečním mimořádně svolaném Volebním výboru se budu s pirátským kolegou Radkem Holomčíkem zajímat o to, zda je odvolání členů Dozorčí komise ČT platné a v souladu se zákonem.
