@@ -16,7 +16,6 @@ profiles:
   twitter: 		  
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ivo%20va%C5%A1%C3%AD%C4%8Dek
   twitter: 		
-ordrp: 5  
 ordga: 1
 ---
 
