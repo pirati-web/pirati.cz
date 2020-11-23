@@ -19,3 +19,5 @@ Praha, 23. listopadu 2020 – Dnes vypršela lhůta schválená Sněmovnou pro n
 > Poslankyně Olga Richterová připomíná, že vedle ukončení diskriminace maloobchodů je třeba zajistit i větší podporu testování na pracovištích: „Stát by měl přispívat na dobrovolně prováděné testování zaměstnanců a tím snižovat riziko šíření COVIDu. V souladu s návrhem formulovaným např. Danielem Prokopem z vládního NERVu žádáme, aby stát hradil přinejmenším část nákladů na preventivní testování na běžných pracovištích. Ke zvážení je i vyšší podpora pracujících, kteří musí do karantény a izolace, k posílení motivace hlásit rizikové kontakty. Na potřebu pozitivní motivace lidí ke zvládnutí epidemie upozorňují mnozí odborníci.” 
 
 I v souvislosti s tím, že stále nebyl vyslyšen požadavek Pirátů, aby ve všech regionech byly dostupné odběry pro testování v řádu hodin a nikoli dnů, je stále třeba počítat s rizikem, že stát nebude připraven a schopen předejít možné třetí vlně.
+
+* [Text ústavní stížnosti](https://pirati.cz/assets/pdf/navrh-opatreni.pdf)-
