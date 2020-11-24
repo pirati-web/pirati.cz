@@ -23,13 +23,13 @@ Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty 
   - [Férové obchodní dohody](#ferove-obchodni-podminky)
 - [Uprchlíci](#uprchlici)
   - [Humánní přístup = naplňování našich hodnot](#humánní-přístup--naplňování-našich-hodnot)
-- [Ekonomická migrace](#ekonomicka-migrace)
-- [Nelegální migrace](#nelegalni-migrace)
-  - [Alternativy, jak omezit nelegální migraci](#alternativy)
-  - [Návratová politika](#navratova-politika)
-- [Integrace cizinců](#integrace-cizincu)
-  - [Začleňování do společnosti](#zaclenovani-do-spolecnosti)
-- [Cizinci žijící v ČR](#cizinci-zijici-v-cr)
+- [Ekonomická migrace](#ekonomická-migrace)
+- [Nelegální migrace](#nelegalnÍ-migrace)
+  - [Alternativy, jak omezit nelegální migraci](#Alternativy--jak-omezit-nelegální-migraci)
+  - [Návratová politika](#návratová-politika)
+- [Integrace cizinců](#integrace-cizinců)
+  - [Začleňování do společnosti](#začleňování-do-společnosti)
+- [Cizinci žijící v ČR](#cizinci-žijící-v-čr)
 
 Ty musí vycházet z věcné diskuze, faktů a zkušeností jednotlivých států tak, aby byly skutečně využitelné v praxi a pomohly všem zúčastněným. Bez výjimky. Tedy aby bylo zajištěno bezpečí i prosperita obyvatel naší země, zabránilo se převaděčům profitovat na neštěstí druhých, omezila se nelegální migrace a naopak bylo umožněno českým firmám přijímat zahraniční specialisty a pracovníky bez zbytečných byrokratických překážek. Zároveň je nutné nezapomínat ani na humanitární rozměr a pomáhat potřebným, tedy dodržovat základní lidská práva, lidsko-právní standardy i mezinárodní právo.
 
