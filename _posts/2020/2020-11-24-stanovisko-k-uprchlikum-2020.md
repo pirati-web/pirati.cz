@@ -10,10 +10,10 @@ author:
 **[Stanovisko k migraci 2015](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 
 - [Shrnutí](#shrnuti)
-  - [Migrace včera a dnes](#migrace)
-  - [Mezinárodní spolupráce jako základ](#mezinarodni-spoluprace)
-    - [Evropský problém vyžaduje evropské řešení](#evropsky-problem)
-    - [Globální přístup](#globalni-pristup)
+  - [Migrace včera a dnes](#migrace-včera-a-dnes)
+  - [Mezinárodní spolupráce jako základ](#mezinárodní-spolupráce-jako-základ)
+    - [Evropský problém vyžaduje evropské řešení](#evropský-problém-vyžaduje-evropské-řešení)
+    - [Globální přístup](#globální-přístup)
   - [Prevence](#prevence)
     - [Aktivní řešení příčin = předcházení nucené migrace](#aktivni-reseni-pricin)
     - [Embargo na zbraně ve válečných oblastech](#embargon-na-zbrane)
