@@ -9,6 +9,26 @@ author:
 ---
 **[Stanovisko k migraci 2015](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 
+- Shrnutí
+  - Migrace včera a dnes
+  - Mezinárodní spolupráce jako základ
+    - Evropský problém vyžaduje evropské řešení
+    - Globální přístup
+  - Prevence
+    - Aktivní řešení příčin = předcházení nucené migrace
+    - Embargo na zbraně ve válečných oblastech
+    - Férové obchodní dohody
+  - Uprchlíci
+    - Humánní přístup = naplňování našich hodnot
+  - Ekonomická migrace
+  - Nelegální migrace
+    - Alternativy, jak omezit nelegální migraci
+    - Návratová politika
+  - Integrace cizinců
+    - Začleňování do společnosti
+  - Cizinci žijící v ČR
+
+
 ## Shrnutí
 
 Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty i zmatků. Na obavy občanů je nutné reagovat a hledat v jejich zájmu řešení. Problémy ale nezmizí, dokud bude panovat v oblasti migrace chaos a nebudou nastavena srozumitelná, vyvážená a hlavně efektivní opatření na celoevropské úrovni. Právě o ně se budeme jako Piráti zasazovat. Odmítáme povinné přerozdělovací kvóty, chceme funkční mechanismy.
