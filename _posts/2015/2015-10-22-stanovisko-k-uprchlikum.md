@@ -27,7 +27,7 @@ Z těchto chyb je třeba se poučit a přijít s novými efektivnějšími řeš
 
 Historické zkušenosti ukazují, že Česká republika je silnou zemí, která dovede zvládnout i větší množství žádostí o azyl. Stalo se tak například v 90. letech při přijetí 6 tisíc válečných uprchlíků z Jugoslávie. Koncem 90. let pak tehdejší vláda Miloše Zemana poskytla v tuzemsku útočiště pro zhruba tisíc lidí prchajících z válkou zasaženého Kosova. 
 
-**Mezinárodní spolupráce jako základ **
+**Mezinárodní spolupráce jako základ**
 
 Evropský problém vyžaduje evropské řešení 
 
