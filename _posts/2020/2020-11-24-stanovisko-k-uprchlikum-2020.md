@@ -18,15 +18,15 @@ author:
     - [Aktivní řešení příčin = předcházení nucené migrace](#aktivni-reseni-pricin)
     - [Embargo na zbraně ve válečných oblastech](#embargon-na-zbrane)
     - [Férové obchodní dohody](#ferove-obchodni-podminky)
-  - Uprchlíci
-    - Humánní přístup = naplňování našich hodnot
-  - Ekonomická migrace
-  - Nelegální migrace
-    - Alternativy, jak omezit nelegální migraci
-    - Návratová politika
-  - Integrace cizinců
-    - Začleňování do společnosti
-  - Cizinci žijící v ČR
+  - [Uprchlíci](#uprchlici)
+    - [Humánní přístup = naplňování našich hodnot](#humanni-pristup)
+  - [Ekonomická migrace](#ekonomicka-migrace)
+  - [Nelegální migrace](#nelegalni-migrace)
+    - [Alternativy, jak omezit nelegální migraci](#alternativy)
+    - [Návratová politika](#navratova-politika)
+  - [Integrace cizinců](#integrace-cizincu)
+    - [Začleňování do společnosti](#zaclenovani-do-spolecnosti)
+  - [Cizinci žijící v ČR](#cizinci-zijici-v-cr)
 
 
 ## Shrnutí
