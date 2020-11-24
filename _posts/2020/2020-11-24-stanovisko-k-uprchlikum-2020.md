@@ -87,7 +87,7 @@ Zásadní je i správné začlenění nově příchozích cizinců do naší spo
 
 Pozornost je potřeba věnovat zejména přístupu cizinců do systému školství (systematická podpora dětí s odlišným mateřským jazykem) a zdravotnictví (rozšířit přístup do veřejného zdravotního pojištění pro některé zranitelné kategorie cizinců, zejména děti, odstranit překážky v přístupu k zdravotní péči kvůli jazykové bariéře či poplatkům). Dále je potřeba pracovat u zaměstnavatelů na posilování aktivní role a přebírání části odpovědnosti za integraci jejich zahraničních pracovníků a zvyšování interkulturních kompetencí úředníků. Stranou by neměla zůstat ani práce s majoritní společností a podpora její otevřenosti vůči odlišnostem, která je prevencí nenávistných projevů a diskriminace nejen cizinců.
 
-##Cizinci žijící v ČR
+## Cizinci žijící v ČR
 
 Cizinci, kteří se rozhodnou dlouhodobě žít a pracovat v ČR, by neměli být zavaleni byrokracií. Systém pro vyřizování pobytových záležitostí by měl být přívětivý a dbát na důstojnost cizinců, nikoliv na ně pohlížet jako na úřední složku. Dokládání všech náležitostí by mělo být možné v elektronické podobě ještě před příjezdem do ČR. Pokud se cizinec během pobytu prokáže jako bezproblémový, proces prodloužení pobytu by měl být snadnou formalitou. Migrační a integrační systém by měl být založen na principu postupného nabývání práv směřující k získání občanství a plné integraci. 
 
