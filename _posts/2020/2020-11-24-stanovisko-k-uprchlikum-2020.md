@@ -7,7 +7,7 @@ title:        "Stanovisko k migraci 2020"
 image:        /assets/img/articles/2020/holcicka-2020.jpg
 author:       
 ---
-**[Stanovisko k migraci 2015](/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
+**[Stanovisko k migraci 2015](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 
 ## Shrnutí
 
