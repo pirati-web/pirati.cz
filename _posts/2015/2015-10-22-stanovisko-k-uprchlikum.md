@@ -8,7 +8,7 @@ image:        /assets/img/articles/2015/holcicka.jpg
 author:       
 ---
 
-**[Stanovisko k migraci 2020](/tiskove-zpravy/stanovisko-k-uprchlikum-2020.html)**
+**[Stanovisko k migraci 2020](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum-2020.html)**
 
 Piráti prosazují racionální přístup k uprchlíkům jak na Evropské úrovni, tak v České republice. Vlna uprchlíků ukázala, že evropská pravidla vyžadují změnu - Dublinský systém nefunguje. Piráti nepovažují za řešení kvóty, ale apelují na evropskou solidaritu s přetíženými státy a na společný evropský postup. Extrémní požadavky, jako potápění lodí uprchlíků na jedné straně a přijímání všech imigrantů na straně druhé, nejsou řešením současné situace. Souhlasíme se zavedením jednotného azylového řízení, kde by členské státy vymezily preferované skupiny migrantů a migranti preferované cílové země. Uprchlík musí mít zaručeno přijetí, ale nikoliv do konkrétního státu. Pro ujasnění uvádíme, že se toto stanovisko týká válečných uprchlíků, kteří se bojí o život a rodinu a politických uprchlíků, pronásledovaných pro své názory. Pokud to není výslovně uvedeno, netýká se ekonomických migrantů, kteří se o život bát nemusí, ale chtějí pouze lepší životní úroveň. U ekonomických migrantů nevidíme za současné situace důvod měnit stávající zákony.
 
