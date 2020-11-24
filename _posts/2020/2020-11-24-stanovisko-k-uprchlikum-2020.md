@@ -10,6 +10,8 @@ author:
 
 Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty i zmatků. Na obavy občanů je nutné reagovat a hledat v jejich zájmu řešení. Problémy ale nezmizí, dokud bude panovat v oblasti migrace chaos a nebudou nastavena srozumitelná, vyvážená a hlavně efektivní opatření na celoevropské úrovni. Právě o ně se budeme jako Piráti zasazovat. Odmítáme povinné přerozdělovací kvóty, chceme funkční mechanismy.
 
+# Obsah
+
 - **[Stanovisko k migraci 2015](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 - [Migrace včera a dnes](#migrace-včera-a-dnes)
 - [Mezinárodní spolupráce jako základ](#mezinárodní-spolupráce-jako-základ)
