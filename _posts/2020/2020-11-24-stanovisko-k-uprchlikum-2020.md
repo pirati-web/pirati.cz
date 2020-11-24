@@ -51,7 +51,7 @@ Historické zkušenosti ukazují, že Česká republika je silnou zemí, která 
 
 ## Mezinárodní spolupráce jako základ 
 
-**Evropský problém vyžaduje evropské řešení**
+### Evropský problém vyžaduje evropské řešení
 
 Velká výzva, jakou migrace bezesporu je, vyžaduje jednotné evropské řešení a vzájemnou solidaritu. Za Piráty ale nepodporujeme zavedení povinného relokačního mechanismu, tzv. migračních kvót. Každá země i každý z žadatelů o azyl musí mít právo o takto citlivé otázce samostatně rozhodovat, nelze nikoho nutit. Vlády by měly být naopak pozitivně motivovány k dobrovolnému převzetí části žadatelů o azyl z přetížených států, například adekvátním finančním příspěvkem z rozpočtu EU. 
 
@@ -67,43 +67,43 @@ Jako první krok správným směrem vnímáme Globální pakt o migraci, který 
 
 ## Prevence
 
-**Aktivní řešení příčin = předcházení nucené migrace**
+### Aktivní řešení příčin = předcházení nucené migrace
 
 Pokud chceme do budoucna snížit počet migrantů, musíme zajistit, aby neměli důvody své domovy opouštět. Válečným konfliktům, pronásledování, suchu, hladu a dalším příčinám nucené migrace lze předcházet prevencí v místě jejich vzniku. Prosazujeme navýšení českého příspěvku na humanitární, rozvojovou a transformační spolupráci, k čemuž se ostatně Česká republika v rámci mezinárodních smluv již zavázala. Tyto nástroje vnímáme jako prostředek zodpovědné zahraniční politiky i jako investici, která se ČR vrátí nejen zlepšením bezpečnostní situace, ale díky větší stabilitě i ekonomicky. V tomto kontextu je také nutné v diplomacii a mezinárodním obchodu reflektovat udržitelný rozvoj a ochranu klimatu. 
 
-**Embargo na zbraně ve válečných oblastech**
+### Embargo na zbraně ve válečných oblastech
 
 Masivním nárůstům válečných uprchlíků nelze předcházet, pokud budou zbrojařské firmy nezodpovědně vyvážet zbraně do nestabilních regionů. Podporujeme zákaz vývozu zbraní do válečných oblastí, mimo oficiální spojenecké jednotky, u nichž nehrozí žádná obava ze zneužití, a to na evropské úrovni pod postihem sankcí pro zbrojařské firmy. 
 
-**Férové obchodní dohody**
+### Férové obchodní dohody
 
 Obchodní dohody uzavírané mezi EU a třetími zeměmi nesmí být nástrojem pro  další devastaci a drancování dotčených, méně rozvinutých států. Proto by smlouvy měly vždy vycházet ze zásad udržitelného rozvoje, který necílí jen na ekonomické zájmy, ale bere ohledy i na životní prostředí a společenský rozvoj. Samozřejmostí by pak měly být férové pracovní podmínky. 
 
 ## Uprchlíci 
 
-**Humánní přístup = naplňování našich hodnot**
+### Humánní přístup = naplňování našich hodnot
 
 Požadujeme dodržování Ženevské úmluvy o právním postavení uprchlíků a humánní zacházení s žadateli o azyl. Česká republika se musí podílet na pomoci hraničním zemím (Řecko, Itálie), které se potýkají v největší míře s migrační krizí. Kromě morálního hlediska je to klíčové i z ryze praktických důvodů - pokud by v těchto státech došlo ke kolapsu, pocítíme to ekonomicky i ve vzrůstajícím počtu migrantů přicházejících nekoordinovaně hlouběji do Evropy. Pomoc by měla být nejen ve formě alokací bezpečnostních složek, nýbrž také doplněna materiálním, finančním i personálním příspěvkem k zajištění důstojných podmínek v dlouhodobě přeplněných uprchlických táborech (zajištění základních potřeb, zdravotnického vybavení, podpory vzdělávání uprchlíků). Stejně tak chceme podporovat země, které hostí uprchlíky blíž jejich domovině (Jordánsko, Libanon, Turecko). Uprchlíci se však nesmí stát prostředkem k vydírání EU. 
 
 Česká vláda by měla mít odvahu prokázat solidaritu nejen slovy, ale i praxí například dobrovolnou relokací přiměřeného počtu žadatelů o azyl či přesídlením azylantů napřímo z válečných oblastí. Nezapomínáme ani na vnitřně vysídlené osoby v našem těsném sousedství (Ukrajina, Gruzie). 
 
-**Ekonomická migrace**
+### Ekonomická migrace
 
 Česká i evropská ekonomika jsou v mnoha odvětvích závislé na pracovnících přicházejících odjinud. Pro vstup na evropský pracovní trh musí existovat transparentní, nebyrokratická a férová pravidla. Všichni pracovníci na evropském trhu práce by měli mít stejné podmínky při přístupu k sociální a pracovně-právní ochraně jako unijní občané. Zapojení cizinců na trh práce by mělo reflektovat potřeby zaměstnavatelů a také obcí, ve kterých cizinci pobývají. Musí být také nastaveny efektivní mechanismy, aby se zahraniční pracovníci mohli domáhat svých práv. Pracovní agentury a zaměstnavatelé musí nést spoluzodpovědnost na zajištění odpovídajících podmínek. 
 
 ## Nelegální migrace
 
-**Alternativy, jak omezit nelegální migraci**
+### Alternativy, jak omezit nelegální migraci
 
 Je v zájmu České republiky, aby EU dlouhodobě a systematicky bojovala proti důvodům, které vedou k tomu, že migranti volí nelegální a nebezpečné cesty do Evropy a využívají služeb nelegálních převaděčů. Přesídlovací programy pro lidi v ohrožení či programy ekonomické migrace pro pracovníky představují legální a bezpečnou alternativu k pašerákům (částka, kterou migranti platí za nebezpečnou plavbu na člunu, je paradoxně násobně vyšší než běžná cena letenky). To omezí prostor pro zneužití migračních cest kriminálními a teroristickými organizacemi. Zákony proti převaděčům ale nesmí být zneužívány k trestání námořníků, kteří v souladu s námořním právem poskytují pomoc lidem v nebezpečí.
 
-**Návratová politika**
+### Návratová politika
 
 Pokud nebude žadatel o mezinárodní ochranu úspěšný, EU a její členské státy musí začít jednat se zemí původu o jeho návratu. To vždy v souladu s mezinárodními dohodami o ochraně lidských práv. Ochota států, odkud migranti pocházejí, vůči návratové politice, by se měla na straně evropských zemí naopak odrazit v určité vstřícnosti v oblasti vízové politiky. Tím se naváže oboustranně výhodná spolupráce, naopak považujeme za nevhodné řešení podmiňovat rozvojovou či transformační spolupráci. Právě správně zacílená rozvojová pomoc může zlepšit podmínky v dané zemi a snížit počet lidí přicházejících do Evropy. Podporujeme rovněž program dobrovolných návratů, kdy odpadají přebytečné náklady jak státu, tak ilegálně pobývajícímu cizinci. 
 
 ## Integrace cizinců
 
-**Začleňování do společnosti**
+### Začleňování do společnosti
 
 Zásadní je i správné začlenění nově příchozích cizinců do naší společnosti. Migrační politika České republiky musí být doprovázena komplexní a systematickou integrační politikou, na níž se podílí aktéři státní správy na národní, krajské i obecní úrovni, zaměstnavatelé, další zájmové skupiny (např. odbory, Svaz průmyslu a dopravy) i nevládní neziskové organizace. Je potřeba zajistit dostatečné financování integračních programů a pracovat na lepším propojování aktérů i zvyšování jejich povědomí o tom, co vše úspěšná integrační politika obnáší a jaká je jejich role a odpovědnost. V souladu s Koncepcí integrace cizinců vlády ČR považujeme za zásadní aspekty integrace: znalost českého či anglického jazyka, ekonomickou soběstačnost, orientaci migrantů ve společnosti a rozvíjení vztahů migrantů s majoritní společností. Právě na tyto dovednosti by se měly podpůrné programy hlavně zaměřovat.
 
