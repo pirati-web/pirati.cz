@@ -61,7 +61,7 @@ Zájemci o azyl by měli mít možnost podat žádost co nejblíže své vlasti,
 
 Schvalujeme i myšlenku jednotné žádosti o azyl pro všechny členské země EU, kde by žadatel uvedl preferovaný stát, přičemž musí být v první řadě brán zřetel na slučování rodin, jazykovou vybavenost a další kompetence žadatele. 
 
-## Globální přístup 
+### Globální přístup 
 
 Jako první krok správným směrem vnímáme Globální pakt o migraci, který schválilo 152 států světa. V něm je vytyčeno ohledně řešení a prevence mezinárodní migrace 23 nezávazných cílů a doporučení, jak jich dosáhnout. Česká vláda jako jedna z mála odmítla tento nezávazný dokument podpořit, ztížila tak svou pozici při dalším jednání. Požadujeme přistoupení k tomuto paktu a chceme, aby Česká republika stála po boku dalších evropských zemí v čele snahy regulovat migraci globálně. 
 
