@@ -1,5 +1,5 @@
 ---
-date:         2020-11-09
+date:         2020-11-24
 category:     blog
 tags:         evropská-unie celostátní bezpečnost vnitro
 layout:       post
