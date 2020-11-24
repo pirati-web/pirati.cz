@@ -3,109 +3,116 @@ date:         2015-10-22
 category:     blog
 tags:         evropská-unie celostátní bezpečnost vnitro
 layout:       post
-title:        "Stanovisko k migraci"
+title:        "Postoj České pirátské strany k migrační krizi 2015"
 image:        /assets/img/articles/2015/holcicka.jpg
 author:       
 ---
 
-## Shrnutí
-Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty i zmatků. Na obavy občanů je nutné reagovat a hledat v jejich zájmu řešení. Problémy ale nezmizí, dokud bude panovat v oblasti migrace chaos a nebudou nastavena srozumitelná, vyvážená a hlavně efektivní opatření na celoevropské úrovni. Právě o ně se budeme jako Piráti zasazovat. Odmítáme povinné přerozdělovací kvóty, chceme funkční mechanismy.
+Piráti prosazují racionální přístup k uprchlíkům jak na Evropské úrovni, tak v České republice. Vlna uprchlíků ukázala, že evropská pravidla vyžadují změnu - Dublinský systém nefunguje. Piráti nepovažují za řešení kvóty, ale apelují na evropskou solidaritu s přetíženými státy a na společný evropský postup. Extrémní požadavky, jako potápění lodí uprchlíků na jedné straně a přijímání všech imigrantů na straně druhé, nejsou řešením současné situace. Souhlasíme se zavedením jednotného azylového řízení, kde by členské státy vymezily preferované skupiny migrantů a migranti preferované cílové země. Uprchlík musí mít zaručeno přijetí, ale nikoliv do konkrétního státu. Pro ujasnění uvádíme, že se toto stanovisko týká válečných uprchlíků, kteří se bojí o život a rodinu a politických uprchlíků, pronásledovaných pro své názory. Pokud to není výslovně uvedeno, netýká se ekonomických migrantů, kteří se o život bát nemusí, ale chtějí pouze lepší životní úroveň. U ekonomických migrantů nevidíme za současné situace důvod měnit stávající zákony.
 
-Ty musí vycházet z věcné diskuze, faktů a zkušeností jednotlivých států tak, aby byly skutečně využitelné v praxi a pomohly všem zúčastněným. Bez výjimky. Tedy aby bylo zajištěno bezpečí i prosperita obyvatel naší země, zabránilo se převaděčům profitovat na neštěstí druhých, omezila se nelegální migrace a naopak bylo umožněno českým firmám přijímat zahraniční specialisty a pracovníky bez zbytečných byrokratických překážek. Zároveň je nutné nezapomínat ani na humanitární rozměr a pomáhat potřebným, tedy dodržovat základní lidská práva, lidsko-právní standardy i mezinárodní právo.
+K řešení přispívá pomoc jednotlivých lidí, spolků a charit. Nesouhlasíme s tím, aby byl příliv uprchlíků zneužíván k politickým účelům a šíření strachu, [morální paniky](https://cs.wikipedia.org/wiki/Mor%C3%A1ln%C3%AD_panika) a nejistoty ve společnosti. Oceňujeme a vážíme si racionálního přístupu politiků k migrační otázce založený na faktech, o který usilujeme i my: Ti, kteří za lepším životem vyrazili do Evropské unie, se koncentrují jednak v členských státech, kde překročili hranice Evropské unie, jednak v bohatých státech, jako jsou například Švédsko nebo Německo, kam se jim podařilo utéct. Tento nápor však nezvládá ani jedna skupina států. Z hraničních států jsou přehlceny zejména Itálie, Řecko, Maďarsko, kde si uprchlíci musí, jakožto v první zemi kontaktu, podat žádost, a kde by v případě úspěšného vyřízení žádosti museli zůstat. Migranti chtějí získat azyl v bohatších zemích, proto se do tam snaží dostat bez ohledu na pravidla, mj. i přes území České republiky, která si dobrovolně stanovila, že přijme 1 500 uprchlíků. Tento počet není nijak závratný - naši Evropští sousedé potřebují pomoc.
 
-Chápeme, že populistické návrhy typu jednostranného uzavírání hranic se mohou zdát jako snadná a rychlá řešení. Ve skutečnosti jde ale jen o nedomyšlené záměry, které by pouze prohloubily současný zmatek a negativně dopadly například z ekonomického hlediska na naše obyvatele. Místo stavění plotů či povinných přerozdělovacích kvót tak chceme nelegální migraci předcházet a naopak prosazovat férová a smysluplná pravidla pro migraci legální. Za zásadní považujeme například zákaz nezodpovědného vyvážení zbraní do nestabilních regionů, kde přispívají k válečným konfliktům. Právě ty jsou totiž mnohdy důvodem pro masový útěk civilního obyvatelstva. Politická diskuse musí být racionální, odsuzujeme zneužívání migrace pro šíření strachu a xenofobie, které jen poškozují naši společnost.
+## Řešení vlny uprchlíků na evropské úrovni
 
-Na efektivní zvládání migrace ale jako Česká republika sami nestačíme, musíme ji řešit společně v rámci celé Evropy. Tuzemsko se tedy musí ve vlastním zájmu zapojit do užší spolupráce s EU. Schengenský prostor, umožňující historicky nejsvobodnější pohyb osob a zboží, považujeme za jeden z hlavních evropských výdobytků a pilířů spolupráce. Nesmíme si ho nechat vzít, obzvláště, když existuje celá řada jiných, prospěšnějších řešení, jak regulovat migraci.
+Miliony uprchlíků zůstávají v táborech v Turecku a dalších státech sousedících se Sýrií, kde žijí v nuzných podmínkách. Celou strukturu uprchlíků ukazuje následující graf:
 
-Piráti usilují o vyváženou, sociálně spravedlivou migrační i integrační politiku, která reflektuje potřeby České republiky a bude ku prospěchu všem.
+![Situační schéma]({{ '/assets/img/articles/2015/azyl-ostatni.png' | relative_url }} "Příklad současné situace ve světě")
 
-**Migrace včera a dnes**
+Pro řešení migrační vlny je třeba prosadit změny v azylové politice Evropské unie, neboť jde o celoevropský problém. Následující graf ukazuje počet žadatelů o azyl v jednotlivých členských státech:
 
-Migrační krize v roce 2015 ukázala nejen evropskou nepřipravenost a slabiny imigračního systému, ale vytvořila také hlubokou dělící linii ve společnosti a přímo přispěla k vzestupu protievropských a nacionalistických nálad. Návrh na zavedení trvalého relokačního mechanismu, tedy povinné přerozdělování žadatelů o azyl mezi jednotlivé členské země EU,  narazil na odpor a selhal. 
+![Situační schéma]({{ '/assets/img/articles/2015/evropa.jpg' | relative_url }} "Příklad současné situace v Evropě")
 
-Z těchto chyb je třeba se poučit a přijít s novými efektivnějšími řešeními. A to hned teď, migrace totiž není jen otázkou minulosti. Ačkoliv se počet žadatelů o azyl po roce 2015  výrazně snížil, musíme v budoucnu počítat s dalším nárůstem počtu příchozích. Proto je nezbytné pokračovat v hledání systémového, společného řešení jak na evropské, tak celosvětové úrovni, neboť migrace je ze své podstaty fenoménem globálním.
+**Prosazujeme následující východiska řešení problému vlny uprchlíků na evropské úrovni:**
 
-Historické zkušenosti ukazují, že Česká republika je silnou zemí, která dovede zvládnout i větší množství žádostí o azyl. Stalo se tak například v 90. letech při přijetí 6 tisíc válečných uprchlíků z Jugoslávie. Koncem 90. let pak tehdejší vláda Miloše Zemana poskytla v tuzemsku útočiště pro zhruba tisíc lidí prchajících z válkou zasaženého Kosova. 
+### Žádost o azyl i mimo EU a do kteréhokoli členského státu
 
-**Mezinárodní spolupráce jako základ**
+* Uprchlíci musí mít možnost podat žádost o azyl co nejblíže své vlasti, nikoliv až v pohraničních státech Evropské unie. Sníží se tak alespoň částečně tlak na evropské půdě. Piráti podporují budování společných evropských ambasád ve vhodných oblastech. V rámci společné azylové politiky také podporujeme zřizování azylových zařízení mimo území EU. Souhlasíme s jednotnou žádostí o azyl pro všechny členské země EU, kde by žadatel uvedl preferovanou zemi, a tuto preferenci podložil věcnými důvody (např. příbuzní ve státě apod.). Trváme také na dodržování evropských pravidel odebírání otisků prstů a biometrických údajů migrantů a sdílení dat o nich mezi bezpečnostními složkami členských států. Tento zásah do soukromí musí být striktně časově omezen pouze na dobu do udělení azylu.
 
-Evropský problém vyžaduje evropské řešení 
+* Nezbytnou součástí řešení by měl být společný rozpočet EU k pokrytí nákladů spojených s umístěním žadatelů o azyl, do kterého budou poměrnou částí přispívat všechny členské země, čímž lze do budoucna efektivně nahradit nesmyslný systém kvót. Takto budou uprchlíci (a veškeré náklady s nimi spojené) financováni spravedlivě všemi členskými zeměmi, ať už o azyl požádají kdekoli.
+Bezpečnostní a preferenční opatření
 
-Velká výzva, jakou migrace bezesporu je, vyžaduje jednotné evropské řešení a vzájemnou solidaritu. Za Piráty ale nepodporujeme zavedení povinného relokačního mechanismu, tzv. migračních kvót. Každá země i každý z žadatelů o azyl musí mít právo o takto citlivé otázce samostatně rozhodovat, nelze nikoho nutit. Vlády by měly být naopak pozitivně motivovány k dobrovolnému převzetí části žadatelů o azyl z přetížených států, například adekvátním finančním příspěvkem z rozpočtu EU. 
+* Díky podávání žádostí mimo území EU či v unijních táborech na vnějších hranicích se tak již v raném stádiu vyloučí osoby, jejichž přesídlení do EU je nežádoucí (např. zločinci, teroristi, násilníci, osoby porušující lidská práva apod.) a naopak se upřednostní osoby podle kritérií definovaných jednotlivými členskými státy ve smyslu Úmluvy o mezinárodním postavení uprchlíků. Evropa by měla primárně pomáhat uprchlíkům, kteří nemají jinou možnost zachovat si život a rodinu, a dále preferovaným skupinám ekonomických migrantů. Na společnou ochranu vnější hranice Schengenského prostoru a tyto tábory by opět poměrnou částkou přispívaly všechny členské země EU.
 
-V zájmu efektivní kontroly vnější evropské hranice je nutné navýšit rozpočet agentury Frontex. Požadujeme také rozšíření pravomocí Evropského podpůrného úřadu pro otázky azylu, respektive Agentury EU pro azyl. Za klíčový prvek evropské spolupráce rovněž považujeme společnou návratovou politiku. Správným krokem bylo zavedení vzájemného sdílení informací ohledně migrace mezi jednotlivými státy (tzv. interoperabilita informačních systémů). Zároveň však trváme na zachování důsledné ochrany osobních údajů, jakou dnes v Evropě máme. 
+### Umísťování podle preferencí
 
-Zájemci o azyl by měli mít možnost podat žádost co nejblíže své vlasti, nikoliv až v hraničních státech Evropské unie. Tím by se dal výrazně omezit výnosný obchod pašeráků, kteří zneužívají zoufalé situace žadatelů a za vysoké poplatky je – mnohdy za otřesných podmínek – převádějí do Evropy. Během této nebezpečné cesty účastníci riskují zbytečně své životy. Zároveň by se takovým krokem snížil nápor na evropské půdě. Podporujeme budování společných zastupitelských úřadů ve vhodně vytipovaných zahraničních oblastech.   
+* Uprchlík v nouzi má podle mezinárodních smluv právo na azyl. V rámci Evropské unie by však neměl mít nárok s konečnou platností určovat, která konkrétní země ho přijme. Může nanejvýš uvést zvláštní důvody pro preferenci, jako jsou příbuzní v žádané zemi. Není možno vyhovět všem preferencím, a proto by měla existovat snaha, aby byli obzvláště uprchlíci bez vazeb na konkrétní členskou zemi umisťováni v menší míře i do jiných zemí Evropské unie, které jsou ochotny jim poskytnout rovnocenně bezpečný domov. Umisťování do jiných než preferovaných zemí by nemělo probíhat podle povinných kvót, ale na bázi dobrovolné solidarity. Členské státy by měly mít právo veta při přijímání jednotlivých migrantů, a to v závislosti na kritériích definovaných daným členským státem (např. znalost jazyka, vzdělání, vazba na stát apod.).
 
-Schvalujeme i myšlenku jednotné žádosti o azyl pro všechny členské země EU, kde by žadatel uvedl preferovaný stát, přičemž musí být v první řadě brán zřetel na slučování rodin, jazykovou vybavenost a další kompetence žadatele. 
+### Větší příspěvek hospodářsky silnějších členských zemí na řešení migrace
 
-**Globální přístup**
+* Přijetí legálního uprchlíka není zadarmo a na příspěvek pro uprchlíka bude nutné hledat finanční zdroje. Peníze na migranty by měly být přerozdělovány tak, aby všechny státy EU přispívaly poměrnou částkou na uprchlíky umístěné v ostatních členských státech, na zahraniční místa pro podání azylu, na uprchlické tábory v EU i ve státech sousedících se Sýrií, na boj proti nelegálním převaděčům i na financování společné ochrany vnější hranice. Při výpočtu podílů jednotlivých zemí se lze inspirovat např. tzv. Königsteinským klíčem, který je dlouhodobě používán v SRN pro rozdělování nákladů mezi jednotlivé spolkové země. Podíly jednotlivých zemí jsou ze 2/3 určovány podle jejich daňových výnosů, zbývající třetina se odvíjí od jejich populace.
 
-Jako první krok správným směrem vnímáme Globální pakt o migraci, který schválilo 152 států světa. V něm je vytyčeno ohledně řešení a prevence mezinárodní migrace 23 nezávazných cílů a doporučení, jak jich dosáhnout. Česká vláda jako jedna z mála odmítla tento nezávazný dokument podpořit, ztížila tak svou pozici při dalším jednání. Požadujeme přistoupení k tomuto paktu a chceme, aby Česká republika stála po boku dalších evropských zemí v čele snahy regulovat migraci globálně. 
+* Dokud nedojde k většímu sblížení výše příspěvku na uprchlíka v různých členských státech, touha migrantů po přesunu do bohatších částí neustane. Uprchlík by měl mít právo na příspěvek pouze v členské zemi, kde obdržel azyl, čímž bude motivován v ní setrvat.
 
-## Prevence
+### Boj proti nelegálnímu převaděčství
 
-**Aktivní řešení příčin = předcházení nucené migrace**
+* EU musí dlouhodobě a systematicky bojovat proti nelegálním převaděčům, jak přímo, tak i nepřímo tím, že poskytne uprchlíkům v ohrožení života legální a bezpečnou alternativu. To omezí prostor pro využití pašeráckých sítí kriminálními a teroristickými organizacemi. Peníze, které nyní migranti platí pašerákům, by pak mohli použít např. k pokrytí nákladů spojených s poskytnutím azylu a svých životních nákladů, což by podpořilo i evropskou ekonomiku.
 
-Pokud chceme do budoucna snížit počet migrantů, musíme zajistit, aby neměli důvody své domovy opouštět. Válečným konfliktům, pronásledování, suchu, hladu a dalším příčinám nucené migrace lze předcházet prevencí v místě jejich vzniku. Prosazujeme navýšení českého příspěvku na humanitární, rozvojovou a transformační spolupráci, k čemuž se ostatně Česká republika v rámci mezinárodních smluv již zavázala. Tyto nástroje vnímáme jako prostředek zodpovědné zahraniční politiky i jako investici, která se ČR vrátí nejen zlepšením bezpečnostní situace, ale díky větší stabilitě i ekonomicky. V tomto kontextu je také nutné v diplomacii a mezinárodním obchodu reflektovat udržitelný rozvoj a ochranu klimatu. 
+### Mírová politika a embargo na zbraně ve válečných oblastech
 
-**Embargo na zbraně ve válečných oblastech**
+* Česká pirátská strana zdůrazňuje nutnost řešit na evropské úrovni rovněž příčiny vln uprchlíků, zejména rozdmýchávání válečných konfliktů, navzdory tlaku amerických, francouzských, českých a jiných zbrojařských firem, které prodávají zbraně, jimiž se v těchto oblastech válčí. Podporujeme zákaz vývozu zbraní pro jiné než oficiální spojenecké bojové jednotky ve válečných oblastech, a to pod majetkovou sankcí pro zbrojařské firmy.
 
-Masivním nárůstům válečných uprchlíků nelze předcházet, pokud budou zbrojařské firmy nezodpovědně vyvážet zbraně do nestabilních regionů. Podporujeme zákaz vývozu zbraní do válečných oblastí, mimo oficiální spojenecké jednotky, u nichž nehrozí žádná obava ze zneužití, a to na evropské úrovni pod postihem sankcí pro zbrojařské firmy. 
+### Diplomatické řešení
 
-**Férové obchodní dohody**
+* Je třeba, aby Evropská unie diplomatickou cestou apelovala na USA, bohaté země Perského zálivu či Rusko, aby rovněž přijaly část uprchlíků. Evropská unie musí iniciovat mírové řešení konfliktu v Sýrii v Radě bezpečnosti OSN a na jednání všech světových mocností.
 
-Obchodní dohody uzavírané mezi EU a třetími zeměmi nesmí být nástrojem pro  další devastaci a drancování dotčených, méně rozvinutých států. Proto by smlouvy měly vždy vycházet ze zásad udržitelného rozvoje, který necílí jen na ekonomické zájmy, ale bere ohledy i na životní prostředí a společenský rozvoj. Samozřejmostí by pak měly být férové pracovní podmínky. 
+## Účast České republiky na řešení vlny uprchlíků
 
-## Uprchlíci 
+Uprchlíci z válečných oblastí nemají velký zájem o azyl v České republice. Většinou svůj pobyt na území České republiky berou jako nežádoucí překážku na cestě do vysněného Německa. Jak ukazuje následující graf, mezi žadateli o azyl v České republice (2014) převládají Ukrajinci:
 
-**Humánní přístup = naplňování našich hodnot**
+![Situační schéma]({{ '/assets/img/articles/2015/azyl-cr.png' | relative_url }} "Příklad současné situace v České republice")
 
-Požadujeme dodržování Ženevské úmluvy o právním postavení uprchlíků a humánní zacházení s žadateli o azyl. Česká republika se musí podílet na pomoci hraničním zemím (Řecko, Itálie), které se potýkají v největší míře s migrační krizí. Kromě morálního hlediska je to klíčové i z ryze praktických důvodů - pokud by v těchto státech došlo ke kolapsu, pocítíme to ekonomicky i ve vzrůstajícím počtu migrantů přicházejících nekoordinovaně hlouběji do Evropy. Pomoc by měla být nejen ve formě alokací bezpečnostních složek, nýbrž také doplněna materiálním, finančním i personálním příspěvkem k zajištění důstojných podmínek v dlouhodobě přeplněných uprchlických táborech (zajištění základních potřeb, zdravotnického vybavení, podpory vzdělávání uprchlíků). Stejně tak chceme podporovat země, které hostí uprchlíky blíž jejich domovině (Jordánsko, Libanon, Turecko). Uprchlíci se však nesmí stát prostředkem k vydírání EU. 
+Přesto by měla být Česká republika připravena na zvýšení počtu migrantů zadržených na našem území cestou do Německa, jakož i na zvýšení počtu žadatelů o azyl, až Německu začnou docházet kapacity.
 
-Česká vláda by měla mít odvahu prokázat solidaritu nejen slovy, ale i praxí například dobrovolnou relokací přiměřeného počtu žadatelů o azyl či přesídlením azylantů napřímo z válečných oblastí. Nezapomínáme ani na vnitřně vysídlené osoby v našem těsném sousedství (Ukrajina, Gruzie). 
+**Doporučujeme, aby migrační politika měla zejména ve vztahu k uprchlíkům následující východiska:**
 
-## Ekonomická migrace
+### Rozumný počet dobrovolně přijatých uprchlíků
 
-Česká i evropská ekonomika jsou v mnoha odvětvích závislé na pracovnících přicházejících odjinud. Pro vstup na evropský pracovní trh musí existovat transparentní, nebyrokratická a férová pravidla. Všichni pracovníci na evropském trhu práce by měli mít stejné podmínky při přístupu k sociální a pracovně-právní ochraně jako unijní občané. Zapojení cizinců na trh práce by mělo reflektovat potřeby zaměstnavatelů a také obcí, ve kterých cizinci pobývají. Musí být také nastaveny efektivní mechanismy, aby se zahraniční pracovníci mohli domáhat svých práv. Pracovní agentury a zaměstnavatelé musí nést spoluzodpovědnost na zajištění odpovídajících podmínek. 
+* Vláda České republiky se dobrovolně zavázala, že přijme 1 500 uprchlíků, což naše země rozhodně zvládne a odpovídá to i potřebě ostatních států a momentálně schváleným kvótám. Zvýšení tohoto počtu považujeme za možné, pokud na to země prokazatelně bude mít kapacity. Je třeba transparentně vyhodnotit, kolik uprchlíků si Česko vůbec může dovolit přijmout.
 
-## Nelegální migrace
+### Schopnost diskutovat a podílet se na řešení vlny uprchlíků
 
-**Alternativy, jak omezit nelegální migraci**
+* Pirátská strana kritizuje vládu České republiky za to, že není schopna získat pro své stanovisko podporu dalších členských zemí EU a následně kritizuje demokraticky přijatá rozhodnutí. Evropská komise již dříve prezentovala návrhy na řešení situace, které měly podporu i v Evropském parlamentu. Vlády členských zemí na půdě Evropské rady však dlouhodobě odmítaly problém řešit a situace se nelepší, ani když je „oheň na střeše“. Integrační politiku ČR by neměli určovat pouze úředníci BIS, Cizinecké policie a OAMP MV ČR. Ti aktuálně působí dojmem, že se snaží o vytvoření co nejhorších podmínek, aby do ČR nikdo nepřicházel.
 
-Je v zájmu České republiky, aby EU dlouhodobě a systematicky bojovala proti důvodům, které vedou k tomu, že migranti volí nelegální a nebezpečné cesty do Evropy a využívají služeb nelegálních převaděčů. Přesídlovací programy pro lidi v ohrožení či programy ekonomické migrace pro pracovníky představují legální a bezpečnou alternativu k pašerákům (částka, kterou migranti platí za nebezpečnou plavbu na člunu, je paradoxně násobně vyšší než běžná cena letenky). To omezí prostor pro zneužití migračních cest kriminálními a teroristickými organizacemi. Zákony proti převaděčům ale nesmí být zneužívány k trestání námořníků, kteří v souladu s námořním právem poskytují pomoc lidem v nebezpečí.
+### Umožnit snadné přesídlení preferovaným skupinám
 
-## Návratová politika 
+* Česká republika by podle Pirátů měla stanovit preferované vlastnosti migrantů, které by výslovně uvítala, a kteří by českou společnost jednoznačně obohatili (např. vědci, vysoce vzdělaní lidé, nositelé kultury, politicky pronásledované osoby). Tato kritéria členských států by byla zohledněna v evropském azylovém řízení.
 
-Pokud nebude žadatel o mezinárodní ochranu úspěšný, EU a její členské státy musí začít jednat se zemí původu o jeho návratu. To vždy v souladu s mezinárodními dohodami o ochraně lidských práv. Ochota států, odkud migranti pocházejí, vůči návratové politice, by se měla na straně evropských zemí naopak odrazit v určité vstřícnosti v oblasti vízové politiky. Tím se naváže oboustranně výhodná spolupráce, naopak považujeme za nevhodné řešení podmiňovat rozvojovou či transformační spolupráci. Právě správně zacílená rozvojová pomoc může zlepšit podmínky v dané zemi a snížit počet lidí přicházejících do Evropy. Podporujeme rovněž program dobrovolných návratů, kdy odpadají přebytečné náklady jak státu, tak ilegálně pobývajícímu cizinci. 
+### Dodržování pravidel Schengenského prostoru a brzké zrušení kontrol
 
-## Integrace cizinců
+* Piráti rozhodně podporují zásadu volného pohybu občanů EU a legálních návštěvníků po všech zemích Schengenského prostoru. Tato zásada však neznamená, že každý cizinec bez schengenského víza může přes naše území cestovat do jiných zemí, aby tam získal status žadatele o azyl. V tomto ohledu postačí dohled bezpečnostních složek státu nad dodržováním platných zákonů. Vedle toho jiné země obnovily v rámci Schengenského prostoru kontroly na hranicích. Tato opatření jsou omezená na čas migrační vlny a máme za to, že kontroly na vnitřních hranicích Schengenského prostoru by měly být co nejdříve zrušeny.
 
-**Začleňování do společnosti**
+### Lepší zacházení v táborech
 
-Zásadní je i správné začlenění nově příchozích cizinců do naší společnosti. Migrační politika České republiky musí být doprovázena komplexní a systematickou integrační politikou, na níž se podílí aktéři státní správy na národní, krajské i obecní úrovni, zaměstnavatelé, další zájmové skupiny (např. odbory, Svaz průmyslu a dopravy) i nevládní neziskové organizace. Je potřeba zajistit dostatečné financování integračních programů a pracovat na lepším propojování aktérů i zvyšování jejich povědomí o tom, co vše úspěšná integrační politika obnáší a jaká je jejich role a odpovědnost. V souladu s Koncepcí integrace cizinců vlády ČR považujeme za zásadní aspekty integrace: znalost českého či anglického jazyka, ekonomickou soběstačnost, orientaci migrantů ve společnosti a rozvíjení vztahů migrantů s majoritní společností. Právě na tyto dovednosti by se měly podpůrné programy hlavně zaměřovat.
+* Vedle nižší životní úrovně je druhým důvodem nižšího zájmu uprchlíků o Českou republiku zacházení v táborech pro cizince, zejména v zařízení pro zajištění cizinců, které je pro některé cizince prvním místem kontaktu. Navzdory snaze personálu se tyto tábory mnohdy podobají spíše vězení pro zločince. Apelujeme na vládu a ministerstvo vnitra, aby zadržení cizinců probíhalo u bezproblémových uprchlíků za takových podmínek, aby pro ně Česko nebylo zemí odpudivou a nehostinnou. Tábory s přísně nastavenými pravidly by měly být vyhrazeny jen pro imigranty, u nichž je bezpečnostní riziko.
 
-Pozornost je potřeba věnovat zejména přístupu cizinců do systému školství (systematická podpora dětí s odlišným mateřským jazykem) a zdravotnictví (rozšířit přístup do veřejného zdravotního pojištění pro některé zranitelné kategorie cizinců, zejména děti, odstranit překážky v přístupu k zdravotní péči kvůli jazykové bariéře či poplatkům). Dále je potřeba pracovat u zaměstnavatelů na posilování aktivní role a přebírání části odpovědnosti za integraci jejich zahraničních pracovníků a zvyšování interkulturních kompetencí úředníků. Stranou by neměla zůstat ani práce s majoritní společností a podpora její otevřenosti vůči odlišnostem, která je prevencí nenávistných projevů a diskriminace nejen cizinců.
+### Zapojení místních samospráv
 
-## Cizinci žijící v ČR
+* Evropská unie se hlásí k zásadě subsidiarity. Proto je na čase proměnit slova v činy a do integrace zapojit i jednotlivé obce a kraje. Na integraci uprchlíků by měly dohlížet i místní úřady, které mají o jejich situaci nejlepší přehled. Chceme, aby peníze, které stát dostane z EU, transparentním způsobem směřovaly jak ke konkrétnímu žadateli, tak na konkrétní prvky integrace v jednotlivých obcích.
 
-Cizinci, kteří se rozhodnou dlouhodobě žít a pracovat v ČR, by neměli být zavaleni byrokracií. Systém pro vyřizování pobytových záležitostí by měl být přívětivý a dbát na důstojnost cizinců, nikoliv na ně pohlížet jako na úřední složku. Dokládání všech náležitostí by mělo být možné v elektronické podobě ještě před příjezdem do ČR. Pokud se cizinec během pobytu prokáže jako bezproblémový, proces prodloužení pobytu by měl být snadnou formalitou. Migrační a integrační systém by měl být založen na principu postupného nabývání práv směřující k získání občanství a plné integraci. 
+### Pracovní návyky a bydlení uprchlíků
 
-Je nutné uvádět pravidelně českou legislativu do souladu s legislativou EU, nálezy Evropského soudního dvora a doporučeními Rady Evropy. Podmínky pro získání českého občanství jsou nastavené adekvátně a není třeba je upravovat. 
+* Schopný a bezúhonný uprchlík čekající na azyl v Česku dnes nemůže pracovat, protože nemá pracovní povolení. Pokud není podle předběžného posouzení bezpečnostní riziko, měl by mít uprchlík již při čekání na azyl možnost pracovat, aby mu nerostl dluh za poskytnuté ubytování a služby.
 
+### Integrace cizinců do společnosti
 
-### Works Cited
+* Česko by mělo co nejrychleji integrovat uprchlíky, kteří uspějí se žádostí o azyl. Tzn. naučit je jazyk, co nejdříve je začlenit do škol a asistovat jim při hledáním zaměstnání. Nově příchozí by měli být seznámeni se základními občanskými právy, svobodami a společenskými normami v České republice. Je nutno trvat na rovnoprávnosti všech lidí, bez ohledu na náboženství či pohlaví. Trváme na sekulárním charakteru českého státu a odmítáme jakékoli snahy o vytváření paralelních právních systémů.
 
-https://www.mvcr.cz/migrace/soubor/zprava-o-situaci-v-oblasti-migrace-a-integrace-cizincu-na-uzemi-ceske-republiky-v-roce-2018.aspx 
-https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52018DC0301 
-https://www.irozhlas.cz/veda-technologie/historie/mezinarodni-den-uprchliku-pred-20-lety-ceska-republika-prijala-vice-nez-1000_1906201600_mtk
-https://www.vlada.cz/cz/clenove-vlady/historie-minulych-vlad/tiskova-konference-po-mimoradne-schuzi-vlady-cr-11--4--1999-1058/
-https://ec.europa.eu/commission/presscorner/detail/cs/MEMO_18_6417
-https://www.unhcr.org/news/briefing/2020/2/5e3d2f3f4/unhcr-calls-decisive-action-end-alarming-conditions-aegean-islands.html#_ga=2.10434293.1918510987.1581422706-490971656.1580919866
-https://www.gapminder.org/topics/refugees-fly/ 
-http://iom.cz/vod/asistovane-dobrovolne-navraty-a-reintegrace 
+* Každý imigrant by měl mít individuální integrační plán, podobně jako v severských státech. Podpora azylantů by ovšem neměla být vyšší, než kterou stát poskytuje občanům v podobně závažné sociální situaci.
 
-“Globální Pakt OSN o Migraci.” Wikipedia, Wikimedia Foundation, 2 May 2020, cs.wikipedia.org/wiki/Globální_pakt_OSN_o_migraci.
-“Lex Access to European Union Law.” EUR, eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52018DC0301.
-“Odbor Azylové a Migrační Politiky  .” Výroční Zprávy o Situaci v Oblasti Migrace a Integrace - Aktuální Informace o Migraci, www.mvcr.cz/migrace/clanek/vyrocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace.aspx.
-PRZYBYLSKI, Piotr. “Migrace Od A Do Z.” Czech Republic - European Commission, 19 July 2017, ec.europa.eu/czech-republic/news/focus/migration_from_a_to_z_cs.
+### Transparence při nakládání s veřejnými prostředky
+
+* Solidarita vyžaduje důvěru. Prostředky vynakládané na integraci cizinců musí být spravovány transparentně. Daňoví poplatníci z jiných členských států musí mít možnost na internetu zjistit, kam peníze z jejich daní putují. Přitom nechceme narušovat soukromí uprchlíků zveřejňováním osobních údajů, pouze zprůhlednit fungování veřejných institucí.
+
+Zastupitelé Pirátů v zastupitelstvu hl. m. Prahy, Brna a dalších měst jsou připraveni v zastupitelstvech podpořit konkrétní pomoc uprchlíkům, aby se integrovali (např. byty, sociální pomoc, integrační programy apod.). Jsme přesvědčeni, že s těmito změnami lze uprchlickou vlnu dobře zvládnout a že uprchlíci mohou být obohacením naší společnosti. Zároveň děkujeme všem Pirátským i jiným dobrovolníkům, kteří se osobně zapojili do pomoci lidem v nouzi.
+
+Děkujeme také všem, kteří měli tu trpělivost dočíst tento text až do samého konce.
+
+(schváleno republikovým výborem Pirátské strany)
+
+Úvodní fetch k článku [Eight member states urge EU action on migration](https://euobserver.com/justice/22503) Photo: European Commission
+
+### Kontakt
+
+* [Mgr. et Mgr. Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/), jakub.michalek@pirati.cz, 775 987 550 - vedoucí zastupitelského klubu Pirátů v Praze a autor původního návrhu stanoviska
+* [Ing. Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/), lukas.cernohorsky@pirati.cz, 601 573 955 - předseda Pirátské strany
+* [PhDr. Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/), Ph.D., ivan.bartos@pirati.cz, 603 415 378 - mediální odbor Pirátů
