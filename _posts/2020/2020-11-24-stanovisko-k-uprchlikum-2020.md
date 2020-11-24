@@ -9,15 +9,15 @@ author:
 ---
 **[Stanovisko k migraci 2015](https://www.pirati.cz/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 
-- Shrnutí
-  - Migrace včera a dnes
-  - Mezinárodní spolupráce jako základ
-    - Evropský problém vyžaduje evropské řešení
-    - Globální přístup
-  - Prevence
-    - Aktivní řešení příčin = předcházení nucené migrace
-    - Embargo na zbraně ve válečných oblastech
-    - Férové obchodní dohody
+- [Shrnutí](#shrnuti)
+  - [Migrace včera a dnes](#migrace)
+  - [Mezinárodní spolupráce jako základ](#mezinarodni-spoluprace)
+    - [Evropský problém vyžaduje evropské řešení](#evropsky-problem)
+    - [Globální přístup](#globalni-pristup)
+  - [Prevence](#prevence)
+    - [Aktivní řešení příčin = předcházení nucené migrace](#aktivni-reseni-pricin)
+    - [Embargo na zbraně ve válečných oblastech](#embargon-na-zbrane)
+    - [Férové obchodní dohody](#ferove-obchodni-podminky)
   - Uprchlíci
     - Humánní přístup = naplňování našich hodnot
   - Ekonomická migrace
