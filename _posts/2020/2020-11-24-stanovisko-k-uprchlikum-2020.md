@@ -7,8 +7,10 @@ title:        "Stanovisko k migraci 2020"
 image:        /assets/img/articles/2020/holcicka-2020.jpg
 author:       
 ---
+**[Stanovisko k migraci 2015](/tiskove-zpravy/stanovisko-k-uprchlikum.html)**
 
 ## Shrnutí
+
 Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty i zmatků. Na obavy občanů je nutné reagovat a hledat v jejich zájmu řešení. Problémy ale nezmizí, dokud bude panovat v oblasti migrace chaos a nebudou nastavena srozumitelná, vyvážená a hlavně efektivní opatření na celoevropské úrovni. Právě o ně se budeme jako Piráti zasazovat. Odmítáme povinné přerozdělovací kvóty, chceme funkční mechanismy.
 
 Ty musí vycházet z věcné diskuze, faktů a zkušeností jednotlivých států tak, aby byly skutečně využitelné v praxi a pomohly všem zúčastněným. Bez výjimky. Tedy aby bylo zajištěno bezpečí i prosperita obyvatel naší země, zabránilo se převaděčům profitovat na neštěstí druhých, omezila se nelegální migrace a naopak bylo umožněno českým firmám přijímat zahraniční specialisty a pracovníky bez zbytečných byrokratických překážek. Zároveň je nutné nezapomínat ani na humanitární rozměr a pomáhat potřebným, tedy dodržovat základní lidská práva, lidsko-právní standardy i mezinárodní právo.
