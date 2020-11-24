@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie celostátní bezpečnost vnitro
 layout:       post
 title:        "Stanovisko k migraci 2020"
-image:        /assets/img/articles/2015/holcicka.jpg
+image:        /assets/img/articles/2020/holcicka-2020.jpg
 author:       
 ---
 
