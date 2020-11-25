@@ -111,6 +111,4 @@ Pozornost je potřeba věnovat zejména přístupu cizinců do systému školstv
 
 Cizinci, kteří se rozhodnou dlouhodobě žít a pracovat v ČR, by neměli být zavaleni byrokracií. Systém pro vyřizování pobytových záležitostí by měl být přívětivý a dbát na důstojnost cizinců, nikoliv na ně pohlížet jako na úřední složku. Dokládání všech náležitostí by mělo být možné v elektronické podobě ještě před příjezdem do ČR. Pokud se cizinec během pobytu prokáže jako bezproblémový, proces prodloužení pobytu by měl být snadnou formalitou. Migrační a integrační systém by měl být založen na principu postupného nabývání práv směřující k získání občanství a plné integraci. 
 
-Je nutné uvádět pravidelně českou legislativu do souladu s legislativou EU, nálezy Evropského soudního dvora a doporučeními Rady Evropy. Podmínky pro získání českého občanství jsou nastavené adekvátně a není třeba je upravovat. 
-
-Works Cited
+Je nutné uvádět pravidelně českou legislativu do souladu s legislativou EU, nálezy Evropského soudního dvora a doporučeními Rady Evropy. Podmínky pro získání českého občanství jsou nastavené adekvátně a není třeba je upravovat.
