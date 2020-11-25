@@ -35,6 +35,6 @@ Pokud jde o maloobchod, nijak jste nevysvětlil, proč jsou diskriminovány uzav
   
 * [Celé znění druhého otevřeného dopisu](https://www.pirati.cz/assets/pdf/otevreny-dopis-premier-24-11.pdf) (24. listopadu)
 
-* [První otevřený dopis](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/Otevr%CC%8Ceny%CC%81%20dopis%20v%20ota%CC%81zce%20Pandemicke%CC%81ho%20syste%CC%81mu_Pira%CC%81ti.pdf) premiérovi (17. listopadu)
+* [První otevřený dopis](https://www.pirati.cz/assets/pdf/Otevřený dopis v otázce Pandemického systému_Piráti.pdf) premiérovi (17. listopadu)
 
 * [Odpověď premiéra Andreje Babiše na první dopis](https://www.pirati.cz/assets/pdf/babis-odpoved-pes.pdf) (19. listopadu)
