@@ -4,8 +4,11 @@ name: Spravedlnost
 fullname: tým Spravedlnost
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
 leader: jakub.michalek
-contact:
-- martin.stancl
+contact-local:
+  name: Martin Štancl
+  mob: 728 337 464
+  mail: martin.stancl@pirati.cz
+  img:
 tags:
 - spravedlnost
 category: resort
