@@ -8,6 +8,7 @@ description: Asistent předsedy poslaneckého klubu # kratký popis, max 160 zna
 mail:
 - martin.stancl@pirati.cz
 mob: +420 728 337 464
+img:
 profiles:
   github:
   facebook: 
