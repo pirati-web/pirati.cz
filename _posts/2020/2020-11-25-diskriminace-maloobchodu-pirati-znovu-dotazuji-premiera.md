@@ -17,32 +17,18 @@ Praha, 25. listopadu 2020 – Piráti se 17. listopadu obrátili na premiéra An
 
 
 1.                **Jaký konkrétní epidemiologický význam má každý konkrétní zákaz či omezení v PESu?** 
-
 Jak uvedl i Městský soud v Praze, který zrušil plošné opatření nosit roušky z důvodu nedostatečného vysvětlení, každé opatření musí být podepřeno odborným stanoviskem. Ačkoliv je systém PES popsán z hlediska metodologického velmi dobře, v oblasti výpočtu aktuálního stavu (zejm. indexu rizika) chybí zdůvodnění jednotlivých opatření. Totéž platí pro náš dotaz na efektivitu opatření. I zde je nutno popsat přínos každého opatření samostatně (například, jaký přínos pro zvládání epidemie má zmíněný provoz kin bez diváků).  
 
- 
-
 2.               **Stále postrádáme vysvětlení důvodu diskriminace některých maloobchodů.**
-
 Pokud jde o maloobchod, nijak jste nevysvětlil, proč jsou diskriminovány uzavřením některé druhy prodejen, jiné však nikoliv. 
-
- 
 
 3.                **Dále se ptám na plnění povinnosti státu dle čl. 36 Krizového zákona, tedy hradit škodu a ušlý zisk, jak budete přistupovat k případným žalobám, budete preferovat mimosoudní vyrovnání nebo chystáte jinou metodiku, jak k těmto žalobám přistupovat?**
 
- 
-
 4.                **Vakcinace – nyní je přes 40 kandidátních vakcín. Kdo bude rozhodovat o nákupu konkrétní varianty? Kteří odborníci připraví posudek, který by vládě pomohl se rozhodnout pro nákup konkrétní varianty? Budete v tomto postupovat v souladu s Evropskou lékovou agenturou nebo chystáte vlastní postup?**
-
- 
 
 5.             **Plán Vánoce** – PES neposkytuje dostatečné odpovědi, tím méně dostatečná odůvodnění. Není například zřejmé, zda bude možný provoz sjezdařských či běžkařských sportovních areálů (případně za jakých omezení, a pokud ne, tak proč) což nepochybně mnohé občany zajímá. Taktéž není zřejmé, jak bude o Vánocích fungovat provoz kostelů, což nepochybně zajímá věřící. 
 
- 
-
 6.               V mediálním prostoru se taktéž objevilo vaše vyjádření stran plošného testování antigenními testy před Vánocemi. Kdo bude tyto odběry provádět? (praktičtí lékaři, armádní týmy?) Máme dostatečné návazné kapacity KHS k trasování tímto testováním zjištěných pozitivních osob?
-
- 
 
 7.                **eRouška** – Obávám se, že v tuto chvíli jsme na stropu počtu uživatelů, pokud vláda nepodnikne další kroky k jejímu rozšíření. Navrhujeme proto bonifikovat uživatele eRoušky, kteří by, v případě že by potřebovali test k vycestování nebo za jiným účelem by ho mohli absolvovat na náklady státu. 
 
