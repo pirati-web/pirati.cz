@@ -4,8 +4,6 @@ name: Spravedlnost
 fullname: tým Spravedlnost
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
 leader: jakub.michalek
-deputy:
-- david.satke
 contact:
 - martin.stancl
 tags:
@@ -63,11 +61,11 @@ Komunikace mezi členy rezortního týmu probíhá přes mail a doplňkově i na
 * **[Jakub Michálek](/lide/jakub-michalek/)**, místopředseda ústavně právního výboru a člen komise pro Ústavu, poslanec zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců,
 * **[František Navrkal](/lide/frantisek-navrkal/)**, člen ústavně právního výboru, řeší ochranu soukromí a základních práv, volební systémy,
 * **[Vojtěch Pikal](/lide/vojtech-pikal/)**, místopředseda Poslanecké sněmovny a člen komise pro Ústavu, řeší fungování politických stran a volební systémy
-* **David Satke**, advokát, garant volebního programu Pirátů v oblasti justice, věnuje se zejména připravovanému civilnímu kodexu,
-* **Martin Štancl**, asistent poslance Jakuba Michálka, má na starosti fungování ústavně právního týmu,
+* **David Satke**, advokát, věnuje se zejména připravovanému civilnímu kodexu,
+* **Martin Štancl**, asistent poslance Jakuba Michálka, koordinátor rezortního týmu,
 * **Lukáš Bartík**, asistent poslance Františka Navrkala, 
 * **Martin Archalous**, legislativec poslaneckého klubu, zodpovídá za právní kvalitu námi předkládaných návrhů, pomáhá s pozměňovacími návrhy poslancům,
-* **Markéta Řádková**, legislativec poslaneckého klubu,
+* **Markéta Řádková**, legislativkyně poslaneckého klubu,
 * **Stanislav Zavadil**, asistent poslance Vojtěcha Pikala,
 * **Jan Nevyjel**, asistent poslance Vojtěcha Pikala.
 
