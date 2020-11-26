@@ -3,7 +3,7 @@ date:         2020-11-26
 category:     blog
 tags:         vláda bezpečnost průmysl
 layout:       post
-title:        "Piráti chtějí spolehlivé partnery pro dostavbu Dukovan, Nejedlý podle nich svévolně ovlivňuje diplomacii"
+title:        "Piráti chtějí spolehlivé partnery pro výstavbu Dukovan, Nejedlý podle nich svévolně ovlivňuje diplomacii"
 image:        /assets/img/articles/2020/ferjencik-tresnak-lipavsky.jpg
 author:       
 ---
@@ -11,7 +11,7 @@ author:
 
 
 
-Praha, 26. listopadu 2020 – Poslanecká Sněmovna se dnes dopoledne mimořádně sešla k doprojednání zákona o dostavbě pátého jaderného bloku elektrárny Dukovany. Piráti v minulosti opakovaně předkládali své [návrhy](https://www.pirati.cz/assets/pdf/budoucnost-je-cr.pdf) na zajištění výstavby, která by neohrozila energetickou bezpečnost, integritu státu ani peněženky lidí. Vláda ani Poslanecká sněmovna na formulace Pirátů nereagovala.
+Praha, 26. listopadu 2020 – Poslanecká Sněmovna se dnes dopoledne mimořádně sešla k doprojednání zákona o výstavbě pátého jaderného bloku elektrárny Dukovany. Piráti v minulosti opakovaně předkládali své [návrhy](https://www.pirati.cz/assets/pdf/budoucnost-je-cr.pdf) na zajištění výstavby, která by neohrozila energetickou bezpečnost, integritu státu ani peněženky lidí. Vláda ani Poslanecká sněmovna na formulace Pirátů nereagovala.
 
 > Poslanec Petr Třešňák, poslanec a expert v oblasti jaderné energetiky, k tématu dnešní první mimořádné schůze uvedl: „Ačkoli nad potřebou výstavby nového bezemisního zdroje pravděpodobně shoda zůstává, tak rozhodně není shoda na investorském modelu, dodavatelským modelem ani nad způsobem veřejné podpory ve vztahu k financování a státním garancím. V zákoně jsme předkládali několik pozměňovacích návrhů, které mají nedostatky napravit. Nejdůležitější je zastropování ceny na investice z důvodu ochrany rozpočtu i peněženek občanů. Další návrhy řeší spojené agendy, např. kompetence ERÚ nebo způsob přezkumu u správních soudů.“
 
