@@ -50,7 +50,7 @@ Lidskoprávní tým se schází zhruba každých 6 týdnů, jednotlivé projekto
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Bára Soukupová**, analytička a expertka na digitalizaci
 * **Martin Archalous**, analytik a legislativec
-* **Jiřka Hejduková**, analytička
+* **Georgia Hejduková**, analytička a odborná konzultantka senátorky Adély Šípové
 * **Michaela Kleslová**
 * **Lydie Franka Bartošová**
 * **Kateřina Stojanová**
