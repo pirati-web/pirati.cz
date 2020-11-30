@@ -4,7 +4,7 @@ category:     blog
 tags:         volby 
 layout:       post
 title:        "Piráti a Starostové začali s přípravou návrhu koaliční smlouvy. Dnes zveřejnili harmonogram jednání i členy týmů"
-image:        /assets/img/articles/2020/pirati-stan.jpg
+image:        /assets/img/articles/2020/Pirati STAN Bartoš Rakušan prvni TZ koalice.JPG
 author:       
 ---
 
