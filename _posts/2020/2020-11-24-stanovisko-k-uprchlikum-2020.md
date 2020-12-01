@@ -31,13 +31,14 @@ Téma migrace vyvolává mezi lidmi zcela pochopitelně vlnu strachu, nejistoty 
   - [Začleňování do společnosti](#začleňování-do-společnosti)
 - [Cizinci žijící v ČR](#cizinci-žijící-v-čr)
 
+
 Ty musí vycházet z věcné diskuze, faktů a zkušeností jednotlivých států tak, aby byly skutečně využitelné v praxi a pomohly všem zúčastněným. Bez výjimky. Tedy aby bylo zajištěno bezpečí i prosperita obyvatel naší země, zabránilo se převaděčům profitovat na neštěstí druhých, omezila se nelegální migrace a naopak bylo umožněno českým firmám přijímat zahraniční specialisty a pracovníky bez zbytečných byrokratických překážek. Zároveň je nutné nezapomínat ani na humanitární rozměr a pomáhat potřebným, tedy dodržovat základní lidská práva, lidsko-právní standardy i mezinárodní právo.
 
 Chápeme, že populistické návrhy typu jednostranného uzavírání hranic se mohou zdát jako snadná a rychlá řešení. Ve skutečnosti jde ale jen o nedomyšlené záměry, které by pouze prohloubily současný zmatek a negativně dopadly například z ekonomického hlediska na naše obyvatele. Místo stavění plotů či povinných přerozdělovacích kvót tak chceme nelegální migraci předcházet a naopak prosazovat férová a smysluplná pravidla pro migraci legální. Za zásadní považujeme například zákaz nezodpovědného vyvážení zbraní do nestabilních regionů, kde přispívají k válečným konfliktům. Právě ty jsou totiž mnohdy důvodem pro masový útěk civilního obyvatelstva. Politická diskuse musí být racionální, odsuzujeme zneužívání migrace pro šíření strachu a xenofobie, které jen poškozují naši společnost.
 
 Na efektivní zvládání migrace ale jako Česká republika sami nestačíme, musíme ji řešit společně v rámci celé Evropy. Tuzemsko se tedy musí ve vlastním zájmu zapojit do užší spolupráce s EU. Schengenský prostor, umožňující historicky nejsvobodnější pohyb osob a zboží, považujeme za jeden z hlavních evropských výdobytků a pilířů spolupráce. Nesmíme si ho nechat vzít, obzvláště, když existuje celá řada jiných, prospěšnějších řešení, jak regulovat migraci.
-
 Piráti usilují o vyváženou, sociálně spravedlivou migrační i integrační politiku, která reflektuje potřeby České republiky a bude ku prospěchu všem.
+
 
 # Migrace včera a dnes
 
@@ -61,7 +62,7 @@ Schvalujeme i myšlenku jednotné žádosti o azyl pro všechny členské země 
 
 ### Globální přístup 
 
-Jako první krok správným směrem vnímáme Globální pakt o migraci, který schválilo 152 států světa. V něm je vytyčeno ohledně řešení a prevence mezinárodní migrace 23 nezávazných cílů a doporučení, jak jich dosáhnout. Česká vláda jako jedna z mála odmítla tento nezávazný dokument podpořit, ztížila tak svou pozici při dalším jednání. Požadujeme přistoupení k tomuto paktu a chceme, aby Česká republika stála po boku dalších evropských zemí v čele snahy regulovat migraci globálně. 
+Jako první krok správným směrem vnímáme Globální pakt o migraci, který schválilo 152 států světa. V něm je vytyčeno ohledně řešení a prevence mezinárodní migrace 23 nezávazných cílů a doporučení, jak jich dosáhnout. Česká vláda jako jedna z mála odmítla tento nezávazný dokument podpořit, ztížila tak svou pozici při dalším jednání. Požadujeme přistoupení k tomuto paktu a chceme, aby Česká republika stála po boku dalších evropských zemí v čele snahy regulovat migraci globálně.  
 
 ## Prevence
 
@@ -112,3 +113,9 @@ Pozornost je potřeba věnovat zejména přístupu cizinců do systému školstv
 Cizinci, kteří se rozhodnou dlouhodobě žít a pracovat v ČR, by neměli být zavaleni byrokracií. Systém pro vyřizování pobytových záležitostí by měl být přívětivý a dbát na důstojnost cizinců, nikoliv na ně pohlížet jako na úřední složku. Dokládání všech náležitostí by mělo být možné v elektronické podobě ještě před příjezdem do ČR. Pokud se cizinec během pobytu prokáže jako bezproblémový, proces prodloužení pobytu by měl být snadnou formalitou. Migrační a integrační systém by měl být založen na principu postupného nabývání práv směřující k získání občanství a plné integraci. 
 
 Je nutné uvádět pravidelně českou legislativu do souladu s legislativou EU, nálezy Evropského soudního dvora a doporučeními Rady Evropy. Podmínky pro získání českého občanství jsou nastavené adekvátně a není třeba je upravovat.
+
+##  Works Cited
+- [Globální Pakt OSN o Migraci.” Wikipedia, Wikimedia Foundation, 2 May 2020](cs.wikipedia.org/wiki/Globální_pakt_OSN_o_migraci)
+- [Lex Access to European Union Law. EUR](eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52018DC0301)
+- [Odbor Azylové a Migrační Politiky  Výroční Zprávy o Situaci v Oblasti Migrace a Integrace - Aktuální Informace o Migraci]- (www.mvcr.cz/migrace/clanek/vyrocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace.aspx)
+- [PRZYBYLSKI, Piotr. “Migrace Od A Do Z.” Czech Republic - European Commission, 19 July 2017](ec.europa.eu/czech-republic/news/focus/migration_from_a_to_z_cs)
