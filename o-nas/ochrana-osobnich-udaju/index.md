@@ -56,39 +56,37 @@ Správce dále získává osobní údaje automatizovaně z protokolárních soub
 
 ## 5. Účel, právní důvody a doby zpracování osobních údajů
 <ol>
-
-  <li> a. Za účelem komunikace se členy, příznivci i dalšími podporovateli, vč. informování o aktivitách České pirátské
+  <li> Za účelem komunikace se členy, příznivci i dalšími podporovateli, vč. informování o aktivitách České pirátské
 strany či činnosti jednotlivých představitelů strany, nabídky dalšího zapojení do činností a aktivit strany či
 spolupracujících subjektů, možnosti kandidatur do veřejných funkcí a zapojení do kampaně, možnosti oslovování
 těchto osob s žádostmi o spolupráci a pomoc, vč. fundraisingu, po dobu členství, registrovaného příznivectví a v
 případě dalších podporovatelů až do okamžiku odhlášení ze systémů správce; osobní údaje takto sesbírané budou
 následně archivovány po dobu 10 let za účelem ochrany práv správce, zejména pro případ soudních či jiných sporů a
 za účelem doložení povinnosti stanovených nařízením GDPR.    
-  <li> b. Za účelem vykonávání politické činnosti zpracovává správce údaje z komunikace se subjektem údajů. Právním
+  <li> Za účelem vykonávání politické činnosti zpracovává správce údaje z komunikace se subjektem údajů. Právním
 důvodem tohoto zpracování je oprávněný zájem správce. Údaje jsou uchovávány po dobu 10 let počínající od 1. 1.
 roku následujícího po roce, kdy byla zpráva odeslána nebo doručena.
-  <li> c. Za účelem evidence členů a registrovaných příznivců zpracovává správce adresní a identifikační údaje, kontaktní
+  <li> Za účelem evidence členů a registrovaných příznivců zpracovává správce adresní a identifikační údaje, kontaktní
 údaje, údaje nutné k rozhodnutí o přijetí za člena. Právním důvodem tohoto zpracování je oprávněný zájem správce.
 Údaje jsou uchovávány po dobu 6 let počínající od 1. 1. roku následujícího po roce, kdy subjekt údajů přestal být
 členem či registrovaným příznivcem.
-  <li> d. Za účelem plnění zákonných daňových a účetních povinností zpracovává správce adresní a identifikační údaje,
+  <li> Za účelem plnění zákonných daňových a účetních povinností zpracovává správce adresní a identifikační údaje,
 kontaktní údaje, údaje o objednaných službách. Právním důvodem tohoto zpracování je splnění právní povinnosti.
 Údaje jsou uchovávány po dobu 10 let počínající od 1. 1. roku následujícího po roce, kdy skončilo účetní období,
 kterého se daňové a účetní doklady týkaly.
-  <li> e. Za účelem nutnosti doložit právní důvod pro vystavení nebo přijetí faktury zpracovává správce údaje ze smluv
+  <li> Za účelem nutnosti doložit právní důvod pro vystavení nebo přijetí faktury zpracovává správce údaje ze smluv
 uzavřených se subjektem údajů. Právním důvodem tohoto zpracování je splnění právní povinnosti. Údaje jsou
 uchovávány po dobu 10 let počínající od 1. 1. roku následujícího po roce, kdy uplynula právní platnost příslušné
 smlouvy.
-  <li> f. Za účelem monitorování a vyhodnocování provozu serverů z důvodu zajištění bezpečnosti provozu a uložených
+  <li> Za účelem monitorování a vyhodnocování provozu serverů z důvodu zajištění bezpečnosti provozu a uložených
 informací zpracovává správce údaje z protokolárních souborů serverů. Právním důvodem tohoto zpracování je
 oprávněný zájem správce. Údaje jsou uchovávány po dobu maximálně 24 měsíců počínající od 1. dne v měsíci
 následujícího po měsíci, kdy byl protokolární soubor pořízen.
-  <li> g. Za účelem monitorování a vyhodnocování aktivit na webových stránkách z důvodu vylepšování jejich používání
+  <li> Za účelem monitorování a vyhodnocování aktivit na webových stránkách z důvodu vylepšování jejich používání
 zpracovává správce údaje z webového prohlížeče návštěvníka webových stránek. Právním důvodem tohoto
 zpracování je oprávněný zájem správce. Údaje jsou uchovávány po dobu 26 měsíců počínající od 1. dne v měsíci
 následujícího po měsíci, kdy byly údaje pořízeny.
 </ol>
-
 Poskytnutí osobních údajů pro splnění právní povinnosti, splnění smlouvy, jejíž smluvní stranou je subjekt údajů nebo
 pro provedení opatření přijatých před uzavřením smlouvy a pro oprávněný zájem správce je povinné. Bez poskytnutí
 osobních údajů k těmto účelům by správce nemohl vykonávat politickou činnost. Ke zpracování osobních údajů za
@@ -104,24 +102,24 @@ případech se tito dodavatelé stávají zpracovateli osobních údajů.
 
 Externími dodavateli jsou poskytovatelé:
 <ol>
-  <li> a. P&amp;N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online
+  <li> P&amp; N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online
 účetního software,
-  <li> b. WEDOS Internet, a.s., Masarykova 1230, 373 41 Hluboká nad Vltavou, Česká Republika za účelem
+  <li> WEDOS Internet, a.s., Masarykova 1230, 373 41 Hluboká nad Vltavou, Česká Republika za účelem
 poskytování služeb datových úložišť a hostingových služeb,
-  <li> c. Master Internet, s.r.o., Jiráskova 21, 602 00 Brno Master , ČR za účelem poskytování hostingových služeb a
+  <li> Master Internet, s.r.o., Jiráskova 21, 602 00 Brno Master , ČR za účelem poskytování hostingových služeb a
 housingových služeb,
-  <li> d. SPOJE.NET spol. s r.o., Patočkova 1471/77, 169 00 Praha 6 – Břevnov, za účelem poskytování hostingových
+  <li> dSPOJE.NET spol. s r.o., Patočkova 1471/77, 169 00 Praha 6 – Břevnov, za účelem poskytování hostingových
 služeb a housingových služeb,
-  <li> e. PayPal (Europe) S.a r.l. et Cie S.C.A., 22-24 Boulevard Royal , L-2449 Luxembourg, Lucembursko, Paymill
+  <li> PayPal (Europe) S.a r.l. et Cie S.C.A., 22-24 Boulevard Royal , L-2449 Luxembourg, Lucembursko, Paymill
 GmbH, St.-Martin-Straße 63, 81669 München, Německo, Wirecard Bank AG, Einsteinring 35, 85609
 Aschheim, Německo za účelem poskytování platebních služeb a zúčtování transakcí platebními kartami,
-  <li> f. Česká pošta, s.p., Politických vězňů 909/4, 225 99 Praha 1, Česká republika, za účelem poskytování kurýrních
+  <li> Česká pošta, s.p., Politických vězňů 909/4, 225 99 Praha 1, Česká republika, za účelem poskytování kurýrních
 a poštovních služeb,
-  <li> g. Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA za účelem poskytování reklamních
+  <li> Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA za účelem poskytování reklamních
 a analytických služeb,
-  <li> h. Rocket Science Group, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA za účelem poskytování
+  <li> Rocket Science Group, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA za účelem poskytování
 služeb spojených s newslettery,
-  <li> i. Bit Carvers, s. r. o., se sídlem Neklanova 112/9, Vyšehrad, 128 00 Praha 2, za účelem vedení CRM systému
+  <li> Bit Carvers, s. r. o., se sídlem Neklanova 112/9, Vyšehrad, 128 00 Praha 2, za účelem vedení CRM systému
 (evidence podporovatelů strany).
 </ol>
 
