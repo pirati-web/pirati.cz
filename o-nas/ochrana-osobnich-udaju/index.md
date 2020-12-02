@@ -87,7 +87,8 @@ následujícího po měsíci, kdy byl protokolární soubor pořízen.
 zpracovává správce údaje z webového prohlížeče návštěvníka webových stránek. Právním důvodem tohoto
 zpracování je oprávněný zájem správce. Údaje jsou uchovávány po dobu 26 měsíců počínající od 1. dne v měsíci
 následujícího po měsíci, kdy byly údaje pořízeny.
-      
+</ol>
+
 Poskytnutí osobních údajů pro splnění právní povinnosti, splnění smlouvy, jejíž smluvní stranou je subjekt údajů nebo
 pro provedení opatření přijatých před uzavřením smlouvy a pro oprávněný zájem správce je povinné. Bez poskytnutí
 osobních údajů k těmto účelům by správce nemohl vykonávat politickou činnost. Ke zpracování osobních údajů za
@@ -97,22 +98,32 @@ smluvní stranou je subjekt údajů nebo pro provedení opatření přijatých p
 Správce neprovádí žádná automatické rozhodování ani profilování.
 
 ## 6. Kategorie příjemců osobních údajů
-Správce při plnění svých závazků a povinností vyplývajících z politické činnosti může využívat odborné a specializované služby externích dodavatelů v jejichž rámci může docházet ke zpracování osobních údajů. V některých případech se tito dodavatelé stávají zpracovateli osobních údajů.
+Správce při plnění svých závazků a povinností vyplývajících z politické činnosti může využívat odborné a
+specializované služby externích dodavatelů v jejichž rámci může docházet ke zpracování osobních údajů. V některých
+případech se tito dodavatelé stávají zpracovateli osobních údajů.
 
 Externími dodavateli jsou poskytovatelé:
 <ol>
-  <li> P&N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online účetního software,</li>
-  <li> WEDOS Internet, a.s., Masarykova 1230, 373 41 Hluboká nad Vltavou, Česká Republika za účelem poskytování služeb datových úložišť a hostingových služeb,</li>
-  <li> Master Internet, s.r.o.,  Jiráskova 21, 602 00 Brno Master , ČR za účelem poskytování hostingových služeb a housingových služeb,</li>
-  <li> SPOJE.NET spol. s r.o., Patočkova 1471/77, 169 00 Praha 6 – Břevnov,  za účelem poskytování hostingových služeb a housingových služeb,</li>
-  <li> PayPal (Europe) S.a r.l. et Cie S.C.A., 22-24 Boulevard Royal , L-2449 Luxembourg, Lucembursko, Paymill GmbH, St.-Martin-Straße 63, 81669 München, Německo, Wirecard Bank AG, Einsteinring 35, 85609 Aschheim, Německo za účelem poskytování platebních služeb a zúčtování transakcí platebními kartami,</li>
-  <li> Česká pošta, s.p., Politických vězňů 909/4, 225 99 Praha 1, Česká republika, za účelem poskytování kurýrních a poštovních služeb,</li>
-  <li> Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA za účelem poskytování reklamních a analytických služeb.</li>
-  <li> Rocket Science Group, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA za účelem poskytování služeb spojených s newslettery.</li>
+  <li> a. P&amp;N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online
+účetního software,
+  <li> b. WEDOS Internet, a.s., Masarykova 1230, 373 41 Hluboká nad Vltavou, Česká Republika za účelem
+poskytování služeb datových úložišť a hostingových služeb,
+  <li> c. Master Internet, s.r.o., Jiráskova 21, 602 00 Brno Master , ČR za účelem poskytování hostingových služeb a
+housingových služeb,
+  <li> d. SPOJE.NET spol. s r.o., Patočkova 1471/77, 169 00 Praha 6 – Břevnov, za účelem poskytování hostingových
+služeb a housingových služeb,
+  <li> e. PayPal (Europe) S.a r.l. et Cie S.C.A., 22-24 Boulevard Royal , L-2449 Luxembourg, Lucembursko, Paymill
+GmbH, St.-Martin-Straße 63, 81669 München, Německo, Wirecard Bank AG, Einsteinring 35, 85609
+Aschheim, Německo za účelem poskytování platebních služeb a zúčtování transakcí platebními kartami,
+  <li> f. Česká pošta, s.p., Politických vězňů 909/4, 225 99 Praha 1, Česká republika, za účelem poskytování kurýrních
+a poštovních služeb,
+  <li> g. Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA za účelem poskytování reklamních
+a analytických služeb,
+  <li> h. Rocket Science Group, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA za účelem poskytování
+služeb spojených s newslettery,
+  <li> i. Bit Carvers, s. r. o., se sídlem Neklanova 112/9, Vyšehrad, 128 00 Praha 2, za účelem vedení CRM systému
+(evidence podporovatelů strany).
 </ol>
-
-Externí dodavatelé se sídlem v USA splňují podmínky systému předávání osobních údajů mezi EU a USA v obchodních vztazích s názvem Privacy Shield. Případné předání a zpracování osobních údajů v zemích mimo EU je prováděno vždy v souladu s platnou legislativou.
-
 
 ## 7. Právo na přístup k osobním údajům
 Subjekt údajů má právo získat od správce potvrzení, zda osobní údaje, které se ho týkají, jsou či nejsou zpracovávány, a pokud je tomu tak, má právo získat přístup k těmto osobním údajům a k následujícím informacím:
