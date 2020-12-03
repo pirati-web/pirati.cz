@@ -4,7 +4,7 @@ category:     blog
 tags:         konopí zdravotnictví legislativa
 layout:       post
 title:        "Piráti: OSN přehodnotila přístup ke konopí, cesta k racionální regulaci ale bude ještě dlouhá"
-image:        /assets/img/articles/2020/tomas_vymazal_rouska.jpg
+image:        /assets/img/articles/2020/tomas-vymazal-alej.jpg
 author:       
 ---
 
