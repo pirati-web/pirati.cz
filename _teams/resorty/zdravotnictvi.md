@@ -52,9 +52,10 @@ Tým se schází podle potřeby, většinou přímo v Poslanecké sněmovně.
 * **Jiří Páral**, člen správní rady VZP
 * **Pavel Východský**, člen správní rady VZP
 * **Adam Janek**, člen dozorčí rady VZP
+* **Josef Pavlovic**, vedoucí zdravotního týmu
 * **Bára Malíková**, stálá členka týmu zdravotnictví
 * **Jan Novák**, stálý člen týmu zdravotnictví
+* **[Ondřej Dostal](https://lide.pirati.cz/personProfile/549/)**, hlavní expert na problematiku zdravotnictví
 * **Marek Paris**, expert na problematiku zdravotnictví
-* **Josef Pavlovic**, asistent týmu
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
