@@ -3,12 +3,10 @@ uid: adam.komenda
 name:     Adam Komenda      	# běžně používáné jméno
 fullname: Adam Komenda  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- koordinatori
 img: people/adam-komenda.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Ústecký kraj # kratký popis, max 160 znaků
+description: Bývalý zastupitel za Piráty # kratký popis, max 160 znaků
 mail:
-- adam.komenda@pirati.cz
-mob: 	778 111 453
+mob:
 profiles:
   github:
   facebook:
@@ -16,4 +14,6 @@ profiles:
   linkedin:
 ---
 
-Adam Komenda je koordinátorkou dobrovolníků Ústeckého kraje. Absolvoval bakalářské studium Politologie a evropská studia na Univerzitě Palackého v Olomouci. V současné době dokončuje magisterské studium politologie na Karlově univerzitě, zároveň studuje prvním rokem práva. Program Pirátské strany ho zaujal liberalizací internetu a zejména podporou svobod a lidských práv. Sám se angažuje v boji za práva pro LGBT komunitu. 
+Adam Komenda byl zvolen zastupitelem na kandidátní listině s podporou Pirátů. V roce 2020 byl krajským předsednictvem [vyzván](https://forum.pirati.cz/viewtopic.php?f=315&t=54006) k okamžitému složení mandátu, což dodnes neučinil. Následně byl odvolán z orgánů zastupitelstva. I přes opakované výzvy nepředal správu místních facebookových stránek Pirátů s argumentací, že jsou jeho majetkem.
+
+Adam Komenda není členem České pirátské strany.
