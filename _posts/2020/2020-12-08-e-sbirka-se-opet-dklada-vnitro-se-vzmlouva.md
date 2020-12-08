@@ -12,7 +12,7 @@ author:
 
 Praha, 8. prosince 2020 – O ročním odložení projektů e-Sbírka a e-Legislativa na 1. ledna 2023 dnes na jednání sněmovního Podvýboru pro digitalizaci justice a e-Sbírku informovali zástupci Ministerstva vnitra. Účelem projektu je zajistit funkční portál obsahující závazná elektronická znění právních aktů vyhlašovaných ve Sbírce zákonů a mezinárodních smluv. Zavedení e-Legislativy má vést k elektronizaci a zpřehlednění celého procesu tvorby i projednávání právních předpisů, a snížit tak počet chyb v legislativním procesu.
 
-> „Výsledek dnešního jednání je vizitkou nezvládnuté vládní politiky v oblasti digitalizace. Nyní půl roku po termínu pro nasazení do testovacího provozu stále není software pro Poslaneckou sněmovnu a Senát k dispozici. Uspěchané nasazení by znamenalo, že zákonodárci budou nuceni jeho funkčnost zkoušet ‚za pochodu'. Pokud by se něco pokazilo, máme tady kolaps celého legislativního procesu,“ vysvětlil předseda Podvýboru pro digitalizaci justice a e-Sbírku Pirát František Navrkal.
+> „Výsledek dnešního jednání je vizitkou nezvládnuté vládní politiky v oblasti digitalizace. Nyní půl roku po termínu pro nasazení do testovacího provozu stále není software pro Poslaneckou sněmovnu a Senát k dispozici. Odložení projektů tak bohužel bylo jediným rozumným řešením. Uspěchané nasazení by totiž znamenalo, že zákonodárci budou nuceni jeho funkčnost zkoušet ‚za pochodu'. Pokud by se něco pokazilo, máme tady kolaps celého legislativního procesu,“ vysvětlil předseda podvýboru pro digitalizaci justice a e-Sbírku Pirát František Navrkal.
 
 Ministerstvo se brání tím, že celý projekt zbrzdila situace způsobená pandemií koronaviru. Jak uvádí ovšem poslanec Pirátů, ministerstvo se potýkalo se zpožděními již před vypuknutím nákazy.
 
