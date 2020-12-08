@@ -62,7 +62,7 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 - **[Tomáš Martínek](/lide/tomas-martinek)** – poslanec
 - **[Jan Pošvář](/lide/jan-posvar)** – poslanec
 
-- **Tibor Vansa** – odborný garant programu Finance
+- **Tibor Vansa** – garant pro oblast bankovnictví
 
 - **Martin Huňady** – asistent poslance Jana Pošváře
 - **Lukáš Forýtek** – asistent poslance Tomáše Martínka
