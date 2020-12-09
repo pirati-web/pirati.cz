@@ -1,10 +1,10 @@
 ---
-date:         2020-12-08
+date:         2020-12-09
 category:     blog
 tags:         koronavirus finance kontrola-moci-a-mocných
 layout:       post
 title:        "Vláda žene diskriminací malé obchody a živnostníky do krachu. Piráti jí poslali předžalobní výzvu, žádají férové podmínky a kompenzace"
-image:        /assets/img/articles/2020/dana-balcarova.jpg
+image:        /assets/img/articles/2020/brifink12-9.jpg
 author:       
 ---
 
