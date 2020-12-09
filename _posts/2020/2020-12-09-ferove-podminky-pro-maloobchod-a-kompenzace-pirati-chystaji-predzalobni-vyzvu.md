@@ -38,4 +38,4 @@ Praha, 9. prosince 2020 - Piráti žádají ukončení diskriminace maloobchodu 
 > „Byla bych daleko radši, kdybychom k tomuto právnímu kroku nemuseli přistoupit, ale protože diskriminace našich občanů, právní chaos a svévole této vlády již přesahují meze, které se dají vysvětlit novou situaci kolem koronaviru, tak není moc zbytí.  Vláda prokazatelně diskriminuje některé skupiny obyvatel, porušuje práva občanů a dokonce ani nerespektuje svoje vlastní nařízení,“ dodala první místopředsedkyně Pirátů Olga Richterová. 
 
 
-* [Plné znění dopisu](http://pirati.cz/assets/pdf/Vyzva_vlade_Piráti.pdf).
+* [Plné znění dopisu](http://pirati.cz/assets/pdf/Aktualizovany Dopis_premier_ Covid 09.12.2020.pdf).
