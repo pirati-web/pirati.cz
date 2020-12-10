@@ -2,7 +2,7 @@
 date:         2020-11-24
 category:     
   - blog
-  - stanovisko
+  - stanoviska
 tags:         evropská-unie celostátní bezpečnost vnitro
 layout:       post
 title:        "Stanovisko k migraci 2020"
