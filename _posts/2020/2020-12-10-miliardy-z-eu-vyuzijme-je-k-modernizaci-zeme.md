@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie životní-prostředí finance
 layout:       post
 title:        "Využijme miliardy z fondů EU na pomoc lidem z ekonomické krize, modernizaci vzdělávání či ochranu vody a krajiny"
-image:        /assets/img/articles/2020/ivan-stavebni-zakon.jpg
+image:        /assets/img/articles/2020/peksa-kopriva.JPG
 author:       
 ---
 
