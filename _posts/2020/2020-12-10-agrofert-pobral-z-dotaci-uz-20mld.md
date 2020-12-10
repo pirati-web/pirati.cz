@@ -17,6 +17,6 @@ Kvůli závažným zjištěním o neoprávněných dotacích se Piráti v dopise
 
 > „Spolu s analytickým týmem jsme sestavili tabulku 28 analogických příkladů, na kterých demonstrujeme zásadní rozpory mezi požadavky pro malé a střední podniky a realitou, ve které je ovládající společností holding Agrofert. K sestavení výčtu neoprávněných přidělení dotací jsme přitom postupovali velmi ohleduplně a tolerantně, například jsme uvedli pouze ty podniky, kde se přidělení dotací uskutečnilo až po 25. červnu 2014, kdy Evropská komise aktualizovala definici malých a středních podniků,“ dokumentoval Michálek zásadní nesrovnalosti okolo podniků předsedy vlády.
 
-Dotace vyplacené společnosti Agrofert od roku 2017![Dotace společnostem Agrofertu](pirati.cz/assets/pdf/graf1_color_final_def.pdf)
+[Dotace vyplacené společnostem Agrofertu od roku 2017](https://pirati.cz/assets/img/articles/2020/graf1_color_final_def.jpg)
 
 * [Plné znění dopisu ministru Tomanovi](https://pirati.cz/assets/pdf/Dopis-Michalek-Toman.pdf).
