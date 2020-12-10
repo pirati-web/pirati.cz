@@ -35,6 +35,9 @@ main:
       - link: /program/strana.html
         name: Dlouhodobý
         match: dlouhodoby
+      - link: /program/stanoviska.html
+        name: Stanoviska
+        match: stanoviska   
   - link: /o-nas/
     name: O nás
     match: o-nas, regiony
