@@ -3,7 +3,7 @@ date:         2020-12-11
 category:     blog
 tags:         bezpečnost energetika
 layout:       post
-title:        "Komentář pirátského poslance Jana Lipavského: Za odložení jaderného tendru nemůže opozice, ale vláda ignorující ekonomické a bezpečnostní zájmy Česka"
+title:        "Komentář Jana Lipavského: Za odložení jaderného tendru nemůže opozice, ale vláda ignorující ekonomické a bezpečnostní zájmy Česka"
 image:        /assets/img/articles/2020/jan-lipavsky99.jpg
 author:       Jan Lipavský
 ---
