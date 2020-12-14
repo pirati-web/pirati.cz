@@ -4,7 +4,7 @@ name: Místní rozvoj a veřejná správa
 fullname: Tým pro místní rozvoj a veřejnou správu
 img: teams/resorty/mistni-rozvoj.jpg # obrázek nemusíte dodávat
 leader: 
-- ivan.bartos
+- ondrej.profant
 contact:
 - vera.marusiakova
 tags:
@@ -52,7 +52,7 @@ Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle 
 
 * [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos), předseda výboru pro veřejnou správu a regionální rozvoj
 * [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí 
-* [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), předseda podvýboru pro e-government výboru veřejné správy a regionálního rozvoje, garant programového bodu Informatika
+* [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), vedoucí resortního týmu Místní rozvoj a veřejná správa, předseda podvýboru pro e-government výboru veřejné správy a regionálního rozvoje, garant programového bodu Informatika
 * [Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik), člen podvýboru pro cestovní ruch výboru veřejné správy a regionálního rozvoje a podvýboru pro ochranu přírody a krajiny výboru pro životní prostředí
 * [Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek), člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje a podvýboru pro podnikatelské prostředí hospodářského výboru
 * [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
