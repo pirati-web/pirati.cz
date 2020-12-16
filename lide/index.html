@@ -118,11 +118,6 @@ img: brand/logo.svg
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'praha'" | sort:"ordpraha" %}
                                             {% include people/list-2col.html param=team %}
                                         </div>
-                                        <div class="c-simple-accordion-content-block">
-                                            <h3>Karlovarský kraj</h3>
-                                            {% assign team = site.people | where_exp:"item","item.categories contains 'vary'" %}
-                                            {% include people/list-2col.html param=team %}
-                                        </div>
                                     </div>
                                     <div class="c-simple-accordion-content-block">
                                         <h3>Královéhradecký kraj</h3>
@@ -134,6 +129,61 @@ img: brand/logo.svg
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'jmk'" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Kraj Vysočina</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'vysocina'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>                                    
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Středočeský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'sck'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>  
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Jihočeský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'jck'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>  
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Plzeňský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'plzensky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div> 
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Karlovarský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'vary'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>                                    
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Ústecký kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ustecky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div> 
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Liberecký kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'liberecky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Pardubický kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pardubicky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>                                    
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Olomoucký kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'olomoucky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                    <div class="c-simple-accordion-content-block">
+                                        <h3>Moravskoslezský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'msk'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>  
+                                     <div class="c-simple-accordion-content-block">
+                                        <h3>Zlínský kraj</h3>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'zlinsky'" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div> 
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
