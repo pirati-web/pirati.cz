@@ -22,3 +22,5 @@ Vlády tak budou nově při pokusu o narušení zásad právního státu riskova
 Díky Parlamentu se nový zákon nevztahuje pouze na zneužití finančních prostředků například v případech korupce nebo finančních podvodů, ale zároveň se bude týkat přímého porušení základních zásad právního státu. Nařízení obsahuje konkrétní ustanovení, které přesně vyjmenovává oblasti, na jejichž porušování bude dohlíženo. Legislativa obsahuje pouze zcela nerozporné faktory jako nezávislost soudů.
 
 > „Je to završení dlouhodobého snahy nepodporovat zkorumpované vlády a dotační olicharchy. Mám obrovskou radost, že se nám podařilo něco takového v Evropském parlamentu dojednat. S Piráty jsme přes rok tlačili na to, aby toto opatření vešlo v platnost, jedním z mnoha základních kamenů k tomu byla červnová rezoluce europarlamentu ve věci střetu zájmů Andreje Babiše. Tohle je velké vítězství pro všechny občany EU. Teď už se může Maďarsko s Polskem stavět na hlavu, zákon je prostě schválený a platí,“ dodává Peksa.
+
+!(Právní stát)[https://pirati.cz/assets/img/articles/2020/pravni_stat.jpg]
