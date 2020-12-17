@@ -17,7 +17,7 @@ profiles:
 
 **Eva Tichá** pochází z Ústí nad Labem, studovala na Vysoké škole ekonomické. Profesně se věnovala převážně obchodu, marketingu a komunikaci ve státní a soukromé sféře. 
 
-Ve státní správě působila na Úřadu vlády, byl členkou porady ekonomických ministrů. Působila rovněž i na Ministerstvu kultury jako náměstkyně ministra pro kulturní dědictví. 
+Ve státní správě působila na Úřadu vlády, byl členkou porady ekonomických ministrů. Působila rovněž i na Ministerstvu kultury jako tisková mluvčí náměstkyně ministra pro kulturní dědictví. 
 
 Ovládá angličtinu a francouzštinu. V roce 2018 byla zvolena zastupitelkou městské části Praha 6 za Piráty.
 
