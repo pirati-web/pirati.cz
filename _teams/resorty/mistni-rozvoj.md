@@ -49,10 +49,10 @@ Fungování týmu
 Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle před schůzemi Poslanecké sněmovny případně výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
 
 Členové týmu:
-
-* [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos), předseda výboru pro veřejnou správu a regionální rozvoj
-* [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí 
 * [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), vedoucí resortního týmu Místní rozvoj a veřejná správa, předseda podvýboru pro e-government výboru veřejné správy a regionálního rozvoje, garant programového bodu Informatika
+* [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova), zástupkyně vedoucího týmu, tajemnice-asistentka poslance Ivana Bartoše
+* [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos) předseda výboru pro veřejnou správu a regionální rozvoj
+* [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), místopředsedkyně výboru pro sociální politiku, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí 
 * [Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik), člen podvýboru pro cestovní ruch výboru veřejné správy a regionálního rozvoje a podvýboru pro ochranu přírody a krajiny výboru pro životní prostředí
 * [Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek), člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje a podvýboru pro podnikatelské prostředí hospodářského výboru
 * [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
@@ -63,10 +63,10 @@ Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle 
 * Dan Kolář, asistent poslance Ondřeje Profanta
 * Jakub Brejša, asistent poslance Františka Elfmarka
 * Jiří Valenta, asistent poslance Radka Holomčíka
-* [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova), tajemnice-asistentka poslance Ivana Bartoše
 * Anna Doová, asistentka poslance Ivana Bartoše
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
 
 [Zápisy z jednání týmu](https://forum.pirati.cz/viewtopic.php?f=1136&t=47010&p=617443#p617443)
 [Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20)
+[PSP Výbor pro veřejnou správu a regionální rozvoj](https://www.psp.cz/sqw/hp.sqw?k=4409)
