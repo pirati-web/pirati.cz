@@ -4,7 +4,7 @@ name: Adéla Šípová
 titles:
   before: Mgr.
   after: 
-description: Senátorka za obvod Kladno
+description: Senátorka za obvod Kladno, nominovaná Pirátskou stranou
 img: people/adela-sipova.jpg
 mail: adela.sipova@pirati.cz
 categories: senat
@@ -16,6 +16,7 @@ profiles:
   facebook: https://www.facebook.com/adeladosenatu2020/
   twitter:
   linkedin:
+ ordsenat: 2
 ---
 
 **Adéla Šípová** (* 1980) se narodila v roce 1980 ve Vlašimi. Dětství prožila v Praze, odkud pochází část její rodiny. Rok 1992 strávila u své tety a strýce v Sydney, kam chodila do veřejné školy. Byla to pro ní obrovská životní zkušenost, která ji naučila být vnímavá k odlišnostem různých jazyků, národů a kultur a umět je respektovat, dokonce se jimi nechat obohatit. Ve dvanácti letech se s rodiči a bratrem přestěhovali na statek v malé obci Dolany na Kladensku. Na Kladně vystudovala gymnázium. Po maturitě se vdala a přestěhovala za svým manželem o pár kilometrů dál, do Doks, kde s pěti dětmi bydlí dosud.
