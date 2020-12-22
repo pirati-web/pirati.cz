@@ -4,16 +4,16 @@ name: Adéla Šípová
 titles:
   before: Mgr.
   after: 
-description: kandidátka do Senátu
+description: Senátorka za obvod Kladno
 img: people/adela-sipova.jpg
 mail: adela.sipova@pirati.cz
 categories: senat
-mob:
+mob: +420 606 938 776
 #  - 
 profiles:
   web: https://www.adelasipova.cz/
   github:
-  facebook: 
+  facebook: https://www.facebook.com/adeladosenatu2020/
   twitter:
   linkedin:
 ---
