@@ -25,5 +25,7 @@ V roce 2012 poprvé kandiduje za Českou Pirátskou stranu v krajských volbách
 
 Na zasedání celostátního fóra Pirátů byl v dubnu 2016 zvolen 2. místopředsedou České Pirátské strany. Zapojuje se dobrovolnicky i do volebního výboru pro volby do poslanecké sněmovny, kde rovněž kandiduje. V Olomouckém kraji je zvolen Vojtěch Pikal a Martin Šmída se stává jeho náhradníkem.
 
-Následně je členy Pirátů zvolen do republikového výboru strany a opouští tak místo v předsednictvu. V roce 2018 pak v komunálních volbách obhajuje svůj mandát v majetínském zastupitelstvu. Nadále dobrovolnicky pracuje v pirátském expertním týmu pro životní prostředí a účastní se několika sněmovních seminářů o odpadovém hospodářství. V roce 2019 je pak iniciátorem, zakladatelem a následně zvoleným místopředsedou Kompostářské asociace – KompAs. V roce 2020 pak kandiduje v krajských volbách v koalici Pirátů a Starostů a je zvolen zastupitelem a následně radním pro oblast životního prostředí, odpadů a zemědělství. Na svůj mandát v obecním zastupitelstvu rezignuje.
+Následně je členy Pirátů zvolen do republikového výboru strany a opouští tak místo v předsednictvu. V roce 2018 pak v komunálních volbách obhajuje svůj mandát v majetínském zastupitelstvu. Nadále dobrovolnicky pracuje v pirátském expertním týmu pro životní prostředí a účastní se několika sněmovních seminářů o odpadovém hospodářství. V roce 2019 je pak iniciátorem, zakladatelem a následně zvoleným místopředsedou Kompostářské asociace – KompAs.
+V roce 2020 pak kandiduje v krajských volbách v koalici Pirátů a Starostů a je zvolen zastupitelem a následně radním pro oblast životního prostředí, odpadů a zemědělství. Na svůj mandát v obecním zastupitelstvu rezignuje.
+
 
