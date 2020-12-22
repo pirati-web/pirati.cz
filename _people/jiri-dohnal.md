@@ -2,7 +2,7 @@
 uid: jiri.dohnal
 name:     Jiří Dohnal  	# běžně používáné jméno
 fullname: Jiří Dohnal  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category: starosta                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jiri-dohnal.jpg   # 165 x 220
 description: starosta MČ Praha 11, člen zastupitelstva městké části Praha 11             	# kratký popis, max 160 znaků
 mail:
