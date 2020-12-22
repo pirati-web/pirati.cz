@@ -4,6 +4,7 @@ name:     Zdeněk Hřib  	# běžně používáné jméno
 fullname: MUDr. Zdeněk Hřib  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - praha
+- primator
 img: people/zdenek-hrib.jpg    # 165 x 220
 description: Primátor hlavního města Prahy, garant programového bodu zdravotnictví             	# kratký popis, max 160 znaků
 mail:
