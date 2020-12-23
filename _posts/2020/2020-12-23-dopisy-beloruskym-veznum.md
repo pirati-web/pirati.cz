@@ -29,6 +29,6 @@ Ihar Losik je zakladatel známého kanálu na Telegramu, konzultant Rádia Svobo
 
 **Jak se zapojit?**
 
-Každý si může přečíst příběhy běloruských politických vězňů, vybrat si ten, který ho nejvíce zasáhne, a vězněnému napsat pár slov podpory. Organizátoři Vánoční výzvy 2020 budou sbírat vzkazy na e-mailové adrese vanocnivyzva@pirati.cz, budou je případně překládat a předávat vězněným.
+Každý si může přečíst [příběhy běloruských politických vězňů](https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/), vybrat si ten, který ho nejvíce zasáhne, a vězněnému napsat pár slov podpory. Organizátoři Vánoční výzvy 2020 budou sbírat vzkazy na e-mailové adrese vanocnivyzva@pirati.cz, budou je případně překládat a předávat vězněným.
 
-* [Otevřený dopis běloruské vládě](http://pirati.cz/assets/pdfOtevřený dopis běloruské vládě.pdf)
+* [Otevřený dopis běloruské vládě](http://pirati.cz/assets/pdf/Otevřený dopis běloruské vládě.pdf)
