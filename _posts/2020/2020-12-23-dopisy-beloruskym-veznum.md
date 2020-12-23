@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí lidská-práva
 layout:       post
 title:        "Vánoční výzva: Piráti a bývalá ombudsmanka píší běloruským vězňům a vládě. Pomoci může i veřejnost"
-image:        /assets/img/articles/2017/belarus.jpg
+image:        /assets/img/articles/2020/belarus.jpg
 author:       
 ---
 
