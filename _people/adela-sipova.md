@@ -17,6 +17,7 @@ profiles:
   github:
   facebook: https://www.facebook.com/adeladosenatu2020/
   twitter: https://twitter.com/adela_sipova
+  wikipedia:  https://cs.wikipedia.org/wiki/Ad%C3%A9la_%C5%A0%C3%ADpov%C3%A1
   linkedin:
  ordsenat: 2
 ---
