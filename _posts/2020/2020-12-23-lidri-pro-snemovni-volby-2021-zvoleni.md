@@ -4,7 +4,7 @@ category:     blog
 tags:         volby sněmovna
 layout:       post
 title:        "Piráti si zvolili lídry krajských kandidátek pro sněmovní volby 2021"
-image:        /assets/img/articles/2017/pirati-ve-snemovne.jpg
+image:        /assets/img/articles/2017/snemovna-prazdna.jpg
 author:       
 ---
 
@@ -23,16 +23,29 @@ V krajích, kde se se volby lídra účastnil pouze jediný kandidát, vyjádři
 **Seznam pirátských lídrů v krajích:**
 
 Moravskoslezský – Lukáš Černohorský
+
 Zlínský – František Elfmark
+
 Olomoucký – Vojtěch Pikal
+
 Jihomoravský – Radek Holomčík
+
 Vysočina – Milan Daďourek
+
 Pardubický – Mikuláš Ferjenčík
+
 Královéhradecký – Martin Jiránek
+
 Liberecký – Tomáš Martínek
+
 Ústecký – Lukáš Blažej
+
 Karlovarský – Petr Třešňák
+
 Plzeňský – Daniel Kůs
+
 Jihočeský – Lukáš Kolařík
+
 Středočeský – Klára Kocmanová
+
 Praha – Olga Richterová
