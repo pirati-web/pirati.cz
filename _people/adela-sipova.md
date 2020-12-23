@@ -1,6 +1,7 @@
 ---
 uid: adela.sipova
 name: Adéla Šípová
+fullname: Mgr. Adéla Šípová 	# jméno s tituly etc
 titles:
   before: Mgr.
   after: 
@@ -14,7 +15,7 @@ profiles:
   web: https://www.adelasipova.cz/
   github:
   facebook: https://www.facebook.com/adeladosenatu2020/
-  twitter:
+  twitter: https://twitter.com/adela_sipova
   linkedin:
  ordsenat: 2
 ---
