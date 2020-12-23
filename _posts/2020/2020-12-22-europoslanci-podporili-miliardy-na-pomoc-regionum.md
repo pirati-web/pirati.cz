@@ -3,7 +3,7 @@ date:         2020-12-22
 category:     blog
 tags:         evropský-parlament regiony piráti
 layout:       post
-title:        "Pirátští europoslanci podpořili další miliardy na pomoc regionům zasažených pandemií"
+title:        "Pirátští europoslanci poslali další miliardy na pomoc regionům zasažených pandemií"
 image:        /assets/img/articles/2020/Gregorova Kolaja Peksa.jpg
 author:       
 ---
