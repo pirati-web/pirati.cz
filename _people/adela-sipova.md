@@ -5,12 +5,13 @@ fullname: Mgr. Adéla Šípová 	# jméno s tituly etc
 titles:
   before: Mgr.
   after: 
-description: Senátorka za obvod Kladno, nominovaná Pirátskou stranou
+categories: # kategorie: rp, praha, vary, hradec, jmk, senat
+ - senat
 img: people/adela-sipova.jpg
-mail: adela.sipova@pirati.cz
-categories: senat
+description: Senátorka za obvod Kladno, nominovaná Pirátskou stranou
+mail:
+ - adela.sipova@pirati.cz
 mob: +420 606 938 776
-#  - 
 profiles:
   web: https://www.adelasipova.cz/
   github:
