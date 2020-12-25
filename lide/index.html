@@ -86,12 +86,16 @@ img: brand/logo.svg
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
                                     <a href="#zastupitele" class="c-simple-accordion-title">Starostové, primátoři a hejtmani</a>
-                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
+                                    <div id="primator" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'primator'" %}
                                         {% include people/list-2col.html param=team %}
+                                     </div>   
+                                     <div id="primator" class="c-simple-accordion-content" data-tab-content="">                                       
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'hejtman'" %}
                                         {% include people/list-2col.html param=team %}
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'starosta'" %}
+                                     </div>   
+                                     <div id="primator" class="c-simple-accordion-content" data-tab-content="">                                       
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'starostove'" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
