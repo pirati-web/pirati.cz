@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-- startosta
+- starostove
 ordpms: 2
 
 img: people/jan-adamec.jpg   # 165 x 220
