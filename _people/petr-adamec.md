@@ -6,13 +6,12 @@ titles:
   after:
 category:
   - clenove
-  - starosta
+  - starostove
   - komunal
   - vybory
 description: starosta Lokte
 profession: starosta města Lokte
-heroImg: banner-lo.jpg
-img: people/Petr_Adamec.jpg # zakomentuj radek dokud není fotka
+img: people/petr-adamec.jpg # zakomentuj radek dokud není fotka
 mail:
 - p.adamec@loket.cz
 mob: +420 739 322 417
