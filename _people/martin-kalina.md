@@ -4,13 +4,13 @@ name:     Martin Kalina 	# běžně používáné jméno
 fullname: Ing. Martin Kalina
 category:
   - clenove
-  - starosta
+  - starostove
   - kraj
   - komunal
 ordkraj: 6
 description: starosta Mariánských Lázní, zastupitel Karlovarského kraje
 profession: starosta města Mariánské Lázně
-img: people/Martin_Kalina.jpg # zakomentuj radek dokud není fotka
+img: people/martin-kalina.jpg # zakomentuj radek dokud není fotka
 mail:
 - martin.kalina@pirati.cz
 mob: +420 725 451 815
