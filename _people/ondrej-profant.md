@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - psp
 img: people/ondrej-profant.jpg # 165 x 220
-description: poslanec PSP ČR za Prahu a předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+description: poslanec PSP ČR za Prahu           	# kratký popis, max 160 znaků
 mail:
 - profanto@psp.cz
 - ondrej.profant@pirati.cz
