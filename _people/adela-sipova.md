@@ -5,7 +5,7 @@ fullname: Mgr. Adéla Šípová 	# jméno s tituly etc
 titles:
   before: Mgr.
   after: 
-categories: # kategorie: rp, praha, vary, hradec, jmk, senat
+category: # kategorie: rp, praha, vary, hradec, jmk, senat
  - senat
 img: people/adela-sipova.jpg
 description: Senátorka za obvod Kladno, nominovaná Pirátskou stranou
