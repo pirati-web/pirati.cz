@@ -1,7 +1,7 @@
 ---
 title: "Piráti hledají 2 psavce/psavkyně pro mediální odbor - výběrové řízení"
 author: Věra Marušiaková
-tags: stanovisko
+tags: vyberko
 date: 2017-02-26
 image: /assets/img/articles/2017/pice.jpg
 category:     blog
