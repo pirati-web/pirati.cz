@@ -15,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/WagenknechtLuk/		  
   twitter: 	https://twitter.com/wagenknechtluk	  
   flickr:		 
-ordsenat: 1
+ordsenat: 5
 ---
 
 Lukáš Wagenknecht (24. září 1978, Pardubice) je senátor za volební obvod Praha 8, Praha 18, Dolní Chabry, Březiněves, Čakovice a Ďáblice, nominovaný Pirátskou stranou. Vyrůstal v Pardubicích, kde také na tamní univerzitě vystudoval obor Hospodářská politika a správa. Po studiích se začal věnovat profesi interního auditora, později také podnikání v oblasti maloobchodního prodeje. Během své auditorské činnosti odhalil například zmanipulování dotací v operačním programu Severozápad nebo napojení firem odpovídajících za stavbu metra A v Praze na některé politiky.
