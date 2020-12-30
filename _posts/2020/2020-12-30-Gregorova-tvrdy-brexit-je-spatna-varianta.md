@@ -4,7 +4,7 @@ category:     blog
 tags:         brexit pirati europoslanci
 layout:       post
 title:        "Gregorová: Tvrdý Brexit je stejně špatná varianta, jako dohoda za každou cenu"
-image:        /assets/img/articles/2020/gregorova.jpg
+image:        /assets/img/articles/2020/Marketa Gregorova.jpg
 author:       
 ---
 
