@@ -19,7 +19,7 @@ profiles:
   twitter: https://twitter.com/adela_sipova
   wikipedia:  https://cs.wikipedia.org/wiki/Ad%C3%A9la_%C5%A0%C3%ADpov%C3%A1
   linkedin:
-ordsenat: 1
+ordsenat: 2
 ---
 
 Adéla Šípová se narodila v roce 1980 ve Vlašimi. Dětství prožila v Praze, odkud pochází část její rodiny. Rok 1992 strávila u své tety a strýce v Sydney, kam chodila do veřejné školy. Byla to pro ní obrovská životní zkušenost, která ji naučila být vnímavá k odlišnostem různých jazyků, národů a kultur a umět je respektovat, dokonce se jimi nechat obohatit. Ve dvanácti letech se s rodiči a bratrem přestěhovali na statek v malé obci Dolany na Kladensku. Na Kladně vystudovala gymnázium. Po maturitě se vdala a přestěhovala za svým manželem o pár kilometrů dál, do Doks, kde s pěti dětmi bydlí dosud.
