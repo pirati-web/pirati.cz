@@ -24,8 +24,10 @@ main:
     name: Program
     match: program
     submenu:
+      - link: /program/kraje2020/
+        name: Kraje 2020    
       - link: /program/europarlament2019/
-        name: Europarlament 2019
+        name: Euro 2019
       - link: /program/komunal2018/
         name: Komunál 2018
         match: komunal2018
