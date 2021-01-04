@@ -7,24 +7,21 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 ---
 
 <div class="medium-12 large-4 columns o-section-block--medium">
-  <div class="o-section-header">
-    <h2 class="o-section__heading o-section__heading">Krajský program 2020</h2>
-  </div>
-  <br>
+
 <ul>  
-<li>[Jihočeský](https://jihocesky.pirati.cz/program/)</li>
-<li>[Jihomoravský](https://jihomoravsky.pirati.cz/program/)</li>
-<li>[Karlovarský](https://karlovarsky.pirati.cz/volby-2020/?pohled=program)</li>
-<li>[Vysočina](https://vysocina.pirati.cz/volby/2020-kraj/?pohled=program)</li>
-<li>[Královehradecký](https://piratinakraj.cz/)</li>
-<li>[Liberecký](https://liberecky.pirati.cz/krajske-volby/?pohled=program)</li>
-<li>[Moravskoslezský](https://nakrajizmeny.cz/#program)</li>
-<li>[Olomoucký](https://www.piratistarostove.cz/nasprogram/)</li>
-<li>[Pardubický](https://pardubicky.pirati.cz/volby-2020/?pohled=program)</li>
-<li>[Plzeňský](https://plzensky.pirati.cz/krajske/?pohled=program)</li>
-<li>[Středočeský](https://stredocesky.pirati.cz/program/2020-krajske/zdravotnictvi/)</li>
-<li>[Ústecký](https://piratiuk.cz/velky-plan-program/)</li>
-<li>[Zlínský](https://zlinsky.pirati.cz/volby-2020/?pohled=program)</li>
+<li><a href="https://jihocesky.pirati.cz/program/">Jihočeský kraj</a></li>
+<li><a href="https://jihomoravsky.pirati.cz/program/">Jihomoravský kraj</a></li>
+<li><a href="https://karlovarsky.pirati.cz/volby-2020/?pohled=program">Karlovarský kraj</a></li>
+<li><a href="https://vysocina.pirati.cz/volby/2020-kraj/?pohled=program">Kraj Vysočina</a></li>
+<li><a href="https://piratinakraj.cz/">Královehradecký kraj</a></li>
+<li><a href="https://liberecky.pirati.cz/krajske-volby/?pohled=program">Liberecký kraj</a></li>
+<li><a href="https://nakrajizmeny.cz/#program">Moravskoslezský kraj</a></li>
+<li><a href="https://www.piratistarostove.cz/nasprogram/">Olomoucký kraj</a></li>
+<li><a href="https://pardubicky.pirati.cz/volby-2020/?pohled=program">Pardubický kraj</a></li>
+<li><a href="https://plzensky.pirati.cz/krajske/?pohled=program">Plzeňský kraj</a></li>
+<li><a href="https://stredocesky.pirati.cz/program/2020-krajske/zdravotnictvi/">Středočeský kraj</a></li>
+<li><a href="https://piratiuk.cz/velky-plan-program/">Ústecký kraj</a></li>
+<li><a href="https://zlinsky.pirati.cz/volby-2020/?pohled=program">Zlínský kraj</a></li>
 </ul>  
 </div>
 	
