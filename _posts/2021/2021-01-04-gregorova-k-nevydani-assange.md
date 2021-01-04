@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí lidská-práva
 layout:       post
 title:        "Pirátka Gregorová: Nevydání Assange do USA je úspěch, ale s hořkou pachutí"
-image:        /assets/img/articles/2019/gregorova99.jpg
+image:        /assets/img/articles/2021/gregorova-assange.jpg
 author:       
 ---
 
