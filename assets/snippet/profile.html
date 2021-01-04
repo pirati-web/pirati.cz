@@ -1,5 +1,5 @@
 <article itemtype="http://schema.org/Person" class="c-Person-preview" itemscope="">
-  {{#if url}}<a href="{{url}}" itemprop="url" class="c-Person-preview__url">Profil &rsaquo;</a>{{/if}}
+  {% if url %}<a href="{{url}}" itemprop="url" class="c-Person-preview__url">Profil &rsaquo;</a>{% endif %}
   <h2 itemprop="name" class="c-Person-preview__name">{{name}}</h2>
   <div class="c-Person-preview-contentBox">
     {{#if img}}
