@@ -9,6 +9,8 @@ contact-local:
   name: Martin Štancl
   mob: 728 337 464
   mail: martin.stancl@pirati.cz
+  url:
+  description:
   img:
 tags:
 - spravedlnost
