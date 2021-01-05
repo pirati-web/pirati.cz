@@ -20,4 +20,4 @@ Praha, 18. listopadu 2020 - Piráti zaslali premiérovi Andreji Babišovi otevř
 
 Připomněl také, že Sněmovna schválila usnesení, které vládu zavazuje předložit minimálně den před koncem nouzového stavu zprávu o navrhovaném dalším postupu a vyhodnocení dosavadních opatření ke koronaviru. 
 
-* [Plné znění dopisu](https://pirati.cz/assets/pdf/otevreny_dopis_premier_ Covid-11-2020.pdf)
+* [Plné znění dopisu](https://pirati.cz/assets/pdf/Otevřený dopis v otázce Pandemického systému_Piráti.pdf)
