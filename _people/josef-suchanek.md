@@ -1,4 +1,5 @@
 ---
+uid: josef.suchanek
 name:     Josef Suchánek  	# běžně používáné jméno
 titles:
   before: Ing.
