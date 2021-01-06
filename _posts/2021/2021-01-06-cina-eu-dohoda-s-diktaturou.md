@@ -4,7 +4,7 @@ category:     blog
 tags:         finance zahraničí obchod lidská-práva
 layout:       post
 title:        "Gregorová: Evropská unie půjde obchodní dohodou na ruku čínskému diktátorovi"
-image:        /assets/img/articles/2020/marketa-gregorova1.jpg
+image:        /assets/img/articles/2021/marketa-gregorova01.jpg
 author:       
 ---
 
