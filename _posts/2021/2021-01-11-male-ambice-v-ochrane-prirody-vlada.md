@@ -3,7 +3,7 @@ date:         2021-01-11
 category:     blog
 tags:         životní-prostředí vláda
 layout:       post
-title:        "Piráti vylepšili Státní politiku životního prostředí 2030, stále má však své nedostatky
+title:        "Piráti vylepšili Státní politiku životního prostředí 2030, stále má však své nedostatky"
 image:        /assets/img/articles/2021/dana-balcarova01.jpg
 author:       
 ---
