@@ -26,3 +26,5 @@ Praha, 12. ledna 2021 - Piráti dnes v závěrečném hlasování odsouhlasili k
 > „I já bych rád poděkoval členům za jejich podporu a hlasy. Nyní nás čeká podpis koaliční smlouvy a následně práce na podrobném rozpracování programových bodů. Kromě toho, co avizovali moji předřečníci, půjde především o přiblížení státu občanům, respekt k samosprávě, digitalizaci, nízké daně, dostupnou zdravotní péči i v regionech, řešení exekučního systému, ochranu klimatu a přírody, inovace a samozřejmě, aby celé vládnutí probíhalo transparentně s minimálním prostorem pro korupci,” doplnil také Jakub Michálek, předseda pirátského poslaneckého klubu.
 
 > „Aktuálně také probíhá obsazování kandidátních listin v primárních volbách. Piráti jsou zatím v tomto procesu trochu napřed, nicméně bude dle koaliční smlouvy dodržen princip valčík a polka - tedy čelo kandidátky obsazeno jedna ku dvěma, zbytek kandidátky jedna ku jedné. A to s tím, že Ivan Bartoš je kandidátem koalice na premiéra a kandidovat bude v Ústeckém kraji,” popsal Michálek.
+
+* **[Koaliční smlouva pro volby do Poslanecké sněmovny konané v roce 2021](https://pirati.cz/assets/pdf/koalicni-smlouva-pirati-a-starostove-1.pdf)**
