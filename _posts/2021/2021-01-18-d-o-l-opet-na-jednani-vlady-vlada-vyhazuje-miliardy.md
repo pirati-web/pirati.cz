@@ -1,7 +1,7 @@
 ---
 date:         2021-01-18
 category:     blog
-tags:         kvláda životní-prostředí
+tags:         vláda životní-prostředí
 layout:       post
 title:        "Komentář Dany Balcarové: Vláda dá na nesmyslný projekt kanálu miliardy, zatímco s kompenzacemi otálí"
 image:        /assets/img/articles/2020/balcarova-prehrada.jpg
