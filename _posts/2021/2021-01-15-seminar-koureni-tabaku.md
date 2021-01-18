@@ -25,4 +25,4 @@ Za Piráty vystoupili poslanec Petr Třešňák a europoslanec Mikuláš Peksa. 
 
 > „Téma snižování rizik (nejen) u tabáku by mělo být ústředním motivem racionální politiky návykového chování, současný akční plán toto bohužel nereflektuje. Piráti budou bojovat za to, aby bylo snižování rizik v příštím akčním plánu prioritizováno,“ dodala k tématu Janka Michailidu, vedoucí pirátského meziresortního týmu Návykové chování.
 
-[Záznam celé debaty lze vidět na tomto odkazu] (https://youtu.be/DbS_nlAe_rE)
+[Záznam celé debaty lze vidět na tomto odkazu](https://youtu.be/DbS_nlAe_rE)
