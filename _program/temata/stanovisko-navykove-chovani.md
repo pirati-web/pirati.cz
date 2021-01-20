@@ -505,50 +505,74 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/
 s lidskou psychikou. Obor adiktologie (obor zabývající se návykovým chováním) se podle Mezinárodní klasifikace nemocí MKN-10 věnuje diagnózám F10 – F 19.
 Návykové chování se také mnohem více vyskytuje v situacích sociální nestability jedince a také se statisticky významně častěji vyskytuje mezi obyvateli s dalším
 onemocněním v oblasti duševního zdraví či s jinými zdravotními problémy (např. některá neurologická onemocnění apod.).
+
 [^2] Tyto dopady popsal bývalý vrchní ředitel UNODC A. M. Costa, který zdůraznil, že politika zaměřená pouze na prohibici přináší nechtěné konsekvence, které často
 převyšují zamýšlený preventivní efekt.
+
 [^3] ČR je 11. země EU, která od roku 2014 řeší v rámci jedné strategie drogy legální, nelegální i oblast hazardního hraní.
+
 [^4] Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
+
 [^5] Jedná se o celou řadu témat – dostupnost základní léčby pro osoby diagnostikované na škále F10 – F19, princip minimalizace škod a rizik, ale také jednoznačné
 vystupování proti trestu smrti za drogové delikty (dle konsenzu a jasných opakovaných vyjádření všech členských států EU) a mnohé další.
+
 [^6] ​Monitoring zahrnuje údaje o všech typech návykových látek a hazardu. Vláda případně zadá analýzy a sledování dalších ukazatelů z oblasti návykového chování, jako
 je fenomén nových technologií a sociálních sítí nebo otázky vývoje a elasticity trhu vzhledem k černému trhu a spotřebním daním nebo daním z hazardu. Podobně může
 vláda zadat analýzy a sledování případných nových komodit na trhu, jako jsou nové nikotinové a tabákové výrobky nebo například konopí a podobné produkty.
+
 [^7] Státní správa, samosprávy, odborné spole​č​nosti, školní a jiná edukativní za​ř​ízení, policie a soudy, celní správa a dal​š​í výkonné slo​ž​ky.
+
 [^8] Úřad vlády České republiky (2013). ​ _Tichá revoluce - dekriminalizace drog​_. ISBN 978-80-7440-083-4. Dostupné z: ​https://mrak.pirati.cz/s/qZStN9YKnfLQ9Xb
+
 [^9] Globální komise pro protidrogovou politiku (2013). ​ _Válka proti drogám​_. ISBN 978-80-7440-082-7. Dostupné z: ​https://mrak.pirati.cz/s/dHYEtkRBgj9ft7o
+
 [^10] Ekonomové napříč spektrem se shodnou, že v době konjunktury je třeba snižovat daně přímé, jako jsou daně ze zisku a daně zaměstnanců a zároveň zvyšovat
 daně nepřímé, jako jsou například daně spotřební.
+
 [^11] Tabák je 8 % všech daňových příjmů ČR. Mezinárodní organizace, včetně studií zadaných EK, upozorňují na vliv tabákového průmyslu na českou legislativu,
 daňový systém a další oblasti potřebného vlivu.
+
 [^12] Transparency International (2020). ​ _Clearing the smokescreen: The deadly consequences of undue influence​_. [online, citováno 2-12-2020] Dostupné z:
 https://www.transparency.org/en/news/tobacco-smokescreen-deadly-consequences-of-undue-influence#
+
 [^13] Logan, Diane E. (2010). ​ _Harm Reduction Therapy: A Practice-Friendly Review of Research​_. J Clin Psychol. 2010 Feb; 66(2): 201–214. Dostupné z:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928290/
+
 [^14] ​Fischer, Benedikt et al. (2007). ​ _Heroin-assisted Treatment (HAT) a Decade Later: A Brief Update on Science and Politics​_. J Urban Health. 2007 Jul; 84(4):
 552–562. Dostupné z: ​https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/^
+
 [^15] Odhadovaná částka na diagnózy F10 – F19 se pohybuje okolo 1,5 miliard ročně, z čehož pouze 200 – 300 mil Kč se týká specifických a tím účinnějších
 zdravotních intervencí.
+
 [^16] Nestátní neziskové organizace.
+
 [^17] Nyní je název této zprávy „Výroční zpráva o stavu ve věcech drog“ a „Výroční zpráva o hazardním hraní“.
+
 [^18] Skrytá populace: termín používaný pro uživatele drog, kteří nejsou v kontaktu s existujícími zdravotními, zdravotně-sociálními a sociálními službami.
+
 [^19] Model záchytek tak, jak je nastavený v ČR, již nefunguje nikde na světě. Ve většině rozvinutých zemí jsou spíše obecní šatlavy a v případě rizika ohrožení zdraví
 jednotlivce je taková šatlava a její personál (např. městská policie) napojen na nejbližší odborné pracoviště. Zabránilo by se dlouhým převozům a občasným
 úmrtím před dovozem na místo, stejně jako zbytečným výdajům z krajských rozpočtů. 20
 Větší města v ČR by se měla zaměřit na vlastní specifika (např. jiná situace existuje v Praze, na Vysočině a na jižní Moravě).
+
 [^21] Státní prostředky by měly být nastaveny na systém spolupráce s místními potřebami
+
 [^22] Obec by si měla mít možnost určit, kde případně povolí prodej konopí a jeho konzumaci, kde mohou vzniknout zamýšlené tzv. cannabis-clubs apod.
+
 [^23] Pojem duální diagnóza označuje stav, kdy má klient diagnostikované psychiatrické onemocnění a souběžně závislost na alkoholových a nealkoholových
 drogách, případně patologické hráčství.
+
 [^24] ČR je především v oblasti nelegálních drog vnímaná jako průkopník alternativních a humánních přístupů. V tomto smyslu j třeba připomenout nejnižší míru úmrtí
 na předávkování u nelegálních drog ve světovém měřítku, nejnižší míru (díky účinné prevenci) v oblasti přenosných chorob mezi nitrožilními uživateli drog (méně
 než  1  % HIV/AIDS) a nízkou míru problémového užívání drog. Díky těmto důvodům je Národní koordinátor přizýván ke konzultacím a předávání know how různými
 významnými institucemi i jednotlivými vládami (Východní Evropa, ale i západní Evropa, Latinská Amerika, Jihovýchodní Asie, univerzitní a vědecká obec,
 významné nadnárodní networky i NNO apod.) V tomto smyslu například Latinská Amerika považuje ČR jako velice důležitého spojence a je nutné na tento
 diplomatický přesah s obratností navázat​.
+
 [^25] HDG (Horizontal Working Party on Drugs): Horizontální pracovní skupina pro drogy Evropské komise. COSI (The Internal Security Commitee): Stálý výbor pro
 operativní spolupráci v oblasti vnitřní bezpečnosti Rady Evropské unie. EMCDDA (European Monitoring Center for Drugs and Drug Addiction): Evropské
 monitorovací středisko pro drogy a závislosti. DG Sanco: Generální ředitelství pro zdraví a bezpečnost potravin Evropské komise.
+
 [^26] Opatření 29b: „Posílit spolupráci zaměřenou na potírání narůstajícího trendu závislosti na stimulantech, zejména metamfetaminu, mezi příslušnými vládními
 orgány a nevládními organizacemi, se zaměřením na vytváření a sdílení osvědčených postupů k předcházení šíření místních epidemií, včetně úsilí o snížení
 poptávky a nabídky a sdílení informací o prevenci zneužívání léčivých přípravků pro výrobu metamfetaminu“
