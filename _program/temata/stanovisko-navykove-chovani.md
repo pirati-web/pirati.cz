@@ -52,6 +52,8 @@ extrémně přísná omezení tak nemohou přinést stoprocentní výsledek, nao
 prohibice alkoholu v 20. letech minulého století v USA). Představa „společnosti bez drog“, kterou slibují populisté, je
 tedy nerealistická. To ale neznamená, že není možné výrazně snížit ve společnosti výskyt rizikového návykového
 chování a omezit jeho možné škody. Je ale třeba zvolit efektivní dobře ověřený přístup.
+
+
 **Jak by měl efektivní přístup vypadat?​** Politika prevence vzniku rizikového návykového chování a snižování škod s
 ním spojených (dále jen „politika“) musí být postavena na vědecky ověřeném, vyváženém a realistickém konceptu
 prevence rizik a minimalizace škod (tj. princip harm reduction <a href="f1">[1]</a>​ - HR). Primárně jde o to, snížit riziko rozvoje
@@ -59,6 +61,8 @@ rizikového návykového chování, a v případě, že k němu dojde, přistoup
 zaměřených na komplexní pomoc danému člověku a minimalizaci škod. Směřování k abstinenci má být součástí
 nabídky, nikoliv jediným, ani hlavním cílem. V některých případech totiž nemusí být možné jí dosáhnout a přílišný tlak
 tímto směrem pouze závislého člověka odrazuje od snahy s problémem pracovat a dostat ho účinněji pod kontrolu.
+
+
 **Hlavními cíli politiky mají být:**
 * minimalizace negativních dopadů do oblasti veřejného zdraví a zdraví jednotlivců;
 * minimalizace negativních dopadů do sociální situace jednotlivců, rodin a místních komunit;
@@ -80,7 +84,7 @@ Fenomén návykového chování zasahuje do oblasti sociální, ekonomické, zdr
 součástí politiky musí být provázanost těchto oblastí. Je nezbytné, aby vláda disponovala dlouhodobou strategií
 dotýkající se všech relevantních resortů a sektorů. Politika prevence vzniku rizikového návykového chování a
 snižování škod s ním spojených musí být řízena koordinovaně a vláda (pokud bude mít zastoupení Pirátské strany) jí
-bude věnovat pozornost na nejvyšší možné úrovni.[^4 Předpokládá se pozornost politická i úřednická v její nejvyšší míře.]
+bude věnovat pozornost na nejvyšší možné úrovni.<a href="f4">[^4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
 Pro účinnou koordinaci je stěžejní podpora a rozvoj co nejvyšší angažovanosti samospráv, bez kterých není možné
 vytvářet komunitní spolupráci. Samosprávy jsou nezbytným koordinačním místem při vytváření sítě pomoci a
 zjišťování potřeb pro komunitní rozvoj.
@@ -131,7 +135,7 @@ každodenního života. To je třeba změnit.
 
 * Nezbytné jsou kroky směřující k regulované legalizaci doposud nelegálních návykových látek <a href="f1">[8]</a>​. Současný stav
 totiž umožňuje kontinuální vzkvétání černého trhu a znemožňuje poskytování účinné pomoci těm, kteří to
-nejvíce potřebují <a href="f1">[9]</a>​.
+nejvíce potřebují <a href="f9">[9]</a>​.
 * Chceme rekodifikaci daňových zákonů tak, aby reflektovaly skutečnou společenskou nebezpečnost
 jednotlivých komodit a jednotlivých typů hazardních her.
 * Je třeba otevřít diskuzi o sjednocení daně na alkohol, protože v současností má například tiché víno nulovou
