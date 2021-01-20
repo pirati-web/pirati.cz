@@ -4,7 +4,7 @@ category:     blog
 tags:         exekuce vláda koronavirus
 layout:       post
 title:        "Kompenzace dostanou i živnostníci v insolvenci. Vláda po mé výzvě konečně nastaví férovější pravidla"
-image:        /assets/img/articles/2020/lukas-kolarik99.jpg
+image:        /assets/img/articles/2021/lukas-kolarik01.jpg
 author:       Lukáš Kolářík
 ---
 
