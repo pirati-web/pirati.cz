@@ -56,7 +56,7 @@ chování a omezit jeho možné škody. Je ale třeba zvolit efektivní dobře o
 
 **Jak by měl efektivní přístup vypadat?​** Politika prevence vzniku rizikového návykového chování a snižování škod s
 ním spojených (dále jen „politika“) musí být postavena na vědecky ověřeném, vyváženém a realistickém konceptu
-prevence rizik a minimalizace škod (tj. princip harm reduction <a href="f1">[1]</a>​ - HR). Primárně jde o to, snížit riziko rozvoje
+prevence rizik a minimalizace škod (tj. princip harm reduction <a href="#f1">[1]</a>​ - HR). Primárně jde o to, snížit riziko rozvoje
 rizikového návykového chování, a v případě, že k němu dojde, přistoupit ke zprostředkování realistických zásahů
 zaměřených na komplexní pomoc danému člověku a minimalizaci škod. Směřování k abstinenci má být součástí
 nabídky, nikoliv jediným, ani hlavním cílem. V některých případech totiž nemusí být možné jí dosáhnout a přílišný tlak
@@ -72,11 +72,11 @@ tímto směrem pouze závislého člověka odrazuje od snahy s problémem pracov
 
 Za nejúčinnější politiku je považován tzv. vyvážený přístup. Ten předpokládá rovnováhu mezi regulací a
 preventivně-léčebnými nabídkami. Volný trh bez regulací i přílišná represe či přehnaná regulace přináší nechtěně
-zhoršení situace v podobě negativních dopadů v oblasti zdraví, veřejných rozpočtů<a href="f2">[2]</a>​ či bezpečnostních rizik.
+zhoršení situace v podobě negativních dopadů v oblasti zdraví, veřejných rozpočtů<a href="#f2">[2]</a>​ či bezpečnostních rizik.
 Finanční prostředky, legislativu i konkrétní intervence je přitom třeba směřovat spíše na občany, u kterých více hrozí
 rozvoj rizikového návykového chování, na včasnou detekci problému a na včasné intervence. Obecná prevence se
 podle dosavadních zkušeností často míjí účinkem, jak jsme již zmínili výše.
-Účinným moderním přístupem v politice návykového chování je tzv. integrovaná<a href="f3">[3]</a> ​politika. Tento přístup vnímá
+Účinným moderním přístupem v politice návykového chování je tzv. integrovaná<a href="#f3">[3]</a> ​politika. Tento přístup vnímá
 propojenost a neoddělitelnost užívání různých typů návykových látek, ať již legálních či nelegálních, s nelátkovými
 závislostmi typu patologické hraní, a jejich vzájemné ovlivňování. Zároveň reflektuje i další související oblasti jako
 například zneužívání léčiv, návykové chování v prostředí nových technologií, sociálních sítí apod.
@@ -84,13 +84,13 @@ Fenomén návykového chování zasahuje do oblasti sociální, ekonomické, zdr
 součástí politiky musí být provázanost těchto oblastí. Je nezbytné, aby vláda disponovala dlouhodobou strategií
 dotýkající se všech relevantních resortů a sektorů. Politika prevence vzniku rizikového návykového chování a
 snižování škod s ním spojených musí být řízena koordinovaně a vláda (pokud bude mít zastoupení Pirátské strany) jí
-bude věnovat pozornost na nejvyšší možné úrovni.<a href="f4">[^4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
+bude věnovat pozornost na nejvyšší možné úrovni.<a href="#f4">[4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
 Pro účinnou koordinaci je stěžejní podpora a rozvoj co nejvyšší angažovanosti samospráv, bez kterých není možné
 vytvářet komunitní spolupráci. Samosprávy jsou nezbytným koordinačním místem při vytváření sítě pomoci a
 zjišťování potřeb pro komunitní rozvoj.
 
 Dále je třeba reflektovat, že oblast návykového chování nerespektuje státní hranice. Je tedy nezbytné být aktivním
-účastníkem na mezinárodní scéně <a href="f1">[5]</a> a prosazovat zde všechny výše uvedené principy. Pirátská strana bude usilovat o
+účastníkem na mezinárodní scéně <a href="#f5">[5]</a> a prosazovat zde všechny výše uvedené principy. Pirátská strana bude usilovat o
 racionální liberalizaci tzv. drogových politik ve smyslu revize Jednotné Úmluvy o omamných látkách z roku 1961.
 Na úrovni EU bude Pirátská strana prosazovat výše zmíněné principy tzv. harm reduction jak v EU strategiích,
 směrnicích, tak v akčních plánech. Zároveň je potřeba modernizovat přístupy vzhledem k integraci politik i na
@@ -99,8 +99,8 @@ rozpočty z úrovně EU grantů a tendrů a rozšířit mandát Evropského moni
 závislosti (EMCDDA ) pro oblasti monitoringu celé problematiky návykového chování.
 
 **Závěrem lze shrnout, že Pirátská strana prosazuje tzv. evidence-based přístup, tedy přístup založený na vědeckých důkazech​**. Naše politika prevence vzniku rizikového návykového chování a snižování škod s ním spojených bude
-postavena na monitoringu <a href="f1">[6]</a>, faktech a příkladech dobré praxe na straně jedné a na kompetenci vykonávajících aktérů
-napříč jednotlivými sektory <a href="f1">[7]</a>​ na straně druhé. Bude vycházet z jasné analýzy monitorovaných dat a hledat optimální
+postavena na monitoringu <a href="#f6">[6]</a>, faktech a příkladech dobré praxe na straně jedné a na kompetenci vykonávajících aktérů
+napříč jednotlivými sektory <a href="#f7">[7]</a>​ na straně druhé. Bude vycházet z jasné analýzy monitorovaných dat a hledat optimální
 řešení vyváženého přístupu mezi regulačními opatřeními a nabídkou prevence a léčby. Na základě důkazů pak
 vytvoříme návrh státního rozpočtu pro danou oblast ve spolupráci se samosprávami a systémy zdravotního i
 sociálního pojištění.
@@ -133,9 +133,9 @@ každodenního života. To je třeba změnit.
 
 ### b) Jaké změny Piráti navrhují
 
-* Nezbytné jsou kroky směřující k regulované legalizaci doposud nelegálních návykových látek <a href="f1">[8]</a>​. Současný stav
+* Nezbytné jsou kroky směřující k regulované legalizaci doposud nelegálních návykových látek <a href="#f8">[8]</a>​. Současný stav
 totiž umožňuje kontinuální vzkvétání černého trhu a znemožňuje poskytování účinné pomoci těm, kteří to
-nejvíce potřebují <a href="f9">[9]</a>​.
+nejvíce potřebují <a href="#f9">[9]</a>​.
 * Chceme rekodifikaci daňových zákonů tak, aby reflektovaly skutečnou společenskou nebezpečnost
 jednotlivých komodit a jednotlivých typů hazardních her.
 * Je třeba otevřít diskuzi o sjednocení daně na alkohol, protože v současností má například tiché víno nulovou
@@ -200,13 +200,13 @@ komerčního trhu s nimi.
 látek doporučuje několik základních regulatorních opatření, která Piráti podporují:
  * Omezení dostupnosti - zákaz prodeje a podávání do určitého věku, omezení času a místa prodeje,
 omezení reklamy.
- * Cenotvorba - zdanění pomocí nepřímých daní, jako jsou daně spotřební <a href="f1">[10]</a>​.^
+ * Cenotvorba - zdanění pomocí nepřímých daní, jako jsou daně spotřební <a href="#f10">[10]</a>​.
  * Omezení situací a míst konzumace – například zákaz kouření na vymezených místech, zákaz řízení
 po konzumaci alkoholu a jiných návykových látek omezujících pozornost apod.
 * Z hlediska bezpečnostních rizik je třeba pokračovat v zapojení Bezpečnostní informační služby (BIS) do
 analytické činnosti směřující k vzniku dalších konkrétních opatření, která budou mít za cíl omezení
 negativního vlivu lobbistických skupin zastupujících nadnárodní korporace na tvorbu či změny legislativy
-týkající se návykového chování. A to nejen v oblasti hazardu, ale i v oblasti tabáku <a href="f1">[11]</a>​ a případně alkoholu.
+týkající se návykového chování. A to nejen v oblasti hazardu, ale i v oblasti tabáku <a href="#f11">[11]</a>​ a případně alkoholu.
 * Při vymáhání současných zákonů je třeba počítat se zapojením dalších kontrolních mechanismů a institucí.
 Kromě Policie ČR se jedná také o celní správu, ČOI, živnostenské a finanční úřady, hygienu, hasičský
 záchranný sbor, místní samosprávy a další. Pro skutečnou efektivitu regulace je nezbytné, aby opatření měla
@@ -276,7 +276,7 @@ rizikům je klíčové:
  * Získat údaje a analyzovat skutečný dopad černého trhu; na základě těchto informací vyhodnotit
 kroky v oblasti boje s organizovaným zločinem, kde se pravděpodobně jedná o miliardové úniky ze
 spotřebních daní na tabák.
- * Je nutné označit tabákový průmysl jako jedno z odvětví s největším korupčním potenciálem​12​ v
+ * Je nutné označit tabákový průmysl jako jedno z odvětví s největším korupčním potenciálem <a href="#f12">[12]</a> v
 oblasti ovlivnění legislativy. Pirátská strana bude hledat zdroje pro analýzu propojenosti
 organizovaného zločinu, tabákového průmyslu a politiky.
  * Legislativně bude Pirátská strana v rámci HR podporovat přechod uživatelů nikotinu z tabákových
@@ -284,8 +284,8 @@ výrobků na e-cigarety a podobné alternativy.
 * Pro oblast prozatím nelegálních psychotropní látek:​ Je třeba chránit spotřebitele umožněním vzniku trhu s
 psychotropními látkami, který bude racionálně regulován, kontrolován a řádně daněn. V oblasti léčebného
 užití psychotropních látek je třeba zabránit možným korupčním snahám farmaceutické lobby. Pro
-minimalizaci dopadů je nutné přejít důsledně na přístup HR​13​ a na kontrolované lékařské podávání některých
-drog (například heroinu či metamfetaminu) závislým po vzoru jiných zemí (Velká Británie, Švýcarsko)​14​ tak,
+minimalizaci dopadů je nutné přejít důsledně na přístup HR <a href="#f13">[13]</a> a na kontrolované lékařské podávání některých
+drog (například heroinu či metamfetaminu) závislým po vzoru jiných zemí (Velká Británie, Švýcarsko) <a href="#f14">[14]</a>​ tak,
 aby byl z procesu odstraněn dealer i nelegální výrobce. Měla by být diskutována také regulovaná legalizace
 dalších nelegálních látek. Pirátská strana bude iniciovat vládní studie a debatu napříč odbornými komunitami
 (zdravotně sociálními, bezpečnostními, ekonomickými či s justicí) o jejich případné přísně kontrolované
@@ -337,7 +337,7 @@ základě jasně definovaných národních i místních priorit zajistí stabiln
 předvídatelné financování základní sítě péče. Cílem takového financování musí být
 jasné stanovení indikátorů úspěšnosti jednotlivých intervencí.
  * Rovněž je nutná změna financování ze zdravotního pojištění tak, aby tyto prostředky
-byly využity efektivně​15​.
+byly využity efektivně <a href="#f15">[15]</a>​.
 * Optimální rozpočet
 Viz příloha I.
 
@@ -352,11 +352,11 @@ spolurozhodování o financování místních politik a tvorbě legislativy pomo
 ### b) Stát
 
 * Rada vlády: ​ Vláda zřizuje Radu vlády pro koordinaci protidrogové politiky (RVKPP), jejímiž členy jsou ministři
-relevantních resortů, odborné společnosti, NNO​16​, zástupci samospráv a případně jmenovaný expert/poradce
+relevantních resortů, odborné společnosti, NNO <a href="#f16">[16]</a>, zástupci samospráv a případně jmenovaný expert/poradce
 premiéra vlády ČR. Rada má projednávat všechny zásadní otázky jak legislativního, tak finančního
 charakteru, přípravu Akčních plánů, stejně jako aktuální opatření. Rada dále projednává zásadní informace
 vyplývající z každoročního sběru dat a předkládá vládě zprávy o stavu ve věci drog, jiných návykových látek a
-hazardu“​17​. Z těchto zpráv a případných navazujících analýz mají vznikat konkrétní návrhy opatření, případně
+hazardu“ <a href="#f17">[17]</a>​. Z těchto zpráv a případných navazujících analýz mají vznikat konkrétní návrhy opatření, případně
 mají být podkladem pro případné legislativní změny. V tomto smyslu bude Pirátská strana prosazovat
 rozšíření mandátu Národního monitorovacího střediska (NMS) o sběr dat v oblasti tabáku a alkoholu po
 vzoru každoročních zpráv pro oblast dopadů hazardu a nelegálních drog.
@@ -370,7 +370,7 @@ nastavit jasné indikátory a podle nich hodnotit efektivitu. Tvorba služeb pom
 momentální mediální poptávky, ale podle skutečných potřeb zjišťovaných skrze monitoring.
 * Péče je definována sítí:​ Pomáhající tzv. adiktologické služby mají v souladu s harm reduction zachovávat
 princip víceoborovosti. Pomáhající intervence by se měly zaměřovat významným podílem na kontakt se
-skrytou populací​18​, včasnou detekci a včasnou intervenci. Pomáhající služby nemají být primárně zaměřeny
+skrytou populací <a href="#f18">[18]</a>​, včasnou detekci a včasnou intervenci. Pomáhající služby nemají být primárně zaměřeny
 na dosažení abstinence, ale mají mít širší kontext sociálně-zdravotní pomoci.
 Jednotliví provozovatelé pomáhajících služeb budou motivováni k diferenciaci druhů intervencí. Jednotlivé
 typy péče (především rezidenční) budou hledat jasnější standard spolufinancování uživatelů dané péče; na
@@ -382,7 +382,7 @@ Je nutné vytvořit hodnocení a mechanismus pro případné ukončení nepotře
 potřebují pomoc, nezůstali bez potřebného kontaktu s odborníky. Dále je potřeba vytvořit návrhy modernizace
 dnes již nefunkčních modelů některých typů péče na pomezí zdravotní pomoci a ochrany veřejného pořádku
 
-- viz neúčinný model záchytek​19​. Preventivní strategie musí vzít v potaz dobrou praxi zaměřenou na posunutí
+- viz neúčinný model záchytek <a href="#f19">19</a>. Preventivní strategie musí vzít v potaz dobrou praxi zaměřenou na posunutí
 věku první zkušenosti s návykovými látkami a dalšími doporučeními WHO ve smyslu HR. Vláda vyčlení
 prostředky pro informování veřejnosti o existenci sítě pomoci.
 
@@ -390,14 +390,14 @@ prostředky pro informování veřejnosti o existenci sítě pomoci.
 
 * Národní koordinátor, RVKPP a její sekretariát zaměří část svých kapacit na vytvoření silnější podpory při
 zavádění místních politik. Místní politiky nemohou pouze kopírovat národní strategii, ale na základě vlastních
-údajů, zjištění potřeb z místa musejí nastavit místní priority​20​.
+údajů, zjištění potřeb z místa musejí nastavit místní priority <a href="#f20">[20]</a>.
 Místní politiky by měly hledat možnosti vlastních regulativních opatření formou obecních vyhlášek
 (především v zaměření na omezení dostupnosti legálních drog mladším 18 let, v regulaci hazardu, v regulaci
 fenoménů propojených s užíváním nelegálních látek, jako je sexuální průmysl apod.) a vlastních opatření v
-oblasti pomáhajících a preventivních služeb ve spolupráci se státem​21​ – terénní práce, substituční centra,
+oblasti pomáhajících a preventivních služeb ve spolupráci se státem <a href="#f21">[21]</a>​ – terénní práce, substituční centra,
 aplikační místnosti apod. Samosprávy by měly mít v budoucnu také možnost do určité míry regulovat
 dostupnost a místa konzumace některých v současnosti nelegálních drog, jako je například konopí,
-vzhledem k možným změnám v oblasti mezinárodní kontroly tzv. narkotik.​^22
+vzhledem k možným změnám v oblasti mezinárodní kontroly tzv. narkotik. <a href="#f22">[22]</a>
 * Kompletní dokument k prosazování politiky na úrovni krajů a obcí - viz Příloha II.
 
 ### d) Vztah protidrogové politiky k dalším politikám státu
@@ -407,7 +407,7 @@ věcí (MPSV) v oblasti sociálního začleňování a obrany proti sociálnímu
 existovat velmi úzká spolupráce, protože právě závislostní chování je nejčastější příčinou sociální exkluze a
 naopak.
 * Velmi žádoucí je rovněž úzká spolupráce Ministerstva zdravotnictví (MZ), které připravuje reformu
-psychiatrické péče, protože pacienti s adiktologickými poruchami a dalšími duálním diagnózami​23​ tvoří
+psychiatrické péče, protože pacienti s adiktologickými poruchami a dalšími duálním diagnózami <a href="#f23">[23]</a> tvoří
 podstatnou část pacientů psychiatrických služeb.
 * Nezbytná je mimo jiné spolupráce s Ministerstvem školství, mládeže a tělovýchovy (MŠMT) na realizaci
 Národní strategie prevence rizikového chování dětí a mládeže.
@@ -418,7 +418,7 @@ koordinaci v rámci sledování nadnárodních kriminálních skupin, ale také 
 
 * V mezinárodní oblasti se předpokládá aktivní účast na všech mezinárodních fórech, která jsou součástí
 různých mezinárodních struktur, jejichž členem ČR je. Mezinárodní politika ČR pro oblast návykového chování
-musí být aktivní​24​.
+musí být aktivní <a href="#f24">[24]</a>.
 * Na mezinárodní úrovni je stěžejní vnímat, že drogový problém nekopíruje hranice jednotlivých států; v tomto
 smyslu musí ČR reagovat na několik výzev v rámci mezinárodní situace. Například extrémní situaci v oblasti
 HIV/AIDS a Hepatitidy C a dalších přenosných chorob v rámci bývalého Sovětského svazu, dovoz nových
@@ -457,7 +457,7 @@ vyjednání výhrad či přímo vystoupení ČR, respektive členských zemí EU
 * V rámci OSN je ČR dále signatářem Rámcové úmluvy Světové zdravotnické organizace o kontrole tabáku
 (FCTC) z r. 2003; zde bude ČR hájit politiku moderního přístupu HR a současně se zapojí do sledování a
 implementace dobré praxe z jiných zemí ve smyslu snižování dopadů tabakismu.
-* V rámci EU je ČR aktivní v rámci skupin HDG, COSI, E.M.C.D.D.A., struktury v rámci DG Sante a další​25​. ČR je
+* V rámci EU je ČR aktivní v rámci skupin HDG, COSI, E.M.C.D.D.A., struktury v rámci DG Sante a další <a href="#f25">[25]</a>​. ČR je
 účastna připrav strategií a akčních plánů EU; v rámci svého příštího předsednictví bude ČR prosazovat větší
 propojenost a integraci politik v celém spektru návykového chování. V tomto smyslu připraví ČR pro své
 předsednictví návrh sdílení monitoringu (v rámci rozšíření mandátu EMCDDA) a sdílení pracovních skupin pro
@@ -482,7 +482,7 @@ distribuce daných látek) bude námětem další analýzy a tvorby koordinovan�
 spolupráce s policií sousedních států a celní správou, bude vytvořen také mechanismus spolupráce v oblasti snižování poptávky; je třeba nastavit indikátory hodnocení úspěšnosti aktivit vzhledem ke snižování
 poptávky.
 * Metamfetamin: ČR bude aktivní při tvorbě panevropské sítě v oblasti řešení narůstajícího problému s
-metamfetaminem/pervitinem a naváže tak na opatření drogového akčního plánu EU 2017-2021 <a href="#f26">26</a>. Tato síť by
+metamfetaminem/pervitinem a naváže tak na opatření drogového akčního plánu EU 2017-2021 <a href="#f26">[26]</a>. Tato síť by
 měla posílit vzájemnou spolupráci mezi členskými státy EU a předejít tak zvyšování prevalence rizikového
 užívání, výroby a distribuce metamfetaminu v EU a zabránit vzniku epidemie na úrovni EU. V této souvislosti
 je rovněž důležité pokračovat ve spolupráci policejních složek nejen příhraničních zemí v oblasti prekurzorů k
@@ -505,80 +505,80 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/
 
 ## Poznámky 
 
-<a id="f1">[^1] Principem Harm Reduction je zde myšlen ověřený přístup realistických a úspěšných politik, který přijímá fenomén návykového chování jako něco bytostně propojeného
+<a id="f1">[^1]</a> Principem Harm Reduction je zde myšlen ověřený přístup realistických a úspěšných politik, který přijímá fenomén návykového chování jako něco bytostně propojeného
 s lidskou psychikou. Obor adiktologie (obor zabývající se návykovým chováním) se podle Mezinárodní klasifikace nemocí MKN-10 věnuje diagnózám F10 – F 19.
 Návykové chování se také mnohem více vyskytuje v situacích sociální nestability jedince a také se statisticky významně častěji vyskytuje mezi obyvateli s dalším
 onemocněním v oblasti duševního zdraví či s jinými zdravotními problémy (např. některá neurologická onemocnění apod.).
 
-<a id="f2">[^2] Tyto dopady popsal bývalý vrchní ředitel UNODC A. M. Costa, který zdůraznil, že politika zaměřená pouze na prohibici přináší nechtěné konsekvence, které často
+<a id="f2">[^2]</a> Tyto dopady popsal bývalý vrchní ředitel UNODC A. M. Costa, který zdůraznil, že politika zaměřená pouze na prohibici přináší nechtěné konsekvence, které často
 převyšují zamýšlený preventivní efekt.
 
-<a id="f3">[^3] ČR je 11. země EU, která od roku 2014 řeší v rámci jedné strategie drogy legální, nelegální i oblast hazardního hraní.
+<a id="f3">[^3]</a> ČR je 11. země EU, která od roku 2014 řeší v rámci jedné strategie drogy legální, nelegální i oblast hazardního hraní.
 
-<a id="f4">[^4] Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
+<a id="f4">[^4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
 
-<a id="f5">[^5] Jedná se o celou řadu témat – dostupnost základní léčby pro osoby diagnostikované na škále F10 – F19, princip minimalizace škod a rizik, ale také jednoznačné
+<a id="f5">[^5]</a> Jedná se o celou řadu témat – dostupnost základní léčby pro osoby diagnostikované na škále F10 – F19, princip minimalizace škod a rizik, ale také jednoznačné
 vystupování proti trestu smrti za drogové delikty (dle konsenzu a jasných opakovaných vyjádření všech členských států EU) a mnohé další.
 
-<a id="f6">[^6] ​Monitoring zahrnuje údaje o všech typech návykových látek a hazardu. Vláda případně zadá analýzy a sledování dalších ukazatelů z oblasti návykového chování, jako
+<a id="f6">[^6]</a> ​Monitoring zahrnuje údaje o všech typech návykových látek a hazardu. Vláda případně zadá analýzy a sledování dalších ukazatelů z oblasti návykového chování, jako
 je fenomén nových technologií a sociálních sítí nebo otázky vývoje a elasticity trhu vzhledem k černému trhu a spotřebním daním nebo daním z hazardu. Podobně může
 vláda zadat analýzy a sledování případných nových komodit na trhu, jako jsou nové nikotinové a tabákové výrobky nebo například konopí a podobné produkty.
 
-<a id="f7">[^7] Státní správa, samosprávy, odborné spole​č​nosti, školní a jiná edukativní za​ř​ízení, policie a soudy, celní správa a dal​š​í výkonné slo​ž​ky.
+<a id="f7">[^7]</a> Státní správa, samosprávy, odborné spole​č​nosti, školní a jiná edukativní za​ř​ízení, policie a soudy, celní správa a dal​š​í výkonné slo​ž​ky.
 
-<a id="f8">[^8] Úřad vlády České republiky (2013). ​ _Tichá revoluce - dekriminalizace drog​_. ISBN 978-80-7440-083-4. Dostupné z: ​https://mrak.pirati.cz/s/qZStN9YKnfLQ9Xb
+<a id="f8">[^8]</a> Úřad vlády České republiky (2013). ​ _Tichá revoluce - dekriminalizace drog​_. ISBN 978-80-7440-083-4. Dostupné z: ​https://mrak.pirati.cz/s/qZStN9YKnfLQ9Xb
 
-<a id="f9">[^9] Globální komise pro protidrogovou politiku (2013). ​ _Válka proti drogám​_. ISBN 978-80-7440-082-7. Dostupné z: ​https://mrak.pirati.cz/s/dHYEtkRBgj9ft7o
+<a id="f9">[^9]</a> Globální komise pro protidrogovou politiku (2013). ​ _Válka proti drogám​_. ISBN 978-80-7440-082-7. Dostupné z: ​https://mrak.pirati.cz/s/dHYEtkRBgj9ft7o
 
-<a id="f10">[^10] Ekonomové napříč spektrem se shodnou, že v době konjunktury je třeba snižovat daně přímé, jako jsou daně ze zisku a daně zaměstnanců a zároveň zvyšovat
+<a id="f10">[^10]</a> Ekonomové napříč spektrem se shodnou, že v době konjunktury je třeba snižovat daně přímé, jako jsou daně ze zisku a daně zaměstnanců a zároveň zvyšovat
 daně nepřímé, jako jsou například daně spotřební.
 
-<a id="f11">[^11] Tabák je 8 % všech daňových příjmů ČR. Mezinárodní organizace, včetně studií zadaných EK, upozorňují na vliv tabákového průmyslu na českou legislativu,
+<a id="f11">[^11]</a> Tabák je 8 % všech daňových příjmů ČR. Mezinárodní organizace, včetně studií zadaných EK, upozorňují na vliv tabákového průmyslu na českou legislativu,
 daňový systém a další oblasti potřebného vlivu.
 
-<a id="f12">[^12] Transparency International (2020). ​ _Clearing the smokescreen: The deadly consequences of undue influence​_. [online, citováno 2-12-2020] Dostupné z:
+<a id="f12">[^12]</a> Transparency International (2020). ​ _Clearing the smokescreen: The deadly consequences of undue influence​_. [online, citováno 2-12-2020] Dostupné z:
 https://www.transparency.org/en/news/tobacco-smokescreen-deadly-consequences-of-undue-influence#
 
-<a id="f13">[^13] Logan, Diane E. (2010). ​ _Harm Reduction Therapy: A Practice-Friendly Review of Research​_. J Clin Psychol. 2010 Feb; 66(2): 201–214. Dostupné z:
+<a id="f13">[^13]</a> Logan, Diane E. (2010). ​ _Harm Reduction Therapy: A Practice-Friendly Review of Research​_. J Clin Psychol. 2010 Feb; 66(2): 201–214. Dostupné z:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928290/
 
-<a id="f14">[^14] ​Fischer, Benedikt et al. (2007). ​ _Heroin-assisted Treatment (HAT) a Decade Later: A Brief Update on Science and Politics​_. J Urban Health. 2007 Jul; 84(4):
+<a id="f14">[^14]</a> ​Fischer, Benedikt et al. (2007). ​ _Heroin-assisted Treatment (HAT) a Decade Later: A Brief Update on Science and Politics​_. J Urban Health. 2007 Jul; 84(4):
 552–562. Dostupné z: ​https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/^
 
-<a id="f15">[^15] Odhadovaná částka na diagnózy F10 – F19 se pohybuje okolo 1,5 miliard ročně, z čehož pouze 200 – 300 mil Kč se týká specifických a tím účinnějších
+<a id="f15">[^15]</a> Odhadovaná částka na diagnózy F10 – F19 se pohybuje okolo 1,5 miliard ročně, z čehož pouze 200 – 300 mil Kč se týká specifických a tím účinnějších
 zdravotních intervencí.
 
-<a id="f16">[^16] Nestátní neziskové organizace.
+<a id="f16">[^16]</a> Nestátní neziskové organizace.
 
-<a id="f17">[^17] Nyní je název této zprávy „Výroční zpráva o stavu ve věcech drog“ a „Výroční zpráva o hazardním hraní“.
+<a id="f17">[^17]</a> Nyní je název této zprávy „Výroční zpráva o stavu ve věcech drog“ a „Výroční zpráva o hazardním hraní“.
 
-<a id="f18">[^18] Skrytá populace: termín používaný pro uživatele drog, kteří nejsou v kontaktu s existujícími zdravotními, zdravotně-sociálními a sociálními službami.
+<a id="f18">[^18]</a> Skrytá populace: termín používaný pro uživatele drog, kteří nejsou v kontaktu s existujícími zdravotními, zdravotně-sociálními a sociálními službami.
 
-<a id="f19"></a>[^19] Model záchytek tak, jak je nastavený v ČR, již nefunguje nikde na světě. Ve většině rozvinutých zemí jsou spíše obecní šatlavy a v případě rizika ohrožení zdraví
+<a id="f19">[^19]</a> Model záchytek tak, jak je nastavený v ČR, již nefunguje nikde na světě. Ve většině rozvinutých zemí jsou spíše obecní šatlavy a v případě rizika ohrožení zdraví
 jednotlivce je taková šatlava a její personál (např. městská policie) napojen na nejbližší odborné pracoviště. Zabránilo by se dlouhým převozům a občasným
 úmrtím před dovozem na místo, stejně jako zbytečným výdajům z krajských rozpočtů. 
 
-<a id="f25"></a>[^20] Větší města v ČR by se měla zaměřit na vlastní specifika (např. jiná situace existuje v Praze, na Vysočině a na jižní Moravě).
+<a id="f25">[^20]</a> Větší města v ČR by se měla zaměřit na vlastní specifika (např. jiná situace existuje v Praze, na Vysočině a na jižní Moravě).
 
-<a id="f21"></a>[^21] Státní prostředky by měly být nastaveny na systém spolupráce s místními potřebami
+<a id="f21">[^21]</a> Státní prostředky by měly být nastaveny na systém spolupráce s místními potřebami
 
-<a id="f22"></a>[^22] Obec by si měla mít možnost určit, kde případně povolí prodej konopí a jeho konzumaci, kde mohou vzniknout zamýšlené tzv. cannabis-clubs apod.
+<a id="f22">[^22]</a> Obec by si měla mít možnost určit, kde případně povolí prodej konopí a jeho konzumaci, kde mohou vzniknout zamýšlené tzv. cannabis-clubs apod.
 
-<a id="f23"></a>[^23] Pojem duální diagnóza označuje stav, kdy má klient diagnostikované psychiatrické onemocnění a souběžně závislost na alkoholových a nealkoholových
+<a id="f23">[^23]</a> Pojem duální diagnóza označuje stav, kdy má klient diagnostikované psychiatrické onemocnění a souběžně závislost na alkoholových a nealkoholových
 drogách, případně patologické hráčství.
 
-<a id="f24"></a>[^24] ČR je především v oblasti nelegálních drog vnímaná jako průkopník alternativních a humánních přístupů. V tomto smyslu j třeba připomenout nejnižší míru úmrtí
+<a id="f24">[^24]</a> ČR je především v oblasti nelegálních drog vnímaná jako průkopník alternativních a humánních přístupů. V tomto smyslu j třeba připomenout nejnižší míru úmrtí
 na předávkování u nelegálních drog ve světovém měřítku, nejnižší míru (díky účinné prevenci) v oblasti přenosných chorob mezi nitrožilními uživateli drog (méně
 než  1  % HIV/AIDS) a nízkou míru problémového užívání drog. Díky těmto důvodům je Národní koordinátor přizýván ke konzultacím a předávání know how různými
 významnými institucemi i jednotlivými vládami (Východní Evropa, ale i západní Evropa, Latinská Amerika, Jihovýchodní Asie, univerzitní a vědecká obec,
 významné nadnárodní networky i NNO apod.) V tomto smyslu například Latinská Amerika považuje ČR jako velice důležitého spojence a je nutné na tento
 diplomatický přesah s obratností navázat​.
 
-<a id="f25"></a>[^25] HDG (Horizontal Working Party on Drugs): Horizontální pracovní skupina pro drogy Evropské komise. COSI (The Internal Security Commitee): Stálý výbor pro
+<a id="f25">[^25]</a> HDG (Horizontal Working Party on Drugs): Horizontální pracovní skupina pro drogy Evropské komise. COSI (The Internal Security Commitee): Stálý výbor pro
 operativní spolupráci v oblasti vnitřní bezpečnosti Rady Evropské unie. EMCDDA (European Monitoring Center for Drugs and Drug Addiction): Evropské
 monitorovací středisko pro drogy a závislosti. DG Sanco: Generální ředitelství pro zdraví a bezpečnost potravin Evropské komise.
 
-<a id="f26"></a>[^26] Opatření 29b: „Posílit spolupráci zaměřenou na potírání narůstajícího trendu závislosti na stimulantech, zejména metamfetaminu, mezi příslušnými vládními
+<a id="f26">[^26]</a> Opatření 29b: „Posílit spolupráci zaměřenou na potírání narůstajícího trendu závislosti na stimulantech, zejména metamfetaminu, mezi příslušnými vládními
 orgány a nevládními organizacemi, se zaměřením na vytváření a sdílení osvědčených postupů k předcházení šíření místních epidemií, včetně úsilí o snížení
 poptávky a nabídky a sdílení informací o prevenci zneužívání léčivých přípravků pro výrobu metamfetaminu“
 
