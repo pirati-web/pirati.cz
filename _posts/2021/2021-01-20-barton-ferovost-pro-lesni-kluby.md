@@ -5,7 +5,7 @@ tags:         koronavirus vzdělávání
 layout:       post
 title:        "Komentář Lukáše Bartoně: Piráti chtějí pro lesní kluby stejná protiepidemiologická pravidla jako pro mateřské školy"
 image:        /assets/img/articles/2021/lukas-barton00.jpg
-author:       
+author:       Lukáš Bartoň
 ---
  
  
