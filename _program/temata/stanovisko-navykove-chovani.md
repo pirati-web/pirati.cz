@@ -202,7 +202,7 @@ Naše politika prevence vzniku rizikového návykového chování a snižování
 
 *  Je třeba chránit spotřebitele umožněním vzniku trhu s psychotropními látkami, který bude racionálně regulován, kontrolován a řádně daněn. V oblasti léčebného užití psychotropních látek je třeba zabránit možným korupčním snahám farmaceutické lobby. Pro minimalizaci dopadů je nutné přejít důsledně na přístup HR <a href="#f13">[13]</a> a na kontrolované lékařské podávání některých drog (například heroinu či metamfetaminu) závislým po vzoru jiných zemí (Velká Británie, Švýcarsko) <a href="#f14">[14]</a>​ tak, aby byl z procesu odstraněn dealer i nelegální výrobce. Měla by být diskutována také regulovaná legalizace dalších nelegálních látek. Pirátská strana bude iniciovat vládní studie a debatu napříč odbornými komunitami (zdravotně sociálními, bezpečnostními, ekonomickými či s justicí) o jejich případné přísně kontrolované dostupnosti. Prohibice v daném smyslu neplní svůj účel a vytváří zcela korupční prostředí.
 
-**Pro oblast legislativy:​ **
+**Pro oblast legislativy:**
 
 * Veškeré návrhy týkající se závislostí musí procházet přes poradní orgán vlády - Radu vlády pro koordinaci protidrogové politiky - a jeho další podřízené orgány, a to už ve fázi tvorby věcného záměru. Jen takto mohou být pod co největší odbornou kontrolou; tím lze omezit výskyt korupčně ovlivněných zákonů a jejich částí. 
 
