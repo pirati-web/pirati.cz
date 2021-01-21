@@ -13,25 +13,19 @@ author:
 
 
 
-## Úvod do problematiky
 
 
-Závislost na návykových látkách či hazardu ovlivňuje negativně život nejen daného člověka, ale i jeho rodiny, blízkého okolí a mívá záporné dopady na celou společnost. Je proto žádoucí takovým jevům v maximální možné míře předcházet, o což se Piráti budou zasazovat. Aby bylo možné uspět, je nutné zvolit realistický přístup stojící na ověřených datech, dobré praxi, nejnovějších expertních poznatcích a efektivním zapojení celé řady odborníků ze všech různých oblastí - sociální, zdravotní nebo
-školské. Zásadní je vybalancovat regulaci dostupnosti návykových látek s vhodně zacílenou nabídkou prevence a léčby. Vědecké studie ukazují, že má určité procento obyvatel sklon k problémovému návykovému chování. Ani extrémně přísná omezení tak nemohou přinést stoprocentní výsledek, naopak (nejznámějším příkladem je neúspēšná
-prohibice alkoholu v 20. letech minulého století v USA). Představa „společnosti bez drog“, kterou slibují populisté, je tedy nerealistická. To ale neznamená, že není možné výrazně snížit ve společnosti výskyt rizikového návykového chování a omezit jeho možné škody. Je ale třeba zvolit efektivní dobře ověřený přístup.
+**Úvod do problematiky**
+
+
+Závislost na návykových látkách či hazardu ovlivňuje negativně život nejen daného člověka, ale i jeho rodiny, blízkého okolí a mívá záporné dopady na celou společnost. Je proto žádoucí takovým jevům v maximální možné míře předcházet, o což se Piráti budou zasazovat. Aby bylo možné uspět, je nutné zvolit realistický přístup stojící na ověřených datech, dobré praxi, nejnovějších expertních poznatcích a efektivním zapojení celé řady odborníků ze všech různých oblastí - sociální, zdravotní nebo školské. Zásadní je vybalancovat regulaci dostupnosti návykových látek s vhodně zacílenou nabídkou prevence a léčby. Vědecké studie ukazují, že má určité procento obyvatel sklon k problémovému návykovému chování. Ani extrémně přísná omezení tak nemohou přinést stoprocentní výsledek, naopak (nejznámějším příkladem je neúspēšná prohibice alkoholu v 20. letech minulého století v USA). Představa „společnosti bez drog“, kterou slibují populisté, je tedy nerealistická. To ale neznamená, že není možné výrazně snížit ve společnosti výskyt rizikového návykového chování a omezit jeho možné škody. Je ale třeba zvolit efektivní dobře ověřený přístup. 
 
 
 
 **Jak by měl efektivní přístup vypadat?​** 
 
 
-Politika prevence vzniku rizikového návykového chování a snižování škod s
-ním spojených (dále jen „politika“) musí být postavena na vědecky ověřeném, vyváženém a realistickém konceptu
-prevence rizik a minimalizace škod (tj. princip harm reduction <a href="#f1">[1]</a>​ - HR). Primárně jde o to, snížit riziko rozvoje
-rizikového návykového chování, a v případě, že k němu dojde, přistoupit ke zprostředkování realistických zásahů
-zaměřených na komplexní pomoc danému člověku a minimalizaci škod. Směřování k abstinenci má být součástí
-nabídky, nikoliv jediným, ani hlavním cílem. V některých případech totiž nemusí být možné jí dosáhnout a přílišný tlak
-tímto směrem pouze závislého člověka odrazuje od snahy s problémem pracovat a dostat ho účinněji pod kontrolu.
+Politika prevence vzniku rizikového návykového chování a snižování škod s ním spojených (dále jen „politika“) musí být postavena na vědecky ověřeném, vyváženém a realistickém konceptu prevence rizik a minimalizace škod (tj. princip harm reduction <a href="#f1">[1]</a>​ - HR). Primárně jde o to, snížit riziko rozvoje rizikového návykového chování, a v případě, že k němu dojde, přistoupit ke zprostředkování realistických zásahů zaměřených na komplexní pomoc danému člověku a minimalizaci škod. Směřování k abstinenci má být součástí nabídky, nikoliv jediným, ani hlavním cílem. V některých případech totiž nemusí být možné jí dosáhnout a přílišný tlak tímto směrem pouze závislého člověka odrazuje od snahy s problémem pracovat a dostat ho účinněji pod kontrolu. 
 
 
 
@@ -50,161 +44,99 @@ tímto směrem pouze závislého člověka odrazuje od snahy s problémem pracov
 
 
 
-Za nejúčinnější politiku je považován tzv. vyvážený přístup. Ten předpokládá rovnováhu mezi regulací a
-preventivně-léčebnými nabídkami. Volný trh bez regulací i přílišná represe či přehnaná regulace přináší nechtěně
-zhoršení situace v podobě negativních dopadů v oblasti zdraví, veřejných rozpočtů<a href="#f2">[2]</a>​ či bezpečnostních rizik.
-Finanční prostředky, legislativu i konkrétní intervence je přitom třeba směřovat spíše na občany, u kterých více hrozí
-rozvoj rizikového návykového chování, na včasnou detekci problému a na včasné intervence. Obecná prevence se
-podle dosavadních zkušeností často míjí účinkem, jak jsme již zmínili výše.
+Za nejúčinnější politiku je považován tzv. vyvážený přístup. Ten předpokládá rovnováhu mezi regulací a preventivně-léčebnými nabídkami. Volný trh bez regulací i přílišná represe či přehnaná regulace přináší nechtěně zhoršení situace v podobě negativních dopadů v oblasti zdraví, veřejných rozpočtů<a href="#f2">[2]</a>​ či bezpečnostních rizik. Finanční prostředky, legislativu i konkrétní intervence je přitom třeba směřovat spíše na občany, u kterých více hrozí rozvoj rizikového návykového chování, na včasnou detekci problému a na včasné intervence. Obecná prevence se podle dosavadních zkušeností často míjí účinkem, jak jsme již zmínili výše. 
 
 
-Účinným moderním přístupem v politice návykového chování je tzv. integrovaná<a href="#f3">[3]</a> ​politika. Tento přístup vnímá
-propojenost a neoddělitelnost užívání různých typů návykových látek, ať již legálních či nelegálních, s nelátkovými
-závislostmi typu patologické hraní, a jejich vzájemné ovlivňování. Zároveň reflektuje i další související oblasti jako
-například zneužívání léčiv, návykové chování v prostředí nových technologií, sociálních sítí apod.
+Účinným moderním přístupem v politice návykového chování je tzv. integrovaná<a href="#f3">[3]</a> ​politika. Tento přístup vnímá propojenost a neoddělitelnost užívání různých typů návykových látek, ať již legálních či nelegálních, s nelátkovými závislostmi typu patologické hraní, a jejich vzájemné ovlivňování. Zároveň reflektuje i další související oblasti jako například zneužívání léčiv, návykové chování v prostředí nových technologií, sociálních sítí apod.
 
 
-Fenomén návykového chování zasahuje do oblasti sociální, ekonomické, zdravotní i bezpečnostní; nezbytnou
-součástí politiky musí být provázanost těchto oblastí. Je nezbytné, aby vláda disponovala dlouhodobou strategií
-dotýkající se všech relevantních resortů a sektorů. Politika prevence vzniku rizikového návykového chování a
-snižování škod s ním spojených musí být řízena koordinovaně a vláda (pokud bude mít zastoupení Pirátské strany) jí
-bude věnovat pozornost na nejvyšší možné úrovni.<a href="#f4">[4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře.
-Pro účinnou koordinaci je stěžejní podpora a rozvoj co nejvyšší angažovanosti samospráv, bez kterých není možné
-vytvářet komunitní spolupráci. Samosprávy jsou nezbytným koordinačním místem při vytváření sítě pomoci a
-zjišťování potřeb pro komunitní rozvoj.
+Fenomén návykového chování zasahuje do oblasti sociální, ekonomické, zdravotní i bezpečnostní; nezbytnou součástí politiky musí být provázanost těchto oblastí. Je nezbytné, aby vláda disponovala dlouhodobou strategií dotýkající se všech relevantních resortů a sektorů. Politika prevence vzniku rizikového návykového chování a snižování škod s ním spojených musí být řízena koordinovaně a vláda (pokud bude mít zastoupení Pirátské strany) jí bude věnovat pozornost na nejvyšší možné úrovni.<a href="#f4">[4]</a> Předpokládá se pozornost politická i úřednická v její nejvyšší míře. Pro účinnou koordinaci je stěžejní podpora a rozvoj co nejvyšší angažovanosti samospráv, bez kterých není možné vytvářet komunitní spolupráci. Samosprávy jsou nezbytným koordinačním místem při vytváření sítě pomoci a zjišťování potřeb pro komunitní rozvoj. 
 
 
-Dále je třeba reflektovat, že oblast návykového chování nerespektuje státní hranice. Je tedy nezbytné být aktivním
-účastníkem na mezinárodní scéně <a href="#f5">[5]</a> a prosazovat zde všechny výše uvedené principy. Pirátská strana bude usilovat o
-racionální liberalizaci tzv. drogových politik ve smyslu revize Jednotné Úmluvy o omamných látkách z roku 1961.
-Na úrovni EU bude Pirátská strana prosazovat výše zmíněné principy tzv. harm reduction jak v EU strategiích,
-směrnicích, tak v akčních plánech. Zároveň je potřeba modernizovat přístupy vzhledem k integraci politik i na
-praktické úrovni jednotlivých generálních ředitelství Evropské komise (tzv. DG – Directorate General), vydefinovat
-rozpočty z úrovně EU grantů a tendrů a rozšířit mandát Evropského monitorovacího střediska pro drogy a drogové
-závislosti (EMCDDA ) pro oblasti monitoringu celé problematiky návykového chování.
+Dále je třeba reflektovat, že oblast návykového chování nerespektuje státní hranice. Je tedy nezbytné být aktivním účastníkem na mezinárodní scéně <a href="#f5">[5]</a> a prosazovat zde všechny výše uvedené principy. Pirátská strana bude usilovat o racionální liberalizaci tzv. drogových politik ve smyslu revize Jednotné Úmluvy o omamných látkách z roku 1961. Na úrovni EU bude Pirátská strana prosazovat výše zmíněné principy tzv. harm reduction jak v EU strategiích, směrnicích, tak v akčních plánech. Zároveň je potřeba modernizovat přístupy vzhledem k integraci politik i na praktické úrovni jednotlivých generálních ředitelství Evropské komise (tzv. DG – Directorate General), vydefinovat rozpočty z úrovně EU grantů a tendrů a rozšířit mandát Evropského monitorovacího střediska pro drogy a drogové závislosti (EMCDDA ) pro oblasti monitoringu celé problematiky návykového chování.
 
 
 **Závěrem lze shrnout, že Pirátská strana prosazuje tzv. evidence-based přístup, tedy přístup založený na vědeckých důkazech​**. 
 
 
-Naše politika prevence vzniku rizikového návykového chování a snižování škod s ním spojených bude
-postavena na monitoringu <a href="#f6">[6]</a>, faktech a příkladech dobré praxe na straně jedné a na kompetenci vykonávajících aktérů
-napříč jednotlivými sektory <a href="#f7">[7]</a>​ na straně druhé. Bude vycházet z jasné analýzy monitorovaných dat a hledat optimální
-řešení vyváženého přístupu mezi regulačními opatřeními a nabídkou prevence a léčby. Na základě důkazů pak
-vytvoříme návrh státního rozpočtu pro danou oblast ve spolupráci se samosprávami a systémy zdravotního i
-sociálního pojištění.
+Naše politika prevence vzniku rizikového návykového chování a snižování škod s ním spojených bude postavena na monitoringu <a href="#f6">[6]</a>, faktech a příkladech dobré praxe na straně jedné a na kompetenci vykonávajících aktérů napříč jednotlivými sektory <a href="#f7">[7]</a>​ na straně druhé. Bude vycházet z jasné analýzy monitorovaných dat a hledat optimální řešení vyváženého přístupu mezi regulačními opatřeními a nabídkou prevence a léčby. Na základě důkazů pak vytvoříme návrh státního rozpočtu pro danou oblast ve spolupráci se samosprávami a systémy zdravotního i sociálního pojištění.
+
+
+
+
 
 
 
 ## 1. ​Legislativa
 
 
+
 ### a) Problémy současného rámce
 
-* Ilegalita některých psychotropních látek nevyhnutelně způsobuje sníženou efektivitu snah o racionální
-prevenci a snižování rizik v oblasti návykového chování, připravuje stát o nemalé prostředky, jež by bylo
-možno na prevenci a snižování rizik vynaložit, a v neposlední řadě umožňuje prosperitu černého trhu.
+* Ilegalita některých psychotropních látek nevyhnutelně způsobuje sníženou efektivitu snah o racionální prevenci a snižování rizik v oblasti návykového chování, připravuje stát o nemalé prostředky, jež by byly možno na prevenci a snižování rizik vynaložit, a v neposlední řadě umožňuje prosperitu černého trhu.
 
-* Pomáhající služby v oblasti návykového chování, jinak nazývané také adiktologické služby, mají vždy
-zdravotně-sociální charakter. Současná legislativa je však striktně rozděluje na služby zdravotní a služby
-sociální - chybí legislativní ukotvení oblasti sociálně-zdravotního pomezí.
+* Pomáhající služby v oblasti návykového chování, jinak nazývané také adiktologické služby, mají vždy zdravotně-sociální charakter. Současná legislativa je však striktně rozděluje na služby zdravotní a služby sociální - chybí legislativní ukotvení oblasti sociálně-zdravotního pomezí.
 
-* Současná síť pomáhajících služeb je zaměřena prioritně na uživatele nelegálních drog a péče v oblasti
-alkoholu, tabáku a návykového chování obecně není dostatečně zajištěna. Nevyhovující je rovněž struktura
-sítě služeb, chybí ambulantní a zejména nízkoprahová péče v oblasti alkoholu. Chybí ucelená definice
-základní sítě adiktologických služeb a její ukotvení v legislativě.
+* Současná síť pomáhajících služeb je zaměřena prioritně na uživatele nelegálních drog a péče v oblasti alkoholu, tabáku a návykového chování obecně není dostatečně zajištěna. Nevyhovující je rovněž struktura sítě služeb, chybí ambulantní a zejména nízkoprahová péče v oblasti alkoholu. Chybí ucelená definice základní sítě adiktologických služeb a její ukotvení v legislativě.
 
-* Navzdory stejné legislativě jednotlivé kraje přistupují odlišně k vytváření krajských sítí adiktologických služeb
-a jejich financování. Celý proces je navíc nesmírně administrativně náročný a nedostatečně reflektuje
-skutečné potřeby klientů a rovněž neumožňuje vznik nových typů služeb - chybí legislativní řešení jednotného
-a transparentního víceletého financování adiktologických služeb. Je tedy nutné nalézt jasný finanční
-mechanismus a tento typ péče přestat financovat primárně dotačně. Zároveň je nutné více nasměrovat
-současné zdroje ze zdravotního pojištění do specializovaných typů zdravotní péče.
+* Navzdory stejné legislativě jednotlivé kraje přistupují odlišně k vytváření krajských sítí adiktologických služeb a jejich financování. Celý proces je navíc nesmírně administrativně náročný a nedostatečně reflektuje skutečné potřeby klientů a rovněž neumožňuje vznik nových typů služeb - chybí legislativní řešení jednotného a transparentního víceletého financování adiktologických služeb. Je tedy nutné nalézt jasný finanční mechanismus a tento typ péče přestat financovat primárně dotačně. Zároveň je nutné více nasměrovat současné zdroje ze zdravotního pojištění do specializovaných typů zdravotní péče. 
 
-* Současný daňový systém včetně tzv. daňového balíčku dostatečně nereflektuje - například odstupňováním
-daňové sazby - společenskou nebezpečnost jednotlivých komodit (alkohol, tabák, hazard).
+* Současný daňový systém včetně tzv. daňového balíčku dostatečně nereflektuje - například odstupňováním daňové sazby - společenskou nebezpečnost jednotlivých komodit (alkohol, tabák, hazard).
 
-* Legislativní nastavení zákonné regulace reklamy podceňuje nebezpečí, které představují alkoholické nápoje
-zejména pro mladou generaci, a přispívá tak k všeobecnému přijímání alkoholu jako běžné součásti
-každodenního života. To je třeba změnit.
+* Legislativní nastavení zákonné regulace reklamy podceňuje nebezpečí, které představují alkoholické nápoje zejména pro mladou generaci, a přispívá tak k všeobecnému přijímání alkoholu jako běžné součásti každodenního života. To je třeba změnit.
 
 
 ### b) Jaké změny Piráti navrhují
 
 
-* Nezbytné jsou kroky směřující k regulované legalizaci doposud nelegálních návykových látek <a href="#f8">[8]</a>​. Současný stav
-totiž umožňuje kontinuální vzkvétání černého trhu a znemožňuje poskytování účinné pomoci těm, kteří to
-nejvíce potřebují <a href="#f9">[9]</a>​.
+* Nezbytné jsou kroky směřující k regulované legalizaci doposud nelegálních návykových látek <a href="#f8">[8]</a>​. Současný stav totiž umožňuje kontinuální vzkvétání černého trhu a znemožňuje poskytování účinné pomoci těm, kteří to nejvíce potřebují <a href="#f9">[9]</a>​.
 
-* Chceme rekodifikaci daňových zákonů tak, aby reflektovaly skutečnou společenskou nebezpečnost
-jednotlivých komodit a jednotlivých typů hazardních her.
+* Chceme rekodifikaci daňových zákonů tak, aby reflektovaly skutečnou společenskou nebezpečnost jednotlivých komodit a jednotlivých typů hazardních her.
 
-* Je třeba otevřít diskuzi o sjednocení daně na alkohol, protože v současností má například tiché víno nulovou
-daň, ale sudové pivo 10% DPH. Je také otázkou, jak vysoká by měla být sazba třeba ve srovnání s léčivy,
-která mají aktuálně také 10 %. Pirátská strana bude iniciovat debatu a navrhovat možná řešení - variantou
-může být daň z gramu alkoholu v jednotlivých nápojích, čímž by došlo ke sjednocení spotřebních daní na
-alkohol.
+* Je třeba otevřít diskuzi o sjednocení daně na alkohol, protože v současností má například tiché víno nulovou daň, ale sudové pivo 10% DPH. Je také otázkou, jak vysoká by měla být sazba třeba ve srovnání s léčivy, která mají aktuálně také 10 %. Pirátská strana bude iniciovat debatu a navrhovat možná řešení - variantou může být daň z gramu alkoholu v jednotlivých nápojích, čímž by došlo ke sjednocení spotřebních daní na alkohol.
 
-* Součástí úpravy daňového systému má být zavedení možnosti účelového určení daňových výnosů
-pocházejících ze zdanění návykových látek, hazardu atp. Tyto výnosy by měly být přednostně určeny pro
-financování aktivit v oblasti prevence rizikového návykového chování a snižování škod s ním spojených.
 
-* V oblasti hazardu je nutné provést revizi hazardního zákona a dělat jeho pravidelnou evaluaci ve smyslu
-nových trendů (například nárůst on-line hraní) a současných dopadů. Monitoring dopadů obsahuje
-každoroční výroční zpráva Národního monitorovacího střediska, která je schvalována vládou ČR.
+* Součástí úpravy daňového systému má být zavedení možnosti účelového určení daňových výnosů pocházejících ze zdanění návykových látek, hazardu atp. Tyto výnosy by měly být přednostně určeny profinancování aktivit v oblasti prevence rizikového návykového chování a snižování škod s ním spojených.
 
-* V zájmu ochrany zdraví, bezpečnosti a veřejného pořádku je třeba více podporovat tzv. harm reduction
-programy. Tedy například ​posilovat a rozšiřovat možnosti využití substitučních preparátů (jedná se o lék
-předepsaný lékařem, který má v organismu podobné účinky jako původní užívaná návyková látka, ale bez
-řady zdravotních rizik, stejně tak substituční terapie snižuje riziko kriminality)​. ​Je potřeba se také zasadit o
-existenci tzv. aplikačních místností, které přispívají ​ke snižování nežádoucích následků užívání návykových
-látek a omezují jejich aplikaci na veřejných místech​.
+* V oblasti hazardu je nutné provést revizi hazardního zákona a dělat jeho pravidelnou evaluaci ve smyslu nových  rendů (například nárůst on-line hraní) a současných dopadů. Monitoring dopadů obsahuje každoroční výroční zpráva Národního monitorovacího střediska, která je schvalována vládou ČR. 
 
-* Připravíme legislativní definici zdravotně sociální služby, ideálně v samostatném zákoně o finančním
-mechanismu (například Agentura pro oblast prevence závislostí po vzoru britské National treatmemt
-agency), či doplněním Zákona 65/2017 Sb. o ochraně zdraví před škodlivými účinky návykových látek. S tím
-upravíme související legislativní definice typologie adiktologických služeb a stanovíme optimální sítě služeb
-včetně financování.
+* V zájmu ochrany zdraví, bezpečnosti a veřejného pořádku je třeba více podporovat tzv. harm reduction programy. Tedy například ​posilovat a rozšiřovat možnosti využití substitučních preparátů (jedná se o lék předepsaný lékařem, který má v organismu podobné účinky jako původní užívaná návyková látka, ale bez řady zdravotních rizik, stejně tak substituční terapie snižuje riziko kriminality)​. ​Je potřeba se také zasadit o existenci tzv. aplikačních místností, které přispívají ​ke snižování nežádoucích následků užívání návykových látek a omezují jejich aplikaci na veřejných místech​. 
+
+* Připravíme legislativní definici zdravotně sociální služby, ideálně v samostatném zákoně o finančním mechanismu (například Agentura pro oblast prevence závislostí po vzoru britské National treatmemt agency), či doplněním Zákona 65/2017 Sb. o ochraně zdraví před škodlivými účinky návykových látek. S tím upravíme související legislativní definice typologie adiktologických služeb a stanovíme optimální sítě služeb včetně financování. 
 
 * Pirátská strana se v oblasti reklamy na alkohol bude zasazovat o rozumnou změnu zákona o reklamě, která by lépe reflektovala rizika alkoholu ve vztahu k dospělým i nezletilým. V oblasti tabáku naopak v rámci HR přístupu spíše navrhujeme uvolnění reklamy na alternativy užívání nikotinu/tabáku.
 
+
 ### c) Lidská práva
 
-* Pirátská politika ve vztahu k rizikovému návykovému chování a jeho prevenci bere zřetel jak na zdraví
-jednotlivců, tak na jejich základní práva a svobody. V kontextu povinného veřejného zdravotního i sociálního
-pojištění je navíc nutné brát v potaz i dopady na veřejné rozpočty. V tomto smyslu musí politika citlivě
-vyvažovat potřebné preventivní regulace a svobodu jednotlivců - dodržování základních lidských práv.
 
-* Pirátská strana bude citlivě hledat způsoby regulace dostupnosti alkoholu, tabáku, hazardu a dalších
-návykových látek tak, aby byli chráněni především lidé mladší 18 let.
+* Pirátská politika ve vztahu k rizikovému návykovému chování a jeho prevenci bere zřetel jak na zdraví jednotlivců, tak na jejich základní práva a svobody. V kontextu povinného veřejného zdravotního i sociálního pojištění je navíc nutné brát v potaz i dopady na veřejné rozpočty. V tomto smyslu musí politika citlivě vyvažovat potřebné preventivní regulace a svobodu jednotlivců - dodržování základních lidských práv. 
 
-* Pozornost bude věnována i specifickým cílovým skupinám: gender problematika (ženy – uživatelky drog),
-stárnoucí uživatelé návykových látek, etnické menšiny, vězněné osoby.
+* Pirátská strana bude citlivě hledat způsoby regulace dostupnosti alkoholu, tabáku, hazardu a dalších návykových látek tak, aby byli chráněni především lidé mladší 18 let.
+
+* Pozornost bude věnována i specifickým cílovým skupinám: gender problematika (ženy – uživatelky drog), stárnoucí uživatelé návykových látek, etnické menšiny, vězněné osoby.
+
+
+
+
+
 
 ## ​ 2. ​Specifické okruhy
 
+
 ### a) Bezpečnostní problematika
 
-* Represivní a regulatorní aspekt má být nejzazším řešením nejen v právním, ale i faktickém smyslu. Paušální
-kriminalizace jedince vykazujícího znaky rizikového návykového chování je kontraproduktivní. Represivní
-složky mají efektivně spolupůsobit v oblasti prevence rizikového chování vedoucího ke kriminální delikvenci.
 
-* Obecný přístup v oblasti bezpečnosti má mít vyváženě multidisciplinární a primárně preventivní charakter s
-důrazem na informovanost rizikových skupin i veřejnosti. Multidisciplinarita má být prosazena vně Policie ČR
-(je jedním ze subjektů působení) i uvnitř (posílení součinnosti jednotlivých policejních služeb: zejména služby
-kriminální policie a vyšetřování, služby pořádkové policie a služby cizinecké policie).
+* Represivní a regulatorní aspekt má být nejzazším řešením nejen v právním, ale i faktickém smyslu. Paušální kriminalizace jedince vykazujícího znaky rizikového návykového chování je kontraproduktivní. Represivní složky mají efektivně spolupůsobit v oblasti prevence rizikového chování vedoucího ke kriminální delikvenci.
 
-* Represivní a regulatorní opatření mají podléhat stálému monitoringu a hodnocení na základě předem
-stanovených indikátorů úspěšnosti. Indikátory a jejich hodnocení mají souviset s jasně definovaným
-poklesem nechtěných jevů ve společnosti, podobně by tomu mělo být u ostatních regulativ. Indikátory v
-oblasti trestněprávní nemohou být postaveny pouze na množství ukončených trestních řízení, počtu záchytů
-nelegálně vyráběných či pašovaných návykových látek apod.
+* Obecný přístup v oblasti bezpečnosti má mít vyváženě multidisciplinární a primárně preventivní charakter s důrazem na informovanost rizikových skupin i veřejnosti. Multidisciplinarita má být prosazena vně Policie ČR (je jedním ze subjektů působení) i uvnitř (posílení součinnosti jednotlivých policejních služeb: zejména služby kriminální policie a vyšetřování, služby pořádkové policie a služby cizinecké policie).
 
-* Je třeba diferencovat cílové skupiny pro působení v oblasti represe/regulace. Zaměřit se na lepší prevenci a
-informovanost zejména ve vztahu k nízkověkým rizikovým skupinám a predisponovaným jedincům. Je zapotřebí účinná represe vůči ilegálnímu prodeji návykových látek, kterou bude vyvažovat státní regulace
-komerčního trhu s nimi.
+* Represivní a regulatorní opatření mají podléhat stálému monitoringu a hodnocení na základě předem stanovených indikátorů úspěšnosti. Indikátory a jejich hodnocení mají souviset s jasně definovaným poklesem nechtěných jevů ve společnosti, podobně by tomu mělo být u ostatních regulativ. Indikátory v oblasti trestněprávní nemohou být postaveny pouze na množství ukončených trestních řízení, počtu záchytů nelegálně vyráběných či pašovaných návykových látek apod.
+
+* Je třeba diferencovat cílové skupiny pro působení v oblasti represe/regulace. Zaměřit se na lepší prevenci a informovanost zejména ve vztahu k nízkověkým rizikovým skupinám a predisponovaným jedincům. Je zapotřebí účinná represe vůči ilegálnímu prodeji návykových látek, kterou bude vyvažovat státní regulace komerčního trhu s nimi. 
 
 * Světová zdravotnická organizace (WHO) na základě studií úspěšných politik v oblasti legálních návykových látek doporučuje několik základních regulatorních opatření, která Piráti podporují:
+
  * Omezení dostupnosti - zákaz prodeje a podávání do určitého věku, omezení času a místa prodeje, omezení reklamy.
 
  * Cenotvorba - zdanění pomocí nepřímých daní, jako jsou daně spotřební <a href="#f10">[10]</a>​.
@@ -279,9 +211,16 @@ komerčního trhu s nimi.
 
 * Dalším nedostatkem je dnes nedostatečné zajištění pomáhajících služeb v přirozeném prostředí klienta. Poddimenzovaná síť služeb pro děti a mladistvé i neuspokojivý stav dalšího vzdělávání u adiktologických zdravotnických profesí. Pirátská strana bude iniciovat na různé úrovni řešení těchto výzev a hledat prostředky na jejich zajištění.
 
+
+
+
+
+
 ## 3. ​Alokace financí
 
+
 ### a) Problémy současného rámce
+
 
 * Neexistuje jednotná koncepce tvorby sítě pomáhajících služeb včetně systému financování.
 
@@ -316,6 +255,10 @@ komerčního trhu s nimi.
 
 
 
+
+
+
+
 ## ​ 4. ​Koordinace
 
 
@@ -334,7 +277,7 @@ komerčního trhu s nimi.
 
 * Péče je definována sítí:​ Pomáhající tzv. adiktologické služby mají v souladu s harm reduction zachovávat princip víceoborovosti. Pomáhající intervence by se měly zaměřovat významným podílem na kontakt se skrytou populací <a href="#f18">[18]</a>​, včasnou detekci a včasnou intervenci. Pomáhající služby nemají být primárně zaměřeny na dosažení abstinence, ale mají mít širší kontext sociálně-zdravotní pomoci. Jednotliví provozovatelé pomáhajících služeb budou motivováni k diferenciaci druhů intervencí. Jednotlivé typy péče (především rezidenční) budou hledat jasnější standard spolufinancování uživatelů dané péče; na základě hodnocení bude dobudována i síť péče (např. domácí detoxikace, zásadní rozšíření substituce v oblasti opioidů, včetně substituční alternativy pro pervitin, vytvoření ambulantní pomoci pro rizikové uživatele alkoholu v rámci včasné detekce a včasné intervence, dobudování základní sítě pomoci pro patologické hazardní hráče, dobudování sítě pomoci v oblasti tabakismu apod).
 
-Je nutné vytvořit hodnocení a mechanismus pro případné ukončení nepotřebných služeb tak, aby lidé, kteří potřebují pomoc, nezůstali bez potřebného kontaktu s odborníky. Dále je potřeba vytvořit návrhy modernizace dnes již nefunkčních modelů některých typů péče na pomezí zdravotní pomoci a ochrany veřejného pořádku - viz neúčinný model záchytek <a href="#f19">19</a>. Preventivní strategie musí vzít v potaz dobrou praxi zaměřenou na posunutí věku první zkušenosti s návykovými látkami a dalšími doporučeními WHO ve smyslu HR. Vláda vyčlení prostředky pro informování veřejnosti o existenci sítě pomoci.
+* Je nutné vytvořit hodnocení a mechanismus pro případné ukončení nepotřebných služeb tak, aby lidé, kteří potřebují pomoc, nezůstali bez potřebného kontaktu s odborníky. Dále je potřeba vytvořit návrhy modernizace dnes již nefunkčních modelů některých typů péče na pomezí zdravotní pomoci a ochrany veřejného pořádku - viz neúčinný model záchytek <a href="#f19">19</a>. Preventivní strategie musí vzít v potaz dobrou praxi zaměřenou na posunutí věku první zkušenosti s návykovými látkami a dalšími doporučeními WHO ve smyslu HR. Vláda vyčlení prostředky pro informování veřejnosti o existenci sítě pomoci.
 
 
 ### c) Kraje a obce
@@ -353,6 +296,10 @@ Je nutné vytvořit hodnocení a mechanismus pro případné ukončení nepotře
 * Nezbytná je mimo jiné spolupráce s Ministerstvem školství, mládeže a tělovýchovy (MŠMT) na realizaci Národní strategie prevence rizikového chování dětí a mládeže.
 
 * Nezbytná je také spolupráce na mezinárodní úrovni a to nejen v advokacii za dekriminalizační politiku nebo koordinaci v rámci sledování nadnárodních kriminálních skupin, ale také v oblasti rozvojové pomoci.
+
+
+
+
 
 
 ## ​ 5. ​Mezinárodní rámec
@@ -434,19 +381,24 @@ Dostupné z: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/
 
 <a id="f7">[^7]</a> Státní správa, samosprávy, odborné spole​č​nosti, školní a jiná edukativní za​ř​ízení, policie a soudy, celní správa a dal​š​í výkonné slo​ž​ky.
 
-<a id="f8">[^8]</a> Úřad vlády České republiky (2013). ​ _Tichá revoluce - dekriminalizace drog​_. ISBN 978-80-7440-083-4. Dostupné z: ​https://mrak.pirati.cz/s/qZStN9YKnfLQ9Xb
+<a id="f8">[^8]</a> Úřad vlády České republiky (2013). ​ _Tichá revoluce - dekriminalizace drog​_. ISBN 978-80-7440-083-4. 
+Dostupné z: ​https://mrak.pirati.cz/s/qZStN9YKnfLQ9Xb
 
-<a id="f9">[^9]</a> Globální komise pro protidrogovou politiku (2013). ​ _Válka proti drogám​_. ISBN 978-80-7440-082-7. Dostupné z: ​https://mrak.pirati.cz/s/dHYEtkRBgj9ft7o
+<a id="f9">[^9]</a> Globální komise pro protidrogovou politiku (2013). ​ _Válka proti drogám​_. ISBN 978-80-7440-082-7. 
+Dostupné z: ​https://mrak.pirati.cz/s/dHYEtkRBgj9ft7o
 
 <a id="f10">[^10]</a> Ekonomové napříč spektrem se shodnou, že v době konjunktury je třeba snižovat daně přímé, jako jsou daně ze zisku a daně zaměstnanců a zároveň zvyšovat daně nepřímé, jako jsou například daně spotřební.
 
 <a id="f11">[^11]</a> Tabák je 8 % všech daňových příjmů ČR. Mezinárodní organizace, včetně studií zadaných EK, upozorňují na vliv tabákového průmyslu na českou legislativu, daňový systém a další oblasti potřebného vlivu.
 
-<a id="f12">[^12]</a> Transparency International (2020)  ​ _Clearing the smokescreen: The deadly consequences of undue influence​_. [online, citováno 2-12-2020] Dostupné z: https://www.transparency.org/en/news/tobacco-smokescreen-deadly-consequences-of-undue-influence#
+<a id="f12">[^12]</a> Transparency International (2020)  ​ _Clearing the smokescreen: The deadly consequences of undue influence​_. [online, citováno 2-12-2020] 
+Dostupné z: https://www.transparency.org/en/news/tobacco-smokescreen-deadly-consequences-of-undue-influence#
 
-<a id="f13">[^13]</a> Logan, Diane E. (2010). ​ _Harm Reduction Therapy: A Practice-Friendly Review of Research​_. J Clin Psychol. 2010 Feb; 66(2): 201–214. Dostupné z: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928290/
+<a id="f13">[^13]</a> Logan, Diane E. (2010). ​ _Harm Reduction Therapy: A Practice-Friendly Review of Research​_. J Clin Psychol. 2010 Feb; 66(2): 201–214. 
+Dostupné z: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3928290/
 
-<a id="f14">[^14]</a> ​Fischer, Benedikt et al. (2007). ​ _Heroin-assisted Treatment (HAT) a Decade Later: A Brief Update on Science and Politics​_. J Urban Health. 2007 Jul; 84(4): 552–562. Dostupné z: ​https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/^
+<a id="f14">[^14]</a> ​Fischer, Benedikt et al. (2007). ​ _Heroin-assisted Treatment (HAT) a Decade Later: A Brief Update on Science and Politics​_. J Urban Health. 2007 Jul; 84(4): 552–562. 
+Dostupné z: ​https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219559/^
 
 <a id="f15">[^15]</a> Odhadovaná částka na diagnózy F10 – F19 se pohybuje okolo 1,5 miliard ročně, z čehož pouze 200 – 300 mil Kč se týká specifických a tím účinnějších zdravotních intervencí.
 
