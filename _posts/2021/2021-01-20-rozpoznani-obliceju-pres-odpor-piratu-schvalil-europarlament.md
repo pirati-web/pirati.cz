@@ -1,5 +1,5 @@
 ---
-date:         2021-01-21
+date:         2021-01-20
 category:     blog
 tags:         kontrola-moci-a-mocných evropská-unie digitalizace
 layout:       post
