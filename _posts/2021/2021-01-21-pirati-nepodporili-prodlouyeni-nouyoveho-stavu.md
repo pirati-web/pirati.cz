@@ -33,31 +33,31 @@ Poslanecká sněmovna
 
 3. vyzývá vládu, aby do 15 dnů od schválení tohoto usnesení
 
-* podpořila maximální využívání práce z domova v soukromém i veřejném sektoru,
+  podpořila maximální využívání práce z domova v soukromém i veřejném sektoru,
 
-* podpořila pravidelné testování zaměstnanců ve firmách, zejména v průmyslu formou bonusu nebo daňového odpočtu za provedený test,
+  podpořila pravidelné testování zaměstnanců ve firmách, zejména v průmyslu formou bonusu nebo daňového odpočtu za provedený test,
 
 4. vyzývá vládu, aby na časově omezenou dobu, do června 2021, podpořila zvýšení nemocenské na kovidové karanténě i izolaci na 80 % namísto dnešních 60 % redukovaného průměrného výdělku, a to z důvodu zvýšení motivace lidí nechat se testovat a hlásit kontakty a tak zabránit šíření COVID19,
 
 5. bere na vědomí
 
-* informaci, že MZ CR 21. 1. 2021 zveřejnilo data o počtu aplikovaných vakcín v jednotlivých krajích po dnech,
+  informaci, že MZ CR 21. 1. 2021 zveřejnilo data o počtu aplikovaných vakcín v jednotlivých krajích po dnech,
 
-* příslib ministra zdravotnictví do 25. 1. 2021 rozšířit tato data o: indikační skupinu, věkovou kohortu, pořadí dávky.
+  příslib ministra zdravotnictví do 25. 1. 2021 rozšířit tato data o: indikační skupinu, věkovou kohortu, pořadí dávky.
 
 6. vyzývá vládu k revizi obecného zákazu maloobchodního prodeje a náhradě tohoto zákazu omezením počtu zákazníků na provozovnu za dodržování přísných hygienických opatření, aby byl možný alespoň provoz obchodů, kde se najednou pohybuje pouze 1 zákazník, 
 
 7. vyzývá vládu k úpravě Protiepidemiologického systému tak, aby:
 
-* ředitel základní školy měl při všech stupních PES možnost povolit přítomnost žáků prvního stupně formou rotační výuky či s využitím studijních skupin v souladu s metodickým vedením Ministerstva školství, mládeže a tělovýchovy,
+  ředitel základní školy měl při všech stupních PES možnost povolit přítomnost žáků prvního stupně formou rotační výuky či s využitím studijních skupin v souladu s metodickým vedením Ministerstva školství, mládeže a tělovýchovy,
 
-* zohlednila možnost realizace praktické výuky na školách i při vyšších stupních PES za zpřísněných opatření,
+  zohlednila možnost realizace praktické výuky na školách i při vyšších stupních PES za zpřísněných opatření,
 
-* umožnila ředitelům škol povolit přítomnost žáků závěrečných ročníků základních a středních škol formou rotační výuky, konzultací či s využitím studijních skupin,
+  umožnila ředitelům škol povolit přítomnost žáků závěrečných ročníků základních a středních škol formou rotační výuky, konzultací či s využitím studijních skupin,
 
-* ředitel malotřídní školy mohl umožnit prezenční přítomnost všem žákům prvního stupně za zpřísněných opatření,
+  ředitel malotřídní školy mohl umožnit prezenční přítomnost všem žákům prvního stupně za zpřísněných opatření,
 
-* sjednotila pravidla pro fungování subjektů, které poskytují vzdělávání a péči o dítě do věku 6 let, tedy i pro lesní kluby a další zařízení, která poskytují stejné nebo obdobné služby jako mateřské školy,
+  sjednotila pravidla pro fungování subjektů, které poskytují vzdělávání a péči o dítě do věku 6 let, tedy i pro lesní kluby a další zařízení, která poskytují stejné nebo obdobné služby jako mateřské školy,
 
 8. vyjadřuje podporu záměru, aby vláda do 8. 2. 2021 předložila zvláštní časově omezený zákon, který definuje podmínky pandemické pohotovosti, parlamentní kontrolu takového stavu, mimořádná opatření, která může činit vláda a ministerstvo zdravotnictví, možnosti jejich soudního přezkumu, základní požadavky na informování obyvatel o nákaze COVID-19 a zvládání krize, možnosti plošné pomoci poškozeným a přehledné podmínky pro kompenzaci vzniklé škody,  
 
