@@ -5,7 +5,7 @@ category:
 tags:         návykové-chování
 layout:       post
 title:        "Stanovisko Pirátů k prevenci vzniku rizikového návykového chování a snižování škod s ním spojených"
-image:        /assets/img/articles/molecule.jpg
+image:        /assets/img/program/molecule.jpg
 author:       
 ---
 
