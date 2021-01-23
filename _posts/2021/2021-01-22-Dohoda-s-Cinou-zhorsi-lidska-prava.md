@@ -4,7 +4,7 @@ category:     blog
 tags:         EU Vietnam Europarlament
 layout:       post
 title:        "Gregorová: Dohoda EU s Vietnamem upevnila tamní diktaturu. Dohoda s Čínou dopadne stejně, ne-li hůř"
-image:        /assets/img/articles/2021/marketa-gregorova01.jpg
+image:        /assets/img/articles/2021/Gregorova 4.jpg
 author:       
 ---
 
