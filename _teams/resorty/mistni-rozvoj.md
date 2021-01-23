@@ -67,6 +67,12 @@ Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle 
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
 
-[Zápisy z jednání týmu](https://forum.pirati.cz/viewtopic.php?f=1136&t=47010&p=617443#p617443)
-[Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20)
-[PSP Výbor pro veřejnou správu a regionální rozvoj](https://www.psp.cz/sqw/hp.sqw?k=4409)
+* [Zápisy z jednání týmu](https://forum.pirati.cz/viewtopic.php?f=1136&t=47010&p=617443#p617443)
+* [Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20)
+* [PSP Výbor pro veřejnou správu a regionální rozvoj](https://www.psp.cz/sqw/hp.sqw?k=4409)
+
+V rámci rezortního týmu fungují i pracovní skupiny, jde o:
+* **Veřejné zakázky** - vede Ondřej Profant, kontaktní osoba: Tereza Vovesová (tereza.vovesova@pirati.cz)
+* **Cestovní ruch** - vede Martin Jiránek, kontaktní osoba: Vojtěch Franta (vojtech.franta@pirati.cz)
+* **Stavební právo** - vede Martin Archalous (ArchalousM@psp.cz) 
+* **Rozvoj venkova** - vede Matouš Vanča (matous.vanca@pirati.cz) 
