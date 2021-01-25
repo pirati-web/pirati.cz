@@ -73,6 +73,6 @@ Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or
 
 V rámci rezortního týmu fungují i pracovní skupiny, jde o:
 * **Veřejné zakázky** - vede Ondřej Profant, kontaktní osoba: Tereza Vovesová (tereza.vovesova@pirati.cz)
-* **Cestovní ruch** - vede Martin Jiránek, kontaktní osoba: Vojtěch Franta (vojtech.franta@pirati.cz)
-* **Stavební právo** - vede Martin Archalous (ArchalousM@psp.cz) 
-* **Rozvoj venkova** - vede Matouš Vanča (matous.vanca@pirati.cz) 
+* **Cestovní ruch** - vede Martin Jiránek, kontaktní osoba: Petr Pletiha (ppleticha@gmail.com)
+* **Stavební právo** - vede Ivan Bartoš, kontaktní osoba Anna Doová (anna.doova@pirati.cz) 
+* **Rozvoj venkova** - meziresortní pracovní skupina, vede Matouš Vanča (matous.vanca@pirati.cz) 
