@@ -3,7 +3,7 @@ date:         2021-01-26
 category:     blog
 tags:         inzerát
 layout:       post
-title:        "Piráti poptávají vývojáře front-endu a back-endu na dlouhodobou externí spolupráci""
+title:        "Piráti poptávají vývojáře front-endu a back-endu na dlouhodobou externí spolupráci"
 image:        /assets/img/articles/2019/inzerat.jpg
 author:       
 ---
