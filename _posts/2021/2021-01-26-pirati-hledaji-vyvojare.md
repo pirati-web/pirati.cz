@@ -17,12 +17,12 @@ Praha, 26. ledna 2021 – [Technický odbor](https://wiki.pirati.cz/to/start) Pi
 Výběrová řízení na dodavatele v níže uvedených kategoriích běží nepřetržitě.
 V současnosti se mohou dodavatelé ucházet o zařazení do níže uvedených kategorií.
 
-Pro úspěšnou kvalifikaci je potřeba získat hodnocení alespoň 70%.
+Pro úspěšnou kvalifikaci je potřeba získat hodnocení alespoň 70 %.
 Váha hodnotících kritérií:
 
-* 50% - Kompetence v dané kategorii.
-* 25% - Zkušenosti s prací v otevřeném prostředí.
-* 25% - Reference a celkový dojem.
+* 50 % - Kompetence v dané kategorii.
+* 25 % - Zkušenosti s prací v otevřeném prostředí.
+* 25 % - Reference a celkový dojem.
 
 **Vývojáři front-endu**
 ---------------
