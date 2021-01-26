@@ -1,5 +1,5 @@
 ---
-date:         2021-01-26
+date:         2021-01-26 00:00:00
 category:     blog
 tags:         finance kontrola-moci-a-mocných 
 layout:       post
