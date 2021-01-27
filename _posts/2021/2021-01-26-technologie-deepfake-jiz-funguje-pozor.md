@@ -27,4 +27,4 @@ Video je produktem tzv. deepfake, tedy technologie, která dovede mj. věrohodn�
 
 Další informace o kampani i fotografie najdete na [www.pravdaboli.eu](https://pravdaboli.eu/) a [gregorova.eu](https://gregorova.eu/).
 
-![Fake Babiš](https://pirati.cz/assets/img/articles/2021/gregorova-babis2.jpg) ![Fake Babiš2](https://pirati.cz/assets/img/articles/2021/gregorova-babis2.jpg)
+![Fake Babiš](https://pirati.cz/assets/img/articles/2021/gregorova-babis2.jpg) ![Fake Babiš2](https://pirati.cz/assets/img/articles/2021/gregorova-babis3.jpg)
