@@ -11,8 +11,7 @@ author:
 
 Praha, 26. ledna 2021 – [Technický odbor](https://wiki.pirati.cz/to/start) Pirátů hledá nové partnery pro realizaci projektů. Pokud máte zájem s námi spolupracovat a prokážete svou [kvalifikaci](https://wiki.pirati.cz/to/dodavatele/kvalifikace), uzavřeme s vámi [Rámcovou smlouvu](https://wiki.pirati.cz/to/dodavatele/ramcova-smlouva) a začneme vás oslovovat kdykoliv nám nebudou stačit stálé kapacity.
 
-**Kvalifikační předpoklady**
-==========
+# Kvalifikační předpoklady
 
 Výběrová řízení na dodavatele v níže uvedených kategoriích běží nepřetržitě.
 V současnosti se mohou dodavatelé ucházet o zařazení do níže uvedených kategorií.
@@ -24,8 +23,7 @@ Váha hodnotících kritérií:
 * 25 % - Zkušenosti s prací v otevřeném prostředí.
 * 25 % - Reference a celkový dojem.
 
-**Vývojáři front-endu**
----------------
+## Vývojáři front-endu
 
 Vývoj webových aplikací nebo jejich součástí s využitím HTML, CSS a ES.
 
@@ -46,8 +44,7 @@ Očekávané kompetence:
 * Schopnost navrhovat praktická uživatelská rozhraní.
 * Estetické cítění.
 
-**Vývojáři back-endu**
----------------
+## Vývojáři back-endu
 
 Vývoj Internetových aplikací nebo jejich součástí převážně s využitím Pythonu a PostgreSQL.
 
@@ -67,4 +64,9 @@ Očekávané kompetence:
 * Dobrá znalost databáze PostgreSQL (včetně zajištění referenční integrity).
 * Cit pro návrh relačních modelů.
 
-V případě zájmu zašlete své CV [vedoucímu Technického odboru](jan.hamal.dvorak@pirati.cz)
+# Kontakt
+
+Inzeráty naleznete na našem fóru:
+
+* [Vývojáři front-endu](https://forum.pirati.cz/viewtopic.php?f=572&t=54944)
+* [Vývojáři back-endu](https://forum.pirati.cz/viewtopic.php?f=572&t=54945)
