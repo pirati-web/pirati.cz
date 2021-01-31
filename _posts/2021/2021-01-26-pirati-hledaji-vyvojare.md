@@ -66,3 +66,5 @@ Očekávané kompetence:
 * Schopnost pracovat s Linuxem a kontejnery.
 * Dobrá znalost databáze PostgreSQL (včetně zajištění referenční integrity).
 * Cit pro návrh relačních modelů.
+
+V případě zájmu zašlete své CV [vedoucímu Technického odboru](jan.hamal.dvorak@pirati.cz)
