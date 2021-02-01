@@ -36,13 +36,15 @@ asistenti:
     description: Asistentka v ČR
     mail: lenka.kynclova@la.europarl.europa.eu
     tel: +420 604 744 359
+  - name: Pavel Trejbal
+    description: PR stážista        
   - name: Boris Vanka
     description: PR expert
     mail: boris.vanka@la.europarl.europa.eu
     tel: +420 608 445 322        
 direct-contact: true
 office: 
-  - address: Karlovo náměstí 313/8, 120 00 Praha 2
+  - address: Lidická 960/81, 602 00 Brno.
 profiles:
   github:
   web: https://personal.kolaja.eu/
