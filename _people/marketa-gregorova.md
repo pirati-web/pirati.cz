@@ -42,6 +42,7 @@ asistenti:
 direct-contact: true
 office: 
   - address: Lidická 960/81, 602 00 Brno
+office:
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
   github:
