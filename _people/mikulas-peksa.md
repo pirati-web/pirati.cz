@@ -38,7 +38,6 @@ asistenti:
     mail: ondrejobergruber@gmail.com
     tel: +420 731 808 671    
 office: 
-  - address: Lidická 960/81, 602 00 Brno 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
   github:
