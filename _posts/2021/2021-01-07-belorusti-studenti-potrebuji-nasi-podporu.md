@@ -1,6 +1,6 @@
 ---
 date:         2021-01-07
-category:     blog
+category:     post
 tags:         zahraničí lidská-práva vzdělávání
 layout:       post
 title:        "Komentář Lenky Kozlové: Podpořme běloruské studenty, kteří chtějí studovat v Česku. Každý má právo na vzdělání a bezpečí"
