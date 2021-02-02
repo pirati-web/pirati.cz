@@ -5,7 +5,7 @@ tags:         lidská-práva
 layout:       post
 title:        "Pirátský poslanec František Kopřiva obdržel cenu Genderman roku 2020 "
 image:        /assets/img/articles/2021/frantisek-kopriva01.jpg
-author:       
+author:       František Kopřiva
 ---
 
 
