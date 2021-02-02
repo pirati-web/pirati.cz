@@ -5,7 +5,7 @@ tags:         sněmovna legislativa koronavirus
 layout:       post
 title:        "Piráti nepodpořili prodloužení nouzového stavu, vláda odmítla vyslyšet požadavky zmírňující dopady krize na občany"
 image:        /assets/img/articles/2019/jakub-michalek2.jpg
-author:       
+author:       Jakub Michálek 
 ---
  
 
