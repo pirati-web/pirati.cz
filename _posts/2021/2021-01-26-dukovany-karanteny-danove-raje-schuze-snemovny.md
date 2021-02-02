@@ -5,7 +5,7 @@ tags:         sněmovna energetika bezpečnost životní-prostředí
 layout:       post
 title:        "Piráti budou jednat s vládou o Dukovanech, žádají posílení motivace k dodržování karantény a zasílají dopis premiérovi, aby změnil váhavý postoj k boji s daňovými ráji"
 image:        /assets/img/articles/2021/79schuze2.jpg
-author:       
+author:       Redakce Piráti
 ---
 
 
