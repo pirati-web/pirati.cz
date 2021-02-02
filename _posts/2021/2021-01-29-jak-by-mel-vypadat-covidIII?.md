@@ -5,7 +5,7 @@ tags:         kultura koronavirus
 layout:       post
 title:        "Zaměstnanci v kultuře stále čekají na podpůrný program – jak by měl COVID III vypadat?"
 image:        /assets/img/articles/2020/lenka-kozlova.jpg
-author:       
+author:       Lenka Kozlová
 ---
 
  
