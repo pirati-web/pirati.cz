@@ -5,7 +5,7 @@ tags:         finance koronavirus
 layout:       post
 title:        "Piráti navrhli navýšení financí pro lidi v karanténě kvůli covidu. Chtějí občany pozitivně motivovat, aby se nebáli chodit na testy"
 image:        /assets/img/articles/2021/olga-richterova01.jpg
-author:       
+author:       Olga Richterová
 ---
 
 
