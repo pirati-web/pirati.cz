@@ -5,7 +5,7 @@ tags:         sněmovna legislativa školství vzdělávání
 layout:       post
 title:        "Poslanecká sněmovna podpořila návrh Pirátů na zvýšení platů učitelů. Dosáhnout má 130 procent průměrné mzdy"
 image:        /assets/img/articles/2021/lukas-barton00.jpg
-author:       
+author:       Lukáš Bartoň
 ---
  
 
