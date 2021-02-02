@@ -5,7 +5,7 @@ tags:         vláda životní-prostředí
 layout:       post
 title:        "Komentář Dany Balcarové: Česko zaostává ve snižování odpadů, ochraně klimatu či v rozvoji zdravotnictví, ukázaly analýzy. Piráti se zasadili o jejich projednání Sněmovnou"
 image:        /assets/img/articles/2021/dana-balcarova01.jpg
-author:       
+author:       Dana Balcarová
 ---
 
  
