@@ -117,7 +117,7 @@ Cizinci, kteří se rozhodnou dlouhodobě žít a pracovat v ČR, by neměli bý
 Je nutné uvádět pravidelně českou legislativu do souladu s legislativou EU, nálezy Evropského soudního dvora a doporučeními Rady Evropy. Podmínky pro získání českého občanství jsou nastavené adekvátně a není třeba je upravovat.
 
 ##  Works Cited
-- [Globální Pakt OSN o Migraci.” Wikipedia, Wikimedia Foundation, 2 May 2020](cs.wikipedia.org/wiki/Globální_pakt_OSN_o_migraci)
-- [Lex Access to European Union Law. EUR](eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52018DC0301)
-- [Odbor Azylové a Migrační Politiky  Výroční Zprávy o Situaci v Oblasti Migrace a Integrace - Aktuální Informace o Migraci](www.mvcr.cz/migrace/clanek/vyrocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace.aspx)
-- [PRZYBYLSKI, Piotr. “Migrace Od A Do Z.” Czech Republic - European Commission, 19 July 2017](ec.europa.eu/czech-republic/news/focus/migration_from_a_to_z_cs)
+- [Globální Pakt OSN o Migraci.” Wikipedia, Wikimedia Foundation, 2 May 2020](https://cs.wikipedia.org/wiki/Globální_pakt_OSN_o_migraci)
+- [Lex Access to European Union Law. EUR](https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:52018DC0301)
+- [Odbor Azylové a Migrační Politiky  Výroční Zprávy o Situaci v Oblasti Migrace a Integrace - Aktuální Informace o Migraci](https://www.mvcr.cz/migrace/clanek/vyrocni-zpravy-o-situaci-v-oblasti-migrace-a-integrace.aspx)
+- [PRZYBYLSKI, Piotr. “Migrace Od A Do Z.” Czech Republic - European Commission, 19 July 2017](https://ec.europa.eu/czech-republic/news/focus/migration_from_a_to_z_cs)
