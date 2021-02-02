@@ -24,7 +24,7 @@ Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaj
 <tr><td>Datová schránka:</td><td> b2i4r6j</td></tr>
 </table>
 
-Kontaktní osobou Správce pro oblast ochrany osobních údajů je vedoucí Administrativního odboru (nyní Mgr. Martin Kučera), kontaktovat ho lze na e-mailové adrese gdpr@pirati.cz).
+Kontaktní osobou Správce pro oblast ochrany osobních údajů je vedoucí Administrativního odboru (nyní Alice Hamalová), kontaktovat ji lze na e-mailové adrese gdpr@pirati.cz.
 
 ## 3. Kategorie osobních údajů
 Osobním údajem je jakákoliv informace o fyzické osobě, pomocí které je správce nebo jiná osoba přímo nebo nepřímo schopna ji identifikovat. Tato osoba se potom nazývá subjektem údajů. V souvislosti s evidencí členů a registrovaných příznivců a výkonem politické činnosti může správce zpracovávat následující kategorie osobních údajů:
