@@ -5,7 +5,7 @@ tags:         energetika životní-prostředí
 layout:       post
 title:        "Vláda i díky tlaku Pirátů a odborníků odložila rozhodnutí o termínu ukončení spalování uhlí"
 image:        /assets/img/articles/2021/balcarova-tresnak.jpg
-author:       
+author:       Dana Balcarová
 ---
 
 
