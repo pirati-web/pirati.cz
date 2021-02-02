@@ -5,7 +5,7 @@ tags:         energetika bezpečnost
 layout:       post
 title:        "Piráti a Starostové předložili premiérovi požadavky ohledně rozšiřování Dukovan. Chtějí chránit peněženky občanů, bezpečnost země a lepší podporu vědců"
 image:        /assets/img/articles/2021/bartos-jadro.jpg
-author:       
+author:       Petr Třešňák
 ---
 
 
