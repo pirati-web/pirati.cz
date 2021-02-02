@@ -5,7 +5,7 @@ tags:         konopí zdravotnictví sněmovna
 layout:       post
 title:        "Sněmovna dala zelenou léčebnému konopí. Piráti budou dál bojovat o jeho snadnou dostupnost pro pacienty a regulované samopěstování"
 image:        /assets/img/articles/2021/tomas-vymazal01.jpg
-author:       
+author:       Tomáš Vymazal
 ---
 
 
