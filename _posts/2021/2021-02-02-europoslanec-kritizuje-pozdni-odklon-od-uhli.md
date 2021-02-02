@@ -5,7 +5,7 @@ tags:         energetika životní-prostředí
 layout:       post
 title:        "Europoslanec Peksa: Odklon od uhlí musí být co nejrychlejší, jinak nesplníme závazky"
 image:        /assets/img/articles/2021/mikulas-peksa01.jpg
-author:       
+author:       Mikuláš Peksa
 ---
 
 
