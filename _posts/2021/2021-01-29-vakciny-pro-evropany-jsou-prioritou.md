@@ -5,7 +5,7 @@ tags:         zdravotnictví evropská-unie koronavirus
 layout:       post
 title:        "Kolaja: Dostatek vakcín pro Evropany musí být naší prioritou"
 image:        /assets/img/articles/2021/marcel-kolaja00.jpg
-author:       
+author:       Marcel Kolaja
 ---
 
 
