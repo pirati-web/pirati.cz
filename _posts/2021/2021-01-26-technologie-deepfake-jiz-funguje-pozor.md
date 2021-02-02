@@ -5,7 +5,7 @@ tags:         dezinformace
 layout:       post
 title:        "„Já jsem byl dezinformován!“ Falešný Babiš varuje před deepfake technologiemi"
 image:        /assets/img/articles/2021/gregorova-babis.jpg
-author:       
+author:       Markéta Gregorová
 ---
 
 
