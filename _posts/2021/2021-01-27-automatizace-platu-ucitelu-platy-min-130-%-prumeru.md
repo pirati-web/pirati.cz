@@ -5,7 +5,7 @@ tags:         školství vzdělávání sněmovna
 layout:       post
 title:        "Piráti ve Sněmovně finálně prosadili navázání platů učitelů na průměrnou mzdu. Budou se automaticky držet na nejméně 130 procentech její výše"
 image:        /assets/img/articles/2021/lukas-barton00.jpg
-author:       
+author:       Lukáš Bartoň
 ---
 
  
