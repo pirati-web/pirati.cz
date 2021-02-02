@@ -5,7 +5,7 @@ tags:         místní-rozvoj stavební-zákon legislativa
 layout:       post
 title:        "Nový stavební zákon musí být podle ODS, Pirátů, KDU-ČSL, TOP 09 a STAN jednodušší, levnější a nesmí zapomínat na samosprávy "
 image:        /assets/img/articles/2021/ivan-bartos00.jpg
-author:       
+author:       Ivan Bartoš
 ---
 
 
