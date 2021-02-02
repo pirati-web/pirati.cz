@@ -5,7 +5,7 @@ tags:         EU Vietnam Europarlament
 layout:       post
 title:        "Gregorová: Dohoda EU s Vietnamem upevnila tamní diktaturu. Dohoda s Čínou dopadne stejně, ne-li hůř"
 image:        /assets/img/articles/2021/Gregorova 4.jpg
-author:       
+author:       Markéta Gregorová
 ---
 
 Brusel, 22. ledna 2021 - Evropský parlament ve čtvrtek přijal rezoluci odsuzující zavírání aktivistů a novinářů za jejich postoje či příspěvky na sociálních sítích. Rezoluce kritizuje i nenaplněné sliby z loňského roku, kdy Evropská unie uzavřela s Vietnamem obchodní dohodu, slibující zlepšení situace s lidskými právy. „Naše obavy se naplnily,” vzkazuje pirátská europoslankyně Markéta Gregorová, která se před rokem snažila zabránit jejímu podpisu. A upozorňuje, že chystaná dohoda s Čínou dopadne stejně. 
