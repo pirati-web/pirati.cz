@@ -5,7 +5,7 @@ tags:         kontrola-moci-a-mocných lidská-práva
 layout:       post
 title:        "Piráti odsuzují polský zákaz potratů: Na ženách přestalo záležet, kritizuje europoslankyně Gregorová "
 image:        /assets/img/articles/2021/marketa-gregorova01.jpg
-author:       
+author:       Markéta Gregorová
 ---
 
 
