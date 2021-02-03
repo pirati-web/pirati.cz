@@ -5,7 +5,7 @@ tags:         životní-prostředí stavební-zákon legislativa
 layout:       post
 title:        "Ústavní soud se nezastal veřejnosti, Piráti usilují o nápravu"
 image:        /assets/img/articles/2021/balcarova-blazej00.jpg
-author:       Lukáš Blažej
+author:       
 ---
 
 
