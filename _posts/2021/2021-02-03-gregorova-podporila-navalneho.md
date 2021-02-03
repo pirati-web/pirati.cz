@@ -4,7 +4,7 @@ category:     blog
 tags:         lidská-práva zahraničí
 layout:       post
 title:        "Europoslankyně Gregorová: Navalnyj sice sejde z očí, ale z mysli symbol odporu Putin neodstraní"
-image:        /assets/img/articles/2021/marketa-gregorova02.jpg
+image:        /assets/img/articles/2021/marketa-gregorova03.jpg
 author:       
 ---
 
