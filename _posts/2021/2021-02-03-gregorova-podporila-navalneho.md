@@ -1,5 +1,5 @@
 ---
-date:         2021-02-03 08:00:00
+date:         2021-02-03
 category:     blog
 tags:         lidská-práva zahraničí
 layout:       post
