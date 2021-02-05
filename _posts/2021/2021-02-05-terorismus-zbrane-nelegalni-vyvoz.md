@@ -4,7 +4,7 @@ category:     blog
 tags:         lidská-práva zahraničí
 layout:       post
 title:        "Gregorová: Balkánské zbraně končí v rukou teroristů. Problém by mohla vyřešit nová agentura"
-image:        /assets/img/articles/2021/marketa-gregorova03.jpg
+image:        /assets/img/articles/2021/marketa-gregorova04.jpg
 author:       
 ---
 
