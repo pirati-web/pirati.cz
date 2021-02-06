@@ -13,7 +13,7 @@ author:
 
 Brusel, 5. února 2021 – Europoslankyně Markéta Gregorová uspořádala mezinárodní debatu o nelegálním vývozu zbraní z Balkánských zemí. Představila na ní závěry mezinárodní studie od organizace Tactics Institute, která odhaluje nelegální zásoby zbraní z válečné éry a na ně navázanou korupční síť. „Těmito zbraněmi byly páchány nejhorší teroristické útoky v Evropě.“
 
-Pirátská europoslankyně Markéta Gregorová uspořádala na půdě Evropského parlamentu online mezinárodní debatu o exportu zbraní. Představila na ní závěry zásadní studie Tactics Institute o tzv. zajatých státech, tedy menších, ekonomicky slabších státech, jejichž pozice zneužívají větší státy a hráči na trhu - a související korupční síti s nelegálními zbraněmi z Balkánských zemí. Ta představuje obrovské bezpečnostní riziko.
+Pirátská europoslankyně Markéta Gregorová uspořádala na půdě Evropského parlamentu online mezinárodní debatu o exportu zbraní. Představila na ní závěry zásadní studie [Tactics Institute](https://tacticsinstitute.com/news/details/141?fbclid=IwAR1gUftS-RmKIU0szt_l9i8oT5SUwVg381CEydlzx6tvdLKYsEyE1pKEC5o) o tzv. zajatých státech, tedy menších, ekonomicky slabších státech, jejichž pozice zneužívají větší státy a hráči na trhu - a související korupční síti s nelegálními zbraněmi z Balkánských zemí. Ta představuje obrovské bezpečnostní riziko.
 
 > „Pro příklad nemusíme chodit daleko: pro nejsmrtelnější teroristický útok v Evropě v nedávné době, v Paříži v roce 2015, použili útočníci zbraně dříve používané jugoslávskou lidovou armádou a modely vyrobené v Albánii,“ upozorňuje Gregorová.
 
