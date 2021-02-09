@@ -7,9 +7,9 @@ leader: ondrej.polansky
 deputy:
 - ondrej.polansky
 contact-local:
-  name: Veronika Murzýnová
+  name: Veronika Murzynová
   mail: veronika.murzynova@pirati.cz
-  img: 
+  img: people/veronika-murzynova.jpg
 tags:
 - doprava
 - logistika
