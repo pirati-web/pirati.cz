@@ -1,7 +1,7 @@
 ---
 date:         2021-02-09 
 category:     blog
-tags:         europoslanci bělorusko piráti lidská-práva lipavský 
+tags:         zahraničí lidská-práva evropská-unie
 layout:       post
 title:        "Den solidarity s Běloruskem: Piráti vyvěšují vlajky a plánují stupňovat tlak"
 image:        /assets/img/articles/2021/Marketa Gregorova Belorusko.jpeg
