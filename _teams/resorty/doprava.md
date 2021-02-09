@@ -9,7 +9,7 @@ deputy:
 contact-local:
   name: Veronika Murzynová
   mail: veronika.murzynova@pirati.cz
-  img: people/veronika-murzynova.jpg
+  img: /assets/img/people/veronika-murzynova.jpg
 tags:
 - doprava
 - logistika
