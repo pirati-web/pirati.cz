@@ -11,7 +11,7 @@ author:
 
 
 
-Brusel, 11. února 2021 - Až polovina spotřebičů se podle iniciativy Opravme Česko rozbije krátce po konci záruční doby a už nejde opravit. Právě tomu by měl do budoucna zabránit akční plán, který tento týden schválil Evropský parlament. Ten vyzývá Evropskou komisi, aby do roku 2030 zakázala záměrné snižování životnosti výrobků.
+Brusel, 11. února 2021 - Přes 75 % lidí se dle iniciativy Opravme Česko setkalo s tím, že se zejména elektrické výrobky rozbijí krátce po uplynutí záruční doby. Právě tomu by měl do budoucna zabránit akční plán, který tento týden schválil Evropský parlament. Ten vyzývá Evropskou komisi, aby do roku 2030 zakázala záměrné snižování životnosti výrobků.
 
 > „Se současným spotřebním chování budeme v roce 2050 potřebovat celkem tři planety Země. Je tedy nad slunce jasné, že potřebujeme zásadně modernizovat naši ekonomiku směrem k větší obnovitelnosti a udržitelnosti naší společnosti,“ uvádí místopředseda Evropského parlamentu Marcel Kolaja.
 
