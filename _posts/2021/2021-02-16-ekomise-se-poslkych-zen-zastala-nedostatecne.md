@@ -21,4 +21,4 @@ Brusel, 16. února 2021 – Reprodukční zdraví a právo patří k základním
 > „A to je ještě “mírný” krok, který se povedlo ministrovi prosadit vyhláškou. Jeho původní návrh, který neprošel Parlamentem, je obří návrat do středověku,“ komentuje Gregorová. Ta zároveň připomíná, že v Česku je situace ještě přísnější. Kromě na doporučení lékaře si musí ženy tyto zákroky hradit samy vždy. „Naději vidím v návrhu novely potratového zákona, s nímž - mj. i kvůli Polkám - přichází senátor zvolený s pirátskou podporou, Václav Láska, a který by mohl otevřít dveře i další novelizaci zákona z předrevoluční doby,“ uzavírá Gregorová.
 
 
-[Zde](https://www.europarl.europa.eu/doceo/document/E-9-2020-006085-ASW_CS.html) najdete celou odpověď Evropské komise.
+* [Zde](https://www.europarl.europa.eu/doceo/document/E-9-2020-006085-ASW_CS.html) najdete celou odpověď Evropské komise.
