@@ -8,7 +8,7 @@ image:        /assets/img/articles/2021/marcel-kolaja00.jpg
 author:       
 ---
 
-Brusel/Mikulov, 17. 2. 2021 – Zastupitelé Mikulova dnes prodloužili partnerskou smlouvu s polským městem Tuchóv, které zavedlo tzv. zóny bez LGBT. Ty diskriminují mimo jiné gaye a lesby, kteří jsou tak prakticky vyháněni ze svých domovů. Dle pirátského místopředsedy Evropského parlamentu Marcela Kolaji tak zastupitelé Mikulova nepřímo podporují diskriminaci na základě sexuální orientace.
+Brusel/Mikulov, 17. února 2021 – Zastupitelé Mikulova dnes prodloužili partnerskou smlouvu s polským městem Tuchóv, které zavedlo tzv. zóny bez LGBT. Ty diskriminují mimo jiné gaye a lesby, kteří jsou tak prakticky vyháněni ze svých domovů. Dle pirátského místopředsedy Evropského parlamentu Marcela Kolaji tak zastupitelé Mikulova nepřímo podporují diskriminaci na základě sexuální orientace.
 
 > „Na vypovězení partnerské smlouvy Piráti upozorňovali již v létě minulého roku. Polské zóny bez LGBT jsou pro mě ve dvacátém prvním století nepřijatelné. Vyhánět lidi z jejich vlastních domovů na základě sexuální orientace je nepřípustné,“ komentuje Kolaja. 
 
