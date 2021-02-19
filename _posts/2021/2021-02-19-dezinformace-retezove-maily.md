@@ -19,5 +19,5 @@ Podle Markéty Gregorové se dezinformace často schovávají za pokroucenou rea
 
 Podle Českých elfů řetězové e-maily ovlivňují významnou část české populace. Podle výzkumu organizace Elpida a Nadace O2 z roku 2018 se s řetězovými e-maily setkalo přes 90 % seniorů, a 20 % z nich přiznává, že se podílí i na jejich dalším přeposílání. V těchto dnech ve svých e-mailových schránkách najdou senioři informační videa, ve kterých od dalšího přeposílání podobných e-mailů odrazují jejich vrstevníci. Za videi stojí europoslankyně Markéta Gregorová, která je připravila v rámci kampaně „Za sebe,“ která je součástí dlouhodobé iniciativy „Pravda bolí.“
 
-* [Vide seniorů můžete vidět tady](https://pravdaboli.eu/zasebe/)
+* [Videa seniorů můžete vidět tady](https://pravdaboli.eu/zasebe/)
 * [Informační leták naleznete zde](https://www.pirati.cz/assets/pdf/Alternativni_pravda.pdf)
