@@ -20,4 +20,4 @@ Tendr na dodávku téměř 4 milionů antigenních testů vyhrála firma, která
 > „Po zveřejnění kauzy se začali přes média vzájemně osočovat premiér Babiš a vicepremiér Hamáček. I když je nutné osvětlit řadu otázek ohledně tendru, je zcela neprofesionální, aby to probíhalo tímto matoucím způsobem skrz veřejné sdělovací prostředky. Nepoškozuje to jen již tak dost špatný obraz vlády, ale hlavně Českou republiku a její občany. Lidé mají silné pochyby o tom, že je vláda schopna bojovat s krizí a nějak efektivně spolupracovat v zájmu země. Tyto hádky je v dojmu bohužel jen utvrzují. Podobné chování vrcholných politiků považuji za zcela nepřípustné,” uzavřel Bartoň.
 
 
-Dopis adresovaný Ministerstvu vnitra najdete [ZDE](assets/pdf/web-Žádost-o-informace_tendr-na-dodání-antigenních-testů-do-škol.pdf)
+Dopis adresovaný Ministerstvu vnitra najdete [ZDE](https://www.pirati.cz/assets/pdf/web-Žádost-o-informace_tendr-na-dodání-antigenních-testů-do-škol.pdf)
