@@ -8,8 +8,6 @@ image:        /assets/img/articles/2019/inzerat.jpg
 author:       Mediální odbor
 ---
 
-V souvislosti s volební kampaní pro volby do Poslanecké sněmovny v roce 2021 hledáme kolegu na pozici specialisty online marketingu. Hlavní náplní činnosti bude tvorba a realizace obsahových online subkampaní a podílení se na kampani napříč všemi pracovními týmy. Odhadovaná pracovní doba je 40 hodin týdně.
-
 Pro období volbení kampaně před volbami do Poslanecké sněmovny 2021 sháníme agenturu se silnou kompetencí v oblasti nákupu online i offline médií a doručování obsahu na sociálních sítí. Úkolem agentury bude v synergii s PPC specialisty Pirátů a Starostů připravit strategii vyvrcholení volební kampaně na sociálních sítích, strategii nákupu online i offline médií napřímo a realizaci obého. Hlásit se mohou jen firmy nebo dobře sehrané skupiny freelancerů.
 
 **Výstupy v průběhu spolupráce:**
