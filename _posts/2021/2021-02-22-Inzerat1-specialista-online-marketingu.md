@@ -26,7 +26,8 @@ V souvislosti s volební kampaní pro volby do Poslanecké sněmovny v roce 2021
 * Schopnost pracovat pod tlakem.
 
 **Pro zařazení do výběrového řízení zašlete do 28. února 2021 23:59:59 následující:**
-1) Motivační dopis
-2) Životopis
+
+1. Motivační dopis
+2. Životopis
 
 * Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=56290)
