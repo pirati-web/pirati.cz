@@ -30,4 +30,4 @@ V souvislosti s volební kampaní pro volby do Poslanecké sněmovny v roce 2021
 1. Motivační dopis
 2. Životopis
 
-* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=56290)
+* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=56290).
