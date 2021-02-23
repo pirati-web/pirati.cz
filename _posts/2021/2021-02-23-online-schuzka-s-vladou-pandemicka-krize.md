@@ -21,4 +21,4 @@ Praha, 23. února 2021 – Neustále se zhoršující pandemická situace byla t
 
 Mezi požadavky, které zástupci Pirátů a STAN na jednání vznesli, figuruje také zajištění dostupnosti ochranných pomůcek pro občany, kteří si to nemohou dovolit. Vláda by také měla zahájit systematickou přípravu na plošné očkování v následujících měsících. Požadavkem je také zařadit starší učitele pověřené prezenční výukou ihned do systému očkování a ostatní učitele zařadit do vyšší prioritní skupiny.
 
-** * [Kompletní seznam návrhů Pirátů a STAN](https://www.pirati.cz/assets/pdf/Návrhy k protipandemickému postupu.pdf).** 
+* **[Kompletní seznam návrhů Pirátů a STAN](https://www.pirati.cz/assets/pdf/Návrhy k protipandemickému postupu.pdf).** 
