@@ -23,3 +23,5 @@ Do společného pozměňovacího návrhu, který předložili poslanci Pirátů,
 > Piráti na opravě tohoto zákona pracují už tři roky. Vyjednávali přitom jak se zástupci Vojenského zpravodajství, tak se zástupci profesních sdružení, nevládních organizací i soukromého sektoru. Kybernetická obrana představuje kvůli zvyšujícím se rizikům jednu z priorit Pirátů. „Navrhli jsme navýšení rozpočtu NÚKIB a vyzvali jsme vládu, aby do kyberbezpečnosti investovala peníze z evropského fondu obnovy,” shrnul Profant.
 
 Koalice Pirátů a STAN se také zabývá koncepčním řešením kyberobrany a kyberbezpečnosti, stejně jako na vyváženém přístupu k pravomocím a kontrole tajných služeb. Piráti též od začátku upozorňují na problematiku dodavatelských řetězců – ať už se jedná o technologie 5G či dostavbu jaderné elektrárny v Dukovanech. 
+
+* **[Podrobnější shrnutí problematiky naleznete na stránkách Pirátských listů](https://www.piratskelisty.cz/clanek-3881-pirati-prosadili-stopku-vojenskemu-zpravodajstvi-na-sledovani-online-komunikace-nedostatecne-osetreni-zasahu-a-derava-kontrola-pretrvavaji?fbclid=IwAR0UYcXHtUpjPBmcWlj9AFRC7pJ-H5TR-GC6Yf3KDhiokp04A63b0OKluiA).**
