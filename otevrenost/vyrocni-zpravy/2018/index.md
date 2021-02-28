@@ -5,4 +5,4 @@ rbar: otevrenost
 ---
 
 <h2> Výroční finanční zpráva, za rok 2018 </h2>
-<a href="https://pirati.cz/otevrenost/vyrocni-zpravy/2017/2018.pdf"> dokument pro vlastní tisk </a>
+<a href="https://pirati.cz/otevrenost/vyrocni-zpravy/2018/2018.pdf"> dokument pro vlastní tisk </a>
