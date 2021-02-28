@@ -5,4 +5,4 @@ rbar: otevrenost
 ---
 
 <h2> Výroční finanční zpráva, za rok 2019 </h2>
-<a href="https://zpravy.udhpsh.cz/zprava/vfz2019/pirati"> dokument pro vlastní tisk </a>
+<a href="https://pirati.cz/otevrenost/vyrocni-zpravy/2019/2019.pdf"> dokument pro vlastní tisk </a>
