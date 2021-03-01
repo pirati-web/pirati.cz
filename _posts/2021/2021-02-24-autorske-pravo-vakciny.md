@@ -1,7 +1,7 @@
 ---
 date:         2021-02-24
 category:     blog
-tags:         autorské-právo evropská-unie zdravotnictví
+tags:         autorské-právo evropská-unie zdravotnictví koronavirus
 layout:       post
 title:        "Europoslanci, včetně Marcela Kolaji, podpořili dopis Radě vyzývající k dočasnému zrušení patentů na očkování nebo diagnostiku"
 image:        /assets/img/articles/2021/marcel-kolaja01.jpg
