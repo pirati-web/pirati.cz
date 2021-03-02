@@ -1,0 +1,43 @@
+---
+date:         2021-03-02
+category:     blog
+tags:         sněmovna koronavirus zdravotnictví
+layout:       post
+title:        "Piráti vyzývají vládu k zajištění kvalitních antigenních testů pro firmy i navýšení covid nemocenské. Upozornili také na nezákonný postup policie vůči občanům při přejezdech mezi okresy"
+image:        /assets/img/articles/2021/ivan-bartos00.jpg
+author:       
+---
+
+
+
+Praha, 2. března 2020 - Piráti dnes na tiskové konferenci před 87. schůzí Sněmovny ocenili, že po jejich dlouhodobém tlaku vláda konečně spustila testování ve firmách. Podle nich je ale nutné zajistit, aby byly využívány skutečně kvalitní testy s vysokou mírou spolehlivosti i za cenu toho, že by měly být dražší. Žádají také motivační výši nemocenské pro lidi v karanténě nebo izolaci. Upozornili rovněž na problém občanů při přejezdech mezi okresy, kdy po nich policie protiprávně vymáhá fyzické doložení potřebných dokladů. I když by mělo stačit pouze elektronické potvrzení. Tématem byla také péče o ohrožené děti, nový blok Dukovan, volební a stavební zákon či legislativa ohledně invazivních druhů.
+
+> „Již několik měsíců jsme vyzývali vládu k tomu, aby zahájila povinně dostupné testování ve firmách. Zaměstnání je totiž druhým nejčastějším ohniskem nákaz. Jsem rád, že se vláda konečně k tomuto kroku odhodlala, i když mohl přijít výrazně dříve. Je ale potřeba dořešit celou řadu otázek. Firmy jsou připraveny převzít svou část zodpovědnosti a zavést ochranné prostředky pro pracovníky či zmíněné testování. Musí se ale dořešit například kvalita testů. Ne všechny testy mají totiž patřičnou úroveň senzitivity a specificity, neukazují tedy správné výsledky, což je pro efektivní boj s pandemií zcela klíčové. Druhá věc je úhrada testů - vláda chce dotovat testy za 60 korun, což ale není postačující, částka by měla být 80 - 100 korun i kvůli souvisejícím nákladům. Musí být také konečně dořešeno testování pověřenými pracovníky, ne všechny firmy mají totiž závodního lékaře či k dispozici zdravotníka. Je třeba zajistit i legislativní rámec, který by jasně stanovoval, jak mají podniky postupovat a zaměstnanci znali svá práva i povinnosti. Pracovníci musí mít k dispozici dostatek informací, jak bude testování probíhat, proč má smysl a jak zlepší ochranu jejich zdraví,” uvedl předseda Pirátů Ivan Bartoš. 
+
+První místopředsedkyně strany Olga Richterová se následně vyjádřila také k potřebě pozitivně motivovat lidi, aby chodili na testy a nahlašovali rizikové kontakty. To by podle ní měla zajistit vyšší nemocenská pro občany v karanténě či izolaci, aby se nemuseli bát propadů příjmů. 
+
+> „Na plénu dnes projednáme velmi potřebný návrh na stoprocentní náhradu mzdy pro občany v karanténě či izolaci. Uděláme maximum pro to, aby dnes prošel a zítra o něm již mohl jednat Senát. Je ale na místě už uvažovat i o dalších krocích. Je potřeba navázat pravidelnější kontrolou dodržování karantény. Kontaktovala jsem rovněž resort zdravotnictví a odborné organizace s otázkou, zda by nemělo smysl naočkovat maximum prioritních skupin alespoň první dávkou vakcíny AstraZeneca. Studie totiž ukazují, že i to má značnou účinnost. Otázkou je i délka karantény, kterou nedávno vláda prodloužila. Odborníci by měli zhodnotit, zda by nebylo efektivnější lidem, kteří nemají příznaky a mají po 7 dnech od kontaktu negativní test, umožnit nástup do zaměstnání,” uvedla Richterová s tím, že dalším sporným bodem je i pokračování vývoje české vakcíny, který posvětila v pondělí vláda. 
+
+> „Vývoj české vakcíny zatím dopadl naprostým fiaskem, vláda chce přesto do projektu nalít dalších 250 milionů korun. Podle návrhů to ovšem vypadá, že by výsledkem investice nebyla očkovací látka, ale např. zafinancování úprav provozních budov, což je nepřijatelné. Poslala jsem proto interpelaci ministrovi Blatnému s řadou otázek,” doplnila poslankyně.   
+
+> Pirátský poslanec Ondřej Profant následně okomentoval problematické dokládání dokumentů při přejezdech mezi okresy: „Kromě toho, že je opatření znefunkčněno množstvím výjimek, je problém i s jeho praktickým vymáháním. Policie totiž vyžaduje listinné potvrzení, i když v nařízení vlády je uvedeno písemné potvrzení. Police ovšem elektronické dokumenty neuznává, čímž prokazuje neznalosti zákona a evropských nařízení. Ministerstvo vnitra má přitom v gesci jak policii, tak oblast digitalizace. Čekal bych tedy, že jím preferovaná varianta bude právě ta elektronická, která je z epidemiologického hlediska bezpečnější. V 21. století by měla být vláda schopná potřebný formulář integrovat například do aplikace e-Rouška, ne posílat lidi, aby si došli někam fyzicky pro potvrzení. Budu dnes požadovat po ministrovi vnitra Janu Hamáčkovi, aby zjednal nápravu.”
+
+Ve čtvrtek má Sněmovna rovněž projednávat úpravu volebního zákona. 
+
+> „Na základě rozhodnutí Ústavního soudu je třeba, abychom co nejrychleji našli shodu na nové podobě volebního zákona. Je smutné, že se i z takto zásadní věci udělalo politické téma, kdy se musí jeden týden jednat o poslaneckém návrhu a další týden o vládním, i když jsou téměř totožné. Jsem rád, že alespoň došlo ke shodě na tom, že chceme jít cestou zachování 14 volebních krajů a zvýšené klauzule pro koalice. Zatím ale není shoda na tom, jak vysoká by měla být - my prosazujeme 7 procent pro koalici dvou stran a 9 procent pro tři a více stran. Co se týče přepočítání hlasů na mandáty, tak všechny předložené návrhy obsahují stejný systém, kdy jsou mandáty rozděleny stranám zcela poměrně dle volebního výsledků. To zajišťuje rovnost hlasů všech voličů, což bylo vždy naším primárním cílem,” doplnil Vojtěch Pikal, pirátský poslanec.
+
+Plénum se má rovněž zabývat zákonem o sociálně právní ochraně dětí. 
+
+> „K legislativě, která se věnuje mimo jiné podpoře mladých lidí opouštějících dětské domovy, předkládáme řadu pozměňovacích návrhů. Ty by zajistily lepší podporu pěstounů i fungování celého systému. Chceme zároveň prosadit zachování možnosti, aby mohl soud v případě akutního ohrožení dítěte vydat do 24 hodin předběžné opatření. To navrhují někteří pracovníci ministerstev zrušit, proti čemuž silně vystupujeme, oslabilo by to ochranu nejohroženějších dětí,” okomentovala Richterová.
+
+I během koronaviru pak chtějí vládní poslanci řešit tzv. lex Dukovany či novelu stavebního zákona. To Piráti považují za absurdní. 
+
+> „Projednání nízkouhlíkového zákona, tedy financování výstavby nového bloku jaderné elektrárny, podmínil i sám premiér nalezením široké politické shody. K té ale nedošlo. Sama vláda ani ČEZ nemají zatím vyjasněné modely financování, podle kterých by se měl projekt řídit. Za nás je zásadní, aby došlo k zastropování maximální výkupní ceny energie v zákoně, aby případné prodražení neodnesli daňoví poplatníci. K tomu se váže i požadavek na nastavení fixní ceny projektu a dodávky tzv. na klíč, tedy opět – aby nedošlo k jejímu předražení, jak jsme to viděli jinde. Důležitá je také otázka bezpečnosti, současná situace v Rusku a dlouhodobé porušování lidských práv Čínou jasně ukazují, proč firmy z těchto zemí nemohou být naším partnerem pro takto zásadní projekt. Naopak je ale třeba vyjít maximálně vstříc prověřeným zájemcům o tendr, aby se mohli zúčastnit výběrového řízení, a stát si tak mohl vybrat skutečně kvalitního dodavatele,” dodal Bartoš. 
+
+Problém je podle něj i u stavebního zákona. 
+
+> „Na plénum se vrátila kvůli návrhu poslance ANO Martina Kolovratníka novela stavebního zákona v podobě, jak ji ministerstvo pro místní rozvoj předkládalo na úplném začátku. Tento návrh zavádí obrovský stavební superúřad s tisícovkami přestěhovaných úředníků. Již dříve to odmítla jak opozice, tak dotčené úřady a veřejnost, protože jde o zcela neefektivní řešení. Se zástupci opozice, experty a právníky jsme proto připravili naši verzi stavebního zákona, která reálně zrychluje povolování staveb. Opírá se především o digitalizaci a co nejjednodušší stavební řízení, zlepšuje navíc transparentnost celého procesu,” vysvětlil předseda Pirátů. 
+
+Poslanci mají v týdnu řešit také invazivní novelu. 
+
+> „Invazivní novela jde dnes na plénum do 2. čtení. Má zajistit ochranu české přírody a biodiverzity před invazivními druhy jako jsou mýval či rostlina bolševník. Za Piráty chceme rozšířit evropský seznam invazních druhů i o národní, protože některé druhy škodí jen v České republice. Jde například o štovík aplský či norka amerického, který decimuje původní živočichy. Vnímám velmi negativně, že jsou k zákonu podány i pozměňovací návrhy, které oslabují ochranu chráněných živočišných druhů a usnadňují kácení dřevin. To odmítáme,” uzavřela Dana Balcarová, pirátská poslankyně a předsedkyně Výboru životního prostředí.
