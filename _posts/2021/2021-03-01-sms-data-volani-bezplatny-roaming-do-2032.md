@@ -4,7 +4,7 @@ category:     blog
 tags:         informatika evropská-unie legislativa
 layout:       post
 title:        "Volání, smsky a mobilní data zdarma. Evropská komise navrhla prodloužit bezplatný roaming do roku 2032"
-image:        /assets/img/articles/2021/marcel-koalaja00.jpg
+image:        /assets/img/articles/2021/marcel-kolaja00.jpg
 author:       
 ---
 
