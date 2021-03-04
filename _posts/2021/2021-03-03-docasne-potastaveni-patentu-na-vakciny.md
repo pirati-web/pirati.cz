@@ -22,4 +22,6 @@ Podle Pirátů musí Evropa souběžně pracovat na navýšení výrobní kapaci
 
 > „Je na čase změnit naše chápání patentové ochrany, zejména pokud je překážkou k záchraně dalších nemocných. Státy by například firmám mohly kompenzovat výdaje za výzkum a doplatit je bonusem za podstoupený risk z utopených nákladů, případně by firmám mohly nahrazovat zisky ušlé z uvolnění patentu,“ dodává místopředseda Evropského parlamentu Marcel Kolaja.
 
-Vzniklé náklady na veřejný sektor by se podle odhadů pohybovaly v miliardách euro, podle pirátských politiků by se bohatě vyplatily, jelikož by zabránily dalším rokům zbytečných úmrtí a extrémně drahým opatřením. Dopis vládě si můžete přečíst v příloze.
+Vzniklé náklady na veřejný sektor by se podle odhadů pohybovaly v miliardách euro, podle pirátských politiků by se bohatě vyplatily, jelikož by zabránily dalším rokům zbytečných úmrtí a extrémně drahým opatřením. 
+
+* [Dopis vládě si můžete přečíst zde.](https://www.pirati.cz/assets/pdf/Otevreny_dopis_TRIPS_waiver.pdf)
