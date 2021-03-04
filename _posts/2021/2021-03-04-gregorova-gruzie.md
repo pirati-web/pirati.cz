@@ -3,7 +3,7 @@ date:         2021-03-04
 category:     blog
 tags:         gruzie vláda lidská-práva
 layout:       post
-title:        "Gregorová na setkání se zástupci gruzínského občanského sektoru: „Vyšleme mediační tým"
+title:        "Gregorová na setkání se zástupci gruzínského občanského sektoru: „Vyšleme mediační tým""
 image:        /assets/img/articles/2021/Gregorova_u_schodu.jpg
 author:       
 ---
