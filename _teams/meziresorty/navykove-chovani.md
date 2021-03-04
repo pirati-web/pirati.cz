@@ -57,6 +57,8 @@ Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu js
 - [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), poslanec soustředící se na agendu prevence rizikového návykového chování
 - Ondřej Klíma, asistent poslance Tomáše Vymazala
 
+Operativu řeší tým na pirátském [Zulipu](https://zulip.pirati.cz) ve vlákně Návykové chování.
+
 Tým funguje podle zásad týmové spolupráce.  Spolupracujeme s poslanci, kteří mají související gesci (zejména sociální věci, zdravotnictví, školství, vnitro) a také se členy dotčených RT a KET.
 
 [**Zápisy ze schůzek týmu Návykové chování**](https://forum.pirati.cz/viewtopic.php?f=541&t=51860)
