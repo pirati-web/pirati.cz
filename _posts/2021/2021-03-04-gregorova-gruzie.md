@@ -10,7 +10,7 @@ author:
 
 Brusel/Tbilisi, 4. března 2021 - Pirátská europoslankyně Markéta Gregorová se na pozvání bezpečnostního centra Evropské hodnoty setkala se zástupci gruzínského občanského sektoru. Gregorová informovala o chystané debatě na plénu Evropského parlamentu příští týden a nastínila plány na vyslání mediačního týmu, který by zemi pomohl vystoupit z ústavní krize.
 
-Gregorová před časem informovala o tom, jak si Gruzie po říjnových volbách prochází ústavní krizí: opozice odmítá usednout v parlamentu kvůli obviněním z manipulace voleb, vláda hrozí tvrdými kroky, jako je zbavení mandátu opozičních poslanců. 
+Gregorová před časem [informovala](https://gregorova.eu/krize-v-gruzii-je-problemem-i-evropske-unie/) o tom, jak si Gruzie po říjnových volbách prochází ústavní krizí: opozice odmítá usednout v parlamentu kvůli obviněním z manipulace voleb, vláda hrozí tvrdými kroky, jako je zbavení mandátu opozičních poslanců. 
 
 > „Obě strany si momentálně nemají moc co vyčítat, pokud jde o schopnost a hlavně ochotu hledat kompromisní řešení. Trpí tím obyčejní Gruzínci i gruzínská demokracie. Současná vláda si ale vytyčila žádost o členství v Evropské unii do roku 2024 jako prioritu a je tedy i na nás nabídnout pomocnou ruku – a využít této motivace,“ komentuje Gregorová. 
 
