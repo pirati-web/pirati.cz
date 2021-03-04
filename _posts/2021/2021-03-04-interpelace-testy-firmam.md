@@ -20,4 +20,4 @@ Za Piráty a STAN jsme se v minulosti snažili kabinet maximálně podpořit a p
 
 Musí se například dořešit například kvalita testů. Ne všechny testy mají totiž patřičnou úroveň senzitivity a specificity, neukazují tedy správné výsledky, což je pro efektivní boj s pandemií zcela klíčové. Druhá věc je úhrada testů – vláda chce dotovat testy za 60 korun, což ale není postačující, částka by měla být 80 – 100 korun i kvůli souvisejícím nákladům. Musí být také konečně dořešeno testování pověřenými pracovníky, ne všechny firmy mají totiž závodního lékaře či k dispozici zdravotníka. Je třeba zajistit i legislativní rámec, který by jasně stanovoval, jak mají podniky postupovat, a aby zaměstnanci znali svá práva i povinnosti. To vše už měla vláda dávno připravit.
 
-Celé znění interpelace naleznete [ZDE](http://pirati.cz/assets/pdf/210304_Interpe_premier_predikce%20COVID_Bisop.pdf).
+Celé znění interpelace naleznete [ZDE](http://pirati.cz/assets/pdf/Interpelace - predikce COVID - na premiera (1).pdf).
