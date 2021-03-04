@@ -20,4 +20,4 @@ Prosazujeme účinnou politiku státu v oblasti psychotropních látek, kterou l
 Například situace v Portugalsku jasně ukazuje[^fn-02] že dekriminalizace držení psychotropních látek nezvyšuje jejich užívání, naopak snižuje jejich pouliční prodej a tedy i dostupnost pro děti, redukuje výskyt nemocí mezi závislými i počet policejních zákroků.
 
 [^fn-01]: Úřad Organizace spojených národů pro drogy a kriminalitu: [Oceňování hodnoty trhu s nelegálními drogami](http://www.unodc.org/pdf/WDR_2005/volume_1_chap2.pdf), 2005.
-[^fn-02]: Hughes, Caitlin, Stevens, Alex 2010-7-21 [What can we learn from the Portuguese decriminalization of illicit drugs?](http://www.beckleyfoundation.org/bib/doc/bf/2010_Caitlin_211621_1.pdf). British Journal of Criminology. Oxford University Press, pp. 1014.)
+[^fn-02]: Hughes, Caitlin, Stevens, Alex 2010-7-21 [What can we learn from the Portuguese decriminalization of illicit drugs?](https://pdfs.semanticscholar.org/4ab0/a481a65114f33667720d814b1c3f58ec6435.pdf?_ga=2.157211965.707627993.1614875821-946391265.1614875821). British Journal of Criminology. Oxford University Press, pp. 1014.)
