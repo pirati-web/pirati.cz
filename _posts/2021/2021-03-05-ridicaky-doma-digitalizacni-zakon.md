@@ -4,7 +4,7 @@ category:     blog
 tags:         digitalizace legislativa
 layout:       post
 title:        "Řidičům již postačí občanka, řidičáky mohou nechat doma. Sněmovna schválila digitalizační zákon s mnoha pirátskými návrhy"
-image:        /assets/img/articles/2021/ondrej-polansky00.jpg
+image:        /assets/img/articles/2021/ondrej-profant00.jpg
 author:       
 ---
 
