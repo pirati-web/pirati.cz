@@ -1,7 +1,7 @@
 ---
 date:         2021-03-08
 category:     blog
-tags:         interrupce polsko lidská-práva
+tags:         interrupce zahraničí lidská-práva
 layout:       post
 title:        "Zákazy přesouvají interrupce do ilegality. Pirátky spouští web na podporu práv žen"
 image:        /assets/img/articles/2021/bartosova_gregorova.jpg
