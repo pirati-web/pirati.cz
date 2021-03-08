@@ -32,5 +32,5 @@ Poslední pozměňovací návrh z pera Pirátů se týká podmínek pro zrušen�
 
 **Odkazy**
 
-* Textové znění pozměňovacích návrhů Pirátů(https://www.psp.cz/sqw/historie.sqw?o=8&t=912).
-* Otázky a odpovědi. Ministerstvo vysvětluje návrh, který usnadní konzervaci lokálek(https://zdopravy.cz/otazky-a-odpovedi-ministerstvo-vysvetluje-navrh-ktery-usnadni-konzervaci-lokalek-73579/).
+* [Textové znění pozměňovacích návrhů Pirátů](https://www.psp.cz/sqw/historie.sqw?o=8&t=912).
+* [Otázky a odpovědi. Ministerstvo vysvětluje návrh, který usnadní konzervaci lokálek](https://zdopravy.cz/otazky-a-odpovedi-ministerstvo-vysvetluje-navrh-ktery-usnadni-konzervaci-lokalek-73579/).
