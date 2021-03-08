@@ -17,4 +17,4 @@ author:       Mediální odbor
 V rezoluci je dále vyslovena výzva, aby Turecko s okamžitou a definitivní platností ukončilo svou vojenskou operaci v severovýchodní Sýrii a stáhlo všechny své jednotky ze syrského území, také se v ní zdůrazňuje významný přínos syrských demokratických sil jakožto spojence v boji proti Islámskému státu. Evropský parlament také trvá na globálním politickém řešení syrského konfliktu na základě uznání jednoty, svrchovanosti a územní celistvosti syrského státu, s plným uznáním práv všech etnických a náboženských složek syrské společnosti.
 
 
-* [Text celé rezoluce v českém jazyce](https://www.europarl.europa.eu/doceo/document/RC-9-2019-0123_CS.html?fbclid=IwAR0GQRakxve2OATHHwE-8arS1xWmmyxoDLRFI935eicKlDqLBT0-3-tpTa4)
+* [Text celé rezoluce v českém jazyce](https://www.europarl.europa.eu/doceo/document/RC-9-2019-0123_CS.html)

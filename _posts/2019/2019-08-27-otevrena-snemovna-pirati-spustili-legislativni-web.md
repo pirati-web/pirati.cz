@@ -21,4 +21,4 @@ Kromě veřejnosti se počítá se zapojením desítek profesních organizací, 
 Dnes spuštěná aplikace je přístupná na adrese [www.otevrenasnemovna.cz](http://www.otevrenasnemovna.cz). Obsahuje zatím čtyři legislativní návrhy otevřené k připomínkování. Každý uživatel se o funkčnosti systému může dozvědět víc z instruktážních videí, která jsou součástí webu. 
 
 
-* **Video představující projekt Otevřená sněmovna naleznete [zde](https://www.youtube.com/watch?v=nTE2ryZpqjs&feature=youtu.be&fbclid=IwAR0mRUW8N7WsIhApHh8wgrosUFimGWdHnfAPDFCvo9c_D8Mu4H5dM9GMLzg).**
+* **Video představující projekt Otevřená sněmovna naleznete [zde](https://www.youtube.com/watch?v=nTE2ryZpqjs&feature=youtu.be).**

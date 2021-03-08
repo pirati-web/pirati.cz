@@ -16,4 +16,4 @@ Praha, 11. května 2020 – Výbor pro životní prostředí projedná ve střed
 
 > „Na základě provedených studií a zkušeností ze zahraničí je jasné, že zálohování může výrazně pomoci dosažení cílů třídění a potažmo i recyklace PET a hliníku. Proto chci, aby zálohování bylo umožněno dobrovolně neboť z analýz jednoznačně nevyplývá, že zavedení povinného zálohování je v případě ČR jediné a nejlepší řešení. Podávám pozměňovací návrh, který toho má dosáhnout a podporuji podobné návrhy dalších poslanců,“ doplnil pirátský poslanec František Elfmark.
 
-Výbor pro životní prostředí se sejde ve středu v 11 hodin. Jeho [jednání](https://www.psp.cz/sqw/hp.sqw?k=4612&z=13900) bude dostupné prostřednictvím online přenosu na [stránkách Poslanecké sněmovny](https://www.psp.cz/sqw/hp.sqw?k=1357&fbclid=IwAR2cQhYObAMnifs7ZTP0gB2Kh8SbgLFdgpmQlI28-LM7y-zb3ZOKmv0U5d8) . 
+Výbor pro životní prostředí se sejde ve středu v 11 hodin. Jeho [jednání](https://www.psp.cz/sqw/hp.sqw?k=4612&z=13900) bude dostupné prostřednictvím online přenosu na [stránkách Poslanecké sněmovny](https://www.psp.cz/sqw/hp.sqw?k=1357) . 

@@ -12,7 +12,7 @@ author:
 
 Praha/Brno/Brusel, 17. prosince 2020 – Do jejího bytu vtrhli ozbrojení policisté a začali ho prohledávat. Studentku Kasyu pak zatkli a neprávem uvěznili. Ve vazbě čeká na soudní proces už několik týdnů. Kasya patří ke 155 politickým vězňům, kterých se zastala nová iniciativa #WeStandBYyou, jejíž součástí se stala pirátská europoslankyně Markéta Gregorová.
 
-> „I v Česku to byli studenti, kteří mé generaci před 31 lety umožnil žít život, který nyní žiji – ve svobodné a demokratické společnosti. Kasya a s ní další studenti i ostatní Bělorusové se v těchto dnech snaží získat totéž pro svou zemi a svou budoucnost. Kasyi poskytnu svou maximální podporu. A vyzývám běloruské orgány, aby ji stejně okamžitě propustili,“ cituje Markétu Gregorovou [organizace Libereco](https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/?fbclid=IwAR1FwbR8lzsTyDYhgZFvI6MC8o1X9Cdhe0kaY4ZYm4933twV34wYGNSVy4E), která iniciativu #WeStandBYyou (#StojímePŘIvás) spustila.
+> „I v Česku to byli studenti, kteří mé generaci před 31 lety umožnil žít život, který nyní žiji – ve svobodné a demokratické společnosti. Kasya a s ní další studenti i ostatní Bělorusové se v těchto dnech snaží získat totéž pro svou zemi a svou budoucnost. Kasyi poskytnu svou maximální podporu. A vyzývám běloruské orgány, aby ji stejně okamžitě propustili,“ cituje Markétu Gregorovou [organizace Libereco](https://www.lphr.org/en/belarus-gefangene-patenschaften-prisoners-godparenthood/), která iniciativu #WeStandBYyou (#StojímePŘIvás) spustila.
 
 Kasya Budzko je aktivistkou Svazu běloruských studentů a studentkou Běloruské státní pedagogické univerzity. Byla zadržena letos 12. listopadu v rámci trestního řízení podle čl. 342 část 1 trestního zákoníku Běloruské republiky za „organizování nebo účast na skupinových akcích, které závažným způsobem narušují veřejný pořádek“. Její byt prohledávali policisté a Kasya je v současné chvíli ve vyšetřovací věznici KGB.
 
@@ -22,4 +22,4 @@ Smyslem iniciativy je, aby se veřejně činné osobnosti zasadily o medializaci
 
 > Podle Gregorové může zadržené podpořit svým dílem každý: „Chtěla bych vyzvat i širokou veřejnost, aby apelovala na svoje zástupce, ať se do iniciativy zapojí a vynesou na světlo tvář a příběh někoho z neprávem zadržených. A každý může někomu ze zadržených třeba poslat dopis,“ dodala europoslankyně.
 
-Kasyina korespondenční adresa je: Main Post Office, PO box 8, 220050, Minsk. Další informace jsou k nalezení [zde](http://spring96.org/en/news/49539?fbclid=IwAR3Q2Hr9Ha6OnVRDDt_4ZjKmOk9LFbBnY5rr9AOD8foGfmAwLcAibICUxiY).
+Kasyina korespondenční adresa je: Main Post Office, PO box 8, 220050, Minsk. Další informace jsou k nalezení [zde](http://spring96.org/en/news/49539).

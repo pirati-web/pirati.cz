@@ -22,4 +22,4 @@ V článku 16 zdůrazňuje, že k dalšímu vyjednávání mezi EU a Spojeným k
 > „Tzv. irská pojistka je nepřekročitelná podmínka. Nemůžeme připustit, aby se v ulicích Irska znovu rozhořely boje, které by měly za následek oběti na životech občanů státu EU, to je absolutně nepřípustné,“ doplnil Peksa.
 
 
-Celou rezoluci můžete najít [zde](https://www.europarl.europa.eu/doceo/document/B-9-2019-0038_CS.html?fbclid=IwAR2QtXMBhypYA6JAlzrnPjchE6Z4P8gMvjX_qHABOGXomyqG_IvgloklB9I).
+Celou rezoluci můžete najít [zde](https://www.europarl.europa.eu/doceo/document/B-9-2019-0038_CS.html).

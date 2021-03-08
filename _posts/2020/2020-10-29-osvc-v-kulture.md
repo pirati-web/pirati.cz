@@ -22,4 +22,4 @@ Dotační program Covid – kultura 2 představilo Ministerstvo kultury a Minist
 
  
 
-Vedle uvedených nedostatků, se kterými se podpůrné programy vlády trvale potýkají, je třeba zmínit, že Ministerstvo kultury po soustavném tlaku na informování veřejnosti, zejména z řad Pirátů, zveřejnilo dlouho očekávaný přehled hlavních otázek (FAQ) a video-návod, v němž popisuje, jak o podporu požádat, a to jak na oficiálních stránkách ministerstev, tak na kanálu [Youtube](https://www.youtube.com/watch?reload=9&v=SGTi1sZT7ck&fbclid=IwAR2P4yUGrc1v7_wCSqscHwd2n52hh9RxUvJjwuUuVuUWAkE3hfKkQIt4_qI) Ministerstva kultury. 
+Vedle uvedených nedostatků, se kterými se podpůrné programy vlády trvale potýkají, je třeba zmínit, že Ministerstvo kultury po soustavném tlaku na informování veřejnosti, zejména z řad Pirátů, zveřejnilo dlouho očekávaný přehled hlavních otázek (FAQ) a video-návod, v němž popisuje, jak o podporu požádat, a to jak na oficiálních stránkách ministerstev, tak na kanálu [Youtube](https://www.youtube.com/watch?reload=9&v=SGTi1sZT7ck) Ministerstva kultury. 
