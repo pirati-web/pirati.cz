@@ -1,7 +1,7 @@
 ---
 date:         2021-03-06
 category:     blog
-tags:         evropská-unie lidká-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Kolik bere kolega? Na to vám budou muset odpovědět už při pohovoru, počítá s tím návrh směrnice"
 image:        /assets/img/articles/2021/jourova_gregorova.png
