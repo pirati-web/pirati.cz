@@ -53,7 +53,7 @@ Za přípravu agendy setkání zodpovídá Janka  Michailidu. Členové týmu js
 
 - [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), garant programového bodu Psychotropní látky Pirátské strany
 - [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce garanta programového bodu Psychotropní látky Pirátské strany
-- [Michaela Skokanová](https://lide.pirati.cz/personProfile/531/) sociální pracovnice, studentka adiktologie
+- [Michaela Skokanová](https://lide.pirati.cz/personProfile/531/), sociální pracovnice, studentka adiktologie
 - [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), poslanec soustředící se na agendu prevence rizikového návykového chování
 - Ondřej Klíma, asistent poslance Tomáše Vymazala
 
