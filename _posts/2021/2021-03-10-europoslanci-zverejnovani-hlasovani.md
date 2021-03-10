@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie transparence
 layout:       post
 title:        "Kolaja vyzývá ke zveřejňování hlasování europoslanců. Evropský parlament dál zůstává netransparentní"
-image:        /assets/img/articles/2021/marcel-kolaja00.png
+image:        /assets/img/articles/2021/marcel-kolaja00.jpg
 author:       
 ---
 
