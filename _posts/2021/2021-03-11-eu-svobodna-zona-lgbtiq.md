@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Europarlament se zastal sexuálních menšin. Evropská unie je nově „Svobodnou zónou LGBTIQ“"
-image:        /assets/img/articles/2021/marcel-kolaja01.jpg
+image:        /assets/img/articles/2021/LGBTIQ Fredome zone.png
 author:       
 ---
 
