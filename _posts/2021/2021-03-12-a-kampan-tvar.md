@@ -1,7 +1,7 @@
 ---
 date:         2021-03-12
 category:     blog
-tags:         nedamsvoutvar reclaimyourface kocmanova gregorova
+tags:         lidská-práva evropská-unie bezpečnost
 layout:       post
 title:        "„Vraťte nám naše tváře!“ Kampaň varuje před zaváděním biometrického šmírování"
 image:        /assets/img/articles/2021/post_newsletter_gregorova_reclaim_face.png
