@@ -34,4 +34,4 @@ e.               Bude možné převést úředníky bez práce dočasně do kraj
 
  
 
-**Plnou verzi návrhu pandemického zákona Pirátů a Starostů můžete najít [ZDE](https://www.pirati.cz/assets/pdf/Pandemicky%CC%81_za%CC%81kon.pdf?fbclid=IwAR2aNq9WAspcS8AWIO0-R2jAQVqHmigH6vhK0IhzFitUYQYqkBIaClleiJg).**
+**Plnou verzi návrhu pandemického zákona Pirátů a Starostů můžete najít [ZDE](https://www.pirati.cz/assets/pdf/Pandemicky%CC%81_za%CC%81kon.pdf).**

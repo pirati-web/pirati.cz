@@ -18,7 +18,7 @@ Praha, 13. listopadu 2020 – Poslanecký klub Pirátů vyhlašuje výběrové �
 Uchazeči musí splnit základní podmínky stanovené zákonem. Mezi další požadavky patří odbornost v oboru ekonomie či podpory bydlení, podrobná znalost zákona o Státním fondu podpory bydlení, bezúhonnost i vysoká osobní integrita a další. Zájemci musí také předložit motivační dopis s vizí působení na dané pozici.
 
 
-Více informací o výběrovém řízení je k dispozici na [pirátském fóru](https://forum.pirati.cz/viewtopic.php?p=728065&fbclid=IwAR1u5NkN3eNMXuDsqLIIP5DUAg3l_h3FeXKmShKSfNBmGcloQaWB4Q2OsVU). Zájemci o post nominanta Pirátů se mohou do výběrového řízení [přihlásit elektronicky]( https://airtable.com/shrtLy9u1CVvqT5X3).
+Více informací o výběrovém řízení je k dispozici na [pirátském fóru](https://forum.pirati.cz/viewtopic.php?p=728065). Zájemci o post nominanta Pirátů se mohou do výběrového řízení [přihlásit elektronicky]( https://airtable.com/shrtLy9u1CVvqT5X3).
 
 O SFPI: 
 

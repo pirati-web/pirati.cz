@@ -12,7 +12,7 @@ author:       Markéta Gregorová
 
 
 
-Praha/Brusel, 26. ledna 2021 – Českým internetem se šíří nové tzv. [deepfake video](https://pravdaboli.eu/deepfakevideo/?fbclid=IwAR3BqJNvIFqYUo5QhAoK9kAY-NEXDM_eb6Gnn6UWLCX35SHSI3ncYqZ9r5c). Falešný premiér Andrej Babiš na něm varuje veřejnost před novými technologiemi v oblasti dezinformací. Za unikátním spotem stojí pirátská europoslankyně Markéta Gregorová. Ta chce problém dezinformací do budoucna řešit legislativně na evropské úrovni.
+Praha/Brusel, 26. ledna 2021 – Českým internetem se šíří nové tzv. [deepfake video](https://pravdaboli.eu/deepfakevideo/). Falešný premiér Andrej Babiš na něm varuje veřejnost před novými technologiemi v oblasti dezinformací. Za unikátním spotem stojí pirátská europoslankyně Markéta Gregorová. Ta chce problém dezinformací do budoucna řešit legislativně na evropské úrovni.
 
 > „Ověřte si zdroje informací! A nevěřte všemu, co vidíte na vlastní oči. Protože občas pravda bolí,“ apeluje falešný Andrej Babiš v závěru svého výstupu, zatímco jeho rysy mizí a mění se zpátky na herce a imitátora Petra Jablonského.
 

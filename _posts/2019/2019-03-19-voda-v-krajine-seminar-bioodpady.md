@@ -17,4 +17,4 @@ Praha, 19. března 2019 – Seminář s názvem Bioodpady a jejich využití –
 
 Od 1. ledna mají obce povinnost zajistit celoroční sběr biologicky rozložitelného odpadu. Otázka je, jak tuto hodnotnou surovinu dokážeme využít. Je to velká výzva pro kraje, obce, Ministerstvo životního prostředí a Ministerstvo zemědělství.
 
-* Program semináře, dokumenty, prezentace a zvukový záznam můžete nalézt na [stránce Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4606&td=19&cu=12&fbclid=IwAR2-PdaUydmrHmORiBLkDK8FqwICit2OEPGJ1F-6H4priFdjWChI6TFxBRo)
+* Program semináře, dokumenty, prezentace a zvukový záznam můžete nalézt na [stránce Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4606&td=19&cu=12)

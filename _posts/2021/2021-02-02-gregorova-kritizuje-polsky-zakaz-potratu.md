@@ -20,4 +20,4 @@ Ve švédském, norském a islandském parlamentu už jsou zákony, které mají
 
 > „Žádali jsme premiéra, aby česká vláda pomohla polským ženám, které přijedou podstoupit interrupci do České republiky, a ministra zdravotnictví jsem požádal, aby vyjasnil sporný výklad zákona, kvůli kterému mnoho klinik v Česku odmítá úkon vykonat. Bohužel vláda doposud neučinila žádné kroky a zavírá oči před tímto omezováním reprodukčních práv v Polsku,“ komentuje situaci poslanec František Kopřiva. 
 
-Původní rozhovor s Krystynou Kacpura v polštině můžete najít [zde](https://www.polityka.pl/tygodnikpolityka/spoleczenstwo/2101417,1,zakaz-aborcji-kobiety-sa-przerazone-jestesmy-w-pulapce.read?fbclid=IwAR1NOwTOb_pgTks39TM0a8Wlc4osovN56xSeaI1qg5hWB4LeT1pdqxOU0EM).
+Původní rozhovor s Krystynou Kacpura v polštině můžete najít [zde](https://www.polityka.pl/tygodnikpolityka/spoleczenstwo/2101417,1,zakaz-aborcji-kobiety-sa-przerazone-jestesmy-w-pulapce.read).

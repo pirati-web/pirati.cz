@@ -17,4 +17,4 @@ Praha, 4. listopadu 2019 - Celostátní fórum Pirátské strany dnes skončilo 
 
 
 
-[Výsledky hlasování](https://helios.pirati.cz/helios/elections/ecbe2072-fa31-11e9-bf56-00000a2a0114/view?fbclid=IwAR3Z0Hatxw_63b6PACW_ZPZ39gxJgBpoB4Fhzuk95a_6vtf01EgGE-t_TmQ)
+[Výsledky hlasování](https://helios.pirati.cz/helios/elections/ecbe2072-fa31-11e9-bf56-00000a2a0114/view)

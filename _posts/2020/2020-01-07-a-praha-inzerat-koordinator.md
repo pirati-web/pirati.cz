@@ -22,4 +22,4 @@ Sháníme kolegu s nadstandardními komunikačními dovednostmi, reprezentativn�
 * Odměna 30 tisíc měsíčně, bonus až 5 tisíc Kč měsíčně + mimořádná odměna po krajských volbách.
 * Neomezený mobilní tarif s internetem.
 * Možnost seberealizace, kreativity, vhodné i pro studenty nebo osoby na rodičovské.
-* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50549&fbclid=IwAR19JjUlxV4bcC70uSw5eMxq3fD6X_0F2zlgEgAmB3r51fUp5LXs6WbghDM)
+* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=50549)
