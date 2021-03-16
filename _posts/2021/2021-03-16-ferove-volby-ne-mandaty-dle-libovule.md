@@ -17,4 +17,4 @@ Praha, 16. března 2021 – Tuto středu se na půdě Ústavně právního výbo
 
 > „Na prvním místě by mělo být u poslance podle jeho slibu hájení Ústavy. Návrh rozdělovat hraniční mandáty podle rozhodnutí šéfů stran je nebezpečný v tom, že vnáší do volebního systému nový defekt, který ohrožuje regulérnost voleb. Naopak teď musí politici udělat maximum pro to, aby mohly volby férově proběhnout. Pokud by byl protiústavní zákon schválen, zvážíme, že se ještě před volbami obrátíme na Ústavní soud,“ doplnil Michálek.
 
-* **Stanovisko ústavních právníků Marka Antoše a Jana Wintra naleznete [ZDE](https://www.pirati.cz/assets/pdf/PSP-Přímost-volebního-práva.pdf).**
+* **Stanovisko ústavních právníků Marka Antoše a Jana Wintra naleznete [ZDE](https://www.pirati.cz/assets/pdf/psp-primost-vol-prava.pdf).**
