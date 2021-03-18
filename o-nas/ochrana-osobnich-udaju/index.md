@@ -125,14 +125,14 @@ služeb spojených s newslettery,</li>
 
 ## 7. Právo na přístup k osobním údajům
 Subjekt údajů má právo získat od správce potvrzení, zda osobní údaje, které se ho týkají, jsou či nejsou zpracovávány, a pokud je tomu tak, má právo získat přístup k těmto osobním údajům a k následujícím informacím: <ol>
-    <li> účely zpracování,
-    <li> kategorie dotčených osobních údajů,
-    <li> příjemci nebo kategorie příjemců, kterým osobní údaje byly nebo budou zpřístupněny,
-    <li> plánovaná doba, po kterou budou osobní údaje uloženy,
-    <li> existence práva požadovat od správce opravu nebo výmaz osobních údajů, právo vznést námitku,
-    <li> právo podat stížnost u dozorového úřadu,
-    <li> veškeré dostupné informace o zdroji osobních údajů, pokud nejsou získány od subjektu údajů,
-    <li> skutečnost, že dochází k automatizovanému rozhodování, včetně profilování.
+    <li> účely zpracování,</li>
+    <li> kategorie dotčených osobních údajů,</li>
+    <li> příjemci nebo kategorie příjemců, kterým osobní údaje byly nebo budou zpřístupněny,</li>
+    <li> plánovaná doba, po kterou budou osobní údaje uloženy,</li>
+    <li> existence práva požadovat od správce opravu nebo výmaz osobních údajů, právo vznést námitku,</li>
+    <li> právo podat stížnost u dozorového úřadu,</li>
+    <li> veškeré dostupné informace o zdroji osobních údajů, pokud nejsou získány od subjektu údajů,</li>
+    <li> skutečnost, že dochází k automatizovanému rozhodování, včetně profilování.</li>
   </ol>
 
 Správce poskytne kopii zpracovávaných osobních údajů. Za další kopie na žádost subjektu údajů může správce účtovat přiměřený poplatek na základě administrativních nákladů. Jestliže subjekt údajů podává žádost v elektronické formě, poskytnou se informace v elektronické formě, která se běžně používá, pokud subjekt údajů nepožádá o jiný způsob.
