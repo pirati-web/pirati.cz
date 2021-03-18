@@ -11,9 +11,11 @@ keywords: osobní údaje, gdpr, Pirátská strana, Piráti, politické cíle
 </style>
 
 ## 1. Úvod
+
 Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaje zpracováváme v souladu se zákonem o ochraně osobních údajů a s nařízením EU o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) známým pod zkratkou GDPR.
 
 ## 2. Správce osobních údajů
+
 <table>
 <tr><td>Název:</td><td>Česká pirátská strana</td></tr>
 <tr><td>Sídlo:</td><td> Na Moráni 360/3, 128 00 Praha 2, Česká republika</td></tr>
@@ -27,6 +29,7 @@ Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaj
 Kontaktní osobou Správce pro oblast ochrany osobních údajů je vedoucí Administrativního odboru (nyní Alice Hamalová), kontaktovat ji lze na e-mailové adrese **gdpr@pirati.cz**.
 
 ## 3. Kategorie osobních údajů
+
 Osobním údajem je jakákoliv informace o fyzické osobě, pomocí které je správce nebo jiná osoba přímo nebo nepřímo schopna ji identifikovat. Tato osoba se potom nazývá subjektem údajů. V souvislosti s evidencí členů a registrovaných příznivců a výkonem politické činnosti může správce zpracovávat následující kategorie osobních údajů:
 <ol>
   <li> adresní a identifikační údaje - jméno, příjmení, datum narození, adresa trvalého pobytu, kontaktní adresa, fakturační adresa, IČO, DIČ, dále,</li>
@@ -41,6 +44,7 @@ Osobním údajem je jakákoliv informace o fyzické osobě, pomocí které je sp
 </ol>
 
 ## 4. Zdroje osobních údajů
+
 Správce získává osobní údaje přímo od subjektu údajů v rámci:
 <ol>
   <li> členské přihlášky  (adresní a identifikační údaje, kontaktní údaje, údaje nutné pro rozhodnutí o přijetí za člena), nebo</li>
@@ -55,6 +59,7 @@ Správce získává osobní údaje přímo od subjektu údajů v rámci:
 Správce dále získává osobní údaje automatizovaně z protokolárních souborů serverů a z údajů poskytovaných webovým prohlížečem návštěvníků webových stránek v rozsahu pro řešení kybernetických incidentů (prošetření narušení bezpečnosti) a bežného monitoringu provozu.
 
 ## 5. Účel, právní důvody a doby zpracování osobních údajů
+
 <ol>
   <li> Za účelem komunikace se členy, příznivci i dalšími podporovateli, vč. informování o aktivitách České pirátské
 strany či činnosti jednotlivých představitelů strany, nabídky dalšího zapojení do činností a aktivit strany či
@@ -96,6 +101,7 @@ smluvní stranou je subjekt údajů nebo pro provedení opatření přijatých p
 Správce neprovádí žádná automatické rozhodování ani profilování.
 
 ## 6. Kategorie příjemců osobních údajů
+
 Správce při plnění svých závazků a povinností vyplývajících z politické činnosti může využívat odborné a
 specializované služby externích dodavatelů v jejichž rámci může docházet ke zpracování osobních údajů. V některých
 případech se tito dodavatelé stávají zpracovateli osobních údajů.
@@ -124,7 +130,9 @@ služeb spojených s newslettery,</li>
 </ol>
 
 ## 7. Právo na přístup k osobním údajům
-Subjekt údajů má právo získat od správce potvrzení, zda osobní údaje, které se ho týkají, jsou či nejsou zpracovávány, a pokud je tomu tak, má právo získat přístup k těmto osobním údajům a k následujícím informacím: <ol>
+
+Subjekt údajů má právo získat od správce potvrzení, zda osobní údaje, které se ho týkají, jsou či nejsou zpracovávány, a pokud je tomu tak, má právo získat přístup k těmto osobním údajům a k následujícím informacím:
+<ol>
     <li> účely zpracování,</li>
     <li> kategorie dotčených osobních údajů,</li>
     <li> příjemci nebo kategorie příjemců, kterým osobní údaje byly nebo budou zpřístupněny,</li>
@@ -133,7 +141,7 @@ Subjekt údajů má právo získat od správce potvrzení, zda osobní údaje, k
     <li> právo podat stížnost u dozorového úřadu,</li>
     <li> veškeré dostupné informace o zdroji osobních údajů, pokud nejsou získány od subjektu údajů,</li>
     <li> skutečnost, že dochází k automatizovanému rozhodování, včetně profilování.</li>
-  </ol>
+</ol>
 
 Správce poskytne kopii zpracovávaných osobních údajů. Za další kopie na žádost subjektu údajů může správce účtovat přiměřený poplatek na základě administrativních nákladů. Jestliže subjekt údajů podává žádost v elektronické formě, poskytnou se informace v elektronické formě, která se běžně používá, pokud subjekt údajů nepožádá o jiný způsob.
 
@@ -161,6 +169,7 @@ Subjekt údajů má právo získat osobní údaje, které se ho týkají, jež p
 Při výkonu toho práva má subjekt údajů právo na to, aby osobní údaje byly předány přímo jedním správcem správci druhému, je-li to technicky proveditelné. Výkonem práva na přenositelnost nesmí být nepříznivě dotčena práva a svobody jiných osob.
 
 ## 11. Právo vznést námitku
+
 Subjekt údajů má z důvodů týkajících se jeho konkrétní situace právo kdykoli vznést námitku proti zpracování osobních údajů, které jsou zpracovávány na základě právních důvodů:
 <ol>
   <li> zpracování je nezbytné pro plnění úkolu prováděného ve veřejném zájmu nebo při výkonu veřejné moci, kterým je správce pověřen, nebo</li>
@@ -172,12 +181,15 @@ Správce osobní údaje dále nezpracovává, pokud neprokáže závažné oprá
 Námitku lze vznést i proti zpracování osobních údajů pro účely přímého marketingu nebo profilování. Pokud subjekt údajů vznese námitku proti zpracování pro účely přímého marketingu, nebudou již osobní údaje pro tyto účely zpracovávány.
 
 ## 12. Právo nebýt předmětem automatizovaného individuálního rozhodování, včetně profilování
+
 Subjekt údajů má právo nebýt předmětem žádného rozhodnutí založeného výhradně na automatizovaném zpracování, včetně profilování, které má pro něho právní účinky nebo se ho obdobným způsobem významně dotýká.
 
 ## 13. Právo na oznámení opravy, výmazu nebo omezení zpracování
+
 Správce oznamuje jednotlivým příjemcům, jimž byly osobní údaje zpřístupněny, veškeré opravy nebo výmazy osobních údajů nebo omezení zpracování s výjimkou případů, kdy se to ukáže jako nemožné nebo to vyžaduje nepřiměřené úsilí. Správce informuje subjekt údajů o těchto příjemcích, pokud to subjekt údajů požaduje.
 
 ## 14. Právo na omezení zpracování
+
 Subjekt údajů má právo na to, aby správce omezil zpracování, v kterémkoli z těchto případů:
 <ol>
   <li> subjekt údajů popírá přesnost osobních údajů, a to na dobu potřebnou k tomu, aby správce mohl přesnost osobních údajů ověřit,</li>
@@ -187,34 +199,42 @@ Subjekt údajů má právo na to, aby správce omezil zpracování, v kterémkol
 </ol>
 
 ## 15. Právo odvolat souhlas se zpracováním osobních údajů
+
 Za účelem vykonávání politické činnosti zpracovává správce údaje z komunikace se subjektem údajů. Právním důvodem tohoto zpracování je oprávněný zájem správce. Údaje jsou uchovávány po dobu 6 let počínající od 1. 1. roku následujícího po roce, kdy byla zpráva odeslána nebo doručena.
 Pokud je zpracování osobních údajů založeno na udělení souhlasu subjektu údajů se zpracováním jeho osobních údajů pro jeden či více konkrétních účelů, potom subjekt údajů má právo odvolat kdykoli souhlas, aniž je tím dotčena zákonnost zpracování založená na souhlasu uděleném před jeho odvoláním.
 
 ## 16. Právo obrátit se na dozorový úřad
+
 Subjekt údajů je oprávněn podat stížnost na dozorový úřad, kterým je Úřad pro ochranu osobních údajů v Praze.
 
 ## 17. Uplatnění práv subjektu údajů
+
 Subjekt údajů může uplatnit svoje práva u správce nejlépe v písemné formě na kontaktní adrese Česká pirátská strana, Řehořova 943/19, 130 00 Praha 3, Česká republika nebo v elektronické formě e-mailem na adrese gdpr@pirati.cz případně datovou zprávou do datové schránky správce b2i4r6j.
 
 Z důvodu zamezení případných pochybností o totožnosti žadatele správce doporučuje, aby uplatnění práva subjektu údajů v písemné formě bylo opatřeno úředně ověřeným popisem a v elektronické formě e-mailem elektronickým podpisem s kvalifikovaným certifikátem.
 
 ## 18. Externí odkazy
+
 Tyto webové stránky mohou obsahovat odkazy na webové stránky partnerů správce, sociálních sítí, poskytovatelů reklamy nebo jiných třetích stran. Jestliže kliknete na tyto odkazy, mějte prosím na paměti, že správce není odpovědný za prodej zboží, poskytování služeb ani za ochranu osobních údajů na těchto stránkách. Správce doporučuje seznámit se se zásadami ochrany osobních údajů těchto stránek ještě před tím než jim poskytnete jakékoliv osobní údaje.
 
 ## 19. Cookies
+
 “Cookies” jsou malé datové soubory, které jsou nezbytné pro správnou funkci webových stránek, a které proto někdy umísťujeme na Váš počítač nebo mobilní zařízení, tak jako většina ostatních webových stránek. V žádném případě nepoužíváme cookies ke shromažďování, zpracování, šíření nebo uchovávání osobních údajů nebo k jiným účelům než zde uvedeným.
 
 Cookies jsou textové soubory, které webové stránky ukládají na Váš počítač nebo mobilní zařízení v okamžiku, kdy tyto webové stránky začnete využívat. Webové stránky si tak na určitou dobu zapamatují údaje a preference, které jste na nich nastavili (např. jazyk, velikost písma a jiné zobrazovací preference), takže tyto údaje pak nemusíte zadávat znovu.
 
 ## 20. Cookies třetích stran
+
 Webové stránky správce nepoužívají údaje z cookies třetích stran.
 
 Cookies třetích stran jsou cookies, které jsou vytvářeny a ukládány jinými webovými stránkami než těmi, které si právě prohlížíte. Tyto soubory cookies mohou být používány službami Facebook, Twitter, YouTube, Google AdSense, Google AdWords, Google Analytics, Seznam, Sklik a dalšími třetími stranami k analýze uživatelů webových stránek nebo k personalizované inzerci. Přítomnost, množství a stav těchto souborů cookies může záviset na tom, jakým způsobem uvedené služby využíváte před návštěvou našich webových stránek nebo v jejím průběhu. Doporučujeme, abyste se seznámili se zásadami používání těchto cookies na internetových stránkách příslušných služeb. Používání cookies třetích stran pro personalizovanou inzerci můžete povolit nebo zakázat mimo jiné na adrese http://optout.aboutads.info. 
 
 ## 21. Jak upravit používání cookies?
+
 Používání cookies lze upravit podle toho jak potřebujete (např. je můžete vymazat). Podrobné informace uvádí webové stránky http://www.aboutcookies.org (v anglickém jazyce). Můžete vymazat všechny cookies, které jsou již na Vašem počítači. Většina prohlížečů nabízí možnost zabránit tomu, aby byly cookies na Váš počítač ukládány. Pokud však tuto možnost využijete, budete zřejmě muset manuálně upravovat některé preference při každé návštěvě daných webových stránek a nelze ani vyloučit omezení některých služeb a funkcí webových stránek. Na našich webových stránkách můžete cookies kdykoliv povolit nebo odmítnout pomocí tlačítek Povolit cookies a Odmítnout cookies v dolní části této stránky.
 
 ## 22. Účinnost
+
 Tento dokument je účinný od 25. května 2018. Historie změn je k nahlédnutí [zde](https://github.com/pirati-web/pirati.cz/commits/gh-pages/o-nas/ochrana-osobnich-udaju).
 
 
