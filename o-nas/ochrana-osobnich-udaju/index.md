@@ -102,7 +102,7 @@ případech se tito dodavatelé stávají zpracovateli osobních údajů.
 
 Externími dodavateli jsou poskytovatelé:
 <ol>
-  <li> P&amp; N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online
+  <li> P&amp;N Holding, s.r.o, Pernerova 676/53, Praha 8, Karlín, Česká republika za účelem poskytování online
 účetního software,</li>
   <li> WEDOS Internet, a.s., Masarykova 1230, 373 41 Hluboká nad Vltavou, Česká Republika za účelem
 poskytování služeb datových úložišť a hostingových služeb,</li>
@@ -214,6 +214,6 @@ Cookies třetích stran jsou cookies, které jsou vytvářeny a ukládány jiný
 Používání cookies lze upravit podle toho jak potřebujete (např. je můžete vymazat). Podrobné informace uvádí webové stránky http://www.aboutcookies.org (v anglickém jazyce). Můžete vymazat všechny cookies, které jsou již na Vašem počítači. Většina prohlížečů nabízí možnost zabránit tomu, aby byly cookies na Váš počítač ukládány. Pokud však tuto možnost využijete, budete zřejmě muset manuálně upravovat některé preference při každé návštěvě daných webových stránek a nelze ani vyloučit omezení některých služeb a funkcí webových stránek. Na našich webových stránkách můžete cookies kdykoliv povolit nebo odmítnout pomocí tlačítek Povolit cookies a Odmítnout cookies v dolní části této stránky.
 
 ## 22. Účinnost
-Tento dokument je účinný od 25. května 2018.
+Tento dokument je účinný od 25. května 2018. Historie změn je k nahlédnutí [zde](https://github.com/pirati-web/pirati.cz/commits/gh-pages/o-nas/ochrana-osobnich-udaju).
 
 
