@@ -1,7 +1,7 @@
 ---
 date:         2021-03-17
 category:     blog
-tags:         piráti česko investice EU
+tags:         evropská-unie sněmovna
 layout:       post
 title:        "Piráti, KDU-ČSL, TOP 09, STAN a ČSSD svolávají mimořádnou schůzi Sněmovny. Chtějí, aby vláda využila efektivně 180 miliard z evropského Fondu obnovy"
 image:        /assets/img/articles/2021/frantisek-kopriva00.jpg
