@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda kontrola-moci-a-mocných životní-prostředí
 layout:       post
 title:        "Komentář Dany Balcarové: Vláda chce v tichosti zpoplatnit přístup k informacím o životním prostředí, pro Piráty je to nepřijatelné"
-image:        /assets/img/articles/2020/dana-balcarova02.jpg
+image:        /assets/img/articles/2021/dana-balcarova02.jpg
 author:       Dana Balcarová
 ---
 
