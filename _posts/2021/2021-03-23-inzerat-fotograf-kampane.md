@@ -22,7 +22,7 @@ Studiové a profilové fotografie našich osobností, fotografie komparzu a post
 * Časové možnosti 10%
 * Portfolio 40%
 
-**Výběrové řízení proběhne dvoukolovou formou: první kolo proběhne výběrem z předložených nabídek a druhé formou osobního (možnost online) pohovoru. Pro zařazení do výběrového řízení zašlete do 3. března 2021:**
+**Výběrové řízení proběhne dvoukolovou formou: první kolo proběhne výběrem z předložených nabídek a druhé formou osobního (možnost online) pohovoru. Pro zařazení do výběrového řízení zašlete do 31. března 2021:**
 
 
 * a) reference
