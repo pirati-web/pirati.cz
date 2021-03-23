@@ -1,7 +1,7 @@
 ---
 date:         2021-03-23
 category:     blog
-tags:         inzerát
+tags:         inzerát volby
 layout:       post
 title:        "Koalice Pirátů a Starostů vyhlašuje výběrové řízení na pozici fotografa"
 image:        /assets/img/articles/2019/inzerat.jpg 
