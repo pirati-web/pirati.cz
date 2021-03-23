@@ -25,4 +25,4 @@ Pro období volbení kampaně před volbami do Poslanecké sněmovny 2021 shán�
 
 **Prosíme o zaslání materiálů do 29. února 2021.**
 
-* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=56291).
+* Kompletní informace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?f=572&t=56291).
