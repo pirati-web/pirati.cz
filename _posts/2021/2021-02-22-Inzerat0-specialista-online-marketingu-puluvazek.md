@@ -30,4 +30,4 @@ V souvislosti s volební kampaní pro volby do Poslanecké sněmovny v roce 2021
 2. Životopis
 3. Ukázku dosavadní práce (odkazy na spravované profily FB/Instagram/Twitter) 
 
-* Kompletní infromace o vypisované pozici naleznete [ZDE](https://www.starostove-nezavisli.cz/o-nas/specialista-online-marketingu-pul-uvazek).
+* Kompletní informace o vypisované pozici naleznete [ZDE](https://www.starostove-nezavisli.cz/o-nas/specialista-online-marketingu-pul-uvazek).
