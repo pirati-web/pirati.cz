@@ -22,7 +22,7 @@ Pokud budou výše uvedené podmínky splněny a bude příznivá epidemiologick
 
 * Žáci 1. stupně základních škol.
 * Žáci posledních ročníků středních škol v oborech s odborným zaměřením v rámci přípravy k závěrečným zkouškám a maturitě. 
-* +Yáci středních škol a studenti vysokých škol v praktické výuce za zpřísněných opatření (praktická výuka v méně početných skupinách).
+* Žáci středních škol a studenti vysokých škol v praktické výuce za zpřísněných opatření (praktická výuka v méně početných skupinách).
 * Děti v mateřských školách.
 * Žáci ohrožení školním neúspěchem nebo s psychickými problémy. Prezenční výuka této skupiny žáků by mohla probíhat alespoň částečně ve vybraných dnech buď individuálně, nebo v menších skupinách tak, aby byl zajištěn průběžný kontakt. Tato skupina žáků by byla identifikována školou, případně ve spolupráci s OSPOD nebo místními sociálními službami.
 * Žáci speciálních škol s tím, že by byl jejich návrat do prezenční výuky dobrovolný.
