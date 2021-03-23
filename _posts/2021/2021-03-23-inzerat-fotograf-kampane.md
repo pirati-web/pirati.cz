@@ -23,8 +23,10 @@ Studiové a profilové fotografie našich osobností, fotografie komparzu a post
 * Portfolio 40%
 
 **Výběrové řízení proběhne dvoukolovou formou: první kolo proběhne výběrem z předložených nabídek a druhé formou osobního (možnost online) pohovoru. Pro zařazení do výběrového řízení zašlete do 3. března 2021:**
-a) reference
-b) portfolio
-c) finanční nároky
 
-* Kompletní informace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?t=56716).
+
+* a) reference
+* b) portfolio
+* c) finanční nároky
+
+Kompletní informace o vypisované pozici naleznete **[ZDE](https://forum.pirati.cz/viewtopic.php?t=56716).**
