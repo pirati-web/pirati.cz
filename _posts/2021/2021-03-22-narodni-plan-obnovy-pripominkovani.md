@@ -14,5 +14,5 @@ Praha, 22. března 2021 – Národní plán obnovy má rozhodnout o osudu 182 mi
 Připomínky posílejte na [příslušné gesční týmy](https://www.pirati.cz/tymy/) případně Danielu Kolářovi (daniel.kolar@pirati.cz).
 
 * [Kapitoly Národního plánu obnovy ke stažení ve formátu .zip](https://www.pirati.cz/assets/zip/01_word.zip).
-* [Tabulka přehled komponent Národního plánu obnovy k 16. 3. 2021](https://www.pirati.cz/assets/zip/Komponenty NPO_16032021.xlsx).
+* [Tabulka přehled komponent Národního plánu obnovy k 16. 3. 2021](https://www.pirati.cz/assets/zip/Komponenty-NPO_13032021_3.xlsx).
 * [Tabulka předpokládaných nákladů](https://www.pirati.cz/assets/zip/M-T.XLSX).
