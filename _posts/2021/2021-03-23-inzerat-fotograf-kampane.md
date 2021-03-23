@@ -8,7 +8,7 @@ image:        /assets/img/articles/2019/inzerat.jpg
 author:       Mediální odbor
 ---
 
-Studiové a profilové fotografie našich osobností, fotografie komparzu a postprodukce v termínu od 1. do 19. dubna. To je nápň práce časově flexibilního fotografa s prokazatelnými zkušesnotmi a schopnostmi pro samostatnou a kreativní práci, kterého sháníme pro účely parlamentních voleb 2021. 
+Studiové a profilové fotografie našich osobností, fotografie komparzu a postprodukce v termínu od 1. do 19. dubna. To je nápň práce časově flexibilního fotografa s prokazatelnými zkušenostmi a schopnostmi pro samostatnou a kreativní práci, kterého sháníme pro účely parlamentních voleb 2021. 
 
 **Hodnotící kritéria:**
 1. kolo:
@@ -27,4 +27,4 @@ a) reference
 b) portfolio
 c) finanční nároky
 
-* Kompletní infromace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?t=56716).
+* Kompletní informace o vypisované pozici naleznete [ZDE](https://forum.pirati.cz/viewtopic.php?t=56716).
