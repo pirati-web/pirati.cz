@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí finance
 layout:       post
 title:        "Piráti podpořili návrh na zrušení úlev pro majitele skládek. Obce a stát stojí stamiliony na poplatcích"
-image:        /assets/img/articles/2021/2021/elfmark-balcarova.jpg
+image:        /assets/img/articles/2021/elfmark-balcarova.jpg
 author:       
 ---
 
