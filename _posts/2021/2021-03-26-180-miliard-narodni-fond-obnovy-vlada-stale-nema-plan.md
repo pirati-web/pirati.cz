@@ -30,13 +30,9 @@ Piráti už v prosinci zaslali premiéru Andreji Babišovi a vicepremiéru Karlu
 
 * Měla by být snížena alokace do komponent 1.4 Digitální ekonomika a společnost, která nedostatečně vysvětluje investiční potřebu České republiky a zvýhodnění leteckého průmyslu, případně by tato komponenta měla být výrazně přepracována.
 
- 
+* Požadujeme dodržení plánované alokace do oblasti kultury, ale komponenta 1.6 Rozvoj kulturního a kreativního sektoru nemá být vedena pod pilířem 1, jelikož se nejedná o digitalizační projekty.
 
-Požadujeme dodržení plánované alokace do oblasti kultury, ale komponenta 1.6 Rozvoj kulturního a kreativního sektoru nemá být vedena pod pilířem 1, jelikož se nejedná o digitalizační projekty.
-
- 
-
-V dopravních komponentách požadujeme prioritizaci železnice, elektrifikace hromadné dopravy ve městech a cyklostezek. V případě elektromobility by investice měly mířit do infrastruktury, která je dostupná všem (například do veřejných dobíjecích stanic) a ne pouze firmám. V případě, že budou komponenty tímto směrem upraveny, souhlasíme i s navýšením celkové alokace dopravních komponent.
+* V dopravních komponentách požadujeme prioritizaci železnice, elektrifikace hromadné dopravy ve městech a cyklostezek. V případě elektromobility by investice měly mířit do infrastruktury, která je dostupná všem (například do veřejných dobíjecích stanic) a ne pouze firmám. V případě, že budou komponenty tímto směrem upraveny, souhlasíme i s navýšením celkové alokace dopravních komponent.
 
 * V případě investic do vodíku je klíčové specifikovat s využitím jakého vodíku se počítá. V případě, že má jít o vysokoemisní vodík z koksárenského plynu (tzv. šedý vodík), nevidíme v takovýchto projektech ekologický význam a žádáme jejich vyškrtnutí.
 
