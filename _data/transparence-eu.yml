@@ -3,7 +3,7 @@
   - title: Výdaje
     content: |
       <ul>
-        <li> <a href="https://nextcloud.pp-eu.eu/index.php/s/Fk5ZEMqSA3pzaqt"> Všeobecné výdaje </li>
+        <li> <a href="https://gea.pp-eu.eu/"> Všeobecné výdaje </li>
         <li><a href="https://nextcloud.pp-eu.eu/index.php/s/QgFTytZAcMZj3rn"> Všechny faktury </li>
       </ul>
 -
@@ -19,6 +19,6 @@
   items:
   - title: Registr smluv
     content: |
-      <p> Podívejte se na naše 
+      <p> Podívejte se na naše
         <a href="https://nextcloud.pp-eu.eu/index.php/s/F9qEc8dsaxzSAX8"> smlouvy</a>.
       </p>
