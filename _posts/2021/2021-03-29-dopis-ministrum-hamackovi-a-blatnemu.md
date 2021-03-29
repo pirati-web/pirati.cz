@@ -27,4 +27,4 @@ NKÚ mimo jiné uvedl, že část ochranných pomůcek byla státem distribuovan
 > „Zdravotníci tak mohli používat respirátory, které jim nemusely poskytovat potřebnou ochranu. To je naprosto nepřijatelné a uživatele nekvalitních respirátorů tak měli falešný pocit bezpečí. Otázkou také je, zda je prověřeno, že ochranné pomůcky, které mají ministerstva nyní na skladě, jsou dostatečně kvalitní, jak ukládá zákon. Nebo jaký byl další osud ochranných pomůcek, které ministerstva odmítla na základě testování z důvodu špatné kvality - žádáme v dopise ministry o ujištění, že se tyto ochranné pomůcky neprodávaly na e-shopech,“ doplnil analytik Pirátů Janusz Konieczny.
 
 
-* Celé znění otevřeného dopisu naleznete [ZDE](http:www.//pirati.cz/assets/pdf/dopis-bartos-blatny-hamacek.pdf).
+* Celé znění otevřeného dopisu naleznete [ZDE](http://www.pirati.cz/assets/pdf/dopis-bartos-blatny-hamacek.pdf).
