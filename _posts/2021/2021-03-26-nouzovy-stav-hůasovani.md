@@ -26,3 +26,5 @@ Vláda prosadila další prodloužení nouzového stavu za přispění hlasů KS
 Piráti a Starostové přitom byli ochotni najít s vládou určitou shodu v případě, že splní jimi předložené konkrétní body.
 
 > „Byli jsme ochotni a připraveni za jasně definovaných podmínek s vládou jednat, nikoliv pro vládu, ale pro zdravotníky a hejtmany. Vládou vedená chaotická rozhodnutí ke zlepšení situace nepřispěla, zásluhu totiž mají zejména lidé v regionech, kteří s nákazou skutečně bojují a mají na bedrech celý systém očkování a celého zdravotnictví. Namísto ambice situaci skutečně řešit a vést s námi, opozicí, konstruktivní diskuzi, se raději kabinet opakovaně spoléhá na hlasy komunistů, a to za pochybných podmínek,“ uzavřel předseda poslaneckého klubu STAN Jan Farský. 
+> 
+* [Plné znění navržených doprovodných usnesení](https://www.pirati.cz/assets/pdf/Usnesení_Piráti_STAN.pdf).
