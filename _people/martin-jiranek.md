@@ -14,7 +14,7 @@ mail:
 - martin.jiranek@pirati.cz
 mob: +420 777 719 282
 office: 
-  - address: Veleslavínova 66, 541 01  Trutnov
+  - address: Jihoslovanská 142, 541 01, Trutnov
     opening:
   - address: Sněmovní 4, 118 26 Praha 1 - Malá Strana
     opening:
