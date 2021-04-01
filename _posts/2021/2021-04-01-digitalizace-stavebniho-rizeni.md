@@ -3,7 +3,7 @@ date:         2021-04-01
 category:     blog
 tags:         stavební-zákon kontrola-moci-a-mocných
 layout:       post
-title:        Opoziční strany navrhují digitalizaci stavebního řízení a jeho zjednodušení pro občany. Piráti a Starostové prosazují i lepší dohled nad veřejnými zakázkami či snazší odstraňování černých staveb"
+title:        "Opoziční strany navrhují digitalizaci stavebního řízení a jeho zjednodušení pro občany. Piráti a Starostové prosazují i lepší dohled nad veřejnými zakázkami či snazší odstraňování černých staveb"
 image:        /assets/img/articles/2021/36_Bartos.jpg
 author:       
 ---
