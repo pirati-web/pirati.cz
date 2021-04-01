@@ -53,7 +53,7 @@ Za přípravu agendy setkání zodpovídá Janka Michailidu. Členové týmu jso
 
 - [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), vedoucí týmu, garant programového bodu Psychotropní látky Pirátské strany
 - [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce garanta programového bodu Psychotropní látky Pirátské strany
-- [Michaela Skokanová](https://lide.pirati.cz/personProfile/531/), sociální pracovnice, studentka adiktologie
+- [Michaela Nepejchalová](https://lide.pirati.cz/personProfile/531/), sociální pracovnice, studentka adiktologie
 - [Petr Konečný](https://lide.pirati.cz/personProfile/1427/), sociální pracovník, člen komise pro prevenci kriminality a drogových závislostí Olomouckého kraje
 - [Martin Boxan](https://lide.pirati.cz/personProfile/1892/), vedoucí pracovník NNO, kouč, supervizor
 - [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), poslanec soustředící se na agendu prevence rizikového návykového chování
