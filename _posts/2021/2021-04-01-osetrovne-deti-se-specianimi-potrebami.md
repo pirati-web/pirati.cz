@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavirus zdravotnictví
 layout:       post
 title:        "Piráti a Starostové prosazují zvýšení krizového ošetřovného, u dětí se speciálními potřebami chtějí i posunout hranici věku pro jeho čerpání "
-image:        /assets/img/articles/2021/olga-richterova00.jpg
+image:        /assets/img/articles/2021/olga-richterova01.jpg
 author:       
 ---
 
