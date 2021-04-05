@@ -4,6 +4,7 @@ rbar: otevrenost
 title: Výroční zprávy
 ---
 
+- [za rok 2020](https://zpravy.udhpsh.cz/zprava/vfz2020/pirati) (web ÚDHPSH) [(pdf)](2020/2020.pdf)
 - [za rok 2019](https://zpravy.udhpsh.cz/zprava/vfz2019/pirati) (web ÚDHPSH) [(pdf)](2019/2019.pdf)
 - [za rok 2018](https://zpravy.udhpsh.cz/zprava/vfz2018/pirati) (web ÚDHPSH) [(pdf)](2018/2018.pdf)
 - [za rok 2017](https://zpravy.udhpsh.cz/zprava/vfz2017/pirati) (web ÚDHPSH) [(pdf)](2017/2017.pdf)
