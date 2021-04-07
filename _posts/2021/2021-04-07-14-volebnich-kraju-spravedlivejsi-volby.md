@@ -4,7 +4,7 @@ category:     blog
 tags:         volby legislativa
 layout:       post
 title:        "Piráti a Starostové podpoří 14 volebních krajů a spravedlivější přepočet hlasů"
-image:        /assets/img/articles/2021/pikal-farsky.jpg
+image:        /assets/img/articles/2021/pikal-farsky.jpeg
 author:       
 ---
 
