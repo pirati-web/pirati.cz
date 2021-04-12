@@ -47,7 +47,7 @@ V Pirátské straně působil jako registrovaný příznivec od roku 2012. V roc
 Tomáš Martínek pochází z České Lípy. V současné době žije s partnerkou Terezou, se kterou vychovává dceru Miu, syna Elona a kočku.
 
 Podporuje elektronizaci veřejné správy, hlubší integraci EU související se zvyšující se životní úrovní lidí, průhledné hospodaření státu, snížení zdanění práce nebo legalizaci konopí. Vystupuje proti dotační podpoře velkých podniků, vyvádění zisků do daňových rájů a  privatizaci sociálního pojištění. 
- nformace o aktuálním dění najdete i na jeho facebookovém [politickém](https://www.facebook.com/tomas.martinek.pirati/) nebo [osobním](https://www.facebook.com/tmartinek) profilu. Kromě toho lze pro sledování využít i [Twitter](https://twitter.com/TomasMartinekCZ) nebo [Instagram](https://www.instagram.com/tommartinek/).
+ Informace o aktuálním dění najdete i na jeho facebookovém [politickém](https://www.facebook.com/tomas.martinek.pirati/) nebo [osobním](https://www.facebook.com/tmartinek) profilu. Kromě toho lze pro sledování využít i [Twitter](https://twitter.com/TomasMartinekCZ) nebo [Instagram](https://www.instagram.com/tommartinek/). Můžete si zobrazit [vybrané výsledky poslance](https://www.pirati.cz/vysledky/#type=own&datefilter5=all&resorty-select=resort-finance%2Cresort-informatika%2Cresort-vnitro-a-bezpecnost%2Cresort-spravedlnost%2Cresort-skolstvi%2Cresort-prace-a-socialnich-veci%2Cresort-zivotni-prostredi%2Cresort-zemedelstvi%2Cresort-prumysl-a-obchod%2Cresort-evropska-unie-zahranici-obrana%2Cresort-doprava-a-logistika%2Cresort-zdravotnictvi%2Cresort-kultura%2Cresort-mistni-rozvoj&poslanci-select=tomas-martinek&cycletype=state&grouptype=poslanec) i podrobné [měsíční reporty činnosti poslance](https://forum.pirati.cz/poslanci-f884/report-poslance-tomas-martinek-t38894.html). Komentáře publikuje Tomáš Martínek na [Pirátských listech](https://www.piratskelisty.cz/stitek/Tom%C3%A1%C5%A1%20Mart%C3%ADnek) či [Forum24](https://www.forum24.cz/autor/tomas-martinek/).
 
 
 Poslanecká sněmovna
@@ -69,8 +69,15 @@ Poslanecká sněmovna
 - Podvýbor pro e-government (Výbor pro veřejnou správu)
 - Podvýbor pro daně, cla a loterie (Rozpočtový výbor)
 
-
-Kalendář
+Aktuálně
 --------
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftomas.martinek.pirati&tabs=timeline&width=370&height=800&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId=275645779112488" width="370" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<a class="twitter-timeline" data-lang="cs" data-width="370" data-height="800" data-theme="light" href="https://twitter.com/TomasMartinekCZ?ref_src=twsrc%5Etfw">Tweets by TomasMartinekCZ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Veřejný kalendář
+----------------
 
 <iframe src="https://calendar.google.com/calendar/embed?src=spnksjkkqsm5s05p05clfjjr14%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0; max-width:100%" width="740" height="600" frameborder="0" scrolling="no"></iframe>
