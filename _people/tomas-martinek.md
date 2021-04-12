@@ -71,11 +71,12 @@ Poslanecká sněmovna
 
 Aktuálně
 --------
-
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftomas.martinek.pirati&tabs=timeline&width=370&height=800&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId=275645779112488" width="370" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+<div><span style="display:inline-block;"
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftomas.martinek.pirati&tabs=timeline&width=370&height=800&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId=275645779112488" width="330" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</span>
+<span style="display:inline-block">
 <a class="twitter-timeline" data-lang="cs" data-width="370" data-height="800" data-theme="light" href="https://twitter.com/TomasMartinekCZ?ref_src=twsrc%5Etfw">Tweets by TomasMartinekCZ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+</span>
 
 Veřejný kalendář
 ----------------
