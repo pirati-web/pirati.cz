@@ -3,7 +3,7 @@ date:         2021-04-13
 category:     blog
 tags:         legislativa zdravotnictví
 layout:       post
-title:        "Poslanci navrhují transformaci kojeneckých ústavů a umisťování nejmenších dětí do rodin
+title:        "Poslanci navrhují transformaci kojeneckých ústavů a umisťování nejmenších dětí do rodin"
 image:        /assets/img/articles/2021/olga-richterova00.jpg
 author:       
 ---
