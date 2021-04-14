@@ -4,7 +4,7 @@ category:     blog
 tags:         zdravotnictví vzdělávání legislativa
 layout:       post
 title:        "Piráti představili návrhy pro zlepšení systému vzdělávání lékařů. Vznikly na základě spolupráce se spolkem Mladí lékaři"
-image:        /assets/img/articles/2021/tresnak-malikova-koci.jpg.jpg
+image:        /assets/img/articles/2021/tresnak-malikova-koci.jpg
 author:       
 ---
 
