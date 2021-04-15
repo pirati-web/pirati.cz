@@ -4,7 +4,7 @@ category:     blog
 tags:         bezpečnost evropská-unie
 layout:       post
 title:        "Bude sledován každý náš krok? Nepřijatelné, hodnotí Kolaja uniklý návrh Komise"
-image:        /assets/img/articles/2021/marce-kolaja01.jpg
+image:        /assets/img/articles/2021/marcel-kolaja01.jpg
 author:       
 ---
 
