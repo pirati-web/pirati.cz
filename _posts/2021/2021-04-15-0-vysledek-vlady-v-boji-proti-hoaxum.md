@@ -25,8 +25,8 @@ Boji s dezinformacemi se dlouhodobě věnuje pirátská europoslankyně Markéta
 
 ![Dezinformační billboard](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard.png)
 
-![Dezinformační billboard1](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard.png1)
+![Dezinformační billboard1](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard1.png)
 
-![Dezinformační billboard2](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard.png2)
+![Dezinformační billboard2](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard2.png)
 
-![Dezinformační billboard3](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard.png3)
+![Dezinformační billboard3](http://www.pirati.cz/assets/img/articles/2021/dezinfoboard3.png)
