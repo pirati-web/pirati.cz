@@ -4,7 +4,7 @@ category:     blog
 tags:         hoaxy koronavirus média
 layout:       post
 title:        "Piráti odhalili nelegální dezinformační kampaň zneužívající pandemii. Selhání vlády, říká Gregorová"
-image:        /assets/img/articles/2021/gregorova-babis.jpg
+image:        /assets/img/articles/2021/dezinfoboard1.png
 author:       
 ---
 
