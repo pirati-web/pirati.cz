@@ -4,7 +4,7 @@ category:     blog
 tags:         exekuce sněmovna legislativa
 layout:       post
 title:        "ANO, ODS a Trikolora odmítly pomoci téměř 800 tisícům lidí v krizi. Sněmovna smetla návrh na teritorialitu exekutorů prosazovaný Piráty"
-image:        /assets/img/articles/2021/2021/lukas-kolarik01.jpg
+image:        /assets/img/articles/2021/lukas-kolarik01.jpg
 author:       
 ---
 
