@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí bezpečnost
 layout:       post
 title:        "Gregorová: Tlačím na rezoluci Evropského parlamentu, která se za Česko jasně postaví"
-image:        /assets/img/articles/2021/35_Gregorova.jpg
+image:        /assets/img/articles/2021/marketa_ostrihana.jpg
 author:       
 ---
 
