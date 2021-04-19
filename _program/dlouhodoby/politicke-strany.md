@@ -15,7 +15,7 @@ Politické strany jsou jedním z nástrojů společenské diskuse a jejich ideov
 
 Nesouhlasíme s bariérami, které brání vzniku politických alternativ a nutí volit staré politické struktury. Zvýhodněný volební příspěvek velkých stran a uzavírací klauzule nutná pro vstup do sněmovny narušují rovné podmínky politické soutěže. Jako regulační mechanismus v těchto případech stačí přirozený práh nutný k získání jednoho mandátu. Ze stejných důvodů chceme peněžité kauce do parlamentních, evropských a senátních voleb nahradit peticemi, které podepsal stanovený počet občanů, kteří kandidaturu podporují. Strany se tak ve volbách nebudou zaštiťovat penězi, ale lidmi.
 
-Uvědomujeme si, že politické strany k demokratickému fungování společnosti nestačí. Proto prosazujeme související změny ve [svobodě projevu][svoboda-projevu] a [demokracii s větším zapojením občanů][prima-demokracie].
+Uvědomujeme si, že politické strany k demokratickému fungování společnosti nestačí. Proto prosazujeme související změny ve [svobodě projevu][https://www.pirati.cz/program/dlouhodoby/svoboda-projevu/] a [demokracii s větším zapojením občanů][https://www.pirati.cz/program/dlouhodoby/prima-demokracie/].
 
 [^fn-1]: Například stát vyplatí politické straně, která přesáhla v parlamentních volbách hranici 0,5 %, stejnou částku, kterou jí celkem darovali občané, a to až do výše 5000 Kč na občana za rok.
 
