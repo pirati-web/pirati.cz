@@ -48,6 +48,8 @@ main:
         name: Lidé
       - link: '/regiony/'
         name: Regiony
+      - link: '/tymy/'
+        name: Resortní týmy
       - link: '/otevrenost/'
         name: Otevřenost
       - link: /download/
