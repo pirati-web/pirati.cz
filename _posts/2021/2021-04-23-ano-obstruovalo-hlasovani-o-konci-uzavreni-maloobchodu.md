@@ -4,7 +4,7 @@ category:     blog
 tags:         finance koronavirus obchod-a-průmysl
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Poslanecký klub ANO vyobstruoval hlasování o usnesení, které zavazuje vládu k otevření maloobchodu"
-image:        /assets/img/articles/2021/33_Ferjencik.jpg
+image:        /assets/img/articles/2020/mikulas_ferjencik_rouska.jpg
 author:       
 ---
 
