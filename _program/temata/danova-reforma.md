@@ -9,7 +9,7 @@ class: tema
 
 Dejte nám 7,5 minuty a na 8 slajdech vám vysvětlíme, jak na to chceme jít.
 Po naší reformě si každý zvládne spočítat svoje daně, zvýšíme čisté mzdy,
-ušetříme miliony hodin na byrokracii a nekopneme ekonomiku.
+ušetříme miliony hodin na byrokracii a nakopneme ekonomiku.
 
 ![Pirátská daňová reforma](/assets/img/program/finance/dane_na_web3-01.png)
 
