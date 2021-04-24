@@ -4,7 +4,7 @@ category:     blog
 tags:         finance evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "Europoslanec Peksa: Audit Komise o Babišově střetu zájmu potvrzuje naše slova"
-image:        /assets/img/articles/2021/2021/mikulas-peksa01.jpg
+image:        /assets/img/articles/2021/mikulas-peksa01.jpg
 author:       
 ---
 
