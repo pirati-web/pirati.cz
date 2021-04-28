@@ -20,10 +20,10 @@ Ve čtvrtek by měla Sněmovna hlasovat o tom, zda novela o rovném manželství
 
 > „Nemůžeme z komunity LGBTI dělat občany druhé kategorie. Upíráme jim možnost naplnění jejich osobních hodnot, přičemž sami šlapeme po hodnotách, které hlásáme," dodává Kolaja.
 
-Registrovaní partneři totiž podle stávající úpravy nemají stejná práva jako manželé – mají například nárok pouze na obřad před matrikářem, bez svědků a po smrti partnera nepobírají vdovský či vdovecký důchod. Podle iniciativy Jsme fér existuje mezi manželstvím a registrovaným partnerstvím [více než 100 rozdílů](https://www.jsmefer.cz/rozdily?fbclid=IwAR3IhmLlYOuC2CCf0iNr97Gq3R26U5JXk0_7gp8ND_cU-5mCX7IFS1ocgik).
+Registrovaní partneři totiž podle stávající úpravy nemají stejná práva jako manželé – mají například nárok pouze na obřad před matrikářem, bez svědků a po smrti partnera nepobírají vdovský či vdovecký důchod. Podle iniciativy Jsme fér existuje mezi manželstvím a registrovaným partnerstvím [více než 100 rozdílů](https://www.jsmefer.cz/rozdily).
 
 > „Jsme moc rádi za tuto iniciativu v Evropském parlamentu. Mezinárodní podpory si velice ceníme. Pouze to dokazuje, že v každé zemi, kde dostaly duhové páry stejné právo uzavírat manželství, to mělo pozitivní účinky nejen na ně, ale i na jejich děti a celou společnost. To, že česká Sněmovna hlasování o novele o rovnosti manželství dosud téměř 3 roky odkládala, je velké zklamání. Pevně ale doufáme, že tento čtvrtek již poslanci a poslankyně nebudou dále plýtvat časem a budou hlasovat. Teď už nejde o to, kdo je pro a kdo proti, ale jen aby hlasovali. Čekáme na to my i desítky tisíc lidí, kteří nás sledují, i 65% české společnosti, která manželství pro všechny podporuje," komentuje otevřený dopis Adéla Horáková z iniciativy Jsme fér, jež dlouhodobě usiluje o prosazení manželství pro všechny v České republice.
 
 Dopis vytvořila Skupina pro práva LGBTI meziskupinové seskupení poslanců v Evropském parlamentu po iniciativě pirátského europoslance Marcela Kolaji. Přidalo se k němu několik desítek europoslanců z pěti frakcí.
 
-* Dopise naleznete [ZDE](https://www.pirati.cz/assets/pdf/Letter to Czech Parliament - CZ.pdf)
+* Dopis naleznete [ZDE](https://www.pirati.cz/assets/pdf/Letter to Czech Parliament - CZ.pdf)
