@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrola-moci-a-mocných obchod-a-průmysl
 layout:       post
 title:        "Piráti a Starostové chtějí zabránit vytunelování ostravské ocelárny, podají podnět na EGAP kvůli zmizelým dvěma miliardám"
-image:        /assets/img/articles/2021/lukas-cernohorsky00
+image:        /assets/img/articles/2021/lukas-cernohorsky00.jpg
 author:       
 ---
 
