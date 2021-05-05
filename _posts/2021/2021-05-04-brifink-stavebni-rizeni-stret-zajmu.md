@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna legislativa
 layout:       post
 title:        "Piráti: Na plénu budeme tento týden prosazovat rychlejší stavební řízení či efektivní zákaz střetu zájmů "
-image:        /assets/img/articles/2021/2021/36_Bartos.jpg
+image:        /assets/img/articles/2021/36_Bartos.jpg
 author:       
 ---
 
