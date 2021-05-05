@@ -2,7 +2,14 @@
 name: PiroVaK
 fullname: Pirátská pracovní skupina pro vodárenství, vodovody a kanalizace
 img: teams/pirovak1.jpg
-vedoucí týmu: Tomáš Čabla
+vedoucí týmu: Dana Balcarová
+zástupci:
+- Radek Holomčík
+- František Elfmark
+- Daniel Lebduška
+- Jiří Valenta.
+kontaktní osoba:
+- Tomáš Čabla
 categories:
 - strana
 uid: pirovak
@@ -17,6 +24,6 @@ Koordinátor - Tomáš Čabla, zakládající členové - Dana Balcarová, Radek
 
 Skupina má za cíl
 --------------------
-* čistotu vody : vodárny a Čistírny odpadních vod (rozbory, analýzy, zemědělství, ochrana pitné vody v krajině atd.)
+* čistotu vody : vodárny a Čistírny odpadních vod (rozbory, analýzy, vodohospodářství, zemědělství, ochrana pitné vody v krajině)
 * sucho a dlouhodobý stav podzemních vod
 * privatizace vodáren a navazující vodovodní infrastruktury
