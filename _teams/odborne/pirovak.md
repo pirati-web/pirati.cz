@@ -2,14 +2,6 @@
 name: PiroVaK
 fullname: Pirátská pracovní skupina pro vodárenství, vodovody a kanalizace
 img: teams/pirovak1.jpg
-vedoucí týmu: Dana Balcarová
-zástupci:
-- Radek Holomčík
-- František Elfmark
-- Daniel Lebduška
-- Jiří Valenta.
-kontaktní osoba:
-- Tomáš Čabla
 categories:
 - strana
 uid: pirovak
