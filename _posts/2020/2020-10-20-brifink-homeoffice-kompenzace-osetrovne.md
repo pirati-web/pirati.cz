@@ -1,7 +1,7 @@
 ---
 date:         2020-10-20
 category:     blog
-tags:         finance sněmovna legislativ zdravotnictví
+tags:         finance sněmovna legislativa zdravotnictví
 layout:       post
 title:        "Piráti žádají homeoffice pro pracovníky ministerstev, spravedlivé kompenzace, rozšíření ošetřovného a také zrušení účelových výjimek pro premiéra Babiše"
 image:        /assets/img/articles/2020/brifink2010.jpg
