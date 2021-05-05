@@ -1,3 +1,4 @@
+---
 name: PiroVaK
 fullname: Pirátská pracovní skupina pro vodárenství, vodovody a kanalizace
 img: teams/pirovak1.jpg
