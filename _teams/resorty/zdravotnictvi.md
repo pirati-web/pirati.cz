@@ -48,16 +48,16 @@ Tým se schází podle potřeby, většinou přímo v Poslanecké sněmovně.
 Členové týmu jsou:
 * **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, poslanec zodpovědný za oblast zdravotnictví, místopředseda [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=3200) a člen dalších zdravotních podvýborů
 * **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
-* **[Zdeněk Hřib](https://www.pirati.cz/lide/zdenek-hrib/)**, stálý člen týmu a ředitel Insitutu pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví.
-* **[Ondřej Dostal](https://lide.pirati.cz/personProfile/549/)**, hlavní expert Pirátů pro oblast zdravotnictví
+* **[Zdeněk Hřib](https://www.pirati.cz/lide/zdenek-hrib/)**, stálý člen týmu a ředitel [Insitutu pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví](http://inaverz.cz/)
+* **[Ondřej Dostál](https://lide.pirati.cz/personProfile/549/)**, hlavní expert Pirátů pro [oblast zdravotnictví](https://blog.aktualne.cz/blogy/ondrej-dostal.php)
 * **Jiří Páral**, člen správní rady VZP
 * **Pavel Východský**, člen správní rady VZP
 * **Adam Janek**, člen dozorčí rady VZP
-* **Josef Pavlovic**, vedoucí zdravotního týmu
-* **Bára Malíková**, stálá členka týmu zdravotnictví
-* **Jan Novák**, stálý člen týmu zdravotnictví
-* **Marek Paris**, expert na problematiku zdravotnictví
-* **Ágnes Němečková**, stálá členka týmu zdravotnictví pro oblast práv pacientů
+* **[Josef Pavlovic](https://karlovarsky.pirati.cz/lide/josef-pavlovic/)**, vedoucí zdravotního týmu
+* **[Bára Malíková](https://www.pirati.cz/lide/bara-malikova/)**, stálá členka týmu zdravotnictví
+* **[Jan Novák](https://wiki.pirati.cz/lide/jan_novak)**, stálý člen týmu zdravotnictví
+* **[Marek Paris](https://wiki.pirati.cz/lide/marek.paris)**, expert na problematiku zdravotnictví
+* **[Ágnes Němečková](https://www.facebook.com/375868542113/posts/10159106612697114/)**, stálá členka týmu zdravotnictví pro oblast práv pacientů
 
 
 
