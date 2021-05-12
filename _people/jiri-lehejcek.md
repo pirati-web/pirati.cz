@@ -1,7 +1,7 @@
 ---
 uid: jiri.lehejcek
 name:     Jiří Lehejček      		# běžně používáné jméno
-fullname:  		# jméno s tituly etc.
+fullname:  		Ing. Mgr. Jiří Lehejček, Ph.D.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jiri-lehejcek.jpg           # 165 x 220
 description:  vedoucí resortního týmu zemědělství
@@ -12,10 +12,11 @@ profiles:
   github:
   facebook: 
   twitter:
-  linkedin:
+  linkedin: https://www.researchgate.net/profile/Jiri-Lehejcek
 ---
 
-**Jiří Lehejček** je Pirát ze zlínského kraje. Profesí je dendrolog. V roce 2020 se stal vedoucím resortního týmu Zemědělství.
+**Jiří Lehejček** (* 23. prosince 1986, Praha) je členem KS Středočeský kraj.
+
 
 Vystudoval fyzickou geografii a geoekologii na PřF UK a pěstování lesa na FLD ČZU. Doktorát získal tamtéž za práci [dendrochronologie arktické tundry](http://invenio.nusl.cz/record/261417?ln=cs). V rámci svého studia strávil semestr na University of Iceland a totéž na kanadské Vancouver Island University. Zahraniční doktorské stáže si odbyl na ETH Zürich ve Švýcarsku a University of Greifswald v Německu.
 V současnosti zastává volenou funkci místopředsedy [IFOAM EU](https://www.ifoam-eu.org/en/about-us/board-members) - celoevropské sektorové organizace ekologického zemědělství. V této bruselské organizaci je díky angažmá v [ČTPEZ](https://www.ctpez.cz/), které předsedá. Je také akademikem a na univerzitě se zabývá paleoklimatologií Arktidy (rekonstrukcemi klimatu) a vyučuje předměty: ochrana životního prostředí, funkce lesa a globální environmentální výzvy.
@@ -24,4 +25,5 @@ V současnosti zastává volenou funkci místopředsedy [IFOAM EU](https://www.i
 
 Je ženatý, má dvě děti a hovoří plynně anglicky a částečně německy. Mezi jeho zájmy patří sport (kajak, běžky, turistika), literatura a divadlo.
 Členem České pirátské strany je od dubna 2017. Ve straně zastává funkci vedoucího resortního týmu zemědělství a lesnictví.
+
 
