@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrola-moci-a-mocných evropská-unie
 layout:       post
 title:        "„I ty jsi Brusel!“ Pirátka Gregorová chce zapojit Čechy do rozhodování o budoucnosti Evropy"
-image:        /assets/img/articles/2021/mmarketa-gregorova00.jpg
+image:        /assets/img/articles/2021/marketa-gregorova00.jpg
 author:       
 ---
  
