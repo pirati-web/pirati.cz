@@ -17,7 +17,7 @@ Symbolicky v Den Evropy, 9. května, zahájila Evropská unie tzv. Konferenci o 
 
 Návrhy od všech občanů sbírá EU prostřednictvím online platformy [futureu.europa.eu/](https://futureu.europa.eu/). Přispět může kdokoliv. Nejlépe v angličtině, kvůli srozumitelnosti pro další účastníky. Zabývat se ale Evropská unie bude hlavně návrhy, které na platformě získají podporu dalších účastníků. Naopak redakce platformy vyřadí návrhy, které označí jako duplicitní.
 
-> „Je to historický experiment, který velmi konvenuje pirátskému pojetí demokratických mechanismů. Zároveň je to jedinečná možnost pro všechny, kdo mají – mnohdy oprávněný – pocit, že Brusel jedná bez nich,“ podotýká pirátská europoslankyně Markéta Gregorová, která hned první den založila veřejné fórum, na které může každý psát svoje připomínky a nápady.
+> „Je to historický experiment, který velmi konvenuje pirátskému pojetí demokratických mechanismů. Zároveň je to jedinečná možnost pro všechny, kdo mají – mnohdy oprávněný – pocit, že Brusel jedná bez nich,“ podotýká pirátská europoslankyně Markéta Gregorová, která hned první den založila [veřejné fórum](https://forum.pirati.cz/viewtopic.php?f=374&t=57271&fbclid=IwAR2hvnJHW3pGvx9N_OvZOBxN4Tm1wxXclTSaNLZNOzf9_EAVL-zXJSC-Wmk), na které může každý psát svoje připomínky a nápady.
 
 > „Evropská unie se bude zabývat hlavně návrhy, které na platformě získají podporu dalších zúčastněných, a naopak bude vyřazovat ty duplicitní. Proto je důležité, abychom se dokázali zorganizovat a vzájemně podpořit. Aby myšlenky, které považujeme za důležité pro další vývoj společnosti, pronikly i do debaty o budoucích normách a reformách evropské politiky,“ vysvětluje svůj krok Gregorová.
 
