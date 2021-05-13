@@ -5,7 +5,7 @@ tags:         volby sněmovna
 layout:       post
 title:        "Piráti a Starostové podepsali koaliční smlouvu pro volby 2021"
 image:        /assets/img/articles/2021/podpis-koalice.jpg
-author:       Ivan Bartoš
+author:       
 ---
  
  
