@@ -1,0 +1,21 @@
+  {% if item.customUrl %}
+	{% assign url = item.customUrl %}
+  {% else if item.url | truncate: 2 == 'http' %}
+	{% assign url = item.url %}
+  {% else %}
+	{% assign url = item.url | relative_url %}
+  {% endif %}
+
+<div class="large-4 small-12 columns end o-section-mediumdown-divided-small">
+    <div class="c-content-card">
+      <div class="c-content-card-img">
+        <a href="{{url}}"><img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}"></a></div>
+      <div class="c-content-card-content-box">
+        <span class="label" style="float:right">#{{ item.uid }}</span>  
+        <h4 class="c-content-card-title">
+
+          <a href="{{url}}">{% if item.name %}{{item.name  }}{% else %}{{item.title}}{% endif %}</a></h4>
+		  <a href="{{url}}">{% if item.fullname %}{{item.fullname  }}{% endif %}</a>
+      </div>
+    </div>
+</div>

@@ -37,7 +37,7 @@ main:
       - link: /program/strana.html
         name: Dlouhodobý
         match: dlouhodoby
-      - link: /program/stanoviska.html
+      - link: /program/stanoviska/
         name: Stanoviska
         match: stanoviska   
   - link: /o-nas/
