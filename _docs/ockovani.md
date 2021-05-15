@@ -4,7 +4,7 @@ name: Stanovisko Pirátů k povinnému očkování
 fullname: Stanovisko Pirátů k problematice povinného očkování a vlivu farmaceutické lobby
 img: docs/ockovani_w.jpg
 
-customUrl: https://wiki.pirati.cz/program/zdravotnictvi/ockovani
+customUrl: https://pirati.cz/program/temata/stanovisko-ockovani/
 categories:
 - stanovisko
 tags:

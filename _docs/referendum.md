@@ -4,7 +4,7 @@ name: Stanovisko Pirátů k referendu
 fullname: Stanovisko České pirátské strany - parametry „malého“ referenda
 img: docs/referendum_w.jpg
 
-customUrl: https://wiki.pirati.cz/program/prima_demokracie/posice_referendum
+customUrl: https://pirati.cz/program/temata/stanovisko-male-referendum
 categories:
 - stanovisko
 tags:

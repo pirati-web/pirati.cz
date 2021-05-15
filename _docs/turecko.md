@@ -4,7 +4,7 @@ name: Stanovisko Pirátů k obětem čistek v Turecku
 fullname: Stanovisko Pirátů k represím, režimu a obětem čistek v Turecku
 img: docs/turecko_w.jpg
 
-customUrl: https://wiki.pirati.cz/spisovna/2016/09/stanovisko_k_obetem_cistek_v_turecku
+customUrl: https://pirati.cz/program/temata/stanovisko-rezim-turecko
 categories:
 - stanovisko
 tags:
