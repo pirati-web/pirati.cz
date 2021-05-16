@@ -11,6 +11,9 @@ top:
   - link: "Dary"
     url:  "https://dary.pirati.cz"
     icon: "fa fa-gift"
+  - link: "Zahraničí"
+    url:  "https://zo.pirati.cz/tema"
+    icon: "fa fa-globe"
   - link: "Sněmovna"
     url: https://pirati.cz/snemovna
     icon: "fa fa-university"

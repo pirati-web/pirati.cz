@@ -1,89 +1,28 @@
 ---
 layout: page
-img: hoax/hoax.png
-title: Strana se připravuje
+img: zvol/pirat.jpg
+title: Zahraniční voliči - jak na volby v zahraničí
 maintext: |
-  V přípravě Pirátů.
+  V přípravě.
 rbar: ""
 description: připravujeme
-keywords: piráti
-items:
-  - title: Piráti  
-    hoax: Piráti a STAN ve volbách v roce 2021
-    truth: |
-       Piráti a STAN 
-    img: volby/prukazy.png
-    link: test
-    imginfo: |
-       v přípravě
+keywords: piráti zahraniční voliči jak na volby v zahraničí
+
  
 ---
+
 <section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">
       <div class="c-BasicPage">
         <div class="c-BasicPage-content">
           <div class="row">
-            <div class="columns small-12">
-              <p class='text-justify'>
-              {{page.maintext}}
-              </p>
-              <p>
-                <ul>
-                {% for item in page.items %}
-                  <li><a href="#{{item.link}}">{{item.title}}</a>
-                {% endfor %}
-                </ul>
-              </p>
-            </div>
-          </div>
-          {% for item in page.items %}
-          <hr style='margin-bottom:2em;'>
-          <div id="{{item.link}}">
-            <div class="row">
-              <div class="small-12 columns">
-                <h2>{{item.title}}</h2>
-              </div>  
-            </div>  
-            <div class="row">
-              <div class="small-12 columns">
-                <div class='callout' style='background-color:black; border:0; color:white; padding-top:1em; padding-bottom:1em; border-radius: 6px;'>
-                  <div class="row">
-                    <div class="small-12 large-7 columns">
-                      <div>
-                        <h3 style='font-style:italic; line-height:1.9; font-size:125%;'>„{{item.hoax}}“</h3>                        
-                        <p>
-                          <img src='/assets/img/plavba/bus_1.png' alt='Karosa'>
-                        </p>  
-                      </div>
-                    </div>
-                    <div class="small-12 large-5 columns">
-                      <img src="/assets/img/{{item.img}}" alt="{{item.imginfo}}">
-                      <div style='font-size:70%; padding-top:0.4em;'><i>{{item.imginfo}}</i></div>
-                    </div>
-                  </div>                
-                </div>
-              </div>
-            </div>
-            {% if item.fbvideo %}
-            <div class="row">
-              <div class="small-12 columns">
-                <div class="flex-video widescreen">
-                  <iframe src="{{item.fbvideo}}" width="560" style="border:none;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-                </div>  
-              </div>                
-            </div>
-            {% endif %}        
-            <div class="row">
-              <div class="small-12 columns">
-                <div style='margin-bottom:0.4em;'><strong><br/>PŘIPRAVUJEME:</strong></div>
-                <p class='text-justify'>
-                {{item.truth| markdownify }}
-                </p>
-              </div>                
-            </div>
+            <div class="columns small-12" >
+
+				<table><tr><td>připravujeme</td></tr></table>
+				
+			</div>
           </div>                  
-          {% endfor %}  
         </div>
       </div>
     </div>

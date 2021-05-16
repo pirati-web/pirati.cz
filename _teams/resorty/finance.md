@@ -59,11 +59,28 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 
 Členové týmu
 - **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** – poslanec zodpovědný za oblast financí
-- **[Tomáš Martínek](/lide/tomas-martinek)** – poslanec
-- **[Jan Pošvář](/lide/jan-posvar)** – poslanec
+- **[Tomáš Martínek](/lide/tomas-martinek)** – poslanec rozpočtového výboru
+- **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)** – senátor za Piráty
 
-- **Tibor Vansa** – garant pro oblast bankovnictví
 
-- **Martin Huňady** – asistent poslance Jana Pošváře
-- **Lukáš Forýtek** – asistent poslance Tomáše Martínka
+
+- **Dominik Bečka** - člen Pirátů, zastupitel MO Pardubice, manažer řízení rizik v pojišťovnictví
+- **Otakar Cejnar** - projektový manažer a ekonom se dlouhodobu zkušeností z mezinárodních institucí
+- **Jan Černý** - člen Pirátů, zastupitel Úval
+- **Libor Dušek** - ekonom, vedoucí katedry národního hospodářství na PF UK. 
+- **Lukáš Forýtek** –asistent poslance Tomáše Martínka
+- **Jan Hřebíček** - daňař a podnikatel
+- **Aleš Chán** - člen Pirátů, podnikatel a finanční ředitel společnosti v kulturním sektoru
+- **Daniel Kolář** - asistent poslance Ondřeje Profanta, koordinátor pracovní skupiny veřejné zakázky.
+- **Tomáš Kopečný** – ekonomický analytik poslaneckého klubu
+- **Ondřej Kolínský** - ekonom a konzultant pro oblast životního prostředí
+- **Antonino Milicia** - příznivce Pirátů, Brno, manažer a VŠ lektor
+- **Jiří Mittner** - ekonom, manažer v oblasti bankovnictví a pojišťovnictví
+- **Petr Pleticha** - asistent poslance Martina Jiránka, koordinátor resortu Průmysl a obchod, ekonom
+- **Milan Sedmihradský** - daňař a konzultant v oblasti daní
+- **Josef Soumar** - člen Pirátů, zastupitel Písku, zastupitel Jihočeského kraje, specialista na kapitálový trh
+- **Štěpán Štrébl** - člen Pirátů, místostarosta MČ Praha 3
+- **Viktor Tichák** - člen Pirátů, předseda KS Olomouckého kraje
 - **Jiří Valenta** – asistent resortního týmu a poslance Mikuláše Ferjenčíka
+- **Tibor Vansa** – člen Pirátů, garant pro oblast bankovnictví
+- **Václav Vislous** - člen Pirátů, podnikatel a ekonom
