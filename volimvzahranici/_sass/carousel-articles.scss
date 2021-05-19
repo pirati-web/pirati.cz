@@ -10,9 +10,12 @@
 }
 
 .carousel-articles {
+  box-sizing: border-box;
+  padding: 0;
+}
+.carousel-articles .glide__track{
   background-color: black;
-  color: white;
-  padding: 0 0 2em 0;
+  color:white;
 }
 
 .carousel-articles img {
@@ -29,5 +32,19 @@
 }
 
 .glide__bullets {
-  bottom: 0.7em;
+  bottom: -3em !important;
+}
+.glide__bullets button{
+  padding: 0.3em 0.6em;
+  margin: 0.3em;
+  background-color: #e0e0e0;
+  color: black;
+}
+button.glide__bullet--active  {
+  background-color: black;
+  color: white;
+}
+
+.carousel-articles .btn {
+  margin-bottom: 0;
 }

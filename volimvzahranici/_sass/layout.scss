@@ -3,7 +3,7 @@ html {
 }
 
 section {
-  min-height: 80vh
+  min-height: 80vh;
 }
 
 
@@ -14,6 +14,7 @@ section {
 h1, h2, h3 {
   font-family: 'Bebas Neue', sans-serif;
   text-transform: uppercase;
+  letter-spacing: 0.01em;
 }
 
 
@@ -251,7 +252,7 @@ section#co_kdyz {
   margin-right: 2em;
 }
 
-#vite_ze {
+.vite_ze {
   background-color: $green;
   color: $black;
   min-height: auto;
@@ -270,7 +271,7 @@ section#co_kdyz {
 }
 .quote-left {margin-right: 0.2em;}
 
-#vite_ze .with-quotes {
+.vite_ze .with-quotes {
   width: 93%;
   transform: translateX(-2em);
 }
@@ -285,7 +286,7 @@ section#co_kdyz {
 
 
 @media only screen and (max-width: $width-treshold) {
-  #vite_ze .with-quotes {
+  .vite_ze .with-quotes {
     transform: none;
   }
   .quote-right, .quote-left {display:none}
@@ -295,6 +296,7 @@ section#co_kdyz {
 section#odkud {
   background-color: $black;
   color: $white;
+  page-break-before: always;
 }
 
 section#odkud h2 {

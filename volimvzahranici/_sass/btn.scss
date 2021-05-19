@@ -51,6 +51,15 @@
   border-left: 0.1em solid white;
 }
 
+@media only print {
+  .btn::after {
+    font-family: serif;
+    font-size: 130%;
+    transform: none;
+    display: inline;
+  }
+}
+
 .btn:hover {
   color: #d0d0d0
 }

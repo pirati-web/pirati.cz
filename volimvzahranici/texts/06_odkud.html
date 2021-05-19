@@ -1,0 +1,91 @@
+
+<div class="row">
+    <h2>Odkud budu volit</h2>
+
+    <div class="flex-left-shrink">
+        <h3 class="opensans color-white">Seznam všech zastupitelských úřadů ve všech zemích naleznete zde &gt; &gt; &gt; </h3>
+        <a href="https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/index.html"
+           class="btn btn-green">seznam úřadů</a>
+    </div>
+
+    <h3 class="opensans color-white">Odkud volím</h3>
+    <div class="flex-column countries-list-all">
+        <ul class="countries-list" id="countries-list"></ul>
+        <div id="countries-list-data"></div>
+    </div>
+
+    <script>
+        function clickCountry(countryData){
+            location.hash=countryData['alpha2']
+            let anchorId = 'countries-list'
+            if(document.documentElement.clientWidth <= 800){
+                anchorId = 'countries-list-data'
+            }
+            const y = document.getElementById(anchorId).getBoundingClientRect().top + window.pageYOffset;
+            window.scrollTo({top: y, behavior: 'smooth'})
+
+        }
+
+        function showCountry(countryData) {
+
+            let countryHTML = ''
+            countryHTML+='<div class="countries-list-country-header">'
+            countryHTML+='<img src="'+countryData['flag']+'">'
+            countryHTML+='<h4>'+countryData['name']+'</h4>'
+            countryHTML+='</div>'
+            for (var cid=0;cid<countryData['consulates'].length;cid++){
+
+                const consulate = countryData['consulates'][cid]
+                let web_url = consulate.web
+                if(consulate.web.substr(0,7).toLowerCase() != 'http://' && consulate.web.substr(0,8).toLowerCase() != 'https://' ){
+                    web_url = 'http://' + consulate.web
+                }
+                const web_plain = web_url.replace('http://','').replace('https://','')
+
+                countryHTML+='<div class="consulate-entry h-card">'
+                countryHTML+='<h5 class="p-name">'+consulate.name+'</h5>'
+                countryHTML+='<p class="p-adr">'+consulate.adresa+'</p>'
+                countryHTML+='<a class="u-email" href="mailto:'+consulate.email+'">'+consulate.email+'</a>'
+                countryHTML+='<p class="p-tel">'+consulate.telefon+'</p>'
+                countryHTML+='<a href="http://localhost:4000/zvol/'+web_url+'" class="u-url">'+web_plain+'</a>'
+                countryHTML+='</div>'
+            }
+            document.getElementById('countries-list-data').innerHTML = countryHTML
+        }
+
+        regions = Object.keys(consulates_by_region)
+        for (let i = 0; i < regions.length; i++) {
+            let region_li = document.createElement('li')
+            let region_btn = document.createElement('div')
+            region_btn.innerText = regions[i]
+            region_btn.className = 'btn btn-darkgrey'
+            region_li.appendChild(region_btn)
+            let region_ul = document.createElement('ul')
+            region_li.appendChild(region_ul)
+            const countries = consulates_by_region[regions[i]]
+            for (let country_index = 0; country_index < countries.length; country_index++) {
+                let country_li = document.createElement('li')
+                let country_a = document.createElement('a')
+                country_a.innerText = countries[country_index].name
+                country_a.setAttribute('href', '#')
+                const countryData = countries[country_index]
+                country_a.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    showCountry(countryData)
+                    clickCountry(countryData)
+                })
+                country_li.appendChild(country_a)
+                region_ul.appendChild(country_li)
+                if(location.hash.replace("#","") == countryData['alpha2']){
+                    // visitor came with a hash
+                    setTimeout(
+                        function(){
+                            showCountry(countryData)
+                            clickCountry(countryData)
+                        }, 0)
+                }
+            }
+            document.getElementById('countries-list').appendChild(region_li)
+        }
+    </script>
+</div>
