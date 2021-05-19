@@ -1,0 +1,33 @@
+
+.carousel-articles {
+  max-width: 30em;
+}
+
+.carousel-articles h4 {
+  margin-top: 1em;
+  font-weight: bold;
+  font-size: 180%;
+}
+
+.carousel-articles {
+  background-color: black;
+  color: white;
+  padding: 0 0 2em 0;
+}
+
+.carousel-articles img {
+  width: 100%;
+}
+
+.carousel-articles p, .carousel-articles h4 {
+  padding: 0 10px;
+  max-width: 20em;
+}
+
+.carousel-articles .btn {
+  margin: 20px;
+}
+
+.glide__bullets {
+  bottom: 0.7em;
+}

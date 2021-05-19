@@ -1,0 +1,170 @@
+/*
+.ribbon,
+.ribbon::before,
+.ribbon::after {
+  background-color: $yellow;
+}
+ */
+
+.ribbon {
+  background-color: $green
+}
+
+.ribbon {
+  font-size: 130%;
+  padding: 1em 0.5em;
+  mask-repeat: no-repeat;
+  mask-size: auto 100%;
+  position: relative;
+  margin-bottom: 1em;
+  color: white;
+}
+
+.ribbon-multiline {
+  padding-right: 2em;
+}
+
+
+.ribbon-long {
+  padding-left: 0;
+  padding-right: 0
+}
+.background-yellow, .background-yellow:after, .background-yellow:before {
+  background-color: $yellow
+}
+
+.background-green, .background-green:after, .background-green:before {
+  background-color: $green
+}
+
+.background-black, .background-black:after, .background-black:before {
+  background-color: $black
+}
+
+.background-green, .background-yellow {
+  text-shadow: 0 0 0.4em rgba(0,0,0,0.6);
+}
+.background-green.color-black, .background-yellow.color-black, .shadow-none {
+  text-shadow: none;
+}
+
+.color-yellow, .color-yellow a {
+  color: $yellow
+}
+.text-bold {font-weight: bold}
+
+.color-green, .color-green a {
+  color: $green
+}
+
+.color-black, .color-black a {
+  color: $black
+}
+
+.color-white, .color-white a {
+  color: $white
+}
+
+.bcg-left-ribbon .ribbon {
+  margin-bottom: 0;
+}
+
+.bcg-left-ribbon.background-yellow {
+  background: linear-gradient(to right, $yellow, $yellow 35%, transparent 35%, transparent 100%);
+}
+
+.bcg-left-ribbon.background-black {
+  background: linear-gradient(to right, $black, $black 35%, transparent 35%, transparent 100%);
+}
+
+.bcg-left-ribbon.background-green {
+  background: linear-gradient(to right, $green, $green 35%, transparent 35%, transparent 100%);
+}
+
+
+.ribbon-link {
+  pading: 0
+}
+
+.ribbon-link.ribbon-right a {
+  padding: 1vh 1vw 1vh 2em;
+}
+
+.ribbon-link.ribbon-left a {
+  padding: 1vh 2em 1vh 1vw;
+}
+
+.ribbon-link:hover {
+  text-decoration: underline;
+}
+
+
+.ribbon-link a::after {
+  content: '>';
+  position: absolute;
+  right: 0em;
+  top: 0;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 200%;
+  padding: 0;
+  transform: scaleX(0.5) translateX(50%) translateY(0.2em)
+}
+
+
+@media only screen and (max-width: $width-treshold) {
+  .ribbon-link a::after {
+    display: none
+  }
+}
+
+.ribbon-left {
+  clip-path: polygon(-500% 0%, 100% 0, calc(100% - 0.5em) 50%, 100% 100%, -500% 100%);
+  -webkit-clip-path: polygon(-500% 0%, 100% 0, calc(100% - 0.5em) 50%, 100% 100%, -500% 100%);
+}
+
+.ribbon-right {
+  clip-path: polygon(0% 0%, 500% 0, 500% 100%, 0% 100%, 0.5em 50%);
+  -webkit-clip-path: polygon(0% 0%, 500% 0, 500% 100%, 0% 100%, 0.5em 50%);
+}
+
+.ribbon-left.ribbon-multiline {
+   clip-path: polygon(-500% 0%, 100% 0, calc(100% - 1em) 50%, 100% 100%, -500% 100%);
+   -webkit-clip-path: polygon(-500% 0%, 100% 0, calc(100% - 1em) 50%, 100% 100%, -500% 100%);
+ }
+
+.ribbon-right.ribbon-multiline {
+  clip-path: polygon(0% 0%, 500% 0, 500% 100%, 0% 100%, 1em 50%);
+  -webkit-clip-path: polygon(0% 0%, 500% 0, 500% 100%, 0% 100%, 1em 50%);
+}
+
+.ribbon-left.ribbon-long::before {
+  width: 100vh;
+  height: 100%;
+  top: 0;
+  left: -100vh;
+  content: '';
+  display: block;
+  position: absolute;
+}
+
+.ribbon-right.ribbon-long::after {
+  width: 100vh;
+  height: 100%;
+  top: 0;
+  left: 100%;
+  content: '';
+  display: block;
+  position: absolute;
+}
+
+.width-70 {
+  width: 70%
+}
+
+.width-90 {
+  width: 90%
+}
+
+.padding-left-3{
+  padding-left: 3em;
+}

@@ -1,0 +1,180 @@
+
+ul.countries-list {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 120%;
+}
+
+
+@media only screen and (max-width: $width-treshold) {
+  ul.countries-list {
+    flex-direction: column;
+  }
+}
+
+.countries-list ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.countries-list {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+
+.countries-list ul li ul {
+  display: none;
+}
+
+.countries-list li:hover ul {
+  display: block;
+}
+
+
+.countries-list {
+  display: flex;
+  flex-direction: row
+}
+
+.countries-list > li {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.countries-list > li > .btn {
+  font-size: 120%;
+  font-weight: 600;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  flex: 1;
+  max-height: 2.6em;
+  margin-right: 3.4em;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25em;
+}
+
+.countries-list > li > .btn, .countries-list > li > .btn:after {
+  background-color: #a2a2a2;
+  color: white;
+  border-color: black
+}
+
+.countries-list > li > .btn {
+  margin-right: 2.4em;
+}
+
+.countries-list > li > .btn:after {
+  width: 1.5em;
+}
+
+
+.countries-list > li:hover > .btn, .countries-list > li:hover > .btn:after {
+  background-color: $green;
+  color: black
+}
+
+.countries-list > li {
+  position: relative
+}
+
+
+.countries-list > li > ul {
+  display: none;
+  flex-direction: column;
+  z-index: 500;
+  position: absolute;
+  top: 4em;
+}
+
+.countries-list > li:hover > ul {
+  display: flex;
+}
+
+.countries-list > li > ul > li {
+  display: flex;
+  flex: 1;
+}
+
+.countries-list > li > ul > li > a {
+  display: block;
+  flex: 1;
+}
+
+.countries-list > li > ul > li > a {
+  background-color: #a2a2a2;
+  color: white;
+  border-style: none;
+  padding: 0.2em 0.6em 0.2em 2em;
+}
+
+.countries-list > li > ul > li > a:hover,
+.countries-list > li > ul > li.active > a {
+  color: black;
+}
+
+
+.countries-list > li > ul > li:hover a,
+.countries-list > li > ul > li.active a {
+  color: black;
+}
+
+.countries-list > li > ul > li:hover a:after {
+  font-size: 200%;
+  line-height: 70%;
+  vertical-align: top;
+  content: '>';
+  display: inline-block;
+  transform: scaleX(50%) translateX(2em);
+
+}
+
+.countries-list-all {
+  position: relative;
+  min-height: 40em;
+}
+
+#countries-list-data {
+  z-index: 10;
+  width: 100%;
+  max-width: 30em;
+  align-self: center;
+  margin: 1.6em auto 0;
+}
+
+.countries-list-country-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.countries-list-country-header > :first-child {
+  margin-right: 1em;
+}
+
+.countries-list-country-header > :nth-child {
+  border-bottom: 1px dashed white;
+}
+
+.consulate-entry {
+  margin-bottom: 2em;
+}
+
+.consulate-entry p {
+  margin: 0;
+}
+
+.consulate-entry h5 {
+  font-size: 130%
+}
+
+.countries-list-country-header img {
+  border: 1px solid white;
+}
+
+.consulate-entry .p-adr {
+  font-size: 100%;
+  border-bottom: 1px dashed white;
+}

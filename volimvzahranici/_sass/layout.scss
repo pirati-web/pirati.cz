@@ -1,0 +1,382 @@
+html {
+  font-family: 'Open Sans', sans-serif
+}
+
+section {
+  min-height: 80vh
+}
+
+
+.row > * {
+  padding: 0 30px 0 20px
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 380%;
+  color: $black;
+  letter-spacing: 0.02em;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: -0.15em;
+  font-size: 220%;
+  letter-spacing: 0.04em;
+}
+
+h3 {
+  font-weight: 900;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-black {
+  color: black;
+}
+
+h3 {
+  margin-top: 1em
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-items-start {
+  align-items: flex-start;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-right-shrink {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-right-shrink > div:nth-child(1) {
+  flex: 1;
+}
+
+.flex-right-shrink > div:nth-child(2) {
+  flex-shrink: 1;
+}
+
+.flex-left-shrink {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-left-shrink > div:nth-child(1) {
+  flex-shrink: 1;
+  padding-right: 2em;
+}
+
+.flex-left-shrink > div:nth-child(2) {
+  flex: 1;
+}
+
+.margin-top-5 {
+  margin-top: 5vh;
+}
+
+.margin-bottom-1 {
+  margin-bottom: 1vh;
+}
+
+.margin-bottom-3 {
+  margin-bottom: 3vh;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5vh;
+}
+
+.margin-top-3 {
+  margin-top: 3vh;
+}
+
+
+section#v_zahranici {
+  background-color: $black;
+  color: #f0f0f0;
+}
+
+h2.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  color: white;
+  letter-spacing: -0.01em;
+  font-size: 350%;
+}
+
+
+section#v_zahranici h3, section#v_zahranici h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  letter-spacing: -0.01em;
+  font-size: 170%;
+  margin: 0.8em 0;
+  text-transform: none;
+}
+
+section#v_zahranici .ribbon, section#kdy_a_kde .ribbon {
+  padding: 1em 1em;
+  padding-right: 2em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+section#v_zahranici .ribbon.background-green {
+  font-weight: bold;
+}
+
+
+.section {
+  padding: 6em 0 4em 0;
+}
+
+section#zmena h2 {
+  font-size: 310%;
+  color: #000000;
+}
+
+section#kdy_a_kde {
+  background-color: black;
+  color: white;
+}
+
+section#kdy_a_kde h3 {
+  font-size: 400%;
+  margin-top: 0;
+  font-weight: bold;
+  text-align: left;
+}
+
+section#kdy_a_kde .flex-column h3:first-child {
+  font-size: 560%;
+  line-height: 130%;
+}
+
+.margin-horizontal-1 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+section#kdy_a_kde .flex-column {
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: flex-start;
+}
+
+
+.section h2::before {
+  font-size: 340%;
+  position: absolute;
+  transform: translate(-0.55em, -0.2em);
+}
+
+.section1 h2::before {
+  content: '1';
+}
+
+.section2 h2::before {
+  content: '2';
+}
+
+.section3 h2::before {
+  content: '3';
+}
+
+.section4 h2::before {
+  content: '4';
+}
+
+section#co_kdyz {
+  background-image: url(../img/volby_foto_e.jpg);
+  background-position: bottom left;
+  background-size: auto 80%;
+  background-repeat: no-repeat;
+  background-color: #f3f3f1;
+  position: relative;
+}
+
+#co_kdyz .bcg-left-ribbon {
+  position: absolute;
+  left: 0;
+  bottom: 5em;
+}
+
+#co_kdyz .bcg-left-ribbon .ribbon {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-weight: bold;
+  font-size: 240%;
+  padding-left: 2em;
+}
+
+
+#co_kdyz h2 {
+  color: black;
+  font-size: 400%;
+  margin: 0;
+  margin-bottom: 0.2em;
+}
+
+#co_kdyz h3 {
+  margin: 0;
+  font-size: 250%;
+  line-height: 120%;
+}
+
+#co_kdyz .flex-column > div:first-child {
+  margin-right: 2em;
+}
+
+#vite_ze {
+  background-color: $green;
+  color: $black;
+  min-height: auto;
+  font-size: 360%;
+  font-weight: bold;
+  padding: 2em 0;
+  line-height: 120%;
+}
+
+.quote-right, .quote-left {
+  font-size: 400%;
+  left: 0.3em;
+  font-family: 'Bebas Neue', sans-serif;
+  line-height: 50%;
+  transform: scaleX(130%);
+}
+.quote-left {margin-right: 0.2em;}
+
+#vite_ze .with-quotes {
+  width: 93%;
+  transform: translateX(-2em);
+}
+.with-quotes > div:first-child{
+  width:10%;
+  flex: 1;
+}
+.with-quotes > div:last-child{
+  width:10%;
+  flex: 1;
+}
+
+
+@media only screen and (max-width: $width-treshold) {
+  #vite_ze .with-quotes {
+    transform: none;
+  }
+  .quote-right, .quote-left {display:none}
+}
+
+
+section#odkud {
+  background-color: $black;
+  color: $white;
+}
+
+section#odkud h2 {
+  color: white;
+  font-size: 400%;
+}
+
+
+section#vzkazy {
+  background-color: white;
+  color: black;
+  display:none;
+}
+
+section#ambasador {
+  background-color: black;
+  color: white;
+  display: none;
+}
+
+
+.bebbas {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+.bebbas-bold {
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.font-size-120 {
+  font-size: 120%;
+}
+
+
+.font-size-150 {
+  font-size: 150%;
+}
+
+.font-size-200 {
+  font-size: 200%;
+}
+
+.font-size-250 {
+  font-size: 250%;
+}
+
+
+.opensans {
+  text-transform: none;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+
+.opensans-bold {
+  text-transform: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+}
+
+@media only screen and (max-width: $width-treshold) {
+  .flex-row, .flex-right-shrink, .flex-left-shrink {
+    flex-direction: column;
+  }
+}
+
+
+@media only screen and (max-width: 800px) {
+  .only-desktop {
+    display: none
+  }
+}
+
+.a4page {
+  max-width: 42em;
+  border: 1px solid #808080;
+  padding: 1em;
+  margin: 2em auto;
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,42 @@
+
+section#intro {
+  background-image: url(../img/ilustrace_hlavicka.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+
+@media only screen and (max-width: 1200px) {
+  section#intro {
+    background-position-x: 26em;
+  }
+}
+
+section#intro .ribbon {
+  font-size: 150%;
+}
+
+section#intro h1 {
+  width: 10em;
+  font-size: max(3vmax, 300%);
+  line-height: 110%;
+  margin-top: 2vh;
+  background-color: $white;
+}
+
+section#intro h2 {
+  font-size: max(1vmax, 170%);
+  color: $green;
+  background-color: $white;
+}
+
+section#intro img {
+  max-height: 25vh;
+}
+
+
+@media only screen and (max-width: $width-treshold) {
+  section#intro {
+    background-image: none;
+  }
+}

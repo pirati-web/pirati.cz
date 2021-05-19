@@ -1,0 +1,25 @@
+---
+---
+
+$green: rgb(182, 201, 50);
+$yellow: rgb(249, 220, 6);
+$black: rgb(0, 0, 0);
+$white: rgb(255, 255, 255);
+$width-treshold: 800px;
+
+/* Fonts */
+@import "../volimvzahranici/_sass/bebasneue_regular";
+@import "../volimvzahranici/_sass/opensans";
+
+/* Layout */
+@import "../volimvzahranici/_sass/layout";
+
+/* Elements */
+@import "../volimvzahranici/_sass/btn";
+@import "../volimvzahranici/_sass/ribbon";
+@import "../volimvzahranici/_sass/clock";
+@import "../volimvzahranici/_sass/carousel-articles";
+@import "../volimvzahranici/_sass/countries-list";
+
+/* Parts */
+@import "../volimvzahranici/_sass/intro";
