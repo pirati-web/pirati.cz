@@ -34,9 +34,9 @@ main:
       - link: /program/komunal2018/
         name: Komunál 2018
         match: komunal2018
-      - link: /program/psp2017.html
-        name: Parlament 2017
-        match: psp2017
+      - link: https://www.piratiastarostove.cz/program-pro-vas/
+        name: Parlament 2021
+        match: psp2021
       - link: /program/strana.html
         name: Dlouhodobý
         match: dlouhodoby
