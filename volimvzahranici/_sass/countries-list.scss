@@ -12,17 +12,22 @@ ul.countries-list {
     flex-direction: column;
   }
 }
+
 @media only print {
-  ul.countries-list {display:none}
-  .countries-list {display:none}
+  ul.countries-list {
+    display: none
+  }
+  .countries-list {
+    display: none
+  }
   #countries-list-data {
     display: flex;
     flex-wrap: wrap;
     max-width: 100%;
   }
-  #countries-list-data  > * {
+  #countries-list-data > * {
     border: 1px solid black;
-    padding:0.3em;
+    padding: 0.3em;
     margin: 0.3em;
   }
 }

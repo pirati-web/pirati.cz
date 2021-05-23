@@ -269,19 +269,24 @@ section#co_kdyz {
   line-height: 50%;
   transform: scaleX(130%);
 }
-.quote-left {margin-right: 0.2em;}
+
+.quote-left {
+  margin-right: 0.2em;
+}
 
 .vite_ze .with-quotes {
   width: 93%;
   transform: translateX(-2em);
 }
-.with-quotes > div:first-child{
-  width:10%;
-  flex: 1;
+
+.with-quotes > div:first-child {
+  width: 10%;
+  flex: 0;
 }
-.with-quotes > div:last-child{
-  width:10%;
-  flex: 1;
+
+.with-quotes > div:last-child {
+  width: 10%;
+  flex: 0;
 }
 
 
@@ -289,7 +294,9 @@ section#co_kdyz {
   .vite_ze .with-quotes {
     transform: none;
   }
-  .quote-right, .quote-left {display:none}
+  .quote-right, .quote-left {
+    display: none
+  }
 }
 
 
@@ -308,7 +315,7 @@ section#odkud h2 {
 section#vzkazy {
   background-color: white;
   color: black;
-  display:none;
+  display: none;
 }
 
 section#ambasador {
@@ -350,7 +357,6 @@ section#ambasador {
 .opensans {
   text-transform: none;
   font-family: 'Open Sans', sans-serif;
-  letter-spacing: -0.05em;
   font-weight: 600;
 }
 
@@ -358,7 +364,6 @@ section#ambasador {
   text-transform: none;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
-  letter-spacing: -0.05em;
 }
 
 @media only screen and (max-width: $width-treshold) {
@@ -375,10 +380,157 @@ section#ambasador {
 }
 
 .a4page {
-  max-width: 42em;
-  border: 1px solid #808080;
+  max-width: 54em;
   padding: 1em;
   margin: 2em auto;
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
+}
+
+#jak_volit {
+  background-color: black;
+  color: white;
+}
+
+.page .quoted {
+  margin-bottom: 1em;
+}
+
+.quoted-header {
+  margin-bottom: 1em;
+}
+
+.page h4.bebbas {
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: bold
+}
+
+.page .quoted > .quoted-left, .page .quoted > .quoted-right {
+  flex: 0;
+  font-size: 1400%;
+  align-self: flex-start;
+  line-height: 0%;
+  vertical-align: top;
+  justify-self: flex-start;
+  align-content: flex-start;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+.page .quoted > .quoted-left {
+  transform: scaleX(130%) translateY(-0.215em);
+}
+
+.page .quoted > .quoted-right {
+  transform: scaleX(130%) translateY(0.33em);
+}
+
+@media only screen and (max-width: $width-treshold), only print {
+  .quoted-right, .quoted-left {
+    display: none
+  }
+}
+
+.page p, .page li {
+  font-size: 90%
+}
+
+.page h3 {
+  font-size: 250%;
+  margin-top: 0.35em;
+  margin-bottom: 0;
+}
+
+.page .quoted > h3 {
+  padding: 0 0.4em;
+  font-size: 230%;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+
+.page h4 {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 0;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+
+.page strong {
+  letter-spacing: 0.005em;
+  text-decoration: underline
+}
+
+.page .bebbas h4 {
+  font-size: 120%;
+}
+
+
+.page .latin {
+  margin-left: 0.65em;
+}
+
+.page a {
+  color: white;
+}
+
+.page a:hover {
+  color: #e0e0e0
+}
+
+.page .decimal {
+  margin-left: 0.9em;
+}
+
+.page .decimal li {
+  line-height: 150%;
+  margin-bottom: 1em;
+}
+
+.page .latin li {
+  line-height: 120%;
+  padding-left: 0.8em;
+}
+
+.page .latin li::marker {
+  content: counter(list-item, upper-latin) ") ";
+}
+
+.page-part {
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+
+.page hr {
+  width: 50%;
+  margin-left: 0;
+}
+
+.aneb {
+  margin-top: -0.2em;
+}
+
+.page ol.latin {
+  font-weight: bold;
+  font-size: 120%;
+}
+
+ol.decimal li::marker {
+  content: counter(list-item) "/ ";
+}
+
+ol.decimal li {
+  padding-left: 0.5em;
+  font-weight: 700;
+}
+
+@media only print {
+  .a4page {
+    background-color: white;
+    color: black;
+  }
 }

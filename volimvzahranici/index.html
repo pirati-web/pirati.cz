@@ -33,12 +33,11 @@ keywords: piráti, zahraniční, voliči, jak na volby v zahraničí, volební p
           {%  include_relative texts/01_intro.html %}
         </section>
 
-        <section id="v_zahranici" class="section section1">
-          {%  include_relative texts/02_v_zahranici.html %}
-        </section>
 
-        <section id="jak_volit" class="section a4page" style="display:none">
-          {%  include_relative texts/jak_volit.html %}
+        <section id="jak_volit" class="section" style="display:none">
+          <div class="a4page">
+            {%  include_relative texts/jak_volit.html %}
+          </div>
           <script>
             function showManual() {
               document.getElementById("jak_volit").style.display = "block"
@@ -53,12 +52,18 @@ keywords: piráti, zahraniční, voliči, jak na volby v zahraničí, volební p
           </script>
         </section>
 
+        <section id="v_zahranici" class="section section1">
+          {%  include_relative texts/02_v_zahranici.html %}
+        </section>
+
         <section id="zmena" class="section">
           {%  include_relative texts/03_zmena.html %}
         </section>
 
-        <section id="casova_osa" class="section a4page" style="display:none">
+        <section id="casova_osa" class="section" style="display:none">
+          <div class="a4page">
           {%  include_relative texts/casova_osa.html %}
+          </div>
           <script>
             function showTimeline() {
               document.getElementById("casova_osa").style.display = "block"
