@@ -1,0 +1,59 @@
+<div class="c-top-bar">
+  <div class="row">
+    <div class="c-top-bar-inner u-cf">
+      <div class="top-bar-title">
+        <a href="https://www.piratiastarostove.cz/">
+          <img src="{{ '/volimvzahranici/assets/img/pirati_starostove_cerne.svg' | relative_url }}" alt="Piráti a starostové" style="max-height: 3em;">
+        </a>
+      </div>
+      
+      <ul class="c-top-bar-searchbar c-top-bar-searchbar--asTitle menu">
+        <li>
+          <input type="search" id="search" placeholder="Hledaný výraz">
+        </li>
+        <li class="c-top-bar-searchbar__submit">
+          <button type="button" class="button" id="searchsub">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </button>
+        </li>
+      </ul>
+      
+      <div class="menu-toggle-container hide-for-large">
+        <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
+          <button class="" type="button" data-toggle="">
+            <span class="menu-toggle-inner">
+              <span class="menu-toggle-description">Menu</span>
+              <i class="menu-icon dark"></i>
+            </span>
+          </button>
+        </span>
+      </div>
+      
+      <div id="responsive-menu" class="c-top-bar-menu">
+        <div class="responsive-menu-inner">
+          <div class="top-bar-left top-bar-footer-group">
+            <ul class="dropdown menu" data-dropdown-menu="">
+              {% for item in site.data.menu.main %}
+                  {% unless item.notInMainManu %} 
+                      <li class="{% if item.class %}{{ item.class }}{% endif %} {% if item.match and page.url contains item.match %}is-active{% endif %}">
+                        <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                      {% if item.submenu %}
+                        <ul class="menu vertical">
+                          {% for subitem in item.submenu %}
+                          <li{% if page.url contains subitem.match %} class="is-active"{% endif %}>
+                              <a href="{{ subitem.link }}">{{subitem.name}}</a>
+                          </li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                      </li>
+                  {% endunless %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="c-top-bar-border"> </div>
