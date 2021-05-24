@@ -11,7 +11,6 @@
 }
 
 .ribbon {
-  font-size: 130%;
   padding: 0.3em 0.5em;
   mask-repeat: no-repeat;
   mask-size: auto 100%;
@@ -107,7 +106,7 @@
   font-family: 'Bebas Neue', sans-serif;
   font-size: 200%;
   padding: 0;
-  transform: scaleX(0.5) translateX(50%) translateY(-0.1em)
+  transform: scaleX(0.5) translateX(50%) translateY(-0.13em)
 }
 
 
@@ -138,23 +137,28 @@
 }
 
 .ribbon-left.ribbon-long::before {
-  width: 100vh;
+  width: 200vh;
   height: 100%;
   top: 0;
-  left: -100vh;
+  left: -200vh;
   content: '';
   display: block;
   position: absolute;
 }
 
 .ribbon-right.ribbon-long::after {
-  width: 100vh;
+  width: 200vh;
   height: 100%;
   top: 0;
   left: 100%;
   content: '';
   display: block;
   position: absolute;
+}
+@media only print {
+  .ribbon-left.ribbon-long::before, .ribbon-right.ribbon-long::after{
+    display:none;
+  }
 }
 
 .width-70 {

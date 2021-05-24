@@ -13,11 +13,11 @@ section#intro {
 }
 
 section#intro .ribbon {
-  font-size: 150%;
+  font-size: 160%;
 }
 
 section#intro h1 {
-  width: 10em;
+  width: 12em;
   font-size: max(3vmax, 300%);
   line-height: 110%;
   margin-top: 2vh;
@@ -25,9 +25,9 @@ section#intro h1 {
 }
 
 section#intro h2 {
+  font-size: 170%;
   font-size: max(1vmax, 170%);
-  color: $green;
-  background-color: $white;
+  font-weight: 700;
 }
 
 section#intro img {

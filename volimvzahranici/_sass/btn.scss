@@ -57,6 +57,12 @@
     font-size: 130%;
     transform: none;
     display: inline;
+    width: auto;
+    overflow:visible;
+    text-wrap: break-word;
+    overflow-wrap: break-word;
+    background-color: white;
+    color:black;
   }
 }
 

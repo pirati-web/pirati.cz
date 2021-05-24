@@ -40,6 +40,12 @@
   background-color: #e0e0e0;
   color: black;
 }
+
+.glide__bullets div {
+  display: flex;
+  flex-direction: row;
+}
+
 button.glide__bullet--active  {
   background-color: black;
   color: white;
