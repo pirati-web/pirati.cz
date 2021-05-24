@@ -193,6 +193,73 @@ section#kdy_a_kde h3 {
   text-align: left;
 }
 
+#casova_osa h3.main {
+  margin-bottom: 1em;
+}
+
+#casova_osa ul {
+  list-style-type: none;
+  font-size: 120%;
+}
+
+#casova_osa ul li {
+  margin: 0;
+  padding: 0;
+  line-height: 120%;
+}
+
+#casova_osa li.what {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 60%;
+  text-transform: none;
+  letter-spacing: -0.015em;
+}
+
+#casova_osa hr {
+  width: 25%;
+  margin-left: -2em;
+  margin-bottom: 0.4em;
+  margin-top: 0.4em;
+  background-color: black;
+}
+
+.no-left-margin {
+  margin-left: 0;
+}
+
+#casova_osa ul.list-style-circle {
+  list-style-type: disc;
+  margin-top: 1em;
+  padding-left: 1em;
+}
+
+.thread-icon {
+  height: 5em;
+}
+
+#casova_osa .list-style-circle li::marker {
+  transform: scale(2.5);
+}
+
+#casova_osa ul.list-style-circle > li {
+  margin-top: 0.8em;
+  margin-bottom: 0.2em;
+}
+
+#casova_osa a {
+  color: black;
+  padding: 0.1em;
+  line-height: 120%;
+}
+
+#casova_osa a:hover {
+  background-color: black;
+  color: white;
+}
+
+
 section#kdy_a_kde .flex-column h3:first-child {
   font-size: 560%;
   line-height: 130%;
@@ -381,8 +448,20 @@ section#co_kdyz {
 
 
 @media only screen and (max-width: $width-treshold) {
-  #co_kdyz {
-    background-image: none;
+  section#co_kdyz {
+    background-image: none !important;
+  }
+  #co_kdyz .bcg-left-ribbon {
+    position: static;
+    margin-top: 0.5em;
+  }
+
+  #co_kdyz .bcg-left-ribbon .ribbon {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    text-shadow: 0 0 0.5px;
+    font-size: 240%;
+    padding-left: 2em;
   }
 
   .vite_ze .with-quotes {

@@ -53,12 +53,28 @@
                 let consulateCard = document.createElement('div')
                 consulateCard.className = 'consulate-entry h-card'
                 let consulateHTML = ''
-                consulateHTML+='<h5 class="p-name">'+consulate.name+'</h5>'
-                consulateHTML+='<p class="p-adr">'+consulate.adresa+'</p>'
-                consulateHTML+='<a class="u-email" href="mailto:'+consulate.email+'">'+consulate.email+'</a>'
-                consulateHTML+='<p class="p-tel">'+consulate.telefon+'</p>'
-                consulateHTML+='<a href="'+web_url+'" class="u-url">'+web_plain+'</a>'
-                consulateCard.innerHTML = consulateHTML
+                let consulateHeading = document.createElement('h5')
+                consulateHeading.className = 'p-name'
+                consulateHeading.innerHTML = consulate.name
+                let consulateAddress = document.createElement('p')
+                consulateAddress.className = 'p-adr'
+                consulateAddress.innerHTML = consulate.adresa
+                let consulateEmail = document.createElement('a')
+                consulateEmail.className = 'u-email'
+                consulateEmail.setAttribute('href', 'mailto:'+consulate.email)
+                consulateEmail.innerHTML = consulate.email
+                let consulateTelephone = document.createElement('p')
+                consulateTelephone.className = 'p-tel'
+                consulateTelephone.innerHTML = consulate.telefon
+                let consulateWeb = document.createElement('a')
+                consulateWeb.className = 'u-url'
+                consulateWeb.setAttribute('href', web_url)
+                consulateWeb.innerHTML = web_plain
+                consulateCard.appendChild(consulateHeading)
+                consulateCard.appendChild(consulateAddress)
+                consulateCard.appendChild(consulateEmail)
+                consulateCard.appendChild(consulateTelephone)
+                consulateCard.appendChild(consulateWeb)
                 consulatesElement.appendChild(consulateCard)
             }
             document.getElementById('countries-list-data').innerHTML=""
