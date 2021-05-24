@@ -1,7 +1,7 @@
 ---
 date:         2021-05-20
 category:     blog
-tags:         tour-lidru liberty ostrava
+tags:         volby obchod-a-průmysl
 layout:       post
 title:        "Ivan Bartoš s Vítem Rakušanem zahájili tour lídrů návštěvou huti Liberty Ostrava"
 image:        /assets/img/articles/2021/Ivan Bartoš Vít Rakušan Liberty Ostrava.jpg
