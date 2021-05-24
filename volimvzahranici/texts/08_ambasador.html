@@ -1,0 +1,31 @@
+<div class="row">
+    <h2 class="section-title">Staň se koaličním ambasadorem!</h2>
+    <h3 class="opensans">Pomoz nám prosazovat liberální politiku a podpořit voličskou účast v zahraničí!<br>Volit v zahraničí může být těžké. Chceš pomoci ostatním? Přihlaš se, domluvíme se.</h3>
+    <div class="flex-left-shrink margin-top-5">
+        <div class="flex-column">
+            <form id="ambasadorForm" action="#" method="post">
+                <input type="text" name="jmeno" placeholder="* jméno a příjmení" required>
+                <input type="email" name="email" placeholder="* email" required>
+                <input type="text" name="zeme" placeholder="* země" required>
+                <a href="#" onclick="javascript:submitAmbasadorForm()" class="btn btn-yellow">Odeslat</a>
+            </form>
+        </div>
+        <script>
+            function submitAmbasadorForm(){
+                document.getElementById('ambasadorForm').submit()
+            }
+        </script>
+
+        <div>
+            <ul style="list-style-type: none; max-width:35em;" class="opensans-bold">
+                <li>Miluješ svobodu?</li>
+                <li>Máš zájem o politiku?</li>
+                <li>Máš zájem o demokratický vývoj v naší zemi?</li>
+                <li>Chceš podpořit liberální prostředí a moderní společnost?</li>
+                <li class="margin-top-3">Pak nám dej vědět.</li>
+                <li class="margin-top-3 color-yellow">Hledáme dobrovolníky, kteří rádi poradí lidem v zahraničí před&nbsp;volbami i během voleb, jak úspěšně celým procesem projít.</li>
+                <li class="margin-top-3 color-yellow">Spoj se s námi přes dotazník a zkusíme najít cestu, jak můžeš pomoci.</li>
+            </ul>
+        </div>
+    </div>
+</div>

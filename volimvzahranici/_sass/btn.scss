@@ -32,6 +32,28 @@
   background-color: white;
   color: black;
 }
+.btn-white:hover {
+  color: #000000 !important;
+}
+.btn-white::after:hover {
+  color: #000000 !important;
+}
+.btn-white::after{
+  border-left: 0.1em solid black !important;
+}
+.btn-yellow, .btn-yellow::after {
+  background-color: $yellow;
+  color: black;
+}
+.btn-yellow::after{
+  border-left: 0.1em solid black !important;
+}
+.btn-yellow:hover {
+  color: #000000 !important;
+}
+.btn-yellow::after:hover {
+  color: #000000 !important;
+}
 
 .btn::after {
   content: '>';

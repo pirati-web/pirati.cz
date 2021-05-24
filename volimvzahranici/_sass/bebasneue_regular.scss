@@ -1,7 +1,13 @@
+
 @font-face {
   font-family: 'Bebas Neue';
-  src: url(../fonts/bebasneue_regular-webfont.eot);
-  src: url(../fonts/bebasneue_regular-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/bebasneue_regular-webfont.woff2) format("woff2"), url(../fonts/bebasneue_regular-webfont.woff) format("woff"), url(../fonts/bebasneue_regular-webfont.ttf) format("truetype"), url(../fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular) format("svg");
+  src: url('../fonts/bebasneue/BebasNeue-Regular.eot');
+  src: url('../fonts/bebasneue/BebasNeue-Regular.eot?#iefix') format("embedded-opentype"),
+    url('../fonts/bebasneue/BebasNeue-Regular.woff2') format("woff2"),
+    url('../fonts/bebasneue/BebasNeue-Regular.woff') format("woff"),
+    url('../fonts/bebasneue/BebasNeue-Regular.ttf') format("truetype"),
+    url('../fonts/bebasneue/BebasNeue-Regular.svg#BebasNeue-Regular') format("svg");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }

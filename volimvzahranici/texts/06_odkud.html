@@ -3,9 +3,9 @@
     <h2>Odkud budu volit</h2>
 
     <div class="flex-left-shrink">
-        <h3 class="opensans color-white">Seznam všech zastupitelských úřadů ve všech zemích naleznete zde &gt; &gt; &gt; </h3>
+        <h3 class="opensans color-white">Seznam všech zastupitelských úřadů ve všech zemích nalezneš zde &gt; &gt; &gt; </h3>
         <a href="https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/index.html"
-           class="btn btn-green">seznam úřadů</a>
+           class="btn btn-green">Seznam úřadů</a>
     </div>
 
     <h3 class="opensans color-white">Odkud volím</h3>
@@ -28,11 +28,20 @@
 
         function showCountry(countryData) {
 
-            let countryHTML = ''
-            countryHTML+='<div class="countries-list-country-header">'
-            countryHTML+='<img src="'+countryData['flag']+'">'
-            countryHTML+='<h4>'+countryData['name']+'</h4>'
-            countryHTML+='</div>'
+            let country = document.createElement('div')
+            country.className = "countries-list-country"
+            let countryHeader = document.createElement('div')
+            countryHeader.className = "countries-list-country-header"
+            let countryImage = document.createElement('img')
+            countryImage.setAttribute('src', countryData['flag'])
+            let countryHeading = document.createElement('h4')
+            countryHeading.innerHTML = countryData['name']
+            let consulatesElement = document.createElement('div')
+            countryHeader.appendChild(countryImage)
+            countryHeader.appendChild(countryHeading)
+            country.appendChild(countryHeader)
+            country.appendChild(consulatesElement)
+
             for (var cid=0;cid<countryData['consulates'].length;cid++){
 
                 const consulate = countryData['consulates'][cid]
@@ -41,16 +50,19 @@
                     web_url = 'http://' + consulate.web
                 }
                 const web_plain = web_url.replace('http://','').replace('https://','')
-
-                countryHTML+='<div class="consulate-entry h-card">'
-                countryHTML+='<h5 class="p-name">'+consulate.name+'</h5>'
-                countryHTML+='<p class="p-adr">'+consulate.adresa+'</p>'
-                countryHTML+='<a class="u-email" href="mailto:'+consulate.email+'">'+consulate.email+'</a>'
-                countryHTML+='<p class="p-tel">'+consulate.telefon+'</p>'
-                countryHTML+='<a href="http://localhost:4000/zvol/'+web_url+'" class="u-url">'+web_plain+'</a>'
-                countryHTML+='</div>'
+                let consulateCard = document.createElement('div')
+                consulateCard.className = 'consulate-entry h-card'
+                let consulateHTML = ''
+                consulateHTML+='<h5 class="p-name">'+consulate.name+'</h5>'
+                consulateHTML+='<p class="p-adr">'+consulate.adresa+'</p>'
+                consulateHTML+='<a class="u-email" href="mailto:'+consulate.email+'">'+consulate.email+'</a>'
+                consulateHTML+='<p class="p-tel">'+consulate.telefon+'</p>'
+                consulateHTML+='<a href="'+web_url+'" class="u-url">'+web_plain+'</a>'
+                consulateCard.innerHTML = consulateHTML
+                consulatesElement.appendChild(consulateCard)
             }
-            document.getElementById('countries-list-data').innerHTML = countryHTML
+            document.getElementById('countries-list-data').innerHTML=""
+            document.getElementById('countries-list-data').appendChild(country)
         }
 
         regions = Object.keys(consulates_by_region)
