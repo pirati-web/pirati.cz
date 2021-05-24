@@ -1,7 +1,7 @@
 ---
 date:         2021-05-21
 category:     blog
-tags:         covid certifikat pirati 
+tags:         zdravotnictví koronavirus
 layout:       post
 title:        "Covid certifikáty musí být bezplatné, důvěryhodné a uživatelsky přívětivé. Výbor na návrh Pirátů také vyzval k uvolnění patentů na vakcíny"
 image:        /assets/img/articles/2021/frantisek-kopriva00.jpg
