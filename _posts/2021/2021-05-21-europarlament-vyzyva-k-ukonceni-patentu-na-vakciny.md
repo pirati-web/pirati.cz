@@ -1,7 +1,7 @@
 ---
 date:         2021-05-21
 category:     blog
-tags:         zdravotnictví koronavirus- evropská-unie
+tags:         zdravotnictví koronavirus evropská-unie
 layout:       post
 title:        "Konec patentů na vakcíny, vyzývá europarlament. Blíží se konec pandemie?"
 image:        /assets/img/articles/2021/marcel-kolaja00.jpg
