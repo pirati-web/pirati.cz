@@ -1,4 +1,4 @@
-const consulates_by_region = {
+const consulates_by_region={
     "Asie": [
         {
             "alpha2": "af",
@@ -61,14 +61,6 @@ const consulates_by_region = {
                     "telefon": "+966/11/4503617-8",
                     "email": "riyadh@embassy.mzv.cz",
                     "web": "www.mzv.cz/riyadh"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bahrajn_honorarni_konzulat_manama.html",
-                    "name": "Honorární konzulát Manáma",
-                    "adresa": "Villa 41, Isa Park Compound No. 756, Road No.1725, block 517 Saar, Manama",
-                    "telefon": "+973 17764961",
-                    "email": "h.czconsulate@gmail.com",
-                    "web": "www.mzv.cz/riyadh"
                 }
             ]
         },
@@ -85,14 +77,6 @@ const consulates_by_region = {
                     "telefon": "+91/11 2415 5200",
                     "email": "newdelhi@embassy.mzv.cz",
                     "web": "www.mzv.cz/nd"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_dhaka.html",
-                    "name": "Honorární konzulát Dháka",
-                    "adresa": "Monem Business District, Level 2, East Tower, 111, Bir Uttam C.R. Dutta Road, 1205 Dháka",
-                    "telefon": "+88 02 963 / 2011, 2012, 2013, 2304, 2305, 2306, 2307, 2308, 2309, 2310, 2317, \n +88 02 967 6855, +88 02 966 5534, +88 02 966 8638, +88 02 861 0679",
-                    "email": "dhaka@honorary.mzv.cz",
-                    "web": "www.czechrepublicbd.com"
                 }
             ]
         },
@@ -175,22 +159,6 @@ const consulates_by_region = {
             "name": "Filipíny",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/filipiny_honorarni_konzulat_cebu.html",
-                    "name": "Honorární konzulát Cebu",
-                    "adresa": "303 M.Velez St., Banawa, 6000 Cebu City",
-                    "telefon": "+63 32 253 25 12",
-                    "email": "Cebu@honorary.mzv.cz",
-                    "web": "www.mzv.cz/canberra"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/filipiny_honorarni_konzulat_davao.html",
-                    "name": "Honorární konzulát Davao",
-                    "adresa": "5th Floor, Mintrade Center, Monteverde Str. corner Sales, Davao City",
-                    "telefon": "+6382/2348888, 2268888",
-                    "email": "davao@honorary.mzv.cz",
-                    "web": "www.mzv.cz/canberra"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/filipiny_velvyslanectvi_manila.html",
                     "name": "Velvyslanectví Manila",
                     "adresa": "Rufino Pacific Tower, 30th floor, 6784 Ayala Avenue, Makati City, 1226 Manila",
@@ -239,38 +207,6 @@ const consulates_by_region = {
             "name": "Indie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_bengaluru.html",
-                    "name": "Honorární konzulát Bengalúru",
-                    "adresa": "No. 303, \"Pushpak\" MES Ring Road, Jalahalli, Bengaluru",
-                    "telefon": "+91 734 936 8900",
-                    "email": "hcbengaluru@pushpak.com",
-                    "web": "www.mzv.cz/zagreb"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_cennai.html",
-                    "name": "Honorární konzulát Čennai",
-                    "adresa": "Vel Vilas, 3/21 Kottur Garden 3rd Main Road, Kotturpuram, 600 085 Chennai",
-                    "telefon": "+91 442 447 4247",
-                    "email": "czchennai@valingro.com",
-                    "web": "www.mzv.cz/zagreb"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_kalkata.html",
-                    "name": "Honorární konzulát Kolkata",
-                    "adresa": "4 Lee Road, Kalkata, 700 020 Kalkata",
-                    "telefon": "+91 033 2290 7406, +91 033 2283 7178",
-                    "email": "kolkata@honorary.mzv.cz",
-                    "web": "www.mzv.cz/zagreb"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_bombaj.html",
-                    "name": "Honorární konzulát Mumbai",
-                    "adresa": "Rewa Chamber Office 501 (5th Floor), 31, New Marine Lines, Churchgate (E), 400 020 Mumbai",
-                    "telefon": "+91 22220 78531, 78532, 78533, 78534",
-                    "email": "mumbai@honorary.mzv.cz",
-                    "web": "www.mzv.cz/zagreb"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_velvyslanectvi_dilli.html",
                     "name": "Velvyslanectví Dillí",
                     "adresa": "50-M, Niti Marg, Chanakyapuri, 110 021 New Delhi",
@@ -286,30 +222,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Indonésie",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indonesie_honorarni_konzulat_bali.html",
-                    "name": "Honorární konzulát Bali",
-                    "adresa": "Jalan Pengembak 17, 80228 Sanur - Bali",
-                    "telefon": "+62/361 286465",
-                    "email": "bali@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nd"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indonesie_honorarni_konzulat_makassar.html",
-                    "name": "Honorární konzulát Makassar",
-                    "adresa": "Gedung Graha Pena 15th Floor; Jl. Urip Sumoharjo No. 20, 90241 Makassar",
-                    "telefon": "+62 411 366 1919",
-                    "email": "makassar@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nd"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indonesie_honorarni_konzulat_surabaya.html",
-                    "name": "Honorární konzulát Surabaya",
-                    "adresa": "Darmo Square Kav. R-8, Jalan Raya Darmo 54-56, 60264 Surabaya",
-                    "telefon": "+62 31 5621 834",
-                    "email": "surabaya@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nd"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indonesie_velvyslanectvi_jakarta.html",
                     "name": "Velvyslanectví Jakarta",
@@ -367,46 +279,6 @@ const consulates_by_region = {
             "name": "Izrael",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_ceske_centrum_tel_aviv.html",
-                    "name": "České centrum Tel Aviv",
-                    "adresa": "23 Zeitlin Street, 6495518 Tel Aviv",
-                    "telefon": "+972 3 691 1216",
-                    "email": "cctelaviv@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_cesky_dum_jerusalem.html",
-                    "name": "Český dům Jerusalem",
-                    "adresa": "11 Hebron rd., Jerusalem",
-                    "telefon": "+972 3 691 1216",
-                    "email": "jerusalem@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_honorarni_konzulat_haifa.html",
-                    "name": "Honorární generální konzulát Haifa",
-                    "adresa": "Finland 42, Dania, 34989 Haifa",
-                    "telefon": "+972/4/8258936",
-                    "email": "roni@criza.com",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_honorarni_konzulat_ejlat.html",
-                    "name": "Honorární konzulát Ejlat",
-                    "adresa": "3 Peten, 88000 Eilat",
-                    "telefon": "+972/549818454",
-                    "email": "eilat@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_honorarni_konzulat_jeruzalem.html",
-                    "name": "Honorární konzulát Jeruzalém",
-                    "adresa": "Harton 8, Har Hotzvim, Jerusalem",
-                    "telefon": "+972 3 720 5005",
-                    "email": "jerusalem@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/izrael_velvyslanectvi_tel_aviv.html",
                     "name": "Velvyslanectví Tel Aviv",
                     "adresa": "23 Zeitlin Steet, 6495518 Tel Aviv ",
@@ -422,30 +294,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Japonsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/japonsko_ceske_centrum_tokio.html",
-                    "name": "České centrum Tokio",
-                    "adresa": "2-16-14 Hiroo, Shibuya-ku, 150-0012 Tokyo",
-                    "telefon": "+813/34008129, IP Telefon: +420/234668560",
-                    "email": "cctokyo@czech.cz",
-                    "web": "www.czechcentres.cz/tokyo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/japonsko_honorarni_konzulat_naha.html",
-                    "name": "Honorární konzulát Naha",
-                    "adresa": "1-6-5-Tsuji, 901-0037 Naha-city",
-                    "telefon": "+81 098 861 0102",
-                    "email": "naha@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/tokyo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/japonsko_honorarni_konzulat_sakai.html",
-                    "name": "Honorární konzulát Sakai",
-                    "adresa": "130-23, Nagasone-cho, Kita-ku, Sakai City, Osaka, 591-8502, Sakai",
-                    "telefon": "+81 072 240 2507",
-                    "email": "sakai@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/tokyo"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/japonsko_velvyslanectvi_tokio.html",
                     "name": "Velvyslanectví Tokio",
@@ -468,14 +316,6 @@ const consulates_by_region = {
                     "adresa": "Saad Bin Gharir Street, Al-Nuzha District, 11693 Rijád",
                     "telefon": "+966/11/4503617-8",
                     "email": "riyadh@embassy.mzv.cz",
-                    "web": "www.mzv.cz/riyadh"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/jemen_honorarni_konzulat_sanaa.html",
-                    "name": "Honorární konzulát Sanáa",
-                    "adresa": "ATMA Building, Southern Ring Road, Sanáa",
-                    "telefon": "+967 1 538 104",
-                    "email": "sanaa@honorary.mzv.cz",
                     "web": "www.mzv.cz/riyadh"
                 }
             ]
@@ -543,14 +383,6 @@ const consulates_by_region = {
             "name": "Kazachstán",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kazachstan_honorarni_konzulat_almaty.html",
-                    "name": "Honorární konzulát Almaty",
-                    "adresa": "Kurmangalieva 7, Almaty",
-                    "telefon": "+7 727 291 1734, +7 747 580 2387(mimo pracovní dobu)",
-                    "email": "almaty@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kuwait"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kazachstan_velvyslanectvi_astana.html",
                     "name": "Velvyslanectví Nur-Sultan",
                     "adresa": "Business Centre Q2, Kabanbay Batyra 15/1, 010000 Nur-Sultan",
@@ -582,14 +414,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Korejská republika",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/korejska_republika_ceske_centrum_soul.html",
-                    "name": "České centrum Soul",
-                    "adresa": "Castle Praha Building, 4 F, Seogyo-dong 395-19, Mapo-gu, 121-840 Seoul",
-                    "telefon": "+82 (0) 708 806 56 89",
-                    "email": "czechcentreseoul@gmail.com",
-                    "web": "http "
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/korejska_republika_velvyslanectvi_soul.html",
                     "name": "Velvyslanectví Soul",
@@ -623,14 +447,6 @@ const consulates_by_region = {
             "name": "Kypr",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kypr_honorarni_konzulat_limassol.html",
-                    "name": "Honorární konzulát Limassol",
-                    "adresa": "M. Georgalla 10, 1095 Nicosia",
-                    "telefon": "+537/22591900",
-                    "email": "limassol@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kuwait"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kypr_velvyslanectvi_nicosia.html",
                     "name": "Velvyslanectví Nikósie",
                     "adresa": "18 Kyriakou Matsi Avenue, Victory Tower, 2nd Floor, office # 202, Ayioi Omologites, 1082 Nicosia",
@@ -661,14 +477,6 @@ const consulates_by_region = {
                     "telefon": "recepce (interaktivní spojovatelka) +77172/660472, sekretariát 660477, OEÚ1 660488, OEÚ2 660478 , KO 660483, \n zást.vv/PO 660481",
                     "email": "nursultan@embassy.mzv.cz",
                     "web": "www.mzv.cz/nur-sultan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kyrgyzstan_honorarni_konzulat_biskek.html",
-                    "name": "Honorární konzulát Biškek",
-                    "adresa": "Razzakova 15, 720040 Biškek",
-                    "telefon": "+996 550 77 66 25",
-                    "email": "biskek@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nur-sultan"
                 }
             ]
         },
@@ -684,14 +492,6 @@ const consulates_by_region = {
                     "adresa": "71/6 Ruam Rudee Soi 2, Ploenchit Rd., 10330 Bangkok",
                     "telefon": "+66/22509223, 22509224",
                     "email": "bangkok@embassy.mzv.cz",
-                    "web": "www.mzv.cz/bangkok"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/laos_honorarni_konzulat_vientiane.html",
-                    "name": "Honorární konzulát Vientiane",
-                    "adresa": "Royal Square Building (3rd floor), Samsenthai Road, Ban Nongduang Nuea, Sikhottabong District, Vientiane",
-                    "telefon": "+856 (20) 554 549 39",
-                    "email": "vientiane@honorary.mzv.cz",
                     "web": "www.mzv.cz/bangkok"
                 }
             ]
@@ -734,14 +534,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Malajsie",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/malajsie_honorarni_konzulat_kota.html",
-                    "name": "Honorární konzulát Kota Kinabalu",
-                    "adresa": "2nd Floor, Lot 9, Fortuna Commercial Center, Lrg. Seroja 2, 88200 Kota Kinabalu",
-                    "telefon": "+60 88 233 731",
-                    "email": "kotakinabalu@honorary.mzv.cz",
-                    "web": "www.mzv.cz/budapest"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/malajsie_velvyslanectvi_kuala_lumpur.html",
                     "name": "Velvyslanectví Kuala Lumpur",
@@ -791,14 +583,6 @@ const consulates_by_region = {
             "name": "Myanmar",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/myanmar_barma_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Mandalay",
-                    "adresa": "273 (A) 80th Street, Bet: 32&33 Street, Chan Aye Tharzan Township, Mandalay",
-                    "telefon": "+95 9 402 000 000",
-                    "email": "annywaiwai@gmail.com",
-                    "web": "www.mzv.cz/pretoria"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/myanmar_barma_velvyslanectvi_rangun.html",
                     "name": "Velvyslanectví Rangún",
                     "adresa": "No. 109/B2, Aung Taw Mu Lane, Than Lwin Road, Bahan Township, 11041 Yangon",
@@ -821,14 +605,6 @@ const consulates_by_region = {
                     "telefon": "+91/11 2415 5200",
                     "email": "newdelhi@embassy.mzv.cz",
                     "web": "www.mzv.cz/nd"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nepal_honorarni_konzulat_kathmandu.html",
-                    "name": "Honorární generální konzulát Káthmandú",
-                    "adresa": "Building No. 494, Ganeshman Singh Path, Tripureshwor, Kathmandu",
-                    "telefon": "+977-1-4259528",
-                    "email": "kathmandu@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nd"
                 }
             ]
         },
@@ -845,14 +621,6 @@ const consulates_by_region = {
                     "telefon": "+966/11/4503617-8",
                     "email": "riyadh@embassy.mzv.cz",
                     "web": "www.mzv.cz/riyadh"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/oman_honorarni_konzulat_maskat.html",
-                    "name": "Honorární konzulát Maskat",
-                    "adresa": "Penthouse Floor, Building No. 433, Way 4006, Block 240, Al Gubrah, Muscat",
-                    "telefon": "+968 220 35 000, linka 1111",
-                    "email": "consul_muscat@outlook.com",
-                    "web": "www.mzv.cz/riyadh"
                 }
             ]
         },
@@ -862,30 +630,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Pákistán",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/pakistan_honorarni_konzulat_karaci.html",
-                    "name": "Honorární konzulát Karáčí",
-                    "adresa": "6-B, 15 South Street, Defence Housing Authority, Phase 2, Karachi",
-                    "telefon": "+92/21-358 94 520",
-                    "email": "karachi@honorary.mzv.cz",
-                    "web": "www.mzv.cz/geneva"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/pakistan_honorarni_konzulat_lahore.html",
-                    "name": "Honorární konzulát Lahore",
-                    "adresa": "c/o Samira House, 55 - P, Gulberg - 2, Lahore",
-                    "telefon": "+92 42 111 850 850",
-                    "email": "lahore@honorary.mzv.cz",
-                    "web": "www.mzv.cz/geneva"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/pakistan_honorarni_konzulat_pesavar.html",
-                    "name": "Honorární konzulát Péšávár",
-                    "adresa": "No. 1, Old Michni Lane (Col. Zahir Khan Shaheed Lane), Peshawar Cantt, Peshawar",
-                    "telefon": "+92/ 915 270 025",
-                    "email": "peshawar@honorary.mzv.cz",
-                    "web": "www.mzv.cz/geneva"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/pakistan_velvyslanectvi_islamabad.html",
                     "name": "Velvyslanectví Islámábád",
@@ -909,22 +653,6 @@ const consulates_by_region = {
                     "telefon": "+9723/6918282-3, KO-6911033, sekretariát-6911031",
                     "email": "telaviv@embassy.mzv.cz",
                     "web": "www.mzv.cz/telaviv"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/palestina_honorarni_konzulat_betlem.html",
-                    "name": "Honorární konzulát Betlém",
-                    "adresa": "Antonian Society Str., Bethlehem",
-                    "telefon": "+970 02 274 3343",
-                    "email": "bethlehem@honorary.mzv.cz",
-                    "web": "www.mzv.cz/telaviv"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/palestina_stycny_urad_ramallah.html",
-                    "name": "Styčný úřad Ramalláh",
-                    "adresa": "Beit Assia Bldg., (3rd Floor), Al-Irsal Str., P.O.Box 4035 (Post Al-Bireh) Ramallah ",
-                    "telefon": "+970/2/2965595",
-                    "email": "ramallah@embassy.mzv.cz",
-                    "web": "www.mzv.cz/ramallah"
                 }
             ]
         },
@@ -934,14 +662,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Saúdská Arábie",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/saudska_arabie_honorarni_konzulat_dzidda.html",
-                    "name": "Honorární konzulát Džidda",
-                    "adresa": "18 Hussain Shobokshi Street, Al Hamra Distr., 21464 Jeddah ",
-                    "telefon": "+966 12 6684 568, +966 12 6678033 linka 159",
-                    "email": "crhcjed@gmail.com",
-                    "web": "www.mzv.cz/rome"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/saudska_arabie_velvyslanectvi_rijad.html",
                     "name": "Velvyslanectví Rijád",
@@ -991,22 +711,6 @@ const consulates_by_region = {
             "name": "Sýrie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/syrie_honorarni_konzulat_aleppo.html",
-                    "name": "Honorární konzulát Aleppo",
-                    "adresa": "Cheikh Taha Street (near Al Foursan Cafe), P.O. Box 235, Aleppo",
-                    "telefon": "+96321/4663520, +96321/4663500",
-                    "email": "aleppo@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/syrie_honorarni_konzulat_latakia.html",
-                    "name": "Honorární konzulát Latákia",
-                    "adresa": "8th March Street - Zein Building, P.O.Box 20, Lattakia",
-                    "telefon": "+96341/467 032-8",
-                    "email": "lattakia@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/syrie_velvyslanectvi_damasek.html",
                     "name": "Velvyslanectví Damašek",
                     "adresa": "Abou Roumaneh, Misr Street 51, Damascus",
@@ -1028,14 +732,6 @@ const consulates_by_region = {
                     "adresa": "50-M, Niti Marg, Chanakyapuri, 110 021 New Delhi",
                     "telefon": "+91/11 2415 5200",
                     "email": "newdelhi@embassy.mzv.cz",
-                    "web": "www.mzv.cz/nd"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/sri_lanka_honorarni_konzulat_kolombo.html",
-                    "name": "Honorární konzulát Kolombo",
-                    "adresa": "No. 20, Vljitha Road, Nadimala, Dehiwala, 00100 Colombo",
-                    "telefon": "+94 777 686 259, 115 559 083",
-                    "email": "colombo@honorary.mzv.cz",
                     "web": "www.mzv.cz/nd"
                 }
             ]
@@ -1063,14 +759,6 @@ const consulates_by_region = {
             "name": "Thajsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/thajsko_honorarni_konzulat_phuket.html",
-                    "name": "Honorární konzulát Phuket",
-                    "adresa": "44 Chalerm Prakiat R. 9 Road, 83000 Phuket",
-                    "telefon": "+66-(0)763 618 88 linka 1501",
-                    "email": "phuket@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nairobi"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/thajsko_velvyslanectvi_bangkok.html",
                     "name": "Velvyslanectví Bangkok",
                     "adresa": "71/6 Ruam Rudee Soi 2, Ploenchit Rd., 10330 Bangkok",
@@ -1085,16 +773,7 @@ const consulates_by_region = {
             "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA1CAMAAADh9px2AAAAOVBMVEX+AABCQrCxsd9vb8MQEJtfX73JyekAAJX///9+AEsgIKJ+fsrw8PkuLqhSUregoNfg4PKQkNGfn9eIiQ+5AAAA30lEQVRYw+3Vu3KEMAyFYWRLOie+wr7/w6YIZGa3YrCbTPxXrr7BwuANN9vu9idB1YmgAmjtXMwADwWOA9BjEphdse9Qz5PASq/u1VkngMkS4C2+XrE5kGIafULjnlshySJ5p41v2SiF/BHfvaczlMCzIBNmGEPeL3DPYXSG0guNvxlLl9EtV/HLc6kTZqghXmAMOg6qM59vJWS6joIauiXLhSzRkvU38REIINGlNXHqxx/n6bdsNJCwj2P9HOwGhABYnwQKgBjPxawroNZ/d+uNgV8321ar1Wq1Wq2m9w2GdB6AAUGRTQAAAABJRU5ErkJggg==",
             "region": "Asia",
             "name": "Tchaj-wan",
-            "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/tchaj_wan_ekonomicka_a_kulturni_kancelar.html",
-                    "name": "Česká ekonomická a kulturní kancelář Tchaj-pej",
-                    "adresa": "7F-Room B, No. 200, Keelung Road, Sec. 1, 110 71 Taipei",
-                    "telefon": "+886-2-27225100, 27221342, 27221435",
-                    "email": "Taipei_Ceco@mzv.cz",
-                    "web": "www.mzv.cz/taipei"
-                }
-            ]
+            "consulates": []
         },
         {
             "alpha2": "tr",
@@ -1108,22 +787,6 @@ const consulates_by_region = {
                     "adresa": "Abdi Ipekci Cad. 71, Maçka, P.O.Box 35 Istanbul",
                     "telefon": "ústředna +90212/368 8034, 368 8035",
                     "email": "istanbul@embassy.mzv.cz",
-                    "web": "www.mzv.cz/istanbul"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/turecko_honorarni_konzulat_izmir.html",
-                    "name": "Honorární konzulát Izmir",
-                    "adresa": "Cumhuriyet Meydani No.11, Meydan Apt. Kat:4, Daire 11, 35220 Alsancak - Izmir",
-                    "telefon": "+90/ 232 368 0944, 2320368 8871",
-                    "email": "izmir@honorary.mzv.cz",
-                    "web": "www.mzv.cz/istanbul"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/turecko_honorarni_konzulat_mersin.html",
-                    "name": "Honorární konzulát Mersin",
-                    "adresa": "I. Inönü Blv., Altinanahtarlar Apt. C Blok No.6 Mersin, Camlibel/Mersin, Çamlibel/Mersin",
-                    "telefon": "+90 324 676 4470",
-                    "email": "mersin@honorary.mzv.cz",
                     "web": "www.mzv.cz/istanbul"
                 },
                 {
@@ -1174,22 +837,6 @@ const consulates_by_region = {
             "region": "Asia",
             "name": "Vietnam",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/vietnam_honorarni_konzulat_haiphong.html",
-                    "name": "Honorární konzulát Haiphong",
-                    "adresa": "Cat Co 3 Beach, Cat Ba Island, Hai Phong",
-                    "telefon": "+84 225 388 7360 - 63",
-                    "email": "haiphong@honorary.mzv.cz",
-                    "web": "www.mzv.cz/bogota"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/vietnam_honorarni_konzulat_ho_ci_minovo.html",
-                    "name": "Honorární konzulát Ho Či Minovo Město",
-                    "adresa": "18 BIS/28 Nguyen Thi Minh Khai, Quan 1, Ho Chi Minh City",
-                    "telefon": "+84 28 3829 0585",
-                    "email": "hochiminh@honorary.mzv.cz",
-                    "web": "www.mzv.cz/bogota"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/vietnam_velvyslanectvi_hanoj.html",
                     "name": "Velvyslanectví Hanoj",
@@ -1247,14 +894,6 @@ const consulates_by_region = {
                     "telefon": "+34 91 353 1880, sekretariát-91 353 1882, KO-91 353 1896-7",
                     "email": "madrid@embassy.mzv.cz",
                     "web": "www.mzv.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/andorra_honorarni_konzulat_andorra_la.html",
-                    "name": "Honorární konzulát Andorra la Vella",
-                    "adresa": "Carrer del Fener, núm. 11-13, Edifici Eland Unió, 1-4, AD500 Andorra la Vella",
-                    "telefon": "+376 862 800",
-                    "email": "andorra@honorary.mzv.cz",
-                    "web": "www.mzv.cz/madrid"
                 }
             ]
         },
@@ -1264,54 +903,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Belgie",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_ceske_centrum_brusel.html",
-                    "name": "České centrum Brusel",
-                    "adresa": "Avenue Adolphe Buyl 150-152, 1050 Bruxelles ",
-                    "telefon": "+32 2 641 8947",
-                    "email": "ccbrussels@czech.cz",
-                    "web": "www.czechcentres.cz/brussels"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_honorarni_konzulat_antverpy.html",
-                    "name": "Honorární generální konzulát Antverpy/Antwerpen/Anvers",
-                    "adresa": "Kaaskantmolenstraat 11, 1840 Londerzeel,  Antwerpen",
-                    "telefon": "+32 475 902 961",
-                    "email": "antwerp@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/brussels"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_honorarni_konzulat_gent.html",
-                    "name": "Honorární konzulát Gent",
-                    "adresa": "Rijsenbergstraat 148, 9000 Gent",
-                    "telefon": "+32 9 243 88 00",
-                    "email": "ghent@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/brussels"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_honorarni_konzulat_lutych.html",
-                    "name": "Honorární konzulát Liege/Lutych",
-                    "adresa": "Hotel de Ville, Place du Marché 2, 4000 Liège",
-                    "telefon": "+32/(0)42218036",
-                    "email": "liege@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/brussels"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_honorarni_konzulat_namur_namen.html",
-                    "name": "Honorární konzulát Namur/Namen",
-                    "adresa": "90, rue du Noly, BOVESSE, 5002 Saint-Servais-Namur",
-                    "telefon": "+32 8 173 1848",
-                    "email": "namur@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/brussels"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_konzularni_oddeleni.html",
-                    "name": "Konzulární úsek velvyslanectví",
-                    "adresa": "Avenue Adolphe Buyl 154, 1050 Bruxelles",
-                    "telefon": "+322 6418941, +322 641 8942, vízové oddělení. +322 641 8943",
-                    "email": "consulary_brussels@mzv.cz",
-                    "web": "www.mzv.cz/brussels"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belgie_velvyslanectvi_brusel.html",
                     "name": "Velvyslanectví Brusel",
@@ -1328,14 +919,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Bělorusko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belorusko_honorarni_konzulat_v_brestu.html",
-                    "name": "Honorární konzulát v Brestu",
-                    "adresa": "b-r Kosmonavtov 75/1, 224030 Brest",
-                    "telefon": "+375 162 59 70 74",
-                    "email": "brest@honorary.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belorusko_velvyslanectvi_minsk.html",
                     "name": "Velvyslanectví Minsk",
@@ -1369,38 +952,6 @@ const consulates_by_region = {
             "name": "Bulharsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bulharsko_ceske_centrum_sofie.html",
-                    "name": "České centrum Sofie",
-                    "adresa": "ul. G.S.Rakovski 100, 1000 Sofia",
-                    "telefon": "+3592/8155430, 8155431",
-                    "email": "ccsofia@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bulharsko_honorarni_konzulat_plovdiv.html",
-                    "name": "Honorární konzulát Plovdiv",
-                    "adresa": "Tsar Boris Obedinitel 37, 4000 Plovdiv",
-                    "telefon": "+359 889 005 000",
-                    "email": "plovdiv@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bulharsko_honorarni_konzulat_varna.html",
-                    "name": "Honorární konzulát Varna",
-                    "adresa": "Cani Ginčev 24, 9002 Varna",
-                    "telefon": "+359 526 417 75, v případě nouze v nočních hodinách: +359 887 648 029",
-                    "email": "Varna@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sofia"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bulharsko_konzularni_jednatelstvi_burgas.html",
-                    "name": "Konzulární jednatelství Burgas",
-                    "adresa": "Grand Hotel Primorec, ul. Al. Batenberg 2, 8000 Burgas",
-                    "telefon": "+ 359 885 359 050 (z ČR), 0885 359 050 (z BG)",
-                    "email": "kjburgas@centrum.cz",
-                    "web": "www.mzv.cz/sofia"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bulharsko_velvyslanectvi_sofie.html",
                     "name": "Velvyslanectví Sofie",
                     "adresa": "G.S.Rakovski No.100, 1000 Sofia",
@@ -1432,14 +983,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Dánsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/dansko_honorarni_konzulat_aarhus.html",
-                    "name": "Honorární konzulát Aarhus",
-                    "adresa": "Sofienlystvej 6-8, Malling, 8340 Aarhus",
-                    "telefon": "+45 8880 8240, mobil: +45 2213 4111",
-                    "email": "aarhus@honorary.mzv.cz",
-                    "web": "www.mzv.cz/copenhagen"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/dansko_velvyslanectvi_kodan.html",
                     "name": "Velvyslanectví Kodaň",
@@ -1489,35 +1032,11 @@ const consulates_by_region = {
             "name": "Finsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/finsko_honorarni_konzulat_oulu.html",
-                    "name": "Honorární konzulát Oulu",
-                    "adresa": "CEO Kaleva, Solistinkatu 4,, 90140 Oulu",
-                    "telefon": "0035 885 377 111",
-                    "email": "oulu@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manila"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/finsko_honorarni_konzulat_tampere_1.html",
-                    "name": "Honorární konzulát Tampere",
-                    "adresa": "Rinnekatu 16, 33250 Tampere",
-                    "telefon": "00358/503 449 993",
-                    "email": "tampere@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manila"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/finsko_velvyslanectvi_helsinky.html",
                     "name": "Velvyslanectví Helsinky",
                     "adresa": "Armfeltintie 14, 00150 Helsinki",
                     "telefon": "+3589/6120 880, informátorka-6120 8811, sekretariát-6120 8812, PO-OEÚ-TI 6120 8815, KO-KU 6120 8816",
                     "email": "helsinki@embassy.mzv.cz",
-                    "web": "www.mzv.cz/helsinki"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/finsko_honorarni_konzulat_tampere.html",
-                    "name": "Honorární konzulát Tampere",
-                    "adresa": "Kuninkaankatu 15 B 26, 33210 Tampere",
-                    "telefon": "+35850/5522680",
-                    "email": "detano@elisanet.fi",
                     "web": "www.mzv.cz/helsinki"
                 }
             ]
@@ -1529,99 +1048,11 @@ const consulates_by_region = {
             "name": "Francie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_ceske_centrum_pariz.html",
-                    "name": "České centrum Paříž",
-                    "adresa": "18 rue Bonaparte, 75006 Paris",
-                    "telefon": "+ 33 1 53 73 00 22",
-                    "email": "ccparis@czech.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_bordeaux.html",
-                    "name": "Honorární konzulát Bordeaux",
-                    "adresa": "Mini Parc, Atalante A, 8 rue du Professeur André Lavignolle, 33300 Bordeaux",
-                    "telefon": "+33 (0) 5 57 00 14 45",
-                    "email": "bordeaux@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_dijon.html",
-                    "name": "Honorární konzulát Dijon",
-                    "adresa": "Les Jardins de Valmy, 36, avenue Francoise Giroud, 21000 Dijon",
-                    "telefon": "+33 3 80 30 30 33",
-                    "email": "dijon@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/guadeloupe_honorarni_konzulat_guadeloupe.html",
-                    "name": "Honorární konzulát Guadeloupe/Baie-Mahault",
-                    "adresa": "19 Convenance Gate, 97122 Baie-Mahault",
-                    "telefon": "+590 (0) 590 32 72 72",
-                    "email": "guadeloupe@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_lille.html",
-                    "name": "Honorární konzulát Lille",
-                    "adresa": "Maison des Consuls, 31, rue des Fossés, 59000 Lille",
-                    "telefon": "+33 (0) 6 32 85 97 11",
-                    "email": "lille@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_lyon.html",
-                    "name": "Honorární konzulát Lyon",
-                    "adresa": "136, rue Sully, 69006 Lyon",
-                    "telefon": "+33/4 78 93 37 66, +33/7 87 32 67 41",
-                    "email": "lyon@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_strasburk.html",
-                    "name": "Honorární konzulát Strasbourg",
-                    "adresa": "7 rue Westercamp, 67000 Strasbourg",
-                    "telefon": "+33 (0) 6 789 362 34",
-                    "email": "strasbourg@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_toulouse.html",
-                    "name": "Honorární konzulát Toulouse",
-                    "adresa": "1 impasse Beaucaire - Résidence d´Arles, 31 500 Toulouse",
-                    "telefon": "+33 (0) 5 61 11 95 66",
-                    "email": "toulouse@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_konzularni_oddeleni.html",
-                    "name": "Konzulární oddělení velvyslanectví Paříž",
-                    "adresa": "18, rue Bonaparte, 75006 Paris",
-                    "telefon": "+33/144 320 200",
-                    "email": "consulate.paris@embassy.mzv.cz",
-                    "web": "www.mzv.cz/paris"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_velvyslanectvi_pariz.html",
                     "name": "Velvyslanectví Paříž",
                     "adresa": "15, Avenue Charles Floquet, 75007 Paris",
                     "telefon": "+331/40651300, sekretariát vv. 40651301, sekretariát dipl. 40651303, obchodní oddělení 40651315",
                     "email": "paris@embassy.mzv.cz",
-                    "web": "www.mzv.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_marseille.html",
-                    "name": "Honorární konzulát Marseille",
-                    "adresa": "4 rue d'Angkor de Vauban, 13 006 Marseille",
-                    "telefon": "+33 / 9 63 40 16 77",
-                    "email": "marseille@honorary.mzv.cz",
-                    "web": "www.mzv.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/francie_honorarni_konzulat_nantes.html",
-                    "name": "Honorární konzulát Nantes",
-                    "adresa": "2, rue Tournefort, 44000 Nantes",
-                    "telefon": "00332 40 20 44 44",
-                    "email": "nantes@honorary.mzv.cz",
                     "web": "www.mzv.cz/paris"
                 }
             ]
@@ -1632,22 +1063,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Chorvatsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/chorvatsko_konzularni_jednatelstvi.html",
-                    "name": "Konzulární jednatelství Rijeka",
-                    "adresa": "Trg. 128. brigade Hrvatske vojske 4, 51 000 Rijeka",
-                    "telefon": "+ 385 91 612 15 60",
-                    "email": "consulate.rijeka@mzv.cz",
-                    "web": "www.mzv.cz/santiago"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/chorvatsko_konzularni_jednatelstvi_split.html",
-                    "name": "Konzulární jednatelství Split",
-                    "adresa": "Obala H.N.P.5/III (Riva), 21 000 Split",
-                    "telefon": "+385 91 612 1660",
-                    "email": "consulate.split@mzv.cz",
-                    "web": "www.mzv.cz/santiago"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/chorvatsko_velvyslanectvi_zahreb.html",
                     "name": "Velvyslanectví Záhřeb",
@@ -1687,14 +1102,6 @@ const consulates_by_region = {
                     "telefon": "+47/22 12 10 31",
                     "email": "oslo@embassy.mzv.cz",
                     "web": "www.mzv.cz/oslo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/island_honorarni_konzulat_reykjavik.html",
-                    "name": "Honorární konzulát Reykjavík",
-                    "adresa": "Ingólfsstreti 5, 101 Reykjavík",
-                    "telefon": "+354/5117 011",
-                    "email": "reykjavik@honorary.mzv.cz",
-                    "web": "www.mzv.cz/oslo"
                 }
             ]
         },
@@ -1705,83 +1112,11 @@ const consulates_by_region = {
             "name": "Itálie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_cesky_dum_milan.html",
-                    "name": "České centrum Milán",
-                    "adresa": "Via G.B.Morgagni 20, 20 129 Milan",
-                    "telefon": "+39 02 294 112 42",
-                    "email": "ccmilan@czech.cz",
-                    "web": "milano.czechcentres.cz"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_ceske_centrum_rim.html",
-                    "name": "České centrum Řím",
-                    "adresa": "Via dei Gracchi 322, 00192 Roma",
-                    "telefon": "+39 02 294 112 42",
-                    "email": "ccmilan@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_generalni_konzulat_milan.html",
                     "name": "Generální konzulát Milán",
                     "adresa": "Via Giovanni Battista Morgagni 20, 20129 Milano",
                     "telefon": "+39 023 650 9000",
                     "email": "milano@embassy.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_ancona.html",
-                    "name": "Honorární konzulát Ancona",
-                    "adresa": "Via Pastore 17, 60131 Ancona",
-                    "telefon": "+39 071 2867794",
-                    "email": "ancona@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_cagliari_1.html",
-                    "name": "Honorární konzulát Cagliari",
-                    "adresa": "Via Pastore 17, 60131 Ancona",
-                    "telefon": "+39 071 2867794",
-                    "email": "ancona@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_florencie.html",
-                    "name": "Honorární konzulát Florencie  /Firenze/",
-                    "adresa": "Via Umberto Maddalena 32r, 50127 Firenze",
-                    "telefon": "+39 055 284454",
-                    "email": "florence@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_janov.html",
-                    "name": "Honorární konzulát Janov  /Genova/",
-                    "adresa": "Piazza della Vittoria 6/9A, 161 21 Genova",
-                    "telefon": "+39 010 5954574",
-                    "email": "genova@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_neapol.html",
-                    "name": "Honorární konzulát Neapol  /Napoli/",
-                    "adresa": "Corso Umberto I, 275, 80138 Napoli",
-                    "telefon": "+39 081 268784",
-                    "email": "naples@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_palermo.html",
-                    "name": "Honorární konzulát Palermo",
-                    "adresa": "Viale della Libertá n. 104, 90143 Palermo",
-                    "telefon": "+39 333 531 4906",
-                    "email": "palermo@honorary.mzv.cz",
-                    "web": "www.mzv.cz/milan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_udine.html",
-                    "name": "Honorární konzulát Udine",
-                    "adresa": "Via San Francesco 34, 33100 Udine",
-                    "telefon": "+39 0432 509 445",
-                    "email": "udine@honorary.mzv.cz",
                     "web": "www.mzv.cz/milan"
                 },
                 {
@@ -1822,14 +1157,6 @@ const consulates_by_region = {
                     "adresa": "Muristrasse 53 (vchod z Burgernzielweg), 3000 Bern 31",
                     "telefon": "+41/ 313 504 070, sekretariát -504 071,72, konzulární úsek-504 091,92",
                     "email": "bern@embassy.mzv.cz",
-                    "web": "www.mzv.cz/bern"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/lichtenstejnsko_honorarni_konzulat_vaduz.html",
-                    "name": "Honorární konzulát Vaduz",
-                    "adresa": "Wuhrstrasse 6, 9490 Vaduz",
-                    "telefon": "+423 236 3600",
-                    "email": "vaduz@honorary.mzv.cz",
                     "web": "www.mzv.cz/bern"
                 }
             ]
@@ -1873,14 +1200,6 @@ const consulates_by_region = {
             "name": "Lucembursko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/lucembursko_honorarni_konzulat_lucemburk.html",
-                    "name": "Honorární konzulát Lucemburk",
-                    "adresa": "76, rte Thionville, L 2610 Lucembourg",
-                    "telefon": "+352/ 691 676 356",
-                    "email": "iva@atelier-iva.eu",
-                    "web": "www.mzv.cz/riga"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/lucembursko_velvyslanectvi_lucemburk.html",
                     "name": "Velvyslanectví Lucemburk",
                     "adresa": "2, rond-point Robert Schuman, L-2525 Luxembourg",
@@ -1896,22 +1215,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Maďarsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/madarsko_ceske_centrum_budapest.html",
-                    "name": "České centrum Budapešť",
-                    "adresa": "Szegfű utca 4., 1063 Budapest",
-                    "telefon": "+361/4625066",
-                    "email": "ccbudapest@czech.cz",
-                    "web": "www.czechcentres.cz/budapest"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/madarsko_konzularni_oddeleni.html",
-                    "name": "Konzulární oddělení velvyslanectví Budapešť",
-                    "adresa": "Szegfú utca 4, 1063 Budapest VI., 1064 Budapest",
-                    "telefon": "sekretariát +361/4625014, vízový úsek-4625025, 4625026, 4625027, konzul-4625024",
-                    "email": "budapest@embassy.mzv.cz",
-                    "web": "www.mzv.cz/budapest"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/madarsko_velvyslanectvi_budapest.html",
                     "name": "Velvyslanectví Budapešť",
@@ -1935,14 +1238,6 @@ const consulates_by_region = {
                     "telefon": "+39 06 360 95 71-3",
                     "email": "rome@embassy.mzv.cz",
                     "web": "www.mzv.cz/rome"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/malta_honorarni_konzulat_naxxar.html",
-                    "name": "Naxxar",
-                    "adresa": "Via dei Gracchi 322, 00192 Roma",
-                    "telefon": "+39 06 360 95 71-3",
-                    "email": "rome@embassy.mzv.cz",
-                    "web": "www.mzv.cz/rome"
                 }
             ]
         },
@@ -1952,14 +1247,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Moldavsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/moldavsko_honorarni_konzulat_balti.html",
-                    "name": "Honorární konzulát Balti",
-                    "adresa": "str. Mihai Viteazul 6, MD-3100, Balti",
-                    "telefon": "+373 231 22 540",
-                    "email": "balti@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manila"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/moldavsko_velvyslanectvi_kisinev.html",
                     "name": "Velvyslanectví Kišiněv",
@@ -1983,14 +1270,6 @@ const consulates_by_region = {
                     "telefon": "+331/40651300, sekretariát vv. 40651301, sekretariát dipl. 40651303, obchodní oddělení 40651315",
                     "email": "paris@embassy.mzv.cz",
                     "web": "www.mzv.cz/paris"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/monako_honorarni_generalni_konzulat.html",
-                    "name": "Honorární generální konzulát Monte Carlo",
-                    "adresa": "15, av. de Grande Bretagne, MC 98000 Monte-Carlo",
-                    "telefon": "+377/93504660",
-                    "email": "monaco@honorary.mzv.cz",
-                    "web": "www.mzv.cz/paris"
                 }
             ]
         },
@@ -2000,30 +1279,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Německo",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_ceske_centrum_berlin.html",
-                    "name": "České centrum Berlín",
-                    "adresa": "Wilhelmstr. 44, vchod Mohrenstrasse, 10117 Berlin",
-                    "telefon": "+49 30 206 09 89 00",
-                    "email": "ccberlin@czech.cz",
-                    "web": "www.czechcentres.cz/berlin"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_ceske_centrum_dusseldorf.html",
-                    "name": "České centrum Dűsseldorf",
-                    "adresa": ", 40212 Dűsseldorf",
-                    "telefon": "+49 30 206 09 89 00",
-                    "email": "ccduesseldorf@czech.cz",
-                    "web": "www.czechcentres.cz/duesseldorf"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_ceske_centrum_mnichov.html",
-                    "name": "České centrum Mnichov",
-                    "adresa": "Prinzregentenstrasse 7, 805 38 München",
-                    "telefon": "+4989/21024932",
-                    "email": "ccmunich@czech.cz",
-                    "web": "munich.czechcentres.cz"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_generalni_konzulat_drazdany.html",
                     "name": "Generální konzulát Drážďany",
@@ -2046,54 +1301,6 @@ const consulates_by_region = {
                     "adresa": "Libellenstr. 1, D-80939 München",
                     "telefon": "+4989/95837232, sekretariát - 95837241, konzul - 95837249, hospodář 95837242, EK-PO 95837247",
                     "email": "munich@embassy.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_dortmund.html",
-                    "name": "Honorární konzulát Dortmund",
-                    "adresa": "Sonnenenergieforum, Florianstrasse 2, 44139 Dortmund",
-                    "telefon": "+49 231 533 0739 (v úředních hodinách), +49/2315330610 (mimo úřední hodiny)",
-                    "email": "Dortmund@honorary.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_frankfurt_nad.html",
-                    "name": "Honorární konzulát Frankfurt nad Mohanem",
-                    "adresa": "Eschersheimer Landstr. 27, 60322 Frankfurt a. M.",
-                    "telefon": "+4969/95957-300",
-                    "email": "frankfurt@honorary.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_hamburk.html",
-                    "name": "Honorární konzulát Hamburk",
-                    "adresa": "Werftstrase 5, 20457 Hamburg",
-                    "telefon": "0049 (0) 160 97826955",
-                    "email": "hamburg@honorary.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_norimberk.html",
-                    "name": "Honorární konzulát Norimberk",
-                    "adresa": "Ostendstr. 100, 90334 Nűrnberg",
-                    "telefon": "+49 911 5316 000",
-                    "email": "nuremberg@honorary.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_rostock.html",
-                    "name": "Honorární konzulát Rostock",
-                    "adresa": "Lange Str. 9, 18055 Rostock",
-                    "telefon": "+49 (0) 381 460 290 026",
-                    "email": "rostock@honorary.mzv.cz",
-                    "web": "www.mzv.cz/munich"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nemecko_honorarni_konzulat_stuttgart.html",
-                    "name": "Honorární konzulát Stuttgart",
-                    "adresa": "Konigstr. 26, 70173 Stuttgart, Stuttgart",
-                    "telefon": "+49 711 185 671 70",
-                    "email": "stuttgart@honorary.mzv.cz",
                     "web": "www.mzv.cz/munich"
                 },
                 {
@@ -2121,22 +1328,6 @@ const consulates_by_region = {
                     "web": "www.mzv.cz/hague"
                 },
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nizozemsko_ceske_centrum_haag.html",
-                    "name": "České centrum Haag/Rotterdam",
-                    "adresa": "Westersingel 9, 3014 GM Rotterdam",
-                    "telefon": "+3110/2251713",
-                    "email": "cchaag@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nizozemsko_honorarni_konzulat_groningen_1.html",
-                    "name": "Honorární konzulát Groningen",
-                    "adresa": "Radesingel 50, 9711 EK Groningen",
-                    "telefon": "0031 50 316 2525",
-                    "email": "groningen@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nizozemsko_velvyslanectvi_haag.html",
                     "name": "Velvyslanectví Haag",
                     "adresa": "Paleisstraat 4, 2514 JA Den Haag",
@@ -2152,30 +1343,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Norsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/norsko_honorarni_konzulat_bergen.html",
-                    "name": "Honorární konzulát Bergen",
-                    "adresa": "Skanselien 14,, 5031 Bergen",
-                    "telefon": "+47 917 503 95",
-                    "email": "bergen@honorary.mzv.cz",
-                    "web": "www.mzv.cz/hague"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/norsko_honorarni_konzulat_sjovegan.html",
-                    "name": "Honorární konzulát Sjøvegan",
-                    "adresa": "St. Hansveien 36, Sjøvegan",
-                    "telefon": "+47-909 755 99",
-                    "email": "sjovegan@honorary.mzv.cz",
-                    "web": "www.mzv.cz/hague"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/norsko_honorarni_konzulat_trondheim.html",
-                    "name": "Honorární konzulát Trondheim",
-                    "adresa": "Tungaveien 38, Trondheim",
-                    "telefon": "+47/93233100",
-                    "email": "trondheim@honorary.mzv.cz",
-                    "web": "www.mzv.cz/hague"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/norsko_velvyslanectvi_oslo.html",
                     "name": "Velvyslanectví Oslo",
@@ -2193,62 +1360,6 @@ const consulates_by_region = {
             "name": "Polsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_ceske_centrum_varsava.html",
-                    "name": "České centrum Varšava",
-                    "adresa": "Al. Róz 16, 00-556 Warsaw",
-                    "telefon": "+48/226297271-2",
-                    "email": "ccwarszawa@czech.cz",
-                    "web": "www.czechcentres.cz/warsaw"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_honorarni_konzulat_bydhost.html",
-                    "name": "Honorární konzulát Bydhošť  /Bydgoszcz/",
-                    "adresa": "Al. Adama Mickiewicza 3/2, 85-071 Bydgoszcz",
-                    "telefon": "+48/523317425",
-                    "email": "bydgoszcz@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/warsaw"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_honorarni_konzulat_censtochova.html",
-                    "name": "Honorární konzulát Čenstochová/Częstochowa",
-                    "adresa": "Al. Najświętszej Maryi Panny 24/18, 42-200 Częstochowa",
-                    "telefon": "+48/343720551",
-                    "email": "czestochowa@honorary.mzv.cz",
-                    "web": "www.republikaczeska.pl"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_honorarni_konzulat_lodz.html",
-                    "name": "Honorární konzulát Lodž",
-                    "adresa": "M. Skłodowskiej-Curie 11, 90-505 Łódź",
-                    "telefon": "+48/426655459",
-                    "email": "lodz@honorary.mzv.cz",
-                    "web": "www.republikaczeska.pl"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_honorarni_konzulat_poznan.html",
-                    "name": "Honorární konzulát Poznaň/Poznań",
-                    "adresa": "ul. Źegiestowska 11/13, 60-466 Poznaň",
-                    "telefon": "+48/426655459",
-                    "email": "poznan@honorary.mzv.cz",
-                    "web": "www.republikaczeska.pl"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_honorarni_konzulat_vratislav.html",
-                    "name": "Honorární konzulát Vratislav / Wrocław",
-                    "adresa": "ul.Szkocka 5/2, 54-402 Wrocław",
-                    "telefon": "+48/71 350 97 00",
-                    "email": "wroclaw@honorary.mzv.cz",
-                    "web": "www.republikaczeska.pl"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_konzularni_oddeleni.html",
-                    "name": "Konzulární oddělení velvyslanectví Varšava",
-                    "adresa": "Al. Róz 12, 00 556 Varšava, Polsko, 00-556 Warsaw",
-                    "telefon": "+48/225251850, +48/225251890, služba po pracovní době : +48/608298988",
-                    "email": "warsaw@embassy.mzv.cz",
-                    "web": "www.mzv.cz/warsaw"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/polsko_velvyslanectvi_varsava.html",
                     "name": "Velvyslanectví Varšava",
                     "adresa": "ul. Koszykowa 18, 00-555 Warsaw",
@@ -2264,38 +1375,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Portugalsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/portugalsko_honorarni_konzulat_faro.html",
-                    "name": "Honorární konzulát Faro",
-                    "adresa": "Avenida 5 de Outubro, 55, I. Esq., 8000 Faro",
-                    "telefon": "+351/289 804478",
-                    "email": "faro@honorary.mzv.cz",
-                    "web": "www.farocz.org"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/portugalsko_honorarni_konzulat_funchal.html",
-                    "name": "Honorární konzulát Funchal",
-                    "adresa": "Avenida Arriaga No. 75, Marina Shopping No. 247, 9125-055, Funchal, Funchal",
-                    "telefon": "+351 291 280 600",
-                    "email": "consulrcheca@gmail.com",
-                    "web": "www.farocz.org"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/portugalsko_honorarni_konzulat_ponta.html",
-                    "name": "Honorární konzulát Ponta Delgada",
-                    "adresa": "Rua Manuel da Ponte n. 29, Porta Delgada",
-                    "telefon": "+351 296 201 830",
-                    "email": "pontadelgada@honorary.mzv.cz",
-                    "web": "www.farocz.org"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/portugalsko_honorarni_konzulat_porto.html",
-                    "name": "Honorární konzulát Porto",
-                    "adresa": "Praca General Humberto Delgado, 267, Piso 4, Sala 12, 4000-288 Porto",
-                    "telefon": "+351 914 675 425",
-                    "email": "porto@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/portugalsko_velvyslanectvi_lisabon.html",
                     "name": "Velvyslanectví Lisabon",
@@ -2313,46 +1392,6 @@ const consulates_by_region = {
             "name": "Rakousko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_ceske_centrum_viden.html",
-                    "name": "České centrum Vídeň",
-                    "adresa": "Herrengasse 17, 1010 Wien",
-                    "telefon": "+431 53 52 360",
-                    "email": "ccwien@czech.cz",
-                    "web": "www.tschechischeszentrum.at"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_honorarni_konzulat_graz.html",
-                    "name": "Honorární konzulát Graz",
-                    "adresa": "Gaslaternenweg 4, 8041 Graz",
-                    "telefon": "+43 505011 200",
-                    "email": "graz@honorary.mzv.cz",
-                    "web": "www.tschechischeszentrum.at"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_honorarni_konzulat_linec.html",
-                    "name": "Honorární konzulát Linec",
-                    "adresa": "Europaplatz 1 a, 4021 Linz",
-                    "telefon": "+43 732 6596 22060",
-                    "email": "Linz@honorary.mzv.cz",
-                    "web": "www.tschechischeszentrum.at"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_honorarni_konzulat_salcburk.html",
-                    "name": "Honorární konzulát Salcburk",
-                    "adresa": "Bayerhamerstraße 14c, 5020 Salzburg",
-                    "telefon": "+43662/879624",
-                    "email": "hksalzburg@email.cz",
-                    "web": "www.tschechischeszentrum.at"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_honorarni_konzulat_wattens.html",
-                    "name": "Honorární konzulát Wattens",
-                    "adresa": "Blattenwaldweg 8, 6112 Wattens",
-                    "telefon": "+43/5224 5877 49",
-                    "email": "wattens@honorary.mzv.cz",
-                    "web": "www.tschechischeszentrum.at"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rakousko_velvyslanectvi_viden.html",
                     "name": "Velvyslanectví Vídeň",
                     "adresa": "Penzingerstrasse 11-13, 1140 Wien",
@@ -2368,22 +1407,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Rumunsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rumunsko_ceske_centrum_bukurest.html",
-                    "name": "České centrum Bukurešť",
-                    "adresa": "Str. Ion Ghica 11,, 030045 Bucureşti",
-                    "telefon": "+40 213 039 230",
-                    "email": "ccbucuresti@czech.cz",
-                    "web": "www.czechcentres.cz/bucharest"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rumunsko_honorarni_konzulat_temesvar.html",
-                    "name": "Honorární generální konzulát Temešvár",
-                    "adresa": "Remus 7A, apt. 2-3, 300194 Timişoara",
-                    "telefon": "+40 356 179 038, v případě nouze v nočních hodinách : +40 726 121 219",
-                    "email": "timisoara@honorary.mzv.cz",
-                    "web": "www.mzv.cz/bucharest"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rumunsko_velvyslanectvi_bukurest.html",
                     "name": "Velvyslanectví Bukurešť",
@@ -2401,22 +1424,6 @@ const consulates_by_region = {
             "name": "Rusko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rusko_ceske_centrum.html",
-                    "name": "České centrum",
-                    "adresa": "3. Tverskaja -Jamskaja 36/40, 125 047 Moskva, Rusko, 125 047 Moskva",
-                    "telefon": "+7 495 787 7851 (161)",
-                    "email": "ccmoskva@czech.cz",
-                    "web": "www.mzv.cz/bucharest"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rusko_ceske_centrum_cesky_dum_moskva.html",
-                    "name": "Český dům Moskva",
-                    "adresa": "3. Tverskaja -Jamskaja 36/40, 125047 Moskva",
-                    "telefon": "+7 495 787 78 51-52, sekret.ředitele ČDM: +7 495 787 78 54, 55; recepce hotel.ubytování: +7 495 787 78 51-52, \n+7 499 978 2110;restaurace: +7 495 787 78 51-linka 126, dlouhodobý pronájem bytů a kanceláří: +7 499 972 16 21; business centrum: +7 495 787 78 53",
-                    "email": "\r\nsekretariát ředitele ",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rusko_generalni_konzulat_jekaterinburg.html",
                     "name": "Generální konzulát Jekatěrinburg",
                     "adresa": "ul. Gogola 15, 620075 Yekaterinburg",
@@ -2430,14 +1437,6 @@ const consulates_by_region = {
                     "adresa": "Tverskaja 5, 191 015 Sankt Peterburg",
                     "telefon": "+7812/2710459, 2714612, KO-2716101 (záznamník)",
                     "email": "petersburg@embassy.mzv.cz",
-                    "web": "www.mzv.cz/petersburg"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rusko_honorarni_konzulat_chanty_mansijsk.html",
-                    "name": "Honorární konzulát Chanty-Mansijsk",
-                    "adresa": "ul. Mira 38, 628012 Chanty-Mansijsk",
-                    "telefon": "+73467/390600",
-                    "email": "priem1@khmb.ru",
                     "web": "www.mzv.cz/petersburg"
                 },
                 {
@@ -2456,62 +1455,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Řecko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_ceske_centrum_atheny.html",
-                    "name": "České centrum Athény",
-                    "adresa": "G.Seferis Str. 6, Palaio Psychico, 154 52 Athény",
-                    "telefon": "+250 788 302 727, 788 309 040",
-                    "email": "ccathens@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_honorarni_konzulat_heraklion.html",
-                    "name": "Honorární konzulát Heraklion",
-                    "adresa": "Giamalaki & Sof. Venizelou 50, 712 02 Heraklion",
-                    "telefon": "0030/ 281 022 2111, 2306",
-                    "email": "maria.n@minoansummer.gr",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_honorarni_konzulat_kerkyra.html",
-                    "name": "Honorární konzulát Kerkýra",
-                    "adresa": "3.K. Zavitsianou, 49100 Kerkyra",
-                    "telefon": "+30 266 102 0761 (úterý -čtvrtek) řecky a anglicky,",
-                    "email": "kerkyra@honorary.mzv.cz",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_honorarni_konzulat_pireus.html",
-                    "name": "Honorární konzulát Pireus",
-                    "adresa": "Naiadon 98, 175 62 Palaio Faliro",
-                    "telefon": "0030/ 210 981 3351, 984 2207",
-                    "email": "lionislaw@hotmail.com",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_honorarni_konzulat_rhodos.html",
-                    "name": "Honorární konzulát Rhodos",
-                    "adresa": "Lohagou Fanouraki 26, 851 00 Rhodes",
-                    "telefon": "+30 224 105 6268, +30 224 103 4383",
-                    "email": "m.manolis@gmail.com",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_honorarni_konzulat_solun.html",
-                    "name": "Honorární konzulát Soluň",
-                    "adresa": "57, Leoforos Nikis Ave., 54622 Thessaloniki",
-                    "telefon": "0030/ 2310 222 376",
-                    "email": "info@czconsulate.gr",
-                    "web": "\r\nhttp \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_kancelar_zu_pobocka_solun_cesko.html",
-                    "name": "Kancelář ZÚ-pobočka Soluň (Česko-řecká rada)",
-                    "adresa": "Egnatia Str.154, T.I.F. 15/33, 546 36 Thessaloniki",
-                    "telefon": "0030/ 2310 222 376",
-                    "email": "info@czconsulate.gr",
-                    "web": "\r\nhttp \r\n"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/recko_velvyslanectvi_atheny.html",
                     "name": "Velvyslanectví Athény",
@@ -2553,14 +1496,6 @@ const consulates_by_region = {
             "name": "Severní Makedonie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/makedonie_fyrom_konzularni_oddeleni.html",
-                    "name": "Konzulární oddělení Skopje",
-                    "adresa": "Ul.Perisha Savelikj 3, 1000 Skopje",
-                    "telefon": "+389/2/3081200, +389/2/3081102",
-                    "email": "consulate_skopje@mzv.cz",
-                    "web": "www.mzv.cz/dakar"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/Makedonie_FYROM___Velvyslanectvi.html",
                     "name": "Velvyslanectví Skopje",
                     "adresa": "Ul. Perisha Savelikj 3, 1000 Skopje",
@@ -2576,22 +1511,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Slovensko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/slovensko_ceske_centrum_bratislava.html",
-                    "name": "České centrum Bratislava",
-                    "adresa": "Hviezdoslavovo nám. 8, 814 99 Bratislava",
-                    "telefon": "+421/2/54418215",
-                    "email": "ccbratislava@czech.cz",
-                    "web": "www.czc.sk"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/slovensko_cesky_dum_bratislava.html",
-                    "name": "Český dům Bratislava",
-                    "adresa": "Prepoštská 6, 814 99 Bratislava",
-                    "telefon": "+421 254 418 215",
-                    "email": "ccbratislava@czech.cz",
-                    "web": "\r\nhttp \r\n"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/slovensko_velvyslanectvi_bratislava.html",
                     "name": "Velvyslanectví Bratislava",
@@ -2641,78 +1560,6 @@ const consulates_by_region = {
             "name": "Španělsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_ceske_centrum_madrid.html",
-                    "name": "České centrum Madrid",
-                    "adresa": "Avda. Pío XII, 22-24, 28016 Madrid",
-                    "telefon": "+34 91 353 0623, 91 353 0622",
-                    "email": "ccmadrid@czech.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_barcelona.html",
-                    "name": "Honorární konzulát Barcelona",
-                    "adresa": "Carrer de Mallorca 272, 9-1, 08037 Barcelona",
-                    "telefon": "+34 932 413 236, +34 932 004 537",
-                    "email": "Barcelona@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_benidorm.html",
-                    "name": "Honorární konzulát Benidorm",
-                    "adresa": "C/ Ibiza 15, 03503 Benidorm",
-                    "telefon": "+34 96 585 3824",
-                    "email": "benidorm@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_bilbao_1.html",
-                    "name": "Honorární konzulát Bilbao",
-                    "adresa": "Plaza Venezuela No.1, Principal, Derecha, 480001 Bilbao",
-                    "telefon": "0034/944340235",
-                    "email": "bilbao@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_gijon.html",
-                    "name": "Honorární konzulát Gijón",
-                    "adresa": "Calle Álvarez Garaya, 8 - 4 - oB, 33206 Gijón, Asturie, 33206 Gijón",
-                    "telefon": "+34 985 604 312",
-                    "email": "honorary@honorarygijon.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_marbella.html",
-                    "name": "Honorární konzulát Marbella",
-                    "adresa": "Avda.Ricardo Soriano 22, Ofic 3-6, 29601, Marbella",
-                    "telefon": "+34 952 764 181",
-                    "email": "franciscopuerta@puertavides.com",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_palma_de.html",
-                    "name": "Honorární konzulát Palma de Mallorca",
-                    "adresa": "C/Mateu Enric Lladó, 1, 1A, 07002 Palma de Mallorca",
-                    "telefon": "+34 97 110 5500",
-                    "email": "mallorca@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_honorarni_konzulat_tenerife_1.html",
-                    "name": "Honorární konzulát Tenerife",
-                    "adresa": "Calle Roques del Salmor 1, 38670 Costa Adeje, Tenerife, Kanárské ostrovy, 38670 Tenerife",
-                    "telefon": "+34 606 670 225",
-                    "email": "tenerife@honoraryconsulate.es",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_konzularni_jednatelstvi.html",
-                    "name": "Konzulární jednatelství Barcelona",
-                    "adresa": "Muntaner 263, 1C, 08021 Barcelona, 08021 Barcelona",
-                    "telefon": "+34 932 413 236, +34 932 004 537 (od 10.00 do 13.00 hod.)",
-                    "email": "barcelona@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/madrid"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spanelsko_velvyslanectvi_madrid.html",
                     "name": "Velvyslanectví Madrid",
                     "adresa": "Avda. Pío XII, 22-24, 28016 Madrid",
@@ -2728,22 +1575,6 @@ const consulates_by_region = {
             "region": "Europe",
             "name": "Švédsko",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svedsko_ceske_centrum_stockholm.html",
-                    "name": "České centrum Stockholm",
-                    "adresa": "The Castle - Co-working Space/Gamla Stan, Slottsbacken 8, 111 30 Stockholm",
-                    "telefon": "+46 702 344 255",
-                    "email": "ccstockholm@czech.cz",
-                    "web": "www.czechcentres.cz/stockholm"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svedsko_honorarni_konzulat_malmo.html",
-                    "name": "Honorární konzulát Malmö",
-                    "adresa": "World Trade Center, Jungmansgatan 12, 211 19 Malmö",
-                    "telefon": "+46 (0) 732 332 199",
-                    "email": "malmo@honorary.mzv.cz",
-                    "web": "www.czechcentres.cz/stockholm"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svedsko_velvyslanectvi_stockholm.html",
                     "name": "Velvyslanectví Stockholm",
@@ -2761,22 +1592,6 @@ const consulates_by_region = {
             "name": "Švýcarsko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svycarsko_honorarni_konzulat_basel.html",
-                    "name": "Honorární konzulát Basel",
-                    "adresa": "Klybeckstrasse 141/K-104, 4057 Basel",
-                    "telefon": "+41 797 835 569",
-                    "email": "basel@honorary.mzv.cz",
-                    "web": "www.mzv.cz/stockholm"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svycarsko_honorarni_konzulat_lugano.html",
-                    "name": "Honorární konzulát Lugano",
-                    "adresa": "Crocicchio Cortogna 6, Reyl & Cie.SA, 6901 Lugano",
-                    "telefon": "+41/ 919 22 85 75",
-                    "email": "lugano@honorary.mzv.cz",
-                    "web": "www.mzv.cz/stockholm"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/svycarsko_velvyslanectvi_bern.html",
                     "name": "Velvyslanectví Bern",
                     "adresa": "Muristrasse 53 (vchod z Burgernzielweg), 3000 Bern 31",
@@ -2793,35 +1608,11 @@ const consulates_by_region = {
             "name": "Ukrajina",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ukrajina_ceske_centrum_kyjev.html",
-                    "name": "České centrum Kyjev",
-                    "adresa": "I.Franka, 24A, 01030 Kiev",
-                    "telefon": "+38044/2302964, +38 095 6873158",
-                    "email": "cckiev@czech.cz",
-                    "web": "www.kyiv.czechcentres.cz"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ukrajina_generalni_konzulat_lvov.html",
                     "name": "Generální konzulát Lvov",
                     "adresa": "Antonovycha 130/a, 79057 Lvov",
                     "telefon": "+380/322-976893 - informace, 322-976894 - informace",
                     "email": "lvov@embassy.mzv.cz",
-                    "web": "www.mzv.cz/lvov"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ukrajina_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Dnipro",
-                    "adresa": "ul. Volodymyra Monomakha 25A-2, 49000 Dnipro",
-                    "telefon": "+38 (056) 7853550",
-                    "email": "dnipro@honorary.mzv.cz",
-                    "web": "www.mzv.cz/lvov"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ukrajina_honorarni_konzulat_charkov.html",
-                    "name": "Honorární konzulát Charkov",
-                    "adresa": "Svoboda Square 8, 61058 Kharkiv",
-                    "telefon": "+380 57 7604519",
-                    "email": "konzulat.cz@klsp.kharkov.ua",
                     "web": "www.mzv.cz/lvov"
                 },
                 {
@@ -2841,59 +1632,11 @@ const consulates_by_region = {
             "name": "Velká Británie",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_ceske_centrum_londyn.html",
-                    "name": "České centrum Londýn",
-                    "adresa": "116 Long Acre, Covent Garden, WC2E 9PA London",
-                    "telefon": "+44 (0) 207 307 51 80 - 3",
-                    "email": "info@czechcentre.org.uk",
-                    "web": "www.czechcentre.org.uk"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_generalni_konzulat.html",
                     "name": "Generální konzulát Manchester",
                     "adresa": "4 Brindley Road, Stretford, M16 9HQ Manchester",
                     "telefon": "+44 (0) 207 307 51 80 - 3",
                     "email": "manchester@embassy.mzv.cz",
-                    "web": "www.mzv.cz/manchester"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_honorarni_generalni.html",
-                    "name": "Honorární generální konzulát Edinburgh",
-                    "adresa": ", Edinburgh",
-                    "telefon": "+44 (0) 207 307 51 80 - 3",
-                    "email": "manchester@embassy.mzv.cz",
-                    "web": "www.mzv.cz/manchester"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_honorarni_konzulat_3.html",
-                    "name": "Honorární konzulát Belfast",
-                    "adresa": ", Edinburgh",
-                    "telefon": "+44 (0) 207 307 51 80 - 3",
-                    "email": "manchester@embassy.mzv.cz",
-                    "web": "www.mzv.cz/manchester"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Belfast",
-                    "adresa": ", Edinburgh",
-                    "telefon": "+44 (0) 207 307 51 80 - 3",
-                    "email": "manchester@embassy.mzv.cz",
-                    "web": "www.mzv.cz/manchester"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_honorarni_konzulat_2.html",
-                    "name": "Honorární konzulát Gibraltar",
-                    "adresa": "Bland Group International, Cloister Building, Irish Town, GX11 1AA Gibraltar",
-                    "telefon": "+350 5401 6747",
-                    "email": "gibraltar@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manchester"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/velka_britanie_honorarni_konzulat_1.html",
-                    "name": "Honorární konzulát Peterborough",
-                    "adresa": "Compas Orion, 19 Fitzwilliam St., Peterborough, PE1 2RR ",
-                    "telefon": "+44 (0) 751 894 4821",
-                    "email": "peterborough@honorary.mzv.cz",
                     "web": "www.mzv.cz/manchester"
                 },
                 {
@@ -2937,14 +1680,6 @@ const consulates_by_region = {
                     "telefon": "+27 12 431 2380,",
                     "email": "pretoria@embassy.mzv.cz",
                     "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/angola_honorarni_konzulat_luanda.html",
-                    "name": "Honorární konzulát Luanda",
-                    "adresa": "Avenida Comandante Valódia 147, 3 D. Distrito Urbano do Sambizanda, Municipio de Luanda, Luanda",
-                    "telefon": "+244 926 38 78 78",
-                    "email": "luanda@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
                 }
             ]
         },
@@ -2977,14 +1712,6 @@ const consulates_by_region = {
                     "telefon": "+27 12 431 2380,",
                     "email": "pretoria@embassy.mzv.cz",
                     "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/botswana_honorarni_konzulat_gaborone.html",
-                    "name": "Honorární konzulát Gaborone",
-                    "adresa": "Thebe Circle, plot 2819, Ext. 10, Gaborone",
-                    "telefon": "+267/ 318 4597, +267/ 721 21 424 /721 21 424",
-                    "email": "gaborone@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
                 }
             ]
         },
@@ -3000,14 +1727,6 @@ const consulates_by_region = {
                     "adresa": "Hilla Limann Highway No. 2, Accra-North, Accra",
                     "telefon": "+233(0) 540 126 816, 540 126 815",
                     "email": "accra@embassy.mzv.cz",
-                    "web": "www.mzv.cz/accra"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/burkina_faso_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Ouagadougou",
-                    "adresa": "Société M ´ZAKA Securite MKS Sarl 248, Avenue Sembene Ousmane, Ouaga 2000, Ouagadougou",
-                    "telefon": "+226/ 78 00 85 25, 25 37 51 88",
-                    "email": "ouagadougou@honorary.mzv.cz",
                     "web": "www.mzv.cz/accra"
                 }
             ]
@@ -3057,14 +1776,6 @@ const consulates_by_region = {
                     "telefon": "+251/11/5516382, +251/11/5516132",
                     "email": "addisabeba@embassy.mzv.cz",
                     "web": "www.mzv.cz/addisababa"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/dzibutsko_honorarni_generalni_konzulat.html",
-                    "name": "Honorární generální konzulát Djibouti",
-                    "adresa": "Rue de Londres, Immeuble Naguib, Djibouti",
-                    "telefon": "00253/21353165",
-                    "email": "Djibouti@honorary.mzv.cz",
-                    "web": "www.mzv.cz/addisababa"
                 }
             ]
         },
@@ -3080,14 +1791,6 @@ const consulates_by_region = {
                     "adresa": "4, Dokki Street, 12511 Giza, Cairo",
                     "telefon": "+ 20 2 3333 9700 (hlasový strom), + 20 2 3333 9701 (operátor), + 20 2 3333 9702 (sekretariát velvyslance)",
                     "email": "cairo@embassy.mzv.cz",
-                    "web": "www.mzv.cz/cairo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/egypt_honorarni_konzulat_alexandria.html",
-                    "name": "Honorární konzulát Alexandria",
-                    "adresa": "Zahran Group, 14th May Road, Semouha, Alexandria",
-                    "telefon": "+203/4266664",
-                    "email": "Alexandria@honorary.mzv.cz",
                     "web": "www.mzv.cz/cairo"
                 }
             ]
@@ -3137,14 +1840,6 @@ const consulates_by_region = {
                     "telefon": "+234/703 757 1096, +234/815 064 7003 (volání z Nigerie 0815 064 7003)",
                     "email": "abuja@embassy.mzv.cz",
                     "web": "www.mzv.cz/abuja"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/gabon_honorarni_konzulat_libreville.html",
-                    "name": "Honorární konzulát Libreville",
-                    "adresa": "Nzeng-Ayong, první odbočka doprava za čerpací stanici OiLibya, Libreville",
-                    "telefon": "+241 04 06 14 37",
-                    "email": "pkegabon@seznam.cz",
-                    "web": "www.mzv.cz/abuja"
                 }
             ]
         },
@@ -3160,14 +1855,6 @@ const consulates_by_region = {
                     "adresa": "37, rue Jacques Bugnicourt, Dakar-Plateau, Dakar",
                     "telefon": "+221 338 214 576",
                     "email": "dakar@embassy.mzv.cz",
-                    "web": "www.mzv.cz/dakar"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/gambie_honorarni_konzulat_banjul.html",
-                    "name": "Honorární konzulát Banjul",
-                    "adresa": "Kerr Toro Appts. off Bertill Harding Highway, Banjul",
-                    "telefon": "+220/4464304",
-                    "email": "dradamasallah@live.com",
                     "web": "www.mzv.cz/dakar"
                 }
             ]
@@ -3200,14 +1887,6 @@ const consulates_by_region = {
                     "adresa": "37, rue Jacques Bugnicourt, Dakar-Plateau, Dakar",
                     "telefon": "+221 338 214 576",
                     "email": "dakar@embassy.mzv.cz",
-                    "web": "www.mzv.cz/dakar"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/guinea_honorarni_konzulat_conakry.html",
-                    "name": "Honorární konzulát Conakry",
-                    "adresa": "Siēge Agence OKB, KA 028, Almamya, Kaloum, Conakry",
-                    "telefon": "+224/453799, +224/30435342",
-                    "email": "hasmioudia@gmail.com",
                     "web": "www.mzv.cz/dakar"
                 }
             ]
@@ -3273,14 +1952,6 @@ const consulates_by_region = {
                     "telefon": "+234/703 757 1096, +234/815 064 7003 (volání z Nigerie 0815 064 7003)",
                     "email": "abuja@embassy.mzv.cz",
                     "web": "www.mzv.cz/abuja"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kamerun_honorarni_konzulat_douala.html",
-                    "name": "Honorární konzulát Douala",
-                    "adresa": "140, rue Dominique Savio primaire, Bonapriso, Douala",
-                    "telefon": "+237/ 69992 6690 (od 9.00 - 12.00 a od 16.00 - 18.00 hod)",
-                    "email": "Douala@honorary.mzv.cz",
-                    "web": "www.mzv.cz/abuja"
                 }
             ]
         },
@@ -3296,14 +1967,6 @@ const consulates_by_region = {
                     "adresa": "Rua Pero de Alenquer, 14, 1400-294 Lisboa",
                     "telefon": "+351/21/3010487, sekretariát-+351/21/3001014 nebo 3001012",
                     "email": "lisbon@embassy.mzv.cz",
-                    "web": "www.mzv.cz/lisbon"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kapverdy_honorarni_konzulat_praia.html",
-                    "name": "Honorární konzulát Praia",
-                    "adresa": "Condomínio MIRAMAR, Bloco B -2 Andar Esquerdo, Palmarejo Baixo - Ilha de Santiago, Cidade da Praia, Praia",
-                    "telefon": "+238/9912966 /mobil/",
-                    "email": "praia@honorary.mzv.cz",
                     "web": "www.mzv.cz/lisbon"
                 }
             ]
@@ -3355,14 +2018,6 @@ const consulates_by_region = {
                     "web": "www.mzv.cz/abuja"
                 },
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kongo_kinshasa_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Kinshasa",
-                    "adresa": "Ave Kalemie no. 1, Kinshasa",
-                    "telefon": "+243/818881000, +420/602305161",
-                    "email": "consulattcheque@gmail.com",
-                    "web": "www.mzv.cz/abuja"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/konzska_demokraticka_republika.html",
                     "name": "Velvyslanectví Kinshasa",
                     "adresa": "95 Avenue du Roi Baudouin, Gombe, Kinshasa",
@@ -3384,14 +2039,6 @@ const consulates_by_region = {
                     "adresa": "Gnassingbe Eyadema Street No. 5, Asokoro, Abuja",
                     "telefon": "+234/703 757 1096, +234/815 064 7003 (volání z Nigerie 0815 064 7003)",
                     "email": "abuja@embassy.mzv.cz",
-                    "web": "www.mzv.cz/abuja"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kongo_brazzaville_honorarni_konzulat.html",
-                    "name": "Honorární konzulát  Brazzaville",
-                    "adresa": "Avenue Marechal Lyautey 74, Centre Ville, Brazzaville",
-                    "telefon": "+242 06 666 89 40, +242 05 559 33 91",
-                    "email": "brazzaville@honorary.mzv.cz",
                     "web": "www.mzv.cz/abuja"
                 }
             ]
@@ -3457,14 +2104,6 @@ const consulates_by_region = {
                     "telefon": "+260 211 269 878, +260 211 269 884",
                     "email": "lusaka@embassy.mzv.cz",
                     "web": "www.mzv.cz/lusaka"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/malawi_honorarni_konzulat_lilongwe.html",
-                    "name": "Honorární konzulát Lilongwe",
-                    "adresa": "Mothers Union House, Emuen Road, Area 18, Lilongwe",
-                    "telefon": "+265 999 966 769",
-                    "email": "Lilongwe@honorary.mzv.cz",
-                    "web": "www.mzv.cz/lusaka"
                 }
             ]
         },
@@ -3499,22 +2138,6 @@ const consulates_by_region = {
             "name": "Maroko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/maroko_honorarni_konzulat_casablanca.html",
-                    "name": "Honorární generální konzulát Casablanca",
-                    "adresa": "10, rue Oued Zem, 20 070 Casablanca ",
-                    "telefon": "+212/522275925",
-                    "email": "casablanca@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rome"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/maroko_honorarni_konzulat_fes.html",
-                    "name": "Honorární konzulát Fes",
-                    "adresa": "13, rue Houssin Al Khaddar, Fès",
-                    "telefon": "+212/535 650 097",
-                    "email": "fes@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rome"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/maroko_velvyslanectvi_rabat.html",
                     "name": "Velvyslanectví Rabat",
                     "adresa": "4,5 km, Avenue Mohammed VI, 10, Rue Ait Melloul, Villa Merzaa, Rabat - Souissi, 10000 Rabat",
@@ -3537,14 +2160,6 @@ const consulates_by_region = {
                     "telefon": "+27 12 431 2380,",
                     "email": "pretoria@embassy.mzv.cz",
                     "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mauricius_honorarni_konzulat_port_louis.html",
-                    "name": "Honorární konzulát Port Louis",
-                    "adresa": "MFD Business Centre, Freeport Zone 5, Mer Rouge, Port Louis",
-                    "telefon": "+230 206 3988",
-                    "email": "portlouis@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
                 }
             ]
         },
@@ -3560,14 +2175,6 @@ const consulates_by_region = {
                     "adresa": "4,5 km, Avenue Mohammed VI, 10, Rue Ait Melloul, Villa Merzaa, Rabat - Souissi, 10000 Rabat",
                     "telefon": "+212/537755420",
                     "email": "rabat@embassy.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mauritanie_honorarni_konzulat_nouakchott.html",
-                    "name": "Honorární konzulát Nouakchott",
-                    "adresa": "Av. du Général de Gaule, SOCOGIM T. Zeina N. 100, Nouakchott",
-                    "telefon": "+222/45290569",
-                    "email": "nouakchott@honorary.mzv.cz",
                     "web": "www.mzv.cz/rabat"
                 }
             ]
@@ -3593,14 +2200,6 @@ const consulates_by_region = {
                     "telefon": "+27 12 431 2380,",
                     "email": "pretoria@embassy.mzv.cz",
                     "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mosambik_honorarni_konzulat_maputo.html",
-                    "name": "Honorární konzulát Maputo",
-                    "adresa": "Torres Rami, Av. Tenente Osvaldo Tazama / Avenida Mafginal, 141, Tower 1, Floor 02, Bairro Sommerchield, Maputo",
-                    "telefon": "+258 210 868 26 (recepce)",
-                    "email": "maputo@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
                 }
             ]
         },
@@ -3617,14 +2216,6 @@ const consulates_by_region = {
                     "telefon": "+27 12 431 2380,",
                     "email": "pretoria@embassy.mzv.cz",
                     "web": "www.mzv.cz/pretoria"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/namibie_honorarni_konzulat_windhoek.html",
-                    "name": "Honorární konzulát Windhoek",
-                    "adresa": "Fritsche Street 10, Pioneers Park, 9000 Windhoek",
-                    "telefon": "+264 (0) 811 282 523",
-                    "email": "windhoek@honorary.mzv.cz",
-                    "web": "www.mzv.cz/pretoria"
                 }
             ]
         },
@@ -3640,14 +2231,6 @@ const consulates_by_region = {
                     "adresa": "Gnassingbe Eyadema Street No. 5, Asokoro, Abuja",
                     "telefon": "+234/703 757 1096, +234/815 064 7003 (volání z Nigerie 0815 064 7003)",
                     "email": "abuja@embassy.mzv.cz",
-                    "web": "www.mzv.cz/abuja"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/niger_honorarni_konzulat_niamey.html",
-                    "name": "Honorární konzulát Niamey",
-                    "adresa": "ulice jsou beze jména, HK je cca 500 m od ZÚ USA, Niamey",
-                    "telefon": "+227 91 78 79 73, +227/977 46 860, +227/939 27 065",
-                    "email": "Niamey@honorary.mzv.cz",
                     "web": "www.mzv.cz/abuja"
                 }
             ]
@@ -3681,14 +2264,6 @@ const consulates_by_region = {
                     "telefon": "+233(0) 540 126 816, 540 126 815",
                     "email": "accra@embassy.mzv.cz",
                     "web": "www.mzv.cz/accra"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/pobrezi_slonoviny_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Abidjan",
-                    "adresa": "Cocogy II Plateaux ENA, Rue J5, Villa No. 269, 08 BP 3121 Abidjan",
-                    "telefon": "+225/ 22 41 89 80",
-                    "email": "abidjan@honorary.mzv.cz",
-                    "web": "www.mzv.cz/accra"
                 }
             ]
         },
@@ -3721,14 +2296,6 @@ const consulates_by_region = {
                     "telefon": "+254 774 420 460, +254 774 240 860",
                     "email": "nairobi@embassy.mzv.cz",
                     "web": "www.mzv.cz/nairobi"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/rwanda_honorarni_konzulat_kigali.html",
-                    "name": "Honorární konzulát Kigali",
-                    "adresa": "KN 33 Street, Building No. 13, Kiyovu., Kigali",
-                    "telefon": "+250 788 302 727, 788 309 040",
-                    "email": "kigali@honorary.mzv.cz",
-                    "web": "www.mzv.cz/nairobi"
                 }
             ]
         },
@@ -3760,14 +2327,6 @@ const consulates_by_region = {
                     "adresa": "General Abebe Damtew St., Kirkos Kifle Ketema, Kebele 15, House No. 289, Addis Ababa",
                     "telefon": "+251/11/5516382, +251/11/5516132",
                     "email": "addisabeba@embassy.mzv.cz",
-                    "web": "www.mzv.cz/addisababa"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/seychely_honorarni_konzulat_victoria_1.html",
-                    "name": "Honorární konzulát Victoria",
-                    "adresa": "Villa Bohemia, Machabee, Victoria",
-                    "telefon": "+248 4 242 254",
-                    "email": "seychelles@honorary.mzv.cz",
                     "web": "www.mzv.cz/addisababa"
                 }
             ]
@@ -3833,14 +2392,6 @@ const consulates_by_region = {
                     "telefon": "+ 20 2 3333 9700 (hlasový strom), + 20 2 3333 9701 (operátor), + 20 2 3333 9702 (sekretariát velvyslance)",
                     "email": "cairo@embassy.mzv.cz",
                     "web": "www.mzv.cz/cairo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/sudan_honorarni_konzulat_khartoum.html",
-                    "name": "Honorární konzulát Khartoum",
-                    "adresa": "Airport Street, Amarat Street 31, Building 67, Khartoum",
-                    "telefon": "00 249 91 834 856 10",
-                    "email": "afifimohamed@hotmail.com",
-                    "web": "www.mzv.cz/cairo"
                 }
             ]
         },
@@ -3905,14 +2456,6 @@ const consulates_by_region = {
                     "telefon": "+233(0) 540 126 816, 540 126 815",
                     "email": "accra@embassy.mzv.cz",
                     "web": "www.mzv.cz/accra"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/togo_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Lomé",
-                    "adresa": "Avenue de Pya, non lion de l´EPP Aflao, Gakli (Djidjolé) 08 BP 8956, Lomé",
-                    "telefon": "+228/ 90 09 62 81, 99 54 61 94, 92 85 09 84",
-                    "email": "lome@honorary.mzv.cz",
-                    "web": "www.mzv.cz/accra"
                 }
             ]
         },
@@ -3944,14 +2487,6 @@ const consulates_by_region = {
                     "adresa": "Tende Drive 745, Lavington, 00100 Nairobi",
                     "telefon": "+254 774 420 460, +254 774 240 860",
                     "email": "nairobi@embassy.mzv.cz",
-                    "web": "www.mzv.cz/nairobi"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/uganda_honorarni_konzulat_kampala.html",
-                    "name": "Honorární konzulát Kampala",
-                    "adresa": "12 Kampala Road, Charm Towers, Ground Floor, Suite 139, Kampala",
-                    "telefon": "+256 414 506 19, +256 757 450 832, +256 718 889 900",
-                    "email": "kampala@honorary.mzv.cz",
                     "web": "www.mzv.cz/nairobi"
                 }
             ]
@@ -4001,14 +2536,6 @@ const consulates_by_region = {
                     "telefon": "+260 211 269 878, +260 211 269 884",
                     "email": "lusaka@embassy.mzv.cz",
                     "web": "www.mzv.cz/lusaka"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/zimbabwe_honorarni_konzulat_harare.html",
-                    "name": "Honorární konzulát Harare",
-                    "adresa": "15 Cambridge Rd., Unit 9, Newbridge, Harare",
-                    "telefon": "+263 772 403 426",
-                    "email": "harare@honorary.mzv.cz",
-                    "web": "www.mzv.cz/lusaka"
                 }
             ]
         }
@@ -4027,14 +2554,6 @@ const consulates_by_region = {
                     "telefon": "+1 202 274 9100",
                     "email": "washington@embassy.mzv.cz",
                     "web": "www.mzv.cz/washington"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/antigua_a_barbuda_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Saint John's",
-                    "adresa": "3900 Spring of Freedom St., NW, Washington, D.C.",
-                    "telefon": "+1 202 274 9100",
-                    "email": "washington@embassy.mzv.cz",
-                    "web": "www.mzv.cz/washington"
                 }
             ]
         },
@@ -4044,22 +2563,6 @@ const consulates_by_region = {
             "region": "Americas",
             "name": "Argentina",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/argentina_honorarni_konzulat_mendoza.html",
-                    "name": "Honorární konzulát Mendoza",
-                    "adresa": "Av. Espaňa 1340, piso 11°, oficina 1-2, 5500 Mendoza",
-                    "telefon": "+54261/4232148",
-                    "email": "mendoza@honorary.mzv.cz",
-                    "web": "www.mzv.cz/washington"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/argentina_honorarni_konzulat_presidencia.html",
-                    "name": "Honorární konzulát Presidencia Roque Sáenz Peña",
-                    "adresa": "Yugoeslavia 655, 3700 Presidencia Roque Sáenz Peňa",
-                    "telefon": "+54/3732-425977",
-                    "email": "saenzpena@honorary.mzv.cz",
-                    "web": "www.mzv.cz/washington"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/argentina_velvyslanectvi_buenos_aires.html",
                     "name": "Velvyslanectví Buenos Aires",
@@ -4115,14 +2618,6 @@ const consulates_by_region = {
                     "telefon": "+52 55 55312544, 55312777",
                     "email": "mexico@embassy.mzv.cz",
                     "web": "www.mzv.cz/mexico"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/belize_honorarni_konzulat_orange_walk.html",
-                    "name": "Honorární konzulát Orange Walk Town",
-                    "adresa": "6 Westby Street, Orange Walk Town",
-                    "telefon": "+501 322 22 25, +501 322 33 73",
-                    "email": "orangewalktown@honorary.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
                 }
             ]
         },
@@ -4138,22 +2633,6 @@ const consulates_by_region = {
                     "adresa": "Av. El Golf 254, Las Condes, Santiago de Chile",
                     "telefon": "+562/22321066, 22311910",
                     "email": "santiago@embassy.mzv.cz",
-                    "web": "www.mzv.cz/santiago"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bolivie_honorarni_konzulat_santa_cruz_de.html",
-                    "name": "Honorární konzulát Santa Cruz de la Sierra",
-                    "adresa": "Barrio Sirari, Calle Flamboyanes No. 68, Santa Cruz",
-                    "telefon": "+591 3 342 6510",
-                    "email": "santacruz@honorary.mzv.cz",
-                    "web": "www.mzv.cz/santiago"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/bolivie_honorarni_konzulat_la_paz.html",
-                    "name": "Honorární konzulát La Paz",
-                    "adresa": "Calle Covendo No. 1, Villa Fatima, La Paz",
-                    "telefon": "+591-2-2210112",
-                    "email": "lapaz@honorary.mzv.cz",
                     "web": "www.mzv.cz/santiago"
                 }
             ]
@@ -4189,83 +2668,11 @@ const consulates_by_region = {
                     "web": "www.mzv.cz/saopaulo"
                 },
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_bataypor.html",
-                    "name": "Honorární konzulát Batayporã",
-                    "adresa": "Rua Jair Abrnaches Mella 1079, CEP: 79760-000 Batayporã",
-                    "telefon": "+55(67)3443 2555, +55(67)3441 1207",
-                    "email": "bataypora@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_belo.html",
-                    "name": "Honorární konzulát Belo Horizonte",
-                    "adresa": "Rua da Bahia, 2140 - Lourdes, CEP: 30160-012, Belo Horizonte",
-                    "telefon": "005531/33303604",
-                    "email": "belohorizonte@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_curitiba_1.html",
-                    "name": "Honorární konzulát Curitiba",
-                    "adresa": "Rua Visconde do Rio Branco 931 - 6o Andar, Curitiba PR, Curitiba",
-                    "telefon": "+55 41 9 8889 9813",
-                    "email": "curitiba@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_fortaleza.html",
-                    "name": "Honorární konzulát Fortaleza",
-                    "adresa": "Av. Santos Dumont 2828, sala 1808, Aldeota,, Fortaleza",
-                    "telefon": "+55 85 3311 8383",
-                    "email": "fortaleza@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_porto_alegre.html",
-                    "name": "Honorární konzulát Porto Alegre",
-                    "adresa": "Rua Dr. Alcides Cruz 126, Bairro Santa Cecilia, 90630-160 Porto Alegre",
-                    "telefon": "005551-337 850 27",
-                    "email": "portoalegre@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_rio_de.html",
-                    "name": "Honorární konzulát Rio de Janeiro",
-                    "adresa": "Av. Atlantica 4240, Loja 215, Shopping Casino Atlantico, Copacabana, CEP 22070002 Rio de Janeiro",
-                    "telefon": "+55-21-3344 4488",
-                    "email": "rio@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_salvador.html",
-                    "name": "Honorární konzulát Salvador",
-                    "adresa": "Rua Sol Nascente 43, Ed. Vitraux - Sala 701, Garibaldi, CEP 41940457 Salvador - Bahia ",
-                    "telefon": "+55 71 3565 9499",
-                    "email": "salvador@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_vitoria_vila.html",
-                    "name": "Honorární konzulát Vitória/Vila Velha",
-                    "adresa": "Rua Construtor Sebastiano Soares de Souza, 40-Edifício Infinity Center, Conjunto 106, Praia da Costa, CEP: 29101-350 Vitória",
-                    "telefon": "005527-332 921 49",
-                    "email": "vitoria@honorary.mzv.cz",
-                    "web": "www.mzv.cz/saopaulo"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_velvyslanectvi_brasilia.html",
                     "name": "Velvyslanectví Brasília",
                     "adresa": "SES 805 Lote 21A Via L3 Sul, Asa Sul, CEP 70200-901 Brasília",
                     "telefon": "+5561 / 3242 7785, 3242 7905 , 3244 8089",
                     "email": "brasilia@embassy.mzv.cz",
-                    "web": "www.mzv.cz/brasilia"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/brazilie_honorarni_konzulat_recife.html",
-                    "name": "Honorární konzulát Recife",
-                    "adresa": "PragoTec, Avenida Eng. Domingos Ferreira 2391, Empresarial San Marino, 10 andar, Boa Viagem, CEP – 51020-031 Recife",
-                    "telefon": "+5581/33277033",
-                    "email": "recife@honorary.mzv.cz",
                     "web": "www.mzv.cz/brasilia"
                 }
             ]
@@ -4299,14 +2706,6 @@ const consulates_by_region = {
                     "telefon": "+53 7883 3201, 7883 3467",
                     "email": "havana@embassy.mzv.cz",
                     "web": "www.mzv.cz/havana"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/dominikanska_republika_honorarni.html",
-                    "name": "Honorární generální konzulát Santo Domingo",
-                    "adresa": "Ave. Bolívar No. 830, La Esperilla, Apto pastal 3673 Santo Domingo",
-                    "telefon": "+1809 685 6900, +1809 682 7605, +1809 221 5602",
-                    "email": "santodomingo@honorary.mzv.cz",
-                    "web": "www.mzv.cz/havana"
                 }
             ]
         },
@@ -4323,22 +2722,6 @@ const consulates_by_region = {
                     "telefon": "+511/2643381, 2643374",
                     "email": "lima@embassy.mzv.cz",
                     "web": "www.mzv.cz/lima"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ekvador_honorarni_konzulat_quito.html",
-                    "name": "Honorární konzulát Quito",
-                    "adresa": "Av. Eloy Alfaro y Mariana de Jesús, Edificio Gaia, piso 7, Oficina 72, Quito",
-                    "telefon": "00593-2-450 2763, 450 2796",
-                    "email": "quito@honorary.mzv.cz",
-                    "web": "\r\nfacebook \r\nhttps \r\n"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/ekvador_honorarni_konzulat_guayaquil.html",
-                    "name": "Honorární generální konzulát Guayaquil",
-                    "adresa": "Avenida Tercera 520 y Calle Cuarta, Los Ceibos, Guayaquil",
-                    "telefon": "+593-4-2000023, 2000904",
-                    "email": "guayaquil@honorary.mzv.cz",
-                    "web": "\r\nfacebook \r\nhttps \r\n"
                 }
             ]
         },
@@ -4371,14 +2754,6 @@ const consulates_by_region = {
                     "telefon": "+45/39101800, 39101810, sekretariát +45/39101811, Konzulární oddělení +45/39101819",
                     "email": "copenhagen@embassy.mzv.cz",
                     "web": "www.mzv.cz/kodan"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/gronsko_honorarni_konzulat_nuuk.html",
-                    "name": "Honorární konzulát Nuuk",
-                    "adresa": "Isaajap Aqqutaa 28,, 3900 Nuuk",
-                    "telefon": "+299 559 625, +299 385 688",
-                    "email": "nuuk@honorary.mzv.cz",
-                    "web": "www.mzv.cz/copenhagen"
                 },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/gronsko_velvyslanectvi_kodan.html",
@@ -4419,14 +2794,6 @@ const consulates_by_region = {
                     "telefon": "+5561 / 3242 7785, 3242 7905 , 3244 8089",
                     "email": "brasilia@embassy.mzv.cz",
                     "web": "www.mzv.cz/brasilia"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/guyana_honorarni_konzulat_georgetown.html",
-                    "name": "Honorární konzulát Georgetown",
-                    "adresa": "Bb1 Nelson Mandela Ave., N.E. La Penitence, Georgetown",
-                    "telefon": "+59/22253212",
-                    "email": "georgetown@honorary.mzv.cz",
-                    "web": "www.mzv.cz/brasilia"
                 }
             ]
         },
@@ -4443,14 +2810,6 @@ const consulates_by_region = {
                     "telefon": "+53 7883 3201, 7883 3467",
                     "email": "havana@embassy.mzv.cz",
                     "web": "www.mzv.cz/havana"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/haiti_honorarni_konzulat_port_au_prince.html",
-                    "name": "Honorární konzulát Port-au-Prince",
-                    "adresa": "68 Angle Rue Oge & Geffrard, Petion Ville, Haiti, Port-au-Prince",
-                    "telefon": "+ 509 2813 1034",
-                    "email": "handalfils@aol.com",
-                    "web": "www.mzv.cz/havana"
                 }
             ]
         },
@@ -4466,22 +2825,6 @@ const consulates_by_region = {
                     "adresa": "Cuvier 22, Col. Nueva Anzures, Del. Miguel Hidalgo, 11590 Cuidad de México",
                     "telefon": "+52 55 55312544, 55312777",
                     "email": "mexico@embassy.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/honduras_honorarni_konzulat_roatan.html",
-                    "name": "Honorární konzulát Roatán",
-                    "adresa": "Building SH 00, Czech Project Diamond Hill, Diamond Rock, Municipal Santos Guardiola, Roatán, Bay Island, ",
-                    "telefon": "+504 957 686 80, +504 997 302 53",
-                    "email": "roatan@honorary.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/honduras_honorarni_konzulat_tegucigalpa.html",
-                    "name": "Honorární konzulát Tegucigalpa",
-                    "adresa": "La Constancia Inmobiliaria, S.A., Centro Comercial los Castaňos, Séptimo Nivel, Boulevard Morazán, Tegucigalpa",
-                    "telefon": "+504 2221 4876",
-                    "email": "tegucigalpa@honorary.mzv.cz",
                     "web": "www.mzv.cz/mexico"
                 }
             ]
@@ -4515,14 +2858,6 @@ const consulates_by_region = {
                     "telefon": "+1 202 274 9100",
                     "email": "washington@embassy.mzv.cz",
                     "web": "www.mzv.cz/washington"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/jamajka_honorarni_konzulat_kingston.html",
-                    "name": "Honorární konzulát Kingston",
-                    "adresa": "King Street 93, Kingston",
-                    "telefon": "+01 876 922 6192, +01 876 922 4903",
-                    "email": "kingston@honorary.mzv.cz",
-                    "web": "www.mzv.cz/washington"
                 }
             ]
         },
@@ -4541,62 +2876,6 @@ const consulates_by_region = {
                     "web": "www.mzv.cz/toronto"
                 },
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_calgary.html",
-                    "name": "Honorární generální konzulát Calgary",
-                    "adresa": "Suite 105, 10655 Southport Rd. SW, T2W4Y1 Calgary",
-                    "telefon": "+1403/269 4924",
-                    "email": "Calgary@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_charlottetown.html",
-                    "name": "Honorární konzulát Charlottetown",
-                    "adresa": ", Charlottetown",
-                    "telefon": "001 902 452 5900",
-                    "email": "charlottetown@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_montreal.html",
-                    "name": "Honorární konzulát Montreal",
-                    "adresa": "2020 Bld. Robert-Bourassa, Suite 1920, H3A 2A5 Montréal",
-                    "telefon": "001-514-316-4383",
-                    "email": "montreal@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_st_john_s.html",
-                    "name": "Honorární konzulát St.John ´s",
-                    "adresa": "10 Fort William Place, St.John´s, NL, A1L1V3 St.John´s",
-                    "telefon": "1-709-782-2299",
-                    "email": "montreal@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_vancouver.html",
-                    "name": "Honorární konzulát Vancouver",
-                    "adresa": "10 Fort William Place, St.John´s, NL, A1L1V3 St.John´s",
-                    "telefon": "+1 613 562 3875 (VV Ottawa), +1 613 794 2277 (konzulární služba)",
-                    "email": "montreal@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_victoria.html",
-                    "name": "Honorární konzulát Victoria",
-                    "adresa": "1652 Mountbatten Place, V8S 5J9 Victoria",
-                    "telefon": "+1 613 562 3878 (ZÚ Ottawa)",
-                    "email": "lstorzerczhonorary.victoriabc@gmail.com",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_honorarni_konzulat_winnipeg.html",
-                    "name": "Honorární konzulát Winnipeg",
-                    "adresa": "5 Terracon Place, Winnipeg, Manitoba, R2J4B3,  Winnipeg",
-                    "telefon": "+1 204 505 0844",
-                    "email": "winnipeg@honorary.mzv.cz",
-                    "web": "www.mzv.cz/toronto"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kanada_velvyslanectvi_ottawa.html",
                     "name": "Velvyslanectví Ottawa",
                     "adresa": "251 Cooper Street, Ottawa",
@@ -4612,46 +2891,6 @@ const consulates_by_region = {
             "region": "Americas",
             "name": "Kolumbie",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_honorarni_konzulat_barranquilla.html",
-                    "name": "Honorární konzulát Barranquilla",
-                    "adresa": "Calle 76 # 57-44, Local 9, Barranquilla",
-                    "telefon": "+57-5-3533452",
-                    "email": "barranquilla@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_honorarni_konzulat_cali.html",
-                    "name": "Honorární konzulát Cali",
-                    "adresa": "Calle 13 No. 27 A 05 ACOPI, Yumbo, 760502 Cali",
-                    "telefon": "+57-3004123851",
-                    "email": "cali@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_honorarni_konzulat_cartagena.html",
-                    "name": "Honorární konzulát Cartagena",
-                    "adresa": "El Pie del Cerro, Calle 30 No. 19-64, Cartagena de Indias",
-                    "telefon": "+57/5/6767156, 6745661",
-                    "email": "cartagena@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_honorarni_konzulat_ibague.html",
-                    "name": "Honorární konzulát Ibague",
-                    "adresa": "Calle 35 No. 4A-18, Barrio Cadiz,, Ibague",
-                    "telefon": "+57 311 204 9092",
-                    "email": "ibague@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_honorarrni_konzulat_bucaramanga.html",
-                    "name": "Honorárrní konzulát Bucaramanga",
-                    "adresa": "Carrera 34 No. 10-49, oficina 606, edificio Torres Rovira Plaza, Bucaramanga",
-                    "telefon": "+57-7-6424165",
-                    "email": "bucaramanga@honorary.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kolumbie_velvyslanectvi_bogota.html",
                     "name": "Velvyslanectví Bogota",
@@ -4674,14 +2913,6 @@ const consulates_by_region = {
                     "adresa": "Edificio AB Proyectos, kancelář 602, Calle 98 No. 9A-41, Bogota, Kolumbie, 110221 Bogota",
                     "telefon": "+57 1/ 742 9142",
                     "email": "bogota@embassy.mzv.cz",
-                    "web": "www.mzv.cz/bogota"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/kostarika_honorarni_konzulat_san_jose.html",
-                    "name": "Honorární konzulát San José",
-                    "adresa": "Carretera a Pavas, De Euromobilia 50 m. norte, Rohrmoser, San José",
-                    "telefon": "+506 2296 3605, mobil: +506 8821 3828",
-                    "email": "sanjose@honorary.mzv.cz",
                     "web": "www.mzv.cz/bogota"
                 }
             ]
@@ -4709,46 +2940,6 @@ const consulates_by_region = {
             "name": "Mexiko",
             "consulates": [
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_honorarni_konzulat_cancun.html",
-                    "name": "Honorární konzulát Cancún",
-                    "adresa": "Calle Relámpago 24 casa 5 SM 18 M9, Conjunto Marsella, Benito Juárez, Quintana Roo, CP 77505 Cancún Benito Juarez",
-                    "telefon": "00 52 998 884 1216",
-                    "email": "cancun@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_honorarni_konzulat_emiliano.html",
-                    "name": "Honorární konzulát Emiliano Zapata",
-                    "adresa": "Calle Agrarista 99, Colonia El Cerrito, Tabasco, CP 86996 Emiliano Zapata",
-                    "telefon": "+52 934 34 30 756",
-                    "email": "emilianozapata@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_honorarni_konzulat_guadalajara.html",
-                    "name": "Honorární konzulát Guadalajara",
-                    "adresa": "Calle Lopez Cotilla 1127, Colonia Americana, Guadalajara, Jalisco, Mexico, CP 44160 Guadalajara",
-                    "telefon": "z ČR +52 33 3827 2354, z Mexika 01 33 3827 2354",
-                    "email": "guadalajara@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_honorarni_konzulat_monterrey.html",
-                    "name": "Honorární konzulát Guadalupe",
-                    "adresa": "Vallecillos 2757, Col. Valle de Chapultepec, Nuevo León, C.P. 67140 Guadalupe",
-                    "telefon": "z ČR +52 81 83691605, z Mexika z pevné linky 01 81 8369 1605 nebo 1650",
-                    "email": "guadalupe@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_honorarni_konzulat_tijuana.html",
-                    "name": "Honorární konzulát Tijuana",
-                    "adresa": "Blvd. Fundadores No. 2989-B, Col. Juárez, C.P. 22040 Tijuana, Baja California, Mexico, C.P. 22040 Tijuana",
-                    "telefon": "01 (664) 684 9732, 01 (664) 684 8286",
-                    "email": "tijuana@honorary.mzv.cz",
-                    "web": "www.mzv.cz/rabat"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/mexiko_velvyslanectvi_mexiko.html",
                     "name": "Velvyslanectví Mexiko",
                     "adresa": "Cuvier 22, Col. Nueva Anzures, Del. Miguel Hidalgo, 11590 Cuidad de México",
@@ -4771,14 +2962,6 @@ const consulates_by_region = {
                     "telefon": "+52 55 55312544, 55312777",
                     "email": "mexico@embassy.mzv.cz",
                     "web": "www.mzv.cz/mexico"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/nikaragua_honorarni_konzulat_managua.html",
-                    "name": "Honorární konzulát Managua",
-                    "adresa": "Carretera Sur km 11,5 contiguo al tanque INAA, Managua",
-                    "telefon": "+505 22657370, mobil: +505 8421 9022",
-                    "email": "managua@honorary.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
                 }
             ]
         },
@@ -4794,14 +2977,6 @@ const consulates_by_region = {
                     "adresa": "Edificio AB Proyectos, kancelář 602, Calle 98 No. 9A-41, Bogota, Kolumbie, 110221 Bogota",
                     "telefon": "+57 1/ 742 9142",
                     "email": "bogota@embassy.mzv.cz",
-                    "web": "www.mzv.cz/bogota"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/panama_honorarni_konzulat_panama_city.html",
-                    "name": "Honorární konzulát Panama City",
-                    "adresa": "Casa 2-213, Calle 44 Har Sinai, Bella Vista, ",
-                    "telefon": "+507 390 5454, 392 2666",
-                    "email": "consulchecopty@gmail.com",
                     "web": "www.mzv.cz/bogota"
                 }
             ]
@@ -4819,14 +2994,6 @@ const consulates_by_region = {
                     "telefon": "+5411 4807 3107 po oznámení neobsaz. tónu lze ihned zvolit linku pracovníka ZÚ: 10-sekretariát (čeština)\n 11-sekretariát (španělština), 12-konzulární přepážka, 13-konzulární referent, 14-konzul, 15-obchodní rada, \n 16-vedoucí ZÚ, 17-hospodář, 24-ostraha, recepce (pouze španělsky)",
                     "email": "buenosaires@embassy.mzv.cz",
                     "web": "www.mzv.cz/buenosaires"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/paraguay_honorarni_konzulat_asuncion.html",
-                    "name": "Honorární konzulát Asunción",
-                    "adresa": "Pedro P. Peňa 7027 con P. Villamayor, Asunción",
-                    "telefon": "+595/21501864 (konzulát), +595/21446218-honorární konzul (9.00 - 17.00)",
-                    "email": "asuncion@honorary.mzv.cz",
-                    "web": "www.mzv.cz/buenosaires"
                 }
             ]
         },
@@ -4836,14 +3003,6 @@ const consulates_by_region = {
             "region": "Americas",
             "name": "Peru",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/peru_honorarni_konzulat_callao.html",
-                    "name": "Honorární konzulát Callao",
-                    "adresa": "Av.Javier Prado (Circ. Golf Los Incas) 134, Torre 2, Of.902, Lima 33, Callao",
-                    "telefon": "+511 743 4630, +511 743 4633",
-                    "email": "callao@honorary.mzv.cz",
-                    "web": "www.mzv.cz/buenosaires"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/peru_velvyslanectvi_lima.html",
                     "name": "Velvyslanectví Lima",
@@ -4867,14 +3026,6 @@ const consulates_by_region = {
                     "telefon": "+52 55 55312544, 55312777",
                     "email": "mexico@embassy.mzv.cz",
                     "web": "www.mzv.cz/mexico"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/salvador_honorarni_konzulat_san_salvador.html",
-                    "name": "Honorární konzulát  El  Salvador",
-                    "adresa": "Casa No. 115, Colonia Avila, Pasaje 3, 2644 San Salvador San Salvador",
-                    "telefon": "+503 2223 0645, 2298 3961, 2298 3962",
-                    "email": "salvador@honorary.mzv.cz",
-                    "web": "www.mzv.cz/mexico"
                 }
             ]
         },
@@ -4884,14 +3035,6 @@ const consulates_by_region = {
             "region": "Americas",
             "name": "Spojené státy americké",
             "consulates": [
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_ceske_centrum_new.html",
-                    "name": "České centrum New York",
-                    "adresa": "321 E 73rd. Str., NY 10021 New York",
-                    "telefon": "+1 646 422 3399",
-                    "email": "info@czechcenter.com",
-                    "web": "www.czechcenter.com"
-                },
                 {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_generalni_2.html",
                     "name": "Generální konzulát Chicago",
@@ -4917,198 +3060,6 @@ const consulates_by_region = {
                     "web": "www.mzv.cz/ny"
                 },
                 {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_6.html",
-                    "name": "Honorární generální konzulát Anchorage",
-                    "adresa": "810 N St., Suite 100, AK 99501 Anchorage",
-                    "telefon": "+1 907 274 2602",
-                    "email": "anchorage@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_15.html",
-                    "name": "Honorární generální konzulát Boston",
-                    "adresa": "28 Howe Street, MA 02482 Boston",
-                    "telefon": "+1 617 358 1776",
-                    "email": "boston@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_generalni.html",
-                    "name": "Honorární generální konzulát San Francisco",
-                    "adresa": "201 Mission Street, Suite 710, CA 94105 San Francisco",
-                    "telefon": "+1 415 813 4040",
-                    "email": "sanfrancisco@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_8.html",
-                    "name": "Honorární generální konzulát San Juan",
-                    "adresa": "Atrium Office Center, Office 254, 530 Constitution Avenue, PR 00901 San Juan ",
-                    "telefon": "+1 787 289 8714",
-                    "email": "sanjuan@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_18.html",
-                    "name": "Honorární konzulát  Boulder",
-                    "adresa": "2342 Broadway Street, CO 80304 Boulder",
-                    "telefon": "+1 303 444 0490",
-                    "email": "colorado@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_10.html",
-                    "name": "Honorární konzulát Atlanta",
-                    "adresa": "1 Glenlake Parkway, Suite 650, Atlanta, GA 30328 Atlanta",
-                    "telefon": "+1 404 905 2062",
-                    "email": "atlanta@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_2.html",
-                    "name": "Honorární konzulát Honolulu",
-                    "adresa": "591 Paikau Street, 96816-4441 Honolulu",
-                    "telefon": "+1 808 739 5041",
-                    "email": "hawaii@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_21.html",
-                    "name": "Honorární konzulát Houston",
-                    "adresa": "4920 San Jacinto, TX 77004 Houston",
-                    "telefon": "+1 254 931 4095",
-                    "email": "texas@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Charlotte",
-                    "adresa": "3700 Arco Corporate Dr, Suite 475, NC 28273 Charlotte",
-                    "telefon": "+1 704 807 1478",
-                    "email": "charlotte@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_1.html",
-                    "name": "Honorární konzulát Kansas City",
-                    "adresa": "503 West 115th Terrace, MO 64114 Kansas City",
-                    "telefon": "+1 816 942 2794",
-                    "email": "kansascity@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_konzulat_las.html",
-                    "name": "Honorární konzulát Las Vegas",
-                    "adresa": "3930 E Patrick Ln, NV 89120 Las Vegas",
-                    "telefon": "+1 702 490 0285",
-                    "email": "lasvegas@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_konzulat_lincoln.html",
-                    "name": "Honorární konzulát Lincoln",
-                    "adresa": "6701 Everett Street, NE 68506 Lincoln",
-                    "telefon": "+1 402 770 4624",
-                    "email": "lincoln@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_20.html",
-                    "name": "Honorární konzulát Little Rock",
-                    "adresa": "3620 Hill Road, AR 72205 Little Rock",
-                    "telefon": "+1 501 588 0504",
-                    "email": "littlerock@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni.html",
-                    "name": "Honorární konzulát Livingston",
-                    "adresa": "420 South 2nd Street, 59047 Livingston",
-                    "telefon": "+1-406 222 2023",
-                    "email": "livingston@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_konzulat_miami.html",
-                    "name": "Honorární konzulát Miami",
-                    "adresa": "3785 NW 82nd Avenue, Suite 317, Doral, FL 33166, FL 33181 Miami",
-                    "telefon": "+1 586 303 7646",
-                    "email": "miami@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_honorarni_konzulat_1.html",
-                    "name": "Honorární konzulát Minneapolis",
-                    "adresa": "385 Michigan Street, MN 55102 Minneapolis",
-                    "telefon": "+1 651 238 0447",
-                    "email": "minneapolis@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_12.html",
-                    "name": "Honorární konzulát New Orleans",
-                    "adresa": "939 Sixth Street, LA 70115 New Orleans",
-                    "telefon": "+1 504 722 7490",
-                    "email": "neworleans@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_7.html",
-                    "name": "Honorární konzulát Orlando",
-                    "adresa": "8814 Bay Harbour Blvd., FL 32836 Orlando",
-                    "telefon": "+1 407 375 0874",
-                    "email": "orlando@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_4.html",
-                    "name": "Honorární konzulát Philadelphia",
-                    "adresa": "540 Maison Place, PA 19010 Philadelphia",
-                    "telefon": "+1 215 459 1240",
-                    "email": "philadelphia@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_19.html",
-                    "name": "Honorární konzulát Phoenix",
-                    "adresa": "6940 E Cochise RD # 1022, AZ 85253 Phoenix",
-                    "telefon": "+1 480 607 5236",
-                    "email": "phoenix@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_16.html",
-                    "name": "Honorární konzulát Pittsburgh",
-                    "adresa": "800 Vinial Street, Suite B314, PA 15212 Pittsburgh",
-                    "telefon": "+1 412 855 6581",
-                    "email": "pittsburgh@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_3.html",
-                    "name": "Honorární konzulát Portland",
-                    "adresa": "12520 SW 68th Ave., Suite B, OR 97223 Portland",
-                    "telefon": "+1-503/2939545",
-                    "email": "Portland@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_17.html",
-                    "name": "Honorární konzulát Salt Lake City",
-                    "adresa": "10708 S. 1300 E., Suite 108, UT 84094 Salt Lake City",
-                    "telefon": "+1 801 252 6282",
-                    "email": "saltlakecity@honorary.mzv.cz",
-                    "web": "www.mzv.cz/ny"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_honorarni_5.html",
-                    "name": "Honorární konzulát Seattle",
-                    "adresa": "3115 NE 65th Street, ZIP 98115 Seattle",
-                    "telefon": "001-(206) 229-7127",
-                    "email": "saltlakecity@honorary.mzv.cz",
-                    "web": "seattle@honorary.mzv.cz"
-                },
-                {
                     "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/spojene_staty_americke_velvyslanectvi.html",
                     "name": "Velvyslanectví Washington",
                     "adresa": "3900 Spring of Freedom St., NW, Washington, D.C.",
@@ -5130,14 +3081,6 @@ const consulates_by_region = {
                     "adresa": "SES 805 Lote 21A Via L3 Sul, Asa Sul, CEP 70200-901 Brasília",
                     "telefon": "+5561 / 3242 7785, 3242 7905 , 3244 8089",
                     "email": "brasilia@embassy.mzv.cz",
-                    "web": "www.mzv.cz/brasilia"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/surinam_honorarni_konzulat_paramaribo.html",
-                    "name": "Honorární konzulát Paramaribo",
-                    "adresa": "Bonistraat 91, Paramaribo",
-                    "telefon": "+597 459 704",
-                    "email": "paramaribo@honorary.mzv.cz",
                     "web": "www.mzv.cz/brasilia"
                 }
             ]
@@ -5219,14 +3162,6 @@ const consulates_by_region = {
                     "telefon": "+5411 4807 3107 po oznámení neobsaz. tónu lze ihned zvolit linku pracovníka ZÚ: 10-sekretariát (čeština)\n 11-sekretariát (španělština), 12-konzulární přepážka, 13-konzulární referent, 14-konzul, 15-obchodní rada, \n 16-vedoucí ZÚ, 17-hospodář, 24-ostraha, recepce (pouze španělsky)",
                     "email": "buenosaires@embassy.mzv.cz",
                     "web": "www.mzv.cz/buenosaires"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/uruguay_honorarni_konzulat_montevideo.html",
-                    "name": "Honorární konzulát Montevideo",
-                    "adresa": "Colonia 1323, P. 10AP. 1002 B, C.P. 11.100, Montevideo",
-                    "telefon": "+598 2 901 6887",
-                    "email": "montevideo@honorary.mzv.cz",
-                    "web": "www.mzv.cz/buenosaires"
                 }
             ]
         },
@@ -5260,38 +3195,6 @@ const consulates_by_region = {
                     "adresa": "169 Military Road, Dover Heights, NSW 2030 Sydney",
                     "telefon": "+61 2 95810111, sekretariát +61 2 95810100",
                     "email": "sydney@embassy.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/australie_honorarni_konzulat_adelaide.html",
-                    "name": "Honorární konzulát Adelaide",
-                    "adresa": "1a Campbell Rd., Parkside, SA 5063 Adelaide",
-                    "telefon": "+61 417 892 624",
-                    "email": "adelaide@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/australie_honorarni_konzulat_brisbane.html",
-                    "name": "Honorární konzulát Brisbane",
-                    "adresa": "2/52 Lysaght St., Coolum, QLD 4573 Coolum",
-                    "telefon": "+61(0) 418 775 963",
-                    "email": "brisbane@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/australie_honorarni_konzulat_hobart.html",
-                    "name": "Honorární konzulát Hobart",
-                    "adresa": "46 Horizon Drive, Sorell TAS 7172, Hobart",
-                    "telefon": "+61 3 6269 3859",
-                    "email": "hobart@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/australie_honorarni_konzulat_melbourne.html",
-                    "name": "Honorární konzulát Melbourne",
-                    "adresa": "511 Queensberry St., North Melbourne, VIC, Melbourne",
-                    "telefon": "+61 418 388 689",
-                    "email": "melbourne@honorary.mzv.cz",
                     "web": "www.mzv.cz/sydney"
                 },
                 {
@@ -5365,14 +3268,6 @@ const consulates_by_region = {
                     "telefon": "+63-2/881 111 55, 881 111 56, 881 111 58 (přímý bez připojení)",
                     "email": "manila@embassy.mzv.cz",
                     "web": "www.mzv.cz/manila"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/marshallovy_ostrovy_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Majuro",
-                    "adresa": "Pacific International Inc., Complex Delap, MH 96960 Majuro",
-                    "telefon": "+692 625 4047/3122",
-                    "email": "majuro@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manila"
                 }
             ]
         },
@@ -5421,22 +3316,6 @@ const consulates_by_region = {
                     "telefon": "+61 2 95810111, sekretariát +61 2 95810100",
                     "email": "sydney@embassy.mzv.cz",
                     "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/novy_zeland_honorarni_konzulat_auckland.html",
-                    "name": "Honorární generální konzulát Auckland",
-                    "adresa": "Level 35, Vero Centre, 48 Shortland Street, 1010 Auckland",
-                    "telefon": "+64 9 306 5883",
-                    "email": "auckland@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/novy_zeland_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Queenstown",
-                    "adresa": "11-17 Church St., 3rd floor, 9300 Queenstown",
-                    "telefon": "+64 21 264 5227",
-                    "email": "queenstown@honorary.mzv.cz",
-                    "web": "www.mzv.cz/sydney"
                 }
             ]
         },
@@ -5453,14 +3332,6 @@ const consulates_by_region = {
                     "telefon": "+63-2/881 111 55, 881 111 56, 881 111 58 (přímý bez připojení)",
                     "email": "manila@embassy.mzv.cz",
                     "web": "www.mzv.cz/manila"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/palau_honorarni_konzulat_koror.html",
-                    "name": "Honorární konzulát Koror",
-                    "adresa": "Lebuu Street, Dngeronger Hamlet, 96940 Koror",
-                    "telefon": "+680 488 2954",
-                    "email": "koror@honorary.mzv.cz",
-                    "web": "www.mzv.cz/manila"
                 }
             ]
         },
@@ -5476,14 +3347,6 @@ const consulates_by_region = {
                     "adresa": "42/B The Intermark Vista Tower, 348 Jalan Tun Razak, 50400 Kuala Lumpur",
                     "telefon": "recepce +603 216 62 900, +603 216 61 900, sekretariát +603 216 62 300",
                     "email": "kualalumpur@embassy.mzv.cz",
-                    "web": "www.mzv.cz/kualalumpur"
-                },
-                {
-                    "url": "https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/papua_nova_guinea_honorarni_konzulat.html",
-                    "name": "Honorární konzulát Port Moresby",
-                    "adresa": "Section 36. Allotment 13, Waigany/ Hohola, National Capital District., P.O.Box 165 Port Moresby",
-                    "telefon": "+675/ 3259509, 3252711; 3259377",
-                    "email": "portmoresby@honorary.mzv.cz",
                     "web": "www.mzv.cz/kualalumpur"
                 }
             ]
