@@ -164,19 +164,31 @@ ul.countries-list {
   margin: 1.6em auto 0;
 }
 
-.countries-list-country{
+.countries-list-country {
   display: flex;
   flex-direction: column;
 }
 
-.countries-list-country a{
+.countries-list-country a {
   color: white;
 }
-.countries-list-country a:hover{
+
+.countries-list-country a:hover {
   color: #d0d0d0;
 }
 
-.countries-list-country-header h4{
+ul.countries-list li ul li a {
+  white-space: nowrap;
+  overflow: hidden
+}
+
+ul.countries-list li ul {
+  width: 99%;
+  max-width: 99%
+}
+
+
+.countries-list-country-header h4 {
   font-family: 'Bebas Neue', sans-serif;
   text-shadow: 0 0 0.5px;
   font-size: 220%;
@@ -189,6 +201,7 @@ ul.countries-list {
   align-items: center;
   margin-bottom: 0.4em;
 }
+
 .consulate-entry .p-name {
   font-family: 'Bebas Neue', sans-serif;
   padding-bottom: 0.1em;

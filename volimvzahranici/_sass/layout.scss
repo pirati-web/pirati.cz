@@ -80,6 +80,10 @@ h3 {
   align-items: flex-end;
 }
 
+.align-items-center {
+  align-items: center;
+}
+
 .flex-row {
   display: flex;
   flex-direction: row;
@@ -305,12 +309,16 @@ section#kdy_a_kde .flex-column {
   content: '4';
 }
 
+.section4 .btn-green {
+  max-width: 70vw
+}
+
 section#ambasador h2::before {
   content: ' ';
   width: 3em;
   height: 3em;
   font-size: 100%;
-  transform: translateX(-105%) translateY(-50%);
+  transform: translateX(-105%) translateY(-35%);
   background-image: url('../img/pirati_logo_white.svg');
   background-repeat: no-repeat;
 }
@@ -321,10 +329,30 @@ section#ambasador h2::before {
   margin-right: 1em;
 }
 
+.min-width-25 {
+  min-width: 25em
+}
+
+.min-width-20 {
+  min-width: 20em
+}
+
+.max-width-15 {
+  max-width: 15em
+}
+
 section#ambasador input {
   background-color: black;
   color: white;
   width: 100%;
+}
+
+section#ambasador li a {
+  color: white;
+}
+
+section#ambasador li a:hover {
+  color: #e0e0e0;
 }
 
 #ambasadorForm a {
@@ -336,9 +364,9 @@ section#ambasador input {
 #ambasadorForm a::after {
   width: 35.294%; /* 15/85 * 2 */
   display: block;
-  padding-left: 0.4em;
+  padding-left: 0.75em;
   transform: scaleX(0.5) translateX(-50%);
-  line-height: 100%;
+  line-height: 120%;
 }
 
 

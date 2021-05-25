@@ -49,10 +49,10 @@
   border-left: 0.1em solid black !important;
 }
 .btn-yellow:hover {
-  color: #000000 !important;
+  color: #404000 !important;
 }
-.btn-yellow::after:hover {
-  color: #000000 !important;
+.btn-yellow:hover::after {
+  color: #404000 !important;
 }
 
 .btn::after {
