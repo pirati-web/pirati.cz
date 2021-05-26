@@ -17,11 +17,17 @@ section#intro .ribbon {
 }
 
 section#intro h1 {
-  width: 12em;
+  max-width:100vh;
   font-size: max(3vmax, 300%);
   line-height: 110%;
   margin-top: 2vh;
   background-color: $white;
+}
+
+@media only screen and (min-width: $width-treshold) {
+  section#intro h1 {
+    width: 12em;
+  }
 }
 
 section#intro h2 {
