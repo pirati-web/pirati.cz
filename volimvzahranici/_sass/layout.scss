@@ -209,59 +209,68 @@ section#kdy_a_kde h3 {
   text-align: left;
 }
 
-#casova_osa h3.main {
-  margin-bottom: 1em;
+#casova_osa {
+  letter-spacing: 0.015em
+}
+
+#casova_osa .rok {
+  margin-left: -4em;
+}
+
+#casova_osa ul > li {
+  padding-left: 0;
+  margin-left: 0;
 }
 
 #casova_osa ul {
-  list-style-type: none;
-  font-size: 120%;
-}
-
-#casova_osa ul li {
-  margin: 0;
-  padding: 0;
-  line-height: 120%;
-}
-
-#casova_osa li.what {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
-  font-style: italic;
-  font-size: 60%;
-  text-transform: none;
-  letter-spacing: -0.015em;
+  font-weight: 700;
+  padding-left: 0;
+  margin-left: 0;
+  list-style-type: none;
 }
 
-#casova_osa hr {
-  width: 25%;
-  margin-left: -2em;
-  margin-bottom: 0.4em;
+#casova_osa .law {
+}
+
+#casova_osa .note, #casova_osa .event {
+  font-size: 90%;
+  display: block;
+  padding-left: 1em;
+}
+
+#casova_osa .event {
+  border-left: 1px solid black;
+}
+
+#casova_osa .subject {
+  font-family: 'Bebas Neue';
+  font-size: 120%;
+  letter-spacing: 0.03em;
   margin-top: 0.4em;
-  background-color: black;
+}
+
+#casova_osa {
+  line-height: 130%;
+}
+
+#casova_osa .ribbon-multiline {
+  line-height: 200%;
+  padding-left: 0.5em;
+}
+
+@media only screen and (max-width: $width-treshold) {
+  #casova_osa .rok {
+    margin-left: 0;
+  }
 }
 
 .no-left-margin {
   margin-left: 0;
 }
 
-#casova_osa ul.list-style-circle {
-  list-style-type: disc;
-  margin-top: 1em;
-  padding-left: 1em;
-}
-
-.thread-icon {
+#casova_osa .thread-icon {
   height: 5em;
-}
-
-#casova_osa .list-style-circle li::marker {
-  transform: scale(2.5);
-}
-
-#casova_osa ul.list-style-circle > li {
-  margin-top: 0.8em;
-  margin-bottom: 0.2em;
 }
 
 #casova_osa a {
@@ -694,7 +703,7 @@ section#ambasador {
 
 .page strong {
   letter-spacing: 0.005em;
-  text-decoration: underline
+  text-decoration: underline;
 }
 
 .page .bebbas h4 {
