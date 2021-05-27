@@ -277,8 +277,8 @@ section#kdy_a_kde h3 {
   line-height: 130%;
 }
 
-#casova_osa .ribbon-multiline {
-  line-height: 200%;
+#casova_osa .ribbon {
+  line-height: 140%;
   padding-left: 0.5em;
 }
 
@@ -376,6 +376,8 @@ section#ambasador h2::before {
 section#ambasador iframe {
   height: 30em;
   width: 40em;
+  border-style: none;
+  overflow:hidden;
 }
 
 
