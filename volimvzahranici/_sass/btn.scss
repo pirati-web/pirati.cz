@@ -117,6 +117,8 @@
     overflow-wrap: break-word;
     background-color: white;
     color: black;
+    position: static !important;
+    content: "\A(" attr(href) ")";
   }
 }
 
