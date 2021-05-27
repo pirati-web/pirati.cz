@@ -105,6 +105,13 @@
                     e.preventDefault();
                     showCountry(countryData)
                     clickCountry(countryData)
+
+                    // close the hover
+                    let closedMenu = e.target.parentNode.parentNode
+                    closedMenu.style.display = 'none'
+                    setTimeout(function () {
+                        closedMenu.style.display = ''
+                    }, 50)
                 })
                 country_li.appendChild(country_a)
                 region_ul.appendChild(country_li)
