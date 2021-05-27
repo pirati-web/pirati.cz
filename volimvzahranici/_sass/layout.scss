@@ -283,7 +283,7 @@ section#kdy_a_kde h3 {
 }
 
 #jak-volit-ribbon {
-  font-size: 240%;
+  font-size: 240% !important;
 }
 
 @media only screen and (max-width: $width-treshold) {
@@ -291,7 +291,7 @@ section#kdy_a_kde h3 {
     margin-left: 0;
   }
   #jak-volit-ribbon {
-    font-size: 200%;
+    font-size: 200% !important;
   }
 }
 
