@@ -3,7 +3,7 @@ date:         2021-06-01
 category:     blog
 tags:         vláda sněmovna
 layout:       post
-title:        "SPOLU a Piráti a Starostové odevzdali podpisy pro vyvolání hlasování o nedůvěře vládě
+title:        "SPOLU a Piráti a Starostové odevzdali podpisy pro vyvolání hlasování o nedůvěře vládě"
 image:        /assets/img/articles/2021/bartos-rakusan01.jpg
 author:       
 ---
