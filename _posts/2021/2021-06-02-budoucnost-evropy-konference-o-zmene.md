@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie
 layout:       post
 title:        "Pirátští europoslanci: Konference o budoucnosti Evropy je jedinečná šance na změnu. Zapojte se i vy"
-image:        pirati.cz/assets/img/articles/2021/Konference_o_budoucnosti_Evropy.png
+image:        pirati.cz/assets/img/articles/2021/kolaja-gregorova-peksa.jpg
 author:       
 ---
 
