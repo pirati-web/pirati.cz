@@ -22,4 +22,4 @@ Důležitým orgánem Konference bude její plénum, na kterém budou zástupci 
 
 Europoslankyně zároveň zřídila [speciální vlákno](https://forum.pirati.cz/viewtopic.php?f=374&t=57271) nejenom pro pirátské příznivce, kam může každý napsat nápad na změnu. Oficiálním nástrojem pro přidání podnětů je pak [vícejazyčná digitální platforma](https://futureu.europa.eu/processes), kde může každý svůj nápad upravit ještě 30 minut po podání. Lidé se také mohou zúčastnit debat a diskuzních panelů po celé Evropě. Zítřejší zahajovací debatu bude možné sledovat on-line na webových stránkách a na [Twitteru Zastoupení Evropské Komise v ČR](https://twitter.com/ZEK_Praha?fbclid=IwAR3Ckk86qSWHdmax1GBX4IC8R6PRl_Ve_alAvrVmBQCWiRcLx3lIzmn5kiE), nebo na [Facebooku Marcela Kolaji](https://www.facebook.com/PiratKolaja).
 
-[Přehledná infografika](pirati.cz/assets/img/articles/2021/Konference_o_budoucnosti_Evropy.png)
+[Přehledná infografika](/assets/img/articles/2021/Konference_o_budoucnosti_Evropy.png)
