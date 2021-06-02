@@ -1,0 +1,130 @@
+
+<div class="row">
+    <h2>Odkud budu volit</h2>
+
+    <div class="flex-column">
+        <div class="flex-row justify-between ">
+            <h3 class="opensans color-white">Seznam všech zastupitelských úřadů ve všech zemích nalezneš zde &gt; &gt; &gt; </h3>
+
+            <a href="https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/index.html"
+               class="btn btn-green btn-margin-right">Seznam úřadů</a>
+        </div>
+        <h4 class="opensans color-yellow">Ověř si se svým zastupitelským úřadem jejich přesné úřední hodiny, které budou vyhrazeny volbám</h4>
+
+
+        <h3 class="opensans color-white">Odkud volím</h3>
+        <div class="flex-column countries-list-all">
+            <ul class="countries-list" id="countries-list"></ul>
+            <div id="countries-list-data"></div>
+        </div>
+    </div>
+
+    <script>
+        function clickCountry(countryData){
+            location.hash=countryData['alpha2']
+            let anchorId = 'countries-list'
+            if(document.documentElement.clientWidth <= 800){
+                anchorId = 'countries-list-data'
+            }
+            const y = document.getElementById(anchorId).getBoundingClientRect().top + window.pageYOffset;
+            window.scrollTo({top: y, behavior: 'smooth'})
+
+        }
+
+        function showCountry(countryData) {
+
+            let country = document.createElement('div')
+            country.className = "countries-list-country"
+            let countryHeader = document.createElement('div')
+            countryHeader.className = "countries-list-country-header"
+            let countryImage = document.createElement('img')
+            countryImage.setAttribute('src', countryData['flag'])
+            let countryHeading = document.createElement('h4')
+            countryHeading.innerHTML = countryData['name']
+            let consulatesElement = document.createElement('div')
+            countryHeader.appendChild(countryImage)
+            countryHeader.appendChild(countryHeading)
+            country.appendChild(countryHeader)
+            country.appendChild(consulatesElement)
+
+            for (var cid=0;cid<countryData['consulates'].length;cid++){
+
+                const consulate = countryData['consulates'][cid]
+                let web_url = consulate.web
+                if(consulate.web.substr(0,7).toLowerCase() != 'http://' && consulate.web.substr(0,8).toLowerCase() != 'https://' ){
+                    web_url = 'http://' + consulate.web
+                }
+                const web_plain = web_url.replace('http://','').replace('https://','')
+                let consulateCard = document.createElement('div')
+                consulateCard.className = 'consulate-entry h-card'
+                let consulateHeading = document.createElement('h5')
+                consulateHeading.className = 'p-name'
+                consulateHeading.innerHTML = consulate.name
+                let consulateAddress = document.createElement('p')
+                consulateAddress.className = 'p-adr'
+                consulateAddress.innerHTML = consulate.adresa
+                let consulateEmail = document.createElement('a')
+                consulateEmail.className = 'u-email'
+                consulateEmail.setAttribute('href', 'mailto:'+consulate.email)
+                consulateEmail.innerHTML = consulate.email
+                let consulateTelephone = document.createElement('p')
+                consulateTelephone.className = 'p-tel'
+                consulateTelephone.innerHTML = consulate.telefon
+                let consulateWeb = document.createElement('a')
+                consulateWeb.className = 'u-url'
+                consulateWeb.setAttribute('href', web_url)
+                consulateWeb.innerHTML = web_plain
+                consulateCard.appendChild(consulateHeading)
+                consulateCard.appendChild(consulateAddress)
+                consulateCard.appendChild(consulateEmail)
+                consulateCard.appendChild(consulateTelephone)
+                consulateCard.appendChild(consulateWeb)
+                consulatesElement.appendChild(consulateCard)
+            }
+            document.getElementById('countries-list-data').innerHTML=""
+            document.getElementById('countries-list-data').appendChild(country)
+        }
+
+        regions = Object.keys(consulates_by_region)
+        for (let i = 0; i < regions.length; i++) {
+            let region_li = document.createElement('li')
+            let region_btn = document.createElement('div')
+            region_btn.innerText = regions[i]
+            region_btn.className = 'btn btn-darkgrey'
+            region_li.appendChild(region_btn)
+            let region_ul = document.createElement('ul')
+            region_li.appendChild(region_ul)
+            const countries = consulates_by_region[regions[i]]
+            for (let country_index = 0; country_index < countries.length; country_index++) {
+                let country_li = document.createElement('li')
+                let country_a = document.createElement('a')
+                country_a.innerText = countries[country_index].name
+                country_a.setAttribute('href', '#')
+                const countryData = countries[country_index]
+                country_a.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    showCountry(countryData)
+                    clickCountry(countryData)
+
+                    // close the hover
+                    let closedMenu = e.target.parentNode.parentNode
+                    closedMenu.style.display = 'none'
+                    setTimeout(function () {
+                        closedMenu.style.display = ''
+                    }, 50)
+                })
+                country_li.appendChild(country_a)
+                region_ul.appendChild(country_li)
+                if(location.hash.replace("#","") == countryData['alpha2']){
+                    // visitor came with a hash
+                    setTimeout(
+                        function(){
+                            showCountry(countryData)
+                            clickCountry(countryData)
+                        }, 0)
+                }
+            }
+            document.getElementById('countries-list').appendChild(region_li)
+        }
+    </script>
+</div>

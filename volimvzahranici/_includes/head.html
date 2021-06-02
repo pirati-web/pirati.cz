@@ -1,0 +1,58 @@
+<head>
+    {% capture title %}{% if page.fullname %}{{ page.name | escape }}{% elsif page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+    {% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
+    {% capture keywords %}{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}{% endcapture %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{title}}</title>
+    <meta name="author" content="Česká pirátská strana" />
+    <meta name="robots" content="index,follow" />
+    <meta name="description" content="{{description}}">
+    <meta name="keywords" content="{{keywords}}" />
+    <meta property="og:title"         content="{{title}}" />
+    <meta property="og:description"   content="{{description }}" />
+    {% if page.layout == 'post' %}
+    <meta property="og:image"         content="{{page.image | absolute_url }}" />
+    {% endif %}{% if page.img %}
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
+    {% endif %}
+    {% feed_meta %}
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'assets/favicon/apple-touch-icon-144x144.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{'assets/favicon/apple-touch-icon-60x60.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{'assets/favicon/apple-touch-icon-120x120.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{'assets/favicon/apple-touch-icon-76x76.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{'assets/favicon/apple-touch-icon-152x152.png' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-196x196.png' | relative_url }}" sizes="196x196">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-96x96.png' | relative_url }}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-16x16.png' | relative_url }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-32x32.png' | relative_url }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-128.png' | relative_url }}" sizes="128x128">
+    <link rel="alternate" type="application/atom+xml" title="Aktuality" href="{{'/atom.xml' | absolute_url }}" />
+    <meta name="application-name" content="Česká pirátská strana">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="{{'assets/favicon/mstile-144x144.' | relative_url }}">
+    <meta name="msapplication-square70x70logo" content="{{'assets/favicon/mstile-70x70.' | relative_url }}">
+    <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.' | relative_url }}">
+    <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.' | relative_url }}">
+    <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.' | relative_url }}">
+    <meta property="og:type"          content="website" />
+    <meta property="og:url"           content="{{page.url | absolute_url }}" />
+    <!-- Fonts -->
+    {% if page.layout != 'blank' %}
+    <link href="{{'../assets/css/main.css' | relative_url }}" rel="stylesheet">
+    <link href="{{'../volimvzahranici/assets/css/main.css' | relative_url }}" rel="stylesheet">
+    {% endif %}
+    <link href="{{'../volimvzahranici/assets/css/glide.core.min.css' | relative_url }}" rel="stylesheet">
+    <link href="{{'../volimvzahranici/assets/css/glide.theme.min.css' | relative_url }}" rel="stylesheet">
+    <script src="{{'../volimvzahranici/assets/js/glide.min.js' | relative_url }}"></script>
+    <script src="{{'../volimvzahranici/assets/js/consulates_by_regions.js' | relative_url }}"></script>
+    <script>
+        window.pirates = window.pirates || {};
+        pirates.priorityStack = [];
+    </script>
+</head>
+

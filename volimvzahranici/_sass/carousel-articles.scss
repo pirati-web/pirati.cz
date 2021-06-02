@@ -1,0 +1,56 @@
+
+.carousel-articles {
+  max-width: 30em;
+}
+
+.carousel-articles h4 {
+  margin-top: 1em;
+  font-weight: bold;
+  font-size: 180%;
+}
+
+.carousel-articles {
+  box-sizing: border-box;
+  padding: 0;
+}
+.carousel-articles .glide__track{
+  background-color: black;
+  color:white;
+}
+
+.carousel-articles img {
+  width: 100%;
+}
+
+.carousel-articles p, .carousel-articles h4 {
+  padding: 0 10px;
+  max-width: 20em;
+}
+
+.carousel-articles .btn {
+  margin: 20px;
+}
+
+.glide__bullets {
+  bottom: -3em !important;
+}
+.glide__bullets button{
+  padding: 0.3em 0.6em;
+  margin: 0.3em;
+  background-color: #e0e0e0;
+  color: black;
+}
+
+.glide__bullets div {
+  display: flex;
+  flex-direction: row;
+}
+
+button.glide__bullet--active  {
+  background-color: black;
+  color: white;
+}
+
+.carousel-articles .btn {
+  margin-bottom: 0;
+}

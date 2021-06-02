@@ -1,0 +1,866 @@
+html {
+  font-family: 'Open Sans', sans-serif
+}
+
+.scrolltop {
+  z-index: 999
+}
+
+@media only screen and (max-width: $width-treshold) {
+  body {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+}
+
+section {
+  min-height: 80vh;
+}
+
+@media only print {
+  section {
+    min-height: auto;
+  }
+  #volicsky_prukaz_bcg {
+    display: none
+  }
+  .scrolltop {
+    display: none !important
+  }
+  .o-section-inner, footer, aside, .c-vertical-navigation {
+    display: none
+  }
+}
+
+.row > * {
+  padding: 0 30px 0 20px
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.005em;
+}
+
+.font-bolder {
+  text-shadow: 0 0 0.01em;
+}
+
+.letter-spacing-small {
+  letter-spacing: 0.022em;
+}
+
+.letter-spacing-medium {
+  letter-spacing: 0.045em;
+}
+
+.letter-spacing-negative-medium {
+  letter-spacing: -0.065em;
+}
+
+h1 {
+  font-weight: normal;
+  text-shadow: 0 0 0.5px;
+  font-size: 380%;
+  color: $black;
+  letter-spacing: 0.02em;
+  padding-bottom: 0em;
+}
+
+h2 {
+  font-weight: normal;
+  text-shadow: 0 0 0.5px;
+  margin-top: -0.15em;
+  font-size: 220%;
+  letter-spacing: 0.02em;
+}
+
+h3 {
+  font-weight: normal;
+  text-shadow: 0 0 0.5px;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-black {
+  color: black;
+}
+
+h3 {
+  margin-top: 1em
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-items-start {
+  align-items: flex-start;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.justify-between {
+  justify-content: space-between
+}
+
+.flex-right-shrink {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-right-shrink > div:nth-child(1) {
+  flex: 1;
+}
+
+.flex-right-shrink > div:nth-child(2) {
+  flex-shrink: 1;
+}
+
+.flex-left-shrink {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-left-shrink > div:nth-child(1) {
+  flex-shrink: 1;
+  padding-right: 2em;
+}
+
+.flex-left-shrink > div:nth-child(2) {
+  flex: 1;
+}
+
+.margin-top-5 {
+  margin-top: 5vh;
+}
+
+.margin-bottom-1 {
+  margin-bottom: 1vh;
+}
+
+.margin-bottom-3 {
+  margin-bottom: 3vh;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5vh;
+}
+
+.margin-top-3 {
+  margin-top: 3vh;
+}
+
+.max-width-25 {
+  max-width: 25em;
+  max-width: min(25em, 78vw);
+}
+
+.max-width-28 {
+  max-width: 28em;
+  max-width: min(28em, 78vw);
+}
+
+.max-width-30 {
+  max-width: 30em;
+}
+
+section#v_zahranici {
+  background-color: $black;
+  color: #f0f0f0;
+}
+
+h2.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  color: white;
+  font-size: 300%;
+}
+
+
+section#v_zahranici h3, section#v_zahranici h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 150%;
+  margin: 0.8em 0;
+  text-transform: none;
+}
+
+section#v_zahranici .ribbon, section#kdy_a_kde .ribbon {
+  padding: 1em 1em;
+  padding-right: 2em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+section#v_zahranici .ribbon.background-green {
+  font-weight: bold;
+}
+
+
+.section {
+  padding: 6em 0 4em 0;
+}
+
+section#zmena h2 {
+  font-size: 310%;
+  color: #000000;
+}
+
+section#kdy_a_kde {
+  background-color: black;
+  color: white;
+}
+
+section#kdy_a_kde h3 {
+  font-size: 400%;
+  margin-top: 0;
+  text-shadow: 0 0 0.5px;
+  text-align: left;
+}
+
+#casova_osa {
+  letter-spacing: 0.015em
+}
+
+#casova_osa .rok {
+  margin-left: -4em;
+}
+
+#casova_osa ul > li {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+#casova_osa ul {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  padding-left: 0;
+  margin-left: 0;
+  list-style-type: none;
+}
+
+#casova_osa .law {
+}
+
+#casova_osa .note, #casova_osa .event {
+  font-size: 90%;
+  display: block;
+  padding-left: 1em;
+}
+
+#casova_osa .event {
+  border-left: 1px solid black;
+}
+
+#casova_osa .subject {
+  font-family: 'Bebas Neue';
+  font-size: 120%;
+  letter-spacing: 0.03em;
+  margin-top: 0.4em;
+}
+
+#casova_osa {
+  line-height: 130%;
+}
+
+#casova_osa .ribbon {
+  line-height: 140%;
+  padding-left: 0.5em;
+}
+
+#jak-volit-ribbon {
+  font-size: 240% !important;
+}
+
+@media only screen and (max-width: $width-treshold) {
+  #casova_osa .rok {
+    margin-left: 0;
+  }
+  #jak-volit-ribbon {
+    font-size: 200% !important;
+  }
+}
+
+.no-left-margin {
+  margin-left: 0;
+}
+
+#casova_osa .thread-icon {
+  height: 5em;
+}
+
+#casova_osa a {
+  color: black;
+  padding: 0.1em;
+  line-height: 120%;
+}
+
+#casova_osa a:hover {
+  background-color: black;
+  color: white;
+}
+
+
+section#kdy_a_kde .flex-column h3:first-child {
+  font-size: 560%;
+  line-height: 130%;
+}
+
+.margin-horizontal-1 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.padding-horizontal-05, .ribbon.padding-horizontal-05 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+section#kdy_a_kde .flex-column {
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: flex-start;
+}
+
+
+.section h2::before {
+  font-size: 340%;
+  position: absolute;
+  transform: translate(-0.55em, -0.2em);
+}
+
+.section1 h2::before {
+  content: '1';
+}
+
+.section2 h2::before {
+  content: '2';
+}
+
+.section3 h2::before {
+  content: '3';
+}
+
+.section4 h2::before {
+  content: '4';
+}
+
+.section4 .btn-green {
+  max-width: 70vw
+}
+
+section#ambasador h2::before {
+  content: ' ';
+  width: 3em;
+  height: 3em;
+  font-size: 100%;
+  transform: translateX(-105%) translateY(-35%);
+  background-image: url('../img/pirati_logo_white.svg');
+  background-repeat: no-repeat;
+}
+
+#ambasadorForm {
+  width: 22em;
+  width: min(90vh, 22em);
+  margin-right: 1em;
+}
+
+section#ambasador iframe {
+  height: 30em;
+  width: 40em;
+  border-style: none;
+  overflow: hidden;
+}
+
+
+.min-width-25 {
+  min-width: 25em
+}
+
+.min-width-20 {
+  min-width: 20em
+}
+
+.max-width-15 {
+  max-width: 15em
+}
+
+section#ambasador input {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+section#ambasador li a {
+  color: white;
+}
+
+section#ambasador li a:hover {
+  color: #e0e0e0;
+}
+
+#ambasadorForm a {
+  box-sizing: border-box;
+  width: 85%;
+  display: block;
+}
+
+#ambasadorForm a::after {
+  width: 35.294%; /* 15/85 * 2 */
+  display: block;
+  padding-left: 0.75em;
+  transform: scaleX(0.5) translateX(-50%);
+  line-height: 120%;
+}
+
+
+section#ambasador input::placeholder {
+  color: white;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+section#ambasador input:-moz-placeholder {
+  color: white;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+section#ambasador input::-webkit-input-placeholder {
+  color: white;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+section#co_kdyz {
+  background-image: url('../img/volby_foto_e.jpg');
+  background-position: bottom left;
+  background-size: auto 80%;
+  background-repeat: no-repeat;
+  background-color: #f3f3f1;
+  position: relative;
+}
+
+#co_kdyz .bcg-left-ribbon {
+  position: absolute;
+  left: 0;
+  bottom: 5em;
+}
+
+#co_kdyz .bcg-left-ribbon .ribbon {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  text-shadow: 0 0 0.5px;
+  font-size: 240%;
+  padding-left: 2em;
+}
+
+
+#co_kdyz h2 {
+  color: black;
+  font-size: 400%;
+  margin: 0;
+  margin-bottom: 0.2em;
+}
+
+#co_kdyz h3 {
+  margin: 0;
+  font-size: 250%;
+  line-height: 120%;
+}
+
+#co_kdyz .flex-column > div:first-child {
+  margin-right: 2em;
+}
+
+#sedmero_volicskeho_prukazu {
+  position: relative;
+  z-index: 10;
+  /* background-color: rgba(255,255,255,0.3) */
+;
+  text-shadow: 0 0 3px #ffffff;
+}
+
+.vite_ze {
+  background-color: $green;
+  color: $black;
+  min-height: auto;
+  font-size: 290%;
+  text-shadow: 0 0 0.5px;
+  padding: 2em 0;
+  line-height: 120%;
+}
+
+.quote-right, .quote-left {
+  font-size: 400%;
+  left: 0.3em;
+  font-family: 'Bebas Neue', sans-serif;
+  line-height: 50%;
+  transform: scaleX(1.3);
+}
+
+.quote-left {
+  margin-right: 0.2em;
+}
+
+.vite_ze .with-quotes {
+  width: 93%;
+  transform: translateX(-2em);
+}
+
+.with-quotes > div:first-child {
+  width: 10%;
+  flex: 0;
+}
+
+.with-quotes > div:last-child {
+  width: 10%;
+  flex: 0;
+}
+
+
+@media only screen and (max-width: $width-treshold) {
+  section#co_kdyz {
+    background-image: none !important;
+  }
+  #co_kdyz .bcg-left-ribbon {
+    position: static;
+    margin-top: 0.5em;
+  }
+
+  #co_kdyz .bcg-left-ribbon .ribbon {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    text-shadow: 0 0 0.5px;
+    font-size: 240%;
+    padding-left: 2em;
+  }
+
+  .vite_ze .with-quotes {
+    transform: none;
+  }
+  .quote-right, .quote-left {
+    display: none
+  }
+}
+
+
+section#odkud {
+  background-color: $black;
+  color: $white;
+  page-break-before: always;
+}
+
+section#odkud h2 {
+  color: white;
+  font-size: 400%;
+}
+
+
+section#vzkazy {
+  background-color: white;
+  color: black;
+  display: none;
+}
+
+section#ambasador {
+  background-color: black;
+  color: white;
+}
+
+
+.bebbas {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+.bebbas-bold {
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: normal;
+  text-shadow: 0 0 0.5px;
+  text-transform: uppercase;
+}
+
+.font-size-100 {
+  font-size: 100%;
+}
+
+.font-size-120 {
+  font-size: 120%;
+}
+
+.font-size-150 {
+  font-size: 150%;
+}
+
+.font-size-200 {
+  font-size: 200%;
+}
+
+.font-size-250 {
+  font-size: 250%;
+}
+
+
+.opensans {
+  text-transform: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.opensans-bold {
+  text-transform: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: $width-treshold) {
+  .flex-row, .flex-right-shrink, .flex-left-shrink {
+    flex-direction: column;
+  }
+}
+
+
+@media only screen and (max-width: 800px) {
+  .only-desktop {
+    display: none
+  }
+}
+
+.a4page {
+  max-width: 54em;
+  padding: 1em;
+  margin: 1em auto;
+}
+
+.a4page-black {
+  background-color: black;
+  color: white;
+}
+
+.a4page-white {
+  background-color: white;
+  color: black;
+}
+
+#jak_volit {
+  background-color: black;
+  color: white;
+}
+
+.page .quoted {
+  margin-bottom: 1em;
+}
+
+.quoted-header {
+  margin-bottom: 1em;
+}
+
+.page h4.bebbas {
+  font-family: 'Bebas Neue', sans-serif;
+  text-shadow: 0 0 0.5px;
+  font-weight: normal;
+}
+
+.page .quoted > .quoted-left, .page .quoted > .quoted-right {
+  font-family: 'Bebas Neue', sans-serif;
+  flex: 0;
+  font-size: 1400%;
+  align-self: flex-start;
+  line-height: 0%;
+  vertical-align: top;
+  justify-self: flex-start;
+  align-content: flex-start;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+.page .quoted > .quoted-left {
+  transform: scaleX(1.3) translateY(-0.215em);
+}
+
+.page .quoted > .quoted-right {
+  transform: scaleX(1.3) translateY(0.33em);
+}
+
+@media only screen and (max-width: $width-treshold) {
+  .quoted-right, .quoted-left {
+    display: none
+  }
+}
+
+.page p, .page li {
+  font-size: 90%
+}
+
+.page h3 {
+  font-size: 250%;
+  margin-top: 0.35em;
+  margin-bottom: 0;
+}
+
+.page .quoted > h3 {
+  padding: 0 0.4em;
+  font-size: 230%;
+  margin-top: 0;
+  text-shadow: 0 0 0.5px;
+}
+
+
+.page h4 {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 0;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+
+.page strong {
+  letter-spacing: 0.005em;
+  text-decoration: underline;
+}
+
+.page .bebbas h4 {
+  font-size: 120%;
+}
+
+
+.page .latin {
+  margin-left: 0.65em;
+}
+
+.page a {
+  color: white;
+}
+
+.page a:hover {
+  color: #e0e0e0
+}
+
+.page .decimal {
+  margin-left: 0.9em;
+}
+
+.page .decimal li {
+  line-height: 150%;
+  margin-bottom: 1em;
+}
+
+.page .latin li {
+  line-height: 120%;
+  padding-left: 0.8em;
+}
+
+.page .latin li::marker {
+  content: counter(list-item, upper-latin) ") ";
+}
+
+.page-part {
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+
+.page hr {
+  width: 50%;
+  margin-left: 0;
+}
+
+.page .icon {
+  width: 4.4em;
+}
+
+.aneb {
+  margin-top: -0.2em;
+}
+
+.page ol.latin {
+  text-shadow: 0 0 0.5px;
+  font-size: 120%;
+}
+
+ol.decimal li::marker {
+  content: counter(list-item) "/ ";
+}
+
+ol.decimal li {
+  padding-left: 0.5em;
+  font-weight: 700;
+}
+
+@media only print {
+  .scrolltop {
+    display: none;
+  }
+
+  .quoted-right, .quoted-left {
+    display: none
+  }
+  section#jak_volit {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+  .a4page {
+    margin-top: -1.5em;
+  }
+
+  .a4page h3.main {
+    font-size: 300%;
+    margin-top: 1em;
+  }
+  .a4page {
+    max-width: 66em;
+    font-size: 105%;
+    page-break-before: always;
+    page-break-after: always;
+  }
+  .a4page-black {
+    background-color: white;
+    color: black;
+  }
+  .page-part {
+    page-break-inside: avoid;
+    margin-top: 0.3em;
+    margin-bottom: 0.6em;
+  }
+
+  .page img.icon {
+    display: none;
+  }
+  .page h3 {
+    margin-top: 0.05em;
+  }
+}
+
+/* Menu */
+.c-top-bar-inner {
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-start;
+  align-items: center;
+}
+
+.c-top-bar {
+  float: none;
+}
+
+.c-top-bar .c-top-bar-inner .top-bar-title img {
+  transform: none !important;
+}

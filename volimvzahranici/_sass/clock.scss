@@ -1,0 +1,41 @@
+
+.clock {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.clock-disp {
+  background-image: url(../img/clock_background.png);
+  background-position: center;
+  background-size: 96% 96%;
+  background-repeat: no-repeat;
+
+  width: 20em;
+  height: 20em;
+  display: block;
+  position: relative;
+
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+.clock-value {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 720%;
+  font-weight: bold;
+}
+
+.clock-unit {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  font-size: 260%;
+  font-weight: bold;
+}

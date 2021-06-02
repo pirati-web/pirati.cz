@@ -1,0 +1,125 @@
+
+<div class="row">
+    <h2 class="section-title">Jak elegantně odvolit v zahraničí</h2>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-green color-black opensans font-size-120">
+            Nemáš-li trvalé bydliště v ČR, je třeba se zapsat na příslušném zastupitelském úřadě (generálním konzulátu či velvyslanectví)
+            do zvláštního volebního okrsku podle místa Tvého bydliště v zahraničí.
+            Do zvláštního volebního okrsku podle místa Tvého bydliště v zahraničí se ale můžeš nechat zapsat i v případě,
+            že v ČR trvalé bydliště máš.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-yellow color-black opensans font-size-120 width-70">
+            Budeš-li však v zahraničí pouze krátkodobě, je pro Tebe pravděpodobně jednodušší využít voličský průkaz.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-yellow color-black opensans font-size-120 width-70">
+            Pozor! Lhůta pro podání žádosti o zapsání do zvláštního volebního okrsku je stanovena do <strong>29. 8. 2021</strong>! Po tomto datu již není možné žádat o zapsání do zvláštního seznamu voličů vedeného zastupitelským úřadem.
+        </div>
+    </div>
+
+    <div>
+        <a href="https://www.mvcr.cz/clanek/hlasovani-v-zahranici-2021.aspx" class="btn btn-white max-width-25">hlasování v zahraničí</a>
+    </div>
+
+    <div class="flex-left-shrink margin-horizontal-1">
+        <div class="flex-column">
+            <h3>Čas pro&nbsp;zápis k&nbsp;volbám</h3>
+            <h3 class="color-yellow">vyprší 29.&nbsp;srpna 2021</h3>
+        </div>
+        <div class="clock">
+            <div class="clock-disp">
+                {% assign timeLeft = "now" | date: "%s" | minus: 1630216800 | times: -1  %}
+                {% if timeLeft > 0 %}
+                 {% assign daysLeft = timeLeft | divided_by: 86400 | floor %}
+                 {% assign hoursLeft = timeLeft | divided_by: 3600 | modulo: 24 | floor %}
+                {% else %}
+                 {% assign daysLeft = 0 %}
+                 {% assign hoursLeft = 0 %}
+                {% endif %}
+                <div class="clock-value">{{ daysLeft }}</div>
+                <div class="clock-unit">dní</div>
+            </div>
+            <div class="clock-disp">
+                <div class="clock-value">{{ hoursLeft }}</div>
+                <div class="clock-unit">hodin</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-green color-black opensans font-size-120 width-90">
+            Žádost o zapsání do zvláštního seznamu voličů je možno podat osobně na zastupitelském úřadě, či písemně poštou.
+            Nemůžeš-li se dostavit osobně, doporučujeme Ti nejprve se na příslušný úřad obrátit emailem a dále postupovat podle individuálních doporučení,
+            která obdržíš. Také můžeš kontaktovat Volebního ambasadora pro koalici Pirátů a Starostů.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-green color-black opensans font-size-120">
+            <strong>Žádost o zapsání do zvláštního seznamu voličů, kdy přesně volby v dané zemi proběhnou</strong> (dny
+            a časy se mohou od ČR mírně lišit dle rozdílných časových pásem) a informace k jakému zastupitelskému
+            úřadu patříš, obvykle nalezneš na stránkách českého velvyslanectví země, kde chceš volit.
+            Jsou-li tyto informace neúplné, nezdráhej se zastupitelský úřad kontaktovat.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-green color-black opensans font-size-120">
+            Na této žádosti se nepožaduje ověřený podpis voliče.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-yellow color-black opensans font-size-120">
+            <strong>Po zapsání do seznamu se musíš v den voleb dostavit osobně na příslušný zastupitelský úřad</strong>,
+            prokázat svou identitu platným dokladem totožnosti (občanský průkaz nebo cestovní pas)
+            a poté můžeš konečně odevzdat svůj hlas.
+        </div>
+    </div>
+
+    <div class="flex-left-shrink">
+        <div class="ribbon ribbon-left background-green color-black opensans font-size-120">
+            POZOR: Zápisem do zvláštního seznamu voličů je volič, má-li trvalý pobyt na území České republiky,
+            vyškrtnut ze stálého seznamu voličů vedeného obecním úřadem,
+            v jehož územním obvodu je přihlášen k trvalému pobytu.
+            Pokud bys tedy chtěl/a v budoucnu opět volit na území České republiky,
+            je třeba požádat zastupitelský úřad o vyškrtnutí ze zvláštního seznamu voličů, nebo o voličský průkaz.
+            Zastupitelský úřad Ti vydá potvrzení o vyškrtnutí, které je třeba odevzdat přede dnem voleb obecnímu úřadu,
+            v jehož územním obvodu máš místo trvalého pobytu, nebo v den voleb okrskové volební komisi.
+        </div>
+    </div>
+
+
+    <div class="flex-left-shrink">
+        <div class="flex-column">
+            <h3>Do&nbsp;voleb 8.-9.&nbsp;října 2021&nbsp;zbývá</h3>
+        </div>
+        <div class="clock">
+            <div class="clock-disp">
+                {% assign timeLeft = "now" | date: "%s" | minus: 1633694400 | times: -1  %}
+                {% if timeLeft > 0 %}
+                {% assign daysLeft = timeLeft | divided_by: 86400 | floor %}
+                {% assign hoursLeft = timeLeft | divided_by: 3600 | modulo: 24 | floor %}
+                {% else %}
+                {% assign daysLeft = 0 %}
+                {% assign hoursLeft = 0 %}
+                {% endif %}
+
+                <div class="clock-value">{{ daysLeft }}</div>
+                <div class="clock-unit">dní</div>
+            </div>
+            <div class="clock-disp">
+                <div class="clock-value">{{ hoursLeft }}</div>
+                <div class="clock-unit">hodin</div>
+            </div>
+        </div>
+    </div>
+
+
+</div>

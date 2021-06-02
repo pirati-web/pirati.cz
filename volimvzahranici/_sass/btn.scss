@@ -1,0 +1,132 @@
+
+.btn {
+  padding: 1em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  position: relative;
+  display: inline-block;
+  margin: 0.5em 0;
+}
+
+/* deprecated darkgrey, pink */
+.btn-darkgrey, .btn-darkgrey::after {
+  background-color: #323234;
+  color: white;
+}
+
+.btn-pink, .btn-pink::after {
+  background-color: #d28c94;
+  color: white;
+}
+
+.btn-black, .btn-black::after {
+  background-color: $black;
+  color: white;
+}
+
+.btn-green, .btn-green::after {
+  background-color: $green;
+  color: black;
+}
+
+.btn-white, .btn-white::after {
+  background-color: white;
+  color: black;
+}
+
+.btn-margin-right {
+  margin-right: 4.6em;
+}
+
+.btn-green:hover, .btn-green:hover::after, .btn-green:active, .btn-green:active::after, .btn-green:focus, .btn-green:focus::after {
+  color: #006000 !important;
+}
+
+.btn-green::after {
+  border-left: 0.1em solid black !important;
+}
+
+.btn-green:hover::after {
+  border-color: black !important;
+}
+
+#co_kdyz .btn-green::after {
+  border-color: #ffffff !important;
+}
+
+#co_kdyz .btn-green:hover::after {
+  border-color: #ffffff !important;
+}
+
+.btn-white:hover {
+  color: #000000 !important;
+}
+
+.btn-white::after:hover {
+  color: #000000 !important;
+}
+
+.btn-white::after {
+  border-left: 0.1em solid black !important;
+}
+
+.btn-yellow, .btn-yellow::after {
+  background-color: $yellow;
+  color: black;
+}
+
+.btn-yellow::after {
+  border-left: 0.1em solid black !important;
+}
+
+.btn-yellow:hover {
+  color: #404000 !important;
+}
+
+.btn-yellow:hover::after {
+  color: #404000 !important;
+}
+
+.btn::after {
+  content: '>';
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 300%;
+  display: flex;
+  flex-align: center;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  height: 100%;
+  width: 2.8em;
+  transform: scaleX(0.5) translateX(-50%);
+  border-left: 0.1em solid white;
+}
+
+@media only print {
+  .btn::after {
+    font-family: serif;
+    font-size: 130%;
+    transform: none;
+    display: inline;
+    width: auto;
+    overflow: visible;
+    text-wrap: break-word;
+    overflow-wrap: break-word;
+    background-color: white;
+    color: black;
+    position: static !important;
+    content: "\A(" attr(href) ")";
+  }
+}
+
+.btn:hover {
+  color: #d0d0d0
+}
+
+.btn:hover::after {
+  color: #d0d0d0;
+  border-color: #d0d0d0
+}

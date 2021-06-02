@@ -1,0 +1,117 @@
+
+body .top-container {
+    margin-top: 70px;
+}
+
+#welcome-container {
+    display: none
+}
+
+.group-title {
+    display: none
+}
+
+.navbar {
+    display: none
+}
+
+body {
+    padding: 0 !important;
+    color: white;
+    background-color: black
+}
+
+.top-container {
+    display: none
+}
+
+.text-danger {
+    color: #f9dc06;
+}
+
+.text-danger:hover {
+    color: #f9dc06;
+}
+
+.bg-primary, .answer-item, input, .form-control, .answer-container {
+    background-color: black;
+    color: white;
+}
+
+.question-title-container {
+    padding: 0;
+}
+
+.answer-container {
+    border-style: none
+}
+
+.question-container {
+    border-style: none;
+    padding: 0;
+    margin: 0
+}
+
+input.form-control {
+    border-color: #c0c0c0
+}
+
+.col-xs-6 {
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: row
+}
+
+.btn {
+    width: 80%;
+    background-color: #f9dc06;
+    color: black;
+    border-radius: 0
+}
+
+.btn::after {
+    background-color: #f9dc06;
+    color: black;
+    content: '>'
+}
+
+.btn:hover, .btn:hover::after {
+    background-color: #f9dc06;
+    color: #303000
+}
+
+
+.btn {
+    padding: 1em;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    position: relative;
+    display: inline-block;
+    margin: 0.5em 0;
+    font-size: 90%;
+}
+
+.btn::after {
+    content: '>';
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 200%;
+    display: flex;
+    flex-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    height: 100%;
+    width: 50%;
+    transform: scaleX(0.5) translateX(-50%);
+    border-left: 0.1em solid white;
+    border-color: black;
+}
+
+#navigator-container, .group-outer-container {
+    padding: 0;
+    margin: 0;
+}
