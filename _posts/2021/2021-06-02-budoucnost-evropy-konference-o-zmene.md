@@ -4,12 +4,9 @@ category:     blog
 tags:         evropská-unie
 layout:       post
 title:        "Pirátští europoslanci: Konference o budoucnosti Evropy je jedinečná šance na změnu. Zapojte se i vy"
-image:        pirati.cz/assets/img/articles/2021/Konference o budoucnosti Evropy.png
+image:        pirati.cz/assets/img/articles/2021/Konference_o_budoucnosti_Evropy.png
 author:       
 ---
-
- 
-
 
 Brusel/Praha, 2. června 2021 – Otevřít debatu o reformách evropských institucí a společně změnit Evropu k lepšímu. I to očekávají pirátští europoslanci od unikátní Konference o budoucnosti Evropy. Na jejím českém zahájení promluví zítra v Praze vrcholní evropští představitelé včetně místopředsedy Evropského parlamentu Marcela Kolaji. Konference bude trvat až do dubna 2022 a zapojit se se svými nápady může i široká veřejnost.
 
