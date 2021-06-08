@@ -1,0 +1,20 @@
+---
+date:         2021-06-08
+category:     blog
+tags:         životní-prostředí
+layout:       post
+title:        "Výbor pro životní prostředí projednal vývoj kauzy Turów, úlohu Uhelné komise i závěrečný účet ministerstva"
+image:        /assets/img/articles/2021/balcarova-elfmark.jpg
+author:       
+---
+
+
+Praha, 8. června 2021 – Výbor pro životní prostředí projednal diskutovaný termín ukončení těžby uhlí a další postup ČR v kauze rozšiřování hnědouhelného dolu Turów, který poškozuje životní prostředí, ničí zdroje vody, majetek občanů ČR a nepříznivě působí na jejich zdraví. Na tato rizika Piráti upozorňují více než rok. Předsedkyně Výboru pro životní prostředí Pirátka Dana Balcarová opětovně na jednání zařadila téma Uhelné komise s cílem získání více podrobných informací o rozpracování vyhodnocení podmínek, nástrojů a dopadů dřívějšího ukončení využití uhlí, které v květnu komisi uložila vláda. Podobná situace nastala ve vývoji kauzy Turów, kterou vláda projednala včera. Výbor se zabýval také hospodařením Ministerstva životního prostředí. Pirát František Elfmark upozornil, že MŽP je příjemcem méně než 10 procent výnosů z emisních povolenek, přestože by mělo být primárním příjemcem.
+
+> „Na jednání Výboru pro životní prostředí dnes byly rámcově představeny parametry mezinárodní dohody o Turówu mezi českou a polskou stranou, detaily jsou ale v tuto chvíli neveřejné. Z vyjádření ministerstev životního prostředí a zahraničí nicméně vyplývá, že se jedná především o požadavky kompenzací na vodní infrastrukturu, zemního valu, stavby protifiltrační zdi a monitoringu. Vypadá to, že v návrhu dohody chybí primární požadavek na opatření na zamezí dalších škod na životním prostředí. Česká strana zvyšuje svůj tlak na Polsko dnešním podáním návrhu na sankce ve výši 5 milionů eur za den, kdy Polsko nezastaví těžbu. I nadále budu sledovat výstupy z jednání, chci se totiž ujistit, že ČR nepromarní příležitost a nestáhne žalobu u Evropského soudního dvora až do chvíle, než bude zpracovaná nová EIA,“ uvedla pirátská předsedkyně výboru Dana Balcarová.
+
+> K Uhelné komisi Balcarová dodala: „Dle zástupce Ministerstva životního prostředí začne Uhelná komise pracovat na emergency scénáři, tj. ukončení spalování uhlí do roku 2030, už v létě. Současně bude ale komise pracovat i na pozdějších scénářích, což je dle mého jen oslabování kapacit pracovních skupin komise. Domnívám se, že rázné kroky v této oblasti bude muset udělat až příští vláda. Každopádně jsem odhodlána věnovat maximální úsilí na přípravu kvalitního scénáře pro ukončení spalování uhlí v energetice k roku 2030 s paralelním řešením uhelných regionů a přípravou legislativy, která musí přechod od uhlí doprovázet.  Piráti varují před neplánovaným vypínáním uhelných bloků pouze na základě vysoké ceny elektřiny z uhlí, které se již začalo dít. Chaotický proces v útlumu uhelné energetiky by přinesl velké potíže v uhelných regionech včetně zaměstnanosti a neřešených kompenzací pro horníky, o promarnění šance využít evropské miliardy na transformaci a modernizaci energetiky a průmyslu nemluvě.” 
+
+Na výboru se dnes projednávalo také hospodaření Státního fondu životního prostředí a státní závěrečný účet Ministerstva životního prostředí za rok 2020, který zpravodajuje poslanec Pirátů František Elfmark. 
+
+> „Jsem rád, že u mnoha programů došlo k navýšení rozpočtu, avšak uvítal bych navýšení počtu výzev u podprogramu odpadů a materiálových toků, a to především pro řešení ekologické zátěže vzniklé v souvislosti s koronavirem. U obou závěrečných účtů mne pak zajímaly důvody nevyčerpání výdajového rozpočtu, a to jak u programů MŽP, kdy to bylo zejména z důvodů pozdního navýšení rozpočtu a nespotřebovaných financí z předchozího roku, tak především u dotačních titulů SFŽP. Např. u Norských fondů byl totiž výdajový limit naplněn z pouhého 1 procenta. Alarmující pak bylo pro mne zjištění, že MŽP obdrželo pouhé necelé 2 miliardy z výnosů z emisních povolenek (tedy méně než 10 procent), ačkoliv by se příjmy z povolenek mělo financovat primárně zlepšování stavu životního prostředí,“ doplnil pirátský poslanec František Elfmark.
