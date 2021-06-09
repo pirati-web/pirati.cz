@@ -20,4 +20,4 @@ Praha, 8. června 2021 - Demokratická opozice odmítá vládní návrh na česk
 > „Zároveň odmítáme za zlepšující se epidemiologické situace omezovat covid pasem občany třeba ve využívání služeb jako je návštěva kadeřnice. Za nás má nyní primárně smysl při cestování v rámci Evropy, popřípadě při skutečně masových akcích typu velké koncerty. Nesmíme zapomínat ale ani na možné riziko podzimní vlny pandemie kvůli mutacím viru. Znovu tak žádáme kabinet k zajištění přípravy, efektivnějšímu záchytu mutací, posílení kapacit trasování i testování a řešení lokálních ohnisek. Jen tak zabráníme dalším lockdownům s ničivým dopadem na zdraví i peněženky obyvatel,“ uzavřela Richterová.
 
 
-* **Společné stanovisko koalice Pirátů a Starostů a koalice Spolu k evropskému covid pasu, najdete [ZDE](https://www.pirati.cz/assets/pdf/Stanovisko covid pas.pdf).**
+* **Společné stanovisko koalice Pirátů a Starostů a koalice Spolu k evropskému covid pasu, najdete [ZDE](assets/pdf/Oficiální stanovisko ke covid pasu.pdf).**
