@@ -4,7 +4,7 @@ category:     blog
 tags:         kultura kontrola-moci-a-mocných
 layout:       post
 title:        "Kolektivní správce INTERGRAM zaplatí pokutu za zneužití dominance na trhu. Revize autorského zákona je naší prioritou, říká Pirátka Kozlová"
-image:        /assets/img/articles/021/lenka-kozlova00.jpg
+image:        /assets/img/articles/2021/lenka-kozlova00.jpg
 author:       
 ---
 
