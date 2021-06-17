@@ -4,7 +4,7 @@ category:     blog
 tags:         finance vláda
 layout:       post
 title:        "Piráti a Starostové chtějí budoucnost bez zadlužování. Představili plán, jak do roku 2025 zachránit veřejné finance"
-image:        /assets/img/articles/2021/ivan-bartos00.jpg
+image:        /assets/img/articles/2021/budoucnost-bez-dluhu.jpg
 author:       
 ---
 
