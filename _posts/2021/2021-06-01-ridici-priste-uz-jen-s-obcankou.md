@@ -21,3 +21,6 @@ Digitalizační balíček byl do Sněmovny vrácen Senátem s několika drobným
 
 > „Jako nepříliš šťastné vidím automatické zřizování datových schránek při použití prostředků elektronické identifikace a povinné zřízení datové schránky všem podnikajícím fyzickým osobám, které tento zákon také zavádí. Lepší by bylo ponechat vše na principu dobrovolnosti,” okomentoval Profant další ze zaváděných novinek. Zákon nyní poputuje k podpisu prezidentovi.
 
+Přijatá úprava též umožňuje elektronické podepisování petic v portálu veřejné správy. Úpravu petičního zákona předložil Sněmovně poslanec František Elfmark již v květnu 2019, nakonec však byla přijata v rámci digitalizačníh obalíčku.
+
+> „Jsem rád, že mohu z pozice místopředsedy petičního výboru říci, že Sněmovnou a Senátem prošel digitalizační balíček, tzv. DEPO, v jeho senátní verzi, který obsahuje i myšlenku mého pozměňovacího návrhu doplňující petiční zákon o pravidla umožňující realizaci petičního práva prostřednictvím portálu veřejné správy (nástrojem). Tento nástroj má vytvořit Ministerstvo vnitra. I petiční zákon by měl reflektovat realitu 21. století,” sdělil Elfmark. 
