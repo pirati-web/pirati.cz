@@ -12,11 +12,7 @@
     <meta name="keywords" content="{{keywords}}" />
     <meta property="og:title"         content="{{title}}" />
     <meta property="og:description"   content="{{description }}" />
-    {% if page.layout == 'post' %}
-    <meta property="og:image"         content="{{page.image | absolute_url }}" />
-    {% endif %}{% if page.img %}
-    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
-    {% endif %}
+    <meta property="og:image"         content="{{page.img |  absolute_url }}" />
     {% feed_meta %}
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
