@@ -20,5 +20,5 @@ Ačkoliv nezávislý úřad ÚOHS nezákonné jednání sankcionuje, neřeší n
 
 > „Revize autorského zákona je jednou z našich priorit. Chceme, aby se autorského právo vrátilo ke svému původnímu smyslu. Totiž ke zlepšení postavení autorů směrem k velkým vydavatelům a stejně tak i veřejnosti. Kolektivní správci musí podléhat přísnějšímu dohledu ze strany Ministerstva kultury, fungovat na zásadách transparentní organizace, a nikoliv pouze jako nikým neřízená a nekontrolovaná v pravém slova smyslu soukromá instituce,“ uzavřela poslankyně Pirátů.
 
-* O plánech Pirátů v oblasti autorského práva se můžeme dočíst **[ZDE]().**
+* O plánech Pirátů v oblasti autorského práva se můžeme dočíst **[ZDE](https://www.piratiastarostove.cz/program/autorske-pravo-pro-digitalni-svet/).**
 
