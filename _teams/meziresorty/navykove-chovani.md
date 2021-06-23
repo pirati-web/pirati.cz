@@ -21,11 +21,11 @@ Vítejte na stránce pirátského týmu zabývajícího se problematikou návyko
 
 #### Co děláme?
 
-- Prosazujeme [sněmovní volební program](https://www.pirati.cz/program/psp2017/zdravotnictvi/) v oblasti prevence rizikového návykového chování,
+- Prosazujeme sněmovní volební program v oblasti prevence rizikového návykového chování: [Vyvážená politika v návykovém chování](https://www.piratiastarostove.cz/program/vyvazena-politika-v-navykovem-chovani/), [Konopí pod kontrolou a zdaněním](https://www.piratiastarostove.cz/program/konopi-pod-kontrolou-a-zdanenim/),
 - projednáváme sněmovní tisky a další dokumenty (např. akční plány či strategie), které se týkají dané problematiky,
 - připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 - kontrolujeme práci příslušných ministerstev (MV, MPSV, MŠMT, MZ) a dalších dotčených meziresortních pracovišť (např. RKVPP),
-- rozpracováváme [dlouhodobý program](https://www.pirati.cz/program/dlouhodoby/psychotropni-latky/) pro prevenci vzniku rizikového návykového chování a snižování škod s ním souvisejících.
+- bod dlouhodobého programu [Psychotropní látky](https://www.pirati.cz/program/dlouhodoby/psychotropni-latky/) jsme rozpracovali do [detailního programového stanoviska](https://www.pirati.cz/program/temata/stanovisko-navykove-chovani/) pro prevenci vzniku rizikového návykového chování a snižování škod s ním souvisejících.
 
 #### Co je už hotové?
 
