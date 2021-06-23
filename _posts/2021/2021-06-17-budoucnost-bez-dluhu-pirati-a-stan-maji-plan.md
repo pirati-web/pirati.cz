@@ -31,4 +31,4 @@ V programu koalice Pirátů a STAN je také uvedeno, že pod jejich vedením bud
 
 > „Pokud nechceme zvyšovat daně a omezovat veřejné služby na současné úrovni, je potřeba ke zkrocení stamiliardových deficitů kromě systémových opatření přijmout i opatření mimořádná a dočasná. Náš plán počítá s fixací běžných výdajů státu na úrovni roku 2022 po dobu tří let. Fixace se netýká zákonem valorizovaných položek a oblastí, které pokrývají naše programové priority. Pouze kombinace systémových úsporných i příjmových opatření, fixace výdajů a podpora růstu vytvářejí předpoklady pro návrat k vyrovnaným rozpočtům a stabilizaci státního dluhu na úrovni, která umožní jeho následný pokles v poměru vůči HDP,“ zdůrazňuje Věslav Michalik.
 
-* **[Plán pro budoucnost bez zadlužování](https://www.pirati.cz/assets/pdf/Konsolidace_finál_LMK_2.pdf)**
+* **[Plán pro budoucnost bez zadlužování](https://www.pirati.cz/assets/pdf/Budoucnost-bez-zadlužování.pdf)**
