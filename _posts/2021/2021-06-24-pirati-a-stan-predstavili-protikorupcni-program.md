@@ -4,7 +4,7 @@ category:     blog
 tags:         korupce kontrola-moci-a-mocnych
 layout:       post
 title:        "Piráti a Starostové představili velký protikorupční program a konkrétní kroky pro boj s šíbry. Plán ušetří miliardy korun daňových poplatníků"
-image:        /assets/img/articles/2021/jakub-michalek00.jpg
+image:        /assets/img/articles/2021/Rio.jpg
 author:       
 ---
 
