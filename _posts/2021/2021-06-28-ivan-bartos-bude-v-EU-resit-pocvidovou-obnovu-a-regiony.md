@@ -3,7 +3,7 @@ category:     blog
 tags:         Bartoš EU covid regiony pomoc
 layout:       post
 title:        "Ivan Bartoš letí do Bruselu řešit obnovu Česka po covidu i finanční pomoc pro naše opomíjené regiony. Setká se s předsedou Evropského parlamentu"
-image:        /assets/img/articles/2020/ivan-bartos-podloubi.jpg
+image:        /assets/img/articles/2019/ivan-bartos-terasa.jpg
 author:       
 ---
 
