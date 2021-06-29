@@ -1,7 +1,7 @@
 ---
 date:         2021-06-28
 category:     blog
-tags:         morava tornado pomoc
+tags:         finance regiony 
 layout:       post
 title:        "Piráti a Starostové dnes vezou materiální pomoc na jižní Moravu, vybírají mezi členy i finanční dary pro zasažené. Na místo také vysílají další dobrovolníky"
 image:        /assets/img/articles/2021/IMG_1484.JPG
