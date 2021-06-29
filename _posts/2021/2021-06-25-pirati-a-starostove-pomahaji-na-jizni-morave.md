@@ -1,7 +1,7 @@
 ---
 date:         2021-06-25
 category:     blog
-tags:         
+tags:         regiony
 layout:       post
 title:        "Komentář předsedy Pirátů Ivana Bartoše: Piráti a Starostové zastavují kampaň a shromažďují prostředky na pomoc bouří zasaženým lidem na jižní Moravě"
 image:        /assets/img/articles/2021/Ivan_bartos99.jpg
