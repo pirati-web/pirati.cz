@@ -4,7 +4,7 @@ category:     blog
 tags:         práce-a-sociální-věci
 layout:       post
 title:        "Piráti odmítají návrh MPSV na kvóty pro agenturní zaměstnávání, řešením jsou férové podmínky agenturních zaměstnanců"
-image:        /assets/img/articles/2021/olga-richterova00.jpg
+image:        /assets/img/articles/2021/olga-richterova01.jpg
 author:       
 ---
 
