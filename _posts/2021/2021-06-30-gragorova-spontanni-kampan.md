@@ -1,7 +1,7 @@
 ---
 date:         2021-06-30
 category:     blog
-tags:         lgbt trans lidská-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Trans lidé, jste krásní! K spontánní výzvě Pirátky Gregorové se za jediný den připojilo na 2000 lidí"
 image:        /assets/img/articles/2021/Gregorova_u_schodu.jpg
