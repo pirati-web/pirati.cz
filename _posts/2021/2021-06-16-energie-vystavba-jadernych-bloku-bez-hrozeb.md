@@ -10,7 +10,7 @@ author:
 
 
 
-Praha, 16. června 2021 - Demokratické opozici se podařilo zavázat vládu, aby se výstavby nového bloku Dukovan neúčastnily ruské a čínské firmy. Jejich vyloučení z tendru zajistí pozměňovací návrhy k tzv. lex Dukovany, které připravil pirátský poslanec Jan Lipavský, a kabinet je na základě vyjednávání slíbil podpořit.  Za Piráty a Starosty je ale zásadní také ochránit finance daňových poplatníků. Připravili proto legislativu, aby se projekt negativně nepromítl například do cen energií. Vládní poslanci ovšem návrh smetli.
+Praha, 16. června 2021 - Demokratické opozici se podařilo zavázat vládu, aby se výstavby nového bloku Dukovan neúčastnily ruské a čínské firmy. Jejich vyloučení z tendru zajistí pozměňovací návrhy k tzv. lex Dukovany, které připravil pirátský poslanec Jan Lipavský, a kabinet jej na základě vyjednávání slíbil podpořit.  Za Piráty a Starosty je ale zásadní také ochránit finance daňových poplatníků. Připravili proto legislativu, aby se projekt negativně nepromítl například do cen energií. Vládní poslanci ovšem návrh smetli.
 
 > „Před vlivem autoritářským států varujeme dlouhodobě, mé pozměňovací návrhy tak navazují na systematickou práci Pirátů. Dbát na národní bezpečnost musíme ve všech sektorech, a energetika není výjimkou. Samotný zákon s těmito pozměňovacími návrhy navíc nebude mít vliv na cenu projektu,“ uvedl pirátský poslanec Jan Lipavský.
 
