@@ -1,5 +1,5 @@
 ---
-date:         2021-01-04
+date:         2021-07-06
 category:     blog
 tags:         lgbt gruzie lidská-práva
 layout:       post
