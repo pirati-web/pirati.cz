@@ -27,7 +27,8 @@ Zásadní problematické body za Piráty:
 - Trestání nevinných lidí, kteří nic nespáchali, jen s přestupcem bydlí v jedné domácnosti. A to včetně dětí, kterým sice zůstane jejich životní minimum ve výši kolem 2 tisíc korun, ale tyto prostředky bude muset rodina použít na bydlení, zejména v takzvaných bezdoplatkových zónách, kde se jim “sáhne” rovnou na peníze určené na jídlo. 
 
 - Zavedení zásady Jednou a dost - pokud obecní úřad usoudí, že přestupce je nenapravitelný, může po státu výplatu dávky požadovat hned po prvním nezaplacení pokuty.
-Nová administrativní zátěž pro obce i úřady práce - obce si nebudou moci vybrat, jestli navržené restrikce zavedou, protože jim to zákon uloží. Stejně tak Úřad práce bude muset prakticky každý měsíc provádět srážky z dávek ve prospěch různých obcí, místo aby pracoval na zlepšení situace svých klientů; srážky za porušení obecních vyhlášek se stanou příjmem obcí, které vyhlášku samy vydaly.
+
+- Nová administrativní zátěž pro obce i úřady práce - obce si nebudou moci vybrat, jestli navržené restrikce zavedou, protože jim to zákon uloží. Stejně tak Úřad práce bude muset prakticky každý měsíc provádět srážky z dávek ve prospěch různých obcí, místo aby pracoval na zlepšení situace svých klientů; srážky za porušení obecních vyhlášek se stanou příjmem obcí, které vyhlášku samy vydaly.
 
 Kromě destruktivních dopadů na obce a jejich obyvatele trpí návrh těmito vadami ve vztahu k současnému právnímu řádu:
 - Především je návrh zásahem do práva každého, kdo je v hmotné nouzi, na pomoc s vymaněním se z tohoto stavu, což je právo zaručené Listinou základních práv a svobod. 
