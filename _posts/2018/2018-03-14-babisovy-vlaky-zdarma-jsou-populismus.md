@@ -9,7 +9,7 @@ author:       Karolína Sadílková
 ---
 
 
-Praha, 14. března 2018 - Premiér Andrej Babiš nedávno představil plánované zlevnění jízdného ve vlacích a autobusech pro mládež a seniory. Přestože nakonec nepůjde o jízdné zdarma, ale o slevu ve výši 75 % ceny, daňové poplatníky opatření přijde asi na 6 miliard. Piráti slevu považují za nesystémovou a hlavně nepromyšlenou. Nebyla totiž součástí návrhu státního rozpočtu. Kde chce tedy ministerstvo dopravy oněch 6 miliard vzít, se neví. Piráti navrhují místo skokových slev pro určité skupiny obyvatel, raději snížit nebo rovnou zrušit daň z jízdenek. Tím by se zlevnilo jízdné pro všechny. Další variantou je také zavedení daňových odpočtů na jízdné ve veřejné hromadné dopravě.
+Praha, 14. března 2018 - Premiér Andrej Babiš nedávno představil plánované zlevnění jízdného ve vlacích a autobusech pro mládež a seniory. Přestože nakonec nepůjde o jízdné zdarma, ale o slevu ve výši 75 % ceny, daňové poplatníky opatření přijde asi na 6 miliard. Piráti slevu považují za nesystémovou a hlavně nepromyšlenou. Nebyla totiž součástí návrhu státního rozpočtu. Kde chce tedy ministerstvo dopravy oněch 6 miliard vzít, se neví. Piráti navrhují místo skokových slev pro určité skupiny obyvatel raději snížit nebo rovnou zrušit daň z jízdenek. Tím by se zlevnilo jízdné pro všechny. Další variantou je také zavedení daňových odpočtů na jízdné ve veřejné hromadné dopravě.
 
 Státem dotované štědré slevy by podle Babiše mělo stanovovat nařízení vlády, nikoliv zákon. Očekávaný výpadek 6 miliard tedy nebude muset odsouhlasit parlament. Ačkoliv jde o výrazný zásah do rozpočtu ministerstva dopravy, během jeho sestavování před čtyřmi měsíci se o něm Andrej Babiš, ani nikdo z vlády, nezmínil. 
 
