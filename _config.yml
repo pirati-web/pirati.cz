@@ -50,6 +50,9 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+  people-okolo:
+    output: true
+    permalink: /lide-okolo/:path/
   program:
     output: true
     permalink: /program/:path/
@@ -71,6 +74,12 @@ defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+  -
+    scope:
+      path: "_people-okolo"
     values:
       layout: "page"
       rbar: "people, foto"

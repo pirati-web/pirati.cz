@@ -16,7 +16,7 @@ profiles:
   linkedin:
 ---
 
-**Jana Kolaříková** (* 30. září 1986) spolupracuje s Pirátskou stranou od roku 2011, členkou je od roku 2013. Narodila se v Šumperku, již od útlého dětství žije v jižních Čechách, převážně v okolí Strakonic. Působila jako koordinátorka dobrovolníků pro Jihočeský kraj a nyní je vedoucím Personálního odboru Pirátů.
+**Jana Kolaříková** (* 30. září 1986) spolupracuje s Pirátskou stranou od roku 2011, členkou je od roku 2013. Narodila se v Šumperku, již od útlého dětství žije v jižních Čechách, převážně v okolí Strakonic. Působila jako koordinátorka dobrovolníků pro Jihočeský kraj a vedoucí Personálního odboru Pirátů.
 
 V roce 2019 se uchází o pirátskou nominaci do voleb do Evropského parlamentu.
 
