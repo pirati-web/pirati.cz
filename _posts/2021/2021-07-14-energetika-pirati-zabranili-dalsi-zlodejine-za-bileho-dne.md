@@ -8,7 +8,6 @@ image:        /assets/img/articles/2021/petr-tresnak01.jpg
 author:       
 ---
 
-
  
 
 Praha, 14. července 2021 – I díky tlaku Pirátů a Starostů dnes Sněmovna zablokovala přijetí pozměňovacích návrhů ANO k energetickému zákonu, které by zvýšily cenu benzinu a nafty o 2 koruny. Návrhy měly navýšit podíl biopaliv 1. generace v pohonných hmotách, na čemž by vydělal hlavně koncern Agrofert jako největší producent biopaliv v Česku. Koalice také varovala před dalším možným tunelem na peníze daňových poplatníků prostřednictvím podpory vybraných zdrojů energie. I když se povedlo zastavit nejproblematičtější návrh, vláda přesto prosadila nerovnoměrnou podporu energetických zdrojů a značně zvýhodnila bioplyn a biomasu. 
