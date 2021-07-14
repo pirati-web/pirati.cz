@@ -9,7 +9,6 @@ author:
 ---
 
  
-
 Brusel/Praha 14. července 2021 – Omezení daňových rájů, vlivu oligarchů či Ruska a Číny i lepší ochrana peněz pro Česko. To vše by podle Pirátů přineslo rozšíření hlasování kvalifikovanou většinou v Radě Evropské unie i na oblast společné daňové a zahraniční politiky nebo evropského rozpočtu. Již dnes se v Radě Evropské unie u řady témat hlasuje právě tímto způsobem, jde tak o zaběhlou praxi.
 
 > „Panu Babišovi by se pochopitelně nelíbilo, kdyby došlo k omezení moci oligarchů, kteří by tak dále nemohli zneužívat pravidla či evropské peníze. Proto šíří ohledně hlasování kvalifikovanou většinou nesmysly a straší lidi,” říká pirátský místopředseda Evropského parlamentu Marcel Kolaja.
