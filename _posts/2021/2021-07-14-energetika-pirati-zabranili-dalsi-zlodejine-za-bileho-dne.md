@@ -3,7 +3,7 @@ date:         2021-07-14
 category:     blog
 tags:         sněmovna legislativa energetika
 layout:       post
-title:        "Piráti a Starostové pomohli zablokovat zdražení benzínu a "malou domů" pro Agrofert. Varují ale před dalším tunelem v energetice"
+title:        "Piráti a Starostové pomohli zablokovat zdražení benzínu a 'malou domů' pro Agrofert. Varují ale před dalším tunelem v energetice"
 image:        /assets/img/articles/2021/petr-tresnak01.jpg
 author:       
 ---
