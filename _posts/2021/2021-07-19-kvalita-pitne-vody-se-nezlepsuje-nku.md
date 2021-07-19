@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrola-moci-a-mocných životní-prostředí transparence
 layout:       post
 title:        "Komentář Dany Balcarové: Kvalita vody v České republice se nelepší, místo příčin znečištění se řeší jen důsledky"
-image:        /assets/img/articles/2021/2021/dana-balcarova02.jpg
+image:        /assets/img/articles/2021/dana-balcarova02.jpg
 author:       Dana Balcarová
 ---
 
