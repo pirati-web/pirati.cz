@@ -4,7 +4,7 @@ category:     blog
 tags:         práce-a-sociální-věci sněmovna legislativa
 layout:       post
 title:        "Piráti a Starostové odmítají likvidační návrh na odebírání dávek. Novela SPD nahraje obchodníkům s chudobou a ohrozí nemocné lidi, seniory i samoživitele"
-image:        /assets/img/articles/2021/olga-richterova99.jpg
+image:        /assets/img/articles/2021/olga_richterova99.jpg
 author:       
 ---
 
