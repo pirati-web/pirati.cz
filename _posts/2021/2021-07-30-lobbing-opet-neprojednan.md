@@ -1,5 +1,5 @@
 ---
-date:         2021-07-31
+date:         2021-07-30
 category:     blog
 tags:         transparence sněmovna legislativa
 layout:       post
