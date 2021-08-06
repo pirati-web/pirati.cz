@@ -4,7 +4,7 @@ category:     blog
 tags:         sociální-péče legislativa
 layout:       post
 title:        "Piráti prosadili konec kojeneckých ústavů, nejmenší děti budou vyrůstat v rodinném zázemí"
-image:        /assets/img/articles/2021/olga-richterova02.jpg
+image:        /assets/img/articles/2021/olga-richterova00.jpg
 author:       
 ---
 
