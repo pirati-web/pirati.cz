@@ -21,6 +21,6 @@ Pracovala v přední mezinárodní PR agentuře a vyzkoušela si i práci tiskov
 
 K Pirátům se připojila jako příznivkyně a zaměstnankyně v březnu 2016, kdy začala psát pro Mediální odbor. Členkou Pirátů se stala začátkem ledna 2018. Zapojila se do příprav Pirátských listů jako editorka a korektorka, pomáhala a radila koordinátorům v regionech, pracovala na kampani při volbách do PSP. Příležitostně vede pirátské workshopy o PR a psaní. Od listopadu 2018 zastupuje Piráty v redakční radě radničního časopisu Tučňák, který vydává MČ Praha 4. V rámci KS Praha působí od března 2020 jako šéfredaktorka [pražských Pirátských listů](https://praha.pirati.cz/piratske-listy/2020-jaro/#plisty/page1). 
  
-Má ráda profesionalitu, spolehlivost, otevřenost, pružnost, ochotu a neformálnost. Váží si dobrovolnictví, spolupráce, solidarity, sebekázně a dobré vůle. Nemá ráda alibismus, formalizmus, nekonstruktivnost a silová řešení.
+Má ráda profesionalitu, spolehlivost, otevřenost, pružnost, ochotu a neformálnost. Váží si dobrovolnictví, spolupráce, solidarity, sebekázně a dobré vůle.
  
 Zajímá ji kvalita života sociálních skupin napříč společností. Ve veřejném prostoru jí štve neférové vymáhání dluhů vedoucí až k likvidaci dlužníků i jejich rodin. Vadí jí existence šedého trhu práce, který úzce souvisí s neochotou zaměstnavatelů přijímat lidi do řádného zaměstnaneckého poměru za důstojných podmínek. V posledních čtyřech letech se blíže zabývá místním rozvoje a souvisejícími tématy. 
