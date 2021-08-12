@@ -24,6 +24,8 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><a href="https://zlinsky.pirati.cz/volby-2020/?pohled=program">Zlínský kraj</a></li>
 </ul>  
 </div>
+
+<div class="medium-12 large-4 columns o-section-block--medium">
 	
 <p><h1><strong>Společný program pro krajské volby 2020</strong></h1></p>
 <p><h2><strong>Zdravotnictví</strong></h2></p>
@@ -90,3 +92,5 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><p><strong>Chceme řídit kraj zodpovědně - ve vedení krajských institucí preferujeme odborníky vybrané v transparentních výběrových řízení.</strong> Budeme zveřejňovat průběžné plnění jednotlivých priorit a cílů, aby každý mohl práci kraje sám zhodnotit.</p>
 </li>
 </ol>
+
+</div>
