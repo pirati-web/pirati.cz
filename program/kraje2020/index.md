@@ -25,8 +25,7 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 </ul>  
 </div>
 
-<div class="medium-12 large-4 columns o-section-block--medium">
-	
+<p>	
 <p><h1><strong>Společný program pro krajské volby 2020</strong></h1></p>
 <p><h2><strong>Zdravotnictví</strong></h2></p>
 <ol>
@@ -92,5 +91,5 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><p><strong>Chceme řídit kraj zodpovědně - ve vedení krajských institucí preferujeme odborníky vybrané v transparentních výběrových řízení.</strong> Budeme zveřejňovat průběžné plnění jednotlivých priorit a cílů, aby každý mohl práci kraje sám zhodnotit.</p>
 </li>
 </ol>
+</p>
 
-</div>
