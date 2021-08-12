@@ -25,8 +25,8 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 </ul>  
 </div>
 	
-<p><strong>Společný program pro krajské volby 2020</strong></p>
-<p><strong>Zdravotnictví</strong></p>
+<p><h1><strong>Společný program pro krajské volby 2020</strong></h1></p>
+<p><h2><strong>Zdravotnictví</strong></h2></p>
 <ol>
 <li><p><strong>Dostupnost zdravotní péče v regionu.</strong> Budeme prosazovat programy pro zajištění zdravotního personálu v regionech a o jejich podpoře povedeme jednání se zdravotními pojišťovnami.</p>
 </li>
@@ -35,7 +35,7 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><p><strong>Kvalitnější péče v porodnictví a vznik porodních domů.</strong> Podpoříme zlepšení péče v oblasti porodnictví a vznik porodních domů.</p>
 </li>
 </ol>
-<p><strong>Klima, odpady a krajina</strong></p>
+<p><h2><strong>Klima, odpady a krajina</strong></h2></p>
 <ol>
 <li><p><strong>Ochrana klimatu je výzva!</strong> Zavedeme opatření vedoucí k ochraně klimatu, šetrnému hospodaření s krajinou i energiemi a snižování emisí skleníkových plynů. Podpoříme také rozšíření nabídky vzdělávání o životním prostředí v regionech, šíření příkladů dobré praxe obcím a smysluplnou spolupráci na udržitelných projektech.</p>
 </li>
@@ -46,7 +46,7 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><p><strong>Více surovin lokálních zemědělců v jídelnách škol a nemocnic v kraji.</strong> Chceme, aby krajem zřizované školy, nemocnice, sociální zařízení a instituce v co největší možné míře nakupovaly od lokálních zemědělců a producentů. Podpoříme tím jak regionální ekonomiku, tak i pestrost zemědělské produkce a krajiny jako takové.</p>
 </li>
 </ol>
-<p><strong>Vzdělávání</strong></p>
+<p><h2><strong>Vzdělávání</strong></h2></p>
 <ol>
 <li><p><strong>Podpora široké nabídky vzdělávání.</strong> Jsme pro svobodnou volbu vzdělávací dráhy dětí, průběžné vzdělávání dospělých, širokou nabídku a dostupnost vzdělávání - chceme podpořit rozmanitost nabídky podle potřeb regionu. Nepodpoříme centrálně stanovené minimální bodové hranice (cut-off skóre) u jednotných přijímacích zkoušek pro přijetí na střední školy.</p>
 </li>
@@ -55,33 +55,33 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 <li><p><strong>Kvalita zázemí škol (vybavení, pomůcky, digitální vzdělávání...).</strong> Podpoříme rozvoj a zázemí škol - kraj by měl dbát o to, aby měly školy dostatek finančních prostředků, a to včetně vyjednávání o množstevních slevách. Chceme se rovněž zaměřit na vybavenost v oblasti informačních technologií a podpořit využívání nástrojů digitálního vzdělávání.</p>
 </li>
 </ol>
-<p><strong>Doprava</strong></p>
+<p><h2><strong>Doprava</strong></h2></p>
 <ol>
 <li><p><strong>Dopravní obslužnost musí pokrývat celé území kraje i všechny občany.</strong> Hromadnou dopravu budeme plánovat tak, aby nevznikaly lokality bez dopravní obslužnosti. Podpoříme tím i rozvoj udržitelného cestovního ruchu a rozvoj aktivit pro trávení volného času. Při plánování hromadné dopravy v kraji budeme prosazovat bezbariérovost a dostupnost dopravy. Ve výběrových řízeních na dopravce bude bezbariérovost jedním ze základních kritérií</p>
 </li>
 <li><p><strong>Konec chaosu ve výstavbě a údržbě silnic, sítí a dalších staveb.</strong> Skoncujeme se současnou praxí, kdy se staví nekoncepčně. Zefektivníme a zrychlíme infrastrukturní stavby. Stavby a rekonstrukce budeme koordinovat společně s dalšími organizacemi. Zohledníme požadavky zachování krajinného rázu a přírodních lokalit daného regionu.</p>
 </li>
 </ol>
-<p><strong>Rodina a sociální služby</strong></p>
+<p><h2><strong>Rodina a sociální služby</strong></h2></p>
 <ol>
 <li><p><strong>Sociální služby v terénu, aby lidé nemuseli do ústavů, když nechtějí (např. senioři).</strong> Zaměříme se na podporu poskytování péče v přirozeném domácím prostředí a alternativní způsoby bydlení pro seniory - podpoříme výstavbu komunitního bydlení, realizaci sdíleného bydlení, nebo dostupnost menších bytů. Usnadníme podávání žádostí do domova pro seniory nebo domova se zvláštním režimem. Upřednostníme podporu komunitních služeb, pobytových i terénních, před velkokapacitními ústavy.</p>
 </li>
 <li><p><strong>Zajistíme dětské skupiny, rodinná centra a další zařízení pro rodiny s dětmi.</strong> Pomůžeme rodinám sladit péči o děti a práci.</p>
 </li>
 </ol>
-<p><strong>Bydlení</strong></p>
+<p><h2><strong>Bydlení</strong></h2></p>
 <ol>
 <li><p><strong>Pomoc obcím, které řeší vážné problémy s bydlením.</strong> Podpoříme mapování bytové nouze v kraji a pomoc obcím potýkajícím se s vážnými problémy. Nastartujeme spolupráci obcí s kontaktními pracovišti Úřadu práce a terénními či ambulantními službami. Za důležitou také považujeme podporu obcím, které na svém území řeší problémy s dostupností bydlení nebo komplexní problémy v tzv. sociálně vyloučených lokalitách.</p>
 </li>
 <li><p><strong>Podpoření sdíleného bydlení a dostupnost menších bytů podle poptávky seniorů a dalších potřebných skupin.</strong> Podpoříme výstavbu komunitního bydlení, realizaci sdíleného bydlení a dostupnost menších bytů.</p>
 </li>
 </ol>
-<p><strong>Ekonomika</strong></p>
+<p><h2><strong>Ekonomika</strong></h2></p>
 <ol>
 <li><strong>Podpoření podnikání, zejména v místech s vysokou nezaměstnaností a oblastech daleko od velkých měst.</strong> Zvýšíme kvalitu investičního prostředí. Podpoříme efektivnější čerpání dotací pro malé a střední podniky a inovační centra a podnikatelské inkubátory. Cílem je rozvíjet start-upy a přilákat a udržet v krajích perspektivní byznys.</li>
 <li><strong>Oživení méně atraktivních lokalit kraje a revitalizace zanedbaných území.</strong></li>
 </ol>
-<p><strong>Moderní úřad</strong></p>
+<p><h2><strong>Moderní úřad</strong></h2></p>
 <ol>
 <li><p><strong>Snadnější komunikace s krajskými úřady.</strong> Každý občan musí mít možnost, nikoliv povinnost, využívat nové technologie. Zajistíme zpřístupnění úřadů fyzicky i online - vozíčkářům, neslyšícím, nevidomým, slabozrakým a dalším potřebným.</p>
 </li>
