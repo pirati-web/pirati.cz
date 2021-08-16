@@ -11,7 +11,7 @@ author:
 
  
 
-Praha, 16. srpna 2021 – Masivní celoplošné uzávěry ve školství si ČR již nemůže dovolit. Piráti a Starostové považují vzdělávání za klíčovou oblast a přicházejí průběžně s návrhy, jak situaci v období pandemické krize řešit. Připravili zároveň pružnější strategii, podle níž musí například o cílených opatřeních rozhodovat místní orgány na úrovni jednotlivých okresů podle situace v daném místě. Kompletní znění strategie bezpečného návratu žáků do škol podle Pirátů a Starostů naleznete v příloze. 
+Praha, 16. srpna 2021 – Masivní celoplošné uzávěry ve školství si ČR již nemůže dovolit. Piráti a Starostové považují vzdělávání za klíčovou oblast a přicházejí průběžně s návrhy, jak situaci v období pandemické krize řešit. Připravili zároveň pružnější strategii, podle níž musí například o cílených opatřeních rozhodovat místní orgány na úrovni jednotlivých okresů podle situace v daném místě. Kompletní znění strategie bezpečného návratu žáků do škol podle Pirátů a Starostů naleznete [ZDE](https://pirati.cz/assets/pdf/strategie-Piráti-STAN-školství.pdf). 
 
 „V rámci Evropy patřily české školy mezi nejdéle zavřené a vláda nedokázala najít uspokojivé řešení pro žáky, studenty, učitele ani rodiče. Téměř celý předchozí rok výuky byl zmařen plošnými opatřeními. Školní rok začne už za dva týdny a vláda teprve dnes ve večerních hodinách projedná podmínky letošního nástupu žáků do škol, ačkoliv na přípravu postupu měla dlouhé měsíce. Stejně tak na prostudování návrhů, které jí Piráti a Starostové předložili,” uvedl Lukáš Bartoň, poslanec Pirátů zodpovědný za oblast školství.
 
