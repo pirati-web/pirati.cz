@@ -4,7 +4,7 @@ category:     blog
 tags:         školství koronavirus 
 layout:       post
 title:        "Cílená opatření ve školství a možnost rozhodování na lokální úrovni, navrhují ve strategii Piráti a Starostové namísto dalších plošných omezení"
-image:        /assets/img/articles/2021/plán děti do škol.pdf
+image:        /assets/img/articles/2021/strategie-skolstvi.jpg
 author:       
 ---
 
