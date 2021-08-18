@@ -4,7 +4,7 @@ category:     blog
 tags:         finance vzdělávání sport
 layout:       post
 title:        "Národní sportovní agentura nezvládá vypisovat dotace a informovat žadatele o změnách. Samosprávy a kluby jsou v potížích"
-image:        /assets/img/articles/2021/andrea-hoffmannova00.jpg
+image:        /assets/img/articles/2021/andrea-hoffmannova01.jpg
 author:       
 ---
  
