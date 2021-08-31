@@ -1,7 +1,7 @@
 ---
 date:         2021-08-31
 category:     blog
-tags:         kampaň politika evropský-parlament
+tags:         evropská-unie volby
 layout:       post
 title:        "Podcast Pirátky Gregorové „Politika je pro všechny“ startuje s místopředsedkyní Zelených Annou Gümplovou"
 image:        /assets/img/articles/2021/MarketaGregorova-AnnaGumplova-podcast-politikajeprovsechny-1.png
