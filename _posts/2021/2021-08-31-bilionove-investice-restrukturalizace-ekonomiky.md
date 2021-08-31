@@ -1,5 +1,5 @@
 ---
-date:         2021-09-01
+date:         2021-08-31
 category:     blog
 tags:         ekonomika finance
 layout:       post
