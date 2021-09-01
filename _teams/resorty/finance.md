@@ -65,7 +65,7 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 
 
 - **Dominik Bečka** - člen Pirátů, zastupitel MO Pardubice, manažer řízení rizik v pojišťovnictví
-- **Otakar Cejnar** - projektový manažer a ekonom se dlouhodobu zkušeností z mezinárodních institucí
+- **Otakar Cejnar** - člen Pirátů, projektový manažer a ekonom s dlouhodobou zkušeností z mezinárodních institucí
 - **Jan Černý** - člen Pirátů, zastupitel Úval
 - **Libor Dušek** - ekonom, vedoucí katedry národního hospodářství na PF UK. 
 - **Lukáš Forýtek** –asistent poslance Tomáše Martínka
