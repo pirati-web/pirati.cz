@@ -42,7 +42,7 @@ To jsou základní priority investic koalice, která chce do podpory české eko
 
  
 
-K tomu, aby bylo možné transformovat celou ekonomiku je nezbytně nutné investovat do vzdělávání. Piráti a Starostové si uvědomují, že v rychle se rozvíjejících regionech přetrvává nedostatečná kapacita základních škol, střední školy vyžadují investice do budov a vybavení, navíc počet chybějících míst ve školkách pro děti starší dvou let je minimálně 20 tisíc. To vše bude vyžadovat investice ve výši minimálně 45 miliard korun. Další důležitou oblastí, kde je nutné větší zapojení státu, jsou zdravotní a sociální služby. Řada nemocnic je ve špatném stavu, potřebují modernizaci. Koalice nezapomíná ani na to, že počet osob vyžadujících služby dlouhodobé sociálně-zdravotní péče rychle roste. Na trhu chybí minimálně 15 tisíc lůžek v domovech pro seniory a 5 tisíc lůžek v domovech se zvláštním režimem. Celkové náklady na uspokojení těchto dvou oblastí jsou okolo 150 miliard korun. 
+K tomu, aby bylo možné transformovat celou ekonomiku je nezbytně nutné investovat do vzdělávání. Piráti a Starostové si uvědomují, že v rychle se rozvíjejících regionech přetrvává nedostatečná kapacita základních škol, střední školy vyžadují investice do budov a vybavení, navíc počet chybějících míst ve školkách pro děti starší dvou let je minimálně 20 tisíc. To vše bude vyžadovat investice ve výši minimálně 45 miliard korun. Další důležitou oblastí, kde je nutné větší zapojení státu, jsou zdravotní a sociální služby.
 
  
 
