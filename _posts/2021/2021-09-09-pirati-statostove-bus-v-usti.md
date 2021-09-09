@@ -4,7 +4,7 @@ category:     blog
 tags:         volby finance korupce kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti a Starostové zahájili horkou fázi kampaně. Slibují zemi bez korupce a bez dluhů"
-image:        /assets/img/articles/2020/bus-usti1.jpg
+image:        /assets/img/articles/2021/bus-usti1.jpg
 author:       
 ---
 
