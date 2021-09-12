@@ -5,7 +5,7 @@ name:     Marcel Kolaja                      # běžně používáné jméno
 fullname: Marcel Kolaja                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - euro
-img: people/marcel-kolaja.jpg           # 165 x 220
+img: people/marcel_kolaja.jpg           # 165 x 220
 description: Europoslanec, bojovník za svobodný software a expert na opensource technologie
 mail:
 - marcel.kolaja@pirati.cz
@@ -36,10 +36,14 @@ asistenti:
     description: Asistentka v ČR
     mail: lenka.kynclova@la.europarl.europa.eu
     tel: +420 604 744 359       
-  - name: Boris Vanka
+  - name: Kristyna Hrochová
     description: PR expert
-    mail: boris.vanka@la.europarl.europa.eu
-    tel: +420 608 445 322        
+    mail: kristyna.hrochova@la.europarl.europa.eu
+    tel: +420 723 206 648       
+  - name: Tomáš Polák
+    description: PR expert - delegace
+    mail: tomas.Polak@europarl.europa.eu
+    tel: +420 728 035 059  
 direct-contact: true
 office: 
   - address: Lidická 960/81, 602 00 Brno <br>Karlovo náměstí 313/8, 120 00 Praha 2
@@ -54,16 +58,21 @@ profiles:
 ---
 * Člen **BURO**  Předsednictvo Evropského parlamentu  
 * Člen **IMCO**  Výbor pro vnitřní trh a ochranu spotřebitelů  
-* Člen **D-IN**  Delegace pro vztahy s Indií  
+* Člen **D-US**  Delegace pro vztahy se Spojenými státy americkými   
 * Náhradník  **CULT**  Výbor pro kulturu a vzdělávání  
-* Náhradník  **D-US**  Delegace pro vztahy se Spojenými státy americkými  
+* Náhradník  **D-IN**  Delegace pro vztahy s Indií  
+* Náhradník **AIDA** Zvláštní výbor pro umělou inteligenci v digitálním věku
 
-Marcel Kolaja je členem České pirátské strany od roku 2010. V roce 2014 kandidoval do Evropského parlamentu na druhém místě kandidátky. V minulosti působil například jako spolupředseda mezinárodní organizace Pirate Parties International nebo místopředseda Pirátské strany. Marcel vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
 
-Pracuje jako technický produktový manažer v softwarové firmě, specializuje se na svobodný software (Open Source). Podílel se na založení spolku Otevřená města, který podporuje radnice v transparentním hospodaření a vstřícnosti k občanům, například vývojem rozklikávacího rozpočtu a jeho bezplatným poskytováním obcím. Inicioval též projekt Hrajeme svobodnou hudbu!, který chrání provozovatele podniků před šikanou kolektivních správců OSA a Intergram. V uplynulých čtyřech letech se angažoval v komunální politice jako člen komise informatiky Rady města Brna.
+Marcel Kolaja je členem Pirátské strany od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku je také místopředsedou Evropského parlamentu. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně.
 
-Marcel Kolaja se zabývá problematikou autorského práva na jednotném digitálním trhu. V Evropském parlamentu se chce zaměřit na to, aby občanům nebyly odepírány jejich svobody, a pokračovat ve snažení německé pirátské europoslankyně Julie Reda o zachování internetu bez cenzury.
+V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 
-Dále se chce věnovat inovacím a investicím do digitálních technologií, které jsou podle něho nutné pro zvýšení kybernetické bezpečnosti a aby Evropa nezaostávala za vzestupujícím vlivem čínské velmoci. Kromě politických aktivit je Marcel také nadšeným sportovcem – účastní se běžeckých závodů a rád jezdí na kole či na motorce. 
+Věnuje se zejména tématům spojeným s fungováním společnosti v digitálním věku. Prosazuje otevřené technologie, svobodu na Internetu, nezávislost médií, transparentnost a sjednocenou Evropu.
+
+Narodil se 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií je jeho útočištěm Brno. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer.
+
+Ve volném čase běhá, jezdí na kole či na motorce a vyráží na výlety se psím parťákem Freddiem. Je velkým milovníkem hor a přírody obecně.
+
 
 [Transparentní účet člena Evropského parlamentu - General Expenditures Allowances](https://ib.fio.cz/ib/transparent?a=2901637243)
