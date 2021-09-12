@@ -37,6 +37,10 @@ asistenti:
     description: Poskytovatel služeb, PR expert
     mail: ondrejobergruber@gmail.com
     tel: +420 731 808 671    
+  - name: Tomáš Polák
+    description: PR expert - delegace
+    mail: tomas.polak@europarl.europa.eu
+    tel: +420 728 035 059 
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
