@@ -33,7 +33,11 @@ asistenti:
   - name: Julia Weber
     description: PR expert
     mail: julia.weber@patrick.breyer.de
-    tel: +49 15787550712    
+    tel: +49 15787550712  
+  - name: Nikolaus Riss
+    description: PR expert - delegace 
+    mail: nikolaus.riss@europarl.europa.eu
+    tel: +43 676 969 400
 
 mob: 00322 28 45664
 office: 
