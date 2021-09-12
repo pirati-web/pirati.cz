@@ -42,7 +42,7 @@ asistenti:
     tel: +420 723 206 648       
   - name: Tomáš Polák
     description: PR expert - delegace
-    mail: tomas.Polak@europarl.europa.eu
+    mail: tomas.polak@europarl.europa.eu
     tel: +420 728 035 059  
 direct-contact: true
 office: 
