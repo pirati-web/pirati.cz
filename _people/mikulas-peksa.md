@@ -36,7 +36,16 @@ asistenti:
   - name: Ondřej Obergruber
     description: Poskytovatel služeb, PR expert
     mail: ondrejobergruber@gmail.com
-    tel: +420 731 808 671    
+    tel: +420 731 808 671
+  - name: Aneta Navrátilová
+    description: PR expert
+    mail: navratilova-anet@seznam.cz
+    tel: +420 601 504 976
+  - name: Tomáš Polák
+    description: PR expert - delegace
+    mail: tomas.polak@europarl.europa.eu
+    tel: +420 728 035 059
+
 office: 
   - address: Karlovo náměstí 313/8, 120 00 Praha 2
 profiles:
