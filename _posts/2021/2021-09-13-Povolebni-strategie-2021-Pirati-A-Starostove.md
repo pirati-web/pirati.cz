@@ -4,7 +4,7 @@ category:     blog
 tags:         volby povolebni-strategie ANO SPD
 layout:       post
 title:        "Piráti a Starostové vysílají jasný vzkaz voličům - nebudeme spolupracovat se stranami s korupční minulostí či ohrožující liberální demokracii. Ke stejnému závazku vyzývají ostatní demokratické strany"
-image:        /assets/img/articles/bartos-rakusan99.jpg
+image:        /assets/img/articles/2021/bartos-rakusan99.jpg
 author:       
 ---
 
