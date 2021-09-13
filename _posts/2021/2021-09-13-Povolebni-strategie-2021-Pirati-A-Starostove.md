@@ -1,7 +1,7 @@
 ---
 date:         2021-09-13
 category:     blog
-tags:         volby povolebni-strategie ANO SPD
+tags:         volby
 layout:       post
 title:        "Piráti a Starostové vysílají jasný vzkaz voličům - nebudeme spolupracovat se stranami s korupční minulostí či ohrožující liberální demokracii. Ke stejnému závazku vyzývají ostatní demokratické strany"
 image:        /assets/img/articles/2021/bartos-rakusan99.jpg
@@ -11,7 +11,7 @@ author:
 
 Praha, 13. září 2021 – Koalice Pirátů a Starostů představuje společnou povolební strategii. Jedná se o dokument určující možnosti a zásady spolupráce s dalšími sněmovními stranami po říjnových volbách do Poslanecké sněmovny. Koalice deklaruje, že podpora libovolné vlády by byla podmíněna tím, že do ní nebudou nominováni lidé nekompetentní, s prokázanou korupční minulostí, nebo v trvalém střetu zájmů. Piráti a Starostové zároveň nepodpoří vládu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi. Ke stejnému závazku rovněž vyzývají ostatní demokratické strany.
 
-Dokument zároveň deklaruje, že v neděli ihned po volbách zasedne koaliční rada, která ustanoví vyjednávací tým, v jehož čele bude stát kandidát koalice na předsedu vlády. Cílem koalice zůstává vítězství ve volbách a sestavení funkční vlády, která bude plnit schválený [koaliční program](https://www.piratiastarostove.cz/).
+Dokument zároveň deklaruje, že v neděli ihned po volbách zasedne koaliční rada, která ustanoví vyjednávací tým, v jehož čele bude stát kandidát koalice na předsedu vlády. Cílem koalice zůstává vítězství ve volbách a sestavení funkční vlády, která bude plnit schválený [koaliční program](https://www.piratiastarostove.cz/program-pro-vas/).
  
 
 > „Stejně jako v roce 2017 zveřejňujeme i nyní povolební strategii, kterou se budeme řídit. Jako jediní dáváme vzkaz našim voličům, kterým otevřeným způsobem říkáme, co od nás mohou očekávat. Principiálně jsme se vždy vymezovali proti stranám i osobám, které jsou spojeny s korupční minulostí a střetem zájmů. Odmítáme též spolupráci se stranami, které podrývají demokratické základy a nebudeme jednat s těmi, kdo si stát privatizovali pro vlastní podnikání. Vylučujeme proto spolupráci s KSČM, SPD i s ANO. Ke stejné deklaraci vyzýváme i ostatní demokratické strany,“ uvedl k dokumentu předseda Pirátů Ivan Bartoš.
