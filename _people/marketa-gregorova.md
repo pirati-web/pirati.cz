@@ -39,6 +39,10 @@ asistenti:
     description: Poskytovatel služeb, PR expert
     mail: bittnerpetr@seznam.cz
     tel: +420 724 202 681
+  - name: Tomáš Polák
+    description: PR expert - delegace
+    mail: tomas.polak@europarl.europa.eu
+    tel: +420 728 035 059 
 direct-contact: true
 office: 
   - address: Lidická 960/81, 602 00 Brno<br>Karlovo náměstí 313/8, 120 00 Praha 2
