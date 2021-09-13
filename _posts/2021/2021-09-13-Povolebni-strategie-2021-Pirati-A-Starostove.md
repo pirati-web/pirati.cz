@@ -25,4 +25,4 @@ Součástí schválené strategie je i plán na vytvoření dvou samostatných p
 
 
 
-Plné znění povolební strategie naleznete [zde v přiloženém dokumentu](https://pirati.cz/assets/pdf/Povolební_strategie_koalice_Pirátů_a_Starostů.pdf).
+Plné znění povolební strategie naleznete [zde](https://pirati.cz/assets/pdf/Povolební_strategie_koalice_Pirátů_a_Starostů.pdf).
