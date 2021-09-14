@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Piráti a Starostové budou opět lidem pomáhat s vyřizováním voličských průkazů"
-image:        /assets/img/articles/2021/2017/volicsky.jpg
+image:        /assets/img/articles/2017/volicsky.jpg
 author:       
 ---
 
