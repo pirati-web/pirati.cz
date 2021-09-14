@@ -1,7 +1,7 @@
 ---
 date:         2021-09-14
 category:     blog
-tags:         zpráva evropská-unie stav-unie
+tags:         lidská-práva evropská-unie
 layout:       post
 title:        "Evropská komise dostatečně nechrání svobodu slova a právní státy, hodnotí stav unie pirátští europoslanci"
 image:        /assets/img/articles/2021/kolaja-peksa.jpg
