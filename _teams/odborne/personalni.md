@@ -2,12 +2,14 @@
 name: personální tým
 fullname: personální tým
 img: teams/personalni-tym.jpg
-vedoucí týmu: Jan Novák
+vedoucí týmu: Matěj Kubíček
 zástupci:
-- Barbora Hrůzová
+- Jakub Dedek
 - Zuzana Drázdová
 kontaktní osoba:
-- Jan Novák
+- Markéta Kafková
+- Linda Kašpárková
+- Markéta Marková
 region:
 - praha
 categories:
