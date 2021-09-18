@@ -2,10 +2,10 @@
 name: mediální tým
 fullname: mediální tým
 img: teams/medialni-tym.png
-vedoucí týmu: Mikuláš Ferjenčík
-zástupci:
+leader: mikulas.ferjencik
+deputy:
 - Adam Skořepa
-kontaktní osoba:
+contact:
 - Mikuláš Ferjenčík
 region:
 categories:

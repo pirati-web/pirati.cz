@@ -2,13 +2,13 @@
 name: analytický tým
 fullname: analytický tým
 img: teams/analyticky-tym.png
-vedoucí týmu: Marek Paris
+leader: Marek Paris
 zástupci:
--
--
-kontaktní osoba:
-- František Navrkal
-- Jan Novák
+- frantisek.navrkal
+
+contact:
+- frantisek.navrkal
+- jan.novák
 region: Praha
 categories:
 - strana

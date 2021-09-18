@@ -2,10 +2,10 @@
 name: administrativní tým
 fullname: administrativní tým
 img: teams/admini.jpg
-vedoucí týmu: Martin Kučera
-zástupci:
+leader: martin.kucera
+deputy:
 - Martin Kučera
-kontaktní osoba:
+contact:
 - Tobias Esner
 region: Praha
 categories:

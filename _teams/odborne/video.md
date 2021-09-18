@@ -2,12 +2,8 @@
 name: videotým
 fullname: videotým
 img: teams/video-tym.png
-vedoucí týmu: Matěj Šonka
-zástupci:
--
--
-kontaktní osoba:
-- Matěj Šonka
+leader: Matěj Šonka
+
 region: Praha
 categories:
 - strana

@@ -2,9 +2,11 @@
 name: kampaňový tým
 fullname: kampaňový tým
 img: teams/kampan.jpg
-vedoucí týmu: Barbora Hradečná
+leader: Barbora Hradečná
 categories:
 - strana
+contact:
+- Pavel Štěpánek
 uid: kampan
 facebook: https://www.facebook.com/piratskakampan/
 nadřízený tým: volební štáb

@@ -2,10 +2,10 @@
 name: parlamentní tým
 fullname: parlamentní tým
 img: teams/parlamentni-tym.png
-vedoucí týmu: Vít Šimral
-zástupci:
+leader: vit.simral
+deputy:
 - Jakub Michálek
-kontaktní osoba:
+contact:
 - Vít Šimral
 region:
 - praha

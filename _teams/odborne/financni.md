@@ -2,8 +2,8 @@
 name: finanční tým
 fullname: finanční tým
 img: teams/financni-tym.jpg
-vedoucí týmu: Jaromír Beránek
-zástupci:
+leader: lukas.cernohorsky
+deputy:
 - Tobias Esner
 - Jaromír Beránek
 - Petr Vileta
@@ -12,7 +12,7 @@ zástupci:
 - Martin Hrádela
 - Vojtěch Pikal
 - Petra Smutná
-kontaktní osoba:
+contact:
 - Tobias Esner
 region: Praha
 categories:

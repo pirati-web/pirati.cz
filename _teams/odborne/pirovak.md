@@ -6,8 +6,10 @@ forum: https://forum.pirati.cz/viewtopic.php?f=560&t=52147
 categories:
 - strana
 
-deputy:
+leader:
 - frantisek.elfmark
+deputy:
+
 contact-local:
   name: Tomáš Čabla
   mail: tomas.cabla@pirati.cz

@@ -2,11 +2,11 @@
 name: tým pro sociální sítě
 fullname: tým pro sociální sítě
 img: teams/socky.png
-vedoucí týmu: Mikuláš Ferjenčík
-zástupci:
+leader: mikulas.ferjencik
+deputy:
 - Ivan Bartoš
 - Martin Šmída
-kontaktní osoba:
+contact:
 - Mikuláš Ferjenčík
 region:
 categories:

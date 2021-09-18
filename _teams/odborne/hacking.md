@@ -2,11 +2,11 @@
 name: technický tým
 fullname: technický tým
 img: teams/technicky-tym.png
-vedoucí týmu: Ondřej Profant
-zástupci:
+leader: ondrej.profant
+deputy:
 - Stanislav Štipl
 - Zdeněk Kubala
-kontaktní osoba:
+contact:
 - Ondřej Profant
 region:
 - praha

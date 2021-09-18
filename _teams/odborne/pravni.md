@@ -2,12 +2,12 @@
 name: právní tým
 fullname: právní tým
 img: teams/pravni-tym.png
-vedoucí týmu: Jakub Michálek
-zástupci:
+leader: jakub.michalek
+deputy:
 - Adam Zábranský
 - Viktorie Kalhousová
 - Adam Kudrlička
-kontaktní osoba:
+contact:
 - Viktorie Kalhousová
 region:
 - praha
