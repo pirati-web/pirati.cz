@@ -19,12 +19,11 @@ profiles:
 ordzas: 5
 ordpre: 3
 ---
-Mgr. Viktor Tichák (* 12. ledna 1990) je členem MS Olomouc od r. 2018. Narodil se v Olomouci, žije v Olomouci a Ostravě.
 
-Po absolvování Slovanského gymnázia Olomouc vystudoval českou a německou filologii na Filozofické fakultě UP v Olomouci. V průběhu studia absolvoval semestr na Universität Bern ve Švýcarsku. Po magisterském studiu pokračuje v doktorském programu, t. č. v posledním ročníku oboru Německý jazyk. Jedno funkční období, tj. 3 roky, působil jako místopředseda Akademického senátu Filozofické fakulty UP a člen Ekonomické komise AS FF UP. V rámci vědecko-výzkumných projektů byl několikrát v zahraničí (Štýrský Hradec, Vídeň, Drážďany, Bad Kissingen, Atlanta, New Orleans). Jeho specializací je kontrastivní lingvistika, morfologie, slovotvorba, sémantika a vývoj jazyka.
+Mgr. Viktor Tichák, Ph.D. je členem Pirátů od r. 2018. Narodil se v Olomouci, žije v Olomouci a Ostravě.
 
-Kromě výuky a organizačních činností spojených s doktorským studiem působí jako tajemník Letní školy slovanských studií Olomouc, překládá, vede jazykové kurzy, píše a publikuje, kromě odborných článků také jazykové okénko časopisu [Listy](http://www.listy.cz).
+Je členem MS Olomouc a hostujícím členem MS Ostrava, předsedou krajského sdružení Olomouckého kraje, zastupitelem statutárního města Olomouce, předsedou Finančního výboru Zastupitelstva města Olomouce a členem Finančního výboru Zastupitelstva Olomouckého kraje. Mezi jeho politické zájmy patří především finance, dotační politika, řízení a kontroling příspěvkových organizací, transparence, kultura, výchova a vzdělávání.
 
-Mezi jeho zájmy patří politika, hudba (člen kroměřížského sboru ZeSrandy, pravidelný divák ostravské opery, jinak doma u klavíru), jazyky (kromě angličtiny a němčiny se učí maďarsky, italsky a francouzsky), turistika, cyklistika, cestování aj.
+  Po absolvování Slovanského gymnázia Olomouc vystudoval českou a německou filologii na Filozofické fakultě UP v Olomouci. Doktorský titul získal v oboru německá lingvistika. V průběhu studia absolvoval semestr na Universität Bern ve Švýcarsku. 3 roky působil jako místopředseda Akademického senátu Filozofické fakulty UP a člen Ekonomické komise AS FF UP. V rámci vědecko-výzkumných projektů byl několikrát v zahraničí (Štýrský Hradec, Vídeň, Drážďany, Bad Kissingen, Atlanta, New Orleans). Jeho specializací je kontrastivní lingvistika, morfologie, syntax, slovotvorba a sémantika. V současnosti je zaměstnán jako odborný asistent na Filozofické fakultě Univerzity Karlovy v Praze a jako vědecký pracovník na UP v Olomouci, kromě toho překládá, píše a publikuje, kromě odborných textů také jazykové okénko časopisu [Listy](http://www.listy.cz/).
 
-Politicky se hlásí k hodnotám liberální demokracie, v daných duelech (by) volil van der Bellena, Merkelovou, Clintonovou, Macrona a Drahoše.
+Mezi jeho zájmy patří politika, hudba (člen kroměřížského sboru ZeSrandy, pravidelný divák ostravské opery, jinak doma u klavíru), jazyky (kromě angličtiny a němčiny se učí maďarsky, italsky a francouzsky), turistika, cestování aj.
