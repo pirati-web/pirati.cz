@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí obchod-a-průmysl
 layout:       post
 title:        "Peníze na pomoc lidem, nikoliv na podporu uhlobaronů, reagují Piráti a Starostové na plány vicepremiéra Havlíčka"
-image:        /assets/img/articles/2021/lukas-wagenknecht00.jpg> 
+image:        /assets/img/articles/2021/lukas-wagenknecht00.jpg 
 author:       
 ---
 
