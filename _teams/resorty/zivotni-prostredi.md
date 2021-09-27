@@ -59,7 +59,7 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 
 V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde například o:
 * **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
-* **Týrání zvířat** vede Martin Archalous, kontaktní osoba: Martin Huňady (hunadym@psp.cz)
+* **Týrání zvířat** – kontaktní osoba: Martin Huňady (hunadym@psp.cz)
 * **PiroVaK** (skupina pro Vodovody a kanalizace) vede Tomáš Čabla (tomas.cabla@pirati.cz)
 * **Ústavní ochrana vody** vede Lukáš Blažej (lukas.blazej@pirati.cz)
 
