@@ -13,6 +13,7 @@ Praha, 29. září 2021 – Pirátská europoslankyně Markéta Gregorová dnes 
 > “Věřím, že jsem kromě dat v kampani představila i smysl pestré politiky jako takové. Za ty bezmála čtyři měsíce jsem se zúčastnila řady debat, online i z očí do očí, což byl ostatně jeden z mých cílů: diskuse je potřeba otevírat i u témat nad kterými není ve společnosti jasná shoda. A v těch diskusích jsem se snažila ani ne tak vnucovat ostatním svůj názor, ale slušnou debatou a s pomocí relevantních dat sejmout z některých témat punc kontroverze, která se na ně nalepila za ty roky vzájemných neporozumění,” ohlíží se za kampaní europoslankyně.
 
 Co všechno tedy kampaň stihla představit?
+
 ➡️ VIDEA
 * [Animovaný post “Politika pestřejší!”](https://www.youtube.com/watch?v=7IExRFp9NFo)
 * [Den v životě europoslankyně](https://www.youtube.com/watch?v=e9zUV3JrbVU&t=1s)
