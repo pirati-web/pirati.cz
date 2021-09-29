@@ -16,7 +16,7 @@ Co všechno tedy kampaň stihla představit?
 ➡️ VIDEA
 * [Animovaný post “Politika pestřejší!”](https://www.youtube.com/watch?v=7IExRFp9NFo)
 * [Den v životě europoslankyně](https://www.youtube.com/watch?v=e9zUV3JrbVU&t=1s)
-* [Záznam z debaty na Úřadu vlády ČR]() -> https://www.youtube.com/watch?v=ewYjHWIoPlw
+* [Záznam z debaty na Úřadu vlády ČR](https://www.youtube.com/watch?v=ewYjHWIoPlw)
 
 ➡️ PODCASTY
 * [Anna Gümplová](https://www.youtube.com/watch?v=dU1PNFI4-HM)
@@ -41,6 +41,6 @@ Co všechno tedy kampaň stihla představit?
 * [Už se vám toto stalo na pracovním pohovoru?](https://www.facebook.com/MEPGregorova/posts/2997335057207342)
 * [Co se nám tu rozmáhá za nešvar?](https://www.facebook.com/MEPGregorova/posts/3003053439968837)
 
-Kampaň byla financována z prostředků evropské frakce Greens/EFA. Oficiální web najdete na http://politikaprovsechny.eu/ a kampaň můžete sledovat na sociálních sítích Facebook, Twitter, Instagram.
+Kampaň byla financována z prostředků evropské frakce Greens/EFA. Oficiální web najdete na (http://politikaprovsechny.eu/) a kampaň můžete sledovat na sociálních sítích Facebook, Twitter, Instagram.
 
 [Grafické materiály ke kampani, loga a fotografie zde.](https://drive.google.com/drive/folders/1Me8iOmnTyM0IbWiA2g8dQGw3CjlfT-Ey?usp=sharing)
