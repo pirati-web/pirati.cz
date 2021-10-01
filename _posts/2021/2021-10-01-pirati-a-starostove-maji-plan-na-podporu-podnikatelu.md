@@ -4,7 +4,7 @@ category:     blog
 tags:         volby program podnikatelé podpora
 layout:       post
 title:        "Piráti a Starostové mají plán podpory pro začínající podnikatele"
-image:        /assets/img/articles/2019/wagenknecht98.png
+image:        /assets/img/articles/2019/lukas-wagenknecht1.jpg
 author:       
 ---
 
