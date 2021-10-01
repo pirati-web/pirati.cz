@@ -33,7 +33,7 @@ Zásadního zlepšení se mohou firmy dočkat v oblasti elektronizace, kde koali
 > „Stát nesmí firmám překážet. To ale nestačí, měl by jim i aktivně vycházet vstříc. Automatické hlídání lhůt zaručí, že úřady podnikatele nebudou překvapovat nesmyslnými pokutami z prodlení. Pro firmy také připravíme základní software, smluvní vzory či bezplatné technické normy, které po nich stát vyžaduje. Stát je tu pro občany a firmy, ne naopak,“ uzavírá pirátský poslanec Martin Jiránek. 
 
 
-Přehled opatření pro začínající podnikatele z dílny Pirátů a Starostů naleznete [ZDE](https://www.piratiastarostove.cz/strategicke-dokumenty/program-pro-podnikatele/?fbclid=IwAR1pvZE7JW4YRL4igRdzrI7FvHJNQpU4i1t13lpu3Z6y3XbeQAxas4KIYuU)
+Přehled opatření pro začínající podnikatele z dílny Pirátů a Starostů naleznete [ZDE](https://www.piratiastarostove.cz/strategicke-dokumenty/program-pro-podnikatele/?fbclid=IwAR1pvZE7JW4YRL4igRdzrI7FvHJNQpU4i1t13lpu3Z6y3XbeQAxas4KIYuU).
 
 
 
