@@ -1,7 +1,7 @@
 ---
 date:         2021-10-06
 category:     blog
-tags:         umělá-inteligence evropský-parlament lidská-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Žádné šmírování na veřejnosti: Pirátům se podařilo do zprávy Evropského parlamentu prosadit zákaz masového sledování lidí"
 image:        /assets/img/articles/2021/gregorova-kolaja.jpg
