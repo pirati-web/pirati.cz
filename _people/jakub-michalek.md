@@ -2,7 +2,7 @@
 data-version: 2
 uid: jakub.michalek
 name:                           Jakub Michálek  	# běžně používáné jméno
-fullname: 			Mgr. et Mgr. Jakub Michálek  # jméno s tituly etc.
+fullname: 			Mgr. et Mgr. Jakub Michálek, Ph.D.  # jméno s tituly etc.
 category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 - ga
@@ -19,7 +19,7 @@ asistenti:
     tel: +420 728 859 187
 profiles:
   github: https://github.com/jmichalek
-  facebook: https://www.facebook.com/smidak
+  facebook: https://www.facebook.com/pirat.michalek
   twitter: https://twitter.com/JakubMichalek19
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jakub%20mich%C3%A1lek&view_all=1
   psp: http://www.psp.cz/sqw/detail.sqw?id=6477
@@ -32,33 +32,23 @@ ordpsp: 1
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 redmine: 4
 mpv: 4
-calendar: 7lsuqerpg58a5pa63r8phu3c2k%40group.calendar.google.com
 carousel:
   img: jakub-michalek.jpg
   text: |
     <p><strong>Předseda poslaneckého klubu Pirátů</strong>, místopředseda ústavně právního výboru PSP ČR a poslanec Pirátů zodpovědný za oblast justice.</p>
-    <p>Mgr. et Mgr. Jakub Michálek vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
+    <p>Mgr. et Mgr. Jakub Michálek, Ph.D., vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
 ---
 
-Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů. Na Univerzitě Karlově vystudoval práva a teoretickou fyziku. Část střední školy studoval v zahraničí (UK, USA). 
+Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů. Na Univerzitě Karlově vystudoval teoretickou fyziku a doktorské studium teorie práva se zaměřením na jeho počítačové modelování. Část střední školy studoval v zahraničí (UK, USA). 
 
-V letech 2014-2017 byl šéfem zastupitelů za Piráty v Praze. Na pražském Magistrátu se věnoval řadě kauz: 
+Jsem předsedou poslaneckého klubu Pirátu ve sněmovně, předtím jsem vedl naše zastupitele na pražském magistrátu. Vždy jsem se zajímal o politiku a byl jsem znechucen tím, jak fungovaly konvenční politické strany a že zůstaly desítky let pozadu v minulosti, takže pak pro lidi nedělají, co by měly.
 
-* Podrobně se zabýval kauzami z doby primátora Pavla Béma, např. Opencard, nevýhodného pronájmu Škodova paláce a vyzval primátorku k podání žaloby. 
-* Upozornil na problém, že jsou sociální byty pronajímány soudcům a státním zástupcům a na potřebné se nedostává. 
-* Vytrvale vystupuje proti tzv. politickým trafikám a podílel se na návrhu pravidel pro řádné obsazování dozorčích rad a řízení městských společností. 
-* Podařilo se mu prosadit mimo jiné poskytování informací o mimořádných odměnách vysokých úředníků a digitalizaci majetkových přiznání zastupitelů, aby se už neztrácela. 
-* Jako první navrhl zákony k digitálním platformám (Uber, Airbnb). 
+Protože jsem vystudoval Matfyz, kde jsme řešili třeba černé díry či srážky částic, vadila mi na naší politice absence odborných analýz, bez kterých nelze správně komplexní společenské problémy řešit. To považuji za jednu z důležitých věcí, kterou jsme s Piráty přinesli do veřejného prostoru. Od našich lidí jako šéf klubu očekávám, že naše návrhy jsou podložené odbornými studiemi či analýzami a jsou konzultovány s odborníky.
 
-Na funkci pražského zastupitele rezignoval proto, aby se mohl plně věnoval práci poslance. 
+Za své největší úspěchy považuji přijetí několika protikorupčních norem, za což jsem dostal cenu za nejaktivnějšího poslance od Rekonstrukce státu. Je to právě korupce, která občanům nejvíce vadí. Prosadil jsem rozšíření působnosti zákona o registru smluv na polostátní ČEZ, pomohl jsem také prosadit zveřejňování koncových vlastníků u firem, které pobírají dotace či si půjčují od státu. Zlepšit přístup k informacím či zprůhlednit obsazování křesílek v dozorčích radách státních firem. 
 
-V říjnu 2017 byl zvolen poslancem jako lídr kandidátky v Praze, kde Piráti získali nejlepší výsledek ze všech krajů (17,5 %). 
+Jsem hlavně hrdý, že se nám podařilo správně předpovědět, že dorazí druhá vlna koronaviru, představili jsme sruzumitelný plán *Budoucnost řešíme teď*, jak se na tuto druhou vlnu během letních měsíců připravit, což bohužel vláda zanedbala. Také jsem pomohl prosadit změny, které pomohly v Praze regulovat přebujelý byznys Airbnb či moderní regulaci taxislužby. Spousta dalších dobrých návrhů ovšem spadla pod stůl, protože jsme na ně neměli většinu.
 
-Jako **předseda poslaneckého klubu**: 
+Mým cílem je, aby se fungování veřejné správy dostalo na západní úroveň, kdy se nekrade, na úřadech pracují kompetentní a motivovaní lidé, občan má servis a státní správa se jako celek posouvá kupředu.
 
-* zasadil o vznik vyšetřovací komise pro kauzu OKD, 
-* pomohl vydání Babiše justici mandátovým a imunitním výborem,
-* předložil návrh zákona na zveřejňování smluv ČEZu a dalších státních firem, 
-* předložil návrh zákona proti kumulaci více platů politiků u politiků s více funkcemi, 
-* vystupuje proti daňovým únikům a praní špinavých peněz pomocí vyváděcích struktur vytvářených advokáty,
-* spoluvytvářel návrh nominačního zákona, zejména jeho část o vlastnické politice, podle které stát jako vlastník řídí státní firmy.
+Pokud zrovna nepracuji, tak se věnuji četbě, relaxaci a v poslední době se také snažím trávit více času sportem, protože politika je jinak velmi sedavé zaměstnání. Blízko mám také k vědě, kde vedle doktorátu z teorie práva mám diplom z teoretické fyziky z Matfyzu.
