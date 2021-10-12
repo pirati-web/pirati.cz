@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda
 layout:       post
 title:        "Řešení rozpočtové krize či deagrofertizace státu – Piráti a Starostové se shodli na prioritách, které budou chtít ve vládě prosazovat"
-image:        /assets/img/articles/2021/ivan-bartos01.jpg
+image:        /assets/img/articles/2021/ivan-bartos-12-10.jpg
 author:       
 ---
 
