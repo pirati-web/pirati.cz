@@ -3,12 +3,12 @@ uid: kumulacefunkci
 name: Kumulace funkcí 
 fullname: Kumulace funkcí 
 img: teams/analytici/kumulace-funkci.jpg # obrázek nemusíte dodávat
-category: analytici
-leader: tomas.kopecny
+category: 
+leader: 
 contact-local:
-  name: Tomáš Kopečný
+  name: 
   mob:
-  mail: tomas.kopecny@pirati.cz
+  mail: 
   img: 
 redmine:
 forum:
