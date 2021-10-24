@@ -11,7 +11,7 @@ author:
 
  
 
-Praha, 14. listopadu 2021 – Piráti na Ministerstvu vnitra před pár týdny zaregistrovali svůj politický institut, a to jako zapsaný ústav. Nyní [hledají kandidáty](https://forum.pirati.cz/viewtopic.php?p=774960#p774960) do vedení institutu, ale i zájemce o působení v akademickém či dobrovolnickém kruhu. Institut π má především rozvíjet liberální ideologická východiska a soustředit se na dlouhodobý výhled pirátských politik i témat. Hlavními nástroji ústavu bude výzkumná, publikační, vzdělávací a kulturní činnost.
+Praha, 14. října 2021 – Piráti na Ministerstvu vnitra před pár týdny zaregistrovali svůj politický institut, a to jako zapsaný ústav. Nyní [hledají kandidáty](https://forum.pirati.cz/viewtopic.php?p=774960#p774960) do vedení institutu, ale i zájemce o působení v akademickém či dobrovolnickém kruhu. Institut π má především rozvíjet liberální ideologická východiska a soustředit se na dlouhodobý výhled pirátských politik i témat. Hlavními nástroji ústavu bude výzkumná, publikační, vzdělávací a kulturní činnost.
 
  
 
