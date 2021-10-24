@@ -32,7 +32,6 @@ ordrp: 3
 redmine: 69
 mpv: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
-calendar: vpfafrin%40gmail.com
 
 ---
 
