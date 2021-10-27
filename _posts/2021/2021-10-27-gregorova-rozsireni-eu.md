@@ -1,7 +1,7 @@
 ---
 date:         2021-10-27
 category:     blog
-tags:         europarlament budoucnost evropská-unie
+tags:         lidská-práva evropská-unie
 layout:       post
 title:        "„Dbát na lidská práva je nejen správné, ale taky účelné,“ řekla Gregorová na debatě o rozšiřování EU"
 image:        /assets/img/articles/2021/marketa-gregorova04.jpg
