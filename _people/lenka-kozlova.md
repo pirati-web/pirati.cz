@@ -6,9 +6,8 @@ fullname: Lenka Kozlová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - strednicechy
 - rv
-- psp
 img: people/lenka-kozlova.jpg   # 165 x 220
-description: poslankyně PSP ČR, členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - lenka.kozlova@pirati.cz
