@@ -5,9 +5,8 @@ name:     Mikuláš Ferjenčík  	# běžně používáné jméno
 fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mo-contact
-- psp
 img: people/mikulas-ferjencik.jpg   # 165 x 220
-description: poslanec PSP ČR za Pardubický kraj a vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
+description: člen mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - mikulas.ferjencik@pirati.cz
