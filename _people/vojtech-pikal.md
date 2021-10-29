@@ -5,9 +5,8 @@ name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
-- psp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: 5. místopředseda sněmovny, 2. místopředseda Pirátů # kratký popis, max 160 znaků
+description: 2. místopředseda Pirátů # kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
