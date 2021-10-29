@@ -5,9 +5,8 @@ name:     Lukáš Kolářík  	# běžně používáné jméno
 fullname: Lukáš Kolářík  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - jck
-- psp
 img: people/lukas-kolarik.jpg   # 165 x 220
-description: poslanec PSP ČR za Jihočeský kraj           	# kratký popis, max 160 znaků
+description: hospodský, exposlanec PSP ČR za Jihočeský kraj           	# kratký popis, max 160 znaků
 ordpsp: 5
 direct-contact: false
 mail:
