@@ -4,9 +4,8 @@ uid: ondrej.polansky
 name:     Ondřej Polanský  	# běžně používáné jméno
 fullname: Ondřej Polanský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- psp
 img: people/ondrej-polansky.jpg   # 165 x 220
-description: poslanec PSP ČR za Moravskoslezský kraj            	# kratký popis, max 160 znaků
+description: exposlanec PSP ČR za Moravskoslezský kraj            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - ondrej.polansky@pirati.cz
