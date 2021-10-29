@@ -5,9 +5,8 @@ name:     Dana Balcarová  	# běžně používáné jméno
 fullname: Ing. Dana Balcarová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
-- psp
 img: people/dana-balcarova.jpg   # 165 x 220
-description: poslankyně PS PČR             	# kratký popis, max 160 znaků
+description: členska Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
