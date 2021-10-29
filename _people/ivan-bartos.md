@@ -30,7 +30,7 @@ asistenti:
 ordrp: 1
 ordcar: 1
 ordga: 3
-ordpsp: 6
+ordpsp: 3
 report: 1Vm9V6BS0Yaeop1W09jSeLsBoFaWEGpJ_
 redmine: 157
 mpv: 157
