@@ -6,9 +6,8 @@ fullname: František Kopřiva  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - strednicechy
-- psp
 img: people/frantisek-kopriva-2020.jpg   # 165 x 220
-description: poslanec PS PČR, místopředseda výboru pro evropské záležitosti, delegát do Parlamentního shromáždění Rady Evropy             	# kratký popis, max 160 znaků
+description: člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - frantisek.kopriva@pirati.cz
