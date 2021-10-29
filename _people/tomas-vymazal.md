@@ -4,9 +4,8 @@ uid: tomas.vymazal
 name:     Tomáš Vymazal  	# běžně používáné jméno
 fullname: Tomáš Vymazal  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
 img: people/tomas-vymazal.jpg   # 165 x 220
-description: poslanec PSP ČR za Jihomoravský kraj          	# kratký popis, max 160 znaků
+description: exposlanec PSP ČR za Jihomoravský kraj          	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - vymazalt@psp.cz
