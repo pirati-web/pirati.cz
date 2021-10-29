@@ -5,9 +5,8 @@ name:     František Elfmark  	# běžně používáné jméno
 fullname: František Elfmark  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
-- psp
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: poslanec PSP ČR za Zlínský kraj, zatupitel města Uherské Hradiště            	# kratký popis, max 160 znaků
+description: zatupitel města Uherské Hradiště            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - elfmarkf@psp.cz
