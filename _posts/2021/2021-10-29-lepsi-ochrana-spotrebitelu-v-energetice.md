@@ -4,7 +4,7 @@ category:     blog
 tags:         energetika 
 layout:       post
 title:        "Piráti přicházejí s návrhy na lepší ochranu spotřebitelů v energetice. Inspiraci čerpají v bankovnictví a v telekomunikacích"
-image:        /assets/img/articles/2021/2019/tresnak-richterova.jpg
+image:        /assets/img/articles/2019/tresnak-richterova.jpg
 author:       
 ---
 
