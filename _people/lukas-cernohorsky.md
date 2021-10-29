@@ -5,9 +5,8 @@ name:     Lukáš Černohorský  	# běžně používáné jméno
 fullname: Ing. Lukáš Černohorský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - moravskoslezsko
-- psp
 img: people/lukas-cernohorsky.jpg   # 165 x 220
-description: poslanec za Moravskoslezský kraj           	# kratký popis, max 160 znaků
+description: exposlanec za Moravskoslezský kraj           	# kratký popis, max 160 znaků
 ordpsp: 2
 mail:
 - lukas.cernohorsky@pirati.cz
