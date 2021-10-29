@@ -5,9 +5,8 @@ name:     Jan Lipavský  	# běžně používáné jméno
 fullname: Jan Lipavský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
-- psp
 img: people/jan-lipavsky.jpg   # 165 x 220
-description: poslanec PSP ČR, člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - jan.lipavsky@pirati.cz
