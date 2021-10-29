@@ -28,20 +28,20 @@ img: brand/logo.svg
                                                             <label for="group1">Předsednictvo strany</label>
                                                         </li>
                                                         <li>
-                                                            <input type="checkbox" name="group[]" id="group7" value="">
-                                                            <label for="group7">Europoslanci a europoslankyně</label>
-                                                        </li>
-                                                        <li>
                                                             <input type="checkbox" name="group[]" id="group6" value="">
                                                             <label for="group6">Poslanci a poslankyně</label>
                                                         </li>
                                                         <li>
-                                                            <input type="checkbox" name="group[]" id="group2" value="">
-                                                            <label for="group2">Starostové, primátoři, hejtmani</label>
+                                                            <input type="checkbox" name="group[]" id="group7" value="">
+                                                            <label for="group7">Europoslanci a europoslankyně</label>
                                                         </li>
                                                         <li>
                                                             <input type="checkbox" name="group[]" id="group3" value="">
                                                             <label for="group3">Senátoři s podporou Pirátů</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group2" value="">
+                                                            <label for="group2">Starostové, primátoři, hejtmani</label>
                                                         </li>
                                                         <li class="spacer"></li>
                                                         <li>
@@ -66,19 +66,19 @@ img: brand/logo.svg
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#euro" class="c-simple-accordion-title">Europoslanci</a>
-                                    <div id="euro" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'euro'" | sort:"ordeuro" %}
+                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                    <a href="#snemovna" class="c-simple-accordion-title">Poslankyně a poslanci</a>
+                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#snemovna" class="c-simple-accordion-title">Poslanci a poslankyně</a>
-                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#euro" class="c-simple-accordion-title">Europoslanci a europoslankyně</a>
+                                    <div id="euro" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'euro'" | sort:"ordeuro" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
