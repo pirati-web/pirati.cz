@@ -2,12 +2,11 @@
 data-version: 2
 uid: lukas.barton
 name:     Lukáš Bartoň  	# běžně používáné jméno
-fullname: Lukáš Bartoň  	# jméno s tituly etc.
+fullname: Ing. Lukáš Bartoň, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - plk
-- psp
 img: people/lukas-barton.jpg   # 165 x 220
-description: poslanec PSP ČR za Plzeňský kraj, předseda krajského sdružení Plzeňský kraj            	# kratký popis, max 160 znaků
+description: předseda krajského sdružení Plzeňský kraj            	# kratký popis, max 160 znaků
 ordpsp: 11
 direct-contact: true
 mail:
