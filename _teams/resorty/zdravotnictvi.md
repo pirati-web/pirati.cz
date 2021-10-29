@@ -55,7 +55,7 @@ Tým se schází podle potřeby, většinou přímo v Poslanecké sněmovně.
 * **Adam Janek**, člen dozorčí rady VZP
 * **[Josef Pavlovic](https://karlovarsky.pirati.cz/lide/josef-pavlovic/)**, vedoucí zdravotního týmu
 * **[Bára Malíková](https://www.pirati.cz/lide/bara-malikova/)**, stálá členka týmu zdravotnictví
-* **[Jan Novák]**, stálý člen týmu zdravotnictví
+* **Jan Novák**, stálý člen týmu zdravotnictví
 * **[Marek Paris](https://wiki.pirati.cz/lide/marek.paris)**, expert na problematiku zdravotnictví
 * **[Ágnes Němečková](https://www.facebook.com/375868542113/posts/10159106612697114/)**, stálá členka týmu zdravotnictví pro oblast práv pacientů
 
