@@ -9,7 +9,7 @@ author:
 ---
 
 
-Praha, 27. října – Začlenění dlouhodobě nezaměstnaných do pracovního trhu je primární ambicí připravovaného zákona o integračním sociálním podnikání. Společně na něm pracuje poslankyně Olga Richterová, senátorka Adéla Šípová a skupiny sociálních podniků Kolibřík CSR a Etincelle o.s. Nový legislativní rámec rozšíří působnost sociálních podniků nad rámec zaměstnávání hendikepovaných o pomoc maminkám po rodičovské, lidí v předdůchodovém věku, bezdomovcům nebo propuštěným vězňům. Přípravu zákona provází plánovaná setkání se zástupci sociálních podniků a zaměstnaneckých skupin. První proběhlo v pondělí v Senátu pod záštitou senátorského klubu SEN 21 a Piráti.
+Praha, 27. října – Začlenění dlouhodobě nezaměstnaných do pracovního trhu je primární ambicí připravovaného zákona o integračním sociálním podnikání. Společně na něm pracuje poslankyně Olga Richterová, senátorka Adéla Šípová a skupiny sociálních podniků Kolibřík CSR a Etincelle o.s. Nový legislativní rámec rozšíří působnost sociálních podniků nad rámec zaměstnávání hendikepovaných o pomoc maminkám po rodičovské, lidí v předdůchodovém věku, osobám bez domova nebo propuštěným vězňům. Přípravu zákona provází plánovaná setkání se zástupci sociálních podniků a zaměstnaneckých skupin. První proběhlo v pondělí v Senátu pod záštitou senátorského klubu SEN 21 a Piráti.
 
 Setkání u kulatého stolu, kterého se zúčastnili zástupci oborů sociálního zemědělství, facility, B2B, zákaznická centra, výroby a obchodu, gastronomie a také zákonodárci, ocenili všichni přítomní. Kromě diskuze o návrhu nového zákona také společně vyhodnotili dotazníky vyplněné zástupci oborů sociálního podnikání, které přispějí ke kvalitnějšímu znění zákona.
 
