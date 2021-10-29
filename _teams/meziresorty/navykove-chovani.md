@@ -31,7 +31,7 @@ Vítejte na stránce pirátského týmu zabývajícího se problematikou návyko
 
 Podali jsme návrh na legislativní změnu umožňující dospělým občanům pěstovat a zpracovat beztrestně 5 rostlin konopí (více informací najdete na 
 [regulacekonopi.cz](https://regulacekonopi.cz/)).
-Naše další aktivity můžete sledovat mimo jiné na našem týmovém webu: [Naše návrhy](https://navykovi.pirati.cz/nase-navrhy/), [Média](https://navykovi.pirati.cz/media/) a [Interpelace](https://navykovi.pirati.cz/interpelace/).
+Naše další aktivity můžete sledovat mimo jiné na našem týmovém webu: [Naše návrhy](https://navykovi.pirati.cz/nase-navrhy/), [Média](https://navykovi.pirati.cz/nase-vystupy/) a [Interpelace](https://navykovi.pirati.cz/interpelace/).
 
 #### Na čem pracujeme?
 
