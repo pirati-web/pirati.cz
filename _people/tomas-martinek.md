@@ -4,9 +4,8 @@ uid: tomas.martinek
 name:     Tomáš Martínek  	# běžně používáné jméno
 fullname: Ing. Tomáš Martínek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- psp
 img: people/tomas-martinek.jpg   # 165 x 220
-description: poslanec PSP ČR za Liberecký kraj         	# kratký popis, max 160 znaků
+description: exposlanec PSP ČR za Liberecký kraj         	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - tomas.martinek@pirati.cz
