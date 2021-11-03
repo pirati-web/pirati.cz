@@ -54,7 +54,7 @@ V této oblasti pracujeme jak na možnostech jak EU zlepšit, tak sledujeme jak�
 
 ### Lidská práva
 
-Piráti se staví za lidská práva ve světě i doma. Pokud chcete pracovat na jejich ochraně nebo máte vlastní námět, ozvěte se nám. Zodpovědným poslancem je František Kopřiva, kontaktní osobou Tomáš Guth Jarkovský (<tomas.guth.jarkovsky@pirati.cz>).
+Piráti se staví za lidská práva ve světě i doma. Pokud chcete pracovat na jejich ochraně nebo máte vlastní námět, ozvěte se nám. Zodpovědným  je František Kopřiva, kontaktní osobou Tomáš Guth Jarkovský (<tomas.guth.jarkovsky@pirati.cz>).
 
 ### Transatlantické vztahy
 
@@ -74,7 +74,7 @@ Naším cílem je armáda jako přísně kontrolovaná a výkonná součást na�
 
 ### Rozvojová spolupráce a humanitární pomoc
 
-V dnešním propojeném globalizovaném světě mají humanitární katastrofy celosvětové dopady, které se často promítnou i u nás. Piráti považují rozvojovou spolupráci a humanitární pomoc za plnohodnotnou investici do ekonomiky, bezpečnosti, a diplomatických vztahů. Zodpovědným poslancem je František Navrkal, kontaktní osobou Lukáš Bartík (<bartikl@psp.cz>)
+V dnešním propojeném globalizovaném světě mají humanitární katastrofy celosvětové dopady, které se často promítnou i u nás. Piráti považují rozvojovou spolupráci a humanitární pomoc za plnohodnotnou investici do ekonomiky, bezpečnosti, a diplomatických vztahů. Zodpovědným  je František Navrkal, kontaktní osobou Lukáš Bartík (<bartikl@psp.cz>)
 
 ### Rada Evropy
 
@@ -93,14 +93,14 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 
 Členové týmu jsou:
 
-* **[František Kopřiva](/lide/frantisek-kopriva)**, poslanec, místopředseda [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro rozvojovou spolupráci
+* **[František Kopřiva](/lide/frantisek-kopriva)**, předchozí místopředseda [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), předchozí člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro rozvojovou spolupráci
 * **[Marcel Kolaja](/lide/marcel-kolaja)**, místopředseda Evropského parlamentu
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
 * **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně
-* **[Jan Lipavský](/lide/jan-lipavsky)**, poslanec, místopředseda [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300) a místopředseda [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000), člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro obrannou, kybernetickou a bezpečnostní politiku a strategické koncepce ČR
-* **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, poslanec, člen [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), člen Podvýboru pro evropské fondy a přeshraniční spolupráci
-* **[Petr Třešňák](/lide/petr-tresnak)**, poslanec, člen [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000)
-* **[František Navrkal](/lide/frantisek-navrkal)**, poslanec, člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), člen Podvýboru pro rozvojovou spolupráci
+* **[Jan Lipavský](/lide/jan-lipavsky)**, předchozí místopředseda [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300) a místopředseda [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000), předchozí člen Podvýboru pro migraci a azylovou politiku a Podvýboru pro obrannou, kybernetickou a bezpečnostní politiku a strategické koncepce ČR
+* **[Lukáš Černohorský](/lide/lukas-cernohorsky)**, předchozí člen [Výboru pro evropské záležitosti](https://www.psp.cz/sqw/hp.sqw?k=500), předchozí člen Podvýboru pro evropské fondy a přeshraniční spolupráci
+* **[Petr Třešňák](/lide/petr-tresnak)**, předchozí člen [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000)
+* **[František Navrkal](/lide/frantisek-navrkal)**,předchozí  člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), předchozí člen Podvýboru pro rozvojovou spolupráci
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
 * **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alexandr Mansurov**, asistent Františka Kopřivy
