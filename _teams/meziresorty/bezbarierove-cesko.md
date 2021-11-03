@@ -53,7 +53,7 @@ Zapojit se můžete i na [Facebooku](https://www.facebook.com/groups/30743146006
 
 Členové týmu:
 
-* [Radek Holomčík](/lide/radek-horomcik/), poslanec
+* [Radek Holomčík](/lide/radek-holomcik/), poslanec v letech 2017-2021
 * **Michal Prager**, radní pro sociální věci a zdravotnictví MČ Praha 14
 * **Olga Richterová**, místopředsedkyně výboru pro sociální politiku, členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, členka podvýboru pro sociálně zdravotní pomezí
 * **Jaroslav Hořejší**, člen krajského expertního týmu zdravotnictví a sociální věci Pirátské strany v Moravskoslezském kraji
