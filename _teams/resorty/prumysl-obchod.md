@@ -50,9 +50,9 @@ Fungování týmu
 Tým se schází pravidelně v úterý ve 14.00 před jednáním hospodářského výboru v PSP (3. a 5. týden sněmovního harmonogramu).
 
 Členové týmu jsou:
-* **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, vedoucí týmu a gesční poslanec, člen [Podvýboru pro energetiku](http://www.psp.cz/sqw/hp.sqw?k=3521)
-* **[Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek/)**, poslanec odpovědný za oblast průmyslu a obchodu, místopředseda [Hospodářského výboru](http://www.psp.cz/sqw/hp.sqw?k=3500&o=8), předseda [Podvýboru pro ICT, telekomunikace a digitální ekonomiku](http://www.psp.cz/sqw/hp.sqw?k=3528&o=8), místopředseda [Podvýboru pro ochranu spotřebitele](http://www.psp.cz/sqw/hp.sqw?k=3527&o=8)
-* **Josef Pavlovic**, asistent poslance Petra Třešňáka
-* **Petr Pleticha**, asistent resortního týmu a poslance Martina Jiránka
+* **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, vedoucí týmu a předchozí člen [Podvýboru pro energetiku](http://www.psp.cz/sqw/hp.sqw?k=3521)
+* **[Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek/)**, odpovědný za oblast průmyslu a obchodu, předchozí místopředseda [Hospodářského výboru](http://www.psp.cz/sqw/hp.sqw?k=3500&o=8), předchozí předseda [Podvýboru pro ICT, telekomunikace a digitální ekonomiku](http://www.psp.cz/sqw/hp.sqw?k=3528&o=8), předchozí místopředseda [Podvýboru pro ochranu spotřebitele](http://www.psp.cz/sqw/hp.sqw?k=3527&o=8)
+* **Josef Pavlovic**, asistent Petra Třešňáka
+* **Petr Pleticha**, asistent resortního týmu a Martina Jiránka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Rozpočtového výboru a resortního týmu dopravy).
