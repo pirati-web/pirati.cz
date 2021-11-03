@@ -58,8 +58,8 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 
 
 Členové týmu
-- **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** – poslanec zodpovědný za oblast financí
-- **[Tomáš Martínek](/lide/tomas-martinek)** – poslanec rozpočtového výboru
+- **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** –  zodpovědný za oblast financí
+- **[Tomáš Martínek](/lide/tomas-martinek)** – předchozí člen rozpočtového výboru
 - **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)** – senátor za Piráty
 
 
@@ -68,10 +68,10 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 - **Otakar Cejnar** - člen Pirátů, projektový manažer a ekonom s dlouhodobou zkušeností z mezinárodních institucí
 - **Jan Černý** - člen Pirátů, zastupitel Úval
 - **Libor Dušek** - ekonom, vedoucí katedry národního hospodářství na PF UK. 
-- **Lukáš Forýtek** –asistent poslance Tomáše Martínka
+- **Lukáš Forýtek** –asistent Tomáše Martínka
 - **Jan Hřebíček** - daňař a podnikatel
 - **Aleš Chán** - člen Pirátů, podnikatel a finanční ředitel společnosti v kulturním sektoru
-- **Daniel Kolář** - asistent poslance Ondřeje Profanta, koordinátor pracovní skupiny veřejné zakázky.
+- **Daniel Kolář** - asistent Ondřeje Profanta, koordinátor pracovní skupiny veřejné zakázky.
 - **Tomáš Kopečný** – ekonomický analytik poslaneckého klubu
 - **Ondřej Kolínský** - ekonom a konzultant pro oblast životního prostředí
 - **Antonino Milicia** - příznivce Pirátů, Brno, manažer a VŠ lektor
