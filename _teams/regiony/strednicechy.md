@@ -31,7 +31,7 @@ MS Benešov, MS Příbram, MS Brandýs nad Labem/Stará Boleslav, MS Mladá Bole
 
 ### Možnosti zapojení
 
-Využíváme Pirátské centrum v Praze, nicméně se pravidelně scházíme po celém kraji. Schůze jsou vždy v kalendáři níže a jste na ně zváni. Dále pravidelně pořádáme "Pivo s poslancem", za náš kraj to jsou Lenka Kozlová a František Kopřiva. 
+Využíváme Pirátské centrum v Praze, nicméně se pravidelně scházíme po celém kraji. Schůze jsou vždy v kalendáři níže a jste na ně zváni.  
 
 <iframe src="https://calendar.google.com/calendar/embed?src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe/Prague" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 
