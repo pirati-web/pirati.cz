@@ -24,7 +24,7 @@ twitter: https://twitter.com/piratiOlomoucko
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Pirátským poslancem za Olomoucký kraj je [Vojtěch Pikal]({{ '/lide/vojtech-pikal' | relative_url }}).
+Předchozím Pirátským poslancem za Olomoucký kraj je [Vojtěch Pikal]({{ '/lide/vojtech-pikal' | relative_url }}).
 V Majetíně je pirátským zastupitelem [Martin Šmída]({{ '/lide/martin-smida' | relative_url }}). Prostějovskými zastupiteli za Piráty jsou [Petr Kapounek]({{ '/lide/petr-kapounek' | relative_url }}) a [Petr Lysek](https://olomoucky.pirati.cz/lide/petr-lysek/). Olomouckými zastupiteli jsou Piráti [Hynek Melichar](https://olomoucky.pirati.cz/lide/hynek-melichar/), [Viktor Tichák](https://olomoucky.pirati.cz/lide/viktor-tichak/) a [Jakub Knápek](https://olomoucky.pirati.cz/lide/jakub-knapek/).
 
 Petr Kapounek působí též v krajské komisi pro informatiku.
