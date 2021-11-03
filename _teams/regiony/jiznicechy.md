@@ -25,9 +25,7 @@ forum: https://forum.pirati.cz/jihocesky-kraj-f90/
 ---
 
 V Jihočeském kraji máme v jednotlivých městech a obcích 30 zastupitelů, Nejlepšího výsledku dosáhla samostatná kandidátka Pirátů v Soběslavi: 17,21%, dále potom v Písku 15,33% a v Českých Budějovicích 12,19 %. Piráti jsou zastoupeni čtyřmi zastupiteli v Soběslavi, pěti v Písku, šesti v Českých Budějovicích, čtyřmi v Táboře, dvěma v Týně nad Vltavou a dvěma v Jindřichově Hradci. Mnoho dalších je potom na společných kandidátkách například v Třeboni, Srubci, Hluboké nad Vltavou apod.
-
-V Poslanecké sněmovně je poslancem za Jihočeský kraj Lukáš Kolařík.
-
+ 
 Chcete-li se dozvědět více o jihočeském sdružení Pirátů, nebo se zapojit do jeho akcí, kontaktujte Kláru Bidařovou (klara.bidarova@pirati.cz, tel.: 770199948) Nezapomeňte se [nalodit](https://nalodeni.pirati.cz/) na palubu!
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
