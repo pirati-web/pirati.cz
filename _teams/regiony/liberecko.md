@@ -26,7 +26,7 @@ twitter: https://twitter.com/piratilik
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme poslance [Tomáše Martínka]({{ '/lide/tomas-martinek/' | relative_url }}) a zastupitele v Jablonci nad Nisou, České Lípě, Turnově, Železném Brodě, Semilech a Pulečným, viz. [lidé v libereckém kraji](https://liberecky.pirati.cz/lide/).
+Máme  zastupitele v Jablonci nad Nisou, České Lípě, Turnově, Železném Brodě, Semilech a Pulečným, viz. [lidé v libereckém kraji](https://liberecky.pirati.cz/lide/).
 
 V kraji existují dvě místní sdružení - Jablonec nad Nisou a Českolipsko.
 
