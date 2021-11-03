@@ -28,7 +28,6 @@ twitter: https://twitter.com/Pirati_KaKr
 V radě Karlovarského kraje zasedá Ing. Josef Janů, v krajském zastupitelstvu ho doplňují Ing. arch. Vojtěch Franta (uvolněný zastupitel) a Markéta Monsportová  - historicky první pirátská zastupitelka v krajském zastupitelstvu. 
  
 Dále máme pirátského starostu v Mariánských Lázních - Ing. Martina Kalinu, kde jej doplňují další zastupitelé a radní (Bc. et Bc. Karolina Vejmělková, Bc. Josef Pavlovic, Lukáš Jadlovský, Ing. Petr Třešňák, Martin Sasko)
-Za Mariánské Lázně máme v Parlamentu České Republiky svého zástupce - Ing. Petra Třešňáka, původního starostu Mariánských Lázních a nyní poslance, místopředsedu výboru pro zdravotnictví a další. (více informací na webu psp.cz nebo pirati.cz) 
  
 V Lokti máme také pirátského starostu - Ing. Mgr. Petra Adamce, dále radního Romana Kvaka a zastupitele Mgr. Vítězslava Adamce, DiS.
  
