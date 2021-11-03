@@ -63,9 +63,9 @@ Fungování týmu
 
 Členové základního týmu jsou:
 
-* Lukáš Bartoň, poslanec zodpovědný za vysoké školy a výzkum
-* Lenka Kozlová, poslankyně zodpovědná za regionální školství
-* Mikuláš Ferjenčík, člen výboru pro regionální školství
+* Lukáš Bartoň,  zodpovědný za vysoké školy a výzkum
+* Lenka Kozlová,  zodpovědná za regionální školství
+* Mikuláš Ferjenčík, předchozí člen výboru pro regionální školství
 * Daniel Mazur, garant programového bodu školství a asistent Lukáše Bartoně
 * David Wagner, asistent Lenky Kozlové
 
