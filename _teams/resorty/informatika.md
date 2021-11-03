@@ -52,8 +52,8 @@ Tým se schází podle potřeby, většinou přímo v poslanecké sněmovně. Za
 
 Členové týmu jsou:
 
-* **[Ondřej Profant](/lide/ondrej-profant)**, poslanec zodpovědný za oblast informatiky, předseda podvýboru pro e-government.
-* **[Tomáš Martínek](/lide/tomas-martinek)**, poslanec, člen podvýboru pro e-government
+* **[Ondřej Profant](/lide/ondrej-profant)**, zodpovědný za oblast informatiky, předchozí předseda podvýboru pro e-government.
+* **[Tomáš Martínek](/lide/tomas-martinek)**, předchozí člen podvýboru pro e-government
 * **Bára Soukupová**: egovernment specialistka klubu Pirátů
 * **Jan Hamal Dvořák**: IT veřejná správa, linuxový admin, asistent O. Profanta
 * **Michal Bláha**
