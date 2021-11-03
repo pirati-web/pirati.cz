@@ -60,10 +60,10 @@ Fungování týmu
 Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Martin Huňady.
 Členové týmu jsou:
 * **[Jiří Lehejček](https://www.pirati.cz/lide/jiri-lehejcek/)**, vedoucí týmu - zaštiťuje [zemědělský program](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
-* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
-* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
-* Martin Huňady, politolog, asistent poslance Jana Pošváře
-* Jiří Valenta, právník, asistent poslance Radka Holomčíka
+* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, předchozí místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), předchozí člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
+* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, předchozí člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), předchozí člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
+* Martin Huňady, politolog, asistent  Jana Pošváře
+* Jiří Valenta, právník, asistent  Radka Holomčíka
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Výboru pro životní prostředí, Hospodářského výboru a Rozpočtového výboru).
 
