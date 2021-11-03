@@ -38,15 +38,15 @@ Koordinátor
 --------------------
 
 
-* **[Dana Balcarová](https://danabalcarova.cz/)** -- poslankyně parlamentu ČR, předsedkyně Výboru pro životní prostředí, zastupitelka na Praze 9
+* **[Dana Balcarová](https://danabalcarova.cz/)** -- předchozí předsedkyně Výboru pro životní prostředí, zastupitelka na Praze 9
 
-* **[Radek Holomčík](https://jihomoravsky.pirati.cz/lide/radek-holomcik/)** -- poslanec parlamemntu ČR, člen Zemědělského výboru, věnuje se tématu dlohodobý boj se suchem
+* **[Radek Holomčík](https://jihomoravsky.pirati.cz/lide/radek-holomcik/)** -- předchozí člen Zemědělského výboru, věnuje se tématu dlohodobý boj se suchem
 
-* **[František Elfmark](https://www.frantisekelfmark.cz/)** -- poslanec parlamentu ČR, člen Výboru pro životní prostředí, člen vyšetřovací komise k ekologické katastrofě na řece Bečvě, věnuje se tématům odpadové a oběhové hospodářství
+* **[František Elfmark](https://www.frantisekelfmark.cz/)** -- předchozí Výboru pro životní prostředí, člen vyšetřovací komise k ekologické katastrofě na řece Bečvě, věnuje se tématům odpadové a oběhové hospodářství
 
 * **[Daniel Lebduška](https://pardubicky.pirati.cz/lide/daniel-lebduska/)** -- zastupitel města Chrudim, zaměřuje se na problematiku privatizace městských vodárenských společností
 
-* **Jiří Valenta** -- asistent resortního týmu a poslance Mikuláše Ferjenčíka
+* **Jiří Valenta** -- asistent resortního týmu a Mikuláše Ferjenčíka
 
 * **[Vít Rous](https://lide.pirati.cz/personProfile/601/)** -- krajinný inženýr  se zaměřením na přírodě blízká řešení ve vodním hospodářství.
 
