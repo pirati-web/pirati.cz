@@ -57,8 +57,8 @@ Za přípravu agendy setkání zodpovídá Janka Michailidu. Členové týmu jso
 - [Michaela Nepejchalová](https://lide.pirati.cz/personProfile/531/), sociální pracovnice, studentka adiktologie
 - [Petr Konečný](https://lide.pirati.cz/personProfile/1427/), sociální pracovník, člen komise pro prevenci kriminality a drogových závislostí Olomouckého kraje
 - [Martin Boxan](https://lide.pirati.cz/personProfile/1892/), vedoucí pracovník NNO, kouč, supervizor
-- [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), poslanec soustředící se na agendu prevence rizikového návykového chování
-- Ondřej Klíma, asistent poslance Tomáše Vymazala
+- [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), soustředící se na agendu prevence rizikového návykového chování
+- Ondřej Klíma, asistent Tomáše Vymazala
 
 Operativu řeší tým na pirátském [Zulipu](https://zulip.pirati.cz) ve vlákně Návykové chování.
 
