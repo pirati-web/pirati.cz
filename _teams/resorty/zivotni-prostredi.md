@@ -39,14 +39,14 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 
 
 ### Složení týmu:
-* **[Dana Balcarová](/lide/dana-balcarova)**, poslankyně, předsedkyně Výboru pro životní prostředí, členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
-* **[František Elfmark](/lide/frantisek-elfmark)**, poslanec, člen Výboru pro životní prostředí, předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
+* **[Dana Balcarová](/lide/dana-balcarova)**, ppředchozí předsedkyně Výboru pro životní prostředí, předchozí členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
+* **[František Elfmark](/lide/frantisek-elfmark)**, předchozí člen Výboru pro životní prostředí, předchozí předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec Evropského parlamentu, člen frakce Zelených/Evropské svobodné aliance
 * **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**, senátor za obvod Praha 8, člen senátního Výboru pro územní rozvoj, veřejnou správu a životní prostředí
 * **[Lukáš Blažej](/lide/lukas-blazej)**, vedoucí Resortního týmu Životní prostředí,
 * **Jiří Lehejček**, vedoucí Resrotního týmu Zemědělství,
-* **Nikola Havlová**, odborná asistentka poslankyně Dany Balcarové,
-* **Jana Míšková**, odborná asistentka poslance Františka Elfmarka.
+* **Nikola Havlová**, odborná asistentka Dany Balcarové,
+* **Jana Míšková**, odborná asistentka Františka Elfmarka.
 
 
 
@@ -57,13 +57,7 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 * [web výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600)
 
 
-V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde například o:
-* **Odpady** vede František Elfmark, kontaktní osoba: Jakub Brejša (BrejsaJ@psp.cz)
-* **Týrání zvířat** – kontaktní osoba: Martin Huňady (hunadym@psp.cz)
-* **PiroVaK** (skupina pro Vodovody a kanalizace) vede Tomáš Čabla (tomas.cabla@pirati.cz)
-* **Ústavní ochrana vody** vede Lukáš Blažej (lukas.blazej@pirati.cz)
 
- <br> <br> <br>
 
 # Resortní tým pro životní prostředí
 
@@ -73,7 +67,7 @@ V rámci PSP fungují i dočasné pracovní skupiny, k září 2020 jde napřík
 ### Členy týmu jsou:
 
 * [Lukáš Blažej](/lide/lukas-blazej), vedoucí týmu a kontaktní osoba,
-* [Dana Balcarová](/lide/dana-balcarova/), poslankyně a předsedkyně Výboru pro životní prostředí PSP,
+* [Dana Balcarová](/lide/dana-balcarova/), předchozí předsedkyně Výboru pro životní prostředí PSP,
 * vedoucí [krajských expertních týmů](https://forum.pirati.cz/viewforum.php?f=1137) životního prostředí,
 * Martin Šmída, specialista na bioodpady; Eva Tylová, komunální politička.
 
