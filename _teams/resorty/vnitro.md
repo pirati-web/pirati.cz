@@ -81,15 +81,15 @@ Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě z
 Fungování týmu
 ----------------------
 
-Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je poslanec Lukáš Kolářík.
+Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je Lukáš Kolářík.
 
 Členové týmu jsou:
 
-* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, poslanec zodpovědný za oblast vnitra, místopředseda [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), člen [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923) a [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **[Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)**, poslanec, člen [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předseda [Stálé komise pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací](http://www.psp.cz/sqw/hp.sqw?k=7600), člen [Podvýboru pro vězeňství](http://www.psp.cz/sqw/hp.sqw?k=4924), člen [Podvýboru pro ochranu práv osob omezených na svobodě](http://www.psp.cz/sqw/hp.sqw?k=3922), člen [Stálé komise pro kontrolu činnosti GIBS](http://www.psp.cz/sqw/hp.sqw?k=7500)
-* **[Jan Hora](https://praha4.pirati.cz/lide/jan-hora/)**, člen [Výboru pro bezpečnost ZHMP](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594)
-* **Daniel Galuszka**, asistent poslance Lukáše Koláříka a kontaktní osoba pro záležitosti týmu
-* **Ondřej Klíma**, asistent poslance Tomáše Vymazala
+* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, zodpovědný za oblast vnitra, předchozí místopředseda [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předchozí člen [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923) a [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
+* **[Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)**, předchozí člen [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předchozí předseda [Stálé komise pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací](http://www.psp.cz/sqw/hp.sqw?k=7600), předchozí člen [Podvýboru pro vězeňství](http://www.psp.cz/sqw/hp.sqw?k=4924), člen [Podvýboru pro ochranu práv osob omezených na svobodě](http://www.psp.cz/sqw/hp.sqw?k=3922), předchozí člen [Stálé komise pro kontrolu činnosti GIBS](http://www.psp.cz/sqw/hp.sqw?k=7500)
+* **[Jan Hora](https://praha4.pirati.cz/lide/jan-hora/)**, předchozí člen [Výboru pro bezpečnost ZHMP](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594)
+* **Daniel Galuszka**, asistent Lukáše Koláříka a kontaktní osoba pro záležitosti týmu
+* **Ondřej Klíma**, asistent Tomáše Vymazala
 * **Petr Fojtík**, politický analytik poslaneckého klubu Pirátů
 * **Janusz Konieczny**, protikorupční analytik poslaneckého klubu Pirátů
 * **Martin Archalous**, legislativec poslaneckého klubu Pirátů
