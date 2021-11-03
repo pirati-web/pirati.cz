@@ -25,7 +25,7 @@ twitter: https://twitter.com/PiratiJMK
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-V Poslanecké sněmovně Jihomoravský kraj reprezentují dva zástupci - Radek Holomčík ze Strážnice a Tomáš Vymazal z Brna. Máme také svého zastupitele v zastupitelstvu Jihomoravského kraje (Ivo Vašíček) a v Lomnici (Barbara Pavlišová). 
+Máme  svého zastupitele v zastupitelstvu Jihomoravského kraje (Ivo Vašíček) a v Lomnici (Barbara Pavlišová). 
 
 V zastupitelstvu města Brna v současnosti působí šest pirátských zastupitelů – 1. náměstek primátorky Tomáš Koláčný, uvolnený radní pro majetek Robert Čuma, uvolnený radní pro kulturu Marek Fišer, uvolněný zastupitel pro informatiku Ondřej Kotas a dva neuvolnění zastupitelé Markéta Gregorová a Lukáš Mamula. Do zastupitelstev jsme se dostali i v městských částech Brno-Královo pole, Brno-střed a Brno-Žabovřesky. V kraji byly úspěšné i komunální kandidátky ve Znojmě (Pavel Nevrkla), Blansko (Zbyněk Pokorný), Boskovice (Kristýna Znamenáčková, Radek Šamšula, Jan Nádvorník), šest zastupitelů v Břeclavi za kandidátku Mladí a neklidní a tři v Hodoníně za Svobodné a Piráty.
 
