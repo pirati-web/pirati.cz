@@ -28,7 +28,7 @@ Co děláme?
 ----------
 
 * v poslanecké sněmovně prosazujeme volební program v oblasti [dopravy a logistiky](https://www.pirati.cz/program/psp2017/doprava/), projednáváme sněmovní tisky, které jsou přikázány [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, potažmo [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
-* aktivita je primárně směřována na práci v [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), jehož místopředsedou je pirátský poslanec Ondřej Polanský
+* aktivita je primárně směřována na práci v [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), jehož předchozím místopředsedou je Ondřej Polanský
 * předkládáme vlastní pozměňovací návrhy
 * okruhy témat, která řešíme v souvislosti s legislativním procesem PSP:
   * novela zákona  416/2009 Sb. o urychlení výstavby dopravní infrastruktury
@@ -70,9 +70,8 @@ Každé úterý ve 20:00 se scházíme online na Skype, pro zapojení prosím ko
 
 Členové týmu jsou:
 
-* **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)** - poslanec, člen [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, místopředseda [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), člen [Podvýboru pro letectví a vesmírný program](http://www.psp.cz/sqw/hp.sqw?k=3529)
-* **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)** - poslanec, člen [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
-* **David Witosz** - garant programového bodu [Doprava a logistika](https://www.pirati.cz/program/psp2017/doprava/), asistent poslance Ondřeje Polanského
+
+* **David Witosz** - garant programového bodu [Doprava a logistika](https://www.pirati.cz/program/psp2017/doprava/), asistent Ondřeje Polanského
 * **Jan Lička** - vedoucí resortního týmu, automobilová doprava a nové technologie (autonomní a bezpilotní doprava)
 * **Miloš Zmeškal** - vysloužilý garant, automobilová doprava
 * **Michal Šimek** - železniční a hromadná doprava
@@ -83,8 +82,9 @@ Každé úterý ve 20:00 se scházíme online na Skype, pro zapojení prosím ko
 * **Václav Kříž** - bezmotorová doprava
 * **Jakub Horák** - letecká doprava
 * **Veronika Murzynová** - kosmické aktivity
-
+* **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)** - předchozí člen [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, předchozí místopředseda [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), předchozí člen [Podvýboru pro letectví a vesmírný program](http://www.psp.cz/sqw/hp.sqw?k=3529)
+* **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)** - předchozí člen [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
 Dále úzce spolupracujeme s týmem garanta pro životní prostředí:
 
-* **[Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/)**, poslankyně, předsedkyně [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), garantka programového bodu [Životní prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) pro volby do Poslanecké sněmovny 2017
+* **[Dana Balcarová](https://www.pirati.cz/lide/dana-balcarova/)**, předchozí předsedkyně [Výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600), garantka programového bodu [Životní prostředí](https://www.pirati.cz/program/psp2017/zivotni-prostredi/) pro volby do Poslanecké sněmovny 2017
 * **Lukáš Blažej**, vedoucí Resortního týmu [Životní prostředí](https://www.pirati.cz/program/dlouhodoby/zivotni-prostredi/)
