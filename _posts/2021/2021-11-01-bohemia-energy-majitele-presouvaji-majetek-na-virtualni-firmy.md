@@ -3,14 +3,14 @@ date:         2021-11-01
 category:     blog
 tags:         energetika právo-a-spravedlnost
 layout:       post
-title:        "Majitelé krachující Bohemia Energy se pokouší ukrýt majetek, upozorňují Piráti v dopise Lenku Bradáčovou. Ohrozilo by to kompenzace pro poškozené klienty"
+title:        "Majitelé Bohemia Energy se pokouší ukrýt majetek, upozorňují Piráti v dopise Lenku Bradáčovou. Ohrozilo by to kompenzace pro poškozené klienty"
 image:        /assets/img/articles/2020/tresnak.jpg
 author:       
 ---
 
 
 
-Praha, 1. listopadu 2021 – Majitelé zkrachovalé Bohemia Energy - manželé Písaříkovi - se pokusili přesunout své nemovitosti v hodnotě stovek milionů korun na virtuální firmy. To by v praxi mohlo znamenat, že by jejich poškození klienti neměli z čeho získat kompenzace. V některých případech proto přesunu majetku již před několika dny zabránil Městský soud v Praze. Analytický tým Pirátů zpracoval přehled dalšího majetku majitelů Bohemia Energy, u kterého by mohlo hrozit podobné vyvádění. A popsal i další podezřelé převody. Soupis s podrobnějšími informacemi následně v dopise doručil Vrchní státní zástupkyni Lence Bradáčové. 
+Praha, 1. listopadu 2021 – Majitelé dodavatele energií Bohemia Energy - manželé Písaříkovi - se pokusili přesunout své nemovitosti v hodnotě stovek milionů korun na virtuální firmy. To by v praxi mohlo znamenat, že by jejich poškození klienti neměli z čeho získat kompenzace. V některých případech proto přesunu majetku již před několika dny zabránil Městský soud v Praze. Analytický tým Pirátů zpracoval přehled dalšího majetku majitelů Bohemia Energy, u kterého by mohlo hrozit podobné vyvádění. A popsal i další podezřelé převody. Soupis s podrobnějšími informacemi následně v dopise doručil Vrchní státní zástupkyni Lence Bradáčové. 
 
 > „Obávám se, že pan Písařík se snaží účelově převádět svůj majetek. Poškození zákazníci Bohemia Energy nepochybně mohou mít nárok na kompenzaci a je naší povinnosti bránit jejich práva,“ vysvětluje Konieczny.
 
