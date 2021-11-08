@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda piráti koalice koaliční-smlouva
 layout:       post
 title:        "Koalice SPOLU a koalice Piráti a Starostové podepsaly koaliční smlouvu"
-image:        /assets/img/articles/2021/podpis koaliční smlouvy.jpg 
+image:        /assets/img/articles/2021/podpis-koalicni-smlouvy.jpg 
 author:       
 ---
 
