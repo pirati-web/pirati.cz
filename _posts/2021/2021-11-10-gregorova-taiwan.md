@@ -1,7 +1,7 @@
 ---
-date:         2021-01-04
+date:         2021-11-10
 category:     blog
-tags:         vzdělání vláda lidská-práva
+tags:         europarlament dezinformace taiwan
 layout:       post
 title:        "Na Taiwanu vznikne společné centrum boje proti dezinformacím, slibuje Gregorová po historické misi"
 image:        /assets/img/articles/2021/Taiwan_Gregorova.jpeg
