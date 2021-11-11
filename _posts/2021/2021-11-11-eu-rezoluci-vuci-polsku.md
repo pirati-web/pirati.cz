@@ -3,8 +3,7 @@ date:         2021-11-11
 category:     blog
 tags:         lidská-práva zahraničí evropská-unie
 layout:       post
-title:        "
-Nehodlám přihlížet, jak členský stát EU preferuje místo práva tmářství, které bere životy zdravých žen, říká Gregorová k rezoluci vůči Polsku"
+title:        "Nehodlám přihlížet, jak členský stát EU preferuje místo práva tmářství, které bere životy zdravých žen, říká Gregorová k rezoluci vůči Polsku"
 image:        /assets/img/articles/2021/Gregorova_u_schodu.jpg
 author:       
 ---
