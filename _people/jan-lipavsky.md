@@ -27,11 +27,11 @@ redmine: 124
 mpv: 124
 ---
 
-Jan Lipavský (* 2. července 1985) je Pirát, který se soustředí především na bezpečnost a zahraniční politiku. Je místopředsedou zahraničního výboru i výboru na obranu. Věnuje se boji proti vlivu Ruska a Číny v Česku, hybridním hrozbám nebo dezinformacím. Kontroluje také činnost českých tajných služeb a zasazuje se o zachování jejich nezávislosti. Je Pražákem srdcem a duší.
+Jan Lipavský (* 2. července 1985) je Pirát, který se soustředí především na bezpečnost a zahraniční politiku. V PSP byl místopředsedou zahraničního výboru i výboru na obranu. Věnuje se boji proti vlivu Ruska a Číny v Česku, hybridním hrozbám nebo dezinformacím. Kontroluje také činnost českých tajných služeb a zasazuje se o zachování jejich nezávislosti. Je Pražákem srdcem a duší.
 
 Studoval mezinárodní vztahy na univerzitě v Česku a v Anglii. Před vstupem do politiky rozvíjel kariéru v soukromém sektoru, například ve společnostech McKinsey & Company či ZOOT.
 
 Postupně se vypracoval do manažerských pozic v oblasti informačních technologií v bankovnictví.
 
-Členem Pirátské strany je od 2015. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny jako poslance PSP ČR za Piráty v Praze. Je také místopředsedou Poslaneckého klubu Pirátů.
+Členem Pirátské strany je od 2015. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny poslancem PSP ČR za Piráty v Praze a zastával pozici místopředsedy Poslaneckého klubu Pirátů.
 
