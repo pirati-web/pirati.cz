@@ -15,8 +15,6 @@ mob: +420 777 719 282
 office: 
   - address: Jihoslovanská 142, 541 01, Trutnov
     opening:
-  - address: Sněmovní 4, 118 26 Praha 1 - Malá Strana
-    opening:
 asistenti:
   - name: Petr Pleticha
     tel: +420 603 460 210
@@ -35,15 +33,15 @@ mpv: 281
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-martina-jiranka-t39058.html-->
 ---
 
-Martin Jiránek (* 10. dubna 1978) je pirátský poslanec PSP ČR za Královéhradecký kraj. Je rovněž krajským zastupitelem v opozici. Členem Pirátů je od roku 2010.
+Martin Jiránek (* 10. dubna 1978) je pirátským krajským zastupitelem v opozici. Členem Pirátů je od roku 2010.
 
 Maturoval na Gymnáziu v Trutnově a má vystudovaný obor Informační management na Univerzitě Hradec Králové. Celou svou profesní kariéru pomáhá primárně malým firmám a živnostníkům s marketingem a nastavením firemních procesů. Jeho hlavní ideou je mít úspěšné lokální podnikatele a udržet tak více peněz v regionu.
 
-Ve Sněmovně je místopředsedou Hospodářského výboru a hlavní oblasti, kterým se věnuje, jsou:
+Ve Sněmovně byl místopředsedou Hospodářského výboru a hlavní oblasti, kterým se věnuje, jsou:
 1. Telekomunikace, mobilní operátoři a snížení cen mobilních dat
 2. Cestovní ruch a příprava zákonu o cestovním ruchu
 3. Změna české levné ekonomiky v moderní ekonomiku s vyšší přidanou hodnotou
 4. Startupy, inovace a systém státní podpory začínajících podnikatelů
 5. Podnikání, nové přístupy ke vztahu k zákazníkům, zaměstnancům i obchodním partnerům
 
-Pokud vás tato témata zajímají a chcete nám s nimi pomoci, ozvěte se mně nebo mému asistentovi Petru Pletichovi. Moc díky :-)
+Pokud vás tato témata zajímají a chcete nám s nimi pomoci, ozvěte se. Moc díky :-)
