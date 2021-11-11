@@ -22,7 +22,7 @@ mpv: 119
 
 František Navrkal (* 15. září 1992, Děčín) je místopředseda místního sdružení Děčín strany. V letech 2017-2021 zvolen poslancem Parlamentu České republiky za Ústecký kraj.
 
-V roce 2012 odmaturoval na Gymnáziu Děčín a pokračoval na FJFI ČVUT, kde studoval obor aplikace softwarového inženýrství. Od podzimu 2016 do března 2019 pracoval jako datový inženýr a IT analytik pro různé firmy. Nyní svoje zkušenosti a znalosti využívá v rámci poslaneckého klubu Pirátů.
+V roce 2012 odmaturoval na Gymnáziu Děčín a pokračoval na FJFI ČVUT, kde studoval obor aplikace softwarového inženýrství. Od podzimu 2016 do března 2019 pracoval jako datový inženýr a IT analytik pro různé firmy. Nyní svoje zkušenosti a znalosti využívá v rámci odborných expertních týmů Pirátů.
 
 Mezi Františkovy zájmy patří počítačové hry, jízda automobilem, informační technologie, politika a obecně poznávání světa. Mluví plynně anglicky.
 
