@@ -3,8 +3,7 @@ data-version: 2
 uid: mikulas.ferjencik
 name:     Mikuláš Ferjenčík  	# běžně používáné jméno
 fullname: Mikuláš Ferjenčík  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
--pak
+category: pak                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/mikulas-ferjencik.jpg   # 165 x 220
 description: člen mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
