@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda
 layout:       post
 title:        "Členové a členky Pirátské strany odsouhlasili vstup do vlády"
-image:        /assets/img/articles/2021/pirati-forum.jpg
+image:        /assets/img/articles/2021/pirati-vlada.jpg
 author:       
 ---
 
