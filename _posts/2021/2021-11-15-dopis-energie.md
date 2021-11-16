@@ -18,4 +18,4 @@ Bez bližších podrobností Sedláček nadále trvá na tom, že významným pr
 
 Svůj e-mail dodavatel ukončil doporučením, že by měl europoslanec Marcel Kolaja okamžitě přejít k jinému dodavateli. „Předpokládám, pane Kolajo, že najdete dostatek hrdosti a cti v těle a nebudete čekat na mou výpověď z dodávky, že dobrovolně a ihned se vzdáte výhod být pod společností ENEKA,“ píše se v dopise. „Právně se bránit nebudu, přijde mi úsměvné takto řešit politické neshody s klienty,“ komentoval Kolaja.
  
-* [Plné znění otevřeného dopisu pro Jana Sedláčka](https://www.pirati.cz/assets/img/articles/2021/Reakce_ENEKA.pdf)
+* [Plné znění otevřeného dopisu pro Jana Sedláčka](https://www.pirati.cz/assets/pdf/Reakce_ENEKA.pdf)
