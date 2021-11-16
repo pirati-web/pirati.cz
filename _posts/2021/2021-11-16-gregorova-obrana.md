@@ -4,7 +4,7 @@ category:     blog
 tags:         obrana evropská-unie migrace
 layout:       post
 title:        "Průlom v obranyschopnosti, hodnotí novou strategii Gregorová. Problém ale mohou způsobit členské státy"
-image:        /assets/img/articles/2021/Gregorova_u_schodu.jpg
+image:        /assets/img/articles/2021/marketa-gregorova06.jpg
 author:       
 ---
 
