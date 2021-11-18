@@ -167,9 +167,10 @@ img: miscellaneous/residence.png
             <div class="c-BasicPage-content">
                 {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'"  | sort:"ordkontakty" %}
                 {% include people/list-2col.html param=team %}
-               <h2>Kontakty pro média</h2>
+               <br>
+	       <h2>Kontakty pro média</h2>
 	       <br>
-               <i class="cell-icon fa fa-envelope"></i> Karolína Sadílková, tel. +420 776 505 557, <a href="mailto:karolina.sadilkova@pirati.cz">karolina.sadilkova@pirati.cz</a>
+               <i class="cell-icon fa fa-envelope"></i> Karolína Sadílková (tisková mluvčí), tel. +420 776 505 557, <a href="mailto:karolina.sadilkova@pirati.cz">karolina.sadilkova@pirati.cz</a>
                <br>
                <i class="cell-icon fa fa-envelope"></i> Jakub Dušánek, tel. +420 770 138 763, <a href="mailto:jakub.dusanek@pirati.cz">jakub.dusanek@pirati.cz</a>
                <br>
