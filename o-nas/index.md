@@ -11,7 +11,7 @@ Začínali jsme jako aktivisté a v prvních volbách jsme nezískali ani jedno 
 
 A přišly první úspěchy. V roce 2014 jsme byli v komunálních volbách zvoleni na několik městských radnic. Získali jsme čtyři mandáty na pražském magistrátu, deset v pražských městských částech a v Mariánských Lázních jsme volby vyhráli a obsadili post starosty. Byl to ale pořád jenom začátek a pro nás první velká zkouška.
 
-Dnes, 10 let od založení Pirátů, máme v Parlamentu čtyřku svých poslanců a dva senátory. Máme také 358 obecních zastupitelů a několik starostů po celé zemi, včetně postu pražského primátora. V posledních evropských volbách jsme pak díky velké podpoře občanů dostali šanci vyslat tři své zástupce do Evropy, přičemž jeden z nich vykonává funkci místopředsedy Evropského parlamentu.
+Dnes, 10 let od založení Pirátů, máme v Parlamentu čtveřici svých poslanců - Ivana Bartoše, Olgu Richterovou, Jakuba Michálka a Kláru Kocmanovou - a dva senátory - Adélu Šípovou a Lukáše Wagenknechta. Máme také 358 obecních zastupitelů a několik starostů po celé zemi, včetně postu pražského primátora. V posledních evropských volbách jsme pak díky velké podpoře občanů dostali šanci vyslat tři své zástupce do Evropy, přičemž jeden z nich vykonává funkci místopředsedy Evropského parlamentu.
 
 Požadavek reformy autorského práva se postupem času stal základem komplexního programu, který se dneska snažíme prosazovat ve všech politických sférách. Chceme především bránit svobodu, kontrolovat moc a mocné, zjednodušit fungování státu pomocí moderních technologií a chránit občany před šikanou.
 
