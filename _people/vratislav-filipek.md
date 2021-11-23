@@ -8,7 +8,7 @@ img: people/vratislav-filipek.jpg   # 165 x 220
 description: Vedoucí mediálního odboru Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
-- filipek.vratislav@gmail.com
+- vratislav.filipek@pirati.cz
 mob:			  +420 608 774 722
 profiles:
   github:                
