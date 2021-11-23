@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 - rp
 img: people/olga-richterova.jpg   # 165 x 220
-description: poslankyně PSP ČR, 1. místopředsedkyně Pirátů             	# kratký popis, max 160 znaků
+description: místopředsedkyně PSP ČR, 1. místopředsedkyně Pirátů             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - richterovao@psp.cz
