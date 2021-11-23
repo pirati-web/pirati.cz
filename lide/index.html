@@ -71,7 +71,7 @@ img: brand/logo.svg
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#vlada" class="c-simple-accordion-title">Pirátští nominanti do Vlády</a>
+                                    <a href="#vlada" class="c-simple-accordion-title">Pirátští nominanti do vlády</a>
                                     <div id="vlada" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'vlada'" | sort:"ordvlada" %}
                                         {% include people/list-2col.html param=team %}
