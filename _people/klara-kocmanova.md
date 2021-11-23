@@ -8,7 +8,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/klara-kocmanova.jpg    # 165 x 220
 description: poslankyně Parlamentu České republiky za Středočeský kraj # kratký popis, max 160 znaků
 mail:
-- kalra.kocmanova@pirati.cz
+- klara.kocmanova@pirati.cz
 direct-contact: false
 profiles:
   facebook: 	https://www.facebook.com/KlaraKocmanovaPiratka
