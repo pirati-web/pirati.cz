@@ -8,7 +8,7 @@ category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/michal-salomoun.jpg    # 165 x 220
 description: nominant Pirátů na pozici Ministra pro legislativu # kratký popis, max 160 znaků
 mail:
-- michal.salamoun@pirati.cz
+- michal.salomoun@pirati.cz
 direct-contact: false
 profiles:
   facebook: 	https://www.facebook.com/salomoundosenatu/
