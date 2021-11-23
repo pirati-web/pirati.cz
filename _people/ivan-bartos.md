@@ -8,6 +8,7 @@ category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - carousel
 - psp
+- vlada
 img: people/ivan-bartos.jpg # 165 x 220
 description: předseda Pirátů, poslanec PSP ČR za Ústecký kraj
 direct-contact: true
@@ -31,6 +32,7 @@ ordrp: 1
 ordcar: 1
 ordga: 3
 ordpsp: 3
+ordvlada: 1
 report: 1Vm9V6BS0Yaeop1W09jSeLsBoFaWEGpJ_
 redmine: 157
 mpv: 157

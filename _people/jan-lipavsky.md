@@ -5,8 +5,9 @@ name:     Jan Lipavský  	# běžně používáné jméno
 fullname: Jan Lipavský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
+- vlada
 img: people/jan-lipavsky.jpg   # 165 x 220
-description: člen Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: člen Republikového výboru Pirátů, nominant na ministra pro Zahraniční věci             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - jan.lipavsky@pirati.cz
@@ -21,7 +22,7 @@ profiles:
   twitter: 	
   instagram:    
   flickr:		    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jan%20lipavsk%C3%BD&view_all=1
-ordpsp: 3
+ordvlada: 2
 report: 1E2WqnQfo53CQSNy1sS6Dfm5WUjWmyRA8
 redmine: 124
 mpv: 124
