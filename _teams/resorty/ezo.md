@@ -102,7 +102,6 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 * **[Petr Třešňák](/lide/petr-tresnak)**, předchozí člen [Výboru pro obranu](https://www.psp.cz/sqw/hp.sqw?k=5000)
 * **[František Navrkal](/lide/frantisek-navrkal)**,předchozí  člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), předchozí člen Podvýboru pro rozvojovou spolupráci
 * **Tomáš Guth Jarkovský**, asistent Františka Kopřivy
-* **Kristýna Plášilová**, asistent Jana Lipavského
 * **Alexandr Mansurov**, asistent Františka Kopřivy
 * **David František Wagner**, asistent Mikuláše Peksy
 * **Lukáš Bartík**, asistent Františka Navrkala
