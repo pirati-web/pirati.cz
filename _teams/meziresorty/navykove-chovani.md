@@ -53,12 +53,13 @@ Tým Návykové chování se schází podle potřeby (viz kalendář níže).
 Za přípravu agendy setkání zodpovídá Janka Michailidu. Členové týmu jsou:
 
 - [Janka Michailidu](https://lide.pirati.cz/personProfile/152/), vedoucí týmu, garant programového bodu Psychotropní látky Pirátské strany
-- [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce garanta programového bodu Psychotropní látky Pirátské strany
+- [Michal Ketner](https://ustecky.pirati.cz/lide/michal-ketner/), zástupce vedoucí meziresortního týmu Návykové chování
 - [Michaela Nepejchalová](https://lide.pirati.cz/personProfile/531/), sociální pracovnice, studentka adiktologie
 - [Petr Konečný](https://lide.pirati.cz/personProfile/1427/), sociální pracovník, člen komise pro prevenci kriminality a drogových závislostí Olomouckého kraje
 - [Martin Boxan](https://lide.pirati.cz/personProfile/1892/), vedoucí pracovník NNO, kouč, supervizor
-- [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), soustředící se na agendu prevence rizikového návykového chování
-- Ondřej Klíma, asistent Tomáše Vymazala
+- [Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/), specialista na konopnou regulaci
+- [Filip Křistek](https://lide.pirati.cz/profil/2892/), student evropské diplomacie, zodpovědná osoba za obsah na sociálních sítích týmu Návykové chování
+
 
 Operativu řeší tým na pirátském [Zulipu](https://zulip.pirati.cz) ve vlákně Návykové chování.
 
