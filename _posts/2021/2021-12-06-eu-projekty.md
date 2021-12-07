@@ -8,7 +8,7 @@ image:        /assets/img/articles/2021/peksa_ep.jpg
 author:       
 ---
 
-Praha, 3. prosince 2021 – Domácnosti v uhelných regionech a malé firmy přichází o miliardy z evropského Fondu pro spravedlivou transformaci. České úřady totiž účelově konstruují některé projekty a peníze odklání jinam. Upozorňuje na to pirátský europoslanec Mikuláš Peksa. Z fondu se podle něj místo původně dojednaných oblastí budou prostředky využívat pro financování megalomanských projektů, které se jinam nevešly. 
+Praha, 6. prosince 2021 – Domácnosti v uhelných regionech a malé firmy přichází o miliardy z evropského Fondu pro spravedlivou transformaci. České úřady totiž účelově konstruují některé projekty a peníze odklání jinam. Upozorňuje na to pirátský europoslanec Mikuláš Peksa. Z fondu se podle něj místo původně dojednaných oblastí budou prostředky využívat pro financování megalomanských projektů, které se jinam nevešly. 
 
 Těžba, revitalizace lomu ČSA, digitalizace ostravského muzea nebo vodíkový byznys firmy, která vznikla před rokem a nemá žádné relevantní zkušenosti. I tam mají jít finance původně vyčleněné pro menší podnikatele či na opatření s užitkem pro běžné domácnosti.
 
