@@ -4,7 +4,7 @@ category:     blog
 tags:         praha životní-prostředí
 layout:       post
 title:        "Piráti odmítají zdražení odpadů vynucené novelou z vládní dílny ANO. Po nové vládě budou požadovat revizi zákona"
-image:        /assets/img/articles/2021/zdenek-hrib00.jpg
+image:        /assets/img/articles/2021/zdenek-hrib06.jpg
 author:       
 ---
 
