@@ -12,7 +12,7 @@ Praha, 13. prosince 2021 – Europoslankyně Markéta Gregorová se zastane zakl
 
 > „Vydání Assange by znamenalo jeho poslání prakticky na smrt. V americkém vězení si i podle lékařských posudků může sáhnout na život,“ varuje europoslankyně. „Bitvu za jeho život vnímám jako boj za práva a bezpečí novinářů, ale i svobodu slova. Zveřejněním tajných dokumentů odhalil Julian Assange řadu závažných praktik ze strany americké vlády. Whistleblowery musíme chránit, nebo se můžeme rozloučit s demokracií,“ vysvětluje Gregorová.
 
-Právě Markéta Gregorová se už před dvěma lety osobně účastnila jednoho ze soudních slyšení s aktivistou Assangem. Letos v lednu pak varovala před přehnaným optimismem, když britský soud rozhodl o jeho nevydání zpět do Spojených států amerických. Minulý týden odvolací soud nakonec vyhověl americké straně a nařídil soudu nižší instance, aby žádost o jeho vydání poslal k posouzení ministerstvu vnitra. To bude mít poslední slovo.
+Právě Markéta Gregorová se už před dvěma lety osobně účastnila jednoho ze soudních slyšení s aktivistou Assangem. Letos v lednu pak [varovala před přehnaným optimismem](https://www.pirati.cz/tiskove-zpravy/gregorova-k-nevydani-assange.html), když britský soud rozhodl o jeho nevydání zpět do Spojených států amerických. Minulý týden odvolací soud nakonec vyhověl americké straně a nařídil soudu nižší instance, aby žádost o jeho vydání poslal k posouzení ministerstvu vnitra. To bude mít poslední slovo.
 
 Aktivisty se zastala také lidskoprávní organizace Amnesty International. Ta minulý týden vydala prohlášení, podle kterého by podmínky ve vězení pro Assange mohly odpovídat mučení. Obvinění americké vlády pak podle organizace podrývá zásadní roli, jakou mají novináři při kontrole vlády a odhalování jejich chyb. 
 
@@ -21,4 +21,4 @@ Demonstrace na podporu Juliana Assange:
 Kde? Palackého náměstí, Praha 2
 Kdy? Ve středu 15. 12. 2021, v 16:30
 
-Více informací: Osvoboďte Assange: demonstrace na Palackého náměstí (https://www.facebook.com/events/658042681854875/)
+Více informací: [Osvoboďte Assange: demonstrace na Palackého náměstí](https://www.facebook.com/events/658042681854875/)
