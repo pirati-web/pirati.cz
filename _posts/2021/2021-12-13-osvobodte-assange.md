@@ -19,6 +19,7 @@ Aktivisty se zastala také lidskoprávní organizace Amnesty International. Ta m
 Demonstrace na podporu Juliana Assange:
 
 Kde? Palackého náměstí, Praha 2
+
 Kdy? Ve středu 15. 12. 2021, v 16:30
 
 Více informací: [Osvoboďte Assange: demonstrace na Palackého náměstí](https://www.facebook.com/events/658042681854875/)
