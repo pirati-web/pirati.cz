@@ -1,7 +1,7 @@
 ---
 date:         2021-12-09
 category:     blog
-tags:         prostituce europarlament porno
+tags:         evropský-parlament lidská-práva
 layout:       post
 title:        "Sexuální pracovníci se bojí odhalení soukromí. Proti jejich povinné identifikaci on-line se ozývají Piráti"
 image:        /assets/img/articles/2021/kolaja-pred-ep.jpg
