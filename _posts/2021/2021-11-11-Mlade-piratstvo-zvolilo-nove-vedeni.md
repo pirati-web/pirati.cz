@@ -1,7 +1,7 @@
 ---
 date:         2021-11-11
 category:     blog
-tags:         volby sněmovna
+tags:         volby
 layout:       post
 title:        "Nové vedení Mladého Pirátstva představuje svůj kurz a priority"
 image:        /assets/img/articles/2021/mlade-piratstvo.jpg
