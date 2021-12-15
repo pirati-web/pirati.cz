@@ -4,7 +4,7 @@ category:     blog
 tags:         europarlament internet dma
 layout:       post
 title:        "Evropa krotí digitální obry. Europoslanci dnes schvalují revoluční změny pravidel na digitálních trzích"
-image:        /assets/img/articles/2021/kolaja-pred-ep.jpg
+image:        /assets/img/articles/2021/kolaja-hodinky.jpg
 author:       
 ---
 
