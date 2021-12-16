@@ -4,17 +4,15 @@ uid: martin.kucera
 name:     Martin Kučera  	# běžně používáné jméno
 fullname:    Mgr. Martin Kučera  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
-- rp
 img: people/martin-kucera.jpg    # 165 x 220
-description: 4. místopředseda Pirátů	# kratký popis, max 160 znaků
+description: Zastupitelem městského obvodu Moravská Ostrava a Přívoz	# kratký popis, max 160 znaků
 mail:
 - martin.kucera@pirati.cz
 mob: +420 778 702 711		
 direct-contact: true
 profiles:
-ordrp: 4
 ---
-Martin Kučera (* 1971) je v současné době 4. místopředsedou strany. 
+Martin Kučera (* 1971) je v současné době zastupitelem městského obvodu Moravská Ostrava a Přívoz. 
 
 Do šesti let vyrůstal v Pardubicích, dalších 25 let pobýval v Ostravě a nyní žije se ženou a dvěma dětmi v Havířově.
 Vystudoval matematickou analýzu na Univerzitě Palackého v Olomouci, v průběhu studia ho však natolik uchvátily
