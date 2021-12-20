@@ -1,0 +1,87 @@
+---
+layout: default
+img: snemovna/obecne/jednani_klubu.jpg
+---
+<style>
+  .no-before:before {content:none !important;}
+  @media screen and (max-width: 53.75em){
+    .c-top-sub-nav .c-top-sub-nav-inner {padding-bottom:40px;}
+    }    
+</style>
+<div class="l-micropage page--snemovna">
+    <nav class="c-top-sub-nav u-center-860-down">
+        <div class="row">
+            <div class="c-top-sub-nav-inner no-before">
+                <div class="u-cf">
+                    <div class="c-top-sub-nav-header">
+                        <div class="c-top-sub-nav__heading">Piráti ve sněmovně</div>
+                    </div>
+                    <div class="c-top-sub-nav-divider"></div>
+                    <ul class="c-top-sub-nav-items">
+                        <li class="c-top-sub-nav__item"><a href="#klub">Kontakt</a></li>
+                        <li class="c-top-sub-nav__item"><a href="{{ "snemovna/finance" | relative_url }}">Transparentní finance</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#aktuality">Na čem pracujeme?</a></li>
+                        <li class="c-top-sub-nav__item"><a href={{ "tymy/" | relative_url }}>Resortní týmy</a></li>
+                        <li class="c-top-sub-nav__item"><a href={{ "snemovna/sance-pro-nove-napady" | relative_url }}>Šance pro nové nápady</a></li>
+                        <li class="c-top-sub-nav__item"><a href={{ "analytici/" | relative_url }}>Analytický tým</a></li>
+                  </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="l-micropage__hero">
+        <div class="row o-section">
+            <div class="medium-12 columns">
+                <div class="l-micropage__hero-text">
+                    <h1 div class="l-micropage__hero-subhead">Transparentní finance</h1>
+                    <p class="l-micropage__perex">Je naší odpovědností skládat vám účty. Na této stránce najdete informace, jak hospodaříme s veřejnými penězi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <section class="l-micropage__section row o-section" id="vykaz">
+        <div class="small-12 columns">
+            <!---iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>--->
+            {% include accounting.html %}
+            <script>
+              pirates.priorityStack.push(function (context) {
+                pirates.bindAjax(pirates.modal_triggers);
+                // make new CORS for data
+                var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
+                if (!xhr) {
+                  alert('CORS not supported');
+                  return;
+                }
+                xhr.onload = function() {
+                  var doc = xhr.responseText;
+                  // Parse CSV to JS Object
+                  pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
+
+                  //create empty dataseries object - todo: could cache it with local storage
+                  pirates.dataseries = [];
+
+                  // Set default account
+                  pirates.accountChart = pirates.accounting.selectAccount('all');
+
+                  var ctrl = document.getElementById("account_control");
+                  // Fill control with options
+                  pirates.accounting.makeControls(ctrl,pirates.accountingData.byAccount);
+                  // Bind control handler
+                  ctrl.onchange=pirates.accounting.onAccountSelect;
+                }
+                xhr.onerror = function() {
+                  alert('Woops, there was an error making the request.');
+                };
+                xhr.send();
+              });
+            </script>
+
+        </div>
+    </section>
+
+    <div class="l-micropage__modal" style="display: none"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+</div>
