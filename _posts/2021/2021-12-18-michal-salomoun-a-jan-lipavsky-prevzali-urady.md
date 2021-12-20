@@ -4,7 +4,7 @@ category:     blog
 tags:         lipavsky šalomoun piráti ministerstva
 layout:       post
 title:        "Michal Šalomoun se stal ministrem pro legislativu a předsedou Legislativní rady vlády. Jan Lipavský převzal Ministerstvo zahraničních věcí"
-image:        /assets/img/articles/2021/Salomoun Lipo fotomontaz.jpeg 
+image:        /assets/img/articles/2021/salomoun-lipavsky.jpg
 author:       
 ---
 
