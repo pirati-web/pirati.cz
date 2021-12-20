@@ -49,7 +49,6 @@ Tým se schází podle potřeby, většinou přímo v Poslanecké sněmovně.
 * **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, zodpovědný za oblast zdravotnictví, předchozí místopředseda [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=3200) a člen dalších zdravotních podvýborů
 * **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, poslankyně zodpovědná za resort práce a sociálních věcí, předchozí místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), předchozí místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), předchozí členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
 * **[Zdeněk Hřib](https://www.pirati.cz/lide/zdenek-hrib/)**, stálý člen týmu a ředitel [Insitutu pro aplikovaný výzkum, edukaci a řízení ve zdravotnictví](http://inaverz.cz/)
-* **[Ondřej Dostál](https://lide.pirati.cz/personProfile/549/)**, hlavní expert Pirátů pro [oblast zdravotnictví](https://blog.aktualne.cz/blogy/ondrej-dostal.php)
 * **Jiří Páral**, člen správní rady VZP
 * **Pavel Východský**, člen správní rady VZP
 * **Adam Janek**, člen dozorčí rady VZP
