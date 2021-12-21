@@ -1,10 +1,10 @@
 ---
 date:         2021-12-17
 category:     blog
-tags:         bartoš piráti mmr ministr
+tags:         vláda místní-rozvoj
 layout:       post
 title:        "Předseda Pirátů Ivan Bartoš byl jmenován Ministrem pro místní rozvoj"
-image:        /assets/img/articles/2021/Ivan bartos ministr.jpg 
+image:        /assets/img/articles/2021/bartos-ministr.jpg 
 author:       
 ---
 
