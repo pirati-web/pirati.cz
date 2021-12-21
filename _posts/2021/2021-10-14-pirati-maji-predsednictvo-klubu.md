@@ -4,7 +4,7 @@ category:     blog
 tags:         volby sněmovna
 layout:       post
 title:        "Piráti ve Sněmovně ustavili klub. Nadále jej povede Jakub Michálek"
-image:        /assets/img/articles/2019/michalek-piskovec.jpg
+image:        /assets/img/articles/2021/jakub-michalek-snemovna.JPG
 author:       
 ---
 
