@@ -5,7 +5,7 @@ tags:         korupce legislativa sněmovna
 layout:       post
 title:        "Změny přicházejí: Končí zneužívání médií a neoprávněného čerpání dotací v politice"
 image:        /assets/img/articles/2021/jakub-michalek00.jpg
-author:       
+author:       Jakub Michálek
 ---
 
  
