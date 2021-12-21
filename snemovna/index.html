@@ -18,12 +18,10 @@ img: snemovna/obecne/jednani_klubu.jpg
                     </div>
                     <div class="c-top-sub-nav-divider"></div>
                     <ul class="c-top-sub-nav-items">
-                        <li class="c-top-sub-nav__item"><a href="#klub">Kontakt</a></li>
-                        <li class="c-top-sub-nav__item"><a href="#vykaz">Skládáme účty</a></li>
-                        <li class="c-top-sub-nav__item"><a href="#aktuality">Na čem pracujeme?</a></li>
                         <li class="c-top-sub-nav__item"><a href={{ "tymy/" | relative_url }}>Resortní týmy</a></li>
-                        <li class="c-top-sub-nav__item"><a href={{ "snemovna/sance-pro-nove-napady" | relative_url }}>Šance pro nové nápady</a></li>
-                        <li class="c-top-sub-nav__item"><a href={{ "analytici/" | relative_url }}>Analytický tým</a></li>
+                        <li class="c-top-sub-nav__item"><a href={{ "snemovna/sance-pro-nove-napady" | relative_url }}>Vaše nápady</a></li>
+                        <li class="c-top-sub-nav__item"><a href="{{ "snemovna/finance" | relative_url }}">Transparentní finance</a></li>
+                        <li class="c-top-sub-nav__item"><a href="#klub">Kontakt</a></li>
                   </ul>
                 </div>
             </div>
@@ -35,24 +33,13 @@ img: snemovna/obecne/jednani_klubu.jpg
             <div class="medium-12 columns">
                 <div class="l-micropage__hero-text">
                     <h1 div class="l-micropage__hero-subhead">Podívejte se, jak pracují Vaši poslanci!</h1>
-                    <p class="l-micropage__perex">Je naší odpovědností skládat vám účty. Na této stránce naleznete informace, jakým způsobem plníme náš program a naše závazky. Stejně tak zde naleznete informace o tom, jakým způsobem čerpáme poslanecké náhrady i kalendář každého z našich poslanců.</p>
+                    <p class="l-micropage__perex">Na této stránce najdete, jak plníme naše volební sliby, a kontakty, jak se s námi spojit.</p>
                 </div>
             </div>
         </div>
     </section>
     
-   <section class="l-micropage__hero  text-center">
-        <div class="row o-section">
-            <div class="medium-12 columns">
-                <div class="l-micropage__hero-text text-center">
-                  <p class="l-micropage__perex"><a href="https://za5dvanact.pirati.cz"><img src="/assets/img/plavba/za5_12.png"></a></p>
-                   <p class="l-micropage__perex">
-                   <a href="/assets/pdf/za-pet-dvanact.pdf">K tisku v PDF - Za pět dvanáct: Plán Pirátů a STAN na vyvedení České republiky z koronakrize 2021</a>
-                  </p>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <section class="l-micropage__section row o-section"  id="snemovna">
         <div class="small-12 columns">
             <h2 class="l-micropage__detail-title text-center">Sněmovna a Piráti</h2>
@@ -70,52 +57,26 @@ img: snemovna/obecne/jednani_klubu.jpg
             {% include_relative klub.html %}
         </div>
     </section>
-    <section class="l-micropage__section row o-section" id="vykaz">
-        <div class="small-12 columns">
-            <h2 class="l-micropage__heading">Výkaz poslaneckého klubu</h2>
-            <!---iframe style="width: 100%" height="1200" src="https://datastudio.google.com/embed/reporting/1YK12KVthz2zYQ1wFnfudVWxY472sjzXA/page/BhtL" frameborder="0" style="border:0" allowfullscreen></iframe>--->
-            {% include accounting.html %}
-            <script>
-              pirates.priorityStack.push(function (context) {
-                pirates.bindAjax(pirates.modal_triggers);
-                // make new CORS for data
-                var xhr = pirates.createCORSRequest('GET', pirates.accounting.dataUrl);
-                if (!xhr) {
-                  alert('CORS not supported');
-                  return;
-                }
-                xhr.onload = function() {
-                  var doc = xhr.responseText;
-                  // Parse CSV to JS Object
-                  pirates.accountingData = pirates.accounting.reformatStructure(pirates.csvToJSON(doc),'period','account')
-
-                  //create empty dataseries object - todo: could cache it with local storage
-                  pirates.dataseries = [];
-
-                  // Set default account
-                  pirates.accountChart = pirates.accounting.selectAccount('all');
-
-                  var ctrl = document.getElementById("account_control");
-                  // Fill control with options
-                  pirates.accounting.makeControls(ctrl,pirates.accountingData.byAccount);
-                  // Bind control handler
-                  ctrl.onchange=pirates.accounting.onAccountSelect;
-                }
-                xhr.onerror = function() {
-                  alert('Woops, there was an error making the request.');
-                };
-                xhr.send();
-              });
-            </script>
-
-        </div>
-    </section>
+  
     <section class="l-micropage__section row o-section " id="aktuality">
         <div class="small-12 columns">
             {% include_relative _aktuality.html %}
         </div>
     </section>
 
+     <section class="l-micropage__hero  text-center">
+        <div class="row o-section">
+            <div class="medium-12 columns">
+                <div class="l-micropage__hero-text text-center">
+                  <p class="l-micropage__perex"><a href="https://za5dvanact.pirati.cz"><img src="/assets/img/plavba/za5_12.png"></a></p>
+                   <p class="l-micropage__perex">
+                   <a href="/assets/pdf/za-pet-dvanact.pdf">K tisku v PDF – Za pět dvanáct: Plán Pirátů a STAN na vyvedení České republiky z koronakrize 2021</a>
+                  </p>
+                </div>
+            </div>
+        </div>
+    </section>
+  
     <div class="l-micropage__modal" style="display: none"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 </div>
