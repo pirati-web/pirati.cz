@@ -5,7 +5,7 @@ tags:         sněmovna životní-prostředí právo-a-justice
 layout:       post
 title:        "Klára Kocmanová bude ve sněmovních výborech řešit sociální otázky a životní prostředí. Jakub Michálek naváže na svou práci v Ústavně právním výboru"
 image:        /assets/img/articles/2021/4poslanci.jpg
-author:       
+author:       Mediální odbor
 ---
 
  
