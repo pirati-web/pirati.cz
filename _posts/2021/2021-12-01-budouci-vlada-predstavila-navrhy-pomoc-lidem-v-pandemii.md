@@ -5,7 +5,7 @@ tags:         koronavirus zdravotnictví sněmovna práce-a-sociální-věci
 layout:       post
 title:        "Lepší podpora pro živnostníky, lidi v karanténě či rodiče pečující o nemocné děti: Budoucí vládní koalice představila návrhy na pomoc v pandemii"
 image:        /assets/img/articles/2021/olga-richterova02.jpg
-author:       
+author:       Olga Richterová
 ---
 
 
