@@ -40,7 +40,7 @@ Do věci se vložila i poslankyně Pirátů Olga Richterová. Obrátila se na mi
 
  
 
-**Návrhy Pirátů k lepší ochraně spotřebitelů v oblasti energetiky: **                                      
+**Návrhy Pirátů k lepší ochraně spotřebitelů v oblasti energetiky:**                                      
 
 * Přesně definovat odpovědnost a postihy za škody způsobené nedodržením závazků ze strany obchodníka:
 * Dodavatel musí být schopen krýt škodu, kterou nedodržením závazku způsobí.
