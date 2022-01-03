@@ -75,16 +75,22 @@ layout: default
                       <div class="c-widget-share-box-content">
                           <!-- https://mycyberuniverse.com/web/social-media-share-bar-jekyll-blog-website.html --> 
                           <div class="share-buttons">
-                              <a  href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
-                                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                                  title="Share on Facebook" >
-                                  <i class="fa fa-facebook-official share-button"> facebook</i>
+                              <a
+                                class="share-button"
+                                href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                title="Sdílet na Facebooku"
+                              >
+                                  <i class="fa fa-facebook-official"></i> Facebook
                               </a>
                               </br>
-                              <a  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}"
-                                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                                  title="Share on Twitter" >
-                                  <i class="fa fa-twitter share-button"> twitter</i>
+                              <a
+                                class="share-button"
+                                href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}"
+                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                                title="Sdílet na Twitteru"
+                              >
+                                  <i class="fa fa-twitter"></i> Twitter
                               </a>
                           </div>
                       </div>

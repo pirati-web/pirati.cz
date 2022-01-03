@@ -57,7 +57,7 @@ var choice_person = function(data, uid, role) {
   if(result) {
     return [result];
   } else {
-    console.log("Proper profile for " + uid + " not exists.");
+    console.log("A proper profile for " + uid + " does not exist.");
     return [{'name': uid, 'role': role}];
   }
 }
@@ -322,3 +322,29 @@ $(function() {
       .fail(function(data) { console.log("Error: map"); });
   }
 });
+
+/**
+ * If we have a section with videos on the right bar, sets it source to the
+ * latest video on our PeerTube using its JSON feed. If any exception occurs,
+ * falls back to the YouTube channel.
+ **/
+var setLatestPeerTubeVideo = async function() {
+  const preferredVideoSource = 'https://tv.pirati.cz/feeds/videos.json?sort=-publishedAt';
+  const fallbackVideoSource = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
+
+  var peerTubeIframe = document.getElementById('peertube-iframe');
+
+  try {
+    // No way to set a max length of 1, a bit of data is wasted getting
+    // the 5 latest videos.
+    let response = await fetch(preferredVideoSource, {'method': 'GET'});
+    let feed = await response.json();
+
+    peerTubeIframe.src = feed['items'][0]['id'].replace('watch', 'embed');
+  } catch (e) {
+    peerTubeIframe.src = fallbackVideoSource;
+    console.log('Chyba při načítání PeerTube videa: ' + e);
+
+    return;
+  }
+}

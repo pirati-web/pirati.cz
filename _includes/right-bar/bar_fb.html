@@ -1,10 +1,15 @@
-{% capture link %}
-    {% if page.profiles.facebook %}
-        {{ page.profiles.facebook }}
-    {% else %}
-        {{ site.fb }}
-    {% endif %}
-{% endcapture %}
+{% capture link %}{% if page.profiles.facebook %}{{ page.profiles.facebook }}{% else %}{{ site.fb }}{% endif %}{% endcapture %}
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1526197851008996',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+</script>
+<script src="https://connect.facebook.net/en_US/sdk.js" defer></script>
 <div class="o-section-block show-for-medium">
   <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
     <li class="c-widget-accordion-item is-active" data-accordion-item="">

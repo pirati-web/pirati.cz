@@ -1,3 +1,8 @@
+<script defer>
+  document.addEventListener("DOMContentLoaded", function(){
+    setLatestPeerTubeVideo();
+  });
+</script>
 <div class="o-section-block">
   <ul class="c-widget-accordion c-widget-accordion--alert" data-accordion="" data-allow-all-closed="true">
     <li class="c-widget-accordion-item is-active" data-accordion-item="">
@@ -10,11 +15,31 @@
       <div class="c-widget-accordion-content" data-tab-content="">
         <div class="c-widget-accordion-content-video">
           <div class="c-widget-accordion-content__video u-video-wrapper-16-9">
-            <iframe width="560" height="315" src=" https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana" style="border: 0;" allowfullscreen=""></iframe>
+            <iframe
+              id="peertube-iframe"
+              width="560"
+              height="315"
+              src=""
+              style="border: 0;"
+              allowfullscreen=""
+            ></iframe>
           </div>
           <div class="c-widget-accordion-content__cta">
-            <a class="alert expanded button large" href="https://www.youtube.com/user/CeskaPiratskaStrana/videos" target="_blank" rel="noopener noreferrer"> Další videa na našem
-              <br> YouTube kanálu </a>
+            <a
+              class="warning expanded button large"
+              href="https://tv.pirati.cz/videos/overview"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Další videa na našem PeerTube</a>
+          </div>
+          <div class="c-widget-accordion-content__cta">
+            <a
+              class="alert expanded button large"
+              href="https://www.youtube.com/user/CeskaPiratskaStrana/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Další videa na našem<br>
+            YouTube kanálu</a>
           </div>
         </div>
       </div>
