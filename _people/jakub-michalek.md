@@ -14,9 +14,9 @@ mail:
 - jakub.michalek@pirati.cz
 mob: 				+420 775 978 550
 asistenti:
-  - name: Kristýna Plašilová
-    mail: kristyna.plasilova@pirati.cz
-    tel: +420 728 859 187
+  - name: 
+    mail: 
+    tel: 
 profiles:
   github: https://github.com/jmichalek
   facebook: https://www.facebook.com/pirat.michalek
