@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/marketa_sedacka.jpg
 author:       
 ---
 
-Brusel, 7. ledna 2021 - Evropská unie by měla apelovat na konec násilí v Kazachstánu například formou rezoluce. Uvedla to pirátská europoslankyně Markéta Gregorová, která situaci v regionu sleduje. Podle ní tamní prezident Kasym-Žomart Kemeluly Tokajev zneužívá zahraniční pomoci k potlačení vlastních obyvatel. Kazašská armáda dle dostupných údajů střílí do demonstrantů, konflikt již má desítky obětí. 
+Brusel, 7. ledna 2022 - Evropská unie by měla apelovat na konec násilí v Kazachstánu například formou rezoluce. Uvedla to pirátská europoslankyně Markéta Gregorová, která situaci v regionu sleduje. Podle ní tamní prezident Kasym-Žomart Kemeluly Tokajev zneužívá zahraniční pomoci k potlačení vlastních obyvatel. Kazašská armáda dle dostupných údajů střílí do demonstrantů, konflikt již má desítky obětí. 
 
 Jak uvádí Gregorová, protestující jsou v ulicích kvůli skokovému zdražení pohonných hmot, což způsobily výpadky dodávek z Ruska. “Vnímám to jako poslední kapku zhoršujícího se stavu země,” říká Gregorová. Prezident Tokajev v rámci tzv. Organizace smlouvy kolektivní bezpečnosti (OSKB) vyzval aktivní signatáře, mezi něž patří Arménie, Bělorusko, Kyrgyzstán, Rusko a Tádžikistán, aby mu přijeli do země vojensky pomoci potlačit odpor.
 
