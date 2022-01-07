@@ -4,7 +4,7 @@ category:     blog
 tags:         europarlament kazachstán gregorová
 layout:       post
 title:        "Gregorová: Situace v Kazachstánu eskaluje. Je potřeba zastavit násilí"
-image:        /assets/img/articles/2022/marketa_sedacka.jpg
+image:        /assets/img/articles/2022/gregorova_sedacka_sad.jpg
 author:       
 ---
 
