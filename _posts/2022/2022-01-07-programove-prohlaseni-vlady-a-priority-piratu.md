@@ -20,7 +20,7 @@ Praha, 7. ledna 2022 - Nový kabinet dnes zveřejnil své programové prohláše
 Programové prohlášení řeší rovněž rozvoj moderního vzdělávání, vědy a inovací či podporu podnikání. Živnostníkům přinese například ulehčení od byrokratické zátěže při správě daní a poplatků, zrušení EET či zvýšení limitu pro povinnou registraci k DPH.
 
 
-V oblasti zahraniční politiky bude do roku 2023 předložen ke schválení zákon sankcionující hrubá porušení lidských práv (tzv. Magnitského zákon), který Piráti již navrhovali v minulém volebním období. „Budeme podporovat demokracii, lidská práva a občanskou společnost: obnovíme tradici tzv. havlovské zahraniční politiky, a to včetně podpory rozvojové a transformační spolupráce. Zrevidujeme také naše vztahy s Ruskem a Čínou,“ doplnil předseda Pirátů.
+> V oblasti zahraniční politiky bude do roku 2023 předložen ke schválení zákon sankcionující hrubá porušení lidských práv (tzv. Magnitského zákon), který Piráti již navrhovali v minulém volebním období. „Budeme podporovat demokracii, lidská práva a občanskou společnost: obnovíme tradici tzv. havlovské zahraniční politiky, a to včetně podpory rozvojové a transformační spolupráce. Zrevidujeme také naše vztahy s Ruskem a Čínou,“ doplnil předseda Pirátů.
 
  
 > Podle jeho slov je také zasádní, že nová vláda bude dbát na ochranu životního prostředí a klimatu: „Budeme usilovat o zmírňování dopadů klimatických změn a přispívat k dosažení klimatické neutrality EU do roku 2050. Na úrovni naší země se zaměříme zejména na návrat vody do krajiny, ochranu biodiverzity nebo přechod na oběhové hospodářství. A rovněž budeme vytvářet podmínky pro energetickou transformaci a rozvoj uhelných regionů tak, aby byl možný odklon od uhlí do roku 2033.“
