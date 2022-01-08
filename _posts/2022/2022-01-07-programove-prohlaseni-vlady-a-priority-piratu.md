@@ -1,7 +1,7 @@
 ---
 date:         2022-01-07
 category:     blog
-tags:         vláda programove-prohlaseni pirati
+tags:         vláda legislativa
 layout:       post
 title:        "Vláda představila programové prohlášení. Obsahuje řadu pirátských priorit jako dostupné bydlení, podporu rodin, boj proti korupci, digitalizaci či ochranu životního prostředí"
 image:        /assets/img/articles/2021/Ivan bartos ministr.jpg
