@@ -27,7 +27,7 @@ calendar: rq39momo7ihnr2um3pmatnt2j8%40group.calendar.google.com
 <!--  report_orig: https://forum.pirati.cz/poslanci-f884/report-lukas-cernohorsky-t39059.html-->
 ---
 
-Lukáš Černohorský (*1984) se narodil v Dlouhé Lhotě u Příbrami. Odkud se přestěhoval do Ostravy.
+Lukáš Černohorský (/*1984) se narodil v Dlouhé Lhotě u Příbrami. Odkud se přestěhoval do Ostravy.
 
 Vystudoval střední průmyslovou školu elektrotechnickou, kterou ukončil v roce 2004. Po jejím skončení vystudoval Vysokou školu báňskou v oboru měřící a řídicí technika, který úspěšně ukončil v roce 2010.
 
