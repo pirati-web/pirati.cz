@@ -12,11 +12,6 @@ mail:
 - tomas.vymazal@pirati.cz
 mob:  +420 774 363 736
 asistenti:
-  - name: Petra Vymazalová
-    tel:  +420 778 111 469
-  - name: Bc. Ondřej Klíma
-    tel:  +420 734 237 251
-  - name: Mgr. David Albrecht
 profiles:
   facebook: https://www.facebook.com/tom.vymazal
   twitter: https://twitter.com/tom_vymazal
@@ -29,7 +24,7 @@ mpv: 47
 report: 13V8nCbzHSI8clcCvplWBWfpL53AlYy_G
 ---
 
-Tomáš Vymazal je informatik, zahrádkář a nadšenec do robotiky. Členem Pirátské strany je od roku 2010. Od září 2016 byl členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřoval na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11 % na mandát těsně nedosáhl. Od října 2017do října 2021 byl poslancem Poslanecké sněmovny PČR. Do té doby působil především v Brně, kde se narodil, studoval a byl čtyři roky zaměstnán v softwarové společnosti zabývající se telekomunikacemi.
+Tomáš Vymazal je informatik, zahrádkář a nadšenec do robotiky. Členem Pirátské strany je od roku 2010. Od září 2016 byl členem Komise informatiky a otevřenosti radnice Rady města Brna, kde se zaměřoval na odstraňování závislosti na jednom dodavateli a prosazení používání svobodného software. V říjnu 2016 kandidoval na třetím místě koaliční kandidátky do krajského zastupitelstva jihomoravského kraje, avšak díky volebnímu výsledku 5.11 % na mandát těsně nedosáhl. Od října 2017 do října 2021 byl poslancem Poslanecké sněmovny PČR. Do té doby působil především v Brně, kde se narodil, studoval a byl čtyři roky zaměstnán v softwarové společnosti zabývající se telekomunikacemi.
 
 Už od vstupu k Pirátům je Tomášovou prioritou legislativa upravující nakládání s konopím a hledání vhodného způsobu nápravy současného nepříznivého stavu, kdy stát bez racionálního důvodu konopí staví mimo zákon a jeho uživatele kriminalizuje. Od počátku působení ve funkci poslance se věnoval práci na věcném zámeru zákona o regulované legalizaci samopěstování psychoaktivního konopí pro osobní potřebu a též dostupnosti léčebného konopí v českých lékárnách.
 
