@@ -7,16 +7,12 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - strednicechy
 - rv
 img: people/lenka-kozlova.jpg   # 165 x 220
-description: členka Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: členka Republikového výboru Pirátů, exposlankyně             	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - lenka.kozlova@pirati.cz
 mob: 
 asistenti:
-  - name: Tomáš Hába
-    mail: habat@psp.cz
-    tel: 723 248 776
-  - name: Štěpán Drtina
 profiles:
   github:       
   facebook:     https://www.facebook.com/lenka.kozlova.5
@@ -31,4 +27,4 @@ report: 1Z6AQ-MWw1ZDvDvugTilUIN49soj3IO5z
 
 Lenka Kozlová byla pirátská poslankyně a členka Republikového výboru. Prošla si několika zaměstnáními, z nichž nejdůležitější pro ni bylo pětileté působení ve funkci samostatného provozního technika v Pražském dopravním podniku, na metru. Zde získala nejcennější zkušenosti – osvojila si spoustu technických znalostí a zároveň se naučila pracovat s podřízenými a vést kolektiv. Po ukončení rodičovské dovolené a přestěhování se z Prahy do Příbrami byla nucena zcela změnit obor činnosti. Doplnila si vzdělání a poté pracovala 13 let jako vychovatelka v dětském domově. Tuto profesi zastává dodnes a práce ji stále baví.
 
-V březnu 2014 iniciovala založení místního sdružení Piráti Příbram, kde se stala místopředsedkyní. Tři roky působila v předsednictvu krajského sdružení Středočeského kraje a byla zvolena do Republikového výboru, kde působí dodnes. Za Piráty kandidovala poprvé ve volbách do Poslanecké sněmovny v roce 2013. V roce 2017 byla zvolena do Poslanecké sněmovny z druhého místa středočeské kandidátky. 
+V březnu 2014 iniciovala založení místního sdružení Piráti Příbram, kde se stala místopředsedkyní. Tři roky působila v předsednictvu krajského sdružení Středočeského kraje a byla zvolena do Republikového výboru, kde působí dodnes. Za Piráty kandidovala poprvé ve volbách do Poslanecké sněmovny v roce 2013. V roce 2017 byla zvolena do Poslanecké sněmovny z druhého místa středočeské kandidátky. Ve volbách do Poslanecké sněmovny v roce 2021 se rozhodla nekandidovat.
