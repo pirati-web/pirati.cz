@@ -6,14 +6,12 @@ fullname: Ing. Dana Balcarová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 img: people/dana-balcarova.jpg   # 165 x 220
-description: členska Republikového výboru Pirátů             	# kratký popis, max 160 znaků
+description: členka Republikového výboru Pirátů, exposlankyně PSP ČR             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
 mob:			  +420 770 113 649
 asistenti:
-  - name: Lukáš Blažej
-  - name: Nikola Havlová
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/dana.balcarova
@@ -29,4 +27,7 @@ calendar: 2usth4v1d8e5svifj34eg15kfk%40group.calendar.google.com
 ---
 
 Dana Balcarová (* 1960, Pardubice) se věnuje životnímu prostředí. Vystudovala SPŠE a informatiku na VŠE. Dodatečně se vzdělala v oblasti Environmentální ekonomie na VŠE Praha.‭ Pracovala v několika firmách,‭ ‬kde se na manažerské úrovni věnovala informačním systémům a databázím‭ (‬Lidové noviny,‭ ‬Česká inspekce životního prostředí,‭ ‬SCIO,‭ ‬Hestia,‭ ‬o.s.‭‭)‬‭ Od roku‭ ‬2006‭ ‬je místopředsedkyní iniciativy Krocan působící na Praze‭ ‬9, kde se věnuje ochraně zeleně, ‬pořádání občanských akcí a územnímu rozvoji.‭ V roce 2014 byla zvolena zastupitelkou na místní části Praha 9 jako nezávislá s podporou Pirátů. 
+
 V roce 2017 byla zvolena z druhého místa pražské pirátské kandidátky do Poslanecké sněmovny PČR. Ve Sněmovně zastávala funkci předsedkyně Výboru pro životní prostředí. Dana má ráda pohyb,‭ ‬chodí po městě i horách,‭ ‬čte a poslouchá hudbu,‭ ‬tančí.‭ ‬
+
+Pozici poslankyně za Prahu v roce 2021 neobhájila.
