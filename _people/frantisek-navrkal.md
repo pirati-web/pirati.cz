@@ -29,3 +29,5 @@ Mezi Františkovy zájmy patří počítačové hry, jízda automobilem, informa
 Do strany vstoupil kvůli zájmu o liberalizaci Internetu, rozvoj osobních svobod, informovanost a vzdělanost občanů, vědu, napřímení demokracie a zvýšení efektivity státní správy České republiky.
 
 Členem strany je od července 2012. Ve straně se zabývá hlavně předpisy, administrativou a politickým programem.
+
+V roce 2019 se stal poslancem PSP ČR za Ústecký kraj, když jako náhradník nastoupil na uvolněné místo po Mikuláši Peksovi, který byl zvoleen europoslencem. V roce 2021 poslaneckou pozici ve volbách neobhájil.
