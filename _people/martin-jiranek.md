@@ -6,7 +6,7 @@ fullname: Ing. Martin Jiránek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - hradec
 img: people/martin-jiranek.jpg           # 165 x 220
-description: zastupitel za Piráty a Stranu Zelených v zastupitelstvu Královéhradeckého kraje # kratký popis, max 160 znaků
+description: místopředseda Pirátů, zastupitel Královéhradeckého kraje, exposlanec # kratký popis, max 160 znaků
 ordpsp: 4
 direct-contact: false
 mail:
@@ -16,12 +16,6 @@ office:
   - address: Jihoslovanská 142, 541 01, Trutnov
     opening:
 asistenti:
-  - name: Petr Pleticha
-    tel: +420 603 460 210
-    mail: petr.pleticha@pirati.cz
-  - name: Alena Valentová
-    mail: info@piratitrutnov.cz
-    tel:  +420 731 609 213
 profiles:
   github:
   facebook:				https://www.facebook.com/martin.jiranek.trutnov
@@ -34,6 +28,8 @@ mpv: 281
 ---
 
 Martin Jiránek (* 10. dubna 1978) je pirátským krajským zastupitelem v opozici. Členem Pirátů je od roku 2010.
+
+Mezi lety 2017 a 2021 vykonával funkci poslance Královéhradeckého kraje. V roce 2022 byl zvolen místopředsedou Pirátů.
 
 Maturoval na Gymnáziu v Trutnově a má vystudovaný obor Informační management na Univerzitě Hradec Králové. Celou svou profesní kariéru pomáhá primárně malým firmám a živnostníkům s marketingem a nastavením firemních procesů. Jeho hlavní ideou je mít úspěšné lokální podnikatele a udržet tak více peněz v regionu.
 
