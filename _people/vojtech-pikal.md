@@ -6,16 +6,12 @@ fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: # kratký popis, max 160 znaků
+description: exposlanec, dřívější místopředseda PSP ČR  # kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
 direct-contact: true
 asistenti:
-  - uid: nela.chudova
-    name: Nela Chudová
-    mail: nela.chudova@pirati.cz
-    tel:  734 182 042
 office: 
   - address: 8. května 522, 779 00  Olomouc
     opening: "Pondělí 9:00 - 13:00, případně po telefonické domluvě na +420 734 182 042 "
