@@ -11,13 +11,6 @@ mail:
 - tomas.martinek@pirati.cz
 mob:	        +420 728 237 646
 asistenti:
-  - name: Ing. Lukáš Forýtek
-    mail: asistent@tomas-martinek.eu
-    tel:  603 527 606
-  - name: RNDr. Martin Rejman, Ph.D.
-    mail: asistent@tomas-martinek.eu
-  - name: Marek Förster
-    mail: jablonec@tomas-martinek.eu
 office:
   - address: Děčínská 361, 470 01 Česká Lípa
     opening: Pondělí 16-18 hod., setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
@@ -35,7 +28,7 @@ mpv: 315
 ---
 ## Životopis
 
-Tomáš Martínek (* 1986) byl pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Po Obchodní akademii v České Lípě vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec je členem volebního a rozpočtového výboru.
+Tomáš Martínek (* 1986) byl pirátský poslanec PSP ČR za Liberecký kraj a bývalý opoziční zastupitel města Česká Lípa, odkud pochází. Na mandát zastupitele města Česká Lípa rezignoval po zvolení do Poslanecké sněmovny Parlamentu ČR, aby nekumuloval funkce a mohl se plně věnovat práci poslance. Po Obchodní akademii v České Lípě vystudoval Provozně ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr. V současné době působí i nadále na této škole jako doktorand oboru Informační management (Ph.D.). Zaměřuje se na e-government (informační systémy veřejné správy, elektronické volby apod.), mediální oblast, pracovní trh nebo finanční sektor. Jako poslanec byl členem volebního a rozpočtového výboru.
 
 Zabývá se také implementací informačních systémů jako fakultní systémový integrátor na Provozně ekonomické fakultě ČZU v Praze. Je také členem Rady pro vnitřní hodnocení ČZU. Prošel několika firmami, kde se věnoval převážně reklamě a marketingu. V současné době je podnikatelem v oboru internetového marketingu, konkrétně vlastní agenturu [WebCesky.cz](https://www.webcesky.cz). 
 
