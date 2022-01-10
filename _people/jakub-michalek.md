@@ -37,7 +37,7 @@ carousel:
   img: jakub-michalek.jpg
   text: |
     <p><strong>Předseda poslaneckého klubu Pirátů</strong>, místopředseda ústavně právního výboru PSP ČR a poslanec Pirátů zodpovědný za oblast justice.</p>
-    <p>Mgr. et Mgr. Jakub Michálek, Ph.D., vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. </p>
+    <p>Mgr. et Mgr. Jakub Michálek, Ph.D., vystudoval právo a fyziku na Karlově univerzitě, následně pracoval jako právník, pražský zastupitel a poslanec. Zaměřuje se na svobodný přístup k informacím, autorské právo a digitální ekonomiku. Od roku 2017 je poslancem PSP ČR za Prahu, za níž byl opakovaně zvolen poslancem i v roce 2021.</p>
 ---
 
 Jakub Michálek (* 6. února 1989 Louny) je předsedou poslaneckého klubu Pirátů. Na Univerzitě Karlově vystudoval teoretickou fyziku a doktorské studium teorie práva se zaměřením na jeho počítačové modelování. Část střední školy studoval v zahraničí (UK, USA). 
