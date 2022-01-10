@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rv
 - vlada
 img: people/jan-lipavsky.jpg   # 165 x 220
-description: člen Republikového výboru Pirátů, nominant na ministra pro Zahraniční věci             	# kratký popis, max 160 znaků
+description: člen Republikového výboru Pirátů, ministr zahraničních věcí             	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - jan.lipavsky@pirati.cz
@@ -36,3 +36,4 @@ Postupně se vypracoval do manažerských pozic v oblasti informačních technol
 
 Členem Pirátské strany je od 2015. Na podzim 2017 byl zvolen z pátého místa kandidátní listiny poslancem PSP ČR za Piráty v Praze a zastával pozici místopředsedy Poslaneckého klubu Pirátů.
 
+Ve volbách v roce 2021 poslance za Prahu znovuzvolen nebyl. Jako kandidát na ministra koalic Pirátů a Starostů byl navržen na post ministra zahraničních věcí ve vládě Petra Fialy. Ministrem se stal v prosinci 2021.
