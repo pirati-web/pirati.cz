@@ -20,7 +20,7 @@ ordpsp: 4
 
 ---
 
-Klára Kocmanová (* 5. listopadu 1992) pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Dlouhodobě se věnuje sociálním tématům a životnímu prostředí. 
+Klára Kocmanová (* 5. listopadu 1992) pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Je poslankyní PSP ČR, do níž byla zvolena na kandidátce Středočeského kraje, z pozice jedničky společné kandidátky Pirátů a STAN. Dlouhodobě se věnuje sociálním tématům a životnímu prostředí. 
 
 Chce se zaměřit na dostupné bydlení, na zavedení zákona o podpoře v bydlení a na transformaci velkokapacitních ústavů na menší, komunitní centra a bude prosazovat změnu legislativy v oblasti domácího násilí a znásilnění. Také se chce zasadit o ochranu osobních údajů, zejména na internetu. Podpoří legislativu, která občany ochrání před plošným sběrem a zneužíváním jejich osobních biometrických údajů a dat.
 
