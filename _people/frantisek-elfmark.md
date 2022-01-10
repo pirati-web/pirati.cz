@@ -6,22 +6,13 @@ fullname: František Elfmark  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: zatupitel města Uherské Hradiště            	# kratký popis, max 160 znaků
+description: zatupitel města Uherské Hradiště, exposlanec            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - elfmarkf@psp.cz
 mob:	  
 web: www.frantisekelfmark.cz
 asistenti:
-  - name: Iva Kučerová (Uherské Hradiště)
-    mail: iva.kucerova@pirati.cz
-    tel:  735 794 141
-  - name: Jana Míšková (Praha)
-    mail: jana.miskova@pirati.cz
-    tel:  724 888 664
-  - name: Jakub Brejša (Praha)
-    mail: brejsaj@psp.cz
-    tel:  774 623 653
 office: 
   - address: Stojanova 1334, 3. patro budovy Triangl, Uherské Hradiště
     opening: 
@@ -48,3 +39,6 @@ V komunálních volbách v roce 2014 šel jako lídr místního hnutí do komun�
 Veřejně se angažuje jako zakladatel a jednatel zapsaného spolku [Přátelé zpětné vazby z.s](http://www.klubpzv.cz/){:target="_blank"}. Spolek podporuje začínající a amatérské hudební a umělecké skupiny, umělce, fotografy na Slovácku. Je zakladatelem největšího online “blešáku” na Slovácku – [Uháčko.cz](https://www.uhacko.cz){:target="_blank"}.
 
 Politiku se snaží dělat především lidsky, každý názor občana je pro něj důležitý. Svoji energii kromě moderních IT technologií směruje především do životního prostředí (odpadové a oběhové hospodářství, ochrana chráněných druhů zvěře, renovace věcí aj.). Ve volném čase se věnuje rodině, chalupaření, kutilství, čtení knih, fotografování, kreslení a již od 13 let hudbě.
+
+
+Na kandidátce Zlínského kraje pozici poslance v roce 2021 neobhájil.
