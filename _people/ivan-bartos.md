@@ -10,7 +10,7 @@ category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 - vlada
 img: people/ivan-bartos.jpg # 165 x 220
-description: předseda Pirátů, poslanec PSP ČR za Ústecký kraj
+description: předseda Pirátů, poslanec PSP ČR za Ústecký kraj, ministr, vicepremiér
 direct-contact: true
 mail:
 - ivan.bartos@pirati.cz
@@ -45,7 +45,7 @@ calendar: iv0smi3uu85k9pu53o4an8ejuk%40group.calendar.google.com
 
 ---
 
-Ivan Bartoš (* 20. března 1980) je dlouholetým předsedou České pirátské strany, stál už u jejího vzniku v roce 2009. Na podzim 2017 byl zvolen poslancem za Středočeský kraj, od té doby působí rovněž jako předseda sněmovního Výboru pro veřejnou správu a regionální rozvoj. Jako celostátní lídr koalice Pirátů a STAN kandidoval v podzimních volbách do Poslanceké sněmovny 2021 za Ústecký kraj, ve kterých byl znovu zvolen poslancem PSP.
+Ivan Bartoš (* 20. března 1980) je dlouholetým předsedou České pirátské strany, stál už u jejího vzniku v roce 2009. Na podzim 2017 byl zvolen poslancem za Středočeský kraj, od té doby působí rovněž jako předseda sněmovního Výboru pro veřejnou správu a regionální rozvoj. Jako celostátní lídr koalice Pirátů a STAN kandidoval v podzimních volbách do Poslanceké sněmovny 2021 za Ústecký kraj, ve kterých byl znovu zvolen poslancem PSP. Ve vládě zformované na konci roku 2021 zaujal post ministra pro místní rozvoj a zároveň se stal vicepremiérem ve vládě Petra Fialy.
 
 Ivan se narodil v severočeském Jablonci nad Nisou, kde také prožil celé svoje dětství. V sedmnácti letech vyjel na zkušenou do Spojených států amerických, zde i úspěšně odmaturoval.  Následně složil rovněž českou maturitní zkoušku v rodném městě na Gymnáziu U Balvanu. V devatenácti letech začal studovat v Praze na dvou vysokých školách: teologii na Husitské teologické fakultě a informační studia a knihovnictví na Filozofické fakultě Univerzity Karlovy. Nakonec se rozhodl více zaměřit na informační studia, v nichž získal v roce 2013 velký doktorát. Během studií se také ještě jednou vrátil do Ameriky, kde absolvoval jeden semestr na Fakultě počítačových věd na University of New Orleans. Profesně působil v několika českých a nadnárodních společnostech v oboru informačních technologií, pracoval například pro Newton IT, Monster Worldwide, T-Mobile či startoval pracovní portál Air Jobs. 
 
@@ -56,5 +56,4 @@ Rodiče ho už od dětství vedli k lásce k hudbě, ta ho doprovází i do dosp
 Je ženatý s Lydií Frankou, členkou České pirátské strany, s kterou vychovávají dceru Amálku. V létě 2020 se jim narodil syn Bertram. 
 
 Jeho největšími hodnotami jsou svoboda a vzájemná tolerance, které se snaží prosazovat jak v osobním, tak i politickém životě.
-
-
+ 
