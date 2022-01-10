@@ -13,9 +13,6 @@ mail:
 mob:			  +420 607 580 015
 direct-contact: false
 asistenti:
-  - name: Dan Kolář
-    mail: KolarDan@psp.cz
-    tel:  +420 778 111 470
 profiles:
   web:          https://www.profant.eu
   github:       https://github.com/kedrigern
