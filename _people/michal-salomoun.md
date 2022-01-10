@@ -6,7 +6,7 @@ fullname: JUDr. MgA. Michal Šalomoun, Ph.D.   	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vlada
 img: people/michal-salomoun.jpg    # 165 x 220
-description: nominant Pirátů na pozici Ministra pro legislativu # kratký popis, max 160 znaků
+description: ministr pro legislativu # kratký popis, max 160 znaků
 mail:
 - michal.salomoun@pirati.cz
 direct-contact: false
@@ -24,6 +24,6 @@ Paralelně se studem na JAMU studoval Právnickou fakultu Masarykovy Univerzity 
 Po studiích začal pracovat na Krajském úřadu Kraje Vysočina jako právník sekretariátu ředitelky. Po dvou letech odešel do advokacie, kde působil nejdříve jako advokátní koncipient a následně jako samostatný advokát.
 Příležitostně spolupracuje s Právnickou fakultou MU v Brně jako externí vyučující v oblasti práva duševního vlastnictví. V oblasti duševního vlastnictví mu vyšlo několik monografií jako Ochrana názvů, postav a příběhů uměleckých děl, Právní aspekty humoru, naposled spoluautor rozsáhlého komentáře k autorskému zákonu.
 
-Spolupracuje několik let s Českou pirátskou stranou. V roce 2017 neúspěšně za Piráty kandidoval do PSP, v roce 2018 do Senátu, 2019 do EP.
+Spolupracuje několik let s Českou pirátskou stranou. V roce 2017 neúspěšně za Piráty kandidoval do PSP, v roce 2018 do Senátu, 2019 do EP. V roce 2021 se stal ministrem pro legislativu a předsedou Legislativní rady vlády.
 
 Je vášnivým houbařem a chovatelem včel.
