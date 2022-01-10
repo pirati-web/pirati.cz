@@ -6,7 +6,7 @@ fullname: Bc. Jan Pošvář  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vys
 img: people/jan-posvar.jpg   # 165 x 220
-description: předseda krajského sdružení Vysočina            	# kratký popis, max 160 znaků
+description: předseda krajského sdružení Vysočina, exposlanec            	# kratký popis, max 160 znaků
 direct-contact: true
 mail:
 - jan.posvar@pirati.cz
@@ -22,7 +22,7 @@ report: 1sXIZ706V7IJMuZETOl33SNVRwXvwTF7y
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g%40group.calendar.google.com
 ---
 
-Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského krajského sdružení. V letech 2017-2021 zvolen jako poslanec za Vysočinu. V Poslanecké sněmovně byl členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise. 
+Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského krajského sdružení. V letech 2017-2021 působil jako poslanec za Vysočinu. V Poslanecké sněmovně byl členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise.
 
 Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti T-SOFT a.s., kde se podílel na vývoji informačních systémů. Během svého života se učil i řemeslu svého otce a od června 2013 získal řemeslnou živnost – malířské a natěračské práce.
 
