@@ -6,7 +6,7 @@ fullname: Ing. Lukáš Bartoň, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - plk
 img: people/lukas-barton.jpg   # 165 x 220
-description: předseda krajského sdružení Plzeňský kraj            	# kratký popis, max 160 znaků
+description: předseda krajského sdružení Plzeňský kraj, exposlanec            	# kratký popis, max 160 znaků
 ordpsp: 11
 direct-contact: true
 mail:
@@ -30,7 +30,9 @@ calendar: frcko71obqued67aa05k4cfbo8%40group.calendar.google.com
 
 Ing. Lukáš Bartoň, Ph.D. (* 1981, České Budějovice)
 
-Od roku 2017 byl poslancem Parlamentu České republiky. Ve sněmovně bylo hlavním předmětem jeho zájmu oblast školství na všech úrovních. Byl místopředsedou Školského výboru a předsedou Podvýboru pro regionální školství. Zabývá se zejména tématy koncepce a rozvojem školské soustavy, strategickými dokumenty v oblasti školství a zvyšování kvality vzdělávání. Mezi jeho hlavní témata patří oblast maturitních zkoušek, kde předložil novelu školského zákona, dále umožnění individuálního vzdělávání, důraz na růst platů učitelů a další témata, která vedou ke zvýšení kvality vzdělávání. Podrobně se věnuje i oblasti sportu, kde je jeho vizí udělat sport i sportoviště dostupné pro volnočasové využití zejména dětem, ale i všem sportovním amatérům. V Poslanecké sněmovně předložil novelu o dekriminalizaci nějakého toho piva u vodáku na vodě. Dále se zabývá tvorbou a prosazením zákona o eutanázii. V Plzeňském kraji je od roku 2013 předsedou krajského sdružení Pirátů.
+Od roku 2017 byl poslancem Parlamentu České republiky. Ve sněmovně byla hlavním předmětem jeho zájmu oblast školství na všech úrovních. Byl místopředsedou Školského výboru a předsedou Podvýboru pro regionální školství. Ve sněmovních volbách v roce 2021 poslancem zvolen nebyl.
+
+Zabývá se zejména tématy koncepce a rozvojem školské soustavy, strategickými dokumenty v oblasti školství a zvyšování kvality vzdělávání. Mezi jeho hlavní témata patří oblast maturitních zkoušek, kde předložil novelu školského zákona, dále umožnění individuálního vzdělávání, důraz na růst platů učitelů a další témata, která vedou ke zvýšení kvality vzdělávání. Podrobně se věnuje i oblasti sportu, kde je jeho vizí udělat sport i sportoviště dostupné pro volnočasové využití zejména dětem, ale i všem sportovním amatérům. V Poslanecké sněmovně předložil novelu o dekriminalizaci nějakého toho piva u vodáku na vodě. Dále se zabývá tvorbou a prosazením zákona o eutanázii. V Plzeňském kraji je od roku 2013 předsedou krajského sdružení Pirátů.
 
 Dříve učil na Strojní fakultě v Plzni a vedl vědecké pracoviště. Na stejné fakultě vystudoval obor Konstruktér a následně získal doktorát. Byl lektorem dalšího vzdělávání pro podniky v Plzeňském kraji v oblasti technické dokumentace. Byl také externím konstruktérem, kdy se zabýval mimo jiné konstrukcí zařízení pro elektrárny (JE Temelín) i konstrukcí výrobních strojů a zařízení. Poté vedl Zkušebnu provozní pevnosti a únavové životnosti Regionálního technologického institutu.
 
