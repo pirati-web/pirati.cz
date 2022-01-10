@@ -39,7 +39,7 @@ V krajských volbách v letech 2012 a 2016 kandidoval za Piráty do Zastupitelst
 
 Ve volbách do Poslanecké sněmovny PČR v roce 2013 kandidoval za Piráty v Moravskoslezském kraji, ale neuspěl. Podařilo se mu to až ve volbách v roce 2017, když byl za Piráty zvolen poslancem v Moravskoslezském kraji ze druhého místa kandidátky. V komunálních volbách v roce 2018 kandidoval za Piráty do Zastupitelstva města Ostravy i městského obvodu Moravská Ostrava a Přívoz, ale ani v jednom případě neuspěl.
 
-Pozici poslance na kandidátce Moravskoslezského kraje v roce 2021 neobhájil.
+Na kandidátce Moravskoslezského kraje pozici poslance v roce 2021 neobhájil.
 
 ## Aktivity ve sněmovně
 
