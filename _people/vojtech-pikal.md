@@ -3,10 +3,10 @@ data-version: 2
 uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
-category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:                	# kategorie: praha, vary, hradec, jmk, senat
 - rp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: 2. místopředseda Pirátů # kratký popis, max 160 znaků
+description: # kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
