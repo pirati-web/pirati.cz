@@ -30,7 +30,7 @@ František Kopřiva (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2
 
 Do Pirátské strany vstoupil na jaře 2014, poté, co jako příznivec pomáhal v několika kampaních. Byl aktivním členem Zahraničního odboru a zapojoval se do činnosti Mladých Pirátů, v letech 2018-2019 byl předsedou Young Pirates of Europe. Působil v předsednictvu středočeského sdružení a od srpna 2015 je členem Republikového výboru. V roce 2016 byl lídrem v krajských volbách ve Středočeském kraji, kde Piráti získali 3,5 %. V roce 2017 byl zvolen ze třetího místa do Poslanecké sněmovny za Středočeský kraj, kde Piráti obdrželi 12,08 %, a stal se tak nejmladším pirátským poslancem. 
 
-V roce 2021 z kkandidátky Středočeského kraje pozici poslance neobhájil.
+V roce 2021 z kandidátky Středočeského kraje pozici poslance neobhájil.
 
 V [Poslanecké sněmovně](https://www.psp.cz/sqw/detail.sqw?id=6499/) působil František jako místopředseda Výboru pro evropské záležitosti, kde aktivně [připomínkoval](https://www.psp.cz/sqw/eulist.sqw?zx=6499) unijní legislativu a pozice české vlády. Byl také aktivním členem [delegace do Parlamentního shromáždění Rady Evropy](https://pace.coe.int/en/members/7854/kopriva). Kromě evropských záležitostí se věnuje lidským právům v Česku i ve světě, obraně online svobod, rovnosti žen a mužů, prosazuje manželství pro všechny a podporuje politickou partici především mladých lidí. Spolupředsedá Parlamentní skupině přátel Tibetu. V rámci poslaneckého klubu vedl [rezortní tým Evropa, zahraničí, obrana](https://www.pirati.cz/pripoj-se/ezo/) a [mezirezortní tým Lidská práva](https://www.pirati.cz/pripoj-se/lidska-prava/). 
 
