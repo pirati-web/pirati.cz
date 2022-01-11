@@ -5,7 +5,6 @@ name:     Olga Richterová  	# běžně používáné jméno
 fullname: Olga Richterová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
-- rp
 img: people/olga-richterova.jpg   # 165 x 220
 description: poslankyně, místopředsedkyně PSP ČR            	# kratký popis, max 160 znaků
 direct-contact: true
@@ -33,7 +32,6 @@ ordpsp: 16
 ordpraha: 5
 redmine: 99
 mpv: 99
-ordrp: 2
 report: 1JB7dxmcnOkXCjebIjAnSxlIWo91NvKUf
 calendar: gn1i05sfapugq65d6l5jcav8b4%40group.calendar.google.com
 ---
