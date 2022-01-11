@@ -3,7 +3,7 @@ date:         2022-01-11
 category:     blog
 tags:         energetika práce-a-sociální-věci
 layout:       post
-title:        "Pětikoalice prosadila ve Sněmovně pomoc lidem zasaženým energetickou krizí, korespondenční volbu i zrychlení a usnadnění stavebního řízení"
+title:        "Pětikoalice prosadila ve Sněmovně pomoc lidem zasaženým energetickou krizí. Bojuje i za korespondenční volbu a zrychlení a usnadnění stavebního řízení"
 image:        /assets/img/articles/2022/jakub-michalek00.jpg
 author:       
 ---
