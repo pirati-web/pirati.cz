@@ -5,9 +5,10 @@ name:     Martin Jiránek      		# běžně používáné jméno
 fullname: Ing. Martin Jiránek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - hradec
+- rp
 img: people/martin-jiranek.jpg           # 165 x 220
 description: místopředseda Pirátů, zastupitel Královéhradeckého kraje, exposlanec # kratký popis, max 160 znaků
-ordpsp: 4
+ordrp: 5 
 direct-contact: false
 mail:
 - martin.jiranek@pirati.cz
