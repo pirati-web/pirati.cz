@@ -4,9 +4,8 @@ uid: vojtech.pikal
 name:     Vojtěch Pikal  	# běžně používáné jméno
 fullname: Bc. Vojtěch Pikal  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
-- rp
 img: people/vojtech-pikal.jpg    # 165 x 220
-description: exposlanec, dřívější místopředseda PSP ČR  # kratký popis, max 160 znaků
+description: bývalý místopředseda PSP, pozastavující se člen strany  # kratký popis, max 160 znaků
 mail:
 - vojtech.pikal@pirati.cz
 mob:			  +420 778 702 714
@@ -22,8 +21,6 @@ profiles:
   wikipedia:  https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Pikal
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-t&view_all=1&text=Pikal
   psp: http://www.psp.cz/sqw/detail.sqw?id=6531
-ordpsp: 7
-ordrp: 3
 redmine: 69
 mpv: 69
 report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
