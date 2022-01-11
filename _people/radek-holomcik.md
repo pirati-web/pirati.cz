@@ -4,7 +4,6 @@ uid: radek.holomcik
 name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík # jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- rp
 img: people/radek-holomcik.jpg   # 165 x 220
 description: exposlanec          	# kratký popis, max 160 znaků
 ordpsp: 8
@@ -21,7 +20,6 @@ profiles:
 report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
 redmine: 178
 mpv: 178
-ordrp: 4
 calendar: cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com
 <!--report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html-->
 ---
