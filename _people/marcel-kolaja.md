@@ -5,12 +5,14 @@ name:     Marcel Kolaja                      # běžně používáné jméno
 fullname: Marcel Kolaja                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - euro
+- rp
 img: people/marcel_kolaja.jpg           # 165 x 220
-description: Europoslanec, bojovník za svobodný software a expert na opensource technologie
+description: 1. místopředseda strany, místopředseda EP, bojovník za svobodný software a expert na opensource technologie
 mail:
 - marcel.kolaja@pirati.cz
 mob: 
 ordeuro: 1
+ordrp: 1
 asistenti:
   - name: Eszter Bako
     description: Politický poradce
