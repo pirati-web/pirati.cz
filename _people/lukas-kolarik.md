@@ -13,8 +13,6 @@ mail:
 - lukas.kolarik@pirati.cz
 mob:			  
 asistenti:
-  - name: Daniel Galuszka
-  - name: Zuzana Kudláčková
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/kolarikl
