@@ -3,11 +3,10 @@ date:         2022-01-13
 category:     blog
 tags:         legislativa kontrola-moci-a-mocných korupce
 layout:       post
-title:        "Piráti upozornili na problémy kolem Babiše, Rittiga, Savova či Nováka. Soud posoudí, zda zneužívají bílé koně"
+title:        "Piráti upozornili na problémy kolem Babiše, Rittiga, Savova či Nováka. Soud posoudí, zda podnikatelé zneužívají bílé koně"
 image:        /assets/img/articles/2022/jakub-michalek01.jpg
 author:       
 ---
-
 
 
 Praha, 14. ledna 2022 – Na základě zákona o evidenci skutečných majitelů musely firmy nejpozději do 1. prosince 2021 uvést, kdo je ve skutečnosti ovládá, a nikoliv pouze formálně vlastní. Dosazování tzv. bílých koní do společností získávajících veřejné peníze je závažný problém, kterému má Piráty prosazovaný zákon zamezit. Řada kontroverzních osob se ovšem dál v registru skutečných majitelů skrývá za zřejmě pouze nastrčené osoby. Například přes 200 společností z koncernu Agrofert a SynBiol uvedlo v registru jinou osobu než Andreje Babiše. Předseda poslaneckého klubu Pirátů Jakub Michálek v této věci podal podnět na příslušný rejstříkový soud. Další podnět popisující osm obdobných případů podal analytik Poslaneckého klubu Pirátů Janusz Konieczny. Zaměřil se na společnosti napsané na lidi bez domova či společnost, kterou dle policie skrytě ovládá stíhaný František Savov v kauze daňových podvodů za 600 milionů Kč. Podnět míří i na podvodnou směnárnu napsanou na ukrajinského dělníka, který je zřejmě opět v postavení bílého koně. 
