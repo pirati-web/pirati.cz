@@ -6,11 +6,6 @@ img: teams/resorty/ezo.jpg
 leader: marketa.gregorova
 deputy:
  - jan.lipavsky
-contact-local:
-  name: Alexandr Mansurov
-  mob:
-  mail: alexandr.mansurov@pirati.cz
-  img: 
 category: resort
 redmine: https://redmine.pirati.cz/projects/resort-evropska-unie-zahranici-obrana
 uid: ezo
@@ -84,9 +79,9 @@ EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se
 * **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně
 * **[Tomáš Guth Jarkovský](/lide/tomas-guth-jarkovsky/)**, vedoucí MRT Lidská práva
 * **[Marcel Kolaja](/lide/marcel-kolaja)**, místopředseda Evropského parlamentu
-* **[František Kopřiva](/lide/frantisek-kopriva)**, 
+* **[František Kopřiva](/lide/frantisek-kopriva)**
 * **[Jan Lipavský](/lide/jan-lipavsky)**, ministr zahraniční věci ČR
-* **Alexandr Mansurov**, asistent Františka Kopřivy
+* **Alexandr Mansurov** 
 * **[František Navrkal](/lide/frantisek-navrkal)**, poslanec, člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), člen Podvýboru pro rozvojovou spolupráci
 * **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
 * **David František Wagner**, asistent Mikuláše Peksy
