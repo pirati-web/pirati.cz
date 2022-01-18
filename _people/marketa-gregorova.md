@@ -6,7 +6,7 @@ fullname: Markéta Gregorová                  # jméno s tituly etc.
 category:                                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - euro
 img: people/marketa-gregorova.jpg           # 165 x 220
-description: Europoslankyně, předsedkyně Evropské pirátské strany
+description: Europoslankyně
 mail:
 - marketa.gregorova@pirati.cz
 mob: 
