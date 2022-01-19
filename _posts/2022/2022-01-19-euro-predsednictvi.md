@@ -1,7 +1,7 @@
 ---
 date:         2022-01-19
 category:     blog
-tags:         předsednictví europarlament kolaja gregorová peksa
+tags:         evropská-unie zahraničí
 layout:       post
 title:        "Piráti oceňují priority francouzského předsednictví. Varují ale před volbami"
 image:        /assets/img/articles/2021/kolaja-gregorova-peksa.jpg
