@@ -70,7 +70,7 @@ Marcel Kolaja se narodil 29. června 1980 a vyrůstal v Lanškrouně. Od vysoko�
 
 Ve volném čase běhá, jezdí na kole či na motorce a vyráží na výlety se psím parťákem Freddiem. Je velkým milovníkem hor a přírody obecně.
 
-Členem Pirátské strany je od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku je také místopředsedou Evropského parlamentu. 
+Členem Pirátské strany je od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku do roku 2022 působil jako místopředseda Evropského parlamentu. Aktuálně zde zastává pozici kvestora.
 
 V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 
