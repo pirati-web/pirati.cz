@@ -64,7 +64,7 @@ img: brand/logo.svg
                                 <li class="c-simple-accordion-item" data-accordion-item="">
                                     <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
                                     <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                         Více o předsednictvu stany najdete na <a href="https://rp.pirati.cz/">jeho webu</a>.
+                                         Více o předsednictvu stany najdete na <a href="https://rp.pirati.cz/">jeho webu</a>. <br>
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
