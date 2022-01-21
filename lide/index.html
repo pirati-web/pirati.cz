@@ -61,8 +61,9 @@ img: brand/logo.svg
                             </div>
                             {% endcomment %}
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                <li class="c-simple-accordion-item" data-accordion-item="">
                                     <a href="#rp" class="c-simple-accordion-title">Předsednictvo strany</a>
+                                    Více o předsednictvu stany najdete na <a href="https://rp.pirati.cz/">jeho webu</a>.
                                     <div id="rp" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'rp'" | sort:"ordrp" %}
                                         {% include people/list-2col.html param=team %}
@@ -70,7 +71,7 @@ img: brand/logo.svg
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                     <a href="#vlada" class="c-simple-accordion-title">Členové vlády</a>
                                     <div id="vlada" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'vlada'" | sort:"ordvlada" %}
