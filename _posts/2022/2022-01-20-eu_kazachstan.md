@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie kazachstán
 layout:       post
 title:        "Europoslanci odsoudili násilí v Kazachstánu. “Pusťte demonstranty z vězení,” vyzývají v rezoluci"
-image:        /assets/img/articles/2022/marketa_plenum.jpg
+image:        /assets/img/articles/2022/gregorova_kazachstan.jpg
 author:       
 ---
 
