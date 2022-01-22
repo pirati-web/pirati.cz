@@ -18,7 +18,7 @@ markdown: kramdown
 theme: jekyll-theme-pirati
 
 administrator:
-  email: jitka.novotna@pirati.cz, marek.krejpsky@pirati.cz # mail kam pujdou chybove vystupy
+  email: marek.krejpsky@pirati.cz # mail kam pujdou chybove vystupy
 
 plugins:
   - jekyll-paginate
