@@ -4,7 +4,8 @@ uid: michal.salomoun
 name:     Michal Šalomoun  	# běžně používáné jméno
 fullname: JUDr. MgA. Michal Šalomoun, Ph.D.   	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
-- vlada
+  - vlada
+  - ministr-legislativa
 img: people/michal-salomoun.jpg    # 165 x 220
 description: ministr pro legislativu # kratký popis, max 160 znaků
 mail:

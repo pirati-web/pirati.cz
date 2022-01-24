@@ -1,0 +1,184 @@
+---
+layout: default
+img: brand/logo.svg
+---
+{% include submenu.html %}
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    <div class="c-BasicPage">
+                        <div class="c-BasicPage-content">
+                            {% comment %}
+                            <div class="c-BasicPage-header c-BasicPage-header--horizontal c-BasicPage-header--horizontal--mobilestacked">
+                                <h1 class="c-BasicPage__title"> Organizace </h1>
+                                <div class="c-BasicPage__meta">
+                                    <div class="c-BasicPage__meta-filters">
+                                        <div class="c-BasicPage__meta-filter-block">
+                                            <div class="c-BasicPage__meta-filters__title">Filtr</div>
+                                        </div>
+                                        <div class="c-BasicPage__meta-filter-block">
+                                            <div class="c-BasicPage__meta-filter">
+                                                <button class="c-BasicPage__meta-filter-btn" type="button" data-toggle="category-filters">Všechny kategorie</button>
+                                                <div class="c-BasicPage__meta-filter-dropdown" id="category-filters" style="display: none; " data-toggler="is-open">
+                                                    <ul>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group3" value="">
+                                                            <label for="group3">Ministerstvo pro místní rozvoj</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group1" value="">
+                                                            <label for="group1">Ministerstvo zahraničí</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group2" value="">
+                                                            <label for="group2">Ministr pro legislativu </label>
+                                                        </li>                                                       
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group4" value="">
+                                                            <label for="group4">Ministerstvo zdravotnictví</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group5" value="">
+                                                            <label for="group5">Ministerstvo zemědělství</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group6" value="">
+                                                            <label for="group6">Ministerstvo průmyslu a obchodu</label>
+                                                        </li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group7" value="">
+                                                            <label for="group7">Ministerstvo vnitra</label>
+                                                        </li>                                                       
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group9" value="">
+                                                            <label for="group9">Ministerstvo kultury</label>
+                                                        </li>                                                        <li class="spacer"></li>
+                                                        <li>
+                                                            <input type="checkbox" name="group[]" id="group0" value="" checked="">
+                                                            <label for="group0">Všechny kategorie</label>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endcomment %}
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mmr" class="c-simple-accordion-title">Ministerstvo pro místní rozvoj</a>
+                                    <div id="mmr" class="c-simple-accordion-content" data-tab-content="">
+                                         Více o Ministerstvu pro místní rozvoj najdete na <a href="https://www.mmr.cz/">jeho webu</a>. <br>
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mmr'" | sort:"ordmmr" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mzv" class="c-simple-accordion-title">Ministerstvo zahraničních věcí</a>
+                                    <div id="mzv" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mzv'" | sort:"ordmzv" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="ml" class="c-simple-accordion-title">Ministr pro legislativu</a>
+                                    <div id="ml" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ministr-legislativa'" | sort:"ordml" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mze" class="c-simple-accordion-title">Ministerstvo zemědělství</a>
+                                    <div id="mze" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mze'" | sort:"ordmze" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mz" class="c-simple-accordion-title">Ministerstvo zdravotnictví</a>
+                                    <div id="mz" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mz'" | sort:"ordmz" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mpo" class="c-simple-accordion-title">Ministerstvo průmyslu a obchodu</a>
+                                    <div id="mpo" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mpo'" | sort:"ordmpo" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mv" class="c-simple-accordion-title">Ministerstvo vnitra</a>
+                                    <div id="mv" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mv'" | sort:"ordmv" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mk" class="c-simple-accordion-title">Ministerstvo kultury</a>
+                                    <div id="mk" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mk'" | sort:"ordmk" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>
+{% comment %}
+# CSS_HACK: aby nebyl bílej proužek pod sliderem
+<div class="c-hero" style="margin-bottom: -1.5rem;position: relative;">
+<div class="c-hero">
+        <div class="row">
+            <div class="c-hero-container">
+            <div class="small-12 columns">
+                <div class="c-hero-block">
+                    <h1 class="c-hero__title">Naši lidé</h1>
+                </div>
+                <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
+                    <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
+                        <button class="orbit-previous">
+                            <span class="show-for-sr">Předchozí záložka</span>
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                        </button>
+                        <button class="orbit-next">
+                            <span class="show-for-sr">Další záložka</span>
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                        </button>
+                        <ul class="orbit-container">
+                            {% assign team = site.people | where_exp:"item","item.categories contains 'carousel'" | sort:"ordcar" %}
+                            {% for person in team %}
+                            {% include people/carousel.html param='person' %}
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endcomment %}

@@ -73,6 +73,8 @@ main:
         name: Senát
       - link: /europarlament
         name: Europarlament
+      - link: /lide-vlada
+        name: VLÁDA A MINISTERSTVA
   - notInMainManu: yes
     link: /europarlament/
     name: Piráti v europarlamentu

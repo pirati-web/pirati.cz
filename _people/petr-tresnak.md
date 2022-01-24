@@ -6,6 +6,7 @@ fullname: Ing. Petr Třešňák  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 - ga
+- mpo
 img: people/petr-tresnak.jpg # 165 x 220
 description: předseda krajského sdružení Pirátů v Karlovarském kraji, exposlanec            	# kratký popis, max 160 znaků
 direct-contact: false

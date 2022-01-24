@@ -4,6 +4,7 @@ uid: radek.holomcik
 name:     Radek Holomčík  	# běžně používáné jméno
 fullname: Mgr. Radek Holomčík # jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- mze
 img: people/radek-holomcik.jpg   # 165 x 220
 description: exposlanec          	# kratký popis, max 160 znaků
 ordpsp: 8
