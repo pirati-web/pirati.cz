@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - mz
-description: Radní Mariánských Lázní
+description: náměstek ministra zdravotnictví
 profession: OSVČ, radní města Mariánské Lázně, fotograf, marketér
 heroImg: banner-ml.jpg
 img: people/josef-pavlovic.jpg # zakomentuj radek dokud není fotka
