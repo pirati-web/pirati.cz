@@ -1,7 +1,7 @@
 ---
 date:         2022-01-24
 category:     blog
-tags:         europarlament peksa evropská-unie
+tags:         volby evropská-unie
 layout:       post
 title:        "Evropská pirátská strana má nové vedení i členy"
 image:        /assets/img/articles/2021/mikulas-peksa00.jpg
