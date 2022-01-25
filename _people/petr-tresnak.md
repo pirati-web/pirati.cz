@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - mpo
 img: people/petr-tresnak.jpg # 165 x 220
-description: předseda krajského sdružení Pirátů v Karlovarském kraji, exposlanec            	# kratký popis, max 160 znaků
+description: náměstek ministra průmyslu a obchodu            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
 - tresnakp@psp.cz
