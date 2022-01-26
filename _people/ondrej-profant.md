@@ -5,6 +5,7 @@ name:     Ondřej Profant  	# běžně používáné jméno
 fullname: Ondřej Profant  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
+- mmr
 img: people/ondrej-profant.jpg # 165 x 220
 description: exposlanec PSP ČR za Prahu           	# kratký popis, max 160 znaků
 mail:
