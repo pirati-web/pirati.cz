@@ -34,6 +34,8 @@ calendar: re22cium9203etd7jv7crbf7ck%40group.calendar.google.com
 
 U Pirátů je od začátku a angažuje se v různých funkcích. Od roku 2014 působil jako zastupitel Hl. m. Prahy se specializací na informatiku. Např. poukázal na nezabezpečení pražské radiové sítě. Dále se v Praze zabýval majetkem, dopravou a bezpečností. V roce 2017 byl zvolen do Poslanecké sněmovny, byl členem Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost, Stálé komise pro práci Kanceláře Poslanecké sněmovny, Výboru pro veřejnou správu a regionální rozvoj a podvýborů souvisejících s digitalizací.
 
+Je dlouhodobým zastáncem otevřeného softwaru a jeho používání ve státní správě. Výrazně se podílel na legislativě spojené s digitalizací úřadů – jako předseda sněmovního Podvýboru pro e-Government stál za přípravou tzv. bankovní identity, za kterou převzal ocenění Zákon roku. Prosadil úpravu umožňující nemít u sebe řidičský průkaz. Upozornil také na podezřelou IT zakázku na Ministerstvu kultury, za kterou měl stát utratit 450 milionů korun. Jako náměstek se bude věnovat oblasti digitální trasnfromace Česka.
+
 ### Motivace
 
 Vystudoval všeobecné gymnázium. Dále studoval Matematicko-fyzikální fakultu UK, obor Obecná informatika, ale školu nedokončil. V průběhu studia se však blíže seznámil s principy open source softwaru, což ho přivedlo ke **svobodné kultuře** obecně a následně i k pirátství. Je živnostníkem se specializací na DTP (sazba knih ve svobodném systému LaTeX), programování a skriptování.
