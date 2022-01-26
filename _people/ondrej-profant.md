@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - mmr
 img: people/ondrej-profant.jpg # 165 x 220
-description: exposlanec PSP ČR za Prahu           	# kratký popis, max 160 znaků
+description: náměstek místopředsedy vlády pro digitalizaci           	# kratký popis, max 160 znaků
 mail:
 - profanto@psp.cz
 - ondrej.profant@pirati.cz
