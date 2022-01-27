@@ -25,9 +25,9 @@ profiles:
 ordcar: 2
 ordga: 2
 ordpsp: 21
-report: 16COL5GffnSa9ZSPvRbTs3jwtDlhTm2va
-redmine: 11
-mpv: 11
+#report: 16COL5GffnSa9ZSPvRbTs3jwtDlhTm2va deaktivováno
+#redmine: 11 deaktivováno
+#mpv: 11 deaktivováno
 carousel:
   img: petr-tresnak.jpg
   text: |
