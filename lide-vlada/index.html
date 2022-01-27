@@ -97,6 +97,15 @@ img: brand/logo.svg
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#mf" class="c-simple-accordion-title">Ministerstvo financí</a>
+                                    <div id="mf" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'mf'" | sort:"ordmf" %}
+                                        {% include people/list-2col.html param=team %}
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                     <a href="#mze" class="c-simple-accordion-title">Ministerstvo zemědělství</a>
                                     <div id="mze" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'mze'" | sort:"ordmze" %}
