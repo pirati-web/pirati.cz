@@ -19,9 +19,9 @@ profiles:
   facebook: 		  https://www.facebook.com/kolarikl
   twitter: 		  
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Luk..Kol 
-report: 1al2esyduRQuaz4TqcETGmDm43wZ8V-iD
-redmine: 151
-mpv: 151
+#report: 1al2esyduRQuaz4TqcETGmDm43wZ8V-iD na požádaní Lukáše deaktivováno (Jakub)
+#redmine: 151 na požádaní Lukáše deaktivováno (Jakub)
+#mpv: 151 na požádaní Lukáše deaktivováno (Jakub)
 report_orig: https://forum.pirati.cz/poslanci-f884/report-poslance-lukase-kolarika-t39023.html
 ---
 
