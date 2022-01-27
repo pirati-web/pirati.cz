@@ -18,9 +18,9 @@ profiles:
   facebook:
   twitter: 		  
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=Radek%20Holom
-report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi
-redmine: 178
-mpv: 178
+#report: 1nv9uxMShC9QOtWy_9fAKW44HQopypqwi deaktiv
+#redmine: 178
+#mpv: 178
 calendar: cj117si2n7ctbjuqn0pddq4c24%40group.calendar.google.com
 <!--report_orig: https://forum.pirati.cz/poslanci-f884/reporty-poslance-radka-holomcika-t39052.html-->
 ---
