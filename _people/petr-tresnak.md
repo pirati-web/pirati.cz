@@ -11,7 +11,6 @@ img: people/petr-tresnak.jpg # 165 x 220
 description: náměstek ministra průmyslu a obchodu            	# kratký popis, max 160 znaků
 direct-contact: false
 mail:
-- tresnakp@psp.cz
 - petr.tresnak@pirati.cz
 asistenti:
 office: 
