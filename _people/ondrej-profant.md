@@ -9,7 +9,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/ondrej-profant.jpg # 165 x 220
 description: náměstek místopředsedy vlády pro digitalizaci           	# kratký popis, max 160 znaků
 mail:
-- profanto@psp.cz
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
 direct-contact: false
