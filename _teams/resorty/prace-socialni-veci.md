@@ -3,9 +3,9 @@ uid: socialni
 name: Práce a sociální věci
 fullname: Tým pro oblast práce a sociálních věcí
 img: teams/resorty/prace-socialni-veci.jpg # obrázek nemusíte dodávat
-leader: olga.richterova
+leader: zuzana.freitas
 deputy:
-- lukas.kolarik
+- olga.richterova
 contact-local:
   name: Zuzana Freitas
   mob: 776 278 860
