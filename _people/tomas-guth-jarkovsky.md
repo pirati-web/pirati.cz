@@ -2,7 +2,7 @@
 uid: tomas.guth.jarkovsky
 name:     Tomáš Guth Jarkovský  	# běžně používáné jméno
 fullname: Tomáš Guth Jarkovský  	# jméno s tituly etc.
-img: people/tomas.guth.jarkovsky.jpg    # 165 x 220
+img: people/tomas-guth-jarkovsky.jpg    # 165 x 220
 description: lidskoprávní Pirát, člen KS JČK, člen Mladého Pirátstva, feminista
 direct-contact: true
 mail:
