@@ -5,11 +5,10 @@ fullname: Tým pro průmysl a obchod
 img: teams/resorty/prumysl-obchod.jpg # obrázek nemusíte dodávat
 leader: petr.tresnak
 deputy:
-- martin.jiranek
 contact-local:
-  name: Petr Pleticha
-  mob: +420 603 460 210
-  mail: petr.pleticha@pirati.cz
+  name:
+  mob:
+  mail:
   img: 
 tags:
 - průmysl a obchod
