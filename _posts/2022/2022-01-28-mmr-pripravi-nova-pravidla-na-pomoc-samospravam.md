@@ -1,7 +1,7 @@
 ---
 date:         2022-01-28
 category:     blog
-tags:         byty bydlení airbnb praha piráti bartoš
+tags:         práce-a-sociální věci finance legislativa
 layout:       post
 title:        "Návrat masivního pronajímání bytů přes Airbnb? Vláda předloží moderní a vymahatelná pravidla"
 image:        /assets/img/articles/2021/Jakub Michalek ne rouška.jpg
