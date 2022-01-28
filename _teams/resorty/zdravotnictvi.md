@@ -5,11 +5,10 @@ fullname: Tým pro zdravotnictví
 img: teams/resorty/zdravotnictvi.jpg # obrázek nemusíte dodávat
 leader: josef.pavlovic
 deputy:
-- olga.richterova
 contact-local:
   name: 
-  mob: 607 517 967
-  mail: josef.pavlovic@pirati.cz
+  mob:
+  mail:
   img: 
 tags:
 - zdravotnictví
