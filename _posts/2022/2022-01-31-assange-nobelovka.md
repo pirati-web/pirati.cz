@@ -19,3 +19,4 @@ Julian Assange je australský novinář, aktivista, whistleblower a zakladatel s
 Spojené státy Assange označily za špiona a v případě soudu na jejich území mu hrozí až 175 let vězení. V roce 2019 USA požádaly Velkou Británii o jeho vydání, od té doby je v britské věznici Belmarsh. V prosinci 2021 britský Nejvyšší soud souhlasil s jeho vydáním do USA pod podmínkou, že nebude umístěn do věznice s nejvyšší ostrahou. Z expertních posudků totiž vyplývá, že jeho duševní zdraví je oslabeno a mohl by se pokusit o sebevraždu. Assange rozhodnutí o vydání napadl a Nejvyšší soud tak bude rozhodovat znovu.
 
 * [Plné znění nominace](https://www.pirati.cz/assets/pdf/Brief justification for the nomination.pdf)
+* [Plné znění nominace v češtině](https://www.pirati.cz/assets/pdf/Text nominace v češtině.pdf)
