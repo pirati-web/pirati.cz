@@ -18,10 +18,13 @@ asistenti:
   - name: Mgr. Soňa Pohanková
     mob: +420 778 111 457
     mail: richterovao@psp.cz
- 
+  - name: Nela Melicharová
+    mob: +420 734 182 042
+    mail: richterovao@psp.cz
+
 office:
-  - address: Francouzská 164/108, 101 00  Praha 10 - Vršovice
-    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci) Během dovolené, tzn. od 21.7. do 7.8.2019, se nebude konat pondělní otevřená poslanecká kancelář. Děkujeme za pochopení.
+  - address:  PICE (Na Moráni 360/3, 120 00 Nové Město
+    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
 profiles:
   github:       
   facebook:     https://www.facebook.com/olga.richterova
