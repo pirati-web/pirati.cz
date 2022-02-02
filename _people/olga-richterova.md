@@ -12,19 +12,18 @@ mail:
 - richterovao@psp.cz
 mob: +420 774 153 361
 asistenti:
-  - name: Zuzana Freitas Lopesová
-    mob: +420 776 278 860
+  - name: Mgr. Nela Melicharová
+    mob: +420 778 111 472
     mail: richterovao@psp.cz
   - name: Mgr. Soňa Pohanková
     mob: +420 778 111 457
     mail: richterovao@psp.cz
-  - name: Nela Melicharová
-    mob: +420 734 182 042
+  - name: Zuzana Freitas Lopesová
+    mob: +420 776 278 860
     mail: richterovao@psp.cz
-
 office:
   - address:  PICE (Na Moráni 360/3, 120 00 Nové Město
-    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo po domluvě jindy, s výjimkou posledního pondělí v měsíci)
+    opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo na základě předchozí domluvy)
 profiles:
   github:       
   facebook:     https://www.facebook.com/olga.richterova
