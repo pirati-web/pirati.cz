@@ -24,3 +24,4 @@ Na základě soudního rozhodnutí ale začala polská a tehdejší česká vlá
 
 V září Soudní dvůr EU vyměřil Polsku pokutu 500 tis. EUR (12,7 mil. Kč) denně za to, že neuposlechlo jeho předběžné opatření. Po volbách nově zvolená poslankyně za Piráty Klára Kocmanová upozornila na to, že celé jednání o dohodě se odehrává v tichosti a veřejnost nemá k dispozici informace o tom, co přesně se má uzavřít. Definitivní verdikt soudu padne na jaře tohoto roku.
 
+* [Stanovisko generálního advokáta](https://www.pirati.cz/assets/pdf/rozhodnutí soudu turow.pdf)
