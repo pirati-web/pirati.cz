@@ -6,8 +6,6 @@ title:        "Pirátská práce se vyplatila výhrou pro Čechy, Poláky i Něm
 image:        /assets/img/articles/2022/MIkulas_peksa.jpg
 author:       
 ---
-
-Pirátská práce se vyplatila výhrou pro Čechy, Poláky i Němce. Generální advokát Soudního dvora EU rozhodl, že je těžba v dole Turów nelegální
  
 Lucemburk, 3. 2. 2022 – Generální advokát Soudního dvora EU Priit Pikamäe dnes zveřejnil stanovisko, podle kterého je těžba na dole Turów nelegální. Pirátská více než roční práce se zúročila. V roce 2020 polská vláda totiž prodloužila těžbu v rozporu s evropskými předpisy. Generální advokát se k těžbě vyjádřil na základě žaloby, kterou vloni podalo k Soudnímu dvoru EU české Ministerstvo životního prostředí. K žalobě se následně připojila i Evropská komise.
 
@@ -24,21 +22,4 @@ Začátkem roku 2021 Česká republika podala žalobu k Soudnímu dvoru EU. Krá
 Na základě soudního rozhodnutí ale začala polská a tehdejší česká vláda vyjednávat mezivládní dohodu, která má celý spor vyřešit. Piráti od počátku jednání upozorňovali na to, že škody, které důl způsobuje, jsou významné a nebude snadné vymyslet opatření, v jejichž důsledku by například nedocházelo k úbytku vody.
 
 V září Soudní dvůr EU vyměřil Polsku pokutu 500 tis. EUR (12,7 mil. Kč) denně za to, že neuposlechlo jeho předběžné opatření. Po volbách nově zvolená poslankyně za Piráty Klára Kocmanová upozornila na to, že celé jednání o dohodě se odehrává v tichosti a veřejnost nemá k dispozici informace o tom, co přesně se má uzavřít. Definitivní verdikt soudu padne na jaře tohoto roku.
-
-Stanovisko generálního advokáta přikládáme zde: https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-02/cp220023cs.pdf
-
----
-
-Tomas Polak
-PR Political Expert to Pirate Delegation
-European Parliament
-PHS 02C063, Rue Wiertz 60, 1047, Brussels, Belgium
-+420 728 035 059
-tomas.polak@europarl.europa.eu
- 
- 
-Ondřej Obergruber
-PR asistent Mikuláše Peksy
-+420 731 808 671
-ondrej@oberguber.eu
 
