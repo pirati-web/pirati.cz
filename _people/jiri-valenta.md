@@ -20,9 +20,7 @@ profiles:
   linkedin:
 partyUid: pirati
 ---
-
-
-Jiří Valenta (* 1992) je náměstek ministra financí. Je vystudovaný právník, během své profesní kariéry pracoval pro poslance Pirátů v oblasti finanční legislativy, rozpočtu, práva nebo místního rozvoje.  
+ 
 
 Jiří Valenta (* 26. srpna 1992, Brno) vystudoval obor Právo a právní věda na Právnické fakulty Masarykovy univerzity v Brně. Před nástupem k Pirátům pracoval jako právník a projektový manažer v nadnárodní energetické společnosti, kde se věnoval produktové bezpečnosti a projektům spojených s čistou mobilitou. 
 
