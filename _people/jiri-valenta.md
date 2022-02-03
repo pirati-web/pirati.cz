@@ -9,7 +9,7 @@ category:
 description: náměstek ministra financí
 profession: náměstek ministra financí, právník
 heroImg: banner-ml.jpg
-img: people/jiri-valenta.jpg # 
+img: people/jiri-valenta.jpg 
 mail:
 - jiri.valenta@pirati.cz
 mob: +420 778 111 463
