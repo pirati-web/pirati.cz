@@ -38,3 +38,5 @@ O tom, jakým způsobem by se bonus na energie uplatňoval, se bude teprve jedna
  
 
 Piráti dále navrhují úpravu dotací z Modernizačního fondu, díky kterému získá Česká republika v příštích deseti letech podle odhadů zhruba 350 miliard korun. 40 procent těchto prostředků je nyní určeno na výstavbu velkých solárních parků. Ty se ale kvůli rostoucí ceně elektřiny často obejdou i bez dotace. Podle Pirátů by mělo více peněz směřovat domácnostem nebo na energetické úspory v nemocnicích, školách či domovech pro seniory.
+
+* [Celé znění dopisu Ministerstvu průmyslu a obchodu](https://pirati.cz/assets/pdf/Dopis na MPO ohledně bonusu na energie.pdf)
