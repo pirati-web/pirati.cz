@@ -1,7 +1,7 @@
 ---
 date:         2021-07-09
 category:     blog
-tags:         dávky sociální-vyloučení děti
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Komentář Richterové: Zásadně odmítáme návrhy ODS na odebírání dávek. Ohrožují děti ze sociálně slabších rodin, postihují i nevinné a vyostří napětí ve vyloučených lokalitách"
 image:        /assets/img/articles/2021/olga-richterova01.jpg
