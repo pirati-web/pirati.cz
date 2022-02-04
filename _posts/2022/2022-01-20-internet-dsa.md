@@ -1,7 +1,7 @@
 ---
 date:         2022-01-20
 category:     blog
-tags:         evropská-unie internet dsa
+tags:         evropská-unie
 layout:       post
 title:        "Europoslanci schválili revoluční pravidla na Internetu. Proti povinné identifikaci se postavili Piráti"
 image:        /assets/img/articles/2021/kolaja-peksa.jpg
