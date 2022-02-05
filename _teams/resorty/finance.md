@@ -3,7 +3,7 @@ uid: finance
 name: Finance
 title: Finance
 img: teams/resorty/finance.jpg
-leader: mikulas.ferjencik
+leader: jiri.valenta
 deputy:
  - jan.posvar
 
@@ -54,21 +54,31 @@ V případě širšího zájmu o pirátskou stranu postupujte dále tímto [odka
 Fungování týmu
 ---------------
 
-Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového výboru v PSP (3. a 5. týden sněmovního harmonogramu)
+Resortní tým se schází jedenkrát měsíčně. Vedoucím týmu je **[Jiří Valenta](/lide/jiri-valenta)** .
+
+
+Resortní tým má zřízeny následující pracovní skupiny se zodpovědnými garanty za danou oblast:
+
+
+- A. veřejné rozpočty - **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** 
+- B. daňová politika - **[Jiří Valenta](/lide/jiri-valenta)** 
+- C. kapitálové trhy a bankovnictví - **[Tibor Vansa](/lide/tibor-vansa)**
+- D. důchody -  **[Tomáš Martínek](/lide/tomas-martinek)**
+- E. státní podniky - **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**
+- F. podpora podnikání - **[Jiří Valenta](/lide/jiri-valenta)**  (dočasně pověřen vedením)
+- G. výzvy budoucnosti (Krypto, inovace, důsledky robotizace) - **[Tomáš Kopečný](/lide/tomas-kopecny)** 
 
 
 Členové týmu
-- **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** –  zodpovědný za oblast financí
-- **[Tomáš Martínek](/lide/tomas-martinek)** – předchozí člen rozpočtového výboru
-- **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)** – senátor za Piráty
-
+------------
 
 
 - **Dominik Bečka** - člen Pirátů, zastupitel MO Pardubice, manažer řízení rizik v pojišťovnictví
 - **Otakar Cejnar** - člen Pirátů, projektový manažer a ekonom s dlouhodobou zkušeností z mezinárodních institucí
 - **Jan Černý** - člen Pirátů, zastupitel Úval
 - **Libor Dušek** - ekonom, vedoucí katedry národního hospodářství na PF UK. 
-- **Lukáš Forýtek** –asistent Tomáše Martínka
+- **Lukáš Forýtek** - asistent Tomáše Martínka
+- **Mikuláš Ferjenčík** - garant skupiny Veřejné rozpočty 
 - **Jan Hřebíček** - daňař a podnikatel
 - **Aleš Chán** - člen Pirátů, podnikatel a finanční ředitel společnosti v kulturním sektoru
 - **Daniel Kolář** - asistent Ondřeje Profanta, koordinátor pracovní skupiny veřejné zakázky.
@@ -84,3 +94,4 @@ Tým se schází pravidelně v úterý ve 14.00 před jednáním rozpočtového
 - **Jiří Valenta** – asistent resortního týmu a poslance Mikuláše Ferjenčíka
 - **Tibor Vansa** – člen Pirátů, garant pro oblast bankovnictví
 - **Václav Vislous** - člen Pirátů, podnikatel a ekonom
+- **Lukáš Wagenknecht** - senátor za Piráty. 
