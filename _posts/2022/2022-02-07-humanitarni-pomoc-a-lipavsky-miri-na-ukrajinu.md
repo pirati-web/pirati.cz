@@ -1,5 +1,5 @@
 ---
-date:         2022-02-04
+date:         2022-02-07
 category:     blog
 tags:         zahraničí bezpečnost
 layout:       post
