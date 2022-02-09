@@ -15,6 +15,7 @@ office:
   - address: 8. května 522, 779 00  Olomouc
     opening: "Pondělí 9:00 - 13:00, případně po telefonické domluvě na +420 734 182 042 "
 profiles:
+  pirati:     https://lide.pirati.cz/profil/2727/
   github:     https://github.com/Fafrin
   facebook: 	https://www.facebook.com/vpikal
   twitter: 		https://twitter.com/VPikal
@@ -27,14 +28,12 @@ report: 17hWPD37dvb6AnxWicm0u5Lj1QSRq3GTk/page/BhtL
 
 ---
 
-Vojtěch Pikal (19. února 1987) je člen republikového výboru a bývalý poslanec za Olomoucký kraj.
+Vojtěch Pikal (* 19. února 1987 v Olomouci) je pirát.
 
 Věnuje se otázkám voleb, demokracie a ústavy v rámci týmu [Demokracie](/pripoj-se/demokracie/).
 
 Po vystudování přírodovědné větve Slovanského gymnázia pokračoval ve studiu informatiky na Univerzitě Palackého. Vystudoval zde bakalářský program informatiky a tamtéž studoval v navazujících programech magisterských.
 V roce 2013 byl na pracovní stáži v Budapešti, v letech 2013 a 2014 pracoval jako vývojář a tester softwaru v Olomouci, v roce 2015 a 2016 jako analytik/programátor v Prostějově, od listopadu 2016 do května 2017 pracoval jako softwarový analytik v Praze.
-
-Vojtěch žil a snad vždy bude v Olomouci. Jako poslanec bydlí též v Praze.
 
 Byl [poslancem](http://www.psp.cz/sqw/detail.sqw?id=6531) za Olomoucký kraj a prvním místopředsedou PSP ČR. Zastupoval Piráty ve městě Olomouci v [kontrolním výboru](http://www.olomouc.eu/samosprava/zastupitelstvo-mesta/vybory-zastupitelstva-mesta-olomouce), [komisi městské části Chválkovice](http://www.olomouc.eu/samosprava/komise-mestskych-casti/chvalkovice) a v [komisi pro informační technologie](http://www.olomouc.eu/samosprava/odborne-komise-rady-mesta/komise-pro-informacni-technologie).
 
