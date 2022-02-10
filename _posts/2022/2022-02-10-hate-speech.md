@@ -4,7 +4,7 @@ category:     blog
 tags:         kolaja lidská-práva hate-speech 
 layout:       post
 title:        "Kolaja: Musíme sjednotit právní ochranu obětí nenávistných trestných činů"
-image:        /assets/img/articles/2022/SKAY2206.jpg
+image:        /assets/img/articles/2022/marcel_kolaja_small.jpg
 author:       
 ---
 
@@ -20,4 +20,5 @@ Počet trestných činů z nenávisti roste, ovšem právní ochrana se napří�
 
 O tom, zda se rozšíření seznamu evropských trestných činů z nenávisti posune do dalšího vyjednávání, bude rozhodovat Rada EU v nejbližší době. Členské země mají právo veta a k zablokování tedy stačí, když nesouhlasí jediná země. Český vládní Výbor pro EU bude o české pozici rozhodovat pravděpodobně opět na příštím zasedání.
 
+Více k tématu si můžete přečíst tady: https://blog.aktualne.cz/blogy/marcel-kolaja.php?itemid=41931
 
