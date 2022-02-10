@@ -16,6 +16,8 @@ V současnosti jsou postihovány trestné činy z nenávisti z důvodů rasy, et
 
 Počet trestných činů z nenávisti roste, ovšem právní ochrana se napříč Evropou různí. Například explicitní legislativní ochrana proti projevům nenávisti na základě sexuální orientace existuje ve 20 zemích Unie.
 
-> „Například homosexuální francouzský pár na dovolené v Bulharsku je méně chráněn než ve své vlastní zemi. S využitím svého práva na svobodu pohybu ztrácí část své právní jistoty a ochrany. I proto je potřeba to sjednotit,“ doplňuje Kolaja. O tom, zda se rozšíření seznamu evropských trestných činů z nenávisti posune do dalšího vyjednávání, bude rozhodovat Rada EU v nejbližší době. Členské země mají právo veta a k zablokování tedy stačí, když nesouhlasí jediná země. Český vládní Výbor pro EU bude o české pozici rozhodovat pravděpodobně opět na příštím zasedání.
+> „Například homosexuální francouzský pár na dovolené v Bulharsku je méně chráněn než ve své vlastní zemi. S využitím svého práva na svobodu pohybu ztrácí část své právní jistoty a ochrany. I proto je potřeba to sjednotit,“ doplňuje Kolaja. 
+
+O tom, zda se rozšíření seznamu evropských trestných činů z nenávisti posune do dalšího vyjednávání, bude rozhodovat Rada EU v nejbližší době. Členské země mají právo veta a k zablokování tedy stačí, když nesouhlasí jediná země. Český vládní Výbor pro EU bude o české pozici rozhodovat pravděpodobně opět na příštím zasedání.
 
 
