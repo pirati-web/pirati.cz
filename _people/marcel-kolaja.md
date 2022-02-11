@@ -23,12 +23,12 @@ asistenti:
     mail: tomas.adamec@europarl.europa.eu
     tel: +32 2 2857149
   - name: Julien Bencze
-    description: Asistent místopředsedy EP
+    description: Asistent kvestora EP
     mail: julien.bencze@europarl.europa.eu
     tel: +32 2 2838149
-  - name: Michaela Hnízdilová
+  - name: Kateřina Oosterwijk
     description: Administrativní asistentka
-    mail: michaela.hnizdilova@europarl.europa.eu
+    mail: katerina.oosterwijk@europarl.europa.eu
     tel: +32 2 2837149
   - name: Zuzana Picková
     description: Poradkyně pro legislativní činnost

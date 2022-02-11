@@ -16,9 +16,9 @@ asistenti:
     description: Politický poradce
     mail: paul.diegel@europarl.europa.eu
     tel: +32 2 2837334
-  - name: Kristýna Koubková	
+  - name: Kristýna Koubek
     description: Politický poradce
-    mail: kristyna.koubkova@europarl.europa.eu
+    mail: kristyna.koubek@europarl.europa.eu
     tel: +32 2 2847334
   - name: Martina Jaňurová	
     description: Administrativní asistentka
