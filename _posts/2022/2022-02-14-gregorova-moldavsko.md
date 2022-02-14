@@ -1,7 +1,7 @@
 ---
 date:         2022-02-14
 category:     blog
-tags:         gregorová markéta-gregorová moldavsko eu finanční-balíček
+tags:         evropská-unie finance
 layout:       post
 title:        "Začíná nová kapitola spolupráce s Moldavskem. Gregorová vyjednává finanční balíček"
 image:        /assets/img/articles/2022/markéta_unor22.jpg
