@@ -12,8 +12,7 @@ mail:
 mob:	        +420 728 237 646
 asistenti:
 office:
-  - address: Děčínská 361, 470 01 Česká Lípa
-    opening: Pondělí 16-18 hod., setkání přímo s poslancem nutno domluvit předem na adrese ceskalipa@tomas-martinek.eu.
+
 profiles:
   github:       
   facebook:     https://www.facebook.com/tmartinek
