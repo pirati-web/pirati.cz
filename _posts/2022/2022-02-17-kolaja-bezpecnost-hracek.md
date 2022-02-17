@@ -16,6 +16,8 @@ author:
 
 V České republice kontroluje bezpečnost hraček Česká obchodní inspekce. [V roce 2020 zkontrolovala 2 767 modelů a u 979 z nich zjistila nedostatky.](https://www.coi.cz/v-roce-2020-nahlasila-coi-do-mezinarodniho-vystrazneho-systemu-rapex-devet-modelu-nebezpecnych-hracek/) Jako nebezpečné vyhodnotila 9 modelů hraček. U těch se prokázalo vážné riziko z důvodu dlouhodobého styku s látkami, které mohou představovat zdravotní ohrožení organismu malých dětí. Právě přítomnost chemických látek v hračkách je problémem, na který zpráva Evropského parlamentu poukazuje. 
 
-> „V Evropě se stále prodávají hračky s nebezpečnými chemickými látkami. Limitní hodnoty se liší v různých právních předpisech. Potřebujeme proto tato pravidla sjednotit a zajistit tak lepší vymahatelnost,” vysvětluje Kolaja. Zpráva, která volá po revizi směrnice byla odhlasována ve výboru pro vnitřní trh a ochranu spotřebitelů v prosinci minulého roku. Včera o zprávě hlasovalo plénum Evropského parlamentu ve Štrasburku. 
+> „V Evropě se stále prodávají hračky s nebezpečnými chemickými látkami. Limitní hodnoty se liší v různých právních předpisech. Potřebujeme proto tato pravidla sjednotit a zajistit tak lepší vymahatelnost,” vysvětluje Kolaja. 
+
+Zpráva, která volá po revizi směrnice byla odhlasována ve výboru pro vnitřní trh a ochranu spotřebitelů v prosinci minulého roku. Včera o zprávě hlasovalo plénum Evropského parlamentu ve Štrasburku. 
 
 * [Zde odkaz na ČOI](https://www.coi.cz/v-roce-2020-nahlasila-coi-do-mezinarodniho-vystrazneho-systemu-rapex-devet-modelu-nebezpecnych-hracek/)
