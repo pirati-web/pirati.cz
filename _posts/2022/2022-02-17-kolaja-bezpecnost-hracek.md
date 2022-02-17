@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/marcel zabradli.jpg
 author:       
 ---
 
-Štrasburk, 17. února. 2022 - Hračky na evropském trhu mají být bezpečnější a bez zdravotních rizik. Takový vzkaz vyslali Evropské komisi europoslanci, kteří hlasovali pro zprávu týkající se bezpečnosti dětských hraček. Evropští poslanci se shodli, že směrnice o bezpečnosti hraček z roku 2009 je zastaralá a potřebuje revidovat. Nová verze se má věnovat také novým hračkám, které jsou připojeny k Internetu.
+Štrasburk, 17. února 2022 - Hračky na evropském trhu mají být bezpečnější a bez zdravotních rizik. Takový vzkaz vyslali Evropské komisi europoslanci, kteří hlasovali pro zprávu týkající se bezpečnosti dětských hraček. Evropští poslanci se shodli, že směrnice o bezpečnosti hraček z roku 2009 je zastaralá a potřebuje revidovat. Nová verze se má věnovat také novým hračkám, které jsou připojeny k Internetu.
 
 > „Děti jsou ti nejzranitelnější spotřebitelé. Musíme je dostatečně ochránit. Vzhledem k nárůstu e-commerce je ale zapotřebí taky zajistit, aby bezpečnostní požadavky splňovaly i hračky, které se prodávají na platformách on-line,” vysvětluje europoslanec a kvestor Evropského parlamentu Marcel Kolaja. 
 
