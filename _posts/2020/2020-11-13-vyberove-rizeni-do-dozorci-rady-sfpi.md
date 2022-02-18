@@ -1,7 +1,7 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         výběrové-řízení sfpi piráti
+tags:         výběrové-řízení piráti
 layout:       post
 title:        "Piráti vypisují otevřené výběrové řízení na nominanta do Dozorčí rady Státního fondu podpory investic"
 image:        /assets/img/articles/2020/martinek1.jpg
