@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie 
 layout:       post
 title:        "Budou nás doma sledovat plyšáci? Evropský parlament chce revidovat směrnici o bezpečnosti hraček"
-image:        /assets/img/articles/2022/marcel zabradli.jpg
+image:        /assets/img/articles/2022/marcel-zabradli.jpg
 author:       
 ---
 
