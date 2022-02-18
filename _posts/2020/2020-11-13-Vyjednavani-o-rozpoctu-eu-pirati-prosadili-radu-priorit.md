@@ -1,7 +1,7 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         výběrové-řízení sfpi piráti
+tags:         evropská-unie rozpočet
 layout:       post
 title:        "Vyjednávání o dlouhodobém rozpočtu EU: Prosadili jsme řadu pirátských priorit"
 image:        /assets/img/articles/2020/Gregorova Kolaja Peksa.jpg
