@@ -31,6 +31,8 @@ Tak jsme se dali dohromady. Napsaly jsme s jednou kamarádkou, kterou jsem práv
 
 Léta byl silným jménem v pražské ČSSD. Dalo by říci, že Újezd úplně zabetonoval. Za třicet let se v Újezdě nic nezměnilo. Když se podíváte třeba na fotografii křižovatky, je vlastně pořád úplně stejná.
 
+![Blanka Charvátová na Letné1](https://pirati.cz/assets/img/articles/2022/blanka-charvatova-letna3.jpg)
+
 **Také to mohl zabetonovat tak, že křižovatka mohla být úplně zbytečně třípatrová. I tak se u nás betonuje…**
 
 Ano, jsou místa, kde vznikly šílené developerské projekty. V tomto ohledu je Újezd unikátní. My ale chceme v Újezdě žít, ne přenocovat v místě, odkud ráno všichni odjedou do Prahy a vrátí se večer. Myslím si, že jsme se nyní trochu posunuli, od našeho veřejného vystoupení v letech 2017-2018. Zajímavé bylo, že se k nám přidávali lidé, kteří řešili například školu. Jakmile o sobě dáte vědět, stáváte se veřejnou institucí.
@@ -51,6 +53,8 @@ Zjistila jsem, že rozhodnutí jít na kandidátku je náročné. Už něčemu d
 
 Politické strany v menších obcích přemlouvají příbuzné nebo lidi v hospodě, aby se nechali napsat na kandidátku. My jsme dali dohromady lidí, kteří opravdu měli zájem o změnu. Všichni chtěli do zastupitelstva, všichni věděli, čemu se chtějí věnovat. To beru jako úspěch.
 
+![Blanka Charvátová na Letné2](https://pirati.cz/assets/img/articles/2022/blanka-charvatova-letna2.jpg)
+
 **Stala jste se tedy zastupitelkou, bez zájmů pomoci něčí firmě nebo postavit něco, na čem jste se s někým domluvila. Matěj Stropnický kdysi říkal, že do zastupitelstev chodí lidé stavět. Co jste chtěla postavit?**
 
 Nešla jsem do politiky stavět z betonu, šla jsem rozvíjet život. V Újezdě je například jedna velká škola, kde je přes tisíc žáků. Dnes je tam skvělé křídlo školy Montessori. Neříkám, že je to moje zásluha, říkám to jako příklad rozvíjení života.
@@ -68,6 +72,8 @@ Máme nízkoprahové služby, máme hřiště, kde jsou děcka venku. Když se l
 **Právě jste popsala, co se reálně děje. V Čechách i na Moravě je ohromná koncentrace zahradních bazénů. Bazén a lahváč, to je ideál. Sdílí někdo váš optimismus? A jak se vám s ním povedlo dostat se do vedení vládní strany?**
 
 Lidé mají optimismus rádi. Jako optimistka přitom pojmenovávám věci reálně. Vidím problémy a hledám, jak by věci mohly jít, ne proč nejdou. To je životní postoj, který se hodí i do vedení vládní strany. Ve vedení Pirátů máme rozdělené role. Od vládní a evropské politiky, až po komunální. Moje role se týká komunální politiky. Piráty charakterizuje různorodost. Myslíme na všechna patra politiky.
+
+![Blanka Charvátová na Letné3](https://pirati.cz/assets/img/articles/2022/blanka-charvatova-letna1.jpg)
 
 **Máte nějakou pracovní skupinu na komunální politiku? Vedete takovou skupinu? Připadá mi, že být z Újezda nad Lesy je pohodlnější, než být z Orlové nebo ze Sokolova, abychom si vybrali dvě pohraniční místa pojmenovaná po dravých ptácích.**
 
@@ -94,3 +100,4 @@ Také jsem založila fotbalové družstvo Pirátek. Hrajeme i proti mužům.
 
 > **Autor: JAN ŠÍCHA**
 
+> Použité fotografie pocházejí z archivu Boohdany Holé, které redakce tímto děkuje.
