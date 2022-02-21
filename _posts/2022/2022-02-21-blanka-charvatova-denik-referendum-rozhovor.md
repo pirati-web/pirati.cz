@@ -3,7 +3,7 @@ date:         2022-02-21
 category:     blog
 tags:         rozhovor
 layout:       post
-title:        "Šla jsem do politiky rozvíjet život, ne stavět z betonu. (Blanka Charvátová v rozhovoru pro Deník Referendum)"
+title:        "Blanka Charvátová pro Deník Referendum: Šla jsem do politiky rozvíjet život, ne stavět z betonu"
 image:        /assets/img/articles/2022/blanka-charvatova00.jpg
 author:       Jan Šícha
 ---
