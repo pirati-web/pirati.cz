@@ -100,4 +100,4 @@ Také jsem založila fotbalové družstvo Pirátek. Hrajeme i proti mužům.
 
 > **Autor: JAN ŠÍCHA**
 
-> Použité fotografie pocházejí z archivu Boohdany Holé, které redakce tímto děkuje.
+> Použité fotografie pocházejí z archivu Bohdany Holé, které redakce tímto děkuje.
