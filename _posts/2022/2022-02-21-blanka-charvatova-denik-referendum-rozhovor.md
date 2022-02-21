@@ -3,12 +3,12 @@ date:         2022-02-21
 category:     blog
 tags:         rozhovor
 layout:       post
-title:        "Deník Referendum: Rozhovor s Blankou Charvátovou"
+title:        "Šla jsem do politiky rozvíjet život, ne stavět z betonu. (Blanka Charvátová v rozhovoru pro Deník Referendum)"
 image:        /assets/img/articles/2022/blanka-charvatova00.jpg
 author:       Jan Šícha
 ---
 
-„Šla jsem do politiky rozvíjet život, ne stavět z betonu.“ Rozhovor s místopředsedkyní Pirátů o cestě z občanské iniciativy v Újezdě nad Lesy do čela vládní strany mimo jiné přibližuje vnitřní politickou kulturu Pirátské strany. (Zdroj: [denikreferendum.cz](https://denikreferendum.cz/clanek/33686-blanka-charvatova-sla-jsem-do-politiky-rozvijet-zivot-ne-stavet-z-betonu?fbclid=IwAR2cPlvjT4QkVoxdjcaFNyrYgj7W0rEa4UVTPBTqLWm-d54RSC2dmjyls8Y))
+Rozhovor s místopředsedkyní Pirátů o cestě z občanské iniciativy v Újezdě nad Lesy do čela vládní strany mimo jiné přibližuje vnitřní politickou kulturu Pirátské strany. (Zdroj: [denikreferendum.cz](https://denikreferendum.cz/clanek/33686-blanka-charvatova-sla-jsem-do-politiky-rozvijet-zivot-ne-stavet-z-betonu?fbclid=IwAR2cPlvjT4QkVoxdjcaFNyrYgj7W0rEa4UVTPBTqLWm-d54RSC2dmjyls8Y))
 
 **Paní místopředsedkyně, na internetu jsem se dočetl, že své první politické zkušenosti jste načerpala v Újezdě nad Lesy. Kde to je?**
 
