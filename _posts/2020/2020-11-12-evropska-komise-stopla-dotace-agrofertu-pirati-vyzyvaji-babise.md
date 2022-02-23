@@ -1,7 +1,7 @@
 ---
 date:         2020-11-12
 category:     blog
-tags:         agrofert dotace andrej-babiš
+tags:         dotace právo-a-justice
 layout:       post
 title:        "Evropská komise požaduje zastavení dotací pro Agrofert. Zamezte mezinárodní ostudě, apeluje předseda Pirátů Bartoš na premiéra"
 image:        /assets/img/articles/2020/Ivan_rouska_covid.jpg
