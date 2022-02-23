@@ -3,7 +3,7 @@ date:         2022-02-23
 category:     blog
 tags:         bezpečnost zahraničí
 layout:       post
-title:        "Jan Lipavský pro Hospodářské noviny: Musíme být připraveni na to, že Rusové vojensky vstoupí na Ukrajinu,"
+title:        "Jan Lipavský pro Hospodářské noviny: Musíme být připraveni na to, že Rusové vojensky vstoupí na Ukrajinu"
 image:        /assets/img/articles/2022/jan-lipavsky00.jpg
 author:       Michaela Ryšavá (HN)
 ---
