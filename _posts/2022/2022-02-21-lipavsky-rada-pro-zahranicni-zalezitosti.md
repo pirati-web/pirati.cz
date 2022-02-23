@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/jan-lipavsky-02-2022.jpg
 author:       
 ---
 
-Praha, 21. února 2022 - V pondělí 21. února 2022 zasedala v Bruselu Rada pro zahraniční záležitosti (tzv. FAC) ve formátu ministrů zahraničních věcí členských států EU. Ministr zahraničí ČR Jan Lipavský jednal s partnery EU o bezpečnosti ve východní Evropě. Na jednání ministři zahraničí EU přizvali svého ukrajinského protějška Dmytra Kulebu.
+V pondělí 21. února 2022 zasedala v Bruselu Rada pro zahraniční záležitosti (tzv. FAC) ve formátu ministrů zahraničních věcí členských států EU. Ministr zahraničí ČR Jan Lipavský jednal s partnery EU o bezpečnosti ve východní Evropě. Na jednání ministři zahraničí EU přizvali svého ukrajinského protějška Dmytra Kulebu.
 
 > Ministři zemí EU na okraji Rady absolvovali neformální snídani s ukrajinským protějškem Dmytrem Kulebou. Vyjádřili mu solidaritu a podporu Ukrajině v oblasti finanční, materiální i vojenské. *„Rada FAC schválila významný finanční balíček pro Ukrajinu, který pomůže stabilizovat její ekonomiku,“* sdělil ministr Lipavský. Partneři EU se shodli, že budou i nadále usilovat o řešení krize ve východní Evropě, kterou způsobilo Rusko svou agresí vůči Ukrajině, mírovou cestou prostřednictvím diplomatických jednání. Jsou připraveni i uvalit sankce vůči Rusku, které jsou připravovány na úrovni Evropské komise.
 
