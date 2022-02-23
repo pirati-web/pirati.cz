@@ -1,7 +1,7 @@
 ---
 date:         2018-02-15
 category:     blog
-tags:         akce
+tags:         místní-rozvoj regiony
 layout:       post
 title:        "Ivan Bartoš na veletrhu cestovního ruchu Holiday World"
 image:        /assets/img/articles/2018/ctourism2.jpg
