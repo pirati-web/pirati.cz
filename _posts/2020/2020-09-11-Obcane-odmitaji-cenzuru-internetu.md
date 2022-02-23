@@ -1,7 +1,7 @@
 ---
 date:         2020-09-11
 category:     blog
-tags:         EU svoboda internet terorismus
+tags:         evropská-unie cenzura
 layout:       post
 title:        "Terorismus nesmí být záminkou. Evropští občané v průzkumu jasně odmítají cenzuru na internetu"
 image:        /assets/img/articles/2019/kolaja-tk.jpg
