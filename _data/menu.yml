@@ -58,6 +58,8 @@ main:
       - link: '/tymy/'
         name: Resortní týmy
       - link: '/otevrenost/'
+        name: Mladé Pirátstvo
+      - link: https://mladi.pirati.cz/
         name: Otevřenost
       - link: /download/
         name: Ke stažení
