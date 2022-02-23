@@ -1,7 +1,7 @@
 ---
 date:         2022-02-07
 category:     blog
-tags:         finance mmr
+tags:         finance místní-rozvoj
 layout:       post
 title:        "Bartoš: Pomůžeme i těm, na které minulá vláda zapomněla"
 image:        /assets/img/articles/2022/bartos-fiala.jpg
