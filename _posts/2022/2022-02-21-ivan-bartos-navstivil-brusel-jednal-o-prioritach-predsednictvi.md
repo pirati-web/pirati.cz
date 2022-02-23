@@ -1,7 +1,7 @@
 ---
 date:         2022-02-21
 category:     blog
-tags:         bartoš brusel digitalizace 
+tags:         brusel digitalizace 
 layout:       post
 title:        "Bartoš: Prioritami našeho předsednictví je digitalizace, podpora cestovního ruchu a politika soudržnosti"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
