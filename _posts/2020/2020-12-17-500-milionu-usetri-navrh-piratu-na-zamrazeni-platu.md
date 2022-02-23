@@ -1,7 +1,7 @@
 ---
 date:         2020-12-17
 category:     blog
-tags:         Piráti platy sněmovna
+tags:         finance legislativa
 layout:       post
 title:        "Pirátům se povedlo zmrazit platy ústavních činitelů a ušetřit státu půl miliardy. Návrh prošel Senátem"
 image:        /assets/img/articles/2020/ferjencik.jpg
