@@ -1,7 +1,7 @@
 ---
 date:         2022-02-02
 category:     blog
-tags:         mmr stavební zákon legislativa
+tags:         místní-rozvoj stavební-zákon legislativa
 layout:       post
 title:        "Bartoš: Vláda schválila odklad stavebního zákona. Na novele, která bude více hájit zájmy občanů a konečně zdigitalizuje stavební řízení již pracujeme"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
