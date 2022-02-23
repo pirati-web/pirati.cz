@@ -1,7 +1,7 @@
 ---
 date:         2020-11-10
 category:     blog
-tags:         exekuce agrofert sněmovna
+tags:         exekuce legislativa sněmovna
 layout:       post
 title:        "Piráti navrhnou opět ve Sněmovně místní příslušnost exekutorů. Zasadí se i o zvýšení platů pedagogů, lepší pomoc OSVČ a zrušení výjimky pro Agrofert"
 image:        /assets/img//articles/2020/Tiskovka-Ferjenčík-Kolařík-Holomčík-Navrkal-Třešňák.png 
