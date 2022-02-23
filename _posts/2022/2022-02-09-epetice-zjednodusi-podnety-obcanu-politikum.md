@@ -1,7 +1,7 @@
 ---
 date:         2022-02-09
 category:     blog
-tags:         digitalizace mmr
+tags:         digitalizace místní-rozvoj
 layout:       post
 title:        "Ivan Bartoš: Chceme lidem usnadnit zapojení do veřejného dění. Od února mohou využívat online petice, nemusí sbírat fyzické podpisy"
 image:        /assets/img/articles/2022/ivan-bartos02.jpg
