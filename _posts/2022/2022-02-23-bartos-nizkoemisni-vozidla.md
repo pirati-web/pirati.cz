@@ -1,7 +1,7 @@
 ---
 date:         2022-02-23
 category:     blog
-tags:         mmr emise legislativa
+tags:         místní-rozvoj doprava legislativa
 layout:       post
 title:        "Bartoš: Chceme, aby v ČR vzrostly počty moderních nízkoemisních vozidel ve veřejné službě a dopravě"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
