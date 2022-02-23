@@ -18,7 +18,7 @@ Tématem byla i Bosna a Hercegovina a zpochybňování územní celistvosti zem�
 
 V debatě o bezpečnostní situaci v Mali panovala mezi partnery EU shoda ve snaze o udržení stability v zemi a odvrácení hrozby terorismu. Společným rozhodnutím EU je zahájení jednání o adaptaci našich misí v rámci Společné bezpečnostní a obranné politiky v Mali.
 
-V rámci pracovního oběda ministři probrali témata týkající se Společné rady EU a Rady spolupráce zemí Zálivu (tzv. GCC), která se setkala poprvé od roku 2016. Záměrem je prohloubení vzájemné politické a hospodářské spolupráce i do budoucna, s ohledem na regionální bezpečnost v zemích Perského zálivu.
+V rámci pracovního oběda ministři probrali témata týkající se Společné rady EU a Rady spolupráce zemí Zálivu (tzv. GCC), která se setkala poprvé od roku 2016. Záměrem je prohloubení vzájemné politické a hospodářské spolupráce i do budoucna, s ohledem na regionální bezpečnost v zemích Perského zálivu. 
 
 
 
