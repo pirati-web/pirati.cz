@@ -1,7 +1,7 @@
 ---
 date:         2021-07-08
 category:     blog
-tags:         seniori agrofert dotace rozpocet
+tags:         dotace rozpočet
 layout:       post
 title:        "Piráti a Starostové navrhli stopku na střet zájmů a neoprávněné dotace Agrofertu. Z ušetřených peněz pošlou každému seniorovi tisíc korun"
 image:        /assets/img/articles/2021/Jakub Michalek ne rouška.jpg
