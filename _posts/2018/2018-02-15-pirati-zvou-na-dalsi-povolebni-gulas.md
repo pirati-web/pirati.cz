@@ -1,7 +1,7 @@
 ---
 date:         2018-02-15
 category:     blog
-tags:         akce
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Piráti zvou na nedělní guláš zdarma a vyzývají k pomoci potravinovým bankám"
 image:        /assets/img/articles/2018/gulas2.jpg
