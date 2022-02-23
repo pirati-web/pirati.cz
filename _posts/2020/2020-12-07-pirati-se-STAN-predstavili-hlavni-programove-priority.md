@@ -1,7 +1,7 @@
 ---
 date:         2020-12-07
 category:     blog
-tags:         Piráti STAN koalice program
+tags:         volby 
 layout:       post
 title:        "Piráti a STAN se dohodli na společných programových vizích do sněmovních voleb"
 image:        /assets/img/articles/2020/Rakušan Bartoš Tz.jpg 
