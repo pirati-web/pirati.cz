@@ -1,7 +1,7 @@
 ---
 date:         2021-08-23
 category:     blog
-tags:         europarlament afghánistán lidská-práva
+tags:         evropská-unie bezpečnost lidská-práva
 layout:       post
 title:        "Europoslankyně Gregorová: Klíčová teď bude humanitární pomoc v Afghánistánu"
 image:        /assets/img/articles/2021/gregorova_janis_nova_schody.jpg
