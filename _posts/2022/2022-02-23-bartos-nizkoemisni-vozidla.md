@@ -4,7 +4,7 @@ category:     blog
 tags:         místní-rozvoj doprava legislativa
 layout:       post
 title:        "Bartoš: Chceme, aby v ČR vzrostly počty moderních nízkoemisních vozidel ve veřejné službě a dopravě"
-image:        /assets/img/articles/2022/ivan-bartos00.jpg
+image:        /assets/img/articles/2022/ivan-bartos-02-2022.jpg
 author:       
 ---
 
