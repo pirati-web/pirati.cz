@@ -3,7 +3,7 @@ date:         2022-02-21
 category:     blog
 tags:         zahraničí bezpečnost
 layout:       post
-title:        "Ministr Lipavský vyjádřil solidaritu Ukrajině a jednal nejen o bezpečnosti ve východní Evropě na zasedání Rady pro zahraniční záležitosti v Bruselu"
+title:        "Ministr Lipavský vyjádřil solidaritu Ukrajině a jednal v Bruselu nejen o bezpečnosti ve východní Evropě"
 image:        /assets/img/articles/2022/jan-lipavsky-02-2022.jpg
 author:       
 ---
