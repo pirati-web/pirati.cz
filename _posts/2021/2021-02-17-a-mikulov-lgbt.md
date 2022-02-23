@@ -1,7 +1,7 @@
 ---
 date:         2021-02-17
 category:     blog
-tags:         LGBT europarlament lidská-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Sexuální orientace jako důvod k diskriminaci? Zastupitelstvo Mikulova nepřímo podporuje zóny bez LGBT, říká Kolaja"
 image:        /assets/img/articles/2021/marcel-kolaja00.jpg
