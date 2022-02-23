@@ -1,7 +1,7 @@
 ---
 date:         2018-02-15
 category:     blog
-tags:         akce životní-prostředí
+tags:         životní-prostředí
 layout:       post
 title:        "PirateCon: Otevřené fórum o životním prostředí"
 image:        /assets/img/articles/2018/piratecon1.jpg
