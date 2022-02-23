@@ -1,7 +1,7 @@
 ---
 date:         2018-01-21
 category:     blog
-tags:         akce
+tags:         digitalizace
 layout:       post
 title:        "Pirátská konference „Piratecon“ vzbudila velký zájem návštěvníků"
 image:        /assets/img/articles/2018/piratecon.jpg
