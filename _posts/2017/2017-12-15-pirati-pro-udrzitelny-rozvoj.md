@@ -5,7 +5,7 @@ title: "Předseda Pirátů Bartoš podpořil akci za udržitelný rozvoj na plan
 date: 2017-12-15T13:40:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/rozvoj.jpg
-tags: akce
+tags: životní-prostředí
 ---
 
 Praha, 15. prosince 2017 - Předseda Pirátů Ivan Bartoš se ve čtvrtek i se svou harmonikou zúčastnil akce s názvem Udržitelný svět pro každého, kterou organizovalo Česko proti chudobě. Akce se konala v Praze na Palackého náměstí. Cílem setkání bylo informovat o možnostech a cestách k zajištění udržitelného rozvoje pro všechny lidi na planetě.
