@@ -1,7 +1,7 @@
 ---
 date:         2022-01-07
 category:     blog
-tags:         aktualita
+tags:         média
 layout:       post
 title:        "Novou mluvčí České pirátské strany se stala Veronika Šmídová"
 image:        /assets/img/articles/2022/veronika-smidova00.jpg
