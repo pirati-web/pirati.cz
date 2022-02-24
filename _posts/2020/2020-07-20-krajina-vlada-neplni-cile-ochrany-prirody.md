@@ -1,7 +1,7 @@
 ---
 date:         2020-07-20
 category:     blog
-tags:         legislativa zivotni-prostredi ochrana-obcanu
+tags:         legislativa životní-prostředí 
 layout:       post
 title:        "Komentář Dany Balcarové: Vláda neplní cíle v ochraně přírody a krajiny, které si sama stanovila. Zaspala i v řešení sucha či povodní, Piráti chtějí nápravu "
 image:        /assets/img/articles/2018/balcarova-dana3.jpg
