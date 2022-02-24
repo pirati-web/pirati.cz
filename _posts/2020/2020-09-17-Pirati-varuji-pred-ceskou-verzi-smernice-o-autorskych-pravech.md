@@ -1,7 +1,7 @@
 ---
 date:         2020-09-17
 category:     blog
-tags:         autorska-prava eu svoboda-projevu
+tags:         lidská-práva cenzura
 layout:       post
 title:        "Piráti varují před českou verzí směrnice o autorských právech. Chybí v ní ochrana svobody projevu i parodií"
 image:        /assets/img/articles/2020/profant1.jpg
