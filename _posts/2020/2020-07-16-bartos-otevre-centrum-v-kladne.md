@@ -1,7 +1,7 @@
 ---
 date:         2020-07-15
 category:     blog
-tags:         kraje volby sociální-politika
+tags:         regiony volby práce-a-sociální-věci
 layout:       post
 title:        "Ivan Bartoš otevře na Kladně Pirátské centrum KlaPiCe"
 image:        /assets/img/articles/2020/adela-sipova.jpg
