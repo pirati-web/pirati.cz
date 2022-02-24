@@ -1,7 +1,7 @@
 ---
 date:         2022-01-20
 category:     blog
-tags:         evropská-unie převoz zvířat
+tags:         evropská-unie zemědělství
 layout:       post
 title:        "Převoz hospodářských zvířat v mrazu nebo horku? Pravidla jsou zastaralá a chybí kontroly, říká Kolaja"
 image:        /assets/img/articles/2021/row-1-column-1.png
