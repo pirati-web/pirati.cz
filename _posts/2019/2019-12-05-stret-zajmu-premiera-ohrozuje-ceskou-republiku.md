@@ -1,7 +1,7 @@
 ---
 date:         2019-12-05
 category:     blog
-tags:         vláda sněmovna celostátní kontrola-moci
+tags:         vláda sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Střet zájmů premiéra ohrožuje důvěryhodnost ČR, Piráti prosadili usnesení na půdě Poslanecké sněmovny
 "
