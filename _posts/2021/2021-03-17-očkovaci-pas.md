@@ -1,7 +1,7 @@
 ---
 date:         2021-03-17
 category:     blog
-tags:         covid-pas cestování komise
+tags:         evropská-unie koronavirus bezpečnost
 layout:       post
 title:        "Komise vyšla vstříc pirátským požadavkům na covidové pasy. „Stále je ale co zlepšovat,“ říkají"
 image:        /assets/img/articles/2021/kolaja-peksa.jpg
