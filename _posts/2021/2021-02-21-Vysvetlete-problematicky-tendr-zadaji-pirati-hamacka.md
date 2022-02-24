@@ -1,7 +1,7 @@
 ---
 date:         2021-02-21
 category:     blog
-tags:         tendr antigenni-testy školy
+tags:         vzdělávání zdravotnictví koronavirus
 layout:       post
 title:        "Vysvětlete problematický nákup antigenních testů do škol, vyzývá v dopise Hamáčkovo ministerstvo Pirát Lukáš Bartoň"
 image:        /assets/img/articles/2019/barton-lukas.jpg
