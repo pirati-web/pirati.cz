@@ -1,7 +1,7 @@
 ---
 date:         2018-05-04
 category:     blog
-tags:         bezpečnost vnitro
+tags:         bezpečnost obrana
 layout:       post
 title:        "Vyjádření pirátského poslance Jana Lipavského k výrokům prezidenta Miloše Zemana ke kauze Skripal"
 image:        /assets/img/articles/2018/lipavsky-jan.jpg
