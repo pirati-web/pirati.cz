@@ -1,7 +1,7 @@
 ---
 date:         2018-06-28
 category:     blog
-tags:         česká-televize média
+tags:         média
 layout:       post
 title:        "Piráti mají pochybnosti o kvalitě kandidáta do Rady ČT Vladimíra Karmazína"
 image:        assets/img/articles/2018/ceskatelevize.jpg
