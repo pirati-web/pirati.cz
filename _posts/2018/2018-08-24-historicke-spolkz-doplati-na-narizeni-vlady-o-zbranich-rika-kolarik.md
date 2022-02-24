@@ -1,7 +1,7 @@
 ---
 date:         2018-08-24
 category:     blog
-tags:         bezpečnost vnitro legislativa
+tags:         bezpečnost legislativa 
 layout:       post
 title:        "Nařízení vlády o zbraních je nesmyslný bič proti historickým spolkům, říká poslanec Kolářík"
 image:        /assets/img/articles/2018/lukas-kolarik.jpg
