@@ -1,7 +1,7 @@
 ---
 date:         2020-04-27
 category:     blog
-tags:         vláda vnitro
+tags:         vláda bezpečnost
 layout:       post
 title:        "Komentář Ondřeje Profanta: Rámcové dohody MV ČR v současné podobě jsou jen pokřivením tržního prostředí"
 image:        /assets/img/articles/2020/profant.jpg
