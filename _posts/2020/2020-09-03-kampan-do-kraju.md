@@ -1,7 +1,7 @@
 ---
 date:         2020-09-03
 category:     blog
-tags:         volby kampaň kraje
+tags:         volby regiony
 layout:       post
 title:        "Piráti zahájili horkou fázi kampaně do krajských voleb. Lídři představili své hlavní priority, dorazil i autobus budoucnosti"
 image:        /assets/img/articles/2020/kandidati-kraj.JPG
