@@ -1,7 +1,7 @@
 ---
 date:         2020-09-08
 category:     blog
-tags:         rafaj ÚOHS odvolání prezident
+tags:         obchod-a-průmysl
 layout:       post
 title:        "Komentář Vojtěcha Pikala: Kauzy kolem šéfa ÚOHS Petra Rafaje dál narůstají a poškozují Česko. Piráti vyzývají prezidenta k jeho odvolání"
 image:        /assets/img/articles/2020/vojtech-pikal99.jpg
