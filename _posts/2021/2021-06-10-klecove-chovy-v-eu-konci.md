@@ -1,7 +1,7 @@
 ---
 date:         2021-06-10
 category:     blog
-tags:         zemedělství evropská-unie
+tags:         zemědělství evropská-unie
 layout:       post
 title:        "Europoslanci odhlasovali konec doby klecové. Podpořili tak iniciativu více než 1,6 milionů lidí "
 image:        /assets/img/articles/2021/marcel-kolaja01.jpg
