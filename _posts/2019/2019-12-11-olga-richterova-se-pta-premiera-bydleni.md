@@ -1,7 +1,7 @@
 ---
 date:         2019-12-11
 category:     blog
-tags:         vláda legislativa práci-a-sociální-věci
+tags:         vláda legislativa práce-a-sociální-věci
 layout:       post
 title:        "Komentář Olgy Richterové: Pane premiére, proč neřešíte palčivý problém s dostupným a obecním bydlením?"
 image:        /assets/img/articles/2019/richterova99.jpg
