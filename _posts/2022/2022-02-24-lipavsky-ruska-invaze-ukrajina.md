@@ -1,7 +1,7 @@
 ---
 date:         2022-02-24
 category:     blog
-tags:         zahranici bezpecnost 
+tags:         zahraničí bezpečnost 
 layout:       post
 title:        "Ministr Lipavský k ruské invazi na území Ukrajiny: Jde o barbarský akt agrese"
 image:        /assets/img/articles/2022/ukrajina.jpg
