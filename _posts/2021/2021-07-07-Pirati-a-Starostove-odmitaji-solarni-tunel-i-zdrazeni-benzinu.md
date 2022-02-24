@@ -1,7 +1,7 @@
 ---
 date:         2021-07-07
 category:     blog
-tags:         tunel finance solary biopaliva
+tags:         zemědělství energetika
 layout:       post
 title:        "Piráti a Starostové: Chceme zabránit návrhu ANO na zdražení benzinu, malé domů pro Agrofert a ukončit nekalé praktiky energošmejdů"
 image:        /assets/img/articles/2021/Olga, Ivan, Věra, Vítek tiskovka.jpg
