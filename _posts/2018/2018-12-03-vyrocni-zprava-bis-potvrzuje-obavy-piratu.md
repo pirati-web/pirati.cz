@@ -1,7 +1,7 @@
 ---
 date:         2018-12-03
 category:     blog
-tags:         celostátní vnitro obrana
+tags:         celostátní bezpečnost obrana
 layout:       post
 title:        "BIS potvrzuje obavy Pirátů: Česko je terčem hybridních hrozeb"
 image:        /assets/img/articles/2018/kolarik-zluta.jpg
