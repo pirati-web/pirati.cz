@@ -1,7 +1,7 @@
 ---
 date:         2020-09-04
 category:     blog
-tags:         koronavir erouska zdravi
+tags:         koronavirus zdravotnictví
 layout:       post
 title:        "Piráti navrhli ministru zdravotnictví, jak motivovat občany k využívání aplikace eRouška a žádají lepší informování veřejnosti"
 image:        assets/img/articles/2020/tresnak-richterova.jpg
