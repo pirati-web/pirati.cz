@@ -1,7 +1,7 @@
 ---
 date:         2021-09-15
 category:     blog
-tags:         zpráva-o-stavu-unie evropská-komise eu
+tags:         evropská-unie
 layout:       post
 title:        "Komise si uvědomuje řadu výzev, které musí řešit, teď záleží jak, říkají Piráti"
 image:        /assets/img/articles/2021/kolaja-gregorova-peksa.jpg
