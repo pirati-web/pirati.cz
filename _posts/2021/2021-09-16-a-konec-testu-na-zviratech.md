@@ -1,7 +1,7 @@
 ---
 date:         2021-09-16
 category:     blog
-tags:         zvířata testování evropský-parlament
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Europoslanci chtějí ukončit testování na zvířatech. „Nepatří to do moderní společnosti,“ říká Peksa"
 image:        /assets/img/articles/2021/testovani_na_zviratech_kralicek.jpg
