@@ -1,7 +1,7 @@
 ---
 date:         2020-07-20
 category:     blog
-tags:         legislativa energetika kontrola-moci-a-mocnych
+tags:         legislativa energetika kontrola-moci-a-mocných
 layout:       post
 title:        "Smlouvy na dostavbu Dukovan vznikají bez možnosti kontroly veřejnosti. Vláda neřeší potřebnost projektu za 160 miliard korun, tvrdí Piráti a STAN"
 image:        /assets/img/articles/2020/rakusan-bartos-tresnak.jpg
