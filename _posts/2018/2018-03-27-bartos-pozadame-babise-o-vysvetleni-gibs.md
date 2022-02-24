@@ -1,7 +1,7 @@
 ---
 date:         2018-03-27
 category:     blog
-tags:         gibs bezpečnost vnitro
+tags:         bezpečnost 
 layout:       post
 title:        "Piráti budou žádat vysvětlení ve věci zproštění služby ředitele GIBS"
 image:        /assets/img/articles/2018/ivan-bartos-balkonek.JPG
