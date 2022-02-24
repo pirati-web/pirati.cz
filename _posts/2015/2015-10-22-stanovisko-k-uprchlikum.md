@@ -1,7 +1,7 @@
 ---
 date:         2015-10-22
 category:     blog
-tags:         evropská-unie celostátní bezpečnost vnitro
+tags:         evropská-unie celostátní bezpečnost
 layout:       post
 title:        "Postoj České pirátské strany k migrační krizi 2015"
 image:        /assets/img/articles/2015/holcicka.jpg
