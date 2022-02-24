@@ -1,7 +1,7 @@
 ---
 date:         2018-04-12
 category:     blog
-tags:         ústecký-kraj
+tags:         regiony
 layout:       post
 title:        "Ústecko hledá posily! Piráti zvou na palubu"
 image:        /assets/img/articles/2018/inzerat.jpg
