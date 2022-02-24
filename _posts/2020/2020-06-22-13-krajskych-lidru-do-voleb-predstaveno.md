@@ -1,7 +1,7 @@
 ---
 date:         2020-06-22
 category:     blog
-tags:         volby kampaň kraje
+tags:         volby regiony
 layout:       post
 title:        "Šance změnit budoucnost: Piráti zahájili kampaň do krajských voleb, představili svoje lídry i program"
 image:        /assets/img/articles/2020/zahajeni-krajska-kampan.jpg
