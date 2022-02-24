@@ -3,7 +3,7 @@ date:         2022-02-23
 category:     blog
 tags:         bezpečnost zahraničí
 layout:       post
-title:        "Komentář Lukáše Koláříká: Kriminalita ve virtuálním prostoru není imaginární, ale skutečná. Jak nenaletět internetovým šmejdům?"
+title:        "Komentář Lukáše Koláříka: Kriminalita ve virtuálním prostoru není imaginární, ale skutečná. Jak nenaletět internetovým šmejdům?"
 image:        /assets/img/articles/2019/lukas-kolarik1.jpg
 author:       Lukáš Kolářík
 ---
