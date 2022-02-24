@@ -1,7 +1,7 @@
 ---
 date:         2021-02-23
 category:     blog
-tags:         bělorusko europarlament lidská-práva
+tags:         evropská-unie zahraničí lidská-práva
 layout:       post
 title:        "Bělorusko půlrok po zfalšovaných volbách – co dál? Pirátka Gregorová se radí s experty"
 image:        /assets/img/articles/2021/gregorova_janis_nova_schody.jpg
