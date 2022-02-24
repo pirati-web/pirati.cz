@@ -1,7 +1,7 @@
 ---
 date:         2021-03-17 
 category:     blog
-tags:         bečva piráti vyšetřování
+tags:         životní-prostředí legislativa
 layout:       post
 title:        "Otrava řeky Bečvy se nesmí opakovat: Piráti chtějí lepší šetření ekologických havárii, zapojí se do příprav potřebné legislativy"
 image:        /assets/img/articles/2021/elfmark-balcarova.jpg
