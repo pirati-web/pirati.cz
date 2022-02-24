@@ -1,7 +1,7 @@
 ---
 date:         2020-09-09
 category:     blog
-tags:         cina disident hongkong
+tags:         zahraničí
 layout:       post
 title:        "Ministr zahraničí odmítl zaručit čínskému disidentovi, že nebude v ČR zatčen. Doporučil mu k nám necestovat"
 image:        /assets/img/articles/2020/stepan-strebl.jpg
