@@ -1,7 +1,7 @@
 ---
 date:         2020-09-09
 category:     blog
-tags:         koronavirus covid zdravi
+tags:         koronavirus zdravotnictví
 layout:       post
 title:        "Vyjádření Pirátů k výskytu nemoci COVID uvnitř poslaneckého klubu a k podniknutým opatřením"
 image:        /assets/img/articles/2020/1200px-Flag_of_the_Czech_Pirate_Party.svg.png
