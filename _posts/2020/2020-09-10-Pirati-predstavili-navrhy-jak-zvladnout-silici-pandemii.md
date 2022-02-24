@@ -1,7 +1,7 @@
 ---
 date:         2020-09-10
 category:     blog
-tags:         pirati koronavir zdravi zivnostnik
+tags:         finance koronavirus
 layout:       post
 title:        "Piráti představili návrhy, jak zvládnout sílící pandemii i podpořit živnostníky a zaměstnanost"
 image:        /assets/img/articles/2020/prtcreen_tz_richterova_ferjencik.jpg
