@@ -1,7 +1,7 @@
 ---
 date:         2021-04-29
 category:     blog
-tags:         koronaviru zdravotnictví evropská-unie
+tags:         koronavirus zdravotnictví evropská-unie
 layout:       post
 title:        "Se stejným dokladem do posilovny i do Chorvatska. Covid pas jde vstříc pirátským požadavkům"
 image:        /assets/img/articles/2020/Gregorova Kolaja Peksa.jpg
