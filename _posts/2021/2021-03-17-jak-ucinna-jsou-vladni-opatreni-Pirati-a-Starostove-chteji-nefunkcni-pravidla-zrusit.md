@@ -1,7 +1,7 @@
 ---
 date:         2021-03-17
 category:     blog
-tags:         koronavir opatření blatný vláda
+tags:         koronavirus vláda
 layout:       post
 title:        "Piráti a Starostové chtějí znát účinnost covidových opatření, ta nefunkční požadují zrušit. Předložili ministru Blatnému i návrhy ke zvládnutí krize"
 image:        /assets/img/articles/2021/Bartos, Rakusan STAN.jpg
