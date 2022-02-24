@@ -1,7 +1,7 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         bečva otrava ekologie
+tags:         životní-prostědí sněmovna
 layout:       post
 title:        "Sněmovna projednala otravu řeky Bečvy. Piráti navrhli opatření pro transparentnější vyšetřování ekologických katastrof i jejich lepší prevenci"
 image:        /assets/img/articles/2020/balcarova-elfmark.jpg
