@@ -1,7 +1,7 @@
 ---
 date:         2020-10-03
 category:     blog
-tags:         volby kraje senat
+tags:         volby regiony senát
 layout:       post
 title:        "Piráti slaví úspěch v krajských volbách, mají přes sto zastupitelů. Dařilo se i jejich kandidátům do Senátu"
 image:        assets/img/articles/2020/120603858_10157921409759039_776273729442480799_o.jpg
