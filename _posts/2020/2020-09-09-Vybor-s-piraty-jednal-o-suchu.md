@@ -1,7 +1,7 @@
 ---
 date:         2020-09-09
 category:     blog
-tags:         zivotni-prostredi ekologie
+tags:         životní-prostředí legislativa
 layout:       post
 title:        "Poslanecký Výbor pro životní prostředí se po prázdninách vrátil k odpadové legislativě a boji proti suchu"
 image:        /assets/img/articles/2020/dana_balcarova_vybor.jpg
