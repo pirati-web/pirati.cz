@@ -3,7 +3,7 @@ date:         2022-02-21
 category:     blog
 tags:         evropská-unie digitalizace 
 layout:       post
-title:        "Bartoš: Prioritami našeho předsednictví je digitalizace, podpora cestovního ruchu a politika soudržnosti"
+title:        "Bartoš: Prioritami našeho předsednictví jsou digitalizace, podpora cestovního ruchu a politika soudržnosti"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
 author:       
 ---
