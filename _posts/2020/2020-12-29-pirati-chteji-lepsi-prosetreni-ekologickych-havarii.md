@@ -1,7 +1,7 @@
 ---
 date:         2020-12-29
 category:     blog
-tags:         bečva znečištění ekologie
+tags:         životní-prostředí sněmovna
 layout:       post
 title:        "Komentář Dany Balcarové: Ohrožení zdrojů pitné vody i úhyn tisíců ryb kvůli znečištění řek: Viníci stále unikají, Piráti chtějí lepší postupy ve vyšetřování"
 image:        /assets/img/articles/2020/Dana Balcarova Zewlakk voda dzban.jpg
