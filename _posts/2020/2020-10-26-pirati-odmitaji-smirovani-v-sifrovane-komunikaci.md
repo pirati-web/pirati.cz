@@ -1,7 +1,7 @@
 ---
 date:         2020-10-26
 category:     blog
-tags:         digitalizace cenzura kotrola-moci-a-mocných
+tags:         digitalizace cenzura kontrola-moci-a-mocných
 layout:       post
 title:        "Bezpečnost a soukromí v ohrožení. Piráti jasně proti šmírování v šifrované komunikaci"
 image:        /assets/img/articles/2020/profant1.jpg
