@@ -3,7 +3,7 @@ date:         2020-11-24
 category:     
   - blog
   - stanoviska
-tags:         evropská-unie celostátní bezpečnost vnitro
+tags:         evropská-unie celostátní bezpečnost
 layout:       post
 title:        "Stanovisko k migraci 2020"
 image:        /assets/img/articles/2020/holcicka-2020.jpg
