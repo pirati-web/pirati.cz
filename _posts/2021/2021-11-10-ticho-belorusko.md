@@ -1,7 +1,7 @@
 ---
 date:         2021-11-10
 category:     blog
-tags:         bělorusko europarlament lidská-práva
+tags:         evropská-unie zahraničí lidská-práva
 layout:       post
 title:        "Svůj projev v europarlamentu zahájila tichem za oběti manipulací diktátorů. Pak se Gregorová opřela do Lukašenka"
 image:        /assets/img/articles/2021/plenary_belarus_poland_10.11.2021.jpg
