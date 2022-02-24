@@ -1,7 +1,7 @@
 ---
 date:         2021-12-15
 category:     blog
-tags:         europarlament internet kryptoměny
+tags:         evropská-unie internet 
 layout:       post
 title:        "Evropský parlament nesmyslně obviňuje kryptoměny z podpory organizovanému zločinu. Piráti to odmítají"
 image:        /assets/img/articles/2021/peksa_ep.jpg
