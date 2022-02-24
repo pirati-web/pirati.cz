@@ -1,7 +1,7 @@
 ---
 date:         2020-09-18
 category:     blog
-tags:         technicke-normy zivnostnik snemovna
+tags:         sněmovna legislativa
 layout:       post
 title:        "Technické normy budou díky iniciativě Pirátů zdarma, živnostníci ušetří tisíce korun na poplatcích"
 image:        /assets/img/articles/2020/michalek.jpg
