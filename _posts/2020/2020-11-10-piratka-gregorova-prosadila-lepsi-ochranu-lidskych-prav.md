@@ -1,7 +1,7 @@
 ---
 date:         2020-11-10
 category:     blog
-tags:         evropsky-parlament gregorova autoritarsky-rezim
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Vítězství v oblasti lidských práv: Pirátka Gregorová dotáhla legislativu technologií dvojího použití"
 image:        /assets/img/articles/2020/gregorova.jpg
