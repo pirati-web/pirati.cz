@@ -1,7 +1,7 @@
 ---
 date:         2021-11-03
 category:     blog
-tags:         tchaj-wan dezinformace lidská-práva
+tags:         zahraničí dezinformace lidská-práva
 layout:       post
 title:        "Začala historicky první mise europarlamentu na Taiwan. Iniciovala ji europoslankyně Markéta Gregorová"
 image:        /assets/img/articles/2021/gregorova_tchajwan.jpeg
