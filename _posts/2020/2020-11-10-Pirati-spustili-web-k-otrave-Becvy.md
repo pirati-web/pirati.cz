@@ -1,7 +1,7 @@
 ---
 date:         2020-11-10
 category:     blog
-tags:         bečva ekologie otrava-řeky
+tags:         životní-prostředí sněmovna
 layout:       post
 title:        "Piráti nadále ostře sledují vyšetřování otravy řeky Bečvy. Věc chtějí projednat ve Sněmovně, veřejnost informují i pomocí nového webu"
 image:        /assets/img/articles/2020/balcarova-elfmark.jpg
