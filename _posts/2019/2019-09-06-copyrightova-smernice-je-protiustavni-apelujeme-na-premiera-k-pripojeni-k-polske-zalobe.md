@@ -1,7 +1,7 @@
 ---
 date:         2019-09-06
 category:     blog
-tags:         autorské-právo copyright evropská-unie
+tags:         autorské-právo evropská-unie
 layout:       post
 title:        "Piráti: Směrnice o copyrightu je protiústavní. Piráti apelují na premiéra, aby se ČR připojila k polské žalobě k Soudnímu dvoru EU"
 image:        /assets/img/articles/2019/ondrej-profant1.jpg
