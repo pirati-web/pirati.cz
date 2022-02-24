@@ -1,7 +1,7 @@
 ---
 date:         2021-04-15
 category:     blog
-tags:         hoaxy média
+tags:         dezinformace média
 layout:       post
 title:        "Piráti bojují proti lživým informacím. Aby upozornili na hoaxy, vypsali odměnu 100 tisíc za dohledání návrhů zákonů v neprospěch seniorů"
 image:        /assets/img/articles/2021/reward100k.jpg
