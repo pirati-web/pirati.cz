@@ -1,7 +1,7 @@
 ---
 date:         2019-12-04
 category:     blog
-tags:         vláda sněmovna celostátní kontrola-moci
+tags:         vláda sněmovna celostátní kontrola-moci-a-mocných
 layout:       post
 title:        "Odejděte z vrcholné politiky a umožněte nezávislé došetření kauzy Čapí hnízdo, vyzývají Piráti premiéra Babiše v souvislosti s jeho obnoveným stíháním"
 image:        /assets/img/articles/2019/tk27schuze.jpg
