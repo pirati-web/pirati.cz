@@ -1,7 +1,7 @@
 ---
 date:         2022-01-21
 category:     blog
-tags:         zoh peksa lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Peksa: Vyzýváme evropské státy, aby bojkotovaly Zimní olympijské hry 2022"
 image:        /assets/img/articles/2021/peksa_ep.jpg
