@@ -1,7 +1,6 @@
 ---
 date:         2021-02-19
-category:     blog
-tags:         dezinformace europarlament pravda-boli
+category:     blogvropská-unie
 layout:       post
 title:        "Stovky řetězových e-mailů měsíčně se snaží zmanipulovat seniory. Pomoci má kampaň"
 image:        /assets/img/articles/2021/gregorova_nove_janis.jpg
