@@ -1,7 +1,7 @@
 ---
 date:         2021-02-18
 category:     blog
-tags:        koronavir pandemicky-zakon nouzovy-stav
+tags:         koronavirus legislativa zdravotnictví
 layout:       post
 title:        "Piráti a Starostové předložili návrhy na boj s koronavirem. Chtějí efektivní pandemický zákon, testování ve firmách a lepší kompenzace"
 image:        /assets/img/articles/2021/STAN Rakusan Bartos Pirati.jpg 
