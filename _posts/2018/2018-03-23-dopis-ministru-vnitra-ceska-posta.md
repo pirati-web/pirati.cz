@@ -1,7 +1,7 @@
 ---
 date:         2018-03-23
 category:     blog
-tags:         česká-pošta
+tags:         celostátní
 layout:       post
 title:        "Piráti v dopise ministrovi vnitra žádají lepší podmínky pro zaměstnance pošty"
 image:        /assets/img/articles/2018/holomcik.jpg
