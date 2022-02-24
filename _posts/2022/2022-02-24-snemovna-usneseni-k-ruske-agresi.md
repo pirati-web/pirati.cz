@@ -20,4 +20,4 @@ Poslanecká sněmovna dnes na mimořádné schůzi jednohlasně odsoudila ruskou
 
 > ,,Plně stojíme za Ukrajinou, která se dnes stala obětí agrese, jakou Evropa naposledy zažila za 2. sv. války. Jsme připraveni Ukrajině pomoci, podporujeme ty nejtvrdší možné sankce proti Rusku. Oceňuji, s jakou rychlostí byla svolána mimořádná schůze Poslanecké sněmovny, i to, že jsme všemi přítomnými hlasy přijali usnesení odsuzující barbarské chování Vladimira Putina. Je to jasný signál, že celá Česká republika je v této otázce jednotná," uzavřel předseda poslaneckého klubu Stan Josef Cogan.
 
-Celé znění usnesení lze najít [ZDE](assets/pdf/Usneseni_Poslanecke_snemovny.docx)
+Celé znění usnesení lze najít [ZDE](assets/pdf/Usneseni_Poslanecke_snemovny.pdf)
