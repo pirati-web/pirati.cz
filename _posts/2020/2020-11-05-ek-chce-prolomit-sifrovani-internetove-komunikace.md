@@ -1,7 +1,7 @@
 ---
 date:         2020-11-05
 category:     blog
-tags:         digitalizace cenzura kotrola-moci-a-mocných
+tags:         digitalizace cenzura kontrola-moci-a-mocných
 layout:       post
 title:        "Evropská komise chce prolomit šifrování soukromých konverzací na internetu. Jde o narušení listovního tajemství, namítají Piráti"
 image:        /assets/img/articles/2020/kopriva.jpg
