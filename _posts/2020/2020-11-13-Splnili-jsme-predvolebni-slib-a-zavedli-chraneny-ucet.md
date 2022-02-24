@@ -1,7 +1,7 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         exekuce piráti chráněný-účet
+tags:         exekuce legislativa
 layout:       post
 title:        "Piráti splnili další slib voličům, pomohli zavést chráněný bankovní účet pro lidi v exekucích. Tisícům občanů pomůže z krizové situace"
 image:        /assets/img/articles/2019/lukas-kolarik.jpg
