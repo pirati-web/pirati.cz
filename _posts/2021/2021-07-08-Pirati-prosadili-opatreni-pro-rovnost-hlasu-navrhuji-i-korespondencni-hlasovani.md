@@ -1,7 +1,7 @@
 ---
 date:         2021-07-08
 category:     blog
-tags:         volby hlasy korespondenční-hlasování
+tags:         volby legislativa senát
 layout:       post
 title:        "Piráti prosadili lepší úpravu senátních obvodů zaručující rovnost hlasů voličů. Navrhují i korespondenční hlasování pro Čechy v cizině"
 image:        /assets/img/articles/2021/vojtech-pikal.jpg
