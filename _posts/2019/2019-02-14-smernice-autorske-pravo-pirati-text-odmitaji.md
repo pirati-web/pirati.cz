@@ -1,7 +1,7 @@
 ---
 date:         2019-02-14
 category:     blog
-tags:         celostátní autorské-právo cenzura copyright
+tags:         celostátní autorské-právo cenzura
 layout:       post
 title:        "Piráti odmítají současný text Směrnice o autorském právu na digitálních sítích"
 image:        /assets/img/articles/2019/peksa-kolaja-bartos-gregorova.jpg
