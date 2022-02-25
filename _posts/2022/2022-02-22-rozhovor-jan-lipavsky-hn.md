@@ -9,7 +9,7 @@ author:       Michaela Ryšavá (HN)
 ---
 
 
-22. února 2022 - Na Ukrajinu posílá Česko 10 milionů korun, zároveň ministr zahraničí Jan Lipavský (Piráti) ve středu podepíše darování zdravotnického materiálu pro Ukrajinský červený kříž. Zásilka by měla obsahovat i sanitní vozy. O další pomoci bude česká vláda ještě jednat. „Je potřeba udělat takové kroky, abychom odradili Rusko od další eskalace konfliktu. Zároveň musíme být připraveni na to, že Rusové vstoupí vojensky na Ukrajinu, a zařídit podle toho sankce i praktickou pomoc Ukrajině,“ říká ministr v rozhovoru pro HN. (Zdroj [HN](https://archiv.hn.cz/c1-67036750-musime-byt-pripraveni-na-to-ze-rusove-vojensky-vstoupi-na-ukrajinu-rika-lipavsky))
+Praha, 22. února 2022 - Na Ukrajinu posílá Česko 10 milionů korun, zároveň ministr zahraničí Jan Lipavský (Piráti) ve středu podepíše darování zdravotnického materiálu pro Ukrajinský červený kříž. Zásilka by měla obsahovat i sanitní vozy. O další pomoci bude česká vláda ještě jednat. „Je potřeba udělat takové kroky, abychom odradili Rusko od další eskalace konfliktu. Zároveň musíme být připraveni na to, že Rusové vstoupí vojensky na Ukrajinu, a zařídit podle toho sankce i praktickou pomoc Ukrajině,“ říká ministr v rozhovoru pro HN. (Zdroj [HN](https://archiv.hn.cz/c1-67036750-musime-byt-pripraveni-na-to-ze-rusove-vojensky-vstoupi-na-ukrajinu-rika-lipavsky))
 
 
 
