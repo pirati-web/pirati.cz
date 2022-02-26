@@ -1,7 +1,7 @@
 ---
 date:         2022-02-25
 category:     blog
-tags:         zahraničí vláda bezpečnsot
+tags:         zahraničí vláda bezpečnost
 layout:       post
 title:        "Vláda schválila naléhavou humanitární pomoc Ukrajině, další kroky budou následovat"
 image:        /assets/img/articles/2022/ivan-bartos03.jpg
