@@ -29,9 +29,6 @@
     {% if page.rbar contains 'people' %}
       {% include right-bar/bar_people.html %}
     {% endif %}
-    {% if page.rbar contains 'video' %}
-      {% include right-bar/bar_video.html %}
-    {% endif %}
     {% if page.rbar contains 'obchod' %}
       {% include right-bar/bar_obchod.html %}
     {% endif %}
@@ -49,6 +46,9 @@
     {% endif %}
     {% if page.rbar contains 'cal' %}
       {% include right-bar/bar_cal.html %}
+    {% endif %}
+    {% if page.rbar contains 'video' %}
+      {% include right-bar/bar_video.html %}
     {% endif %}
   </div>
 </aside>
