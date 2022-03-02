@@ -3,7 +3,7 @@ date:         2022-03-02
 category:     blog
 tags:         senát zahraničí 
 layout:       post
-title:        "USenátoři vyzvali k ukončení veřejné podpory firmám z Ruska a Běloruska, které neodsoudí akt vojenské agrese na Ukrajině"
+title:        "Senátoři vyzvali k ukončení veřejné podpory firmám z Ruska a Běloruska, které neodsoudí akt vojenské agrese na Ukrajině"
 image:        /assets/img/articles/2022/lukas-wagenknecht-03-2022.jpg
 author:       
 ---
