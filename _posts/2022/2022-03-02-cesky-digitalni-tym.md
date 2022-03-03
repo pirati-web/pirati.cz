@@ -1,7 +1,7 @@
 ---
 date:         2022-03-02
 category:     blog
-tags:         digitalizace
+tags:         digitalizace vláda
 layout:       post
 title:        "Ivan Bartoš představil Český digitální tým nezávislých expertů, bude radit s digitalizací Česka"
 image:        /assets/img/articles/2022/ivan-bartos-03-2022.jpg
