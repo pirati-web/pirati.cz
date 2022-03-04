@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda   
 layout:       post
 title:        "Vládní koalice podpoří Miloslava Kalu do vedení Nejvyššího kontrolního úřadu"
-image:        /assets/img/articles/2022/jakub-michalek-nku.jpg
+image:        /assets/img/articles/2022/michalek-jakub.jpg
 author:       
 ---
 
