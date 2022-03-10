@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí bezpečnost
 layout:       post
 title:        "Gregorová: Hybridním útokům musíme čelit společně. Vymahatelností, i sankcemi"
-image:        /assets/img/articles/2022/GSL32 (1).jpg
+image:        /assets/img/articles/2022/marketa_sedacka.jpg
 author:       
 ---
 
