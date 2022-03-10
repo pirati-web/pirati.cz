@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí bezpečnost
 layout:       post
 title:        "Dezinformace a zahraniční vměšování bere Evropský parlament vážně, říká Gregorová ke vzniku nového výboru"
-image:        /assets/img/articles/2022/GSL35 (1).jpg
+image:        /assets/img/articles/2022/markéta_chodba_square.jpg
 author:       
 ---
 
