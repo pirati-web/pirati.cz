@@ -18,3 +18,4 @@ Ministerstvo pro místní rozvoj také nadále pracuje na možnosti zapojení l�
 
 MMR nezapomíná ani na domácí poptávku po bytech. Proto i nadále běží program SFPI Výstavba pro obce, kde mohou obce získat dotaci a výhodný úvěr na výstavbu obecních bytů.
 
+ 
