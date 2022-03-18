@@ -1,7 +1,7 @@
 ---
 date:         2019-04-03
 category:     blog
-tags:         celostátní Školství
+tags:         celostátní školství
 layout:       post
 title:        "Piráti představili svou vizi vzdělávání. Chtějí finančně podpořit učitele a řešit vzdělávací programy"
 image:        /assets/img/articles/2019/bulb.jpg
