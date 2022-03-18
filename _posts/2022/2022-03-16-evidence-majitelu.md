@@ -1,7 +1,7 @@
 ---
 date:         2022-03-16
 category:     blog
-tags:         vláda EU mmr střet zájmů
+tags:         vláda evropská-unie střet-zájmů
 layout:       post
 title:        "ČR nesmí kvůli Babišovu střetu zájmů přicházet o dotace. Vláda proto upraví zákon o evidenci skutečných majitelů"
 image:        /assets/img/articles/2022/bartoš001.jpg
