@@ -1,7 +1,7 @@
 ---
 date:         2021-03-11
 category:     blog
-tags:         nucená-práce čína lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Zákaz zboží vyrobených nucenou prací dětí nebo Ujgurů. Europarlament chce posílit lidská práva"
 image:        /assets/img/articles/2021/Gregorova 4.jpg
