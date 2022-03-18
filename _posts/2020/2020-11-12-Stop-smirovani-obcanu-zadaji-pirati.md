@@ -1,7 +1,7 @@
 ---
 date:         2020-11-12
 category:     blog
-tags:         ochrana-soukromí šifrování 
+tags:         ochrana-soukromí  
 layout:       post
 title:        "Piráti proti šmírování občanů ze strany evropských vlád. Prolomení soukromí musíme zabránit. Pomozte nám upozornit vládu!"
 image:        /assets/img/articles/2020/kolaja.jpg
