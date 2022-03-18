@@ -1,7 +1,7 @@
 ---
 date:         2021-03-05
 category:     blog
-tags:         ekologie štítky europarlament
+tags:         životní-prostředí europarlament
 layout:       post
 title:        "Konec nepřehlednému značení spotřebičů. V EU teď jasně poznáte, jak je vaše lednička nebo pračka energeticky náročná"
 image:        /assets/img/articles/2021/Nove stitky.png
