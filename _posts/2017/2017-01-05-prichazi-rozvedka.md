@@ -1,7 +1,7 @@
 ---
 date:         2017-01-05
 category:     blog
-tags:         šmírování
+tags:         cenzura
 layout:       post
 title:        "Novela zákona o Vojenském zpravodajství: Piráti se připojují k iniciativě Přichází rozvědka"
 image:        /assets/img/articles/2016/prichazi-rozvedka.jpg
