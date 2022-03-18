@@ -1,7 +1,7 @@
 ---
 date:         2018-11-28
 category:     blog
-tags:         sněmovna celostátní finance školstvi
+tags:         sněmovna celostátní finance školství
 layout:       post
 title:        "ANO a KSČM na rozpočtovém výboru převálcovaly opozici"
 image:        /assets/img/articles/2018/zasedaci-sal-psp.jpg
