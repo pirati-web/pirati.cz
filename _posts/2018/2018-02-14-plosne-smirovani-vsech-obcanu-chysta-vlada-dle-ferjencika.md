@@ -1,7 +1,7 @@
 ---
 date:         2018-02-14
 category:     blog
-tags:         šmírování
+tags:         cenzura
 layout:       post
 title:        "Komentář M. Ferjenčíka: Vláda chce plošně šmírovat všechny občany"
 image:        /assets/img/articles/2018/mifer.jpg
