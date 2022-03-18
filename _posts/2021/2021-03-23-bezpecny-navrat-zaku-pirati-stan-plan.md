@@ -1,7 +1,7 @@
 ---
 date:         2021-03-23
 category:     blog
-tags:         škoství vzdělávání koronavirus
+tags:         školství vzdělávání koronavirus
 layout:       post
 title:        "Piráti a STAN připravili plán po bezpečný návrat žáků do škol, budou o něm jednat s Plagou. Stojí na neinvazivním spolehlivém testování a posílení pravomocí ředitelů"
 image:        /assets/img/articles/2021/barton-gazdik.jpg
