@@ -1,7 +1,7 @@
 ---
 date:         2022-01-07
 category:     blog
-tags:         evropský-parlament legislativa
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Ochrana dat, větší transparentnost i boj za lidská práva: Rok 2021 se u pirátských europoslanců nesl ve znamení úspěchů"
 image:        /assets/img/articles/2021/kolaja-gregorova-peksa.jpg
