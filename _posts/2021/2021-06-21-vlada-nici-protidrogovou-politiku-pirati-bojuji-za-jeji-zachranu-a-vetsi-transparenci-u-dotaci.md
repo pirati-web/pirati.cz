@@ -1,7 +1,6 @@
 ---
 date:         2021-06-21
-category:     blog
-tags:         protidrogová-politika bezpečnost dotace transparentnost
+category:     návykové-látky bezpečnost transparence
 layout:       post
 title:        "Vláda likviduje funkční protidrogovou politiku, Piráti bojují za její záchranu. Podávají i trestní oznámení na pochybné dotace za miliony"
 image:        /assets/img/articles/2021/tomas-vymazal01.jpg
