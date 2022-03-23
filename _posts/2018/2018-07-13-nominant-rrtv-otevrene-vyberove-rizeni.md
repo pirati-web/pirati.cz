@@ -1,7 +1,7 @@
 ---
 date:         2018-07-13
 category:     blog
-tags:         transparentnost
+tags:         transparence média
 layout:       post
 title:        "Piráti pořádají otevřené výběrové řízení na nominanta do RRTV"
 image:        assets/img/articles/2018/ceskatelevize.jpg
