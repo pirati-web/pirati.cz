@@ -1,7 +1,7 @@
 ---
 date:         2018-02-06
 category:     blog
-tags:         transparentnost
+tags:         transparence korupce
 layout:       post
 title:        "Piráti: Majetková přiznání zachováme, zákon o střetu zájmů v současné podobě vyhovuje"
 image:        /assets/img/articles/2018/bartos-prezentace.jpg
