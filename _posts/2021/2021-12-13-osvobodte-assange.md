@@ -1,7 +1,7 @@
 ---
 date:         2021-12-13
 category:     blog
-tags:         evropský-parlament lidská-práva julian-assange
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Gregorová pořádá demonstraci na podporu Assange. „Británie ho nesmí nechat zemřít.“"
 image:        /assets/img/articles/2021/assange_demonstrace.jpg
