@@ -1,7 +1,7 @@
 ---
 date:         2021-07-09
 category:     blog
-tags:         kolaja pirati soukromí evropský-parlament
+tags:         evropská-unie kontrola-moci-a-mocných
 layout:       post
 title:        "Europarlament hlasuje o výjimce umožňující automatickou kontrolu soukromé komunikace, Piráti jsou proti"
 image:        /assets/img/articles/2019/marcel-kolaja1.jpg
