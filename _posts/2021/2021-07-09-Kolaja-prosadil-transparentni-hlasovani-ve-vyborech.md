@@ -1,7 +1,7 @@
 ---
 date:         2021-07-09
 category:     blog
-tags:         kolaja transparentnost evropský-parlament
+tags:         transparence evropská-unie
 layout:       post
 title:        "Kolaja prosadil transparentní hlasování ve výborech Evropského parlamentu"
 image:        /assets/img/articles/2020/kolaja.jpg
