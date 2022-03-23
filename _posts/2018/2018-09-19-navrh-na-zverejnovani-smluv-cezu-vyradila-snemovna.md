@@ -1,7 +1,7 @@
 ---
 date:         2018-09-19
 category:     blog
-tags:         sněmovna legislativa čez transparentnost
+tags:         sněmovna energetika transparence
 layout:       post
 title:        "Sněmovna vyřadila návrh Pirátů na zrušení výjimek ze zveřejňování smluv ČEZu z pořadu schůze"
 image:        /assets/img/articles/2018/cez.jpg
