@@ -1,7 +1,7 @@
 ---
 date:         2019-04-12
 category:     blog
-tags:         celostátní transparentnost
+tags:         transparence média
 layout:       post
 title:        "Piráti nominují do Rady ČTK Josefa Šlerku"
 image:        /assets/img/articles/2019/josef-slerka.jpg
