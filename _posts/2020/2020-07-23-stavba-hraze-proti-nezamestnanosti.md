@@ -1,7 +1,7 @@
 ---
 date:         2020-07-23
 category:     blog
-tags:         legislativa evropský-parlament koronavirus 
+tags:         legislativa evropská-unie koronavirus 
 layout:       post
 title:        "Evropa staví hráz proti nezaměstnanosti"
 image:        /assets/img/articles/2020/kolaja.jpg
