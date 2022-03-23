@@ -1,7 +1,7 @@
 ---
 date:         2020-06-22
 category:     blog
-tags:         vevropská-unie finance kontrola-moci-a-mocných
+tags:         evropská-unie finance kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti: Rezoluce není jen odsouzení chování Andreje Babiše, ale také seznamem úkolů pro vládu, Komisi a Radu"
 image:        /assets/img/articles/2020/peksa.jpg
