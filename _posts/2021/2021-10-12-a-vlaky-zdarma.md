@@ -1,7 +1,7 @@
 ---
 date:         2021-10-12
 category:     blog
-tags:         vlaky evropská-unie mladí
+tags:         evropská-unie doprava
 layout:       post
 title:        "Cesta vlakem zdarma po celé Evropě. Mladí lidé mohou poznat, jak je cestování vlakem komfortní"
 image:        /assets/img/articles/2020/mikulas-peksa.jpg
