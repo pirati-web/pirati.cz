@@ -1,7 +1,7 @@
 ---
 date:         2018-01-03
 category:     blog
-tags:         čez
+tags:         energetika
 layout:       post
 title:        "Piráti chtějí donutit ČEZ zveřejňovat smlouvy. Navrhují zaplnit mezery v infozákoně"
 image:        /assets/img/articles/2018/cez.jpg
