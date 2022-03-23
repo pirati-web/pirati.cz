@@ -1,7 +1,7 @@
 ---
 date:         2018-02-14
 category:     blog
-tags:         transparentnost
+tags:         transparence média
 layout:       post
 title:        "Piráti vybrali nominanta do Rady ČTK"
 image:        /assets/img/articles/2018/ctk2.jpg
