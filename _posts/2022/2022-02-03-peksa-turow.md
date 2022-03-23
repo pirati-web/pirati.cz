@@ -1,7 +1,7 @@
 ---
 date:         2022-02-03
 category:     blog
-tags:         turow mikulas-peksa polsko
+tags:         zahraničí životní-prostředí
 layout:       post
 title:        "Pirátská práce se vyplatila. Generální advokát Soudního dvora EU rozhodl, že je těžba v dole Turów nelegální"
 image:        /assets/img/articles/2022/MIkulas_peksa.jpg
