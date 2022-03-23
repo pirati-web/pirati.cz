@@ -1,7 +1,7 @@
 ---
 date:         2018-10-11
 category:     blog
-tags:         čez kauzy
+tags:         energetika kauzy
 layout:       post
 title:        "ČEZu hrozí v Bulharsku ztráta několika miliard Kč. Piráti žádají konkrétní kroky k nastavení průhledného hospodaření společnosti"
 image:        /assets/img/articles/2018/tk-bulharsko.jpg
