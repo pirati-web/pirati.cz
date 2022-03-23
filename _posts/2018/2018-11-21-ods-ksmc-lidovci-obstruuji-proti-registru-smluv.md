@@ -1,7 +1,7 @@
 ---
 date:         2018-11-21
 category:     blog
-tags:         čez legislativa registr-smluv
+tags:         energetika legislativa
 layout:       post
 title:        "ODS po boku KSČM a KDU-ČSL bojuje obstrukcemi za okleštění registru smluv"
 image:        /assets/img/articles/2018/kopriva.jpg
