@@ -1,7 +1,7 @@
 ---
 date:         2018-01-24
 category:     blog
-tags:         transparentnost
+tags:         transparence energetika
 layout:       post
 title:        "Piráti vybírají svého nominanta do rady ČTK otevřeným výběrovým řízením"
 image:        /assets/img/articles/2018/ctk.jpg
