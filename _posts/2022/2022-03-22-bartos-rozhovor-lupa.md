@@ -10,9 +10,9 @@ author:       Jan Sedlák (lupa.cz)
 
 
 
-Piráti po letech opozičního působení, kritizování státního IT a předkládání návrhů dostali možnost celou oblast digitalizace řídit. Byť mají pouze malé zastoupení ve sněmovně, předseda strany Ivan Bartoš získal post ministra pro místní rozvoj a zároveň vicepremiéra pro digitalizaci. Z této pozice chystá několik poměrně razantních změn. (Zdroj: [lupa.cz](https://www.lupa.cz/clanky/ivan-bartos-statnim-ajtakum-musime-zvysit-platy-na-sto-tisic-znalosti-neco-stoji/), autor: Jan Sedlák)
+Piráti po letech opozičního působení, kritizování státního IT a předkládání návrhů dostali možnost celou oblast digitalizace řídit. Byť mají pouze malé zastoupení ve sněmovně, předseda strany Ivan Bartoš získal post ministra pro místní rozvoj a zároveň vicepremiéra pro digitalizaci. Z této pozice chystá několik poměrně razantních změn.
 
-Bartoš některé z chystaných akcí rozebírá v rozhovoru pro Lupu. Zmiňuje například možné slučování státních IT podniků, přesun části kompetencí z ministerstva vnitra na vládu nebo nutnost zvýšit státním ajťákům výplaty.
+Bartoš některé z chystaných akcí rozebírá v rozhovoru pro Lupu. Zmiňuje například možné slučování státních IT podniků, přesun části kompetencí z ministerstva vnitra na vládu nebo nutnost zvýšit státním ajťákům výplaty. (Zdroj: [lupa.cz](https://www.lupa.cz/clanky/ivan-bartos-statnim-ajtakum-musime-zvysit-platy-na-sto-tisic-znalosti-neco-stoji/), autor: Jan Sedlák)
 
 **Už jste si ve vládě odbyli dobu hájení a rozkoukali se?**
 
