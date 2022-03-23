@@ -1,7 +1,7 @@
 ---
 date:         2018-03-02
 category:     blog
-tags:         transparentnost
+tags:         transparence
 layout:       post
 title:        "Piráti hledají nominanta do Dozorčí rady Státního fondu dopravní infrastruktury otevřeným výběrovým řízením"
 image:        /assets/img/articles/2018/sfdi.jpg
