@@ -1,7 +1,7 @@
 ---
 date:         2019-03-01
 category:     blog
-tags:         sněmovna Školství
+tags:         sněmovna školství
 layout:       post
 title:        "Revize rámcových vzdělávacích programů stále na začátku"
 image:        /assets/img/articles/2019/barton.jpg
