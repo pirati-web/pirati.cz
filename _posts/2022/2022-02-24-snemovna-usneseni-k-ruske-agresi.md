@@ -1,7 +1,7 @@
 ---
 date:         2022-02-24
 category:     blog
-tags:         rusko ukrajina sněmovna
+tags:         zahraničí sněmovna
 layout:       post
 title:        "Poslanecká sněmovna jednohlasně odsoudila ruskou invazi na Ukrajině"
 image:        /assets/img/articles/2022/Usneseni snemovny a ukrajinsky velvyslanec.jpeg 
