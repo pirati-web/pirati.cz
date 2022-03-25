@@ -14,6 +14,6 @@ Návrh dává evropským zemím možnost rozhodnout se, zda chtějí nevyužité
 
 > „Musíme být solidární s Ukrajinou a podpořit v současné situaci její prchající občany. Prostředky z fondů lidem usnadní nový začátek a pomohou jim se rychle dostat na vlastní nohy. Státy z nich mohou okamžitě financovat jídlo, zdravotní péči ale i základní potřeby nutné hned od počátku jejich útěku do bezpečí,“ říká europoslankyně Markéta Gregorová.
 
-Finance mají být využity v rámci směrnice o dočasné ochraně, která zaručuje držitelům statutu rozsáhlá práva včetně bydlení, zdravotní péče, vzdělávání a přístupu na trh práce. 
+Finance mají být využity v rámci směrnice o dočasné ochraně, která zaručuje držitelům statusu rozsáhlá práva včetně bydlení, zdravotní péče, vzdělávání a přístupu na trh práce. 
 
 > „Členské země by mohly použít fondy tak, že budou prospěšné nejen pro uprchlíky, ale i pro místní. Prostě investujeme peníze do oblastí, které byly doposud zanedbávány a kde pomůžou všem. Jde třeba o zlepšení infrastruktury, investice do dopravy, dostupnosti škol nebo zdravotnictví,“ vysvětluje europoslanec Mikuláš Peksa.
