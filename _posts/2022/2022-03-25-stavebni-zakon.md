@@ -3,7 +3,7 @@ date:         2022-03-25
 category:     blog
 tags:         vláda místní-rozvoj stavební-zákon legislativa 
 layout:       post
-title:        "Bartoš: Stavební úřady mají být blízko lidem, ne se jim vzdalovat. Změna stavebního zákona má zabránit kolapsu stavebního řízení, který po sobě nechala minulá vláda"
+title:        "Bartoš: Stavební úřady mají být blízko lidem, ne se jim vzdalovat. Změna stavebního zákona má zabránit kolapsu stavebního řízení"
 image:        /assets/img/articles/2022/ivanek-ivan-2022.jpg
 author:       
 ---
