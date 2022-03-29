@@ -1,7 +1,7 @@
 ---
 date:         2019-11-08
 category:     blog
-tags:         celostátní legislativa egov digitalizace  
+tags:         celostátní legislativa digitalizace  
 layout:       post
 title:        "Sněmovna schválila digitální ústavu. Lidé získají právo komunikovat se státem přes internet"
 image:        /assets/img/articles/2019/ivan-ondra-digisluzba.jpg
