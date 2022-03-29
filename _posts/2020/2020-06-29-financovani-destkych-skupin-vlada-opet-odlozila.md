@@ -1,7 +1,7 @@
 ---
 date:         2020-06-29
 category:     blog
-tags:         finance sociální-politika vláda
+tags:         finance práce-a-sociální-věci vláda
 layout:       post
 title:        "Komentář Olgy Richterové: Vláda neplní sliby o podpoře rodiny, odkládá řešení financování dětských skupin"
 image:        /assets/img/articles/2020/richterova.jpg
