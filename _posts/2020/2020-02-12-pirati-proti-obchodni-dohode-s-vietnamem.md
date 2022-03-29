@@ -1,7 +1,7 @@
 ---
 date:         2020-02-12
 category:     blog
-tags:         evropská-unie finance mezinárodní
+tags:         evropská-unie finance zahraničí
 layout:       post
 title:        "Evropští Piráti proti obchodní dohodě s Vietnamem"
 image:        /assets/img/articles/2019/gregorova99.jpg
