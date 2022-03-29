@@ -1,7 +1,7 @@
 ---
 date:         2020-10-12
 category:     blog
-tags:         životní-prostředí sucho vláda
+tags:         životní-prostředí vláda
 layout:       post
 title:        "Komentář Dany Balcarové: Kanálem Dunaj-Odra-Labe zbytečné utrácení vlády nekončí, chystá dvacet dosud neplánovaných přehrad"
 image:        assets/img/articles/2020/balcarova-prehrada.jpg
