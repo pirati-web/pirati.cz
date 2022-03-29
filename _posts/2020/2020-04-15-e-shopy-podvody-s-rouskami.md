@@ -1,7 +1,7 @@
 ---
 date:         2020-04-15
 category:     blog
-tags:         koronavirus obchod 
+tags:         koronavirus obchod-a-průmysl  
 layout:       post
 title:        "Piráti vyhodnotili 350 podnětů týkajících se podezřelých e-shopů s rouškami a respirátory. Podávají trestní oznámení"
 image:        /assets/img/articles/2020/adela-sipova.jpg
