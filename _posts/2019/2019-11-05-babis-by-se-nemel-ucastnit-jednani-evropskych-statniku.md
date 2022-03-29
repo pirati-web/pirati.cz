@@ -1,7 +1,7 @@
 ---
 date:         2019-11-05
 category:     blog
-tags:         celostátní piráti
+tags:         celostátní korupce
 layout:       post
 title:        "Bartoš: Andrej Babiš by neměl hostit ani se účastnit jednání evropských státníků, ze kterých může profitovat holding Agrofert"
 image:        /assets/img/articles/2019/ivan-podzim.jpg
