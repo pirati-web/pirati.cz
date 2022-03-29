@@ -1,7 +1,7 @@
 ---
 date:         2020-05-21
 category:     blog
-tags:         koronavirus finance sociální-politika
+tags:         koronavirus finance práce-a-sociální-věci
 layout:       post
 title:        "Dávat dávky všem kromě těch, kteří to nejvíc potřebují, je nemravné, píše Pirát Kolářík ministru Havlíčkovi"
 image:        /assets/img/articles/2020/kolarik.jpg
