@@ -1,7 +1,7 @@
 ---
 date:         2020-01-11
 category:     blog
-tags:         piráti celostátní
+tags:         volby celostátní
 layout:       post
 title:        "Čtvrtým místopředsedou Pirátů se stal Martin Kučera. Piráti si dnes zvolili kompletní předsednictvo"
 image:        /assets/img/articles/2020/cf-kucera.JPG
