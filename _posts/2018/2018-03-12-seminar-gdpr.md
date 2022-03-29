@@ -1,7 +1,7 @@
 ---
 date:         2018-03-12
 category:     blog
-tags:         gdpr
+tags:         informatika sněmovna
 layout:       post
 title:        "Piráti uspořádali seminář k GDPR pro obce"
 image:        /assets/img/articles/2018/gdpr-seminar.jpg
