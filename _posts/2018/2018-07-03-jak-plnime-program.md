@@ -1,7 +1,7 @@
 ---
 date:         2018-07-03
 category:     blog
-tags:         program
+tags:         celostátní
 layout:       post
 title:        "Jak pracují Piráti ve Sněmovně? Své účty skládají na novém webu"
 image:        assets/img/articles/2018/drzime-kurz.jpg
