@@ -1,7 +1,7 @@
 ---
 date:         2019-10-31
 category:     blog
-tags:         celostátní legislativa volbz
+tags:         celostátní legislativa volby
 layout:       post
 title:        "Piráti nadále bojují za spravedlivější volební systém"
 image:        /assets/img/articles/2019/vojtech-pikal1.jpg
