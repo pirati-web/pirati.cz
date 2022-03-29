@@ -1,7 +1,7 @@
 ---
 date:         2018-11-05
 category:     blog
-tags:         digitalizace justice
+tags:         digitalizace právo-a-justice
 layout:       post
 title:        "Policie pošle obvinění datovkou, státní zástupci chtějí vše na papíru. Je to jako za krále Klacka, kritizuje Pirát Michálek"
 image:        /assets/img/articles/2018/michalek-3.jpg
