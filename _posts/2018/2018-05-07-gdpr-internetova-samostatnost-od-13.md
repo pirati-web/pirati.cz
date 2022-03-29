@@ -1,7 +1,7 @@
 ---
 date:         2018-05-07
 category:     blog
-tags:         gdpr
+tags:         informatika legislativa
 layout:       post
 title:        "Piráti požadují nejnižší možnou hranici 13 let pro internetovou samostatnost"
 image:        /assets/img/articles/2018/profant-ondrej.jpg
