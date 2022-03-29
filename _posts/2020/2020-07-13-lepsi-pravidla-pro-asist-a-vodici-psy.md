@@ -1,7 +1,7 @@
 ---
 date:         2020-07-13
 category:     blog
-tags:         vláda sociální-politika legislativa
+tags:         vláda práce-a-sociální-věci legislativa
 layout:       post
 title:        "Piráti chtějí usnadnit život lidem s postižením, navrhují lepší pravidla pro asistenční a vodicí psy. Návrh podpořila i vláda"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
