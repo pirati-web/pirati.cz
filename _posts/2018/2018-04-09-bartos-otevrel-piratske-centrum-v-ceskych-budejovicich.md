@@ -1,7 +1,7 @@
 ---
 date:         2018-04-09
 category:     blog
-tags:         jihočeský-kraj
+tags:         regiony
 layout:       post
 title:        "Předseda strany Bartoš otevřel jihočeské ČePiCe"
 image:        /assets/img/articles/2018/ivan-cb.jpg
