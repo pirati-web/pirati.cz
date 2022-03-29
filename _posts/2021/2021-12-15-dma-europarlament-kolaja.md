@@ -1,7 +1,7 @@
 ---
 date:         2021-12-15
 category:     blog
-tags:         europarlament internet dma
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Evropa krotí digitální obry. Europoslanci dnes schvalují revoluční změny pravidel na digitálních trzích"
 image:        /assets/img/articles/2021/kolaja-hodinky.jpg
