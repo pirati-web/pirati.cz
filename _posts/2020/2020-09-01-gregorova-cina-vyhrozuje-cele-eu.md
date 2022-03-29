@@ -1,7 +1,7 @@
 ---
 date:         2020-09-01
 category:     blog
-tags:         zahraničí mezinárodní-vztahy
+tags:         zahraničí obrana
 layout:       post
 title:        "Gregorová: Pokud Čína vyhrožuje Česku, vyhrožuje celé Evropské unii"
 image:        /assets/img/articles/2020/marketa-gregorova1.jpg
