@@ -1,7 +1,7 @@
 ---
 date:         2018-02-07
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Piráti hledají odborníka na „průvodce upgradem“"
 image:        /assets/img/articles/2018/strana-generic.jpg
