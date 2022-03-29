@@ -1,7 +1,7 @@
 ---
 date:         2018-03-29
 category:     blog
-tags:         gdpr
+tags:         informatika legislativa
 layout:       post
 title:        "GDPR: K panice není důvod, říká Pirát Martin Jiránek"
 image:        /assets/img/articles/2018/jiranek-martin.jpg
