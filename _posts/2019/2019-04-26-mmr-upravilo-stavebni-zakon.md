@@ -1,7 +1,7 @@
 ---
 date:         2019-04-26
 category:     blog
-tags:         celostátní stavební-zákon stavební-řízení sněmovna
+tags:         celostátní sněmovna místní-rozvoj
 layout:       post
 title:        "MMR upravilo věcný záměr stavebního zákona po připomínkách Pirátů"
 image:        /assets/img/articles/2019/elfmark.jpg
