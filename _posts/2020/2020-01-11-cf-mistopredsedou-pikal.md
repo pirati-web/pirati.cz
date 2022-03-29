@@ -1,7 +1,7 @@
 ---
 date:         2020-01-11
 category:     blog
-tags:         piráti celostátní
+tags:         volby celostátní
 layout:       post
 title:        "Vojtěch Pikal se stal druhým místopředsedou Pirátů"
 image:        /assets/img/articles/2020/cf-pikal.JPG
