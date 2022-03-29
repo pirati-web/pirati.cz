@@ -1,7 +1,7 @@
 ---
 date:         2018-06-26
 category:     blog
-tags:         výběrová-řízení občanská-sněmovna
+tags:         digitalizace
 layout:       post
 title:        "Hledáme dodavatele technického řešení projektu Občanská sněmovna"
 image:        assets/img/articles/2018/obcanska-snemovna.png
