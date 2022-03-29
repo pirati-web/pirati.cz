@@ -1,7 +1,7 @@
 ---
 date:         2018-07-05
 category:     blog
-tags:         internet
+tags:         informatika
 layout:       post
 title:        "Svoboda internetu prozatím nedotčena, směrnice o autorském právu europarlamentem neprošla"
 image:        assets/img/articles/2018/europarlament.jpg
