@@ -1,7 +1,7 @@
 ---
 date:         2018-02-25
 category:     blog
-tags:         piráti
+tags:         regiony
 layout:       post
 title:        "Ivan Bartoš otevřel svoji regionální kancelář v Poděbradech"
 image:        /assets/img/articles/2018/otvirani.jpg
