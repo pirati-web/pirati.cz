@@ -1,7 +1,7 @@
 ---
 date:         2017-06-29
 category:     blog
-tags:         program ekonomika
+tags:         finance ekonomika
 layout:       post
 title:        "Chceme férový daňový systém pro zaměstnance, živnostníky i podnikatele."
 image:          /assets/img/articles/2017/cerne-na-bilem.jpg
