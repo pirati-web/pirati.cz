@@ -1,7 +1,7 @@
 ---
 date:         2021-08-05
 category:     blog
-tags:         sociální-péče legislativa
+tags:         práce-a-sociální-věci legislativa
 layout:       post
 title:        "Piráti a Starostové apelují: Ještě máme šanci dostat nejmenší děti z ústavů!"
 image:        /assets/img/articles/2021/olga-richterova01.jpg
