@@ -1,7 +1,7 @@
 ---
 date:         2020-11-10
 category:     blog
-tags:         digitalizace internet
+tags:         digitalizace informatika
 layout:       post
 title:        "Stop zbytečnému nošení dokladů i krizová pomoc přes internet: Výbor podpořil návrhy Pirátů k digitalizaci"
 image:        /assets/img/articles/2020/profant.jpg
