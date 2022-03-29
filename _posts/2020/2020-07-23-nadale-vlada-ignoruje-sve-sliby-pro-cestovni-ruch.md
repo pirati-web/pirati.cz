@@ -1,7 +1,7 @@
 ---
 date:         2020-07-23
 category:     blog
-tags:         legislativa sněmovna koronavirus místní-ruch
+tags:         legislativa sněmovna koronavirus
 layout:       post
 title:        "Komentář Martina Jiránka: Skutek utek. Vláda nadále ignoruje cestovní ruch. Piráti chtějí podpořit strádající trh a poptávku skrz vouchery"
 image:        /assets/img/articles/2019/jiranek99.jpg
