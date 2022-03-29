@@ -1,7 +1,7 @@
 ---
 date:         2018-06-07
 category:     blog
-tags:         internet
+tags:         informatika lidská-práva
 layout:       post
 title:        "Piráti zveřejňují video o plošném sledování lidí"
 image:        /assets/img/articles/2018/dataretention.jpg
