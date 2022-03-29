@@ -1,7 +1,7 @@
 ---
 date:         2019-01-23
 category:     blog
-tags:         sněmovna otevřený-stát celostátní
+tags:         sněmovna transparence celostátní
 layout:       post
 title:        "Piráti prosadili vylepšení místních a krajských referend"
 image:        /assets/img/articles/2018/pikal-vojtech.jpg 
