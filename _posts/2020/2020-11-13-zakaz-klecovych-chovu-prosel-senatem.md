@@ -1,7 +1,7 @@
 ---
 date:         2020-11-13
 category:     blog
-tags:         slepice klecový-chov senát
+tags:         senát legislativa
 layout:       post
 title:        "Senát podpořil zákaz klecového chovu slepic, který prosazovali Piráti. Nyní zákon míří k prezidentovi"
 image:        /assets/img/articles/2020/posvar.jpg
