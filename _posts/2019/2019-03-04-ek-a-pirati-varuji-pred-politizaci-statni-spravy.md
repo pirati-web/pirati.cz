@@ -1,7 +1,7 @@
 ---
 date:         2019-03-04
 category:     blog
-tags:         sněmovna informatika otevřený-stát celostátní
+tags:         sněmovna informatika transparence
 layout:       post
 title:        "Piráti a Evropská komise varují před postupující politizací a destabilizací státní správy"
 image:        /assets/img/articles/2019/ivan-bartos-parlament.JPG
