@@ -1,7 +1,7 @@
 ---
 date:         2019-07-30
 category:     blog
-tags:         celostátní kontrola-moci-a-mocných spravedlnost-a-justice
+tags:         celostátní kontrola-moci-a-mocných právo-a-justice
 layout:       post
 title:        "Vláda podnikla další krok proti nezávislé státní správě"
 image:        /assets/img/articles/2019/ivan-bartos-terasa.jpg
