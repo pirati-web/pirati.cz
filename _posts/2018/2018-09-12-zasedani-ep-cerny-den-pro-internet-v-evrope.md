@@ -1,7 +1,7 @@
 ---
 date:         2018-09-12
 category:     blog
-tags:         zahraničí internet
+tags:         zahraničí informatika
 layout:       post
 title:        "Piráti: Černý den pro internet v Evropě"
 image:        /assets/img/articles/2018/peksa.jpg
