@@ -1,7 +1,7 @@
 ---
 date:         2021-12-01
 category:     blog
-tags:         interrupce polsko lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Za interrupci doživotí? Polsko znovu přitvrzuje v protipotratové politice, Piráti hlasitě protestují"
 image:        /assets/img/articles/2021/gregorova-kolaja.jpg
