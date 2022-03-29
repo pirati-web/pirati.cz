@@ -1,7 +1,7 @@
 ---
 date:         2021-10-05
 category:     blog
-tags:         facebook europarlament internet
+tags:         evropská-unie
 layout:       post
 title:        "Výpadku Facebooku a dalších se dalo předejít, říkají pirátští europoslanci. Na evropské úrovni prosazují změnu"
 image:        /assets/img/articles/2021/kolaja-gregorova-peksa.jpg
