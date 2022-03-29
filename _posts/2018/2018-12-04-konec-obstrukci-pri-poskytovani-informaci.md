@@ -1,7 +1,7 @@
 ---
 date:         2018-12-04
 category:     blog
-tags:         sněmovna celostátní spravedlnost-a-justice
+tags:         sněmovna celostátní právo-a-justice
 layout:       post
 title:        "Pirátský návrh může ukončit obstrukce úřadů při poskytování informací"
 image:        /assets/img/articles/2018/michalek-snemovna.jpg
