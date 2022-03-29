@@ -1,7 +1,7 @@
 ---
 date:         2018-02-20
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Mediální odbor Pirátů hledá reportéra, analytika a editora"
 image:        /assets/img/articles/2018/inzerat.jpg
