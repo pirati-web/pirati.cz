@@ -5,7 +5,7 @@ title: "Piráti: Dnešní rozhodnutí Ústavního soudu k EET vítáme"
 date: 2017-12-15T10:57:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/us.jpg
-tags: eet
+tags: ekonomika
 ---
 
 Praha, 15. prosince 2017 – Piráti vítají dnešní rozhodnutí Ústavního soudu ČR, který zrušil řadu ustanovení zákona o EET, jež Piráti velmi kritizovali. Rozhodnutí tak zastavilo náběh 3. a 4. vlny, osvobozené od evidování jsou veškeré platby kartou a rodná čísla již nemohou fungovat jako identifikační čísla. Na všechny tyto limity Piráti dlouhodobě upozorňovali a byly i součástí pirátského programu a priorit. 
