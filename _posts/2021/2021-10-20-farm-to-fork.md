@@ -1,7 +1,7 @@
 ---
 date:         2021-10-20
 category:     blog
-tags:         evropský-parlament legislativa
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Europoslanci požadují jednotné označování potravin a konec klecových chovů"
 image:        /assets/img/articles/2021/kolaja-peksa.jpg
