@@ -5,7 +5,7 @@ title: "Zákaz Uberu v Brně padl"
 date: 2017-10-22T15:44:00+02:00
 author: Jakub Michálek
 image: /assets/img/articles/2017/uber-taxi.jpg
-tags: ekonomika jihomoravský-kraj
+tags: ekonomika regiony
 ---
 
 Vrchní soud zrušil předběžné opatření zakazující digitální službu Uber v Brně. Již dříve Piráti upozorňovali, že tato služba (a řada dalších podobných služeb jiných firem) není zákonem upravena. Upozorňovali jsme, že je nutné aktualizovat legislativu pro novou dobu, ale vláda neudělala nic. Ministerstvo dopravy a jemu podřízené úřady stále pokutují řidiče Uberu, ačkoliv jednu pokutu už soud zrušil. Jediným dlouhodobým řešením je opravdu aktualizace legislativy.
