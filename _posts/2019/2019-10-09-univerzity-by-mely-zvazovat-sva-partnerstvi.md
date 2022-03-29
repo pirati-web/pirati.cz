@@ -1,7 +1,7 @@
 ---
 date:         2019-10-09
 category:     blog
-tags:         celostátní lidská-práva zahraničí vzdělání
+tags:         celostátní lidská-práva zahraničí vzdělávání
 layout:       post
 title:        "Prestižní univerzity by měly pečlivě zvažovat, koho si vyberou jako hlavního komerčního partnera"
 image:        /assets/img/articles/2019/lenka-kozlova1.jpg
