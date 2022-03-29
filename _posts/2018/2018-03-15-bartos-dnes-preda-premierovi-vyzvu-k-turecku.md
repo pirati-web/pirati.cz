@@ -1,7 +1,7 @@
 ---
 date:         2018-03-15
 category:     blog
-tags:         zahraničí evropa
+tags:         zahraničí evropská-unie
 layout:       post
 title:        "Předseda Pirátů Bartoš dnes předá premiérovi výzvu pro Evropskou radu ke změně evropské politiky vůči Turecku"
 image:        /assets/img/articles/2018/ivan-uprostred.jpg
