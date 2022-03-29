@@ -1,7 +1,7 @@
 ---
 date:         2020-07-15
 category:     blog
-tags:         zemědělství životní-prostředí sucho
+tags:         zemědělství životní-prostředí
 layout:       post
 title:        "Komentář Dany Balcarové: Změny nenavrhujeme od stolu. Další technokratická regulace říčních koryt je příkladem selhání státu při řešení sucha"
 image:        /assets/img/articles/2020/Dana-potok2.jpg
