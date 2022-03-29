@@ -1,7 +1,7 @@
 ---
 date:         2019-01-30
 category:     blog
-tags:         sněmovna obchod
+tags:         sněmovna obchod-a-průmysl
 layout:       post
 title:        "Piráti budou usilovat o jasné podmínky pro sdílené bydlení"
 image:        /assets/img/articles/2018/michalek-airbnb.jpeg
