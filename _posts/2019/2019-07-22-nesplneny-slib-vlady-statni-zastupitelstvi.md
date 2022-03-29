@@ -1,7 +1,7 @@
 ---
 date:         2019-07-22
 category:     blog
-tags:         celostátní vláda legislativa spravedlnost-a-justice komentář
+tags:         legislativa právo-a-justice komentář
 layout:       post
 title:        "Nezávislost státního zastupitelství? Další nesplněný vládní slib"
 image:        /assets/img/articles/2019/michalek98.jpg
