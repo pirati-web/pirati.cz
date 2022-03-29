@@ -1,7 +1,7 @@
 ---
 date:         2022-03-16
 category:     blog
-tags:         vláda evropská-unie střet-zájmů
+tags:         vláda evropská-unie korupce
 layout:       post
 title:        "Česko nesmí kvůli střetu zájmů Andreje Babiše přijít o miliardové dotace. Vláda upraví zákon o evidenci skutečných majitelů"
 image:        /assets/img/articles/2022/bartoš001.jpg
