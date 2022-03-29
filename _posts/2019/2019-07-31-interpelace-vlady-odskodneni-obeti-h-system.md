@@ -1,7 +1,7 @@
 ---
 date:         2019-07-31
 category:     blog
-tags:         celostátní spravedlnost-a-justice vláda
+tags:         celostátní právo-a-justice vláda
 layout:       post
 title:        "Jakub Michálek interpeluje vládu, aby po 19 letech odškodnila oběti H-Systému – hrozí, že výnos z trestné činnosti propadne státu"
 image:        /assets/img/articles/2019/michalek92.jpg
