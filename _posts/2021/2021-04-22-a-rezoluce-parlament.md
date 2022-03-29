@@ -1,7 +1,7 @@
 ---
 date:         2021-04-22
 category:     blog
-tags:         gregorová rusko rezoluce
+tags:         zahraničí bezpečnost
 layout:       post
 title:        "Europarlament bude řešit explozi ve Vrběticích, poslanci plánují rezoluci"
 image:        /assets/img/articles/2021/Gregorova_u_schodu.jpg
