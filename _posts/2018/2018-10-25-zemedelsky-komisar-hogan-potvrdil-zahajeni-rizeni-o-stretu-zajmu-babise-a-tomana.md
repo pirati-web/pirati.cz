@@ -1,7 +1,7 @@
 ---
 date:         2018-10-25
 category:     blog
-tags:         eu
+tags:         evropská-unie
 layout:       post
 title:        "Eurokomisař pro zemědělství Phil Hogan potvrdil zahájení řízení pro porušování nařízení o střetu zájmů ve vztahu k Andreji Babišovi a Miroslavu Tomanovi"
 image:        /assets/img/articles/2018/europarlament.jpg
