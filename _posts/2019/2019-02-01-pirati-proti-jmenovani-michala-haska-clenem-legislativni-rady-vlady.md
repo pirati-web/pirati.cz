@@ -1,7 +1,7 @@
 ---
 date:         2019-02-01
 category:     blog
-tags:         celostátní vláda spravedlnost-a-justice
+tags:         celostátní vláda právo-a-justice
 layout:       post
 title:        "Komentář: Michal Hašek nemá osobnostní, profesní ani odborné předpoklady zastávat pozici člena Legislativní rady vlády"
 image:        /assets/img/articles/2018/michalek-piskovec.jpg
