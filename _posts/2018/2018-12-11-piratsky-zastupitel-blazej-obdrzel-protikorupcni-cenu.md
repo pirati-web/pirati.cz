@@ -1,7 +1,7 @@
 ---
 date:         2018-12-11
 category:     blog
-tags:         celostátní otevřený-stát
+tags:         celostátní transparence
 layout:       post
 title:        "Pirátský zastupitel Lukáš Blažej dostal Cenu za odvahu od protikorupčního fondu"
 image:        /assets/img/articles/2018/blazej.jpg
