@@ -1,7 +1,7 @@
 ---
 date:         2021-02-18
 category:     blog
-tags:         potraty polsko lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Polský zákaz potratů: Ministerstvo zdravotnictví ustoupilo tlaku veřejnosti i Pirátů a umožní Polkám interrupce v Česku"
 image:        /assets/img/articles/2021/gregorova_kopriva.JPG
