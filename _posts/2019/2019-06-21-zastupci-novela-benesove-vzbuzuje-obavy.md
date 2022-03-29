@@ -1,7 +1,7 @@
 ---
 date:         2019-06-21
 category:     blog
-tags:         celostátní spravedlnost-a-justice
+tags:         celostátní právo-a-justice
 layout:       post
 title:        "Michálek: Návrh Benešové ke státním zástupcům potvrzuje obavy občanů o nezávislost justice"
 image:        /assets/img/articles/2019/michalek98.jpg
