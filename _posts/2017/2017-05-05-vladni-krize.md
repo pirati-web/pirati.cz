@@ -1,7 +1,7 @@
 ---
 date:         2017-05-04
 category:     post
-tags:         vláda prezident
+tags:         vláda
 layout:       post
 title:        "Vláda je nedůvěryhodná, vyměnit se ale dá jen ve volbách. Piráti jsou připraveni"
 image:        /assets/img/articles/2017/sobotka-babis.jpg
