@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí cenzura
 layout:       post
 title:        "Marcel Kolaja: Ničení Open Source technologií nesníží počet sexuálně obtěžovaných dětí"
-image:        /assets/img/articles/kolaja.jpg 
+image:        /assets/img/articles/2020/kolaja.jpg 
 ---
 
 
