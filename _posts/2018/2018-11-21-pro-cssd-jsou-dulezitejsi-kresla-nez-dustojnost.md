@@ -1,7 +1,7 @@
 ---
 date:         2018-11-21
 category:     blog
-tags:         komentar
+tags:         komentář
 layout:       post
 title:        "Pro ČSSD jsou zjevně důležitější ministerská křesla než vlastní důstojnost, komentuje poslanec Mikuláš Ferjenčík"
 image:        /assets/img/articles/2018/mikulas-ferjencik.jpg
