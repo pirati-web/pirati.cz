@@ -1,7 +1,7 @@
 ---
 date:         2020-05-07
 category:     blog
-tags:         koronavirus kontrola-moci-a-mocných vláda legisltiva
+tags:         koronavirus kontrola-moci-a-mocných vláda
 layout:       post
 title:        "Uvádějte informace řádně a včas, apeluji Piráti v otevřeném dopisu vládě"
 image:        /assets/img/articles/2020/michalek1.jpg
