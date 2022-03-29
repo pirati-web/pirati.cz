@@ -1,7 +1,7 @@
 ---
 date:         2019-07-17
 category:     blog
-tags:         celostátní legislativa spravedlnost-a-justice
+tags:         celostátní legislativa právo-a-justice
 layout:       post
 title:        "Poslankyně Richterová se setkala s primátorem Kladna a se zástupci neziskových organizací kvůli problematice bydlení a sociální práce"
 image:        /assets/img/articles/2019/richterova-kladno.jpg
