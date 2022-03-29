@@ -1,7 +1,7 @@
 ---
 date:         2018-02-05
 category:     blog
-tags:         piráti
+tags:         regiony
 layout:       post
 title:        "Piráti připravili pátý nedělní guláš"
 image:        /assets/img/articles/2018/gulas.jpg
