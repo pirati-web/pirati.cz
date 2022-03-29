@@ -1,7 +1,7 @@
 ---
 date:         2019-11-21
 category:     blog
-tags:         zahraničí bezpečnost mezinárodní-vztahy
+tags:         zahraničí bezpečnost lidská-práva
 layout:       post
 title:        "Peksa: Čína nepřijatelným způsobem zneužívá technologie k potlačování základních lidských práv"
 image:        /assets/img/articles/2019/mikulas-peksa-eu.jpg
