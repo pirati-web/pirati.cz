@@ -1,7 +1,7 @@
 ---
 date:         2022-02-10
 category:     blog
-tags:         kolaja lidská-práva hate-speech 
+tags:         evropská-unie lidská-práva  
 layout:       post
 title:        "Kolaja: Musíme sjednotit právní ochranu obětí nenávistných trestných činů"
 image:        /assets/img/articles/2022/marcel_kolaja_small.jpg
