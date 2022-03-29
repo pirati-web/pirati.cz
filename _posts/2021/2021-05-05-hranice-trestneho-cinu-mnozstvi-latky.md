@@ -1,7 +1,7 @@
 ---
 date:         2021-05-05
 category:     blog
-tags:         legalizace zdravotnictví legislativa
+tags:         zdravotnictví legislativa
 layout:       post
 title:        "Hranice trestného činu musí určit zákonodárci, rozhodl Ústavní soud. Piráti to vnímají jako první krok k systematické regulaci psychotropních látek"
 image:        /assets/img/articles/2021/tomas-vymazal01.jpg
