@@ -1,7 +1,7 @@
 ---
 date:         2018-10-31
 category:     blog
-tags:         sněmovna sport komentář
+tags:         sněmovna komentář
 layout:       post
 title:        "Agentura pro sport nemá dostatek kontrolních mechanismů. Může podporovat prokorupční prostředí"
 image:        /assets/img/articles/2018/barton.jpg
