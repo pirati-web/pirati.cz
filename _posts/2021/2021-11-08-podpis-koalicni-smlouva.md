@@ -1,7 +1,7 @@
 ---
 date:         2021-11-08
 category:     blog
-tags:         vláda piráti koalice koaliční-smlouva
+tags:         vláda sněmovna volby
 layout:       post
 title:        "Koalice SPOLU a koalice Piráti a Starostové podepsaly koaliční smlouvu"
 image:        /assets/img/articles/2021/podpis-koalicni-smlouvy.jpg 
