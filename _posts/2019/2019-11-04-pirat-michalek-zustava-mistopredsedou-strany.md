@@ -1,7 +1,7 @@
 ---
 date:         2019-11-04
 category:     blog
-tags:         celostátní piráti
+tags:         celostátní
 layout:       post
 title:        "Jakub Michálek zůstává místopředsedou Pirátské strany"
 image:        /assets/img/articles/2019/michalek98.jpg
