@@ -5,7 +5,7 @@ title: Nová strana 5 % pro vzdělávání spojila svoje síly s Piráty
 date: 2017-08-02T11:14:49+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/5procent.jpg
-tags: volby vzdělání
+tags: volby vzdělávání
 ---
 **Předseda
 České pirátské strany Ivan Bartoš a předseda strany 5 % pro
