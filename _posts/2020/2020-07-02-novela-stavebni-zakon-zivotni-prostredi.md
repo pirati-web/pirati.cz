@@ -1,7 +1,7 @@
 ---
 date:         2020-07-02
 category:     blog
-tags:         životní-prostředí mistni-rozvoj sněmovna komentar
+tags:         životní-prostředí místní-rozvoj sněmovna
 layout:       post
 title:        "Komentář Dany Balcarové: Novela stavebního zákona - Zrychlení výstavby, nebo poškození životního prostředí a dalších veřejných zájmů?"
 image:        /assets/img/articles/2018/dana-balcarova.jpg
