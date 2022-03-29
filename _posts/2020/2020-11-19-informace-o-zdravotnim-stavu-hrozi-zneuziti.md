@@ -1,7 +1,7 @@
 ---
 date:         2020-11-19
 category:     blog
-tags:         zdravotnictví digitalizace egovernment
+tags:         zdravotnictví digitalizace
 layout:       post
 title:        "Komentář Ondřeje Profanta: Ústavní soud podpořil rizikový sběr osobních dat. Piráti varují před zneužitím informací o zdravotním stavu občanů"
 image:        /assets/img/articles/2019/ondrej-profant1.jpg
