@@ -1,7 +1,7 @@
 ---
 date:         2020-05-27
 category:     blog
-tags:         evropsk8-unie finance
+tags:         evropská-unie finance
 layout:       post
 title:        "Piráti navrhují úspornější chod evropských institucí"
 image:        /assets/img/articles/2019/mikulas-peksa-eu.jpg
