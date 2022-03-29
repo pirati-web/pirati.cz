@@ -5,7 +5,7 @@ title: "Předseda Pirátů Bartoš uctil památku revoluce na Národní třídě
 date: 2017-11-17T09:10:54+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/ivan-narodni.jpg
-tags: výročí
+tags: 
 ---
 
 Předseda Pirátské strany Ivan Bartoš dnes s manželkou v deset hodin dopoledne uctil památku revoluce tradičně, a to zapálením svíčky a položením květiny k památníku na pražské Národní třídě. 
