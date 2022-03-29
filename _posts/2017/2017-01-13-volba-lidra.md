@@ -1,7 +1,7 @@
 ---
 date:         2017-01-13
 category:     blog
-tags:         piráti
+tags:         volby celostátní
 layout:       post
 title:        "Piráti si volí celostátního lídra pro letošní volby do poslanecké sněmovny"
 image:        /assets/img/articles/2017/volba-lidra.jpg
