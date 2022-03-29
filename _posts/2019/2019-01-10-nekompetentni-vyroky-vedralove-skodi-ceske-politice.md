@@ -1,7 +1,7 @@
 ---
 date:         2019-01-10
 category:     blog
-tags:         sněmovna legalizace komentář
+tags:         sněmovna komentář
 layout:       post
 title:        "Komentář předsedy Pirátů Ivana Bartoše: Nekompetentní výroky koordinátorky Vedralové škodí české protidrogové politice"
 image:        /assets/img/articles/2019/ivan-bartos-zelena.jpg 
