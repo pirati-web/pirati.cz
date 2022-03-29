@@ -1,7 +1,7 @@
 ---
 date:         2021-03-25
 category:     blog
-tags:         evriopská-unie bezpečnost
+tags:         evropská-unie bezpečnost
 layout:       post
 title:        "Evropské technologie nebudou sloužit autoritářům, prosadila Gregorová. Europarlamentem prošlo nové nařízení"
 image:        /assets/img/articles/2021/marketa-gregorova02.jpg
