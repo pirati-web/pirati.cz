@@ -1,7 +1,7 @@
 ---
 date:         2020-11-26
 category:     blog
-tags:         vláda bezpečnost průmysl
+tags:         vláda bezpečnost obchod-a-průmysl
 layout:       post
 title:        "Piráti chtějí spolehlivé partnery pro výstavbu Dukovan, Nejedlý podle nich svévolně ovlivňuje diplomacii"
 image:        /assets/img/articles/2020/ferjencik-tresnak-lipavsky.jpg
