@@ -1,7 +1,7 @@
 ---
 date:         2016-09-29
 category:     blog
-tags:         praha
+tags:         regiony transparence
 layout:       post
 title:        "Hypertransparentní klub. Pražští Piráti získali cenu za otevřenost."
 image:        /assets/img/articles/2016/predani-ceny-otevreno.jpg
