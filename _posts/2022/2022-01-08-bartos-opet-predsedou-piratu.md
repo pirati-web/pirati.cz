@@ -1,7 +1,7 @@
 ---
 date:         2022-01-08
 category:     blog
-tags:         piráti volby
+tags:         volby
 layout:       post
 title:        "Piráti na svém sjezdu zvolili předsedu. Stal se jím znovu Ivan Bartoš"
 image:        /assets/img/articles/2022/ivan-bartos01.jpg
