@@ -1,7 +1,7 @@
 ---
 date:         2022-03-22
 category:     blog
-tags:         digitalizace mmr
+tags:         digitalizace místní-rozvoj
 layout:       post
 title:        "Ivan Bartoš pro Lupa.cz: Státním ajťákům musíme zvýšit platy na sto tisíc, znalosti něco stojí"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
