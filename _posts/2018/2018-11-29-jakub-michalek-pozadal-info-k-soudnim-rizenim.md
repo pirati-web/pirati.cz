@@ -1,7 +1,7 @@
 ---
 date:         2018-11-29
 category:     blog
-tags:         sněmovna spravedlnost-a-justice
+tags:         sněmovna právo-a-justice
 layout:       post
 title:        "Poslanec Michálek požádal soud o data o soudních řízeních. Ten chce za poskytnutí informací miliony korun"
 image:        /assets/img/articles/2018/michalek.jpg
