@@ -1,7 +1,7 @@
 ---
 date:         2019-10-30
 category:     blog
-tags:         celostátní legislativa školství vzdělání
+tags:         celostátní legislativa školství vzdělávání
 layout:       post
 title:        "Komentář Lukáše Bartoně: MŠMT otočilo, povinnou maturitu z matematiky nechce. Návrh je navíc totožný s pirátskou novelou představenou v červnu"
 image:        /assets/img/articles/2019/barton-lukas.jpg
