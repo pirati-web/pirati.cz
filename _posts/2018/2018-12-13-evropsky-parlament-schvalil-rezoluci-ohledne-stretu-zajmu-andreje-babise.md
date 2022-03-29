@@ -1,7 +1,7 @@
 ---
 date:         2018-12-13
 category:     blog
-tags:         evropa legislativa kauzy
+tags:         evropská-unie legislativa kauzy
 layout:       post
 title:        "Evropský parlament drtivou většinou schválil rezoluci, která potvrzuje, že je Andrej Babiš ve střetu zájmů"
 image:        /assets/img/articles/2018/europarlament2.jpg
