@@ -1,7 +1,7 @@
 ---
 date:         2019-05-28
 category:     blog
-tags:         sněmovna legislativa celostátní exekuce spravedlnost-a-justice
+tags:         legislativa exekuce právo-a-justice
 layout:       post
 title:        "Vládní poslanci s podporou komunistů, ODS a TOP 09 odmítli řešení problému exekucí"
 image:        /assets/img/articles/2019/lukas-kolarik.jpg
