@@ -1,7 +1,7 @@
 ---
 date:         2021-12-15
 category:     blog
-tags:         europarlament internet lidská-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Povinná identifikace sexuálních pracovníků prošla europarlamentem. Navzdory nesouhlasu Pirátů"
 image:        /assets/img/articles/2021/sex.jpg
