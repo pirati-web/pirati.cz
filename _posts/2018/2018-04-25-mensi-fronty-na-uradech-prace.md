@@ -1,7 +1,7 @@
 ---
 date:         2018-04-25
 category:     blog
-tags:         piráti
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Výbor pro sociální politiku bude jednat o úřadech práce"
 image:        /assets/img/articles/2018/richterova-olga-mic.jpg
