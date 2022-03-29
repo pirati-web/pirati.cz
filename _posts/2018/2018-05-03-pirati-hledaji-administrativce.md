@@ -1,7 +1,7 @@
 ---
 date:         2018-05-03
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Piráti nabízejí práci v administrativě!"
 image:        /assets/img/articles/2018/inzerat.jpg
