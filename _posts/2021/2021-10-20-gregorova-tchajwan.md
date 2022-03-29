@@ -1,7 +1,7 @@
 ---
 date:         2021-10-20
 category:     blog
-tags:         europarlament gregorová tchaj-wan
+tags:         evropská-unie zahraničí
 layout:       post
 title:        "Europoslankyně Gregorová vyzvala k posílení vztahů mezi EU a Tchaj-wanem. „Nesmíme se nechat odstrašit.”"
 image:        /assets/img/articles/2021/gregorova_pultik.jpeg
