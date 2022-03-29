@@ -1,7 +1,7 @@
 ---
 date:         2018-10-26
 category:     blog
-tags:         doprava eu
+tags:         doprava evropská-unie
 layout:       post
 title:        "Saská policie se chystá podél hranic s ČR instalovat kamery s rozpoznáváním obličejů"
 image:        /assets/img/articles/2018/kamera-dalnice.jpg
