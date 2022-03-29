@@ -1,11 +1,11 @@
 ---
 date:         2017-05-26
 category:     blog
-tags:         volby ekonomika program
+tags:         volby ekonomika
 layout:       post
 title:        "Piráti zjednodušují daně pro zaměstnance, spustili daňovou kalkulačku."
-image:          /assets/img/articles/2017/dane.png
-author:     Mikuláš Ferjenčík
+image:        /assets/img/articles/2017/dane.png
+author:       Mikuláš Ferjenčík
 ---
 
 Česká pirátská strana prosazuje daně, které každý pochopí. Nástrojem k tomu má být „superrovná daň“. Jak by na vás dopadla, nyní můžete zjistit sami na stránce **[www.pirati.cz/kalkulacka](https://www.pirati.cz/kalkulacka/)**. Drtivá většina zaměstnanců by si polepšila.
