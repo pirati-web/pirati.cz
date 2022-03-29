@@ -1,7 +1,7 @@
 ---
 date:         2020-07-21
 category:     blog
-tags:         legislativa evropska-unie 
+tags:         legislativa evropská-unie 
 layout:       post
 title:        "Evropská rada dosáhla důležitého kompromisu ohledně Fondu obnovy. Chybou je však snížení investic do výzkumu či zdravotnictví a hrozba zneužití peněz"
 image:        /assets/img/articles/2020/kopriva_eu.jpg
