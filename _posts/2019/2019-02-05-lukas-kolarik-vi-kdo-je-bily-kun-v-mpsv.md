@@ -1,7 +1,7 @@
 ---
 date:         2019-02-05
 category:     blog
-tags:         celostátní spravedlnost-a-justice
+tags:         celostátní práce-a-sociální-věci 
 layout:       post
 title:        "Komentář pirátského poslance Lukáše Koláříka: Korupce na MPSV? Známe bílého koně "
 image:        /assets/img/articles/2018/kolarik.jpg
