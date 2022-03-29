@@ -1,7 +1,7 @@
 ---
 date:         2021-09-06
 category:     blog
-tags:         podcast europarlament politika
+tags:         evropská-unie
 layout:       post
 title:        "“Politiku se učíte od chvíle, kdy si musíte poprvé vyhádat svoje téma,” říká primátorka Karolína Koubová v podcastu Pirátky Gregorové"
 image:        /assets/img/articles/2021/Koubova_gregorova.JPG
