@@ -1,7 +1,7 @@
 ---
 date:         2018-01-17
 category:     blog
-tags:         migrace
+tags:         evropská-unie
 layout:       post
 title:        "Piráti předložili návrh na změnu přístupu České republiky k povinným migračním kvótám"
 image:        /assets/img/articles/2018/hranice.jpg
