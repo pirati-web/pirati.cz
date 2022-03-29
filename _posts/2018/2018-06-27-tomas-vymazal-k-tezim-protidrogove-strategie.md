@@ -1,7 +1,7 @@
 ---
 date:         2018-06-27
 category:     blog
-tags:         legalizace
+tags:         konopí
 layout:       post
 title:        "Komentář pirátského poslance Tomáše Vymazala k dnes představeným tezím protidrogové strategie ČR"
 image:        assets/img/articles/2018/vymazal-tomas.jpg
