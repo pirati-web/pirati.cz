@@ -1,7 +1,7 @@
 ---
 date:         2019-01-30
 category:     blog
-tags:         sněmovna spravedlnost-a-justice
+tags:         sněmovna právo-a-justice
 layout:       post
 title:        "Ústavní soud odmítl snahu senátorů o zrušení registru smluv"
 image:        /assets/img/articles/2019/ustavni-soud.jpg 
