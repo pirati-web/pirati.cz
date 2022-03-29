@@ -1,7 +1,7 @@
 ---
 date:         2021-01-11
 category:     blog
-tags:         zahraničí terorismus bezpečnost
+tags:         zahraničí bezpečnost
 layout:       post
 title:        "Komentář Markéty Gregorové: Přepadení Kapitolu byl teroristický čin s cílem vraždit"
 image:        /assets/img/articles/2021/marketa-gregorova00.jpg
