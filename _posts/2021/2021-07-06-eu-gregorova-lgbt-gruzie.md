@@ -1,7 +1,7 @@
 ---
 date:         2021-07-06
 category:     blog
-tags:         lgbt gruzie lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Gregorová: Diskuze o LGBT+ má být ideologická, ne násilná"
 image:        /assets/img/articles/2021/tbilsi_lgbt_pride.jpg
