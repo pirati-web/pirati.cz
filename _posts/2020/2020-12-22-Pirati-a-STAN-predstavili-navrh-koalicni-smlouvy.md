@@ -1,7 +1,7 @@
 ---
 date:         2020-12-22
 category:     blog
-tags:         pirát stan koalice
+tags:         volby celostátní sněmovna
 layout:       post
 title:        "Piráti se STAN představili návrh koaliční smlouvy. Nyní ho dostanou k posouzení straníci"
 image:        /assets/img/articles/2020/STAN Piráti Bartoš Rakušan koalice.png
