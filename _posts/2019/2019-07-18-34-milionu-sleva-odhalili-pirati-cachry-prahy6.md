@@ -1,7 +1,7 @@
 ---
 date:         2019-07-17
 category:     blog
-tags:         praha spravedlnost-a-justice kontrola-moci-a-mocných
+tags:         regiony spravedlnost-a-justice kontrola-moci-a-mocných
 layout:       post
 title:        "Při prodeji pozemků Prahy 6 byla neoprávněně poskytnuta sleva 34 milionů korun, odhalili Piráti "
 image:        /assets/img/articles/2019/jiri-hoskovec.jpg
