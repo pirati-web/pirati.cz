@@ -1,7 +1,7 @@
 ---
 date:         2020-12-03
 category:     blog
-tags:         zdravotnictví legislativa interpelace
+tags:         zdravotnictví legislativa
 layout:       post
 title:        "Komentář Olgy Richterové: Premiér Babiš utekl před otázkou, zda vrátí peníze vylákané neetickou a nejspíš i nezákonnou reklamu svého holdingu na přednostní přístup ke zdravotní péči "
 image:        /assets/img/articles/2020/richterova.jpg
