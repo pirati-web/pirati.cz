@@ -1,7 +1,7 @@
 ---
 date:         2020-01-24
 category:     blog
-tags:         sněmovna legislativa průmysl
+tags:         sněmovna legislativa obchod-a-průmysl
 layout:       post
 title:        "K právně závazným technickým normám budou mít uživatelé konečně bezplatný přístup"
 image:        /assets/img/articles/2020/jiranek-michalek.jpg
