@@ -1,7 +1,7 @@
 ---
 date:         2020-03-06
 category:     blog
-tags:         mezinárodní lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Zástupci Parlamentní skupiny přátel Tibetu se setkají s tibetskou vládou v exilu"
 image:        /assets/img/articles/2020/tibet3.jpg
