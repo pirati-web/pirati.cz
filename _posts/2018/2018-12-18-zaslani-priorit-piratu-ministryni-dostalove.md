@@ -1,7 +1,7 @@
 ---
 date:         2018-12-18
 category:     blog
-tags:         sněmovna stavební-řízení
+tags:         sněmovna místní-rozvoj
 layout:       post
 title:        "Piráti odeslali ministryni Dostálové své priority k chystané novele stavebního řízení"
 image:        /assets/img/articles/2018/frantisek-elfmark.jpg
