@@ -1,7 +1,7 @@
 ---
 date:         2019-01-29
 category:     blog
-tags:         sněmovna otevřený-stát celostátní
+tags:         sněmovna transparence celostátní
 layout:       post
 title:        "Registr smluv, autorský zákon, eNeschopenka – Sněmovna bude tento týden řešit klíčové body pirátského programu"
 image:        /assets/img/articles/2019/tk26schuze-pokrac.JPG 
