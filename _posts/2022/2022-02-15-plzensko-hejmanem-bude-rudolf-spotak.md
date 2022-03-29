@@ -1,7 +1,7 @@
 ---
 date:         2022-02-15
 category:     blog
-tags:         kraje  
+tags:         regiony 
 layout:       post
 title:        "Nový pirátský hejtman Plzeňského kraje Rudolf Špoták: Chceme dokončit důležité projekty a otevřít kraj lidem"
 image:        /assets/img/articles/2022/rudolf-spotak.jpg
