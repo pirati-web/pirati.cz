@@ -1,7 +1,7 @@
 ---
 date:         2019-01-25
 category:     blog
-tags:         sněmovna otevřený-stát
+tags:         sněmovna transparence
 layout:       post
 title:        "Zákon proti politickým trafikám prošel prvním čtením"
 image:        /assets/img/articles/2019/michalek-list.jpg 
