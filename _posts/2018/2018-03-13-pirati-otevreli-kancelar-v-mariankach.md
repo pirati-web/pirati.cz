@@ -1,7 +1,7 @@
 ---
 date:         2018-03-13
 category:     blog
-tags:         piráti
+tags:         regiony
 layout:       post
 title:        "Piráti otevřeli poslaneckou kancelář v Mariánských Lázních"
 image:        /assets/img/articles/2018/tresnak-petr.jpg
