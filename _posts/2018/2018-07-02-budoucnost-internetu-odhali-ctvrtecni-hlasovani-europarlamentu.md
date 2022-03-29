@@ -1,7 +1,7 @@
 ---
 date:         2018-07-02
 category:     blog
-tags:         internet cenzura
+tags:         informatika cenzura
 layout:       post
 title:        "Ve čtvrtek se rozhodne o budoucnosti svobodného internetu v Evropě"
 image:        assets/img/articles/2018/palacak-internet.jpg
