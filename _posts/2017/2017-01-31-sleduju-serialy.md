@@ -1,7 +1,7 @@
 ---
 title: "Soud zastavil trestní stíhání Pirátské strany kvůli seriálům"
 author: Mikuláš Ferjenčík
-tags: autorská-práva
+tags: autorské-právo
 date: 2017-01-31
 image: /assets/img/articles/2017/sleduju-serialy.jpg
 category:     blog
