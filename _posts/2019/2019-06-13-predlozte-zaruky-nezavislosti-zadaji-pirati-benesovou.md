@@ -1,7 +1,7 @@
 ---
 date:         2019-06-13
 category:     blog
-tags:         celostátní sněmovna spravedlnost-a-justice
+tags:         celostátní sněmovna právo-a-justice
 layout:       post
 title:        "Předložte slíbené záruky nezávislosti státních zástupců, nebo to uděláme sami, žádají Piráti ministryni Benešovou"
 image:        /assets/img/articles/2019/jakub-michalek1.jpg
