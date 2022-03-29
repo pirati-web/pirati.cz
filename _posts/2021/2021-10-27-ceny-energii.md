@@ -1,7 +1,7 @@
 ---
 date:         2021-10-27
 category:     blog
-tags:         energie evropská-unie europarlament
+tags:         energetika evropská-unie
 layout:       post
 title:        "Ceny energií zkrotíme jedině společně. Řešením jsou i obnovitelné zdroje, říkají pirátští europoslanci"
 image:        /assets/img/articles/2021/kolaja-gregorova-peksa.jpg
