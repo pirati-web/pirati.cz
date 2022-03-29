@@ -1,7 +1,7 @@
 ---
 date:         2018-03-16
 category:     blog
-tags:         piráti
+tags:         regiony
 layout:       post
 title:        "Piráti dnes odpoledne otevřou pirátské centrum v Jihlavě"
 image:        /assets/img/articles/2018/jihlava.jpg
