@@ -1,7 +1,7 @@
 ---
 date:         2021-03-31 
 category:     blog
-tags:         koronavirus vzdělávání sport
+tags:         koronavirus vzdělávání
 layout:       post
 title:        "Vláda zvýhodňuje vybrané prvoligové týmy, podpora sportu v pandemii není férová ani transparentní. Piráti vyzývají ministra Havlíčka k nápravě"
 image:        /assets/img/articles/2021/andrea-hoffmannova00.jpg
