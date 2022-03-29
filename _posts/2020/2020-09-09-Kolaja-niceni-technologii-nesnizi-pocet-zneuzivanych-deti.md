@@ -1,7 +1,7 @@
 ---
 date:         2020-09-09
 category:     blog
-tags:         kolaja sexuální-zneužívání děti
+tags:         zahraničí cenzura
 layout:       post
 title:        "Marcel Kolaja: Ničení Open Source technologií nesníží počet sexuálně obtěžovaných dětí"
 image:        /assets/img/articles/kolaja.jpg 
