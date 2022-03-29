@@ -1,7 +1,7 @@
 ---
 date:         2018-11-30
 category:     blog
-tags:         sněmovna celostátní spravedlnost-a-justice
+tags:         sněmovna celostátní právo-a-justice
 layout:       post
 title:        "Babišova vláda má odmítnout zveřejňování skutečných příjemců dotací. Přesvědčivé argumenty však neuvedla"
 image:        /assets/img/articles/2018/michalek-jakub.jpg
