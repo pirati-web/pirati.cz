@@ -1,7 +1,7 @@
 ---
 date:         2021-11-23
 category:     blog
-tags:         digitální-trhy europarlament sociální-sítě
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Konec pěti různým profilům na sociálních sítích. Piráti v Evropském parlamentu prosadili interoperabilitu služeb"
 image:        /assets/img/articles/2021/kolaja-vlajky.jpg
