@@ -1,7 +1,7 @@
 ---
 date:         2018-03-08
 category:     blog
-tags:         prezident
+tags:         celostátní
 layout:       post
 title:        "Komentář předsedy Pirátů Ivana Bartoše k inauguračnímu projevu prezidenta"
 image:        /assets/img/articles/2018/ivan-v-sale.jpg
