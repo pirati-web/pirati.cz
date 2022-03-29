@@ -1,7 +1,7 @@
 ---
 date:         2021-09-17
 category:     blog
-tags:         program evropská-unie erasmus
+tags:         evropská-unie vzdělávání
 layout:       post
 title:        "Koordinovanější Evropa a víc studentů na Erasmu. Koalice Pirátů a Starostů představuje svůj evropský program"
 image:        /assets/img/articles/2021/kolaja-vlajky.jpg
