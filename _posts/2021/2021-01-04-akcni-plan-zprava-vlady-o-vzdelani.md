@@ -1,7 +1,7 @@
 ---
 date:         2021-01-04
 category:     blog
-tags:         vzdělání vláda lidská-práva
+tags:         vzdělávání vláda lidská-práva
 layout:       post
 title:        "Zpráva o rovném přístupu ke vzdělání nereflektuje dopady pandemie, Piráti žádají vládu o přepracování"
 image:        /assets/img/articles/2021/frantisek-kopriva00.jpg
