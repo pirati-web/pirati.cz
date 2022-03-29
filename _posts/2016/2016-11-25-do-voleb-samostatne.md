@@ -1,7 +1,7 @@
 ---
 date:         2016-11-25
 category:     blog
-tags:         piráti
+tags:         volby
 layout:       post
 title:        "Konec spekulacím: Do sněmovních voleb jdou Piráti samostatně."
 image:        /assets/img/articles/2016/do-voleb-samostatne.jpg
