@@ -1,7 +1,7 @@
 ---
 date:         2018-01-06
 category:     blog
-tags:         piráti
+tags:         celostátní volby
 layout:       post
 title:        "Ivana Bartoše zvolilo 94 % hlasujících Pirátů předsedou"
 image:        /assets/img/articles/2018/ivan-cf.jpg
