@@ -1,7 +1,7 @@
 ---
 date:         2018-05-10
 category:     blog
-tags:         registr-smluv
+tags:         transparence
 layout:       post
 title:        "Klíčový výbor doporučil zveřejňování smluv ČEZu, Českých drah a dalších státních firem"
 image:        /assets/img/articles/2018/profant-bartos-michalek.jpg
