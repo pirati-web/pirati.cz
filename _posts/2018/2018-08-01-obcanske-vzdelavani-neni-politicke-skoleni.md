@@ -1,7 +1,7 @@
 ---
 date:         2018-08-01
 category:     blog
-tags:         vzdělání
+tags:         vzdělávání
 layout:       post
 title:        "Komentář poslankyně Lenky Kozlové: Nepleťme si politické školení a občanské vzdělávání"
 image:        assets/img/articles/2018/kozlova-lenka.jpg
