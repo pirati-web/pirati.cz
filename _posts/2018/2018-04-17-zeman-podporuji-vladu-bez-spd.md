@@ -1,7 +1,7 @@
 ---
 date:         2018-04-17
 category:     blog
-tags:         prezident
+tags:         vláda
 layout:       post
 title:        "Piráti: Prezident nám sdělil, že podporuje vládu bez účasti SPD"
 image:        /assets/img/articles/2018/hrad-bartos-michalek.jpg
