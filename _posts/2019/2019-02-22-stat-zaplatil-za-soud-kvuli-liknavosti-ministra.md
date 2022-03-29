@@ -1,7 +1,7 @@
 ---
 date:         2019-02-22
 category:     blog
-tags:         sněmovna kontrola-moci-a-mocných spravedlnost-a-justice celostátní
+tags:         sněmovna kontrola-moci-a-mocných právo-a-justice
 layout:       post
 title:        "Ministr spravedlnosti ignoroval dotaz pirátského poslance. Nyní musí stát za soud zaplatit přes 13 tisíc korun"
 image:        /assets/img/articles/2018/michalek-snemovna.jpg
