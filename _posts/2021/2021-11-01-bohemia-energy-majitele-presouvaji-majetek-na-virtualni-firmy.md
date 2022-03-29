@@ -1,7 +1,7 @@
 ---
 date:         2021-11-01
 category:     blog
-tags:         energetika právo-a-spravedlnost
+tags:         energetika právo-a-justice
 layout:       post
 title:        "Majitelé Bohemia Energy se pokouší ukrýt majetek, upozorňují Piráti v dopise Lenku Bradáčovou. Ohrozilo by to kompenzace pro poškozené klienty"
 image:        /assets/img/articles/2020/tresnak.jpg
