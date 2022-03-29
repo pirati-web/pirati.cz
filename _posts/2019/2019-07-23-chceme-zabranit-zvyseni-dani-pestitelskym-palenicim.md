@@ -1,7 +1,7 @@
 ---
 date:         2019-07-23
 category:     blog
-tags:         celostátní vláda legislativa spravedlnost-a-justice komentář
+tags:         legislativa právo-a-justice komentář
 layout:       post
 title:        "Piráti chtějí zabránit zvýšení daní pro tradiční pěstitelské pálenice"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
