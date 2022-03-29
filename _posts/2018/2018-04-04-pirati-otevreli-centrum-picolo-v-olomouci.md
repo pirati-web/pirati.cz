@@ -1,7 +1,7 @@
 ---
 date:         2018-04-04
 category:     blog
-tags:         olomouc
+tags:         regiony
 layout:       post
 title:        "Piráti otevřeli další regionální centrum. Olomoucké PiCOLO je zároveň kanceláří místopředsedy Sněmovny Vojtěcha Pikala"
 image:        /assets/img/articles/2018/otevirani-centra.jpg
