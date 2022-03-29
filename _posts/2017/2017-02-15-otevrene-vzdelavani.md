@@ -1,7 +1,7 @@
 ---
 title: "Piráti podporují Chartu Aliance pro otevřené vzdělávání"
 author: Petra Dvořáková
-tags: vzdělání
+tags: vzdělávání
 date: 2017-02-15
 image: /assets/img/articles/2017/oer.jpg
 category:     blog
