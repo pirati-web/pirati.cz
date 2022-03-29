@@ -1,7 +1,7 @@
 ---
 date:         2019-05-04
 category:     blog
-tags:         celostátní konopí legalizace
+tags:         celostátní konopí legislativa
 layout:       post
 title:        "Piráti se zúčastnili Million Marihuana March"
 image:        /assets/img/articles/2019/mmm2019.jpg
