@@ -1,7 +1,7 @@
 ---
 date:         2018-02-21
 category:     blog
-tags:         karlovarský-kraj
+tags:         regiony
 layout:       post
 title:        "Pirátský starosta Petr Třešňák předal křeslo v čele Mariánských Lázní"
 image:        /assets/img/articles/2018/petr-tresnak2.jpg
