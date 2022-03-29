@@ -1,7 +1,7 @@
 ---
 date:         2018-09-11
 category:     blog
-tags:         sněmovna justice
+tags:         sněmovna právo-a-justice
 layout:       post
 title:        "Elektronické spisy od roku 2021, navrhuje Pirát Michálek"
 image:        /assets/img/articles/2018/michalek.jpg
