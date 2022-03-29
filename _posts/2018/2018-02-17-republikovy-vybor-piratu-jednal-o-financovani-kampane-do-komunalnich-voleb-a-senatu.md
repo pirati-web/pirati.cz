@@ -1,7 +1,7 @@
 ---
 date:         2018-02-17
 category:     blog
-tags:         piráti
+tags:         volby finance
 layout:       post
 title:        "Republikový výbor Pirátů jednal o financování kampaně do komunálních a senátních voleb"
 image:        /assets/img/articles/2018/rv.jpg
