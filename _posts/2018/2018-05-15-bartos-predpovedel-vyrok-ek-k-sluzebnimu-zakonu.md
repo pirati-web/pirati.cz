@@ -1,7 +1,7 @@
 ---
 date:         2018-05-15
 category:     blog
-tags:         služební-zákon
+tags:         evropská-unie legislativa
 layout:       post
 title:        "Evropská komise potvrdila výhrady Pirátů k novele služebního zákona"
 image:        /assets/img/articles/2018/ivan-uprostred.jpg
