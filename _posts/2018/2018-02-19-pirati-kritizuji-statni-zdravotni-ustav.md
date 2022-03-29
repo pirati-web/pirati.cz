@@ -1,7 +1,7 @@
 ---
 date:         2018-02-19
 category:     blog
-tags:         piráti
+tags:         zdravotnictví transparence
 layout:       post
 title:        "Piráti kritizují Státní zdravotní ústav: NKÚ potvrdil chyby při nákupech materiálů za 67 milionů"
 image:        /assets/img/articles/2018/szu.jpg
