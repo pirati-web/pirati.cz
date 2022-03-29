@@ -1,7 +1,7 @@
 ---
 date:         2019-07-11
 category:     blog
-tags:         celostátní sněmovna interpelace zemědělství průmysl
+tags:         celostátní sněmovna dotace
 layout:       post
 title:        "Pirát Pikal se ptá, zda bude vláda řešit podezření předsedy ÚOHS"
 image:        /assets/img/articles/2019/vojtech-pikal.jpg
