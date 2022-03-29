@@ -1,7 +1,7 @@
 ---
 date:         2020-11-02
 category:     blog
-tags:         vzdělání vzdělávání
+tags:         dezinformace vzdělávání
 layout:       post
 title:        "Konference „Pravda bolí“ zmapovala vliv dezinformací – nejen v České republice, nejen o koronaviru"
 image:        /assets/img/articles/2020/marketa-gregorova-4.jpg
