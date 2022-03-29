@@ -1,7 +1,7 @@
 ---
 date:         2019-01-30
 category:     blog
-tags:         sněmovna spravedlnost-a-justice
+tags:         sněmovna právo-a-justice
 layout:       post
 title:        "Senát navrhl zásadní zhoršení přístupu občanů a novinářů k informacím"
 image:        /assets/img/articles/2018/senat-lvi.jpg 
