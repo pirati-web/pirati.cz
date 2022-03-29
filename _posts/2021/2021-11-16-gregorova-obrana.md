@@ -1,7 +1,7 @@
 ---
 date:         2021-11-16
 category:     blog
-tags:         obrana evropská-unie migrace
+tags:         obrana evropská-unie 
 layout:       post
 title:        "Průlom v obranyschopnosti, hodnotí novou strategii Gregorová. Problém ale mohou způsobit členské státy"
 image:        /assets/img/articles/2021/marketa-gregorova06.jpg
