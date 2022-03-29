@@ -1,7 +1,7 @@
 ---
 date:         2020-11-18
 category:     blog
-tags:         egovernment legislativa digitalizace
+tags:         legislativa digitalizace
 layout:       post
 title:        "Předseda Pirátů Ivan Bartoš byl zvolen „eOsobností eGovernmentu” pro rok 2020. Veřejnost ocenila jeho mimořádný přínos v digitalizaci veřejné správy"
 image:        /assets/img/articles/2020/bartos-oceneni.jpg
