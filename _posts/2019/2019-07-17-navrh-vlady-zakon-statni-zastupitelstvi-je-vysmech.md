@@ -1,7 +1,7 @@
 ---
 date:         2019-07-17
 category:     blog
-tags:         celostátní legislativa spravedlnost-a-justice
+tags:         celostátní legislativa právo-a-justice
 layout:       post
 title:        "Vládní návrh zákona o státním zastupitelství je podle Pirátů výsměch, žádají proto změny"
 image:        /assets/img/articles/2019/michalek93.jpg
