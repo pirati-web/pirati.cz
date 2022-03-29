@@ -1,11 +1,11 @@
 ---
 date:         2018-03-14
 category:     blog
-tags:         služební-zákon
+tags:         vláda legislativa
 layout:       post
 title:        "Komentář Ivana Bartoše k vládou schválenému návrhu služebního zákona, který uvolní ruce dalším čistkám"
 image:        /assets/img/articles/2018/ivan-v-kanclu.jpg
-author:       Jakub Dušánek
+author:       
 ---
 
 
