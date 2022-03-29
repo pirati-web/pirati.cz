@@ -17,4 +17,3 @@ Misi pořádá Evropský parlament, v Gruzii jsou i zástupci Rady EU či indivi
 > „Aby si snad někdo nemyslel, že strkáme nos, kam nemáme – Gruzie to podstupuje dobrovolně, neboť má přímý zájem bližší a přátelské vztahy,“ vysvětluje Pirátka. „Výhody, které z takových vztahů plynou, ovšem logicky vyvažují i povinnosti. A mezi ty patří potřebné reformy soudnictví, demokratizace státu, ochrany lidských práv a podobně.“
 
 Mise je reakcí na dlouhodobě znepokojivý stav v zemi. „Gruzie se už tak dlouho utápí v krizi, že jako zodpovědný partner zkrátka musíme pozorně sledovat, zda našemu partnerovi můžeme z jeho problémů pomoci, anebo zjistíme, že musíme naše vztahy přehodnotit. V tomto smyslu vnímáme zítřejší volby jako svého druhu referendum o stavu země,“ dodává Gregorová.
-
