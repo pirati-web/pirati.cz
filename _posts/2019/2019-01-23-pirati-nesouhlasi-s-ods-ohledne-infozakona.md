@@ -1,7 +1,7 @@
 ---
 date:         2019-01-23
 category:     blog
-tags:         sněmovna spravedlnost-a-justice
+tags:         sněmovna právo-a-justice
 layout:       post
 title:        "Komentář Jakuba Michálka: Piráti nesouhlasí se záměrem senátora ODS zkomplikovat poskytování informací občanům"
 image:        /assets/img/articles/2019/michalek-5.jpg 
