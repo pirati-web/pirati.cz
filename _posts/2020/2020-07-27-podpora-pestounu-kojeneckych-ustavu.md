@@ -1,7 +1,7 @@
 ---
 date:         2020-07-27
 category:     blog
-tags:         vláda sociální-práce
+tags:         vláda práce-a-sociální-věci
 layout:       post
 title:        "Piráti spolunavrhli přeměnu kojeneckých ústavů na centra péče, která mají pomáhat dětem s těžkým zdravotním handicapem. Žádají i lepší podporu pěstounů"
 image:        /assets/img/articles/2020/richterova1.jpg
