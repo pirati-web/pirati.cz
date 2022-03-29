@@ -1,7 +1,7 @@
 ---
 date:         2020-01-11
 category:     blog
-tags:         piráti celostátní
+tags:         volby celostátní
 layout:       post
 title:        "První místopředsedkyní Pirátů se znovu stala Olga Richterová"
 image:        /assets/img/articles/2020/cf-richterova.JPG
