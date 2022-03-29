@@ -1,7 +1,7 @@
 ---
 date:         2018-12-05
 category:     blog
-tags:         sněmovna celostátní spravedlnost-a-justice
+tags:         sněmovna celostátní právo-a-justice
 layout:       post
 title:        "Nejvyšší správní soud zveřejní jména kárně odsouzených soudců"
 image:        /assets/img/articles/2018/michalek.jpg
