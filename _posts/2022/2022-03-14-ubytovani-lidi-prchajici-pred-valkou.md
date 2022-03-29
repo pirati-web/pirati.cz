@@ -1,7 +1,7 @@
 ---
 date:         2022-03-14
 category:     blog
-tags:         mmr vláda 
+tags:         místní-rozvoj vláda 
 layout:       post
 title:        "Bartoš: Byt po Schillerové konečně pomůže dobré věci. MMR zajišťuje ubytování pro lidi prchající před válkou, uleví i obcím a krajům"
 image:        /assets/img/articles/2022/ivan-bartos-03.jpg
