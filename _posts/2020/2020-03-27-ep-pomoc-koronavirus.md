@@ -1,7 +1,7 @@
 ---
 date:         2020-03-27
 category:     blog
-tags:         evropská-unie koronavirus mezinárodní
+tags:         evropská-unie koronavirus zahraničí
 layout:       post
 title:        "Piráti v Evropském parlamentu podpořili návrh na okamžitou pomoc proti koronavirové pandemii"
 image:        /assets/img/articles/2019/kolaja-marcel.jpg
