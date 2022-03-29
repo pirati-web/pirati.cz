@@ -1,7 +1,7 @@
 ---
 date:         2022-01-31
 category:     blog
-tags:         europarlament lidská-práva
+tags:         evropská-unie lidská-práva
 layout:       post
 title:        "Piráti navrhují Nobelovu cenu míru pro zakladatele WikiLeaks Juliana Assange"
 image:        /assets/img/articles/2022/europoslanci.jpg
