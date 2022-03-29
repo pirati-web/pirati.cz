@@ -1,7 +1,7 @@
 ---
 date:         2018-10-16
 category:     blog
-tags:         autorské-právo cenzura internet
+tags:         autorské-právo cenzura informatika
 layout:       post
 title:        "Nenechme si vzít svobodný internet, vyzývá poslanec Mikuláš Peksa"
 image:        /assets/img/articles/2018/peksa1.jpg
