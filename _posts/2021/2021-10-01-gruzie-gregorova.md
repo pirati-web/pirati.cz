@@ -1,7 +1,7 @@
 ---
 date:         2021-10-01
 category:     blog
-tags:         gruzie volby gregorová
+tags:         zahraničí volby
 layout:       post
 title:        "Europoslankyně Gregorová na pozorovací misi v Gruzii: „Sobotní volby vnímáme jako referendum o stavu země.“"
 image:        /assets/img/articles/2021/gregorova_gruzie_mise.jpg
