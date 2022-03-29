@@ -1,7 +1,7 @@
 ---
 date:         2019-04-10
 category:     blog
-tags:         celostátní sněmovna otevřený-stát
+tags:         celostátní sněmovna transparence
 layout:       post
 title:        "Právní řád bude srozumitelnější – návrhy zákonů doplní přehledy povinností dotčených subjektů"
 image:        /assets/img/articles/2019/jakub-michalek-registr.jpg
