@@ -1,7 +1,7 @@
 ---
 date:         2020-09-09
 category:     blog
-tags:         pirati kniha komunal inspirace
+tags:         celostátní
 layout:       post
 title:        "Piráti dnes slavnostně pokřtili svou první knihu „Česko InsPIRATIvní“. Obsahuje 37 příkladů dobré praxe, jak zlepšit životy lidí v ČR"
 image:        /assets/img/articles/2020/2020_09_09_krest_pirati_upravavelikost.jpg 
