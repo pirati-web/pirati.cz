@@ -1,7 +1,7 @@
 ---
 date:         2019-07-31
 category:     blog
-tags:         celostátní obchod průmysl energetika
+tags:         celostátní obchod-a-průmysl energetika
 layout:       post
 title:        "Vysvětlete odvolávání členů ERÚ, vyzývají Piráti ministra Havlíčka"
 image:        /assets/img/articles/2019/petr-tresnak.jpg
