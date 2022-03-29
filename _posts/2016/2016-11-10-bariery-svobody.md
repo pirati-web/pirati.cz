@@ -1,7 +1,7 @@
 ---
 date:         2016-11-10
 category:     blog
-tags:         lidská-práce
+tags:         lidská-práva
 layout:       post
 title:        "Piráti a Česká asociace paraplegiků - CZEPA: Bariéry svobody - netradiční oslava svátku 17. listopadu."
 image:        /assets/img/articles/2016/bariery-svobody.jpg
