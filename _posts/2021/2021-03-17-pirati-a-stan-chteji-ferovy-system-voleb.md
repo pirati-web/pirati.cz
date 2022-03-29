@@ -1,7 +1,7 @@
 ---
 date:         2021-03-17
 category:     blog
-tags:         volby piráti stan
+tags:         volby legislativa
 layout:       post
 title:        "Piráti a Starostové odmítají neférový systém voleb a navrhnou spravedlivou alternativu. O poslancích mají rozhodovat občané, ne straničtí šéfové"
 image:        /assets/img/articles/2021/Pirati STAN.jpg 
