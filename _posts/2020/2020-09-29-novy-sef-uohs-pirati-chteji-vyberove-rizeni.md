@@ -1,7 +1,7 @@
 ---
 date:         2020-09-29
 category:     blog
-tags:         kontrola-moci-a-mocných transparentnce
+tags:         kontrola-moci-a-mocných transparence
 layout:       post
 title:        "Komentář Vojtěcha Pikala: Piráti odmítají zákulisní dohody ohledně nového šéfa antimonopolního úřadu. Žádají vládu o otevřené výběrové řízení"
 image:        /assets/img/articles/2020/vojtech-pikal.jpg
