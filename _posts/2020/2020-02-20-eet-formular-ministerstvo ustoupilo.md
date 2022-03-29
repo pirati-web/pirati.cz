@@ -1,7 +1,7 @@
 ---
 date:         2020-02-20
 category:     blog
-tags:         sněmovna legislativa eet finance
+tags:         sněmovna legislativa finance
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Ministerstvo vyhovělo Pirátům. Zruší formulář o pěti stech položkách pro zvláštní režim EET"
 image:        /assets/img/articles/2019/mikulas-ferjencik.jpg
