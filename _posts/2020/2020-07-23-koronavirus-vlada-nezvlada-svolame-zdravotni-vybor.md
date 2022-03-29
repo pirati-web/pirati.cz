@@ -1,7 +1,7 @@
 ---
 date:         2020-07-23
 category:     blog
-tags:         legislativa sněmovna koronavirus zdavotnictví
+tags:         legislativa sněmovna koronavirus zdravotnictví
 layout:       post
 title:        "Vláda selhává v ochraně Česka před koronavirem, hrozí návrat plošných opatření. Piráti svolají Výbor pro zdravotnictví, žádají zvýšení kapacit testování i funkční chytrou karanténu"
 image:        /assets/img/articles/2020/ivan_hrad.jpg
