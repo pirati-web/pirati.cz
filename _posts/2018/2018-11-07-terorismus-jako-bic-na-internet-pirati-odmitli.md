@@ -1,7 +1,7 @@
 ---
 date:         2018-11-07
 category:     blog
-tags:         eu cenzura internet
+tags:         evropská-unie cenzura
 layout:       post
 title:        "Piráti odmítli používání hrozby terorismem jako biče na svobodný internet"
 image:        /assets/img/articles/2018/peksa1.jpg
