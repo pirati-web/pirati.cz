@@ -1,7 +1,7 @@
 ---
 date:         2019-03-03
 category:     blog
-tags:         sněmovna informatika otevřený-stát
+tags:         sněmovna informatika transparence
 layout:       post
 title:        "Evropa potřebuje Piráty! Strana zahájila kampaň do Evropského parlamentu"
 image:        /assets/img/articles/2019/start-kampane-nod.JPG
