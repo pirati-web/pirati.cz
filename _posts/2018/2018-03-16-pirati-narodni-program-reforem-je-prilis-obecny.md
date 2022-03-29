@@ -1,7 +1,7 @@
 ---
 date:         2018-03-16
 category:     blog
-tags:         piráti
+tags:         obchod-a-průmysl digitalizace
 layout:       post
 title:        "Národní program reforem je obecný a vyhýbá se klíčovým opatřením"
 image:        /assets/img/articles/2018/urad-vlady2.jpg
