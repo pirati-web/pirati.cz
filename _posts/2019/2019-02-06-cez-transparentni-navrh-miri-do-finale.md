@@ -1,7 +1,7 @@
 ---
 date:         2019-02-06
 category:     blog
-tags:         celostátní otevřený-stát
+tags:         celostátní transparence
 layout:       post
 title:        "Pirátský návrh transparentního ČEZu míří do finále"
 image:        /assets/img/articles/2018/bartos-michalek.jpg
