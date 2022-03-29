@@ -1,7 +1,7 @@
 ---
 date:         2018-08-31
 category:     blog
-tags:         konopí legalizace
+tags:         konopí legislativa
 layout:       post
 title:        "Piráti spouští web k připravenému návrhu na uzákonění pěstování konopí. Vyzývají veřejnost k zapojení do připomínek"
 image:        /assets/img/articles/2018/tk-web-konopi.jpg
