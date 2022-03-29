@@ -1,7 +1,7 @@
 ---
 date:         2021-09-16
 category:     blog
-tags:         vzdělávání evropská-unie etická-komise
+tags:         vzdělávání evropská-unie
 layout:       post
 title:        "Peksa: Vznik nové komise přinese lepší vymáhání etických pravidel a ušetření peněz"
 image:        /assets/img/articles/2021/mikulas-peksa00.jpg
