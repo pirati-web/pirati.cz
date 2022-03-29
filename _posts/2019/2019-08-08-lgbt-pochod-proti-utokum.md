@@ -1,7 +1,7 @@
 ---
 date:         2019-08-08
 category:     blog
-tags:         celostátní lidská-práva praha
+tags:         celostátní lidská-práva 
 layout:       post
 title:        "Chci vyjádřit podporu LGBT komunitě, která v některých státech stále čelí útokům, říká Kopřiva k účasti Pirátů na Prague Pride"
 image:        /assets/img/articles/2019/frantisek-kopriva-balkon.jpg
