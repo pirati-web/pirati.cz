@@ -1,7 +1,7 @@
 ---
 date:         2018-04-19
 category:     blog
-tags:         piráti
+tags:         celostátní
 layout:       post
 title:        "Piráti si připomínají deváté výročí listiny, která vedla ke vzniku strany"
 image:        /assets/img/articles/2018/kaderavek-bartos.jpg
