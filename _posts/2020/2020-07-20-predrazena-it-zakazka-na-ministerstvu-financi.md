@@ -1,7 +1,7 @@
 ---
 date:         2020-07-20
 category:     blog
-tags:         legislativa digitalizace ochrana-obcanu
+tags:         legislativa digitalizace
 layout:       post
 title:        "Piráti upozorňují na další předraženou IT zakázku, ministerstvo financí má v plánu zbytečně promrhat desítky milionů"
 image:        /assets/img/articles/2020/profant.jpg
