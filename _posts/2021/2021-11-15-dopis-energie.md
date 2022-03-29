@@ -1,7 +1,7 @@
 ---
 date:         2021-11-15
 category:     blog
-tags:         energie evropská-unie green-deal
+tags:         energetika evropská-unie
 layout:       post
 title:        "Nechci vás jako zákazníka, odpovídá dodavatel energií na otevřený dopis europoslanců"
 image:        /assets/img/articles/2021/kolaja-peksa.jpg
