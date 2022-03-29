@@ -1,7 +1,7 @@
 ---
 date:         2020-05-11
 category:     blog
-tags:         konopí zdavotnictví legislativa
+tags:         konopí zdravotnictví legislativa
 layout:       post
 title:        "Vláda vyslovila souhlas s novelou o konopí. Piráti připojí své návrhy"
 image:        /assets/img/articles/2019/tomas-vymazal1.jpg
