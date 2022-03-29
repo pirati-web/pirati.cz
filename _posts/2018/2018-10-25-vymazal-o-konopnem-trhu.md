@@ -1,7 +1,7 @@
 ---
 date:         2018-10-25
 category:     blog
-tags:         sněmovna konopí komentář interpelace
+tags:         sněmovna konopí komentář
 layout:       post
 title:        "Tomáš Vymazal: Jaký je vývoj situace na trhu s léčebným konopím v ČR?"
 image:        /assets/img/articles/2018/vymazal-tomas1.jpg
