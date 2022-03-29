@@ -1,7 +1,7 @@
 ---
 date:         2021-06-09
 category:     blog
-tags:         legislativa korupce kontrola-moci-a-mocných lidká-práva koronavirus
+tags:         legislativa korupce kontrola-moci-a-mocných
 layout:       post
 title:        "Piráti a Starostové prosazují, aby politici nemohli vlastnit média a pobírat dotace. Chtějí i lepší ochranu obětí sexuálního násilí a odmítají vládní návrh na covid pas"
 image:        /assets/img/articles/2021/kovarova-pirati.jpg
