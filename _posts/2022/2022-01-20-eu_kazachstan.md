@@ -1,7 +1,7 @@
 ---
 date:         2022-01-20
 category:     blog
-tags:         evropská-unie kazachstán
+tags:         evropská-unie zahraničí
 layout:       post
 title:        "Europoslanci odsoudili násilí v Kazachstánu. “Pusťte demonstranty z vězení,” vyzývají v rezoluci"
 image:        /assets/img/articles/2022/gregorova_kazachstan.jpg
