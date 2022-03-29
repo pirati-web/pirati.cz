@@ -1,7 +1,7 @@
 ---
 date:         2019-05-06
 category:     blog
-tags:         celostátní konopí legalizace
+tags:         celostátní konopí legislativa
 layout:       post
 title:        "Vláda v řešení dvojí kvality potravin jen klouže po povrchu. Podpořit musíme lokální zemědělce a výrobce, komentuje poslanec Radek Holomčík"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
