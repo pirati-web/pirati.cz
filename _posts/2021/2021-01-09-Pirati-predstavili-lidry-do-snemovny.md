@@ -1,7 +1,7 @@
 ---
 date:         2021-01-09
 category:     blog
-tags:         piráti sněmovní-volby sněmovna primárky
+tags:         sněmovna volby
 layout:       post
 title:        "Piráti představili krajské lídry do sněmovních voleb. Prioritami je vyvést zemi z krize, modernizovat ekonomiku, chránit krajinu i zajistit dostupné bydlení a moderní zdravotnictví"
 image:        /assets/img/articles/2021/Ivan Bartoš CF.jpeg
