@@ -1,7 +1,7 @@
 ---
 date:         2018-05-24
 category:     blog
-tags:         bezpečnost vnitro
+tags:         bezpečnost 
 layout:       post
 title:        "Komentář pirátského poslance Lipavského: Nového ředitele ÚZSI by měla jmenovat vláda s důvěrou"
 image:        /assets/img/articles/2018/lipavsky.jpg
