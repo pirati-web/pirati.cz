@@ -1,7 +1,7 @@
 ---
 date:         2018-02-01
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Staň se pirátským mágem pro grafiku a video!"
 image:        /assets/img/articles/2018/inzerat.jpg
