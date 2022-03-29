@@ -1,7 +1,7 @@
 ---
 date:         2018-03-04
 category:     blog
-tags:         ostrava životní-prostředí
+tags:         regiony životní-prostředí
 layout:       post
 title:        "Piráti uspořádali v Ostravě PirateCon o životním prostředí: ToxicTour i diskusi u kulatého stolu vládla kritika stavu ovzduší"
 image:        /assets/img/articles/2018/piratecon-ostrava.jpg
