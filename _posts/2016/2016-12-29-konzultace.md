@@ -1,7 +1,7 @@
 ---
 date:         2016-12-29
 category:     blog
-tags:         piráti
+tags:         volby
 layout:       post
 title:        "Piráti konzultují své programové teze napříč politickým spektrem"
 image:        /assets/img/articles/2016/zakladni-prijem-bern.jpg
