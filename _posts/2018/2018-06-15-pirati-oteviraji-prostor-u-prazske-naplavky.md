@@ -1,7 +1,7 @@
 ---
 date:         2018-06-15
 category:     blog
-tags:         praha piráti
+tags:         regiony
 layout:       post
 title:        "Piráti otevírají novou kancelář a sdílený pracovní prostor u pražské Náplavky"
 image:        assets/img/articles/2018/novepice.jpg
