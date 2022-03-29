@@ -1,7 +1,7 @@
 ---
 date:         2019-02-15
 category:     blog
-tags:         celostátní otevřený-stát
+tags:         celostátní transparence
 layout:       post
 title:        "Piráti chtějí zrušit desetitisícový poplatek za podnět na Úřad pro ochranu hospodářské soutěže"
 image:        /assets/img/articles/2018/pikal-vojtech.jpg
