@@ -1,7 +1,7 @@
 ---
 date:         2021-02-08 
 category:     blog
-tags:         skolství koronavirus 
+tags:         školství koronavirus 
 layout:       post
 title:        "Komentář Lenky Kozlové: Studenti a pedagogové budou bez online studijních materiálů již tento týden, pokud vláda nenalezne dohodu"
 image:        /assets/img/articles/2020/lenka-kozlova.jpg
