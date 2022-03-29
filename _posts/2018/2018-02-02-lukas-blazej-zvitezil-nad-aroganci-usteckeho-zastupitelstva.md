@@ -1,7 +1,7 @@
 ---
 date:         2018-02-02
 category:     blog
-tags:         piráti
+tags:         transparence kontrola-moci-a-mocných
 layout:       post
 title:        "Pirát Lukáš Blažej zvítězil nad arogancí ústeckého zastupitelstva"
 image:        /assets/img/articles/2018/blazej.jpg
