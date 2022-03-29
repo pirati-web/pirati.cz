@@ -1,7 +1,7 @@
 ---
 date:         2018-02-23
 category:     blog
-tags:         prezident
+tags:         média
 layout:       post
 title:        "Piráti odsuzují útok prezidenta na Českou televizi"
 image:        /assets/img/articles/2018/ceskatelevize.jpg
