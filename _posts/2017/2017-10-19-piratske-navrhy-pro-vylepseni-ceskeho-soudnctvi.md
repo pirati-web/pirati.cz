@@ -5,7 +5,7 @@ title: "Pirátské návrhy pro vylepšení českého soudnictví"
 date: 2017-10-18T15:09:00+02:00
 author: Jakub Michálek
 image: /assets/img/articles/2017/soud.jpg
-tags: justice
+tags: právo-a-justice
 ---
 
 Piráti jako jedna z mála stran mají vymyšlenou reformu soudnictví, která zvýší důvěryhodnost soudů. Mezi zhruba 3000 většinou dobrých soudců je pořád část soudců nekvalitních a někdy bohužel i zkorumpovaných. Není je však možné od sebe oddělit, protože neexistuje žádné hodnocení a data o výsledcích jsou neveřejná.
