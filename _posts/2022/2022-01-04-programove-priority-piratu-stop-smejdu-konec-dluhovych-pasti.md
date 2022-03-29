@@ -1,7 +1,7 @@
 ---
 date:         2022-01-04
 category:     blog
-tags:         program vláda
+tags:         vláda celostátní
 layout:       post
 title:        "Piráti představili své priority pro programové prohlášení vlády. Chtějí dostupné bydlení, ochranu lidí před „šmejdy“ i dluhovými pastmi a získat pro občany miliardy pomocí chytrých trendů, digitalizace či omezení korupce"
 image:        /assets/img/articles/2022/ivan-bartos00.jpg
