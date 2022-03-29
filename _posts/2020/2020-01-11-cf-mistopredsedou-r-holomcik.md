@@ -1,7 +1,7 @@
 ---
 date:         2020-01-11
 category:     blog
-tags:         piráti celostátní
+tags:         volby celostátní
 layout:       post
 title:        "Radek Holomčík byl znovu zvolen místopředsedou Pirátů"
 image:        /assets/img/articles/2020/cf-holomcik.jpg
