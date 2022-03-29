@@ -1,9 +1,9 @@
 ---
 date:         2020-07-27
 category:     blog
-tags:         vláda digitalizace sociální-práce
+tags:         vláda digitalizace práce-a-sociální-věci
 layout:       post
-author: 	"Ondřej Profant"
+author: 	    "Ondřej Profant"
 title:        "Ministerstvo práce chce vyhodit dalších 600 milionů za nechvalně známý systém pro výplatu sociálních dávek. Piráti kritizují předraženost"
 image:        /assets/img/articles/2020/profant1.jpg
 ---  
