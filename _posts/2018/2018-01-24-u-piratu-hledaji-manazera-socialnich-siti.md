@@ -1,7 +1,7 @@
 ---
 date:         2018-01-24
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Piráti hledají manažera sociálních sítí"
 image:        /assets/img/articles/2018/inzerat.jpg
