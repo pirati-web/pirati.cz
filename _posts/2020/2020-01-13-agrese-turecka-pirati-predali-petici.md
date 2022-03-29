@@ -1,7 +1,7 @@
 ---
 date:         2020-01-13
 category:     blog
-tags:         piráti celostátní zahraničí bezpečnost
+tags:         celostátní zahraničí bezpečnost
 layout:       post
 title:        "Piráti žádají další kroky vlády kvůli turecké agresi na severu Sýrie"
 image:        /assets/img/articles/2020/kopriva-peksa.jpg
