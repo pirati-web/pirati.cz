@@ -1,7 +1,7 @@
 ---
 date:         2019-08-26
 category:     blog
-tags:         celostátní školství vláda legislativa sport
+tags:         celostátní legislativa vláda
 layout:       post
 title:        "Vznik sportovní agentury přinese skrytí financování sportu"
 image:        /assets/img/articles/2019/barton1.jpg
