@@ -1,7 +1,7 @@
 ---
 date:         2019-01-10
 category:     blog
-tags:         sněmovna informatika otevřený-stát
+tags:         sněmovna informatika transparence
 layout:       post
 title:        "Piráti se důsledně zabývají nesrovnalostmi v rámci projektu Jednotného inkasního místa"
 image:        /assets/img/articles/2018/martinek-zed.jpg 
