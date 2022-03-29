@@ -1,7 +1,7 @@
 ---
 date:         2020-09-08
 category:     blog
-tags:         životní-prostředí klima legislativa
+tags:         životní-prostředí legislativa
 layout:       post
 title:        "Komentář Dany Balcarové: Piráti chtějí chránit klima. Podporují odklon od uhlí a mají plán na snížení emisí"
 image:        /assets/img/people/3347.jpg
