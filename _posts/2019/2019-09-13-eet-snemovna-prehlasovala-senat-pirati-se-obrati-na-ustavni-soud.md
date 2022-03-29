@@ -1,7 +1,7 @@
 ---
 date:         2019-09-13
 category:     blog
-tags:         celostátní legislativa finance eet
+tags:         legislativa finance ekonomika
 layout:       post
 title:        "Sněmovna přehlasovala senátní veto k EET, Piráti se obrátí na Ústavní soud ČR"
 image:        /assets/img/articles/2019/bartos-ferjencik.jpg
