@@ -1,7 +1,7 @@
 ---
 date:         2020-09-02
 category:     blog
-tags:         okd životní-prostředí průmysl
+tags:         okd životní-prostředí obchod-a-průmysl
 layout:       post
 title:        "Dobývací prostor Dolu Frenštát se zmenší na nezbytnou velikost potřebnou k jeho likvidaci, slíbili ve Sněmovně zástupci státu"
 image:        /assets/img/articles/2020/cernohorsky-stul.jpg
