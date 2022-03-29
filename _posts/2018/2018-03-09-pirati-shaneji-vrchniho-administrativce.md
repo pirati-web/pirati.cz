@@ -1,7 +1,7 @@
 ---
 date:         2018-03-09
 category:     blog
-tags:         piráti
+tags:         inzerát
 layout:       post
 title:        "Piráti hledají vrchního administrativce"
 image:        /assets/img/articles/2018/inzerat.jpg
