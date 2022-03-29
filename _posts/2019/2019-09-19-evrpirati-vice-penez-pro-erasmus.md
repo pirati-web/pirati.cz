@@ -1,7 +1,7 @@
 ---
 date:         2019-09-19
 category:     blog
-tags:         zahraničí evropská-unie vzdělání
+tags:         zahraničí evropská-unie vzdělávání
 layout:       post
 title:        "Evropští Piráti: Více peněz pro Erasmus+"
 image:        /assets/img/articles/2019/marcel-kolaja1.jpg
