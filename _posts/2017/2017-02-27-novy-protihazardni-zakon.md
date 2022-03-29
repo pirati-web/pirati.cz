@@ -1,7 +1,7 @@
 ---
 title: "Poslanci se asi nechali napálit: nový protihazardní zákon podpoří byznys největších tuzemských hráčů. Ministerstvo financi uděluje první licence na provozování online sázek"
 author: Věra Marušiaková
-tags: hazard
+tags: legislativa
 date: 2017-02-27
 image: /assets/img/articles/2017/casino.jpg
 category:     blog
