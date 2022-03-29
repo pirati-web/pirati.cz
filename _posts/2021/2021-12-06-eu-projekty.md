@@ -1,7 +1,7 @@
 ---
 date:         2021-12-06
 category:     blog
-tags:         europarlament vláda projekty
+tags:         evropská-unie vláda
 layout:       post
 title:        "Místo občanům půjdou miliardy na megalomanské projekty, které se jinam nevešly, říká Peksa"
 image:        /assets/img/articles/2021/peksa_ep.jpg
