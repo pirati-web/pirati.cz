@@ -1,7 +1,7 @@
 ---
 date:         2019-07-31
 category:     blog
-tags:         celostátní jihomoravský-kraj práce-a-sociální-věci bydlení
+tags:         regiony práce-a-sociální-věci bydlení
 layout:       post
 title:        "Olga Richterová jednala v Brně o bydlení a sociálním začleňování"
 image:        /assets/img/articles/2019/richterova-brno.jpg
