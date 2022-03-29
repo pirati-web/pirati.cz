@@ -1,7 +1,7 @@
 ---
 date:         2019-11-05
 category:     blog
-tags:         celostátní piráti
+tags:         celostátní exekuce
 layout:       post
 title:        "Reforma exekucí, rodičovský příspěvek a zákon o digitální službě jsou prioritami Pirátů na jednání Sněmovny tento týden"
 image:        /assets/img/articles/2019/michalek-piskovec.jpg
