@@ -1,7 +1,7 @@
 ---
 date:         2022-03-11
 category:     blog
-tags:         mmr vláda evropská-unie
+tags:         místní-rozvoj vláda evropská-unie
 layout:       post
 title:        "Zakázky a dotace nesmí v EU získávat oligarchové napojení na Putinův a Lukašenkův režim, apeluje ministr Bartoš v dopise na Evropskou komisi"
 image:        /assets/img/articles/2022/ivan-bartoš-oligarchové.jpg
