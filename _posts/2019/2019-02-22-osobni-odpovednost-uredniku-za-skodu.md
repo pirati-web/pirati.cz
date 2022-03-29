@@ -1,7 +1,7 @@
 ---
 date:         2019-02-22
 category:     blog
-tags:         sněmovna kontrola-moci-a-mocných spravedlnost-a-justice
+tags:         sněmovna kontrola-moci-a-mocných právo-a-justice
 layout:       post
 title:        "Piráti přichází s návrhem, který zlepší vymáhání osobní odpovědnosti úředníků za škodu"
 image:        /assets/img/articles/2018/16078JakubMichalek.jpg
