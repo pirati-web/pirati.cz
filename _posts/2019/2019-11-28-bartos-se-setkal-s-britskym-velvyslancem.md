@@ -1,7 +1,7 @@
 ---
 date:         2019-11-28
 category:     blog
-tags:         mezinárodní bezpečnost kontrola-moci-a-mocných
+tags:         zahraničí bezpečnost kontrola-moci-a-mocných
 layout:       post
 title:        "Ivan Bartoš se sešel s britským velvyslancem, žádá lékařskou péči pro Juliana Assange"
 image:        /assets/img/articles/2019/ivan-bartos-znak.jpg
