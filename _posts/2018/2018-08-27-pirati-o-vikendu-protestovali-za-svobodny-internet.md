@@ -1,7 +1,7 @@
 ---
 date:         2018-08-27
 category:     blog
-tags:         internet
+tags:         informatika cenzura
 layout:       post
 title:        "Piráti na nedělním happeningu varovali před cenzurou internetu"
 image:        /assets/img/articles/2018/demo.jpg
