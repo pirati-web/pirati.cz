@@ -1,7 +1,7 @@
 ---
 date:         2019-02-21
 category:     blog
-tags:         sněmovna celostátní průmysl
+tags:         sněmovna celostátní obchod-a-průmysl
 layout:       post
 title:        "Výstavbu jaderných bloků nemůže vláda projednávat za zavřenými dveřmi"
 image:        /assets/img/articles/2019/tresnak-martinek.jpg
