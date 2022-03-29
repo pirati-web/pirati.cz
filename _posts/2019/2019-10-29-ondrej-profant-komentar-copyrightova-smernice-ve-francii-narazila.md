@@ -1,7 +1,7 @@
 ---
 date:         2019-10-29
 category:     blog
-tags:         zahraničí evropska-unie autorské-právo
+tags:         zahraničí evropská-unie autorské-právo
 layout:       post
 title:        "Komentář Ondřeje Profanta: Copyrightová směrnice ve Francii narazila na Google i Facebook"
 image:        /assets/img/articles/2019/ondrej-profant.jpg
