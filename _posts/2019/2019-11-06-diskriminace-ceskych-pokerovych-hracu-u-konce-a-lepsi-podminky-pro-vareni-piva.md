@@ -1,7 +1,7 @@
 ---
 date:         2019-11-06
 category:     blog
-tags:         celostátní legislativa ekonomika hazard 
+tags:         celostátní legislativa ekonomika 
 layout:       post
 title:        "Piráti prosadili zrušení diskriminace českých hráčů pokeru a lepší podmínky pro domácí vaření piva"
 image:        /assets/img/articles/2019/holomcik-radek.jpg
