@@ -1,7 +1,7 @@
 ---
 date:         2021-09-29
 category:     blog
-tags:         kampaň politika gregorová
+tags:         volby lidská-práva
 layout:       post
 title:        "“Snad se mi podařilo sejmout z tématu pestrého zastoupení punc kontroverze,” věří Pirátka Gregorová"
 image:        /assets/img/articles/2021/Gregorovax_grafika_politika_pro_vsechny.png
