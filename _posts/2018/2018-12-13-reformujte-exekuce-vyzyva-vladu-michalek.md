@@ -1,7 +1,7 @@
 ---
 date:         2018-12-13
 category:     blog
-tags:         evropa legislativa kauzy
+tags:         evropská-unie legislativa kauzy
 layout:       post
 title:        "Reformujte exekuce a dávky, aby byli dlužníci motivovaní pracovat, vyzývá vládu Pirát Michálek"
 image:        /assets/img/articles/2018/michalek-4.jpg
