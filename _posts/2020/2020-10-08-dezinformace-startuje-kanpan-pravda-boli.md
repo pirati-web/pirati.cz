@@ -1,7 +1,7 @@
 ---
 date:         2020-10-08
 category:     blog
-tags:         vzdělání vzdělávání
+tags:         dezinformace vzdělávání
 layout:       post
 title:        "„Pravda bolí“ – startuje kampaň europoslankyně Gregorové věnovaná dezinformacím"
 image:        assets/img/articles/2020/marketa-gregorova1.jpg
