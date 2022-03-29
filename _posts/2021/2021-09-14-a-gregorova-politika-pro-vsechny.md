@@ -1,7 +1,7 @@
 ---
 date:         2021-09-14
 category:     blog
-tags:         politika evropská-unie
+tags:         evropská-unie
 layout:       post
 title:        "“Je potřeba se nebát se a brát to jako normální,” říká mladý český starosta v podcastu Pirátky Gregorové"
 image:        /assets/img/articles/2021/papajanovsky-gregorova.JPG
