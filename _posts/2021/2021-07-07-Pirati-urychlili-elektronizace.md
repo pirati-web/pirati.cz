@@ -1,7 +1,7 @@
 ---
 date:         2021-07-07
 category:     blog
-tags:         zdravotnictví elektronizace piráti
+tags:         zdravotnictví digitalizace
 layout:       post
 title:        "Piráti urychlili elektronizaci zdravotnictví"
 image:        /assets/img/articles/2021/petr-tresnak01.jpg
