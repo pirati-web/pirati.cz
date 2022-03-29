@@ -1,7 +1,7 @@
 ---
 date:         2018-02-01
 category:     blog
-tags:         piráti
+tags:         práce-a-sociální-věci
 layout:       post
 title:        "Richterová: Piráti usilují o zlepšení neutěšené situace na úřadech práce"
 image:        /assets/img/articles/2018/richterova.jpg
