@@ -1,7 +1,7 @@
 ---
 date:         2022-01-07
 category:     blog
-tags:         evropský-parlament zahraničí
+tags:         evropská-unie zahraničí
 layout:       post
 title:        "Gregorová: Situace v Kazachstánu eskaluje. Je potřeba zastavit násilí"
 image:        /assets/img/articles/2022/gregorova_sedacka_sad.jpg
