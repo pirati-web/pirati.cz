@@ -1,7 +1,7 @@
 ---
 date:         2019-02-13
 category:     blog
-tags:         celostátní obchod finance
+tags:         celostátní obchod-a-průmysl finance
 layout:       post
 title:        "Komentář pirátského poslance Mikuláše Ferjenčíka: Další vlna EET bez diskuse i důvěryhodné analýzy – vláda nechce slyšet nepříjemnou pravdu"
 image:        /assets/img/articles/2019/ferjencik-mikrofon.jpg
