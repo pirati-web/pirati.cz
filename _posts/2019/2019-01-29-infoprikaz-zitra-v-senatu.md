@@ -1,7 +1,7 @@
 ---
 date:         2019-01-29
 category:     blog
-tags:         sněmovna otevřený-stát
+tags:         sněmovna transparence
 layout:       post
 title:        "Senát zítra rozhodne o osudu práva lidí na informace"
 image:        /assets/img/articles/2018/wagenknecht.jpg 
