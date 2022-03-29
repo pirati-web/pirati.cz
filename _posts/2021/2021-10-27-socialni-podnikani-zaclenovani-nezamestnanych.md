@@ -1,7 +1,7 @@
 ---
 date:         2021-10-27
 category:     blog
-tags:         sociální-práce 
+tags:         práce-a-sociální-věci senát
 layout:       post
 title:        "Lepší zaměstnávání znevýhodněných a dlouhodobě nezaměstnaných. SEN 21 a Piráti uspořádali v Senátu setkání s odborníky k připravovanému zákonu"
 image:        /assets/img/articles/2021/senat-socialni-podniky.jpg
