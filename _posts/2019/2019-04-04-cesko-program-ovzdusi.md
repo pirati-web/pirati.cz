@@ -1,7 +1,7 @@
 ---
 date:         2019-04-04
 category:     blog
-tags:         celostátní moravskoslezský-kraj životní-prostředí
+tags:         celostátní životní-prostředí
 layout:       post
 title:        "Pirát Černohorský: Polsko připravuje program na zlepšení ovzduší, Česko by se do něj mělo zapojit kvůli smogu v příhraničí"
 image:        /assets/img/articles/2019/cernohorsky2.jpg
