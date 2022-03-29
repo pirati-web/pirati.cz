@@ -1,7 +1,7 @@
 ---
 date:         2021-05-06
 category:     blog
-tags:         právo-a-justice spravedlnost-a-justice
+tags:         právo-a-justice vláda
 layout:       post
 title:        "Ministryně Benešová hledá záminku pro odvolání nejvyššího státního zástupce, sama ale šířila neověřené informace. Piráti žádají vysvětlení na výboru"
 image:        /assets/img/articles/2021/jakub-michalek00.jpg
