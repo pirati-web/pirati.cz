@@ -1,7 +1,7 @@
 ---
 date:         2019-11-08
 category:     blog
-tags:         celostátní legislativa emisni-povolenky ekologie  
+tags:         celostátní legislativa životní-prostředí  
 layout:       post
 title:        "Piráti žádali, aby výnosy z emisních povolenek mířily přímo na ochranu klimatu, Sněmovna návrh odmítla"
 image:        /assets/img/articles/2019/balcarova-tresnak-2.jpg
