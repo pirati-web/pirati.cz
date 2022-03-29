@@ -1,7 +1,7 @@
 ---
 date:         2022-02-13
 category:     blog
-tags:         volby praha 
+tags:         volby regiony 
 layout:       post
 title:        "Piráti zvolili čelo kandidátky do pražského zastupitelstva. Hřiba doplní zkušení kolegové z magistrátu a výrazné osobnosti z městských částí"
 image:        /assets/img/articles/2022/magistrat-kandidati.jpg
