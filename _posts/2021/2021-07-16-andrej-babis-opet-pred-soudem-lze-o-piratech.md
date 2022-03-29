@@ -1,7 +1,7 @@
 ---
 date:         2021-07-16
 category:     blog
-tags:         kontrola-moci-a-mocných pravedlnost-a-justice
+tags:         kontrola-moci-a-mocných spravedlnost-a-justice
 layout:       post
 title:        "Piráti podali žalobu na premiéra. Požadují u soudu omluvu za šíření lži"
 image:        /assets/img/articles/2021/jakub-michalek01.jpg
