@@ -1,7 +1,7 @@
 ---
 date:         2018-01-17
 category:     blog
-tags:         moravskoslezský-kraj
+tags:         regiony
 layout:       post
 title:        "„Výsměch lidem na Ostravsku,“ hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji"
 image:        /assets/img/articles/2018/smog.jpg
