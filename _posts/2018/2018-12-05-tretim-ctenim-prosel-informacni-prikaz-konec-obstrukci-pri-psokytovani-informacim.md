@@ -1,7 +1,7 @@
 ---
 date:         2018-12-05
 category:     blog
-tags:         sněmovna celostátní spravedlnost-a-justice
+tags:         sněmovna celostátní právo-a-justice
 layout:       post
 title:        "Informační příkaz zastaví nekonečný „ping-pong“, kterým úřady dělají obstrukce při poskytování informací, říká Jakub Michálek"
 image:        /assets/img/articles/2018/michalek-jakub.jpg
