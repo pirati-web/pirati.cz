@@ -1,7 +1,7 @@
 ---
 date:         2021-05-17
 category:     blog
-tags:         média evropská-unie bezpečnost svoboda-slova
+tags:         média evropská-unie bezpečnost cenzura
 layout:       post
 title:        "Loni zemřelo na světě kvůli své práci 32 novinářů, upozorňují europoslanci v den, kdy by Ján Kuciak oslavil 31. narozeniny"
 image:        /assets/img/articles/2021/marcel-kolaja00.jpg
