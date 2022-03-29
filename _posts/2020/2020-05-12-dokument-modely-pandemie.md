@@ -1,7 +1,7 @@
 ---
 date:         2020-05-12
 category:     blog
-tags:         koronavirus zdavotnictví
+tags:         koronavirus zdravotnictví
 layout:       post
 title:        "Piráti obdrželi dokument s modely vývoje pandemické situace, chybí ale data pro další využití"
 image:        /assets/img/articles/2020/michalek-rouska.jpg
