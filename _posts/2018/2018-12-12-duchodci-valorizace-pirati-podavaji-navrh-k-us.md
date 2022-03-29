@@ -1,7 +1,7 @@
 ---
 date:         2018-12-12
 category:     blog
-tags:         celostátní otevřený-stát
+tags:         celostátní transparence
 layout:       post
 title:        "Piráti se zastali důchodců, kteří dostávají neprávem méně peněz"
 image:        /assets/img/articles/2018/ferjencik-snemovna.jpg 
