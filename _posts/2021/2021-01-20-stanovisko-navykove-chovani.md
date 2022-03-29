@@ -2,16 +2,14 @@
 date:         2021-01-20
 category:     
   - stanoviska
-tags:         návykové-chování
+tags:         stanovisko
 layout:       post
 title:        "Stanovisko Pirátů k prevenci vzniku rizikového návykového chování a snižování škod s ním spojených"
 image:        /assets/img/articles/2017/alej.jpg
 author:       
 ---
 
-# Stanovisko Pirátů k prevenci vzniku rizikového návykového
-
-# chování a snižování škod s ním spojených
+# Stanovisko Pirátů k prevenci vzniku rizikového návykového chování a snižování škod s ním spojených
 
 Stanovisko Pirátů k prevenci vzniku rizikového návykového chování a snižování škod s ním spojených
 Úvod do problematiky
