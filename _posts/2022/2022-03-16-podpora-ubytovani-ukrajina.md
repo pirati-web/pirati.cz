@@ -1,7 +1,7 @@
 ---
 date:         2022-03-16
 category:     blog
-tags:         vláda mmr bydlení
+tags:         vláda místní-rozvoj bydlení
 layout:       post
 title:        "Vláda schválila finanční podporu na ubytování lidí prchajících před válkou. Ministr Bartoš chystá i dotační program pro kraje a obce"
 image:        /assets/img/articles/2022/bartos-03-2022.jpg
