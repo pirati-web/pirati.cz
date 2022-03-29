@@ -1,7 +1,7 @@
 ---
 date:         2021-12-16
 category:     blog
-tags:         evrospká-unie 
+tags:         evropská-unie 
 layout:       post
 title:        "Kolaja: Evropská unie by měla zakázat divoká zvířata v cirkusech"
 image:        /assets/img/articles/2021/marcel-kolaja00.jpg
