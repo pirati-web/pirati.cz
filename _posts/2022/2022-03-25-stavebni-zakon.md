@@ -1,7 +1,7 @@
 ---
 date:         2022-03-25
 category:     blog
-tags:         vláda místní-rozvoj stavební-zákon legislativa 
+tags:         vláda místní-rozvoj legislativa 
 layout:       post
 title:        "Bartoš: Předložíme opravený a vylepšený stavební zákon. Úřady mají být blízko lidem, ne se jim vzdalovat"
 image:        /assets/img/articles/2022/ivanek-ivan-2022.jpg 
