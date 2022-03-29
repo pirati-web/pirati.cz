@@ -1,7 +1,7 @@
 ---
 date:         2020-03-10
 category:     blog
-tags:         mezinárodní lidská-práva
+tags:         zahraničí lidská-práva
 layout:       post
 title:        "Pirátští poslanci z parlamentní skupiny přátel Tibetu jednali s tibetskou exilovou vládou a zúčastnili se vzpomínkové akce k výročí Tibetského povstání"
 image:        /assets/img/articles/2020/tibet.jpg
