@@ -1,7 +1,7 @@
 ---
 date:         2021-05-24
 category:     blog
-tags:         média evropská-unie bezpečnost svoboda-slova
+tags:         média evropská-unie bezpečnost cenzura
 layout:       post
 title:        "Piráti vyzvali Bělorusko k okamžitému propuštění novináře Ramana Prataseviče a jeho přítelkyně Sofie Sapegové. Žádají i tvrdou reakci od EU"
 image:        /assets/img/articles/2021/ivan-bartos01.jpg
