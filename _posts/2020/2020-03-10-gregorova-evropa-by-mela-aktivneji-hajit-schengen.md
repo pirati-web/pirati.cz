@@ -1,7 +1,7 @@
 ---
 date:         2020-03-10
 category:     blog
-tags:         mezinárodní lidská-práva bezpečnost
+tags:         zahraničí lidská-práva bezpečnost
 layout:       post
 title:        "Komentář europoslankyně Markéty Gregorové: Evropa by měla být aktivnější při ochraně schengenského prostoru"
 image:        /assets/img/articles/2020/gregorova.jpg
