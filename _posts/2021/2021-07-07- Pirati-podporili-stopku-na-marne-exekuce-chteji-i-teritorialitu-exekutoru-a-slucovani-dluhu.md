@@ -1,7 +1,7 @@
 ---
 date:         2021-07-07
 category:     blog
-tags:         exekuce rozpočet piráti
+tags:         exekuce rozpočet
 layout:       post
 title:        "Piráti podpořili stopku vymáhání marných exekucí. Sněmovna ale smetla jejich návrhy na teritorialitu exekutorů i slučování dluhů"
 image:        /assets/img/articles/2021/lukas-kolarik00.jpg
