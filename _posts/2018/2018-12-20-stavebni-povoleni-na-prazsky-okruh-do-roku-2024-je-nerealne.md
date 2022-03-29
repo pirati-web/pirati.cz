@@ -1,7 +1,7 @@
 ---
 date:         2018-12-20
 category:     blog
-tags:         sněmovna praha doprava
+tags:         sněmovna regiony doprava
 layout:       post
 title:        "Stavební povolení na Pražský okruh do konce roku 2024? Nereálné, myslí si Piráti"
 image:        /assets/img/articles/2018/michalek-piskovec.jpg
