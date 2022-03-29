@@ -1,7 +1,7 @@
 ---
 date:         2018-01-15
 category:     blog
-tags:         hazard
+tags:         regiony
 layout:       post
 title:        "Omezení hazardu v Jablonci schváleno v referendu"
 image:        /assets/img/articles/2018/jablonec.jpg
