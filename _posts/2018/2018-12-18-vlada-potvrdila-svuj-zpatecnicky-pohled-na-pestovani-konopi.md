@@ -1,7 +1,7 @@
 ---
 date:         2018-12-17
 category:     blog
-tags:         sněmovna legalizace konopí
+tags:         sněmovna legislativa konopí
 layout:       post
 title:        "Piráti: Vláda potvrdila svůj zpátečnický pohled na pěstování a využití konopí"
 image:        /assets/img/articles/2018/vymazal-tomas1.jpg
