@@ -1,7 +1,7 @@
 ---
 date:         2020-08-17
 category:     blog
-tags:         evropská-unie digitalzace
+tags:         evropská-unie digitalizace
 layout:       post
 title:        "Cestou z krize je zvýšení digitální kvality života"
 image:        /assets/img/articles/2019/kolaja-marcel.jpg
