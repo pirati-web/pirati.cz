@@ -1,7 +1,7 @@
 ---
 date:         2019-02-05
 category:     blog
-tags:         celostátní spravedlnost-a-justice
+tags:         celostátní právo-a-justice
 layout:       post
 title:        "Piráti chtějí zavést klouzavý mandát. Ministři by nadále neměli zastávat post poslance"
 image:        /assets/img/articles/2017/snemovna-prazdna.jpg
