@@ -1,7 +1,7 @@
 ---
 date:         2018-06-08
 category:     blog
-tags:         středočeský-kraj
+tags:         vzdělávání
 layout:       post
 title:        "Firma by si zasloužila podnikovou školku, řekl předseda Pirátů Bartoš po návštěvě Foxconnu v Kutné Hoře"
 image:        /assets/img/articles/2018/foxconn.jpg
