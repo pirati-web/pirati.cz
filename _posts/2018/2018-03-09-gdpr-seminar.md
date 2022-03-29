@@ -1,7 +1,7 @@
 ---
 date:         2018-03-09
 category:     blog
-tags:         gdpr
+tags:         informatika legislativa
 layout:       post
 title:        "Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů"
 image:        /assets/img/articles/2018/ondrej-profant.jpg
