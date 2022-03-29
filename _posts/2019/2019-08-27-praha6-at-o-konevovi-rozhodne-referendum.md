@@ -1,7 +1,7 @@
 ---
 date:         2019-08-27
 category:     blog
-tags:         praha 
+tags:         regiony 
 layout:       post
 title:        "Ať o soše Koněva rozhodnou sami Pražané v referendu, navrhují Piráti z Prahy 6"
 image:        /assets/img/articles/2019/konev.jpg
