@@ -1,7 +1,7 @@
 ---
 date:         2018-09-21
 category:     blog
-tags:         sněmovna konopí legalizace
+tags:         sněmovna konopí legislativa
 layout:       post
 title:        "Piráti spouští expertní panel k návrhu na legalizaci pěstování konopí pro vlastní potřebu"
 image:        /assets/img/articles/2018/vymazal-tomas1.jpg
