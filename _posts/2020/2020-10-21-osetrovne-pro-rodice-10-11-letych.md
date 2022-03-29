@@ -1,7 +1,7 @@
 ---
 date:         2020-10-21
 category:     blog
-tags:         zdarvotnictví koronavirus práce-a-sociální-věci
+tags:         zdravotnictví koronavirus práce-a-sociální-věci
 layout:       post
 title:        "Piráti navrhli ošetřovné i pro rodiče desetiletých a jedenáctiletých dětí. Podpořili také jeho navýšení na 70 procent"
 image:        /assets/img/articles/2020/richterova1.jpg
