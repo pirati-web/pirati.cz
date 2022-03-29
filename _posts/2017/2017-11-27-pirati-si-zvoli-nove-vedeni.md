@@ -5,7 +5,7 @@ title: "Piráti si začátkem ledna zvolí nové vedení"
 date: 2017-11-27T09:33:00+02:00
 author: Karolína Sadílková
 image: /assets/img/articles/2017/pirati-cf.jpg
-tags: piráti
+tags: celostátní volby
 ---
  
 Nejvyšší orgán České pirátské strany – Celostátní forum – si na svém zasedání 6. ledna 2018 zvolí nové vedení strany, Republikové předsednictvo. Zasedání se bude konat v Brně, v konferenční místnosti hotelu Voroněž. Kromě volby Republikového předsednictva a předsedy strany se bude jednat i o drobných změnách stanov, které přinesl vývoj strany.
