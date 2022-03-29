@@ -1,7 +1,7 @@
 ---
 date:         2018-01-07
 category:     blog
-tags:         piráti
+tags:         celostátní
 layout:       post
 title:        "Pirátské Celostátní fórum pokračovalo v neděli workshopy"
 image:        /assets/img/articles/2018/cf.jpg
