@@ -12,8 +12,7 @@ contact-local:
   url:
   description:
   img:
-tags:
-- spravedlnost
+tags: spravedlnost
 category: resort
 redmine: https://redmine.pirati.cz/projects/justice/roadmap
 forum: https://forum.pirati.cz/viewforum.php?f=960

@@ -10,8 +10,7 @@ contact-local:
   mob:
   mail:
   img: 
-tags:
-- zdravotnictví
+tags: zdravotnictví
 category: resort
 redmine:
 forum:

@@ -7,14 +7,7 @@ leader:
 - ondrej.profant
 contact:
 - vera.marusiakova
-tags:
-- stavebnictví
-- územní plánování
-- pohřebnictví
-- bytová politika
-- regionální politika
-- státní správa
-- územní samospráva
+tags: stavebnictví územníi-plánování pohřebnictví bytová-politika regionálníi-politika státní-správa územní-samospráva
 category: resort
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=1136&t=47010

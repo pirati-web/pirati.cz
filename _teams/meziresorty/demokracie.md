@@ -15,9 +15,7 @@ category: mezire
 redmine: https://redmine.pirati.cz/projects/demokracie
 uid: demokracie
 forum: https://forum.pirati.cz/viewforum.php?f=534 
-tags:
- - Přímá demokracie
- - Volby
+tags: přímá-demokracie volby
 ---
 
 Vítejte na stránce Pirátského týmu pro záležitosti demokracie - voleb, hlasování, referend a regulace politických stran a politiků.

@@ -13,10 +13,7 @@ calendar: ZWVzaGJjZXV2NHMxNmkyM2p1aDJlMzM0ZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 forum: https://forum.pirati.cz/mezinarodni-vztahy-f559/
 zapis: https://forum.pirati.cz/viewtopic.php?f=559&t=45987
 newsletter:  https://nalodeni.pirati.cz/news/list/15/
-tags:
- - Evropská unie
- - Zahraniční věci
- - Obrana
+tags: evropská-unie zahraniční-věci obrana
 
 [//]: # (redmine_id: resort-evropska-unie-zahranici-obrana # Střednědobé cíle týmu)
 

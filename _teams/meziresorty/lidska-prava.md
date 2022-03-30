@@ -4,8 +4,6 @@ name: Lidská práva
 fullname: Meziresortní tým Lidská práva 
 img: teams/resorty/lidska-prava.jpg # obrázek nemusíte dodávat
 leader: tomas.guth.jarkovsky
-tags:
-- 
 category: mezire
 #forum: https://forum.pirati.cz/viewforum.php?f=1453
 #calendar: vej2u7t9i2v4psgj99uphseuos@group.calendar.google.com # id google kalendáře s událostmi

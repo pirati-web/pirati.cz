@@ -7,8 +7,7 @@ img: teams/navykove-chovani.png
 leader: janka.michailidu 
 deputy: 
 - Michal Ketner
-tags:
- - navykove-chovani
+tags: navykove-chovani
 category: mezire
 #forum:
 #calendar: # id google kalendáře s událostmi

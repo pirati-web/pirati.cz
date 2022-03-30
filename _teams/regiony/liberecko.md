@@ -16,8 +16,7 @@ region: Liberecký kraj
 url: https://www.pirati.cz/regiony/liberecko/start
 categories:
 - regiony
-tags:
-- liberecky-kraj
+tags: liberecky-kraj
 www: https://liberecky.pirati.cz
 facebook: https://www.facebook.com/cpslbc/
 redmine: https://redmine.pirati.cz/projects/liberecky-kraj

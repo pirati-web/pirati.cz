@@ -11,8 +11,6 @@ contact-local:
   mob: +420  603 875 145
   mail: michal.prager@pirati.cz
   img: 
-tags:
-- 
 category: mezire
 #forum:
 #calendar: # id google kalendáře s událostmi

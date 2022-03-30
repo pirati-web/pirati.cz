@@ -10,8 +10,7 @@ contact-local:
   name: Štěpán Drtina
   mail: stepan.drtina@pirati.cz
   img: 
-tags:
-- kultura
+tags: kultura
 category: resort
 redmine:
 forum:

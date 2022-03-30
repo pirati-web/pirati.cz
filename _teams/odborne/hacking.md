@@ -4,7 +4,7 @@ fullname: technický tým
 img: teams/technicky-tym.png
 leader: ondrej.profant
 deputy:
-- Stanislav Štipl
+- Andrej Ramašeuski
 - Zdeněk Kubala
 contact:
 - Ondřej Profant

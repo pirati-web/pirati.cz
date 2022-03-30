@@ -16,8 +16,7 @@ region: Jihočeský kraj
 url: https://jihocesky.pirati.cz
 categories:
 - regiony
-tags:
-- jižní-čechy
+tags: jižní-čechy
 facebook: https://www.facebook.com/pirati.jck/
 redmine: https://redmine.pirati.cz/projects/jck
 forum: https://forum.pirati.cz/jihocesky-kraj-f90/

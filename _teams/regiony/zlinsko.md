@@ -16,8 +16,7 @@ region: Zlínský kraj
 url: zlinsky.pirati.cz
 categories:
 - regiony
-tags:
-- zlinsky-kraj
+tags: zlinsky-kraj
 facebook: https://www.facebook.com/piratizlk/
 redmine: https://redmine.pirati.cz/projects/zlinsky-kraj
 forum: https://forum.pirati.cz/zlinsky-kraj-f82/

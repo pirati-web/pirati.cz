@@ -11,9 +11,7 @@ contact-local:
   mob: 776 278 860
   mail: freitas.zuzana@gmail.com
   img: 
-tags:
-- práce
-- sociální věci
+tags: práce sociální-věci
 category: resort
 redmine:
 forum:

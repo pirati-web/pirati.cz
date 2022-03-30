@@ -4,20 +4,19 @@ cid: pardubice
 name: Pardubický kraj
 fullname: Krajské sdružení Pardubický kraj
 img: teams/pardubice.jpg
-leader: daniel.lebduska
+leader: jiri.duchacek
 deputy:
-- Filip Mezera
 - Andrea Linhartová
-- Martin Saifrt
-- Jiří Krátký
+- Vladek Vácha
+- Karsten Sachs
+- Jan Hrubeš 
 contact:
 - david.marhold
 region: Pardubický kraj
-url: https://www.pirati.cz/regiony/pardubicko/start
+url: https://pardubicky.pirati.cz
 categories:
 - regiony
-tags:
-- pardubicky-kraj
+tags: pardubicky-kraj
 facebook: https://www.facebook.com/pirati.pardubicko/
 redmine: https://redmine.pirati.cz/projects/pardubicky-kraj
 forum: https://forum.pirati.cz/pardubicky-kraj-f85/

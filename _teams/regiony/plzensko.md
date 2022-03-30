@@ -15,8 +15,7 @@ region: Plzeňský kraj
 customUrl: https://plzensko.pirati.cz
 categories:
 - regiony
-tags:
-- plzeňský-kraj
+tags: plzeňský-kraj
 facebook: https://www.facebook.com/plzenska.piratska.strana
 redmine: https://redmine.pirati.cz/projects/plzensky-kraj
 forum: https://forum.pirati.cz/plzensky-kraj-f89/

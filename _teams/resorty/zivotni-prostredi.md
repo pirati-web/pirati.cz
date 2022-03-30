@@ -11,8 +11,7 @@ contact-local:
   mob: +420 778 702 712
   mail: lukas.blazej@pirati.cz
   img: /assets/img/people/lukas-blazej.jpg
-tags:
-- životní-prostředí
+tags: životní-prostředí
 category: resort
 redmine: https://redmine.pirati.cz/projects/resort-zivotni-prostredi
 forum: https://forum.pirati.cz/viewforum.php?f=560

@@ -11,9 +11,7 @@ contact-local:
   mob:  +420 778 111 470
   mail: KolarDan@psp.cz
   img: 
-tags:
-- informatika
-- egov
+tags: informatika egov
 category: resort
 redmine:
 forum:

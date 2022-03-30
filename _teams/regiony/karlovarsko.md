@@ -16,8 +16,7 @@ region: Karlovarský kraj
 url: http://kvk.pirati.cz/
 categories:
 - regiony
-tags:
-- karlovarsky-kraj
+tags: karlovarsky-kraj
 facebook: https://www.facebook.com/pirati.karlovarsko/
 redmine: https://redmine.pirati.cz/projects/khk
 forum: https://forum.pirati.cz/karlovarsky-kraj-f79/

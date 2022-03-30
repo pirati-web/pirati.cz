@@ -10,9 +10,7 @@ contact-local:
   name: Veronika Murzynová
   mail: veronika.murzynova@pirati.cz
   img: /assets/img/people/veronika-murzynova.jpg
-tags:
-- doprava
-- logistika
+tags: doprava logistika
 category: resort
 redmine:
 forum: https://forum.pirati.cz/viewforum.php?f=550

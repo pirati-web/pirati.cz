@@ -11,8 +11,7 @@ contact-local:
   mob: 732 251 216
   mail: martin.hunady@pirati.cz
   img: 
-tags:
-- zemědělství
+tags: zemědělství
 category: resort
 redmine:
 forum:

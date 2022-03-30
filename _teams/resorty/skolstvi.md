@@ -11,8 +11,7 @@ contact-local:
   mob: 724 944 309
   mail: martin.ulovec@pirati.cz
   img: 
-tags:
-- skolstvi
+tags: školství
 category: resort
 redmine:
 forum:

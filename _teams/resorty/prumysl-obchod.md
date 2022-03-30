@@ -10,8 +10,7 @@ contact-local:
   mob:
   mail:
   img: 
-tags:
-- průmysl a obchod
+tags: obchod-a-průmysl 
 category: resort
 redmine:
 forum:

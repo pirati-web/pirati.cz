@@ -11,9 +11,7 @@ contact-local:
   mob: 737 027 376
   mail: daniel.galuszka@pirati.cz
   img: 
-tags:
-- vnitro
-- bezpečnost
+tags: vnitro bezpečnost
 category: resort
 redmine:
 forum:
