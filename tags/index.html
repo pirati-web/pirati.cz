@@ -10,9 +10,11 @@ layout: default
   {% for tag in site.tags %}
     {{ tag[0] }}
   {% endfor %}
+{% comment %}
 	{% for team in site.teams %}
 		{{ team.tags }}
 	{% endfor %}
+{% endcomment %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | uniq | sort %}
 
@@ -31,5 +33,3 @@ layout: default
 		</aside>
 	</div>
 </div>
-[{{ tags }}]<br>
-[{{ sortedtags }}]<br>
