@@ -16,7 +16,6 @@ region: Moravskoslezský kraj
 url: https://redmine.pirati.cz/projects/moravskoslezsky-kraj
 categories:
 - regiony
-tags: moravskoslezsky-kraj
 facebook: https://www.facebook.com/cpsmsk/
 redmine: https://redmine.pirati.cz/projects/moravskoslezsky-kraj
 forum: https://forum.pirati.cz/moravskoslezsky-kraj-f81/

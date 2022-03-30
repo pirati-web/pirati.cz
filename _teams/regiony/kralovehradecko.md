@@ -15,7 +15,6 @@ region: Královéhradecký kraj
 url: https://kralovehradecky.pirati.cz
 categories:
 - regiony
-tags: královéhradecký-kraj
 facebook: https://www.facebook.com/pirati.khk/
 redmine:
 forum: https://forum.pirati.cz/kralovehradecky-kraj-f86/

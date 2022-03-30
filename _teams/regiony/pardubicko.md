@@ -16,7 +16,6 @@ region: Pardubický kraj
 url: https://pardubicky.pirati.cz
 categories:
 - regiony
-tags: pardubicky-kraj
 facebook: https://www.facebook.com/pirati.pardubicko/
 redmine: https://redmine.pirati.cz/projects/pardubicky-kraj
 forum: https://forum.pirati.cz/pardubicky-kraj-f85/

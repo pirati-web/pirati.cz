@@ -14,7 +14,6 @@ region: Olomoucký kraj
 url: https://olomoucky.pirati.cz
 categories:
 - regiony
-tags: olomoucky-kraj
 facebook: https://www.facebook.com/piratiOlomoucko
 redmine: https://redmine.pirati.cz/projects/olk
 forum: https://forum.pirati.cz/olomoucky-kraj-f80/

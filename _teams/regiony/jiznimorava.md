@@ -16,7 +16,6 @@ region: Jihomoravský kraj
 url: https://www.pirati.cz/regiony/jiznimorava/start
 categories:
 - regiony
-tags: jihomoravsky-kraj
 facebook: https://www.facebook.com/CPS.JMK
 redmine: https://redmine.pirati.cz/projects/jmk
 forum: https://forum.pirati.cz/jihomoravsky-kraj-f83/

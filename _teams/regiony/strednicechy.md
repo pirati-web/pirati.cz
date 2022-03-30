@@ -16,7 +16,6 @@ region: Středočeský kraj
 url: https://strednicechy.pirati.cz
 categories:
 - regiony
-tags: střední-čechy
 facebook: https://www.facebook.com/pirati.stc
 twitter: https://twitter.com/pirati_sck
 redmine: https://redmine.pirati.cz/projects/stredni-cechy

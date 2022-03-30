@@ -16,7 +16,6 @@ region: Ústecký kraj
 url: https://ustecky.pirati.cz
 categories:
 - regiony
-tags: ústecký-kraj 
 facebook: https://www.facebook.com/pirati.ulk
 redmine: https://forum.pirati.cz/zajemci-o-clenstvi-ustecky-kraj-f448/
 forum: https://forum.pirati.cz/ustecky-kraj-f88/

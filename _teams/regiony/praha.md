@@ -15,7 +15,6 @@ region: Praha
 url: http://praha.pirati.cz
 categories:
 - regiony
-tags: praha
 facebook: https://www.facebook.com/CeskaPiratskaStranaPraha/
 redmine: https://redmine.pirati.cz/projects/kspraha/
 forum: https://forum.pirati.cz/praha-f78/

@@ -15,7 +15,6 @@ region: Kraj Vysočina
 url: http://vysocina.pirati.cz
 categories:
 - regiony
-tags: kraj-vysocina
 facebook: http://www.facebook.com/pirati.vysocina/
 redmine: https://redmine.pirati.cz/projects/kraj-vysocina
 forum: https://forum.pirati.cz/vysocina-f84/
