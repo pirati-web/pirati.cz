@@ -1,7 +1,7 @@
 ---
 date:         2022-03-30
 category:     blog
-tags:         vláda 
+tags:         práce-a-sociální-věci vláda bydlení dotace legislativa místní-rozvoj
 layout:       post
 title:        "Piráti na vládě podpořili navýšení životního minima, dál prosazují i nárůst rodičovské. Ministr Ivan Bartoš představil dotační program pro bydlení v obcích"
 image:        /assets/img/articles/2022/olga-03-2022.jpg
