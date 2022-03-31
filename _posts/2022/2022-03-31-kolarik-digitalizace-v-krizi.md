@@ -1,7 +1,7 @@
 ---
 date:         2022-03-31
 category:     blog
-tags:         bezpečnost
+tags:         bezpečnost digitalizace
 layout:       post
 title:        "Komentář Lukáše Koláříka: Pandemie i válka ukázaly, jak může digitalizace pomoci občanům a úřadům. Když chceme krizi řídit, musíme ji měřit"
 image:        /assets/img/articles/2022/kolis-03-2022.jpg
