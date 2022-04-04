@@ -1,7 +1,7 @@
 <aside class="o-section">
   <div class="o-section-inner o-section-inner--rightBlock">
-    {% if page.rbar contains 'youtube' %}
-      {% include right-bar/bar_youtube.html %}
+    {% if page.rbar contains 'video' %}
+      {% include right-bar/bar_video.html %}
     {% endif %}
     {% if page.rbar contains 'tw' %}
       {% include right-bar/bar_tw.html %}
@@ -49,9 +49,6 @@
     {% endif %}
     {% if page.rbar contains 'cal' %}
       {% include right-bar/bar_cal.html %}
-    {% endif %}
-    {% if page.rbar contains 'video' %}
-      {% include right-bar/bar_video.html %}
     {% endif %}
   </div>
 </aside>

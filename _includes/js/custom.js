@@ -323,28 +323,45 @@ $(function() {
   }
 });
 
+const PREFERRED_VIDEO_SOURCE = 'https://tv.pirati.cz/feeds/videos.xml?sort=-publishedAt';
+const FALLBACK_VIDEO_SOURCE = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
+
 /**
  * If we have a section with videos on the right bar, sets it source to the
  * latest video on our PeerTube using its JSON feed. If any exception occurs,
  * falls back to the YouTube channel.
  **/
 var setLatestPeerTubeVideo = async function() {
-  const preferredVideoSource = 'https://tv.pirati.cz/feeds/videos.json?sort=-publishedAt';
-  const fallbackVideoSource = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
-
   var peerTubeIframe = document.getElementById('peertube-iframe');
-
+  
   try {
     // No way to set a max length of 1, a bit of data is wasted getting
     // the 5 latest videos.
-    let response = await fetch(preferredVideoSource, {'method': 'GET'});
-    let feed = await response.json();
-
-    peerTubeIframe.src = feed['items'][0]['id'].replace('watch', 'embed');
+    let unparsedFeed = (
+      await fetch(PREFERRED_VIDEO_SOURCE, {'method': 'GET'}).
+      then(
+        response => {
+          if (!response.ok) {
+            throw new Error("Non-2xx odpověď od PeerTube serveru.");
+          }
+          
+          return response.text();
+        }
+      )
+    );
+    
+    // We have jQuery anyway
+    let parsedFeed = await $.parseXML(unparsedFeed);
+    
+    // First item, media:embed, url attribute. This is ugly, but works.
+    let videoURL = parsedFeed.all[14].children[10].attributes[0].nodeValue;
+    
+    peerTubeIframe.src = videoURL;
   } catch (e) {
-    peerTubeIframe.src = fallbackVideoSource;
+    peerTubeIframe.src = FALLBACK_VIDEO_SOURCE;
+    
     console.log('Chyba při načítání PeerTube videa: ' + e);
-
+    
     return;
   }
 }
