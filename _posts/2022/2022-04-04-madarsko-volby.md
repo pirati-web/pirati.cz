@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí lidská-práva
 layout:       post
 title:        "Reakce pirátských europoslanců na výsledky maďarských voleb"
-image:        /assets/img/articles/2022/markéta, marcel, mikuláš.jpg
+image:        /assets/img/articles/2022/europoslanci vážní.jpg
 author:       
 ---
 
