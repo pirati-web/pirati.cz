@@ -4,7 +4,7 @@ category:     blog
 tags:         zdravotnictví legislativa sněmovna
 layout:       post
 title:        "Sněmovna schválila očkování v lékárnách. Piráti ho navrhli už před rokem, Andrej Babiš ale zlepšení blokoval"
-image:        /assets/img/articles/2022/olga-04-2022.jpg
+image:        /assets/img/articles/2022/olca-04-2022.jpg
 author:       
 ---
 
