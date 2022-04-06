@@ -58,7 +58,7 @@ calendar: https://embeded.cal-dav.pp-eu.eu/marketa_google_calendar/index.html
 use_custom_calendar: 1 
 ---
 Parlamentní výbory:
-* Členka **INTA** Výbor pro mezinárodní obchod
+* **INTA** Výbor pro mezinárodní obchod - členka
 * **INGE** Zvláštní výbor pro zahraniční vměšování do všech demokratických procesů v Evropské unii, včetně dezinformací – členka (koordinátorka)
 * **AFET** Výbor pro zahraniční věci – náhradnice
 * **SEDE** Podvýbor pro bezpečnost a obranu – náhradnice
