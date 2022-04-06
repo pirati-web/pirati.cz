@@ -1,7 +1,7 @@
 ---
 date:         2022-04-06
 category:     blog
-tags:         korupce
+tags:         korupce zemědělství dotace
 layout:       post
 title:        "Dozorčí radu zemědělského fondu povede Jakub Michálek, zasadí se o průhledné a férové vyplácení dotací"
 image:        /assets/img/articles/2022/jakub-zemedelsky-fond.jpg
