@@ -16,6 +16,8 @@ Asijská velmoc se podle ní snaží zachovat výhodné ekonomické vztahy s Evr
 
 > „Ráda bych tu připomněla, že Čína je rovněž zemí, která má za to, že může šikanovat členské státy EU prostřednictvím mixu ekonomického a diplomatického nátlaku a sekundárních sankcí. Dávno předtím, než Putin rozbořil dlouho tradovanou pohádku jménem ‚obchodem ku změně‘, bylo pro Evropskou unii stále těžší spolupracovat s autoritářskými režimy, pro které je porušování lidských práv na denním pořádku,“ pokračovala Gregorová.
 
-> „Musíme dát čínským politickým plánovačům jasně najevo, že tato dvojí hra nebude fungovat. Náš proti-nátlakový ekonomický nástroj tak přichází právě včas,” řekla Gregorová a připomněla ekonomický nátlak Číny na Litvu a chystaný nástroj, který má podobným aktivitám v budoucnu zabránit. 
+> „Musíme dát čínským politickým plánovačům jasně najevo, že tato dvojí hra nebude fungovat. * [Náš proti-nátlakový ekonomický nástroj](https://gregorova.eu/novy-protinatlakovy-nastroj-ochrani-clenske-staty-a-posili-evropskou-diplomacii/) tak přichází právě včas,” řekla Gregorová a připomněla ekonomický nátlak Číny na Litvu a chystaný nástroj, který má podobným aktivitám v budoucnu zabránit. 
 
 > „Tento nástroj musí být jednak rychle použitelný, a jednak imunní vůči vetování jednotlivými členskými státy. Pokud bude takto efektivní, věřím, že pomůže Číně, aby se rozhodla, na které straně stojí,” dodala Gregorová, která se na přípravě nástroje podílí. 
+
+
