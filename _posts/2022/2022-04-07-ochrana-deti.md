@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie zahraničí lidská-práva
 layout:       post
 title:        "Piráti volají po větší ochraně dětí a mladistvých prchajících z války na Ukrajině"
-image:        /assets/img/articles/2022/GSL35 (1).jpg
+image:        /assets/img/articles/2022/GSL35 edit.jpg
 author:       
 ---
 
