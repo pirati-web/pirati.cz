@@ -1,7 +1,7 @@
 ---
 date:         2022-04-07
 category:     blog
-tags:         místní rozvoj legislativa
+tags:         místní-rozvoj legislativa
 layout:       post
 title:        "Bartoš: Zrychlíme konečně stavební řízení. Bez novely by nastal kolaps"
 image:        /assets/img/articles/2022/ivan-stavebák-2022.jpg
