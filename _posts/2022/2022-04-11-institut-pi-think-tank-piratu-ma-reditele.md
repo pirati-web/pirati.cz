@@ -3,7 +3,7 @@ date:         2022-04-11
 category:     blog
 tags:         vzdělávání
 layout:       post
-title:        "Pirátský politický institut π má ředitele
+title:        "Pirátský politický institut π má ředitele"
 image:        /assets/img/articles/2022/petr-zamecnik.jpg
 author:       
 ---
