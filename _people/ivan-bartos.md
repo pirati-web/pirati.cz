@@ -25,7 +25,7 @@ profiles:
   twitter:		 https://twitter.com/pirativanbartos
   flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
 
-asistentka:
+asistenti:
    - name: Anna Urbanová
      mail: anna.urbanova@pirati.cz
 
