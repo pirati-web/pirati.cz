@@ -1,10 +1,10 @@
 ---
 date:         2022-04-14
 category:     blog
-tags:         místní-rozvo bydlení
+tags:         místní-rozvoj bydlení
 layout:       post
 title:        "Bartoš: Spouštíme program pro obce a kraje na rekonstrukce bytů a budov pro uprchlíky z Ukrajiny"
-image:        /assets/img/articles/2022/ivan-.jpg
+image:        /assets/img/articles/2022/ivan-byty-04-2022.jpg
 author:       
 ---
 
