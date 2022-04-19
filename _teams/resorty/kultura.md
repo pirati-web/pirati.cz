@@ -3,13 +3,9 @@ uid: kultura
 name: Kultura
 fullname: Tým pro kulturu
 img: teams/resorty/kultura.jpg # obrázek nemusíte dodávat
-leader: lenka.kozlova
+leader: ondrej.chrast
 deputy:
-- ondrej.polansky
-contact-local:
-  name: Štěpán Drtina
-  mail: stepan.drtina@pirati.cz
-  img: 
+contact-local: 
 tags: kultura
 category: resort
 redmine:
