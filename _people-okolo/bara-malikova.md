@@ -3,10 +3,10 @@ uid: bara.malikova
 name:     Bára Malíková  	# běžně používáné jméno
 fullname: MDDr. Bára Malíková  	# jméno s tituly etc.
 category:                	# kategorie: rp, praha, vary, hradec, jmk, senat
-- analytik
+- analytik# 
 img: people/bara-malikova.jpg    # 165 x 220
 description: Členka analytického týmu, analytik pro oblast zdravotnictví	# kratký popis, max 160 znaků
-direct-contact: true
+direct-contact: true# 
 mail:
 - bara.malikova@pirati.cz
 profiles:
