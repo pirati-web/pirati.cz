@@ -20,3 +20,4 @@ Celkově podle skupiny europoslanců hrozí, že Assangovo případné vydání 
 
 > „Pokud Assangova zjištění zveřejněná na WikiLeaks posloužila Putinově propagandě, bylo to jako vedlejší důsledek naplňování veřejného zájmu – i Donald Trump v Bílém domě byl Putinovým vítězstvím, avšak samotné Trumpovo vítězství bylo demokraticky legitimní. Assangovo vydání bude hrát Putinovi do karet bezesporu, ovšem tentokrát bez naplňování veřejného zájmu. Pokud někdo označoval Assange jako “užitečného idiota Kremlu”, dnes hrozí, že se takovými “užitečnými idioty Kremlu” stanou sama britská a americká administrativa,“ varují Piráti v Evropském parlamentu.
 
+* [Na celé znění dopisu se podívejte zde](https://www.pirati.cz/assets/pdf/Letter to Johnson.pdf)
