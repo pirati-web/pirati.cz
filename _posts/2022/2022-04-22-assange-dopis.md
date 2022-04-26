@@ -3,7 +3,7 @@ date:         2022-04-22
 category:     blog
 tags:         evropská-unie lidská-práva
 layout:       post
-title:        "Pirátská delegace v Evropském parlamentu žádá britského premiéra, aby nevydával Juliana Assange do USA"
+title:        "Pirátská delegace v europarlamentu žádá britského premiéra, aby nevydával Assange do USA"
 image:        /assets/img/articles/2022/u eu zdi
 author:       
 ---
