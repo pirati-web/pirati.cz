@@ -3,7 +3,7 @@ date:         2022-04-08
 category:     blog
 tags:         korupce dotace legislativa sněmovna
 layout:       post
-title:        "ANO zablokovalo přijetí zákona proti střetu zájmů. Piráti a celá koalice bojují za protikorupční návrh dál"
+title:        "ANO zablokovalo přijetí zákona proti střetu zájmů. Piráti bojují za protikorupční návrh dál"
 image:        /assets/img/articles/2022/jakub-TK-stret-zajmu.jpg
 author:       
 ---
