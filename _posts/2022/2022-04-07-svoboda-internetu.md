@@ -3,7 +3,7 @@ date:         2022-04-07
 category:     blog
 tags:         autorské-právo kultura legislativa
 layout:       post
-title:        "Piráti předloží ve Sněmovně návrhy hájící svobodu internetu. Bojují za autorské právo pro digitální dobu 21. století"
+title:        "Piráti ve Sněmovně hájí svobodu internetu a bojují za autorské právo pro 21. století"
 image:        /assets/img/articles/2022/kulatý-stůl-autorák.jpg
 author:       
 ---
