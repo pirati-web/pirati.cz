@@ -12,7 +12,7 @@ Praha, 26. dubna 2022 – Zajistíme, aby se konečně stavělo rychle, snadno a
 
 Na programu jednání Sněmovny jsou v tomto týdnu tři návrhy Ministerstva pro místní rozvoj. Do druhého čtení jde částečný odklad účinnosti stavebního zákona: „Chceme, aby se konečně stavělo rychle, snadno a bez ubíjející byrokracie. Což původní zákon ANO rozhodně nezaručoval, naopak. Proto ho opravujeme, kdy velký důraz klademe na digitalizaci včetně digitálního stavebního řízení. Rušíme celou novou soustavu státních stavebních úřadů v čele s Nejvyšším stavebním úřadem. Centralizace za mnoho miliard není řešením, naopak chceme zachovat v maximální možné míře úřady blízko lidem,” sdělil na tiskové konferenci ministr pro místní rozvoj Ivan Bartoš. 
 
-> Zůstane podle něj také princip ,Jeden úřad, jedno razítko´. *„Stavebník podá úplnou dokumentaci na stavební úřad a dál už by se neměl o nic starat. Zachováme rovněž Specializovaný stavební úřad, který převezme velké stavby a tím je zásadně urychlí. Tady dokonce jednáme o rozšíření jeho působnosti,”* doplnil ministr.
+> Zůstane podle něj také princip ,Jeden úřad, jedno razítko´: *„Stavebník podá úplnou dokumentaci na stavební úřad a dál už by se neměl o nic starat. Zachováme rovněž Specializovaný stavební úřad, který převezme velké stavby a tím je zásadně urychlí. Tady dokonce jednáme o rozšíření jeho působnosti,”* doplnil ministr.
 
 Ivan Bartoš rovněž předkládá úpravu zákona o užívání bytů, díky které lidé dostanou přesné a jasné informace o spotřebě tepla a teplé vody. Účelem je poskytnout občanům lepší přehled v době energetické krize a zvyšujících se nákladů.
 
