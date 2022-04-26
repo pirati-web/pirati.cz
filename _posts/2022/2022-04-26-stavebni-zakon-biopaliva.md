@@ -3,7 +3,7 @@ date:         2022-04-26
 category:     blog
 tags:         místní-rozvoj bydlení legislativa sněmovna
 layout:       post
-title:        "Piráti opravují zpackaný stavební zákon a předkládají návrh na ekologičtější dopravu i přesnější rozúčtování tepla. Podpoří také stopku na biosložku v palivech"
+title:        "Piráti opravují zpackaný stavební zákon, podpoří také stopku na biosložku v palivech"
 image:        /assets/img/articles/2022/ivan-04.jpg
 author:       
 ---
