@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí bezpečnost
 layout:       post
 title:        "Ministr Lipavský na jednání s americkým protějškem Antonym Blinkenem potvrdil pokračování společné podpory Ukrajině"
-image:        /assets/img/articles/2022/jan-lipavsky00.jpg
+image:        /assets/img/articles/2022/lipo-blinken.jpg
 author:       
 ---
 
