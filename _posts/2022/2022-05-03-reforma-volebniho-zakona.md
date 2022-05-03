@@ -11,7 +11,7 @@ author:
 
 > „Reforma volebního zákona je zatím velkým zklamáním. Evropa potřebuje více politických myšlenek, ne méně. Bylo by mnohem přínosnější, kdyby se reforma důkladně věnovala spíše skutečně propracovanému systému celoevropských kandidátních listin, který by umožnil občanům volit i politiky napříč Evropou. Ovšem i v tomto reforma kulhá na obě nohy,” komentuje návrh europoslanec a kvestor Evropského parlamentu Marcel Kolaja.
 
-> „Údajné obavy z fragmentarizace parlamentu jsou liché, protože Evropský parlament funguje jinak než ty národní – nepotřebuje například stabilní většinu. Pokus prodat tento záměr jako součást transnacionálního balíčku by nás neměl zmást: zákon by se beztak dotkl jen Německa a Španělska. Je to primárně snaha velkých stran využít evropské právo k získání nedemokratické výhody, a naopak znevýhodnit menší subjekty,“ dodává europoslankyně Markéta Gregorová. 
+> „Údajné obavy z fragmentarizace parlamentu jsou liché, protože Evropský parlament funguje jinak než ty národní – nepotřebuje například stabilní většinu. Pokus prodat tento záměr jako součást transnacionálního balíčku by nás neměl zmást: zákon by se beztak dotkl jen těch největších zemí, jako je Německo nebo Francie. Je to primárně snaha velkých stran využít evropské právo k získání nedemokratické výhody, a naopak znevýhodnit menší subjekty,“ dodává europoslankyně Markéta Gregorová. 
 
 S Gregorovou souhlasí také europoslanec Mikuláš Peksa. 
 
