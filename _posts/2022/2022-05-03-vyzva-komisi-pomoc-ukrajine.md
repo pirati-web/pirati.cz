@@ -4,7 +4,7 @@ category:     blog
 tags:         místní-rozvoj evropská-unie legislativa
 layout:       post
 title:        "Bartoš: Odeslali jsme do Bruselu společný dopis ministrů 10 zemí nejvíce zasažených uprchlickou krizí s žádostí o pomoc"
-image:        /assets/img/articles/2022/ivan-mmr-04.jpg
+image:        /assets/img/articles/2022/ivan-04.jpg
 author:       
 ---
 
