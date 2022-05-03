@@ -7,7 +7,7 @@ title:        "Reforma volebního zákona je zklamání, komentují nová pravid
 image:        /assets/img/articles/2022/poslanci_studio.jpg
 author:       
 ---
-Štrasburk, 3. května 2022 - Pirátští europoslanci dnes odmítli minimální kvórum při volbách do Evropského parlamentu. Návrh nového systému počítá s povinným volebním prahem ve výši nejméně 3,5 % pro větší evropské státy s 60 a více mandáty. To podle Pirátů ale povede k likvidaci menších stran. Miliony hlasů evropských občanů tak podle nich propadnou a systém nahraje velkým etablovaným stranám.
+Štrasburk, 3. května 2022 - Pirátští europoslanci dnes odmítli minimální uzavírací klauzuli při volbách do Evropského parlamentu. Návrh nového systému počítá s povinným volebním prahem ve výši nejméně 3,5 % pro větší evropské státy s 60 a více mandáty. To podle Pirátů ale povede k likvidaci menších stran. Miliony hlasů evropských občanů tak podle nich propadnou a systém nahraje velkým etablovaným stranám.
 
 > „Reforma volebního zákona je zatím velkým zklamáním. Evropa potřebuje více politických myšlenek, ne méně. Bylo by mnohem přínosnější, kdyby se reforma důkladně věnovala spíše skutečně propracovanému systému celoevropských kandidátních listin, který by umožnil občanům volit i politiky napříč Evropou. Ovšem i v tomto reforma kulhá na obě nohy,” komentuje návrh europoslanec a kvestor Evropského parlamentu Marcel Kolaja.
 
