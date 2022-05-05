@@ -16,6 +16,7 @@ Piráti za dobu vlády v Praze přijali celou řadu opatření, která transpare
 
 Nejvyšší správní soud v rozsudku mimo to také potvrdil, že úřady, městské firmy a další veřejné instituce musí žádosti zastupitelů vyřizovat podle zákona o svobodném přístupu k informacím a právo zastupitelů na informace tudíž podléhá plné soudní ochraně.
 
+
 ## Pozadí kauzy
 Firma Pražská strojírna dodává výhybkové a kolejové systémy Dopravnímu podniku Prahy. Pan Hlína byl znám jako advokát s vazbou na Faltýnka, kterému se svého bývalého podřízeného podařilo umístit na post šéfa podniku. Hlína se podílel na zpracování auditu ohledně působení bývalého ředitele Říhy, který konstatoval nehospodárnosti. Hlínova firma se za působení ANO dostala na mnoho míst v oblasti dopravy a městské samosprávy, aniž by bylo možné zjistit, co vlastně pro město dělá a jak je to pro občany výhodné, což bylo kritizováno i zástupci ANO.
 
