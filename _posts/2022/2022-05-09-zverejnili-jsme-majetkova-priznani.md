@@ -20,6 +20,6 @@ Vstupní majetková přiznání za pirátské ministry naleznete zde:
 
 * **[Jan Lipavský](https://pirati.cz/assets/pdf/Oznameni_Jan_Lipavský.pdf)**
 
-* **[Michal Šalomoun](https://pirati.cz/assets/pdf/Oznameni_Michal Šalomoun.pdf)**
+* **[Michal Šalomoun](https://pirati.cz/assets/pdf/Oznameni_Michal_Šalomoun.pdf)**
 
 
