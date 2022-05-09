@@ -16,10 +16,10 @@ Praha, 9. května 2022 – Ministři mají povinnost podávat majetková přizn�
 
 Vstupní majetková přiznání za pirátské ministry naleznete zde:
 
-**[Ivan Bartoš](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/img/articles/2022/ozn%C3%A1men%C3%AD_Ivan_Barto%C5%A1.pdf)**
+**[Ivan Bartoš](https://pirati.cz/assets/pdf/oznámení_Ivan_Bartoš.pdf)**
 
-**[Jan Lipavský](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/img/articles/2022/Oznameni_Jan_Lipavsk%C3%BD.pdf)**
+**[Jan Lipavský](https://pirati.cz/assets/pdf/Oznameni_Jan_Lipavský.pdf)**
 
-**[Michal Šalomoun](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/img/articles/2022/Oznameni_Michal%20%C5%A0alomoun.pdf)**
+**[Michal Šalomoun](https://pirati.cz/assets/pdf/Oznameni_Michal Šalomoun.pdf)**
 
 
