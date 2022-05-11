@@ -4,7 +4,7 @@ category:     blog
 tags:         zahraničí bezpečnost
 layout:       post
 title:        "Česká republika je zvolena do Rady OSN pro lidská práva"
-image:        /assets/img/articles/2022/lipo-tk-05.jpg
+image:        /assets/img/articles/2022/lipo-tk-05.jpg 
 author:       
 ---
 
