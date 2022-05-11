@@ -1,7 +1,6 @@
 ---
 date:         2022-05-11
-category:     
-  - stanoviska
+category:     stanovisko
 tags:         zahraničí bezpečnost
 layout:       post
 title:        "Stanovisko ke konfliktu mezi Izraelem a Palestinou"
