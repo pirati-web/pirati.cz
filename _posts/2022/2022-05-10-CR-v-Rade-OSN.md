@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/lipo-tk-05.jpg
 author:       
 ---
 
-Praha, 10. května 2022 – Česká republika byla 10. května 2022 zvolena do Rady OSN pro lidská práva na místo uvolněné Ruskem v důsledku jeho agrese vůči Ukrajině. V hlasování ve Valném shromáždění OSN ČR získala 157 hlasů. Funkční období začíná dnem zvolení a trvá do konce roku 2023.
+Praha, 10. května 2022 – Česká republika byla dnes zvolena do Rady OSN pro lidská práva na místo uvolněné Ruskem v důsledku jeho agrese vůči Ukrajině. V hlasování ve Valném shromáždění OSN ČR získala 157 hlasů. Funkční období začíná dnem zvolení a trvá do konce roku 2023.
 
 > *„Podpora lidských práv a demokracie je prioritou mojí, Ministerstva zahraničních věcí, Pirátské strany i naší vlády. Jsem proto moc rád, že ČR byla zvolena do Rady OSN pro lidská práva, a děkuji členským státům OSN za projevenou důvěru,“* uvedl ministr zahraničních věcí Jan Lipavský.
 
