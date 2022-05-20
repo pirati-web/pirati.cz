@@ -4,7 +4,7 @@ category:     blog
 tags:         bezpečnost
 layout:       post
 title:        "MMR zveřejňuje metodiku, jak uplatňovat mezinárodní sankce proti Putinovu režimu v oblasti zakázek"
-image:        /assets/img/articles/2022/ian-bartos00.jpg
+image:        /assets/img/articles/2022/ivan-bartos00.jpg
 author:       
 ---
 
