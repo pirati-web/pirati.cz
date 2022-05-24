@@ -21,6 +21,7 @@ Právě časového presu se pokusilo ANO zneužít, když pohrozilo obstrukcemi 
 > *„Tohle je pro Piráty poslední kapka. Máme tady nejhorší obstrukce v dějinách země, kdy Babiš a Okamura zablokovali Parlament. A teď vidí občané jasně, jaké jsou za tím důvody. Nedovolíme mocným zneužívat své postavení k osobnímu prospěchu a na úkor českých občanů. Koaličním partnerům jsme již dříve zaslali návrhy na změny jednacího řádu, aby Parlament řádně fungoval bez ohledu na to, kdo bude zrovna ve vládě či opozici a budeme chtít, aby se koalice k tomuto ohrožení demokracie jednoznačně postavila. Piráti budou iniciovat změnu jednacího řádu, aby si už žádná politická strana nemohla brát občany jako rukojmí,“* nastínil Michálek. 
 
 
+
 Hnutí ANO usilovalo konkrétně o vypuštění § 4 odst. 1 písm. b) z návrhu (právo na podíl na zisku, které dnes účinný zákon již zohledňuje): 
 
 § 4
