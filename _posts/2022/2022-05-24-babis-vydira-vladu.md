@@ -1,7 +1,7 @@
 ---
 date:         2022-05-24
 category:     blog
-tags:         korupce dotace kontrola-moci-a-mocných
+tags:         korupce sněmovna kontrola-moci-a-mocných
 layout:       post
 title:        "Babiš vydírá vládu, chce zablokovat 180 miliard pro občany, pokud nezmění zákon v jeho prospěch. Piráti odmítli ustoupit"
 image:        /assets/img/articles/2022/michalek-05-2022.jpg
