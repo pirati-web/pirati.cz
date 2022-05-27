@@ -1,0 +1,657 @@
+---
+layout: page
+title: Volební program pro komunální volby 2022
+img: miscellaneous/volebni-rozcestnik.png
+rbar: ""
+---
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width" />
+
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.516e28b26a91.css">
+  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.fa8ed48cc4d0.css">
+  <style type="text/css">
+    sup {
+      white-space: nowrap;
+    }
+    .head-alt-highlighted {
+      line-height: 1.2 !important;
+    }
+    .floating-nav-wrapper--government .floating-nav-panel {
+      top: 0;
+    }
+    .floating-nav-wrapper--government .floating-nav-panel .inner ul li a {
+      padding-top: 0.6rem;
+      padding-bottom: 0.6rem;
+    }
+    .accordeon-lists li {
+      list-style-type: square !important;
+      list-style-position: outside;
+      padding-left: 0.5em !important;
+      margin-left: 1.5em;
+    }
+    .text-white li::before {
+      color: white !important;
+    }
+    .text-black li::before {
+      color: black !important;
+    }
+    .navbar-menu__submenu {
+      line-height: 200%;
+    }
+    .content-block a:not(.contact-line):not(.content-block--nostyle) sup,
+    .content-block a:not(.contact-line):not(.content-block--nostyle)[id^=reference],
+    a sup,
+    a[id^=reference],
+    .text-fxactivecolor {
+      color: #6b7d09;
+    }
+    .accordeon-row--open a, .accordeon-row--open a sup {
+      color: #adc90e !important;
+    }
+  </style>
+
+  <style>
+    :root {
+      --layout-max-width: 1366px;
+      --layout-medium-width: 992px;
+      --snippet-height: 28rem;
+    }
+
+    .accordeon-row-head {
+      display: block;
+    }
+
+    input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
+      max-height: 2000px !important;
+    }
+
+    #young_voters .accordeon-row {
+      color: black;
+    }
+
+    #young_voters .accordeon-row-body {
+      background: black;
+      color: white;
+    }
+
+
+    #young_voters .accordeon-row:nth-of-type(2),
+    #young_voters .accordeon-row:nth-of-type(4),
+    #young_voters .accordeon-row:nth-of-type(6),
+    #young_voters .accordeon-row:nth-of-type(8),
+    #young_voters .accordeon-row:nth-of-type(10),
+    #young_voters .accordeon-row:nth-of-type(12) {
+      background: var(--color-grey);
+    }
+
+      /*background: var(--color-fxactivecolor);*/
+
+      /*background: #CFFF04;*/
+
+
+    /* ul.actions {
+      position: relative;
+      display: inline;
+      font-size: 0;
+      bottom: 4.2rem;
+      left: 31%;
+    }
+
+    ul.actions li {
+      display: inline-block;
+      float: left;
+      font-size: 1rem;
+      padding-left: 0;
+      border-left: 1px solid var(--color-grey-100);
+    }
+
+    ul.actions li:first-child {
+      border-left: none;
+    }
+
+    ul.actions li::before {
+      content: none;
+    }
+
+    .actions a {
+      display: inline-block;
+      text-align: center;
+      width: 2em;
+      height: 2em;
+      padding: 0.5em;
+      background: var(--color-white);
+      text-decoration: none !important;
+    }
+
+    .actions :nth-child(1) a {
+      background: var(--color-yellow-100);
+    }
+
+    .actions :nth-child(2) a {
+      background: var(--color-lemon);
+    }
+
+    .actions :nth-child(3) a {
+      background: var(--color-fxactivecolor);
+    } */
+
+/*  hide 5th element   #young_voters .accordeon-row:nth-of-type(5) img {
+      max-width: 153px;
+      max-height: 153px;
+    }
+
+    #young_voters .accordeon-row:nth-of-type(5) img[hidden] {
+      display: none;
+    }
+*/
+    #young_voters .video-player {
+      display: none;
+    }
+
+    @media (min-width: 992px) {
+
+      #young_voters .video-player {
+        display: block;
+      }
+
+      #young_voters .accordeon-row {
+        border-left: 8px solid black;
+        text-align: center;
+      }
+
+      #young_voters .accordeon-row img {
+        max-width: 70px;
+        max-height: 80px;
+        margin: auto;
+      }
+
+/* hide 5th     #young_voters .accordeon-row:nth-of-type(5) img {
+        position: absolute;
+        top: 0;
+        overflow: hidden;
+      }
+      #young_voters .accordeon-row:nth-of-type(5):hover img[hidden] {
+        display: block;
+      }
+*/
+
+      #young_voters .accordeon-row-heading {
+        display: none;
+        position: absolute;
+        font-size: x-large;
+        bottom: 0.5em;
+        left: 1em;
+        margin-right: 1em;
+        padding: 0.5em 0.1em;
+        width: 80%;
+        background: var(--color-lemon);
+      }
+
+      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading {
+        background: #FFFF00;
+      }
+
+      #young_voters .accordeon-row:nth-of-type(2) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(6) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading {
+        background: var(--color-fxactivecolor);
+      }
+
+      #young_voters :hover .accordeon-row-heading {
+        display: block;
+      }
+
+      #young_voters .accordeon-row-body {
+        background: transparent;
+      }
+
+      #young_voters .text-left {
+        padding-left: 1.5rem;
+        padding-right: 3.5rem;
+      }
+
+      #young_voters .ico--chevron-down {
+        display: none;
+      }
+
+      .accordeon-row-body {
+        transition: none;
+      }
+
+      .accordeon-row-body .content-block {
+        padding: 8px;
+      }
+
+      .container--default {
+        position: relative;
+      }
+
+      #young_voters {
+        font-size: 0;
+        max-width: calc(var(--layout-medium-width) / 2);
+        min-height: var(--snippet-height);
+      }
+
+      input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
+        position: absolute;
+        top: 2rem;
+        left: calc(2rem + var(--layout-medium-width) / 2);
+      }
+
+      #transport-result {
+        margin-top: 2rem;
+      }
+
+      #young_voters .accordeon-row {
+        display: inline-block;
+        overflow: hidden;
+        font-size: 1rem;
+        min-width: 49%;
+        max-width: 49%;
+        min-height: 9rem;
+        max-height: 49%;
+      }
+
+    }
+
+    @media (min-width: 1366px) {
+
+      #young_voters {
+        font-size: 0;
+        max-width: calc(var(--layout-max-width) / 2);
+        min-height: var(--snippet-height);
+        max-height: var(--snippet-height);
+      }
+
+      input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
+        position: absolute;
+        top: 2rem;
+        left: calc(2rem + var(--layout-max-width) / 2);
+        width: calc(var(--layout-max-width) / 2);
+      }
+
+      #young_voters .accordeon-row {
+        display: inline-block;
+        overflow: hidden;
+        font-size: 1rem;
+        min-width: 33.3%;
+        max-width: 33.3%;
+        min-height: 9rem;
+        max-height: 33.3%;
+      }
+
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="relative bg-white text-black !important">
+
+  <article class="relative w-auto">
+      <div class="bg-white text-white text-center md:row-span-2 md:col-span-1 order-2 my-4 content-block">
+        <h3 class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1">Odvaha dělat, co je správné</h3>
+    </div>
+  </article>
+
+
+  <article class="2xl:container w-auto container--default pt-8 pb-20">
+
+    <section id="young_voters" class="space-y-3 faq-accordeon">
+
+
+<input type="radio" name="voters-status" id="dostupne-bydleni" hidden>
+<div class="accordeon-row">
+  <label for="dostupne-bydleni" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/mistni-rozvoj.svg" alt="BYDLENÍ">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">BYDLENÍ</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">DOSTUPNÉ BYDLENÍ</h3>
+      <div class="content-block text-black"><p data-block-key="u0ysy">Jsme fanoušci sci-fi. V kině. Ne, když sháníme bydlení. Koupit si dnes byt v Česku je sága jak od Spielberga. Černá díra na peníze. Česko má dokonce druhou nejhorší dostupnost bydlení v Evropě. Takhle to dál nejde, vždyť každý potřebuje někde bydlet.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Víc bytů, nižší ceny.</b> Nejlepší cestou, jak srazit ceny nemovitostí, je vyrovnat nabídku s poptávkou. Proto chceme podstatně urychlit stavební řízení a odstranit co nejvíc překážek ve výstavbě.</li><li data-block-key="9kj92"><b>Obecní byty jsou součást řešení.</b> Dáme obcím víc nástrojů k budování vlastních bytových fondů. Ty využijí mladé rodiny i profese, které v obci chybí nebo lidé v nouzi.</li><li data-block-key="4841h"><b>Ať si obce regulují Airbnb.</b> Pokud budou obce smět regulovat krátkodobé ubytování, přestane se vyplácet kupovat byty jen jako průtokové noclehárny. Zbyde jich na trhu víc pro lidi, kteří potřebují opravdu bydlet.</li><li data-block-key="cdrjt"><b>Plnohodnotně žít jde i mimo velká města.</b> Jen je potřeba podpořit rozvoj digitalizace, dopravní infrastruktury a moderního průmyslu. To přesně máme v programu.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="doprava" hidden>
+<div class="accordeon-row">
+  <label for="doprava" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/doprava.svg" alt="DOPRAVA">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">DOPRAVA</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">DOPRAVA</h3>
+      <div class="content-block text-black"><p data-block-key="qc0wt">V domě nám hoří. Máme dál sedět na gauči a srkat frappé s tím, že zas tak vedro není? Ne. Klimatickou krizi už přiznávají i skeptici. A týká nás všech. Nejde jen o oteplování, ale i o polétavý prach, který dusí města, o kvalitu naší vody a půdy a extrémní výkyvy počasí, o sucha a povodně. Bereme to vážně a máme vůli s tím něco udělat. Od výsadby stromů přes podporu malých farmářů až po přeměnu ekonomiky na bezemisní. S tím přijdou i nové příležitosti, lepší práce a vyšší mzdy.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1h4u4"><b>Nejsme fosilie.</b> Ukončíme spalování <b>uhlí nejpozději do roku 2033</b> a uhelným regionům modernizací vdechneme nový život.</li><li data-block-key="64gcn"><b>Pestrá krajina, víc života</b>. Fakt. Některé druhy od nás zmizely proto, že je zabily jednodruhové lány, špatná kvalita vody nebo úbytek půdy. Proto dává smysl podpora malých farem s malými poli a pestrou skladbou toho, co pěstují. Do krajiny patří remízky, tůňky a polní cesty. A ochrana současných chráněných území nesmí být jen na papíře.</li><li data-block-key="apcuj"><b>Vedro ve městech má řešení.</b> Pár stromů navíc, zelené střechy a vsakovací nádrže. A hned je ve městě o pár stupňů chladněji. Říká se tomu zeleno-modrá infrastruktura a my jí hodně fandíme.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="cestovni-ruch" hidden>
+<div class="accordeon-row">
+  <label for="cestovni-ruch" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/mezinarodni-vztahy.png" alt="CESTOVNÍ RUCH">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">CESTOVNÍ RUCH</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">CESTOVNÍ RUCH</h3>
+      <div class="content-block text-black"><p data-block-key="k93qk">Každá třetí žena se v Česku setká s násilím. A odhaduje se, že každá desátá zažije dokonce znásilnění. Nahlášeno je však pouze 5% případů a potrestán je jen pouhý zlomek násilníků. Tyhle zločiny jsou fakt odporné a česká společnost nad nimi musí přestat krčit rameny.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="9fuqh"><b>Ne je prostě ne.</b> Napravíme definici znásilnění, aby zohledňovalo dobrovolnost, a zasadíme se o revizi ukládání trestů za sexuálně motivované činy a jejich výši.</li><li data-block-key="bp4rf"><b>Nahlásit znásilnění ani následný soudní proces nesmí způsobit další trauma.</b> Podpoříme vzdělávání soudců, policie a zdravotníků, aby se zdokonalili v tom, jak s oběťmi důstojně pracovat.</li><li data-block-key="ap4fn"><b>Oběti potřebují zázemí.</b> Zvýšíme dostupnost azylových domů pro oběti domácího násilí, aby měly kam odejít, pokud je to třeba.</li><li data-block-key="asoqp"><b>Osvěta je prevence proti násilí.</b> Mladí se mají včas dozvědět o navazování vztahů a šetrné pomoci obětem násilí. Zajistíme proto kvalitní výchovu na školách.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="priroda" hidden>
+<div class="accordeon-row">
+  <label for="priroda" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/zivotni-prostredi.png" alt="PŘÍRODA">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">PŘÍRODA</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">PŘÍRODA</h3>
+      <div class="content-block text-black"><p data-block-key="k93qk">Každá třetí žena se v Česku setká s násilím. A odhaduje se, že každá desátá zažije dokonce znásilnění. Nahlášeno je však pouze 5% případů a potrestán je jen pouhý zlomek násilníků. Tyhle zločiny jsou fakt odporné a česká společnost nad nimi musí přestat krčit rameny.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="9fuqh"><b>Ne je prostě ne.</b> Napravíme definici znásilnění, aby zohledňovalo dobrovolnost, a zasadíme se o revizi ukládání trestů za sexuálně motivované činy a jejich výši.</li><li data-block-key="bp4rf"><b>Nahlásit znásilnění ani následný soudní proces nesmí způsobit další trauma.</b> Podpoříme vzdělávání soudců, policie a zdravotníků, aby se zdokonalili v tom, jak s oběťmi důstojně pracovat.</li><li data-block-key="ap4fn"><b>Oběti potřebují zázemí.</b> Zvýšíme dostupnost azylových domů pro oběti domácího násilí, aby měly kam odejít, pokud je to třeba.</li><li data-block-key="asoqp"><b>Osvěta je prevence proti násilí.</b> Mladí se mají včas dozvědět o navazování vztahů a šetrné pomoci obětem násilí. Zajistíme proto kvalitní výchovu na školách.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<!--      <input type="radio" name="voters-status" id="uvod" hidden checked>
+      <div class="accordeon-row">
+        <label for="uvod" class="accordeon-row-head">
+          <img src="https://www.piratiastarostove.cz/program/komunal2022/static/elections2021/images/heads.03f4ff57bc9e.png" alt="Není nám to ukradený">
+          <img src="https://www.piratiastarostove.cz/program/komunal2022/static/elections2021/images/heads-active.b7192e1c6e9a.png" alt="Půjdem k volbám" hidden>
+          <i class="ico--chevron-down"></i>
+        </label>
+        <div class="accordeon-row-body video-player">
+          <div class="content-block">
+
+              <iframe width="640" height="446" src="https://www.youtube-nocookie.com/embed/5m7LLZVTfzs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+          </div>
+          <div class="content-block"></div>
+        </div>
+      </div>
+-->
+
+
+<input type="radio" name="voters-status" id="odpady" hidden>
+<div class="accordeon-row">
+  <label for="odpady" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/finance.png" alt="ODPADY">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">ODPADY</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">ODPADY</h3>
+      <div class="content-block text-black"><p data-block-key="mbtvu">Všichni si zasloužíme stejná práva bez ohledu na sexuální orientaci. Registrované partnerství neposkytuje ani zdaleka stejná práva a povinnosti, jaká mají manželé. Možná vás to překvapí, ale trpí tím mnohem víc lidí, než ti dva, co se chtějí vzít. Například děti z duhových rodin tím přichází o právní jistoty.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="cre9l"><b>Stejná práva pro všechny.</b> Osoby stejného pohlaví se mohou brát ve 29 zemích světa. Proč by to nešlo v Česku?</li><li data-block-key="8ltia"><b>Rodina je základ státu.</b> Tak ať se stát chová ke všem rodinám stejně. Duhové rodiny mají stejné starosti jako ty tradiční. Nedává smysl, aby jim stát házel ještě další klacky pod nohy. Bez manželství přicházejí partneři například o právo na zastupování dítěte, dědictví, sirotčí a vdovské důchody či společné jmění manželů, které ulehčuje mnoho administrativních úkonů, například koupi bytu nebo získání parkovací karty.</li><li data-block-key="5peo4"><b>Ničí práva to neohrozí.</b> Práva nejsou hračky – abyste je někomu dali, nemusíte je brát jiným.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="otevrene-mesto" hidden>
+<div class="accordeon-row">
+  <label for="otevrene-mesto" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/vnitro.png" alt="OTEVŘENÉ MĚSTO">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">OTEVŘENÉ MĚSTO</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">OTEVŘENÉ MĚSTO</h3>
+      <div class="content-block text-black"><p data-block-key="gsdea">Potíže s psychikou za běžného stavu zažije každý pátý z nás. Během pandemie koronaviru dokonce potkaly každého třetího. Stát se přitom tváří, jako by se tu nic nedělo. Systematickou péči dlouhodobě zanedbává a hazarduje tak se zdravím i životy. Změňme to a podpořme kvalitní prevenci i odbornou péči.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1g2pg"><b>Nikoho v tom nenecháme.</b> Zasadíme se o dostupnost psychoterapie, kterou ukotvíme v zákoně. Zajistíme, aby pojišťovny posílily smluvní síť psychoterapeutů, což umožní vyhledat jejich služby těm, co to potřebují.</li><li data-block-key="6thg8"><b>Je potřeba o tom mluvit.</b> Skrze osvětové akce i vzdělávání podpoříme prevenci a zvyšování povědomí o duševním zdraví. Uděláme maximum pro to, aby jít k terapeutovi bylo stejně normální, jako jít do posilovny. Povědomí začneme budovat už na školách, které budou učit jak o duševní hygieně, tak o možnostech pomoci.</li><li data-block-key="20du0"><b>Syndrom vyhoření musí být téma.</b> Usnadníme nalézání souladu osobního a pracovního života. Kdekoli to půjde, tam podpoříme větší pracovní flexibilitu včetně systematického ukotvení home office.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="rodiny" hidden>
+<div class="accordeon-row">
+  <label for="rodiny" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/prace-a-socialni.png" alt="RODINY">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">RODINY</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">RODINY</h3>
+      <div class="content-block text-black"><p data-block-key="u0ysy">Jsme fanoušci sci-fi. V kině. Ne, když sháníme bydlení. Koupit si dnes byt v Česku je sága jak od Spielberga. Černá díra na peníze. Česko má dokonce druhou nejhorší dostupnost bydlení v Evropě. Takhle to dál nejde, vždyť každý potřebuje někde bydlet.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Víc bytů, nižší ceny.</b> Nejlepší cestou, jak srazit ceny nemovitostí, je vyrovnat nabídku s poptávkou. Proto chceme podstatně urychlit stavební řízení a odstranit co nejvíc překážek ve výstavbě.</li><li data-block-key="9kj92"><b>Obecní byty jsou součást řešení.</b> Dáme obcím víc nástrojů k budování vlastních bytových fondů. Ty využijí mladé rodiny i profese, které v obci chybí nebo lidé v nouzi.</li><li data-block-key="4841h"><b>Ať si obce regulují Airbnb.</b> Pokud budou obce smět regulovat krátkodobé ubytování, přestane se vyplácet kupovat byty jen jako průtokové noclehárny. Zbyde jich na trhu víc pro lidi, kteří potřebují opravdu bydlet.</li><li data-block-key="cdrjt"><b>Plnohodnotně žít jde i mimo velká města.</b> Jen je potřeba podpořit rozvoj digitalizace, dopravní infrastruktury a moderního průmyslu. To přesně máme v programu.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="zemedelstvi" hidden>
+<div class="accordeon-row">
+  <label for="zemedelstvi" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/zemedelstvi.png" alt="ZEMĚDĚLSTVÍ">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">ZEMĚDĚLSTVÍ</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">ZEMĚDĚLSTVÍ</h3>
+      <div class="content-block text-black"><p data-block-key="6djru"><a href="https://www.piratiastarostove.cz/strategicke-dokumenty/program-v-kostce/"><b>Chceme vrátit naší zemi budoucnost.</b></a></p><p data-block-key="47arb">Energie, odvaha, zkušenosti a odpovědnost koalice Pirátů a Starostů změní Česko v moderní, ohleduplný a fungující stát.</p><p data-block-key="ibti">Chceme stát, který myslí na lidi a slouží lidem, ne ekonomickým zájmům jednoho holdingu nebo hrstky oligarchů. Zemi, která lidem nechává co nejvíc svobody a člověka který se dostane do obtížné situace, nenechá na holičkách. Naše vláda bude transparentní, otevřená lidem a bez korupčních skandálů. Povedeme politiku založenou na dlouhodobé vizi, slušnosti a věcné diskuzi.</p><p data-block-key="7phgm">Kvalitní a dostupné vzdělání odpovídající potřebám 21. století je pro nás i naše děti zcela klíčové. Stejně tak krajina, ve které žijeme a která tu po nás zbyde pro další generace. Naše životní prostředí, půdu a vodu musíme chránit. Nezapomínáme i na zodpovědné řízení našeho státu, zbavíme stát dluhů, aby naše děti nemusely splácet naše dluhy.</p><p data-block-key="4svp4">Spojili jsme se pro budoucnost naší země. Máme na to energii i zkušenost.</p></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="kultura" hidden>
+<div class="accordeon-row">
+  <label for="kultura" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/kultura.png" alt="KULTURA">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">KULTURA</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">KULTURA</h3>
+      <div class="content-block text-black"><p data-block-key="2bdzu">K čemu nám jsou “ty internety”, když ještě pořád nemáme digitální stát? Komunikace s úřady je byrokratické peklo, které nás všechny stojí čas, peníze i nervy. Odmítáme trávit život ve frontách a vyplňovat stejné formuláře pořád dokola. Změníme to.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="ctjat"><b>Funkční digitální správa.</b> V Estonsku si založíte firmu na pár kliknutí. V Česku si ani nepožádáte o novou občanku. Státní správa může fungovat jako apka v mobilu. Doslova i obrazně. Když to jde jinde, proč by to nemohlo jít u nás?</li><li data-block-key="dhtuo"><b>Jednou a dost!</b> Když jsem jednou vyplnil svá data na obecním úřadě, proč si je nenasdílí i s finančákem</li><li data-block-key="247kg">Postaráme se, aby <b>osobní údaje našich občanů nebyly zneužívány</b> státem ani korporacemi.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="digitalizace" hidden>
+<div class="accordeon-row">
+  <label for="digitalizace" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/informatika.svg" alt="DIGITALIZACE">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">DIGITALIZACE</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">DIGITALIZACE</h3>
+      <div class="content-block text-black"><p data-block-key="u0ysy">Jsme fanoušci sci-fi. V kině. Ne, když sháníme bydlení. Koupit si dnes byt v Česku je sága jak od Spielberga. Černá díra na peníze. Česko má dokonce druhou nejhorší dostupnost bydlení v Evropě. Takhle to dál nejde, vždyť každý potřebuje někde bydlet.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Víc bytů, nižší ceny.</b> Nejlepší cestou, jak srazit ceny nemovitostí, je vyrovnat nabídku s poptávkou. Proto chceme podstatně urychlit stavební řízení a odstranit co nejvíc překážek ve výstavbě.</li><li data-block-key="9kj92"><b>Obecní byty jsou součást řešení.</b> Dáme obcím víc nástrojů k budování vlastních bytových fondů. Ty využijí mladé rodiny i profese, které v obci chybí nebo lidé v nouzi.</li><li data-block-key="4841h"><b>Ať si obce regulují Airbnb.</b> Pokud budou obce smět regulovat krátkodobé ubytování, přestane se vyplácet kupovat byty jen jako průtokové noclehárny. Zbyde jich na trhu víc pro lidi, kteří potřebují opravdu bydlet.</li><li data-block-key="cdrjt"><b>Plnohodnotně žít jde i mimo velká města.</b> Jen je potřeba podpořit rozvoj digitalizace, dopravní infrastruktury a moderního průmyslu. To přesně máme v programu.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="vzdelavani" hidden>
+<div class="accordeon-row">
+  <label for="vzdelavani" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/vzdelani.png" alt="VZDĚLÁVÁNÍ">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">VZDĚLÁVÁNÍ</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">VZDĚLÁVÁNÍ</h3>
+      <div class="content-block text-black"><p data-block-key="80kcq">Zastaraly osnovy, metodika hodnocení je zpátečnická, role učitelů slábne. Studenti biflují, aniž by viděli souvislosti. Není to vina lidí, ale systému. Systému minulého století, který nerozvíjí talent, nepodporuje individuální zájmy a hlavně neučí to, co bude příští generace potřebovat. Přitom jen na půdě moderního vzdělávání může růst moderní ekonomika.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="4877c"><b>Teorie není všechno.</b> Přivedeme do školství 20 tisíc odborníků z praxe, abychom výuku přiblížili reálnému světu. Zároveň tím zmírníme problém s nedostatkem učitelů.</li><li data-block-key="39atg"><b>Vzdělání má připravit na budoucnost.</b> Současný obsah výuky zastaral natolik, že v mnohém už neplní svůj účel. Žádáme jeho celkovou modernizaci.</li><li data-block-key="de0kl"><b>Pedagog musí mít prestiž.</b> Učitelé si zaslouží docenit jak finančně, tak i společensky. Jedině to přivede za katedry další kvalitní a motivované lidi.</li><li data-block-key="2qka1"><b>Nedopustíme zavedení školného</b> pro vysokoškoláky.</li><li data-block-key="e8op"><b>Učebnice zadarmo.</b> I tak zpřístupníme vzdělání všem bez rozdílu.</li><li data-block-key="1654s"><b>Zavírání škol ve velkém už se nesmí opakovat.</b> Jestli přijdou další vlny covidu, zachování výuky musí být priorita. Předložili jsme plán, jak předejít zavírání škol.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+
+<input type="radio" name="voters-status" id="smart-city" hidden>
+<div class="accordeon-row">
+  <label for="smart-city" class="accordeon-row-head">
+
+
+      <img src="/assets/img/program/mistni-rozvoj.svg" alt="SMART CITY">
+
+
+      <h3 class="accordeon-row-heading head-alt-xs">SMART CITY</h3>
+
+  </label>
+  <div class="accordeon-row-body text-left text-black">
+    <div class="content-block text-black">
+      <h3 class="head-alt-md pt-2">SMART CITY</h3>
+      <div class="content-block text-black"><p data-block-key="u0ysy">Jsme fanoušci sci-fi. V kině. Ne, když sháníme bydlení. Koupit si dnes byt v Česku je sága jak od Spielberga. Černá díra na peníze. Česko má dokonce druhou nejhorší dostupnost bydlení v Evropě. Takhle to dál nejde, vždyť každý potřebuje někde bydlet.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Víc bytů, nižší ceny.</b> Nejlepší cestou, jak srazit ceny nemovitostí, je vyrovnat nabídku s poptávkou. Proto chceme podstatně urychlit stavební řízení a odstranit co nejvíc překážek ve výstavbě.</li><li data-block-key="9kj92"><b>Obecní byty jsou součást řešení.</b> Dáme obcím víc nástrojů k budování vlastních bytových fondů. Ty využijí mladé rodiny i profese, které v obci chybí nebo lidé v nouzi.</li><li data-block-key="4841h"><b>Ať si obce regulují Airbnb.</b> Pokud budou obce smět regulovat krátkodobé ubytování, přestane se vyplácet kupovat byty jen jako průtokové noclehárny. Zbyde jich na trhu víc pro lidi, kteří potřebují opravdu bydlet.</li><li data-block-key="cdrjt"><b>Plnohodnotně žít jde i mimo velká města.</b> Jen je potřeba podpořit rozvoj digitalizace, dopravní infrastruktury a moderního průmyslu. To přesně máme v programu.</li></ul></div>
+
+    </div>
+    <div class="content-block"></div>
+  </div>
+</div>
+
+    </section>
+
+
+    <script type="module">
+        const STATUS_SELECTOR = '[name="voters-status"]';
+        const ROW_CLASS_NAME_SELECTOR = '.accordeon-row-body';
+        const SECOND_CONTENT_BLOCK_SELECTOR = '.content-block:last-child';
+        const TRANSPORT_RESULT_ID = 'transport-result';
+        const ROOT_ELEMENT_ID = 'young_voters';
+        const CHANGE_EVENT_NAME = 'change';
+        const MEDIA_SELECTOR = '(min-width: 992px)';
+
+        /** @type {MediaQueryList} */
+        const mediaQuery = window.matchMedia( MEDIA_SELECTOR );
+
+        if ( mediaQuery.matches )
+        {
+          /** @type {HTMLElement} */
+          const trensportResultElement = document.getElementById( TRANSPORT_RESULT_ID );
+
+          document.querySelectorAll( STATUS_SELECTOR ).forEach( function ( /** @type {HTMLInputElement} */ inputRadio ) {
+
+            /** @type {HTMLElement} */
+            const correspondingRow = inputRadio.nextElementSibling.querySelector( ROW_CLASS_NAME_SELECTOR );
+
+            /** @type {HTMLElement} */
+            const secondContentBlock = correspondingRow.querySelector( SECOND_CONTENT_BLOCK_SELECTOR );
+
+            inputRadio.addEventListener( CHANGE_EVENT_NAME, function ( /** @type {Event} */ event ) {
+
+              /** @type {Number} */
+              const height = event.target.nextElementSibling.querySelector( ROW_CLASS_NAME_SELECTOR ).offsetHeight;
+
+              window.location.hash = event.target.id;
+              document.getElementById( ROOT_ELEMENT_ID ).style.minHeight = height + 'px';
+            }, { capture: false, once: false, passive: true } );
+          } );
+        }
+
+        if ( window.location.hash )
+        {
+
+          /** @type {HTMLInputElement} */
+          const element = document.querySelector( window.location.hash );
+
+          if ( element )
+          {
+            element.checked = true;
+          }
+        }
+    </script>
+
+  </article>
+
+</div>
+
+
+  <script src="https://www.piratiastarostove.cz/static/shared/vendor/vue/vue.2.6.11.c107ca5cd927.js"></script>
+  <script src="https://www.piratiastarostove.cz/static/elections2021/js/main.bundle.c92effc75e31.js"></script>
+</body>
+</html>
+
