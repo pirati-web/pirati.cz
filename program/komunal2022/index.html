@@ -52,10 +52,12 @@ rbar: ""
     a sup,
     a[id^=reference],
     .text-fxactivecolor {
-      color: #6b7d09;
+      color: black;
+      /*color: #6b7d09;*/
     }
     .accordeon-row--open a, .accordeon-row--open a sup {
-      color: #adc90e !important;
+      color: red !important;
+      /*color: #adc90e !important;*/
     }
   </style>
 
@@ -75,11 +77,11 @@ rbar: ""
     }
 
     #young_voters .accordeon-row {
-      color: black;
+      color: white !important;
     }
 
     #young_voters .accordeon-row-body {
-      background: black;
+      background: white;
       color: white;
     }
 
@@ -89,9 +91,24 @@ rbar: ""
     #young_voters .accordeon-row:nth-of-type(6),
     #young_voters .accordeon-row:nth-of-type(8),
     #young_voters .accordeon-row:nth-of-type(10),
+    #young_voters .accordeon-row:nth-of-type(12), 
+    #young_voters .accordeon-row:nth-of-type(1),
+    #young_voters .accordeon-row:nth-of-type(3),
+    #young_voters .accordeon-row:nth-of-type(5),
+    #young_voters .accordeon-row:nth-of-type(7),
+    #young_voters .accordeon-row:nth-of-type(9),
+    #young_voters .accordeon-row:nth-of-type(11) {
+      background: var(--color-white);
+    }
+
+/*    #young_voters .accordeon-row:nth-of-type(2),
+    #young_voters .accordeon-row:nth-of-type(4),
+    #young_voters .accordeon-row:nth-of-type(6),
+    #young_voters .accordeon-row:nth-of-type(8),
+    #young_voters .accordeon-row:nth-of-type(10),
     #young_voters .accordeon-row:nth-of-type(12) {
       background: var(--color-grey);
-    }
+    } */
 
       /*background: var(--color-fxactivecolor);*/
 
@@ -164,13 +181,13 @@ rbar: ""
       }
 
       #young_voters .accordeon-row {
-        border-left: 8px solid black;
+        border-left: 4px solid white;
         text-align: center;
       }
 
       #young_voters .accordeon-row img {
         max-width: 70px;
-        max-height: 80px;
+        max-height: 70px;
         margin: auto;
       }
 
@@ -189,22 +206,27 @@ rbar: ""
         position: absolute;
         font-size: x-large;
         bottom: 0.5em;
-        left: 1em;
-        margin-right: 1em;
+        left: 0em;
+        margin-right: 0em;
         padding: 0.5em 0.1em;
         width: 80%;
-        background: var(--color-lemon);
+        background: var(--color-black);
       }
 
-      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading {
-        background: #FFFF00;
-      }
-
+      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(3) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(5) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(11) .accordeon-row-heading,
       #young_voters .accordeon-row:nth-of-type(2) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(4) .accordeon-row-heading,
       #young_voters .accordeon-row:nth-of-type(6) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading {
-        background: var(--color-fxactivecolor);
+      #young_voters .accordeon-row:nth-of-type(8) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(10) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(12) .accordeon-row-heading {
+        background: #f5f5f5;
+        /*background: var(--color-grey);*/
       }
 
       #young_voters :hover .accordeon-row-heading {
@@ -216,8 +238,8 @@ rbar: ""
       }
 
       #young_voters .text-left {
-        padding-left: 1.5rem;
-        padding-right: 3.5rem;
+        /*padding-left: 1rem;*/
+        padding-right: 1.5rem;
       }
 
       #young_voters .ico--chevron-down {
@@ -229,7 +251,7 @@ rbar: ""
       }
 
       .accordeon-row-body .content-block {
-        padding: 8px;
+        padding: 0px;
       }
 
       .container--default {
@@ -245,7 +267,7 @@ rbar: ""
       input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
         position: absolute;
         top: 2rem;
-        left: calc(2rem + var(--layout-medium-width) / 2);
+        left: calc(var(--layout-medium-width) / 2);
       }
 
       #transport-result {
@@ -266,6 +288,12 @@ rbar: ""
 
     @media (min-width: 1366px) {
 
+      .background_image{
+	  background-image: url("/assets/img/program/silueta.png");
+	  background-position: top;
+	  background-size: 100px 80px;
+      }
+
       #young_voters {
         font-size: 0;
         max-width: calc(var(--layout-max-width) / 2);
@@ -275,8 +303,8 @@ rbar: ""
 
       input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
         position: absolute;
-        top: 2rem;
-        left: calc(2rem + var(--layout-max-width) / 2);
+        top: 4rem;
+        left: calc(var(--layout-max-width) / 2);
         width: calc(var(--layout-max-width) / 2);
       }
 
@@ -299,15 +327,19 @@ rbar: ""
 <div class="relative bg-white text-black !important">
 
   <article class="relative w-auto">
-      <div class="bg-white text-white text-center md:row-span-2 md:col-span-1 order-2 my-4 content-block">
-        <h3 class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1">Odvaha dělat, co je správné</h3>
+      <div class="bg-auto text-white text-center md:row-span-2 md:col-span-1 order-2 my-4 content-block">
+	   <div class=" head-alt-md sm:head-alt-lg mb-1 pt-1 mb-1">
+		   <!--<div class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1">-->
+	      <img src="/assets/img/program/odvaha_delat_co_je_spravne.png" alt="ODVAHA DĚLAT, CO JE SPRÁVNÉ">
+	   </div>
+	      <!--<h3 class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1 bg-[url('/assets/img/program/odvaha_delat_co_je_spravne.png')]">Odvaha dělat, co je správné</h3>-->
     </div>
   </article>
 
 
-  <article class="2xl:container w-auto container--default pt-8 pb-20">
-
-    <section id="young_voters" class="space-y-3 faq-accordeon">
+  <article class="xl:container background_image"></article>
+  <article class="xl:container w-auto container--default pt-10 pb-20">
+    <section id="young_voters" class="space-y-1 faq-accordeon w-1/2">
 
 
 <input type="radio" name="voters-status" id="dostupne-bydleni" hidden>
@@ -323,8 +355,9 @@ rbar: ""
   </label>
   <div class="accordeon-row-body text-left text-black">
     <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">DOSTUPNÉ BYDLENÍ</h3>
-      <div class="content-block text-black"><p data-block-key="u0ysy">Jsme fanoušci sci-fi. V kině. Ne, když sháníme bydlení. Koupit si dnes byt v Česku je sága jak od Spielberga. Černá díra na peníze. Česko má dokonce druhou nejhorší dostupnost bydlení v Evropě. Takhle to dál nejde, vždyť každý potřebuje někde bydlet.</p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Víc bytů, nižší ceny.</b> Nejlepší cestou, jak srazit ceny nemovitostí, je vyrovnat nabídku s poptávkou. Proto chceme podstatně urychlit stavební řízení a odstranit co nejvíc překážek ve výstavbě.</li><li data-block-key="9kj92"><b>Obecní byty jsou součást řešení.</b> Dáme obcím víc nástrojů k budování vlastních bytových fondů. Ty využijí mladé rodiny i profese, které v obci chybí nebo lidé v nouzi.</li><li data-block-key="4841h"><b>Ať si obce regulují Airbnb.</b> Pokud budou obce smět regulovat krátkodobé ubytování, přestane se vyplácet kupovat byty jen jako průtokové noclehárny. Zbyde jich na trhu víc pro lidi, kteří potřebují opravdu bydlet.</li><li data-block-key="cdrjt"><b>Plnohodnotně žít jde i mimo velká města.</b> Jen je potřeba podpořit rozvoj digitalizace, dopravní infrastruktury a moderního průmyslu. To přesně máme v programu.</li></ul></div>
+      <h3 class="head-alt-md pt-2">DOSTUPNÉ A DŮSTOJNÉ BYDLENÍ PRO KVALITNÍ ŽIVOT</h3>
+      <div class="content-blocsk text-black"><p data-block-key="u0ysy"><i>Bydlení je jednou ze základních věcí pro každou obec nebo město. Nevnímáme bydlení jako zásluhu. Bydlet podle nás potřebuje každý a právě obecní bydlení může poskytovat zázemí pro všechny skupiny obyvatel od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až například po potřebná povolání. A bydlet nesmí znamenat zadlužit se.</i></p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Nerozprodáme byty!</b> Nebudeme privatizovat obecní bytové fondy. V odůvodněných situacích připustíme výjimky – prodej se bude řídit tržními cenami a připustíme nanejvýš mírnou slevu dle okolností. Vyvineme snahy o rozšiřování bytového fondu - ať už výstavbou nových bytů nebo nákupem nemovitostí z volného trhu, za účelem poskytování nájemního bydlení za rozumné ceny.</li><li data-block-key="9kj92"><b>Prosazujeme transparentní, férová a nediskriminační pravidla pro nakládání s obecním bytovým fondem.</b> Nakládat s ním budeme vždy hospodárně a tak, aby všechny informace k němu byly
+snadno dostupné kontaktním místům pro bydlení i široké veřejnosti.</li><li data-block-key="4841h"><b>Budeme pečovat o bytové fondy.</b> Obecní byty musí nabízet kvalitní bydlení, budeme dbát na jejich údržbu a obnovu. Prázdné obecní byty opravíme.</li><li data-block-key="cdrjt"><b>Budeme aktivně spolupracovat s ministerstvem pro místní rozvoj</b> na přípravě legislativy, která podpoří kompetence obcí v zajišťování nabídek bydlení, aby si obce mohly řešit svou bytovou situaci dle potřeb místních lidí.</li><li data-block-key="sdrja"><b>Podporujeme komunitní bydlení.</b> Vytvoříme podmínky, aby lidé ve městech a obcích mohli dle svých potřeb volit mezi bydlením v běžné domácnosti nebo komunitním bydlením s dostupnými službami.</ul></div>
 
     </div>
     <div class="content-block"></div>
