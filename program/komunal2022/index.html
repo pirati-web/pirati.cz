@@ -83,6 +83,8 @@ rbar: ""
     #young_voters .accordeon-row-body {
       background: white;
       color: white;
+      padding-left: 4rem;
+      padding-right: 0;
     }
 
 
@@ -91,7 +93,7 @@ rbar: ""
     #young_voters .accordeon-row:nth-of-type(6),
     #young_voters .accordeon-row:nth-of-type(8),
     #young_voters .accordeon-row:nth-of-type(10),
-    #young_voters .accordeon-row:nth-of-type(12), 
+    #young_voters .accordeon-row:nth-of-type(12),
     #young_voters .accordeon-row:nth-of-type(1),
     #young_voters .accordeon-row:nth-of-type(3),
     #young_voters .accordeon-row:nth-of-type(5),
@@ -206,18 +208,18 @@ rbar: ""
         position: absolute;
         font-size: x-large;
         bottom: 0.5em;
-        left: 0em;
+        left: 0.7em;
         margin-right: 0em;
         padding: 0.5em 0.1em;
         width: 80%;
         background: var(--color-black);
       }
 
-      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading, 
-      #young_voters .accordeon-row:nth-of-type(3) .accordeon-row-heading, 
-      #young_voters .accordeon-row:nth-of-type(5) .accordeon-row-heading, 
-      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading, 
-      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading, 
+      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(3) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(5) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading,
+      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading,
       #young_voters .accordeon-row:nth-of-type(11) .accordeon-row-heading,
       #young_voters .accordeon-row:nth-of-type(2) .accordeon-row-heading,
       #young_voters .accordeon-row:nth-of-type(4) .accordeon-row-heading,
@@ -239,7 +241,7 @@ rbar: ""
 
       #young_voters .text-left {
         /*padding-left: 1rem;*/
-        padding-right: 1.5rem;
+        /*padding-right: 1.5rem;*/
       }
 
       #young_voters .ico--chevron-down {
@@ -303,9 +305,6 @@ rbar: ""
 
       input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
         position: absolute;
-        top: 4rem;
-        left: calc(var(--layout-max-width) / 2);
-        width: calc(var(--layout-max-width) / 2);
       }
 
       #young_voters .accordeon-row {
@@ -318,6 +317,41 @@ rbar: ""
         max-height: 33.3%;
       }
 
+    }
+
+    @media (max-width: 992px) {
+
+      #young_voters {
+        width: 100%;
+      }
+
+      #young_voters input {
+        display: none;
+      }
+
+      #young_voters .accordeon-row {
+        display: block;
+        overflow: none;
+        width: 100%;
+        border: 0;
+      }
+
+      #young_voters .accordeon-row-head {
+        display: none;
+      }
+
+      #young_voters .accordeon-row-body {
+        display: block;
+        padding: 3rem 0 0 0;
+      }
+
+      #young_voters .accordeon-row-body>div {
+        padding: 0;
+      }
+
+      #young_voters .accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
+        max-height: none !important;
+      }
     }
   </style>
 </head>
@@ -356,7 +390,7 @@ rbar: ""
   <div class="accordeon-row-body text-left text-black">
     <div class="content-block text-black">
       <h3 class="head-alt-md pt-2">DOSTUPNÉ A DŮSTOJNÉ BYDLENÍ PRO KVALITNÍ ŽIVOT</h3>
-      <div class="content-blocsk text-black"><p data-block-key="u0ysy"><i>Bydlení je jednou ze základních věcí pro každou obec nebo město. Nevnímáme bydlení jako zásluhu. Bydlet podle nás potřebuje každý a právě obecní bydlení může poskytovat zázemí pro všechny skupiny obyvatel od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až například po potřebná povolání. A bydlet nesmí znamenat zadlužit se.</i></p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Nerozprodáme byty!</b> Nebudeme privatizovat obecní bytové fondy. V odůvodněných situacích připustíme výjimky – prodej se bude řídit tržními cenami a připustíme nanejvýš mírnou slevu dle okolností. Vyvineme snahy o rozšiřování bytového fondu - ať už výstavbou nových bytů nebo nákupem nemovitostí z volného trhu, za účelem poskytování nájemního bydlení za rozumné ceny.</li><li data-block-key="9kj92"><b>Prosazujeme transparentní, férová a nediskriminační pravidla pro nakládání s obecním bytovým fondem.</b> Nakládat s ním budeme vždy hospodárně a tak, aby všechny informace k němu byly
+      <div class="content-blocsk text-black"><p data-block-key="u0ysy"><i>Bydleníčko. Bydlení je jednou ze základních věcí pro každou obec nebo město. Nevnímáme bydlení jako zásluhu. Bydlet podle nás potřebuje každý a právě obecní bydlení může poskytovat zázemí pro všechny skupiny obyvatel od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až například po potřebná povolání. A bydlet nesmí znamenat zadlužit se.</i></p><ul class="unordered-list unordered-list-acidgreen-numbers"><li data-block-key="1vukt"><b>Nerozprodáme byty!</b> Nebudeme privatizovat obecní bytové fondy. V odůvodněných situacích připustíme výjimky – prodej se bude řídit tržními cenami a připustíme nanejvýš mírnou slevu dle okolností. Vyvineme snahy o rozšiřování bytového fondu - ať už výstavbou nových bytů nebo nákupem nemovitostí z volného trhu, za účelem poskytování nájemního bydlení za rozumné ceny.</li><li data-block-key="9kj92"><b>Prosazujeme transparentní, férová a nediskriminační pravidla pro nakládání s obecním bytovým fondem.</b> Nakládat s ním budeme vždy hospodárně a tak, aby všechny informace k němu byly
 snadno dostupné kontaktním místům pro bydlení i široké veřejnosti.</li><li data-block-key="4841h"><b>Budeme pečovat o bytové fondy.</b> Obecní byty musí nabízet kvalitní bydlení, budeme dbát na jejich údržbu a obnovu. Prázdné obecní byty opravíme.</li><li data-block-key="cdrjt"><b>Budeme aktivně spolupracovat s ministerstvem pro místní rozvoj</b> na přípravě legislativy, která podpoří kompetence obcí v zajišťování nabídek bydlení, aby si obce mohly řešit svou bytovou situaci dle potřeb místních lidí.</li><li data-block-key="sdrja"><b>Podporujeme komunitní bydlení.</b> Vytvoříme podmínky, aby lidé ve městech a obcích mohli dle svých potřeb volit mezi bydlením v běžné domácnosti nebo komunitním bydlením s dostupnými službami.</ul></div>
 
     </div>
