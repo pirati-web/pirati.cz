@@ -53,19 +53,16 @@ rbar: ""
     a[id^=reference],
     .text-fxactivecolor {
       color: black;
-      /*color: #6b7d09;*/
     }
     .accordeon-row--open a, .accordeon-row--open a sup {
       color: red !important;
-      /*color: #adc90e !important;*/
     }
-  </style>
 
-  <style>
     :root {
       --layout-max-width: 1366px;
       --layout-medium-width: 992px;
-      --snippet-height: 28rem;
+      --snippet-height: 40rem;
+      font-size: 14px;
     }
 
     .accordeon-row-head {
@@ -77,7 +74,7 @@ rbar: ""
     }
 
     #young_voters .accordeon-row {
-      color: white !important;
+      background: white;
     }
 
     #young_voters .accordeon-row-body {
@@ -97,92 +94,13 @@ rbar: ""
       font-weight: normal;
     }
 
-    #young_voters .accordeon-row:nth-of-type(2),
-    #young_voters .accordeon-row:nth-of-type(4),
-    #young_voters .accordeon-row:nth-of-type(6),
-    #young_voters .accordeon-row:nth-of-type(8),
-    #young_voters .accordeon-row:nth-of-type(10),
-    #young_voters .accordeon-row:nth-of-type(12),
-    #young_voters .accordeon-row:nth-of-type(1),
-    #young_voters .accordeon-row:nth-of-type(3),
-    #young_voters .accordeon-row:nth-of-type(5),
-    #young_voters .accordeon-row:nth-of-type(7),
-    #young_voters .accordeon-row:nth-of-type(9),
-    #young_voters .accordeon-row:nth-of-type(11) {
-      background: var(--color-white);
-    }
-
-/*    #young_voters .accordeon-row:nth-of-type(2),
-    #young_voters .accordeon-row:nth-of-type(4),
-    #young_voters .accordeon-row:nth-of-type(6),
-    #young_voters .accordeon-row:nth-of-type(8),
-    #young_voters .accordeon-row:nth-of-type(10),
-    #young_voters .accordeon-row:nth-of-type(12) {
-      background: var(--color-grey);
-    } */
-
-      /*background: var(--color-fxactivecolor);*/
-
-      /*background: #CFFF04;*/
-
-
-    /* ul.actions {
-      position: relative;
-      display: inline;
-      font-size: 0;
-      bottom: 4.2rem;
-      left: 31%;
-    }
-
-    ul.actions li {
-      display: inline-block;
-      float: left;
-      font-size: 1rem;
-      padding-left: 0;
-      border-left: 1px solid var(--color-grey-100);
-    }
-
-    ul.actions li:first-child {
-      border-left: none;
-    }
-
-    ul.actions li::before {
-      content: none;
-    }
-
-    .actions a {
-      display: inline-block;
+    .download-link {
+      width: 50%;
       text-align: center;
-      width: 2em;
-      height: 2em;
-      padding: 0.5em;
-      background: var(--color-white);
-      text-decoration: none !important;
-    }
-
-    .actions :nth-child(1) a {
-      background: var(--color-yellow-100);
-    }
-
-    .actions :nth-child(2) a {
-      background: var(--color-lemon);
-    }
-
-    .actions :nth-child(3) a {
-      background: var(--color-fxactivecolor);
-    } */
-
-/*  hide 5th element   #young_voters .accordeon-row:nth-of-type(5) img {
-      max-width: 153px;
-      max-height: 153px;
-    }
-
-    #young_voters .accordeon-row:nth-of-type(5) img[hidden] {
-      display: none;
-    }
-*/
-    #young_voters .video-player {
-      display: none;
+      position: relative;
+      top: 42rem;
+      font-size: 120%;
+      z-index: 1;
     }
 
     @media (min-width: 992px) {
@@ -202,16 +120,6 @@ rbar: ""
         margin: auto;
       }
 
-/* hide 5th     #young_voters .accordeon-row:nth-of-type(5) img {
-        position: absolute;
-        top: 0;
-        overflow: hidden;
-      }
-      #young_voters .accordeon-row:nth-of-type(5):hover img[hidden] {
-        display: block;
-      }
-*/
-
       #young_voters .accordeon-row-heading {
         display: none;
         position: absolute;
@@ -221,36 +129,15 @@ rbar: ""
         margin-right: 0em;
         padding: 0.5em 0.1em;
         width: 80%;
-        background: var(--color-black);
-      }
-
-      #young_voters .accordeon-row:nth-of-type(1) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(3) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(5) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(7) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(9) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(11) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(2) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(4) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(6) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(8) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(10) .accordeon-row-heading,
-      #young_voters .accordeon-row:nth-of-type(12) .accordeon-row-heading {
-        background: #f5f5f5;
-        /*background: var(--color-grey);*/
       }
 
       #young_voters :hover .accordeon-row-heading {
         display: block;
+        background: #f5f5f5;
       }
 
       #young_voters .accordeon-row-body {
         background: transparent;
-      }
-
-      #young_voters .text-left {
-        /*padding-left: 1rem;*/
-        /*padding-right: 1.5rem;*/
       }
 
       #young_voters .ico--chevron-down {
@@ -362,10 +249,6 @@ rbar: ""
         max-height: none !important;
       }
     }
-
-    :root {
-      font-size: 14px;
-    }
   </style>
 </head>
 
@@ -383,6 +266,9 @@ rbar: ""
     </div>
   </article>
 
+  <div class="download-link">
+    <p><a href="/assets/pdf/PROGRAM_2022.pdf">Program ke stažení v PDF</a></p>
+  </div>
 
   <article class="xl:container background_image"></article>
   <article class="xl:container w-auto container--default pt-10 pb-20">
@@ -802,26 +688,6 @@ rbar: ""
     <div class="content-block"></div>
   </div>
 </div>
-
-
-<!--      <input type="radio" name="voters-status" id="uvod" hidden checked>
-      <div class="accordeon-row">
-        <label for="uvod" class="accordeon-row-head">
-          <img src="https://www.piratiastarostove.cz/program/komunal2022/static/elections2021/images/heads.03f4ff57bc9e.png" alt="Není nám to ukradený">
-          <img src="https://www.piratiastarostove.cz/program/komunal2022/static/elections2021/images/heads-active.b7192e1c6e9a.png" alt="Půjdem k volbám" hidden>
-          <i class="ico--chevron-down"></i>
-        </label>
-        <div class="accordeon-row-body video-player">
-          <div class="content-block">
-
-              <iframe width="640" height="446" src="https://www.youtube-nocookie.com/embed/5m7LLZVTfzs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-          </div>
-          <div class="content-block"></div>
-        </div>
-      </div>
--->
 
     </section>
 
