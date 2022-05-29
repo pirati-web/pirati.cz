@@ -31,22 +31,22 @@ main:
       - link: /program/
         name: PSP 2021
         match: psp2021
+      - link: /program/komunal2022/
+        name: Komunál 2022
+        match: komunal2022
       - link: /program/kraje2020/
-        name: Kraje 2020    
+        name: Kraje 2020
       - link: /program/europarlament2019/
         name: Euro 2019
-      - link: /program/komunal2018/
-        name: Komunál 2018
-        match: komunal2018
       - link: https://www.pirati.cz/program/psp2017.html
         name: PSP 2017
-        match: psp2017		
+        match: psp2017
       - link: /program/strana.html
         name: Dlouhodobý
         match: dlouhodoby
       - link: /program/stanoviska/
         name: Stanoviska
-        match: stanoviska   
+        match: stanoviska
   - link: /o-nas/
     name: O nás
     match: o-nas, regiony
@@ -81,7 +81,7 @@ main:
     link: /europarlament/
     name: Piráti v europarlamentu
     match: europarlament/
-    submenu: 
+    submenu:
       - link: /europarlament/#aktuality
         name: Aktuality
       - link: /program/europarlament2019/
@@ -89,7 +89,7 @@ main:
       - link: /europarlament/hospodareni
         name: Hospodaření
 
-  - link: https://nalodeni.pirati.cz 
+  - link: https://nalodeni.pirati.cz
     name: Připoj se
     match: pripoj-se
   - link: /kontakt/
@@ -145,4 +145,4 @@ bottom:
         name: Senát - dary 2018
       - link: https://wiki.pirati.cz/fo/start
         name: Financování
-        title: Financování a hospodaření 
+        title: Financování a hospodaření
