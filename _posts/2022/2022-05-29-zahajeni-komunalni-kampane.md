@@ -46,7 +46,7 @@ Následně se představili pirátští kandidáti a kandidátky na primátory a 
 
 > Jan Hruška bude v Liberci usilovat o zásadní změny v oblasti bydlení a dopravy: *„Chceme kvalitní MHD a zkrocení dopravy. Liberec musí řešit i dostupnost bydlení, proto budeme podporovat výstavbu nových obecních bytů. Vytipujeme nevyužité městské pozemky a poskytneme je pro projekty spolkového bydlení. Jako budoucí otec, bych si osobně přál, aby se Liberec stal moderní a sebevědomou metropolí, ve které je radost žít a vychovávat děti.“*
 
-**Kompletní program naleznete [ZDE](pirati.cz/assets/pdf/PROGRAM_2022.pdf).**
+**Kompletní program naleznete [ZDE](https://www.pirati.cz/assets/pdf/PROGRAM_2022.pdf).**
 
 
 
