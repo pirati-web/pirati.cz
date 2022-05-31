@@ -1,7 +1,7 @@
 ---
 date:         2022-05-29
 category:     blog
-tags:         volby kampan
+tags:         volby kampaň
 layout:       post
 title:        "Odvaha dělat, co je správné: Piráti odstartovali kampaň do komunálních voleb, představili kandidáty i program"
 image:        /assets/img/articles/2022/komunal-zahajeni-2022.jpg
