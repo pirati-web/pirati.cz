@@ -16,6 +16,6 @@ raha, 31. května 2022 – Piráti na dnešní tiskové konferenci před schůz�
 
 > *„V ČR je výrazně podprůměrný odvod nákupní ceny ze surovin, které platí uhlobaroni za těžbu. Zatímco v Německu je těžba surovin zpoplatněna 10 % z tržní ceny, v Česku jde pouze o několik málo procent. Jde o obrovský nepoměr, těžební společnosti mají obrovské zisky. Náklady vyvolané válkou by měly být hrazeny přednostně ze zisku těchto společností, nikoliv na úkor spotřebitelů či zadlužováním,”* doplnil předseda poslaneckého klubu.
 
-Piráti budou dál bojovat za změnu zákona o střetu zájmů, aby zabránili koncentraci mediální, ekonomické a politické moci.
+Piráti budou také dál bojovat za změnu zákona o střetu zájmů, aby zabránili koncentraci mediální, ekonomické a politické moci.
 
 > *„Je nepřijatelné, aby politici vlastnili velké mediální domy a zneužívali svá média v politické soutěži. Ať už jde o poslance Babiše v tomto volebním období, nebo kohokoliv jiného v budoucnu. My podporujeme svobodnou soutěž politických stran za férových podmínek. ANO změnu zákona o střetu zájmů obstruuje, ale my samozřejmě hledáme cesty, jak schvalování urychlit. nedovolíme deformaci demokracie,”* uvedl Michálek.
