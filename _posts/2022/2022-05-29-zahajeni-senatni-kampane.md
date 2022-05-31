@@ -1,7 +1,7 @@
 ---
 date:         2022-05-29
 category:     blog
-tags:         volby kampan senat
+tags:         volby kampaň senát
 layout:       post
 title:        "Piráti odstartovali kampaň do senátních voleb. Představili první sedmičku kandidátů a kandidátek i jejich priority"
 image:        /assets/img/articles/2022/zahajeni-kampane-senat-2022.jpg
