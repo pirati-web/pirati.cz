@@ -23,7 +23,7 @@ Piráti již v minulém období také upozorňovali na to, že stát dostatečn�
 
 **Dopisy premiérovi a ministerstvům naleznete níže:**
 
-[Dopis ministeru práce a sociálních věcí: Návrhy Pirátů na pomoc rodinám s drahými energiemi](https://www.pirati.cz/assets/pdf/Návrhy Pirátů na pomoc rodinám a domácnostem s drahými energiemi_MPSV.pdf)
+[Dopis ministru práce a sociálních věcí: Návrhy Pirátů na pomoc rodinám s drahými energiemi](https://www.pirati.cz/assets/pdf/Návrhy Pirátů na pomoc rodinám a domácnostem s drahými energiemi_MPSV.pdf)
 
 [Dopis premiéru Fialovi: Návrhy Pirátů na další pomoc českým domácnostem s drahými energiemi](https://www.pirati.cz/assets/pdf/Návrhy Pirátů na další pomoc českým domácnostem s drahými energiemi_UV.pdf)
 
