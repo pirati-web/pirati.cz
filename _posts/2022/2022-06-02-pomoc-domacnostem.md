@@ -21,6 +21,7 @@ Praha, 2. června 2022 – Piráti zaslali premiérovi a ministerstvům návrhy 
 Piráti již v minulém období také upozorňovali na to, že stát dostatečně nevyužívá možnosti zpoplatnění výnosů z těžby nerostných surovin. Finanční přínos z těžby a prodeje nerostného bohatství vůbec neodpovídá tomu, že nerosty patří státu a neodpovídá ani realitě v ostatních Evropských zemích, jak uvádí Kocmanová: „Právě z těchto důvodů navrhujeme zvýšit poplatky z těžby na našem území na přiměřenou výši vůči výnosům, které navíc aktuálně rostou kvůli krizi způsobené válkou na Ukrajině. Tento příspěvek do státního rozpočtu bude použit na dodatečná opatření proti energetické krizi a příslušné programy z oblasti ochrany životního prostředí a zmírňování následků těžby. V Německu je těžba surovin zpoplatněna 10 % z jejich tržní ceny.“
 
 
+
 **Dopisy premiérovi a ministerstvům naleznete níže:**
 
 [Návrhy Pirátů na pomoc rodinám s drahými energiemi](https://www.pirati.cz/assets/pdf/Návrhy Pirátů na pomoc rodinám a domácnostem s drahými energiemi_MPSV.pdf)
