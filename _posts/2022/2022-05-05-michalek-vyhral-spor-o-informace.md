@@ -1,7 +1,7 @@
 ---
 date:         2022-05-05
 category:     blog
-tags:         transparence právo justice
+tags:         transparence právo-a-justice
 layout:       post
 title:        "Pražská strojírna musí vydat smlouvy s advokátem od Faltýnka, rozhodl soud"
 image:        /assets/img/articles/2022/jakub-michalek01.jpg
