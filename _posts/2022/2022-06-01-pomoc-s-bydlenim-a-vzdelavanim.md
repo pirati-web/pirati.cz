@@ -1,7 +1,7 @@
 ---
 date:         2022-06-01
 category:     blog
-tags:         bydlení místní-rozvoj vzdělání vláda
+tags:         bydlení místní-rozvoj vzdělávání vláda
 layout:       post
 title:        "Vláda schválila návrh ministra Bartoše, který umožní rychle postavit dočasné stavby pro bydlení a vzdělávání"
 image:        /assets/img/articles/2022/ivan-bartos-02-2022.jpg
