@@ -1,7 +1,7 @@
 ---
 date:         2022-05-31
 category:     blog
-tags:         energie sněmovna transparence
+tags:         energetika sněmovna transparence
 layout:       post
 title:        "Piráti navrhují pomoc rodinám ze zisků uhlobaronů"
 image:        /assets/img/articles/2022/jakub-michalek-03-2022.jpg
