@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/zahajeni-kampane-senat-2022.jpg
 author:       
 ---
 
-Praha, 29. května 2022 – Piráti dnes zahájili kampaň do podzimních senátních voleb. Během akce v Riegrových sadech představili sedmičku kandidátek a kandidátů na senátory a jejich hlavní priority. Mezi ně patří například ochrana právního demokratického státu, podpora chytrých ekonomických trendů, nezávislé a levné energetiky, kontrola politiků a poctivého hospodaření, důchodová reforma či ochrana životního prostředí i zdraví občanů.  Sedmičku známých kandidátů v blízké době doplní další, jakmile budou schválení celostátním fórem Pirátů. 
+Praha, 29. května 2022 – Piráti dnes zahájili kampaň do podzimních senátních voleb. Během akce v Riegrových sadech představili sedmičku kandidátek a kandidátů na senátory a jejich hlavní priority. Mezi ně patří například ochrana právního demokratického státu, podpora chytrých ekonomických trendů, nezávislé a levné energetiky, kontrola politiků a poctivého hospodaření, důchodová reforma či ochrana životního prostředí i zdraví občanů. Sedmičku známých kandidátů v blízké době doplní další, jakmile budou schválení příslušnými krajskými sdruženími. 
 
 > *„V Senátu máme nyní pirátské senátory Lukáše Wagenknechta, Adélu Šípovou a rovněž čtyři senátory zvolené s naší podporou. Věřím, že naší pirátskou posádku letos posílíme. Máme kvalitní kandidáty, kteří za sebou mají odpracovaný kus práce a jasné smysluplné vize pro další rozvoj naší země. Kteří mají odvahu dělat, co je správné. A takové lidi naše země opravdu potřebuje,“* uvedl předseda Pirátů Ivan Bartoš, který celou akci moderoval společně s 2. místopředsedkyní Pirátů Hanou Hajnovou.  
 
