@@ -2,7 +2,7 @@
 uid: adam.zabransky
 name:     Adam Zábranský  	# běžně používáné jméno
 fullname: Adam Zábranský  	# jméno s tituly etc.
-category: praha            	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
 - praha
 img: people/adam-zabransky.jpg   # 165 x 220
 description: Člen Rady hl. m. Prahy pro bydlení a transparentnost             	# kratký popis, max 160 znaků
