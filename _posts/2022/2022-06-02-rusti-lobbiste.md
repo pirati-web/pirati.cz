@@ -18,5 +18,4 @@ V Evropském parlamentu v současnosti prošel už šestý balíček sankcí pro
 
 S veřejnou výzvou přišla frakce Greens/EFA tento týden. Přeložena byla do všech jazyků a evropští občané měli tak možnost ji podpořit v online petici. Za necelý den ji podpořilo více než 2000 lidí. 
 
-Více informací:
-https://twitter.com/GreensEFA/status/1532304612891545600 
+* [Více informací:](https://twitter.com/GreensEFA/status/1532304612891545600 ))
