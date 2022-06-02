@@ -213,6 +213,7 @@ Subjekt údajů může uplatnit svoje práva u správce nejlépe v písemné for
 
 Z důvodu zamezení případných pochybností o totožnosti žadatele správce doporučuje, aby uplatnění práva subjektu údajů v písemné formě bylo opatřeno úředně ověřeným popisem a v elektronické formě e-mailem elektronickým podpisem s kvalifikovaným certifikátem.
 
+<a id="susenky">
 ## 18. Externí odkazy
 
 Tyto webové stránky mohou obsahovat odkazy na webové stránky partnerů správce, sociálních sítí, poskytovatelů reklamy nebo jiných třetích stran. Jestliže kliknete na tyto odkazy, mějte prosím na paměti, že správce není odpovědný za prodej zboží, poskytování služeb ani za ochranu osobních údajů na těchto stránkách. Správce doporučuje seznámit se se zásadami ochrany osobních údajů těchto stránek ještě před tím než jim poskytnete jakékoliv osobní údaje.
