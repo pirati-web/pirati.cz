@@ -8,8 +8,6 @@ image:        /assets/img/articles/2022/ivan-bartos02.jpg
 author:       
 ---
 
-
-
 Praha, 3. června 2022 – Minulá vláda po sobě nechala hromadu restů v oblasti boje proti korupci. Jedním z nich je chybějící ochrana oznamovatelů korupce nebo protiprávního jednání, tzv. whistleblowerů. To nyní napravuje ministerstvo spravedlnosti. Piráti k novému zákonu navrhují řadu zlepšení, aby se opravdu reálně posílila ochrana oznamovatelů i peněz daňových poplatníků. Tématu se intenzivně věnovali i v minulém volebním období, kdy připravili vlastní návrh zákona.
 
 *„Stát musí konečně začít chránit osoby, které upozorní na protiprávní nebo korupční jednání. Tito lidé pomáhají nejen šetřit miliardy korun daňových poplatníků, ale také napravují pokřivené a cinklé prostředí. Když se podíváme na jednu z nejznámějších kauz ROP Severozápad, na kterou upozornil úředník, tam byla škoda vyčíslena na 14 miliard korun. Dnes oznamovatelé často čelí výhrůžkám, nátlaku, šikaně, až nakonec přijdou o své zaměstnání. To musíme změnit,”* uvedl místopředseda vlády a předseda Pirátů Ivan Bartoš. 
