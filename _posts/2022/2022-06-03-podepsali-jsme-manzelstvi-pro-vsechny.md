@@ -1,7 +1,7 @@
 ---
 date:         2022-06-03
 category:     blog
-tags:         lidská-práva legislativa  
+tags:         lidská-práva legislativa sněmovna 
 layout:       post
 title:        "Piráti podepsali ve Sněmovně návrh na manželství pro všechny: Všichni mají mít stejné povinnosti i práva"
 image:        /assets/img/articles/2022/manzelstvi-pro-vsechny-2022.jpg
