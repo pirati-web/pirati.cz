@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie 
 layout:       post
 title:        "Klimatický balíček má snížit oteplování, ale také zbavit Evropu energetické závislosti"
-image:        /assets/img/articles/2022/mikuláš ep1.jpg
+image:        /assets/img/articles/2022/mikuláš ep2.jpg
 author:       
 ---
 
