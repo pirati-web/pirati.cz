@@ -47,7 +47,7 @@ Schůzky týmu
 
 Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.google.com/calendar/u/0/embed?src=0hc5kevgjdgvenr4tt7d34g7pc@group.calendar.google.com&ctz=Europe/Prague). Tým Spravedlnost se schází dle domluvy, zpravidla v úterý ve výborovém nebo poslaneckém týdnu.
 
-Tým Spravedlnost se zpravidla schází v zasedací místnosti poslaneckého klubu Pirátů (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Anna Urbanová a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewforum.php?f=960&sid=1d71bc740c5ce6b4283a957e6206b215).
+Tým Spravedlnost se zpravidla schází v zasedací místnosti poslaneckého klubu Pirátů (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Anna Urbanová a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=545&t=40882&start=30).
 
 
 Online komunikace
