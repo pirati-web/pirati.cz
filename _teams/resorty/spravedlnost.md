@@ -39,7 +39,7 @@ Jak se můžete zapojit?
 
 **Nabízíme šanci právníkům sáhnout si na nové zákony a něco se přitom naučit.**
 
-Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Anně Urbanové na tel. 775 146 577 nebo na anna.urbanova@pirati.cz. Rádi vás pozveme na naše setkání.
+Pokud souhlasíte s [Pirátským programem v oblasti spravedlnosti](/program/psp2017/spravedlnost/) a chcete nám pomoci, registrujte se prosím na [Nalodění](https://nalodeni.pirati.cz/jdu-do-toho/) a zaškrtněte, že máte zájem o justici, případně se ozvěte Anně Urbanové na tel. 775 146 577 nebo na **anna.urbanova@pirati.cz**. Rádi vás pozveme na naše setkání.
  
 
 Schůzky týmu
