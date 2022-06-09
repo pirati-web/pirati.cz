@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie 
 layout:       post
 title:        "Europoslanci chtějí reformovat Evropskou unii. Vyslovili se pro změnu zakládajících smluv"
-image:        /assets/img/articles/2022/GSL_4.jpg
+image:        /assets/img/articles/2022/SKAY2161.jpg
 author:       
 ---
 
