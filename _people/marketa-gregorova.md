@@ -57,12 +57,17 @@ profiles:
 calendar: https://embeded.cal-dav.pp-eu.eu/marketa_google_calendar/index.html
 use_custom_calendar: 1 
 ---
+Parlamentní výbory:
+* **INTA** Výbor pro mezinárodní obchod - členka
+* **INGE** Zvláštní výbor pro zahraniční vměšování do všech demokratických procesů v Evropské unii, včetně dezinformací – členka (koordinátorka)
+* **AFET** Výbor pro zahraniční věci – náhradnice
+* **SEDE** Podvýbor pro bezpečnost a obranu – náhradnice
+* **AFCO** Výbor pro ústavní záležitosti - náhradnice
 
-* Členka **INTA**  Výbor pro mezinárodní obchod  
-* Členka **DSCA**  Delegace v Parlamentním výboru pro partnerství EU-Arménie, ve Výboru pro parlamentní spolupráci EU-Ázerbájdžán a v Parlamentním výboru pro přidružení EU-Gruzie  
-* Náhradnice **AFET**  Výbor pro zahraniční věci  
-* Náhradnice **SEDE**  Podvýbor pro bezpečnost a obranu  
-* Náhradnice **DNAT**  Delegace pro vztahy s Parlamentním shromážděním NATO  
+Parlamentní delegace:
+* **DEPA** Delegace v Parlamentním shromáždění Euronest – Místopředsedkyně
+* **DSCA** Delegace v Parlamentním výboru pro partnerství EU-Arménie, ve Výboru pro parlamentní spolupráci EU-Ázerbájdžán a v Parlamentním výboru pro přidružení EU-Gruzie - členka
+
 
 Markéta Gregorová (*14. ledna 1993) je členkou Pirátů, europoslankyní, 1. místopředsedkyní krajského sdružení Pirátů v Jihomoravském kraji a předsedkyní Evropské pirátské strany. Pochází z Mostu, od září 2012 se vyskytovala především v Brně a nyní to střídá i s Bruselem a Štrasburkem.
 

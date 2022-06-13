@@ -3,7 +3,6 @@ uid: ladislav.kos
 name:     Ladislav Kos  	# běžně používáné jméno
 fullname: Ing. Ladislav Kos  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
 img: people/ladislav-kos.jpg # 165 x 220
 description: Senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou             	# kratký popis, max 160 znaků
 mail:

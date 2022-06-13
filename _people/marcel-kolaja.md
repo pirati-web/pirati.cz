@@ -65,12 +65,11 @@ profiles:
 * Náhradník  **D-IN**  Delegace pro vztahy s Indií  
 * Náhradník **AIDA** Zvláštní výbor pro umělou inteligenci v digitálním věku
 
-
-Marcel Kolaja se narodil 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií je jeho útočištěm Brno. Vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer.
+Marcel Kolaja se narodil 29. června 1980 a vyrůstal v Lanškrouně. Od vysokoškolských studií bylo jeho hlavním útočištěm Brno. V roce 2021 ho ale osud zavedl do Českého Brodu, kde pobývá, když je zrovna v Česku. Marcel vystudoval informatiku na Fakultě informatiky Masarykovy univerzity v Brně. V minulosti pracoval v oboru informačních technologií na různých pracovních pozicích, v době před zvolením do Evropského parlamentu jako produktový manažer. 
 
 Ve volném čase běhá, jezdí na kole či na motorce a vyráží na výlety se psím parťákem Freddiem. Je velkým milovníkem hor a přírody obecně.
 
-Členem Pirátské strany je od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu. Od téhož roku do roku 2022 působil jako místopředseda Evropského parlamentu. Aktuálně zde zastává pozici kvestora.
+Členem Pirátské strany je od roku 2010. V roce 2019 byl zvolen poslancem Evropského parlamentu, kde do roku 2022 působil také jako místopředseda Evropského parlamentu. Nyní v předsednictvu Parlamentu působí jako kvestor. Má tak na starosti administrativu a finanční záležitosti spojené s chodem instituce. 
 
 V Evropském parlamentu působí kromě předsednictva také ve výboru pro vnitřní trh a ochranu spotřebitelů (IMCO), ve výboru pro kulturu a vzdělávání (CULT) a ve zvláštním výboru pro umělou inteligenci v digitálním věku (AIDA). Dále pak v delegacích pro vztahy se Spojenými státy americkými (D-US) a s Indií (D-IN).
 

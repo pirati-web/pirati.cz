@@ -10,7 +10,7 @@ description: členka Republikového výboru Pirátů, exposlankyně PSP ČR     
 direct-contact: true
 mail:
 - dana.balcarova@pirati.cz
-mob:			  +420 770 113 649
+mob:			  +420 732 103 330
 asistenti:
 profiles:
   github:                 

@@ -3,13 +3,9 @@ uid: kultura
 name: Kultura
 fullname: Tým pro kulturu
 img: teams/resorty/kultura.jpg # obrázek nemusíte dodávat
-leader: lenka.kozlova
+leader: ondrej.chrast
 deputy:
-- ondrej.polansky
-contact-local:
-  name: Štěpán Drtina
-  mail: stepan.drtina@pirati.cz
-  img: 
+contact-local: 
 tags: kultura
 category: resort
 redmine:
@@ -50,6 +46,7 @@ Fungování týmu
 ----------------------
 Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Za shromažďování agendy na hlavní schůzky a jejich vedení je zodpovědná Lenka Kozlová.
 Členové základního týmu jsou:
+* **[Ondřej Chrást](https://lide.pirati.cz/profil/1774/)**, náměstek ministra kultury
 * **[Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/)**,  předchozí členka [Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu](http://www.psp.cz/sqw/hp.sqw?k=4500) a [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
 * **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)**, předchozí člen [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
 * **[Dominika Michailidu](https://www.pirati.cz/lide/dominika-michailidu/)** - kultura, živé umění
@@ -59,7 +56,6 @@ Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové tým
 * **[Vojtěch Ertl](https://wiki.pirati.cz/lide/vojtech_ertl)** - architektura
 * **[Štěpán Drtina](https://stredocesky.pirati.cz/lide/stepan-drtina/)** - asistent poslankyně Lenky Kozlové
 * **[Jaroslav Němec](https://www.pirati.cz/lide/jaroslav-nemec/)**
-* **[Ondřej Chrást](https://wiki.pirati.cz/lide/ondrej_chrast)**
 * **[Lucie Chocholová](https://kladno.pirati.cz/lide/lucie-chocholova/)**
 * **[Giuseppe Maiello](https://www.pirati.cz/lide/giuseppe-maiello/)**
 * **Kristyna Boháčová**
