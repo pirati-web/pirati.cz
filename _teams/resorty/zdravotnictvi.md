@@ -55,7 +55,7 @@ Tým se schází každý 3. čtvrtek v měsíci. Dále tým funguje ve formátu 
 
 Dále s RT Zdravotnictví úzce spolupracují:
 *Michal Bláha*, člen správní rady VZP za Piráty
-*Pavel Východský*, člen správní rady VZP za Piráty
+*Bára Malíková*, členka správní rady VZP za Piráty
 *Jan Novák*, člen dozorčí rady VZP za Piráty
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
