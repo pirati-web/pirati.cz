@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/olga-04-2022.jpg
 author:       
 ---
 
-Praha, 15. června 2022 – Pirátské místopředsedkyni Poslanecké sněmovny Olze Richterové se dnes, spolu s dalšími, podařilo ve zkráceném projednání prosadit zjednodušení čerpání příspěvku na bydlení a opatření pro dostupnější možnost zkrácených úvazků. Zkrácené úvazky se mohou dotýkat stovek tisíc lidí, zejména rodičů malých dětí či lidí ve vyšším věku, i dobrovolně pracujících seniorů. Piráti usilují také o vyšší podporu pro předškolní zařízení, která má užívání zkrácených úvazků usnadnit.
+Praha, 15. června 2022 – Pirátské místopředsedkyni Poslanecké sněmovny Olze Richterové se dnes, spolu s dalšími, podařilo v 1. čtení prosadit zjednodušení čerpání příspěvku na bydlení a opatření pro dostupnější možnost zkrácených úvazků. Zkrácené úvazky se mohou dotýkat stovek tisíc lidí, zejména rodičů malých dětí či lidí ve vyšším věku, i dobrovolně pracujících seniorů. Piráti usilují také o vyšší podporu pro předškolní zařízení, která má užívání zkrácených úvazků usnadnit.
 
 Po zkrácených úvazcích roste poptávka. Podle poslankyně Richterové, která se na oblast pomoci sociálně znevýhodněným skupinám specializuje, je však nutné přijmout celý komplex opatření, který zjednoduší pozici rodičů vracejících se na pracovní trh.
 
