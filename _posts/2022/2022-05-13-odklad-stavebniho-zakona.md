@@ -1,7 +1,7 @@
 ---
 date:         2022-05-13
 category:     blog
-tags:         místní-rozovj stavební-zákon legislativa
+tags:         místní-rozvoj stavební-zákon legislativa
 layout:       post
 title:        "Bartoš: Odklad části nového stavebního zákona dostal zelenou. Zabráníme chaosu a zachráníme 371 stavebních úřadů v obcích"
 image:        /assets/img/articles/2022/ivan-bartos02.jpg
