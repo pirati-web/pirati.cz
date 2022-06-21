@@ -1,5 +1,5 @@
 ---
-date:         2022-06-22
+date:         2022-06-21
 category:     blog
 tags:         korupce 
 layout:       post
