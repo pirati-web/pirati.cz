@@ -5,10 +5,10 @@ fullname: tým Spravedlnost
 img: teams/resorty/spravedlnost.jpg # obrázek nemusíte dodávat
 leader: jakub.michalek
 contact-local:
-  uid: martin.stancl
-  name: Martin Štancl
-  mob: 728 337 464
-  mail: martin.stancl@pirati.cz
+  uid: anna.urbanova
+  name: Anna Urbanová
+  mob: 775 146 577
+  mail: anna.urbanova@pirati.cz
   url:
   description:
   img:
