@@ -7,9 +7,9 @@ leader: ondrej.polansky
 deputy:
 - ondrej.polansky
 contact-local:
-  name: Veronika Murzynová
-  mail: veronika.murzynova@pirati.cz
-  img: /assets/img/people/veronika-murzynova.jpg
+  name: 
+  mail: 
+  img: 
 tags: doprava  logistika
 category: resort
 redmine:
@@ -54,8 +54,6 @@ Jak se můžete zapojit?
 Pokud souhlasíte s [pirátským programem v oblasti dopravy a logistiky](https://www.pirati.cz/program/psp2017/doprava/) a chcete nám pomoci, ozvěte se!
 Nabízíme zapojení expertům na různá dopravní odvětví, právníkům i nadšencům.
 
-Hlavní kontakt, tajemnice dopravního týmu: Veronika Murzynová, veronika.murzynova@pirati.cz
-
 Vedoucí týmu, koordinátor krajských týmů: Jan Lička, jan.licka@pirati.cz
 
 Garant programového bodu: David Witosz, david.witosz@pirati.cz
@@ -79,7 +77,7 @@ Každé úterý ve 20:00 se scházíme online na Skype, pro zapojení prosím ko
 * **Lubomír Fridrich** - bezmotorová doprava
 * **Václav Kříž** - bezmotorová doprava
 * **Jakub Horák** - letecká doprava
-* **Veronika Murzynová** - kosmické aktivity
+* **[Veronika Murzynová](https://lide.pirati.cz/profil/2449/)** - kosmické aktivity
 * **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)** - předchozí člen [Hospodářskému výboru](http://www.psp.cz/sqw/hp.sqw?k=3500) Poslanecké sněmovny, předchozí místopředseda [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520), předchozí člen [Podvýboru pro letectví a vesmírný program](http://www.psp.cz/sqw/hp.sqw?k=3529)
 * **[Lukáš Černohorský](https://www.pirati.cz/lide/lukas-cernohorsky/)** - předchozí člen [Podvýboru pro dopravu](http://www.psp.cz/sqw/hp.sqw?k=3520)
 Dále úzce spolupracujeme s týmem garanta pro životní prostředí:
