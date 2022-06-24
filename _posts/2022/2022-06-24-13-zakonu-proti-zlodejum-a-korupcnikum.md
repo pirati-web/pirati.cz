@@ -4,7 +4,7 @@ category:     blog
 tags:         korupce legislativa
 layout:       post
 title:        "Kladivo na korupčníky: Piráti představili třináct zákonů proti zlodějinám a úplatkům. Svolají mimořádnou schůzi"
-image:        /assets/img/articles/2021/chobotnice.jpg
+image:        /assets/img/articles/2022/chobotnice.jpg
 author:       
 ---
 
