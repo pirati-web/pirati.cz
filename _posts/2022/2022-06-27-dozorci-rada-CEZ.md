@@ -4,7 +4,7 @@ category:     blog
 tags:         energetika korupce
 layout:       post
 title:        "Pirátům vadí, že ministr Stanjura odmítl do dozorčí rady ČEZ protikorupční experty "
-image:        /assets/img/articles/2022/jakub-michalek01.jpg
+image:        /assets/img/articles/2022/jakub-biopaliva.jpg
 author:       
 ---
 
