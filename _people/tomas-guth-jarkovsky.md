@@ -10,6 +10,7 @@ mail:
 mob: +420 728113966
 profiles:
   facebook:
+  strana: https://lide.pirati.cz/profil/2876/
 ---
 
 Tomáš pochází z jihu Čech z města Borovany, ale od roku 2015 studuje, pracuje a primárně žije v Praze. 
