@@ -3,9 +3,9 @@ uid: doprava
 name: Doprava a logistika
 fullname: Tým pro dopravu a logistiku
 img: teams/resorty/doprava.jpg
-leader: ondrej.polansky
+leader: veronika.murzynova
 deputy:
-- ondrej.polansky
+- veronika.murzynova
 contact-local:
   name: 
   mail: 
