@@ -14,4 +14,4 @@ Do roku 2011 měli invalidní důchodci na cestování veřejnou dopravou stejn�
 
 > *„Slevy nově zahrnují i ty invalidní důchodce třetího stupně, kteří nejsou držiteli průkazu ZTP. Minulá vláda se vymlouvala na pravidla EU, ale v okolních zemích se řešení přesto našlo. Slevy se nově týkají dalších až devadesáti tisíc osob. Vyplácené invalidní důchody ve třetím stupni nejsou vysoké, osoby si nemohou příjmově pomoci ani plnoúvazkovou prací. S ohledem na inflaci se jejich výdaje rapidně zvyšují. Proto pokládám toto řešení za logické a sociálně citlivé,“* uvedla Richterová. Na řešení spolupracovala s ministrem dopravy a ministrem práce a sociálních věcí.
 
-Celou historii písemné interpelace O. Richterové na A. Babiše ve věci slev na jízdném pro invalidní důchodce naleznete [ZDE](https://www.psp.cz/sqw/historie.sqw?o=8&t=707).
+Kompletní historii písemné interpelace O. Richterové na A. Babiše ve věci slev na jízdném pro invalidní důchodce naleznete [ZDE](https://www.psp.cz/sqw/historie.sqw?o=8&t=707).
