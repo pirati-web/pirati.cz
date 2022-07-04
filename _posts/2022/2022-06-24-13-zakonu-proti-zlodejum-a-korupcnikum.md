@@ -30,7 +30,7 @@ Pirátská poslankyně Klára Kocmanová k tomu doplnila, že korupce podle kval
 
  
 
-Pirátský protikorupční balíček najdete na: **[/koneckorupce.cz/](https://koneckorupce.cz/)**. Obsahuje mimo jiné:
+Pirátský protikorupční balíček najdete na: **[www.koneckorupce.cz](https://koneckorupce.cz/)**. Obsahuje mimo jiné:
 
 
 1. Zákon o střetu zájmů
