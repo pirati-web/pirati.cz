@@ -5,752 +5,897 @@ img: miscellaneous/volebni-rozcestnik.png
 rbar: ""
 ---
 
-
-<!DOCTYPE html>
-<html>
-
-<head>
-  <!-- Meta -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width" />
-
-
-  <!-- Styles -->
-  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.516e28b26a91.css">
-  <link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.fa8ed48cc4d0.css">
-  <style type="text/css">
-    sup {
-      white-space: nowrap;
-    }
-    .head-alt-highlighted {
-      line-height: 1.2 !important;
-    }
-    .floating-nav-wrapper--government .floating-nav-panel {
-      top: 0;
-    }
-    .floating-nav-wrapper--government .floating-nav-panel .inner ul li a {
-      padding-top: 0.6rem;
-      padding-bottom: 0.6rem;
-    }
-    .accordeon-lists li {
-      list-style-type: square !important;
-      list-style-position: outside;
-      padding-left: 0.5em !important;
-      margin-left: 1.5em;
-    }
-    .text-white li::before {
-      color: white !important;
-    }
-    .text-black li::before {
-      color: black !important;
-    }
-    .navbar-menu__submenu {
-      line-height: 200%;
-    }
-    .content-block a:not(.contact-line):not(.content-block--nostyle) sup,
-    .content-block a:not(.contact-line):not(.content-block--nostyle)[id^=reference],
-    a sup,
-    a[id^=reference],
-    .text-fxactivecolor {
-      color: black;
-    }
-    .accordeon-row--open a, .accordeon-row--open a sup {
-      color: red !important;
-    }
-
-    :root {
-      --layout-max-width: 1366px;
-      --layout-medium-width: 992px;
-      --snippet-height: 40rem;
-      font-size: 14px;
-    }
-
-    .accordeon-row-head {
-      display: block;
-    }
-
-    input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
-      max-height: 2000px !important;
-    }
-
-    #young_voters .accordeon-row {
-      background: white;
-    }
-
-    #young_voters .accordeon-row-body {
-      background: white;
-      color: white;
-      padding-left: 4rem;
-      padding-right: 0;
-      font-size: 120%;
-    }
-
-    #young_voters .accordeon-row-body ul p b {
-      margin-top: 1rem;
-      display: block;
-    }
-
-    #young_voters .accordeon-row-body li {
-      font-weight: normal;
-    }
-
-    .download-link {
-      text-align: center;
-      font-size: 120%;
-    }
-
-    @media (min-width: 992px) {
-
-      .download-link {
-        width: 50%;
-        position: relative;
-        top: 42rem;
-        z-index: 1;
-      }
-
-      #young_voters .video-player {
-        display: block;
-      }
-
-      #young_voters .accordeon-row {
-        border-left: 4px solid white;
-        text-align: center;
-      }
-
-      #young_voters .accordeon-row img {
-        max-width: 70px;
-        max-height: 70px;
-        margin: auto;
-      }
-
-      #young_voters .accordeon-row-heading {
-        display: none;
-        position: absolute;
-        font-size: x-large;
-        bottom: 0.5em;
-        left: 0.7em;
-        margin-right: 0em;
-        padding: 0.5em 0.1em;
-        width: 80%;
-      }
-
-      #young_voters :hover .accordeon-row-heading {
-        display: block;
-        background: #f5f5f5;
-      }
-
-      #young_voters .accordeon-row-body {
-        background: transparent;
-      }
-
-      #young_voters .ico--chevron-down {
-        display: none;
-      }
-
-      .accordeon-row-body {
-        transition: none;
-      }
-
-      .accordeon-row-body .content-block {
-        padding: 0px;
-      }
-
-      .container--default {
-        position: relative;
-      }
-
-      #young_voters {
-        font-size: 0;
-        max-width: calc(var(--layout-medium-width) / 2);
-        min-height: var(--snippet-height);
-      }
-
-      input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
-        position: absolute;
-        top: 2rem;
-        left: calc(var(--layout-medium-width) / 2);
-      }
-
-      #transport-result {
-        margin-top: 2rem;
-      }
-
-      #young_voters .accordeon-row {
-        display: inline-block;
-        overflow: hidden;
-        font-size: 1rem;
-        min-width: 49%;
-        max-width: 49%;
-        min-height: 9rem;
-        max-height: 49%;
-      }
-
-    }
-
-    @media (min-width: 1366px) {
-
-      .background_image{
-	  background-image: url("/assets/img/program/silueta.png");
-	  background-position: top;
-	  background-size: 100px 80px;
-      }
-
-      #young_voters {
-        font-size: 0;
-        max-width: calc(var(--layout-max-width) / 2);
-        min-height: var(--snippet-height);
-        max-height: var(--snippet-height);
-      }
-
-      input:checked+.accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
-        position: absolute;
-      }
-
-      #young_voters .accordeon-row {
-        display: inline-block;
-        overflow: hidden;
-        font-size: 1rem;
-        min-width: 33.3%;
-        max-width: 33.3%;
-        min-height: 9rem;
-        max-height: 33.3%;
-      }
-
-    }
-
-    @media (max-width: 992px) {
-
-      #young_voters {
-        width: 100%;
-      }
-
-      #young_voters input {
-        display: none;
-      }
-
-      #young_voters .accordeon-row {
-        display: block;
-        overflow: none;
-        width: 100%;
-        border: 0;
-      }
-
-      #young_voters .accordeon-row-head {
-        display: none;
-      }
-
-      #young_voters .accordeon-row-body {
-        display: block;
-        padding: 3rem 0 0 0;
-      }
-
-      #young_voters .accordeon-row-body>div {
-        padding: 0;
-      }
-
-      #young_voters .accordeon-row:not(.accordeon-row--open):not(.accordeon-row--preview):not(.accordeon-row--fadeout) .accordeon-row-body {
-        max-height: none !important;
-      }
-    }
-  </style>
-</head>
-
-<body>
-
-<div class="relative bg-white text-black !important">
-
-  <article class="relative w-auto">
-      <div class="bg-auto text-white text-center md:row-span-2 md:col-span-1 order-2 my-4 content-block">
-	   <div class=" head-alt-md sm:head-alt-lg mb-1 pt-1 mb-1">
-		   <!--<div class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1">-->
-	      <img src="/assets/img/program/odvaha_delat_co_je_spravne.png" alt="ODVAHA DĚLAT, CO JE SPRÁVNÉ">
-	   </div>
-	      <!--<h3 class="bg-black head-alt-md sm:head-alt-lg pt-1 mb-1 bg-[url('/assets/img/program/odvaha_delat_co_je_spravne.png')]">Odvaha dělat, co je správné</h3>-->
-    </div>
-  </article>
-
-  <div class="download-link">
-    <p><a href="/assets/pdf/PROGRAM_2022.pdf">Program ke stažení v PDF</a></p>
-  </div>
-
-  <article class="xl:container background_image"></article>
-  <article class="xl:container w-auto container--default pt-10 pb-20">
-    <section id="young_voters" class="space-y-1 faq-accordeon w-1/2">
-
-
-<input type="radio" name="voters-status" id="dostupne-bydleni" hidden>
-<div class="accordeon-row">
-  <label for="dostupne-bydleni" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/bydleni.png" alt="BYDLENÍ">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">BYDLENÍ</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">DOSTUPNÉ A DŮSTOJNÉ BYDLENÍ PRO KVALITNÍ ŽIVOT</h3>
-      <div class="content-blocsk text-black"><p><i>Bydlení je jednou ze základních věcí pro každou obec nebo město. Nevnímáme bydlení jako zásluhu. Bydlet podle nás potřebuje každý a právě obecní bydlení může poskytovat zázemí pro všechny skupiny obyvatel od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až například po potřebná povolání. A bydlet nesmí znamenat zadlužit se.</i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li><b>Nerozprodáme byty!</b> Nebudeme privatizovat obecní bytové fondy. V odůvodněných situacích připustíme výjimky – prodej se bude řídit tržními cenami a připustíme nanejvýš mírnou slevu dle okolností. Vyvineme snahy o rozšiřování bytového fondu - ať už výstavbou nových bytů nebo nákupem nemovitostí z volného trhu, za účelem poskytování nájemního bydlení za rozumné ceny.</li>
-		      <li><b>Prosazujeme transparentní, férová a nediskriminační pravidla pro nakládání s obecním bytovým fondem.</b></li>
-		      <li><b>Budeme pečovat o bytové fondy.</b></li>
-		      <li><b>Budeme aktivně spolupracovat s ministerstvem pro místní rozvoj</b></li>
-		      <li><b>Podporujeme komunitní bydlení.</b> Vytvoříme podmínky, aby lidé ve městech a obcích mohli dle svých potřeb volit mezi bydlením v běžné domácnosti nebo komunitním bydlením s dostupnými službami.
-		      <li><b>V otázce dostupného a sociálního bydlení budeme spolupracovat s odborníky, terénními pracovníky a podpůrnými týmy.</b></li>
-		      <li><b>Zapojíme se do pravidelného mapování potřeb lidí v obci ohledně bydlení.</b>Na základě mapování budeme plánovat rozšiřování a správu bytového fondu podle reálných potřeb obyvatel obce.</li>
-		      <li><b>Posílíme vyjednávací pozici ve vztahu k developerům.</b></li>
-		      <li><b>Podpoříme férové nastavení místních poplatků.</b></li>
-		      <li><b>Zajistíme plné využití prostředků MMR na rekonstrukce pro sociální bydlení.</b></li>
-
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="otevrene-mesto" hidden>
-<div class="accordeon-row">
-  <label for="otevrene-mesto" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/otevrena-a-moderni-radnice.png" alt="OTEVŘENÁ RADNICE">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">OTEVŘENÁ RADNICE</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">OTEVŘENÁ A MODERNÍ RADNICE</h3>
-      <div class="content-block text-black">
-	      <p><b>JASNÉ INFORMACE</b></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Všechno jasně a přehledně. Neděláme z lidí detektivy.</b> </li>
-		      <p><b>VEŘEJNÝ ZÁJEM A TRANSPARENTNÍ ROZHODOVÁNÍ</b></p>
-		      <li>Občané uvidí všechno a budou pro obec partnery. Na zasedání zastupitelstva umožníme přístup každému občanovi a občance.</li>
-		      <p><b>PRŮHLEDNÉ HOSPODAŘENÍ S MAJETKEM</b></p><p><i>Vědět všechno včas!</i><p>
-		      <li>Zabráníme nevýhodným prodejům pozemků, o kterých se veřejnost dozví, až když už je pozdě.</li>
-		      <p><b>HOSPODÁRNÝ A TRANSPARENTNÍ ROZPOČET</b></p><p><i>Za co obec utrácí a proč? Rozpočty chceme přehledné, hospodárné, odůvodněné a informace o nich široce přístupné.</i></p>
-		      <li>Rozpočet vždy jasně a srozumitelně odůvodníme.</b> </li>
-		      <p><b>VEŘEJNÉ ZAKÁZKY</b></p><i>Transparentním řízením přilákáme více zájemců. Snížíme ceny a zvýšíme kvalitu.</i>
-		      <li>Celá zadávací dokumentace bude včas a s předstihem online (např. na proﬁlu zadavatele).</li>
-		      <li>Přímé zakázky bez soutěže budou nutnou výjimkou.</li>
-		      <li>Nebudeme zakázky programově zveřejňovat v období svátků a prázdnin, kdy se nikdo nedívá.</li>
-		      <li>Zadávací řízení u opakujících se zakázek budeme řešit v rámci příslušných odborů radnic.</li>
-		      <li>Budeme dbát na kvalitu projektové dokumentace.</li>
-		      <p><b>GRANTY A DOTACE </b></p>
-		      <li>Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců.</li>
-		      <li>Zveřejníme údaje o úspěšných žadatelích</li>
-		      <p><b>TRANSPARENTNÍ SPOLEČNOSTI</b></p>
-		      <li>Do řídících a kontrolních orgánů společností samospráv budeme nominovat zástupce města s potřebným mixem odbornosti.</li>
-		      <li>Pravidla uplatněná pro obce se budou vztahovat i na obcemi zřizované organizace, obecní příspěvkové organizace a obchodní organizace ovládané obcí.</li>
-		      <li>Pravidla pro nominace i odměňování osob v orgánech společností budou závazná.</li>
-		      <p><b>ÚZEMNÍ PLÁN</b></p>
-		      <li>Umožníme občanské společnosti ovlivňovat podobu svého okolí.</li>
-		      <p><b>MĚSTA BEZ BARIÉR</b></p>
-		      <li>Při plánování i úpravě veřejných prostranství a budov budeme klást důraz na bezbariérovost a snadnou mobilitu pro pěší.</li>
-		      <p><b>KVALITNÍ VEŘEJNÝ PROSTOR</b></p>
-		      <li>Zasadíme se nejen o to, aby byl čistý a bezpečný, ale také o jeho funkčnost a praktickou využitelnost pro všechny generace.</li>
-		      <p><b>ÚČAST NA ROZHODOVÁNÍ</b></p>
-		      <li>Podpoříme přímé zapojení občanů do rozhodování o prostředí, kde žijí. </li>
-		      <p><b>RADNIČNÍ MÉDIA </b></p>
-		      <li>Otevřeme radniční média.</li>
-		      <p><b>NEKALÉ JEDNÁNÍ A STŘET ZÁJMŮ</b></p>
-		      <li>Nepřipustíme střet zájmů a korupci zastupitelů a úředníků.</li>
-		      <p><b>SVOBODNÝ SOFTWARE A FORMÁTY</b></p>
-		      <li>Zajistíme přechod úřadů na svobodný software, kdekoliv je to možné.</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="priroda" hidden>
-<div class="accordeon-row">
-  <label for="priroda" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/ekologie.png" alt="PŘÍRODA">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">PŘÍRODA</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">PÉČE O ŽIVOTNÍ PROSTŘEDÍ ZAČÍNÁ TAM, KDE ŽIJEME</h3>
-      <div class="content-block text-black">
-	      <p><i>Každá generace má usilovat o předání společného okolí v co nejlepší podobě. Kvalita života společnosti je neoddělitelná od kvality prostoru, ve kterém se denně pohybujeme a od našeho životního prostředí.</i></p>
-	      <b>OBEC PŮJDE PŘÍKLADEM</b>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>O obecní pozemky budeme pečovat udržitelně.</li>
-		      <p><b>UDRŽITELNÉ VYUŽÍVÁNÍ PŮDY A LESŮ VE VLASTNICTVÍ OBCÍ</b></p>
-		      <li>Ve vlastnictví obcí je mnoho zemědělské a lesní půdy.</li>
-		      <p><b>PÉČE O ZELEŇ </b></p>
-		      <li>Je nezbytné zajistit, aby zeleň plnila svoji funkci. Péče se nesmí ani zanedbávat, ani přehánět.</li>
-		      <p><b>KOMUNITNÍ PĚSTITELSTVÍ</b></p>
-		      <li>Obce a města budou aktivní v nabízení možností komunitního pěstitelství a částečného samozásobitelství.</li>
-		      <li>Obce vytvoří předpoklady pro vznik, rozvoj a provozování zahrádkářské činnosti v rámci územního plánování.</li>
-		      <p><b>HÁJÍME ZÁJMY OBYVATEL</b></p>
-		      <li>Kvalita života místních obyvatel nesmí být ohrožena zájmy investorů.</li>
-		      <p><b>ČISTÁ, MODERNÍ A NEZÁVISLÁ ENERGETIKA</b></p>
-		      <li>Dobře promyslíme, jak může obec svou činností a rozhodnutími omezit emise skleníkových plynů a spotřebu energie.</li>
-		      <p><b>OBCE PŘIPRAVENÉ NA ZMĚNU KLIMATU </b></p>
-		      <li>Zlepšíme prostředí v obcích zvýšením podílu zeleně i vodních ploch a prvků.</li>
-		      <p><b>DŮRAZ NA KVALITU OVZDUŠÍ</b></p>
-		      <li>Výsadbou zeleně kolem komunikací, protihlukovými opatření, zvýšeným úklidem komunikací a chodníků i podporou změny lokálního vytápění snížíme množství polétavého prachu a dalších škodlivých emisí.</li>
-		      <p><b>KVALITNÍ VEŘEJNÉ STRAVOVÁNÍ</b></p>
-		      <li>Zvýšíme kvalitu veřejného stravování.</li>
-		      <p><b>VODA JE DŮLEŽITOU SOUČÁSTÍ NAŠICH ŽIVOTŮ</b></p>
-		      <li>Vodovody a kanalizace budou plnit svůj účel ve veřejném zájmu a bez zbytečné zátěže životního prostředí.</li>
-		      <p><b>VYUŽÍVÁNÍ OBNOVITELNÝCH ZDROJŮ</b></p>
-		      <li>V investičních projektech budeme hledat příležitosti k podpoře využití dřeva a dalších obnovitelných surovin (vč. stavebních materiálů z konopí).</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="verejnost" hidden>
-<div class="accordeon-row">
-  <label for="verejnost" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/aktivni-lidi.png" alt="AKTIVNÍ VEŘEJNOST">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">AKTIVNÍ VEŘEJNOST</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">AKTIVNÍ VEŘEJNOST</h3>
-      <div class="content-block text-black"><p><b>MÍSTNÍ REFERENDUM A OBČANSKÁ INICIATIVA</b></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <p><b>Na místní úrovni zvážíme podporu návrhů na vyhlášení referenda i v případě menšího počtu podpisů v petici, než jaký požaduje zákon. U hlasování o zásadních otázkách zvážíme podporu vyhlášení referenda zastupitelstvem, kde bude zpracován kvalitní oponentní posudek odpůrci.</b></p></li>
-	      <p><b>POZORNOST PETICÍM A STÍŽNOSTEM OBČANŮ</b></p>
-	      <li>Naši zástupci obce se budou zabývat peticemi a stížnostmi.</p></li>
-	      <p><b>ELEKTRONICKÝ SYSTÉM PRO ZPĚTNOU VAZBU A VEŘEJNOU DISKUSI </b></p>
-	      <li>Vedle běžného osobního setkání voliče se zastupitelem podporujeme i další formy komunikace a předávání zpětné vazby.</b></p></li>
-	      <p><b>PODPORA ČINNOSTI SPOLKŮ </b></p>
-	      <li>Spolky a iniciativy vytvářejí hodnoty, které nejsou v tržním prostředí plně ocenitelné penězi.</b></p></li>
-	      <p><b>PODPORA MÍSTNÍHO PODNIKÁNÍ</b></p>
-	      <li>Zlepšíme podmínky pro rozvoj podnikatelského prostředí v obcích tak, aby nebyla svévolně mařena aktivita místních občanů a firem.</li>
-	      </ul></div>
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="verejne" hidden>
-<div class="accordeon-row">
-  <label for="verejne" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/socialni-politika.png" alt="VEŘEJNÉ SLUŽBY">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">VEŘEJNÉ SLUŽBY</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">VEŘEJNÉ SLUŽBY SLOUŽÍ OBČANŮM</h3>
-      <div class="content-block text-black"><p><i>Poskytování kvalitních veřejných služeb a jejich dostupnost je hlavním cílem územní samosprávy. Námi navrhované otevřené hospodaření přinese úspory, které umožní dlouhodobě dotovat i prospěšné služby nevykazující zisk. </i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-	      <p><b>KVALITNÍ VEŘEJNÉ SLUŽBY </b></p>
-		      <li>Kvalitní veřejné služby pomáhají vytvářet dobré prostředí pro založení rodiny a výchovu dětí pro všechny bez rozdílu (dostupnost vzdělání, podpora jeslí, školek a dětských skupin, volnočasové aktivity atp.)</li>
-	      <p><b>ANI OBEC NESMÍ BÝT VELKÝ BRATR</b></p>
-		      <li>Stavíme se proti nadbytečnému sledování občanů v případech, kde to není opodstatněné. </li>
-               </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="socialni" hidden>
-<div class="accordeon-row">
-  <label for="socialni" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/socialni-politika.png" alt="SOCIÁLNÍ POLITIKA">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">SOCIÁLNÍ POLITIKA</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">SOCIÁLNÍ POLITIKA</h3>
-      <div class="content-block text-black">
-	      <p><b>SOCIÁLNÍ SLUŽBY, KTERÉ OPRAVDU ŘEŠÍ TĚŽKÉ ŽIVOTNÍ SITUACE</b></p>
-	      <p><i>Dostupnost vyvážené a pestré nabídky sociálních služeb je předpokladem pro zvládání náročných situací. Budeme proto podporovat:</i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Dostupnost terénních a ambulantních služeb sociální a zdravotní péče tak, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě.</li>
-		      <li>Zajištění kvalitní péče v pobytových zařízeních; zasadíme se o přechod z velkých ústavů ke komunitnímu formátu.</li>
-		      <li>Dostupnost a rozvoj sítě odlehčovacích služeb všech forem (terénních, ambulantních i pobytových)..</li>
-		      <li>Zajištění dostupného nájemního bydlení pro seniory a osoby se zdravotním znevýhodněním, kteří nebudou muset do ústavní péče.</li>
-	      <p><b>PODPORA RODIN</b></p>
-		      <li>Zajistíme systém kvalitních služeb péče o děti s dostatečnou kapacitou; veřejný systém mateřských škol a dětských skupin doplníme o další formy jako lesní školky apod.</li>
-		      <li>Budeme podporovat transformaci služeb pro ohrožené děti, posílíme kapacity sociálně aktivizačních služeb pro rodiny.</li>
-		      <li>Efektivně využijeme prostředky na prevenci rozpadu rodin; terapie, manželské, vztahové a výchovné poradenství, práce s agresory či s traumatizovanými dětmi se musí stát dostupnou službou.</li>
-	      <p><b>SOCIÁLNÍ VYLOUČENÍ</b></p>
-		      <li>Podpoříme vznik podpůrných týmů pro znevýhodněné rodiny a meziresortně propojíme školy a pracovníky sociálních služeb, zdravotnictví a neziskových organizací.</li>
-		      <li>Podpoříme vznik tréninkových pracovních míst u obcí, integračních sociálních podniků, rozšíření rekvalifikačních kurzů a pomoci se zprostředkováním zaměstnání. </li>
-		      <li>Podpoříme pravidelné supervize a možnosti seberozvoje pro učitele ve strukturálně vyloučených lokalitách.</li>
-		      <li>Nabídneme program pro koncepční zakládání nábytkových a zařizovacích bank.</li>
-
-	      <p><b>NÁVYKOVÉ CHOVÁNÍ</b></p>
-		      <li>Zatímco ostatní strany před problematikou rizikového návykového chování zavírají oči nebo nenabízejí reálná řešení, my budeme usilovat o systémový přístup adresující příčiny i již existující rizika.</li>
-		      <li>Podpoříme například vznik či zachování: kontaktních center, center substituční léčby, výměnných programů pro injekční uživatele, ambulantních adiktologických služeb, boxů na použité stříkačky, systémů bydlení s podporou, programů pro snazší návrat do společnosti.</li>
-		      <li>Prevence znamená menší náklady v budoucnu. Podpoříme ji tam, kde se to nejvíc vyplatí - ve školách</li>
-		      <li></li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="odpady" hidden>
-<div class="accordeon-row">
-  <label for="odpady" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/zdravotni-pece.png" alt="ZDRAVOTNÍ PÉČE">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">ZDRAVOTNÍ PÉČE</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">DOSTUPNÁ A KVALITNÍ ZDRAVOTNÍ PÉČE</h3>
-      <div class="content-block text-black"><p><i>Základem kvalitní zdravotní péče je její časová a dojezdová dostupnost. Budeme proto aktivně vyhledávat příležitosti, jak kvalitu i dostupnost zdravotní péče rozvíjet a udržovat.</i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers"><p/><b>DOSTUPNOST PÉČE</b></p>
-		      <li>Na mnoha místech ČR je problém s dostupností základní zdravotní péče. Zaměříme se na aktivní jednání se zdravotními pojišťovnami.</li>
-		      <p><b>KVALITA PÉČE</b></p>
-		      <li>Nejen dostatek nemocničních lůžek a míst v domovech pro seniory - kvalitní péče znamená individuální přístup.</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="doprava" hidden>
-<div class="accordeon-row">
-  <label for="doprava" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/dopravni-obsluznost.png" alt="DOPRAVA">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">DOPRAVA</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">LEPŠÍ DOPRAVNÍ OBSLUŽNOST</h3>
-      <div class="content-block text-black">
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Financování veřejné dopravy a výstavby dopravní infrastruktury musí být prioritou. Podporujeme koncept města krátkých vzdáleností, což si nicméně vyžádá mnoho úsilí.</li>
-		      <li>Veřejný prostor je společenský kompromis, který spočívá v zachování bezpečnosti všech účastníků provozu bez ohledu na rozměry jejich vozidla. Krizová místa stávajících silnic vyřešíme tak, aby silnice sloužily všem, tedy řidičům aut, pěším, cyklistům, rodičům s kočárky a dalším uživatelům.</li>
-		      <li>Chceme svobodnou volbu způsobu přepravy. Proto je potřeba, aby se s aktivní dopravou počítalo už při plánování dopravní sítě a staveb.</li>
-		      <li>Podporujeme kvalitní a moderní MHD.</li>
-		      <li>Prosazujeme propojování jednotlivých složek veřejné dopravy, tedy propojení dopravy autobusové, vlakové a městské hromadné.</b></ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="vzdelavani" hidden>
-<div class="accordeon-row">
-  <label for="vzdelavani" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/vzdelavani.png" alt="VZDĚLÁVÁNÍ">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">VZDĚLÁVÁNÍ</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">KVALITNÍ ŠKOLSTVÍ A VZDĚLÁVÁNÍ</h3>
-      <div class="content-block text-black">
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Zajistíme dostupnost škol a dostatek míst.</li>
-		      <li>Zvýšíme kvalitu škol a prosadíme výběr kvalitních ředitelů.</li>
-		      <li>Zlepšíme kvalitu výuky a podpoříme setkávání učitelů regionu společně se sdílením nástrojů a zkušeností.</li>
-		      <li>Budeme podporovat vzájemnou spolupráci učitelů, samospráv a občanů.</li>
-		      <li>Chceme zdravé klima ve školách. Na pohodovější atmosféru ve školách pro žáky, ale i učitele zajistíme potřebné prostředky.</li>
-		      <li>Půjdeme cestou digitalizace a snižování administrativy.</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="kultura" hidden>
-<div class="accordeon-row">
-  <label for="kultura" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/kultura.png" alt="KULTURA">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">KULTURA</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">ROZVOJ KULTURY</h3>
-      <div class="content-block text-black"><p><i>Uchování kulturních tradic a kulturního dědictví zásadně přispívá k poznání lokální historie, ale také určuje jedinečnou identitu regionů. Živou kulturu vnímáme jako důležitý prvek pro kvalitu života ve městech a obcích. Proto ji bereme jako trvalou a neopominutelnou součást veřejné podpory. Chceme udržet stávající kulturní infrastrukturu, nesmí být první obětí úsporných škrtů. Jako zásadní vnímáme přesahy kultury do dalších odvětví. Snahou měst a obcí by mělo být propojování se vzděláváním, cestovním ruchem, regionálním rozvojem i životním prostředím. Města a obce mají tři základní nástroje k podpoře kultury: finance, strategie a zřizované organizace.</i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Prosazujeme odpovídající a stabilní podporu kultury s využitím vícezdrojového financování.</li>
-		      <li>Koncepční činnost vnímáme jako zásadní prvek pro zmapování potřeb a kapacit regionů, měst a obcí.</li>
-		      <li>Budeme prosazovat modernizaci knihoven, aby zajistily každému přístup k informacím.</li>
-		      <li>Podobně budeme klást důraz na aktualizaci paměťových institucí a galerií, aby nadále mohly plnit svou důležitou funkci a vzbuzovaly v návštěvnících touhu po dalším poznání. </li>
-		      <li>Chceme podporovat komunitní projekty a vytvořit tak podmínky pro volnočasové aktivity.</li>
-		      <li>Budeme udržovat kulturní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich.</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="cestovni-ruch" hidden>
-<div class="accordeon-row">
-  <label for="cestovni-ruch" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/komunal2022/cestovni-ruch.png" alt="CESTOVNÍ RUCH">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">CESTOVNÍ RUCH</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">UDRŽITELNÝ CESTOVNÍ RUCH</h3>
-      <div class="content-block text-black"><p><i>Zaměříme se na to, aby byl turistický ruch opravdu přínosný jak pro turisty, tak i pro místní obyvatele a podnikatele. Naší prioritou je propojení cestovního ruchu, marketingu a služeb. Velkou příležitost vidíme v zakládání a rozvoji organizací destinačního managementu (DMO), které budou obcím poskytovat efektivní strukturu pro řízení cestovního ruchu.</i></p>
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Budeme budovat naučné stezky a cyklostezky, protože samotné památky bez vhodného přístupu k nim nestačí.</li>
-		      <li>Podporujeme digitalizaci cestovního ruchu.</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-
-<input type="radio" name="voters-status" id="sport" hidden>
-<div class="accordeon-row">
-  <label for="sport" class="accordeon-row-head">
-
-
-      <img src="/assets/img/program/informatika.svg" alt="SPORT">
-
-
-      <h3 class="accordeon-row-heading head-alt-xs">SPORT</h3>
-
-  </label>
-  <div class="accordeon-row-body text-left text-black">
-    <div class="content-block text-black">
-      <h3 class="head-alt-md pt-2">PODPORA SPORTU A ZDRAVÉHO ŽIVOTNÍHO STYLU</h3>
-      <div class="content-block text-black">
-	      <ul class="unordered-list unordered-list-acidgreen-numbers">
-		      <li>Podpoříme účelnou a udržitelnou rekonstrukci sportovišť v majetku obce i místních spolků.</li>
-		      <li>Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, stejně tak práce lokálních klubů a spolků.</li>
-		      <li>Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školách a školkách (například projekt trenéři do škol, se Sokolem do života, atp.)</li>
-	      </ul></div>
-
-    </div>
-    <div class="content-block"></div>
-  </div>
-</div>
-
-    </section>
-
-
-    <script type="module">
-        const STATUS_SELECTOR = '[name="voters-status"]';
-        const ROW_CLASS_NAME_SELECTOR = '.accordeon-row-body';
-        const SECOND_CONTENT_BLOCK_SELECTOR = '.content-block:last-child';
-        const TRANSPORT_RESULT_ID = 'transport-result';
-        const ROOT_ELEMENT_ID = 'young_voters';
-        const CHANGE_EVENT_NAME = 'change';
-        const MEDIA_SELECTOR = '(min-width: 992px)';
-
-        /** @type {MediaQueryList} */
-        const mediaQuery = window.matchMedia( MEDIA_SELECTOR );
-
-        if ( mediaQuery.matches )
-        {
-          /** @type {HTMLElement} */
-          const trensportResultElement = document.getElementById( TRANSPORT_RESULT_ID );
-
-          document.querySelectorAll( STATUS_SELECTOR ).forEach( function ( /** @type {HTMLInputElement} */ inputRadio ) {
-
-            /** @type {HTMLElement} */
-            const correspondingRow = inputRadio.nextElementSibling.querySelector( ROW_CLASS_NAME_SELECTOR );
-
-            /** @type {HTMLElement} */
-            const secondContentBlock = correspondingRow.querySelector( SECOND_CONTENT_BLOCK_SELECTOR );
-
-            inputRadio.addEventListener( CHANGE_EVENT_NAME, function ( /** @type {Event} */ event ) {
-
-              /** @type {Number} */
-              const height = event.target.nextElementSibling.querySelector( ROW_CLASS_NAME_SELECTOR ).offsetHeight;
-
-              window.location.hash = event.target.id;
-              document.getElementById( ROOT_ELEMENT_ID ).style.minHeight = height + 'px';
-            }, { capture: false, once: false, passive: true } );
-          } );
-        }
-
-        if ( window.location.hash )
-        {
-
-          /** @type {HTMLInputElement} */
-          const element = document.querySelector( window.location.hash );
-
-          if ( element )
-          {
-            element.checked = true;
-          }
-        }
-    </script>
-
-  </article>
-
-</div>
-
-
-  <script src="https://www.piratiastarostove.cz/static/shared/vendor/vue/vue.2.6.11.c107ca5cd927.js"></script>
-  <script src="https://www.piratiastarostove.cz/static/elections2021/js/main.bundle.c92effc75e31.js"></script>
-</body>
-</html>
-
+<link
+	rel="stylesheet"
+	href="./fonts/bebas-neue/style.css"
+>
+<link
+	rel="stylesheet"
+	href="./css/jquery.modal.css"
+>
+<link
+	rel="stylesheet"
+	href="./css/mast-share.css"
+>
+<link
+	rel="stylesheet"
+	href="./css/custom.css"
+>
+
+<script type="text/javascript" src="./js/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="./js/mast-share.js"></script>
+<script type="text/javascript" src="./js/js.cookie.min.js"></script>
+
+<section class="main-wrapper">
+	<div class="content-wrapper">
+		<section class="topic-wrapper">
+			<section class="topic topic-selected" id="bydleni">
+				<label>Bydlení</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/bydleni.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="otevrena-radnice">
+				<label>Otevřená radnice</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/otevrena-radnice.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="priroda">
+				<label>Příroda</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/priroda.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="aktivni-verejnost">
+				<label>Aktivní veřejnost</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/aktivni-verejnost.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="verejne-sluzby">
+				<label>Veřejné služby</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/verejne-sluzby.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="socialni-politika">
+				<label>Sociální politika</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/socialni-politika.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="zdravotni-pece">
+				<label>Zdravotní péče</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/zdravotni-pece.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="doprava">
+				<label>Doprava</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/doprava.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="vzdelavani">
+				<label>Vzdělávání</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/vzdelavani.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="kultura">
+				<label>Kultura</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/kultura.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="cestovni-ruch">
+				<label>Cestovní ruch</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/cestovni-ruch.svg#icon"></use>
+				</svg>
+			</section>
+			
+			<section class="topic" id="sport">
+				<label>Sport</label>
+				
+				<svg>
+					<use xlink:href="./svg/theme-icons/sport.svg#icon"></use>
+				</svg>
+			</section>
+		</section>
+		
+		<section class="topic-content-wrapper">
+			<div id="bydleni-content" class="topic-content" style="display:block">
+				<h2>Dostupné a důstojné bydlení pro kvalitní život</h2>
+				
+				<p>
+					<b>Bydlení je jednou ze základních věcí pro každou obec nebo město. Nevnímáme bydlení jako zásluhu. Bydlet podle nás potřebuje každý a právě obecní bydlení může poskytovat zázemí pro všechny skupiny obyvatel od znevýhodněných rodin a jednotlivců, přes rodiny se středními příjmy, seniory až například po potřebná povolání. A bydlet nesmí znamenat zadlužit se.</b>
+				</p>
+				
+				<ul class="program-content">
+					<li class="program-point" id="bydleni:nerozprodame-byty">
+						<b>Nerozprodáme byty!</b> Nebudeme privatizovat obecní bytové fondy. V odůvodněných situacích připustíme výjimky – prodej se bude řídit tržními cenami a připustíme nanejvýš mírnou slevu dle okolností. Vyvineme snahy o rozšiřování bytového fondu - ať už výstavbou nových bytů nebo nákupem nemovitostí z volného trhu, za účelem poskytování nájemního bydlení za rozumné ceny.
+					</li>
+					
+					<li class="program-point" id="bydleni:transparentni-pravidla-s-bytovym-fondem">
+						<b>Prosazujeme transparentní, férová a nediskriminační pravidla pro nakládání s obecním bytovým fondem.</b> Nakládat s ním budeme vždy hospodárně a tak, aby všechny informace k němu byly snadno dostupné kontaktním místům pro bydlení i široké veřejnosti.
+					</li>
+					
+					<li class="program-point" id="bydleni:pece-o-bytove-fondy">
+						<b>Budeme pečovat o bytové fondy.</b> Obecní byty musí nabízet kvalitní bydlení, budeme dbát na jejich údržbu a obnovu. Prázdné obecní byty opravíme.
+					</li>
+					
+					<li class="program-point" id="bydleni:spoluprace-s-ministerstvem-pro-mistni-rozvoj">
+						<b>Budeme aktivně spolupracovat s ministerstvem pro místní rozvoj</b> na přípravě legislativy, která podpoří kompetence obcí v zajišťování nabídek bydlení, aby si obce mohly řešit svou bytovou situaci dle
+						potřeb místních lidí.
+					</li>
+					
+					<li class="program-point" id="bydleni:komunitni-bydleni">
+						<b>Podporujeme komunitní bydlení.</b> Vytvoříme podmínky, aby lidé ve městech a obcích mohli dle svých potřeb volit mezi bydlením v běžné domácnosti nebo komunitním bydlením s dostupnými službami. 
+					</li>
+					
+					<li class="program-point" id="bydleni:dostupne-socialni-bydleni">
+						<b>V otázce dostupného a sociálního bydlení budeme spolupracovat s odborníky, terénními pracovníky a podpůrnými týmy.</b> Budeme jednat na základě dat, nikoli pocitů. Zaměříme tak podporu tam, kde je potřeba dle situace v dané obci (startovací, sociální, prostupné bydlení, koncept bydlení především, větší důraz na rozvoj bydlení družstevního atp.)
+					</li>
+					
+					<li class="program-point" id="bydleni:mapovani-potreb-lidi-v-obci">
+						<b>Zapojíme se do pravidelného mapování potřeb lidí v obci ohledně bydlení.</b> Na základě mapování budeme plánovat rozšiřování a správu bytového fondu podle reálných potřeb obyvatel obce.
+					</li>
+					
+					<li class="program-point" id="bydleni:vztah-k-developerum">
+						<b>Posílíme vyjednávací pozici ve vztahu k developerům.</b> Podporujeme vytváření zásad pro spolupráci s developery, které budou transparentně upravovat předem všem jasné podmínky, za kterých se může v dané obci stavět. Podporujeme modely odpovědné spolupráce, kdy se developeři podílí na budování nebo údržbě infrastruktury v okolí staveb.
+					</li>
+					
+					<li class="program-point" id="bydleni:ferove-mistni-poplatky">
+						<b>Podpoříme férové nastavení místních poplatků.</b> Budeme spolupracovat s ministerstvem pro místní rozvoj na nastavení systému místních poplatků, například za svoz odpadu, tak, aby dokázal řešit situace i pro osoby bez trvalého pobytu.
+					</li>
+					
+					<li class="program-point" id="bydleni:mmr-rekonstrukce-socialniho-bydleni">
+						<b>Zajistíme plné využití prostředků MMR na rekonstrukce pro sociální bydlení.</b> Dotace z ministerstva pro místní rozvoj obcím umožňují zrekonstruovat bytové i nebytové prostory na ubytování pro uprchlíky. Tyto prostředky využijeme v maximální možné míře a tak, že byty budou v budoucnu sloužit všem obyvatelům obcí v bytové nouzi bez ohledu na zemi původu.
+					</li>
+				</ul>
+			</div>
+			
+			<div id="otevrena-radnice-content" class="topic-content">
+				<h2>Otevřená a moderní radnice</h2>
+				
+				<div class="program-content">
+					<div class="program-point" id="otevrena-radnice:jasne-informace-z-radnice">
+						<h3>Jasné informace</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Všechno jasně a přehledně. Neděláme z lidí detektivy.</b> Zapojíme obyvatelstvo do rozhodování. Předejdeme tím nekalému jednání města nebo podezření z takového jednání. Informace budou přehledné, dostupné a transparentní. Vše naservírujeme tak, aby lidé už nemuseli nic zbytečně hledat. Zpřístupníme úřední desky včetně archivů a data o dopravě, kriminalitě nebo životním prostředí. Dáme je k dispozici pro tvorbu aplikací, pro vědecké výzkumy nebo studentské práce.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:transparentni-rozhodovani-ve-verejnem-zajmu">
+						<h3>Veřejný zájem a transparentní rozhodování</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Občané uvidí všechno a budou pro obec partnery.</b> Politikům bude vidět pod ruce. Budeme zveřejňovat audiovizuální záznamy i detailní zápisy s jmenovitými přehledy hlasování a účastí zastupitelů. Pořízení vlastních záznamů umožníme i občanům. Podporujeme zápisy s jmenovitými přehledy hlasování z jednání rady. V předstihu zveřejněné body budou obsahovat veškeré informace včetně odkazů na důvodovou zprávu. Prosadíme účast odborné veřejnosti bez ohledu na politickou příslušnost i v klíčových místních organizacích a v komisích a výborech, které pomáhají připravovat návrhy pro zastupitelstvo nebo kontrolují činnost zastupitelstva a rady. Poradní orgány rady a zastupitelstva budou zveřejňovat seznam členů, zápisy a budou otevřené veřejnosti vždy, když to bude možné. <b>Na zasedání zastupitelstva umožníme přístup každému občanovi a občance.</b>
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:pruhledne-hospodareni-s-majetkem">
+						<h3>Průhledné hospodaření s majetkem</h3>
+						
+						<p>
+							<i>Vědět všechno včas!</i>
+						</p>
+						
+						<p class="fake-bullet-point">
+							<b>Zabráníme nevýhodným prodejům pozemků, o kterých se veřejnost dozví, až když už je pozdě.</b> Zveřejníme přehled veškerého majetku na stránkách obce včetně popisu a využití. O případném prodeji majetku a způsobu prodeje budeme informovat s předstihem. Budeme vždy preferovat způsoby prodeje, které umožní nabídky širokému spektru uchazečů s ohledem na co nejvhodnější využití těchto pozemků a majetku obce.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:hospodarny-transparentni-rozpocet">
+						<h3>Hospodárný a transparentní rozpočet</h3>
+						
+						<p>
+							<i>Za co obec utrácí a proč? Rozpočty chceme přehledné, hospodárné, odůvodněné a informace o nich široce přístupné.</i>
+						</p>
+						
+						<p class="fake-bullet-point">
+							<b>Rozpočet vždy jasně a srozumitelně odůvodníme.</b> S předstihem informujeme o plánovaných větších investicích. Zohledníme provozní náklady investičních projektů již ve fázi příprav. Vytvoříme rezervu pro nenadálé situace. Chceme stabilní a dlouhodobě vyrovnané rozpočty. Připravíme a zveřejníme plán snižování nákladů na chod úřadu i případného oddlužení. Občané budou vědět o každé utracené koruně z obecního rozpočtu: formou rozklikávacích rozpočtů s údaji o průběžném čerpání a odkazy na registry smluv. Data si bude kdokoli moci stáhnout k dalšímu využití.
+						</p>
+					</div>
+					
+					<div class="program-point-wrapper">
+						<h3>Veřejné zakázky</h3>
+						
+						<p>
+							<i>Transparentním řízením přilákáme více zájemců. Snížíme ceny a zvýšíme kvalitu.</i>
+						</p>
+						
+						<ul>
+							<li class="program-point" id="otevrena-radnice:verejna-zadavaci-dokumentace">
+								<b>Celá zadávací dokumentace bude včas a s předstihem online (např. na proﬁlu zadavatele).</b> Stejným způsobem zveřejníme i další informace o veřejné zakázce. O výběrovém řízení se tak dozví dostatek dodavatelů a nestane se, že se přihlásí jen firma, které dal příslušný úředník vědět.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:prime-zakazky-vyjimka">
+								<b>Přímé zakázky bez soutěže budou nutnou výjimkou.</b> Využijeme internetové aukce pro výběrová řízení na služby s velkým počtem poskytovatelů. Výběrová řízení zrychlíme a každý občan bude mít přehled o nabídkách. Zakázky zadávané v režimu zjednodušeného podlimitního řízení a zakázky malého rozsahu nad 200.000,- Kč budou zveřejňovány na profilu zadavatele.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:zverejnovani-zakazek-mimo-prazdniny">
+								<b>Nebudeme zakázky programově zveřejňovat v období svátků a prázdnin, kdy se nikdo nedívá.</b> Požadavky na zakázku stanovíme přiměřeně její složitosti a velikosti, aby nedocházelo ke zbytečnému omezení počtu soutěžících.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:zadavaci-rizeni-u-opakovanych-zakazek">
+								<b>Zadávací řízení u opakujících se zakázek budeme řešit v rámci příslušných odborů radnic.</b> Všechny zakázky budou hodnoceny podle jasných a veřejně dostupných pravidel s vymezenou osobní odpovědností. Soutěžit umožníme jen těm, kteří zveřejňují koncové vlastníky. Závaznými standardy snížíme rizika manipulovaných soutěží.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:dbat-na-projektove-dokumentace">
+								<b>Budeme dbát na kvalitu projektové dokumentace.</b> Odkaz na profil zadavatele zveřejníme na webové stránce obce v rámci povinně zveřejňovaných informací.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:svobodny-software-a-formaty">
+						<h3>Svobodný software a formáty</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Zajistíme přechod úřadů na svobodný software, kdekoliv je to možné.</b> Zpřístupníme svobodný software zdarma, který zvládne stejné funkce jako placené programy. Školy, nemocnice a další organizace zřizované obcemi ušetří prostředky. Přístupný zdrojový kód umožní odhalit nebezpečné nebo podvodné funkce, které mohou ohrozit bezpečnost osobních údajů občanů nebo umožňují manipulace („losovačka“ u veřejných zakázek). Svobodný software má také výhody při vyučování, a proto podporujeme jeho rozšíření do škol.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:granty-a-dotace-pro-mesto">
+						<h3>Granty a dotace</h3>
+						
+						<ul>
+							<li>
+								<b>Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc kvalitních zájemců.</b> Zabráníme “malým domů”. Zajistíme rovný přístup ke všem žadatelům a žadatelkám.
+							</li>
+							
+							<li>
+								Informace o dotacích budeme publikovat uživatelsky dostupně – aby se na ně mohl podívat každý, ne jen ten, kdo se probere tunou materiálů. <b>Zveřejníme údaje o úspěšných žadatelích.</b> Veškeré výsledky dotačních řízení jasně odůvodníme.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point-wrapper">
+						<h3>Transparentní společnosti</h3>
+						
+						<ul>
+							<li class="program-point" id="otevrena-radnice:odborni-zastupci-mesta-v-organech">
+								<b>Do řídících a kontrolních orgánů společností samospráv budeme nominovat zástupce města s potřebným mixem odbornosti.</b> Podporujeme širší využití výběrových řízení, aby se rozhodování účastnili i odborníci z řad veřejnosti. Znemožníme neprůhledné hospodaření i vyvádění majetku.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:pravidla-pro-obce-i-jejich-organizace">
+								<b>Pravidla uplatněná pro obce se budou vztahovat i na obcemi zřizované organizace, obecní příspěvkové organizace a obchodní organizace ovládané obcí.</b> Všude tam, kde to bude možné, budeme uplatňovat pravidla pro transparentní organizace.
+							</li>
+							
+							<li class="program-point" id="otevrena-radnice:pravidla-pro-nominace-a-odmenovani-v-spolecnostech">
+								<b>Pravidla pro nominace i odměňování osob v orgánech společností budou závazná.</b> Změny stanov společností umožníme provést pouze zastupitelstvu.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:uzemni-plan">
+						<h3>Územní plán</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Umožníme občanské společnosti ovlivňovat podobu svého okolí.</b> Zapojíme veřejnost do tvorby nových územních plánů. Vše bude fungovat jako transparentní proces za účasti obyvatel. Už žádné kšefty pro kamarády a bez pravidel. Návrhy rozvoje plánů, související dokumentaci i současný stav budeme zveřejňovat tak, aby byly přehledné, rychle dostupné a umožňovaly účast a vyjádření občanů.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:mesta-bez-barier">
+						<h3>Města bez bariér</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Při plánování i úpravě veřejných prostranství a budov budeme klást důraz na bezbariérovost a snadnou mobilitu pro pěší.</b> Provedeme analýzu bezbariérovosti veřejných budov (úřadů, zdravotnických zařízení, kulturních objektů apod.) a zasadíme se o jejich zpřístupnění. Prověříme dostupnost skutečně bezbariérových veřejných toalet. Ve veřejné dopravě považujeme za důležitou nejen bezbariérovost samotné přepravy, ale také související infrastruktury jako jsou nástupiště a příchodové cesty.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:kvalitni-verejny-prostor">
+						<h3>Kvalitní veřejný prostor</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Veřejný prostor je nedílnou součástí našeho každodenního života.</b> Zasadíme se nejen o to, aby byl čistý a bezpečný, ale také o jeho funkčnost a praktickou využitelnost pro všechny generace.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:ucast-na-rozhodovani">
+						<h3>Účast na rozhodování</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Podpoříme přímé zapojení občanů do rozhodování o prostředí, kde žijí.</b> Připravíme participativní rozpočty a další nástroje k přímému zapojení veřejnosti a necháme veřejnost skutečně rozhodovat o podobě veřejného prostoru. Uspořádáme pravidelná formální i neformální setkání s občany a budeme se pečlivě zabývat podněty, peticemi a návrhy. Podpoříme místní referenda u sporných otázek s výjimečnou důležitostí a dlouhodobými důsledky. Podpoříme komunikaci mezi sousedícími samosprávami a jejich obyvateli při hledání společných řešení.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:radnicni-media">
+						<h3>Radniční média</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Otevřeme radniční média.</b> Podpoříme skutečnou názorovou pluralitu a otevřenou diskuzi v obci. Radniční noviny a další média samospráv by měla splňovat základní principy obvyklé pro veřejná média. Zasadíme se o zveřejňování opozičních názorů a alternativ. Média musí pracovat bez politického nátlaku a budou podléhat etickým pravidlům. Za obsah bude ručit redakční rada.
+						</p>
+					</div>
+					
+					<div class="program-point" id="otevrena-radnice:nekale-jednani-a-stret-zajmu">
+						<h3>Nekalé jednání a střet zájmů</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Nepřipustíme střet zájmů a korupci zastupitelů a úředníků.</b> Snížíme rizika nekalého jednání a podvodů. Nastavíme jasné hranice mezi osobním a veřejným zájmem.
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="priroda-content" class="topic-content">
+				<h2>Péče o životní prostředí začíná tam, kde žijeme</h2>
+				
+				<p>
+					<b>Každá generace má usilovat o předání společného okolí v co nejlepší podobě. Kvalita života společnosti je neoddělitelná od kvality prostoru, ve kterém se denně pohybujeme a od našeho životního prostředí.</b>
+				</p>
+				
+				<div class="program-content">
+					<div class="program-point" id="priroda:obec-pujde-prikladem">
+						<h3>Obec půjde příkladem</h3>
+						
+						<p class="fake-bullet-point">
+							<b>O obecní pozemky budeme pečovat udržitelně.</b> V okolní krajině budeme obnovovat staré cesty, které dávaly smysl. Budeme vytvářet prostředí přívětivé pro divoká zvířata a rostliny. Zaměříme se na snižování rizika povodní pomocí vhodných a přírodě blízkých opatření. Podpoříme oběhové hospodářství například vybudováním re-use center, zjednodušováním recyklace a využíváním recyklovaných materiálů.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:udrzitelne-vyuzivani-obecni-zelene">
+						<h3>Udržitelné využívání půdy a lesů ve vlastnictví obcí</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Ve vlastnictví obcí je mnoho zemědělské a lesní půdy.</b> Ta je často využívána bez vize její udržitelné správy. Cílené požadavky skrze pachtovní smlouvy nebo úpravy hospodaření obecního podniku napomůžou šetrnějšímu využívání majetku obce (např. požadavkem na certifikované ekologické zemědělství). Tím podpoříme krajinotvorbu obnovu polních cest, mezí a remízků. Snížíme projevy změny klimatu, které se v bezprostředním okolí obcí projevují zejména zvýšenou erozí a prašností, bleskovými povodněmi nebo úbytkem biologické rozmanitosti. V obecních lesích upřednostníme přírodě blízké způsoby hospodaření a posílíme mimoprodukční funkce lesa
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:pece-o-zelen">
+						<h3>Péče o zeleň</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Je nezbytné zajistit, aby zeleň plnila svoji funkci.</b> Péče se nesmí ani zanedbávat, ani přehánět. Krátce zastřihávané trávníky nepřežijí sucho, stromy pak potřebují systematickou péči a ochranu. Zveřejníme pasportizaci zeleně, ve větších městech vytvoříme plán péče. Zimní solení silnic bude probíhat s ohledem na aleje a vodní toky.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:komunitni-pestitelstvi">
+						<h3>Komunitní pěstitelství</h3>
+						
+						<ul>
+							<li>
+								<b>Obce a města budou aktivní v nabízení možností komunitního pěstitelství a částečného samozásobitelství.</b>
+							</li>
+							
+							<li>
+								<b>Obce vytvoří předpoklady pro vznik, rozvoj a provozování zahrádkářské činnosti v rámci územního plánování.</b> Umožní přenechání vhodných pozemků k užívání zahrádkářským spolkům a budou spolupracovat v oblasti ochrany přírody, zmírnění klimatických změn a osvětových aktivitách.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point" id="priroda:hajime-zajmy-obyvatel">
+						<h3>Hájíme zájmy obyvatel</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Kvalita života místních obyvatel nesmí být ohrožena zájmy investorů.</b> V menších obcích budeme o záměrech transparentně informovat, ve větších městech navíc vyčleníme úředníka, jehož úkolem bude prosazovat zájmy obyvatel ve správních řízeních (např. územní a stavební řízení, EIA). Zasadíme se o to, aby nová výstavba probíhala primárně na brownfieldech, tedy již zastavěných plochách.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:cista-moderni-nezavisla-energetika">
+						<h3>Čistá, moderní a nezávislá energetika</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Dobře promyslíme, jak může obec svou činností a rozhodnutími omezit emise skleníkových plynů a spotřebu energie.</b> Konkrétní řešení je třeba vybírat s ohledem na místní podmínky a v souladu se zájmy veřejnosti, větší města by měly mít zpracovanou komplexní strategii. Zaměříme se na úspory, obnovitelné zdroje a využití nových technologií (např. ohledně zateplování budov nebo osvětlení). Podpoříme rozvoj komunitní energetiky, s důrazem na využití obecních budov. Při modernizaci veřejné infrastruktury budeme myslet i na rozvíjející se elektromobilitu a umožníme rozvoj sítě dobíjecích bodů v ulicích, například i jako součást veřejného osvětlení.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:obce-pripravene-na-oteplovani">
+						<h3>Obce připravené na změnu klimatu</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Zlepšíme prostředí v obcích zvýšením podílu zeleně i vodních ploch a prvků.</b> Zmírníme sucho zadržením a využitím dešťové vody. Budeme prosazovat prvky modrozelené infrastruktury (zeleň a hospodaření s vodou) u veřejných i soukromých projektů. Postupovat budeme podle ucelené adaptační strategie, propracované úměrně velikosti obce.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:kvalita-ovzdusi">
+						<h3>Důraz na kvalitu ovzduší</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Výsadbou zeleně kolem komunikací, protihlukovými opatření, zvýšeným úklidem komunikací a chodníků i podporou změny lokálního vytápění</b> snížíme množství polétavého prachu a dalších škodlivých emisí.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:kvalitni-verejne-stravovani">
+						<h3>Kvalitní veřejné stravování</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Zvýšíme kvalitu veřejného stravování.</b> Ve veřejném stravování zřizovaném obcemi (např. školy, sociální služby nebo nemocnice) budeme podporovat uplatnění lokální bioprodukce.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:voda-je-dulezita">
+						<h3>Voda je důležitou součástí našich životů</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Vodovody a kanalizace budou plnit svůj účel ve veřejném zájmu a bez zbytečné zátěže životního prostředí.</b> Zajištění kvalitní pitné vody pro všechny musí být základní prioritou každé obce. Kromě kvalitní pitné vody je také třeba věnovat pozornost stavu kanalizace a čistíren odpadních vod. Omezíme vypouštění velkého množství nečištěné odpadní vody přímo do našich vodních toků. Bez řešení čištění odpadní vody se kvalita vody v nádržích, rybnících a řekách nijak nezlepší.
+						</p>
+					</div>
+					
+					<div class="program-point" id="priroda:obnovitelne-zdroje">
+						<h3>Využívání obnovitelných zdrojů</h3>
+						
+						<p class="fake-bullet-point">
+							<b>V investičních projektech budeme hledat příležitosti k podpoře využití dřeva a dalších obnovitelných surovin</b> (vč. stavebních materiálů z konopí).
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="aktivni-verejnost-content" class="topic-content">
+				<h2>Vstříc aktivní veřejnosti</h2>
+				
+				<div class="program-content">
+					<div class="program-point" id="aktivni-verejnost:referendum-a-obcanske-iniciativy">
+						<h3>Místní referendum a občanská iniciativa</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Na místní úrovni zvážíme podporu návrhů na vyhlášení referenda i v případě menšího počtu podpisů v petici, než jaký požaduje zákon.</b> U hlasování o zásadních otázkách zvážíme podporu vyhlášení referenda zastupitelstvem, kde bude zpracován kvalitní oponentní posudek odpůrci.
+						</p>
+					</div>
+					
+					<div class="program-point" id="aktivni-verejnost:pozornost-peticim">
+						<h3>Pozornost peticím a stížnostem občanů</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Naši zástupci obce se budou zabývat peticemi a stížnostmi.</b> Tímto způsobem bychom rádi ukázali tradičním stranám, že všechny výtky občanů je nutno řešit. Není podstatné, zda petice budou organizovány na papíře či elektronicky, zastupitel by jim měl věnovat pozornost.
+						</p>
+					</div>
+					
+					<div class="program-point" id="aktivni-verejnost:elektronicka-zpetna-vazba-a-diskuze">
+						<h3>Elektronický systém pro zpětnou vazbu a veřejnou diskusi</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Vedle běžného osobního setkání voliče se zastupitelem podporujeme i další formy komunikace a předávání zpětné vazby.</b> Se státními orgány chceme sdílet elektronický systém a podněty, aby byly podněty obyvatelstva skutečně řešeny. Povedeme veřejnou neanonymní diskuzi o návrzích, které jsou předloženy obecním orgánům.
+						</p>
+					</div>
+					
+					<div class="program-point" id="aktivni-verejnost:podpora-cinnosti-spolku">
+						<h3>Podpora činnosti spolků</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Spolky a iniciativy vytvářejí hodnoty, které nejsou v tržním prostředí plně ocenitelné penězi.</b> Obce mají řadu nevyužitých možností, které mohou být k dispozici aktivním občanům a spolkům. Podporujeme představu „inkubátoru“ pro nové spolky. Vznikajícím společensky prospěšným spolkům a iniciativám nabídneme nad rámec dotační podpory např. prostory, kde se lidé mohou scházet a kde budou mít dostatečné technické zázemí.
+						</p>
+					</div>
+					
+					<div class="program-point" id="aktivni-verejnost:podpora-mistniho-podnikani">
+						<h3>Podpora místního podnikání</h3>
+						
+						<p class="fake-bullet-point">
+							<b> Zlepšíme podmínky pro rozvoj podnikatelského prostředí v obcích tak, aby nebyla svévolně mařena aktivita místních občanů a firem.</b> Podporu místního podnikání, transparentnost a otevřenost ve vztazích obce, občanů a podnikajících subjektů považujeme za základ ekonomického rozvoje obcí a regionů. Upřednostňujeme drobné lokální obchodníky v obci před nadnárodními obchodními řetězci. O podporu místního podnikání a lokálních obchodníků se zasadíme i pomocí rozvoje veřejného prostranství například v podobě zajištění míst pro pořádání pravidelných trhů s nabídkou lokálních produktů.
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="verejne-sluzby-content" class="topic-content">
+				<h2>Veřejné služby slouží občanům</h2>
+				
+				<p class="verejne-sluzby:fake-bullet-point">
+					<b>Poskytování kvalitních veřejných služeb a jejich dostupnost je hlavním cílem územní samosprávy. Námi navrhované otevřené  hospodaření přinese úspory, které umožní dlouhodobě dotovat i prospěšné služby nevykazující zisk.</b>
+				</p>
+				
+				<div class="program-content">
+					<div class="program-point" id="verejne-sluzby:ani-obec-neni-velkym-bratrem">
+						<h3>Ani obec nesmí být velký bratr</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Stavíme se proti nadbytečnému sledování občanů v případech, kde to není opodstatněné.</b> Nesouhlasíme s nadměrným použitím bezpečnostních kamer a podobných nástrojů snadno zneužitelných ke sledování. Místa, kde se vyskytují kamery, musí být označena. Zabráníme instalování a využívaní technologií na automatické rozpoznávání obličejů ve veřejných prostranstvích. Odmítáme zbytečné šmírování občanů. Sledovací systémy podrobíme kontrole veřejnosti.
+						</p>
+					</div>
+					
+					<div class="program-point" id="verejne-sluzby:kvalitni-verejne-sluzby">
+						<h3>Kvalitní veřejné služby</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Kvalitní veřejné služby pomáhají vytvářet dobré prostředí pro založení rodiny a výchovu dětí pro všechny bez rozdílu (dostupnost vzdělání, podpora jeslí, školek a dětských skupin, volnočasové aktivity atp.).</b> Podpora zakládání rodin rovněž povede k posílení demografické struktury celé společnosti.
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="socialni-politika-content" class="topic-content">
+				<h2>Sociální politika</h2>
+				
+				<div class="program-content">
+					<div class="program-point-wrapper">
+						<h3>Sociální služby, které opravdu řeší těžké životní situace</h3>
+						
+						<p>
+							<i>Dostupnost vyvážené a pestré nabídky sociálních služeb je předpokladem pro zvládání náročných situací. Budeme proto podporovat:</i>
+						</p>
+						
+						<ul>
+							<li class="program-point" id="socialni-politika:dostupnost-terennich-a-ambulantnich-sluzeb">
+								<b>Dostupnost terénních a ambulantních služeb sociální a zdravotní péče tak, aby byly v co největší míře poskytovány v domácím prostředí a místní komunitě.</b> Podpoříme dostupnost všestranné podpory i pečujícím blízkým osobám. Jedná se i o dostupnost potřebných pomůcek a podpůrných technologií, psychosociální podporu, informovanost a vzdělávání.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:zajisteni-kvalitni-pece-v-zarizenich">
+								<b>Zajištění kvalitní péče v pobytových zařízeních; zasadíme se o přechod z velkých ústavů ke komunitnímu formátu.</b> V menších spádových zařízeních budou moci ti, kteří ústavní péči potřebují, zůstat v blízkosti svých příbuzných a známých.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:dostupnost-rozvoj-odlehcovacich-sluzeb">
+								<b>Dostupnost a rozvoj sítě odlehčovacích služeb všech forem (terénních, ambulantních i pobytových).</b> Rozvoj terénní paliativní péče, včetně dětské hospicové péče a profesionálního provázení pozůstalých rodin. Inovativní možnosti péče v komunitě včetně rozvoje dobrovolnictví a organizované sousedské výpomoci. Budeme důsledně aplikovat prevenci místo drahého řešení následků.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:dostupne-najemni-bydleni">
+								<b>Zajištění dostupného nájemního bydlení pro seniory a osoby se zdravotním znevýhodněním, kteří nebudou muset do ústavní péče.</b> Zajistíme informovanost o službách dostupných v dané lokalitě. Přehledně uspořádané informace poskytne online průvodce služeb.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:planovani-koordinace-v-socialni-oblasti">
+								Plánování a koordinaci v sociální oblasti v krajích a obcích s rozšířenou působností, například využitím výstupů úspěšných pilotních projektů.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:zvyhodnena-nutna-doprava-senioru">
+								Zvýhodněnou dopravu seniorů k lékaři nebo na nutné nákupy – bezbariérovou MHD, dostupnější taxi službu, komunitní výpomoc.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point-wrapper">
+						<h3>Podpora rodin</h3>
+						
+						<p>
+							<i>Rodiny pro své členy představují jistotu péče, respektu a vzájemné podpory. Budeme podporovat rodiny vlastní i náhradní, s libovolným počtem dětí a bez ohledu na orientaci jejich členů nebo sociální status. Podpoříme ohrožené rodiny a rodiny v krizi při zvládání náročných životních období a situací. Odmítáme domácí násilí v jakékoliv formě a podobě. Podpoříme rodiny, které pečují o své členy.</i>
+						</p>
+						
+						<ul>
+							<li class="program-point" id="socialni-politika:system-kvalitnich-sluzeb-pece-o-deti">
+								<b>Zajistíme systém kvalitních služeb péče o děti s dostatečnou kapacitou; veřejný systém mateřských škol a dětských skupin doplníme o další formy jako lesní školky apod.</b>  Systémově podpoříme komunitní a sousedské aktivity mateřských a rodinných center, volnočasových činností pro děti všech věkových kategorií a sociálních skupin.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:podpora-sluzeb-pro-ohrozene-deti">
+								<b>Budeme podporovat transformaci služeb pro ohrožené děti, posílíme kapacity sociálně aktivizačních služeb pro rodiny.</b>
+							</li>
+							
+							<li class="program-point" id="socialni-politika:podpora-mezigeneracniho-souziti">
+								<b>Budeme podporovat služby napomáhající mezigeneračnímu soužití, například společná zařízení pro seniory a děti.</b>
+							</li>
+							
+							<li class="program-point" id="socialni-politika:prevence-rozpadu-rodin">
+								<b>Efektivně využijeme prostředky na prevenci rozpadu rodin; terapie, manželské, vztahové a výchovné poradenství, práce s agresory či s traumatizovanými dětmi se musí stát dostupnou službou.</b> Zasadíme se o praktické využívání principu univerzálního designu, tj. řešení pro všechny.
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point-wrapper">
+						<h3>Sociální vyloučení</h3>
+						
+						<p>
+							<i>Všeobecná a rovná dostupnost veřejných služeb pro rodiny a vzdělání brání propadu ohrožených skupin do vyloučení ze společnosti a přenosu vyloučení na další generace.</i>
+						</p>
+						
+						<ul>
+							<li class="program-point" id="socialni-politika:podpora-tymu-pro-znevyhodnene-rodiny">
+								<b>Podpoříme vznik podpůrných týmů pro znevýhodněné rodiny a meziresortně propojíme školy a pracovníky sociálních služeb, zdravotnictví a neziskových organizací.</b> Zasadíme se o vznik kontaktních center bydlení, která budou poskytovat poradenství v oblastech podpory v bydlení, právní, dluhové a realitní.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:podpora-treninkovych-pracovnich-mist">
+								<b>Podpoříme vznik tréninkových pracovních míst u obcí, integračních sociálních podniků, rozšíření rekvalifikačních kurzů a pomoci se zprostředkováním zaměstnání.</b> Zasadíme se o včasnou podporu rodin od předškolní přípravy přes zajištění pomůcek doučování, obědů a svačin ve školkách a školách. Zjednodušíme účast znevýhodněných dětí na kroužcích a zájmových aktivitách až po zajištění stipendií po dobu studia středních a vysokých škol.
+							</li>
+							
+							<li class="program-point" id="socialni-politika:podpora-pravidelne-supervize">
+								<b>Podpoříme pravidelné supervize a možnosti seberozvoje pro učitele ve strukturálně vyloučených lokalitách.</b>
+							</li>
+							
+							<li class="program-point" id="socialni-politika:koncepcni-zakladani-nabytkovych-bank">
+								<b>Nabídneme program pro koncepční zakládání nábytkových a zařizovacích bank.</b>
+							</li>
+						</ul>
+					</div>
+					
+					<div class="program-point" id="socialni-politika:navykove-chovani">
+						<h3>Návykové chování</h3>
+						
+						<p>
+							<i>Budeme prosazovat provázaný přístup k závislostem a potřebným službám.</i>
+						</p>
+						
+						<p class="fake-bullet-point">
+							Zatímco ostatní strany před problematikou rizikového návykového chování zavírají oči nebo nenabízejí reálná řešení, my budeme usilovat o systémový přístup adresující příčiny i již existující rizika. Navážeme aktivní komunikaci s krajským koordinátorem a dalšími odpovědnými osobami a budeme bojovat za větší podporu programů pro prevenci i snižování rizik a přidružených sociálních a zdravotních služeb. Tím se zasadíme o prevenci rizikového návykového chování, omezení šíření infekčních chorob a zvýšení bezpečnosti.
+						</p>
+						
+						<ul>
+							<li>
+								<b>Podpoříme například vznik či zachování:</b>
+							</li>
+							<li>
+								<ul>
+									<li>kontaktních center,</li>
+									<li>center substituční léčby (např. i mokrá centra pro uživatele alkoholu),</li>
+									<li>výměnných programů pro injekční uživatele,</li>
+									<li>ambulantních adiktologických služeb,</li>
+									<li>boxů na použité stříkačky,</li>
+									<li>systémů bydlení s podporou,</li>
+									<li>programů pro snazší návrat do společnosti.</li>
+								</ul>
+							</li>
+						</ul>
+						
+						<p class="fake-bullet-point">
+							<b>Prevence znamená menší náklady v budoucnu. Podpoříme ji tam, kde se to nejvíc vyplatí – ve školách.</b> Na školách zřizovaných obcemi podpoříme posílení a revizi programů primární prevence a také podporu školních metodiků prevence. Budeme dbát na zvýšení informovanosti před prvním kontaktem s potenciálně rizikovými faktory a na vytváření stabilního prostředí s dostatkem plnohodnotných podnětů a mezilidských vztahů. Zejména se jedná o podporu zdravého životního stylu, atraktivních volnočasových aktivit a vytváření zdravých vztahů v rodině i komunitě.
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="zdravotni-pece-content" class="topic-content">
+				<h2>Dostupná a kvalitní zdravotní péče</h2>
+				
+				<p>
+					<b>Základem kvalitní zdravotní péče je její časová a dojezdová dostupnost. Budeme proto aktivně vyhledávat příležitosti, jak kvalitu 
+					i dostupnost zdravotní péče rozvíjet a udržovat.</b>
+				</p>
+				
+				<div class="program-content">
+					<div class="program-point" id="zdravotni-pece:dostupnost-pece">
+						<h3>Dostupnost péče</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Na mnoha místech ČR je problém s dostupností základní zdravotní péče.</b> Zaměříme se na aktivní jednání se zdravotními pojišťovnami, aby byly představitelům jednotlivých obcí partnery v efektivním hledání řešení. Budeme aktivně vytvářet vhodné podmínky pro rozvoj a dostupnost lékařské péče, od technického vybavení, zajištění kvalitních podmínek pro rodinný život po usnadnění dopravy k lékaři, například zřízením obecního senior taxi.
+						</p>
+					</div>
+					
+					<div class="program-point" id="zdravotni-pece:kvalita-pece">
+						<h3>Kvalita péče</h3>
+						
+						<p class="fake-bullet-point">
+							<b>Nejen dostatek nemocničních lůžek a míst v domovech pro seniory – kvalitní péče znamená individuální přístup.</b> Při poskytování zdravotní a sociální péče podporujeme osobní přístup. Pokud to stav pacienta nebo klienta umožňuje, preferujeme, aby nebyl hospitalizovan v nemocnici nebo umístěný v domově seniorů. Proto podporujeme provázanost zdravotní a sociální péče, jejímž úkolem je i zajištění dostupných terénních pomocných pečovatelských služeb a vedle nemocniční péče také domácí zdravotní péče.
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<div id="doprava-content" class="topic-content">
+				<h2>Lepší dopravní obslužnost</h2>
+				
+				<ul class="program-content">
+					<li class="program-point" id="doprava:financovani-verejne-dopravy">
+						<b>Financování veřejné dopravy a výstavby dopravní infrastruktury musí být prioritou.</b> Podporujeme koncept města krátkých vzdáleností, což si nicméně vyžádá mnoho úsilí. Realizované kroky musí být v zájmu a pod kontrolou široké veřejnosti, nikoliv jen vybraných skupin – ať už jde o prostor pro pohyb nebo parkování. Zajistíme, aby veškeré plány, smlouvy a dokumentace byly dostupné k průběžné kontrole online.
+					</li>
+					
+					<li class="program-point" id="doprava:verejny-prostor-spolecensky-kompromis">
+						<b>Veřejný prostor je společenský kompromis, který spočívá v zachování bezpečnosti všech účastníků provozu bez ohledu na rozměry jejich vozidla. Krizová místa stávajících silnic vyřešíme tak, aby silnice sloužily všem, tedy řidičům aut, pěším, cyklistům, rodičům s kočárky a dalším uživatelům.</b>
+					</li>
+					
+					<li class="program-point" id="doprava:svoboda-zpusobu-prepravy">
+						<b>Chceme svobodnou volbu způsobu přepravy. Proto je potřeba, aby se s aktivní dopravou počítalo už při plánování dopravní sítě a staveb.</b> Budeme s cyklisty, chodci, kočárky či vozíčkáři počítat už při plánování dopravních staveb.
+					</li>
+					
+					<li class="program-point" id="doprava:kvalitni-moderni-mhd">
+						<b>Podporujeme kvalitní a moderní MHD.</b> Městská doprava musí být konkurenceschopná k individuální automobilové dopravě. Musí ji zajišťovat moderní ekologická vozidla a jízdní řád musí odpovídat potřebám a požadavkům občanů města. Je žádoucí ve větších městech zajistit preferenci vozidel MHD na světelných křižovatkách a na vhodných místech zřídit oddělené bus pruhy.
+					</li>
+					
+					<li class="program-point" id="doprava:propojovani-verejne-dopravy">
+						<b>Prosazujeme propojování jednotlivých složek veřejné dopravy, tedy propojení dopravy autobusové, vlakové a městské hromadné.</b> Musí probíhat na principu otevřených standardů a nemá končit na hranici obce. Chceme, aby si cestující mohl koupit jeden lístek od začátku cesty na vesnici až do centra velkoměsta, proto svoje kroky budeme koordinovat s reprezentanty na úrovni kraje a státu. Podpoříme systém sdílených (elektro)kol, koloběžek nebo aut v obci.
+					</li>
+				</ul>
+			</div>
+			
+			<div id="vzdelavani-content" class="topic-content">
+				<h2>Kvalitní školství a vzdělávání</h2>
+				
+				<ul class="program-content">
+					<li class="program-point" id="vzdelavani:dostupnost-skol">
+						<b>Zajistíme dostupnost škol a dostatek míst.</b> Najdeme zdroje financování na dostatek míst v učebnách, dostavbu dalších odborných a venkovních učeben. Připravíme naše školy na další demografický vývoj: nedostatky míst ve školách budeme řešit s předstihem.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:kvalita-skol">
+						<b>Zvýšíme kvalitu škol a prosadíme výběr kvalitních ředitelů.</b> Prosazujeme transparentní výběrová řízení ředitelů škol, aby školy vedli pedagogičtí lídři a schopní manažeři, pod jejichž vedením škola připraví naše děti na život v moderním světě. Budeme odměňovat ředitele podle předem jasně stanovených a zveřejněných pravidel.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:kvalita-vyuky">
+						<b>Zlepšíme kvalitu výuky a podpoříme setkávání učitelů regionu společně se sdílením nástrojů a zkušeností.</b> Vytvoříme podmínky pro šíření aktivního využívání moderních technologií ve výuce, budeme podporovat tvorbu a sdílení učebních materiálů mezi učiteli samotnými. Najdeme zdroje financování pro větší uplatnění moderních technologií ve školách.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:spoluprace-ucitelu">
+						<b>Budeme podporovat vzájemnou spolupráci učitelů, samospráv a občanů.</b> Budeme aktivně zvát rodiče žáků k práci ve školských radách. Budeme dál iniciovat žákovské parlamenty a zvát aktivní občany do školských výborů a komisí. Budeme aktivně naslouchat občanům ve školské komisi města a hledat s nimi prostor ke zlepšení v našem městě.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:klima-ve-skolach">
+						<b>Chceme zdravé klima ve školách. Na pohodovější atmosféru ve školách pro žáky, ale i učitele zajistíme potřebné prostředky.</b> Prosazujeme kvalitní a kulturní stravování ve všech školních jídelnách  v návaznosti na projekt Zdravá školní jídelna.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:digitalizace-skol">
+						<b>Půjdeme cestou digitalizace a snižování administrativy.</b> Zasadíme se o aktivní přístup odborů školství k možnostem usnadnit ředitelům a školám řešení rutinních i neočekávaných situací. Zasadíme se o méně papírování. Výrazně zlepšíme digitální propojení školských odborů s řediteli.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:kvalitni-poradenske-sluzby">
+						Budeme podporovat kvalitní poradenské služby, prevenci ve školách a bezbariérovost škol a také klást důraz na péči o osoby se ztíženým přístupem ke vzdělávání.
+					</li>
+					
+					<li class="program-point" id="vzdelavani:karierove-poradesntvi-na-skolach">
+						Budeme rozvíjet komplexní systém kariérového poradenství a osobnostního koučinku a vytvoříme systém podpory pro nadané studenty.
+					</li>
+				</ul>
+			</div>
+			
+			<div id="kultura-content" class="topic-content">
+				<h2>Rozvoj kultury</h2>
+				
+				<p>
+					<b>Uchování kulturních tradic a kulturního dědictví zásadně přispívá k poznání lokální historie, ale také určuje jedinečnou identitu regionů. Živou kulturu vnímáme jako důležitý prvek pro kvalitu života ve městech a obcích. Proto ji bereme jako trvalou a neopominutelnou součást veřejné podpory. Chceme udržet stávající kulturní infrastrukturu, nesmí být první obětí úsporných škrtů.</b>
+				</p>
+				
+				<p>
+					<b>Jako zásadní vnímáme přesahy kultury do dalších odvětví. Snahou měst a obcí by mělo být propojování se vzděláváním, cestovním ruchem, regionálním rozvojem i životním prostředím.</b>
+				</p>
+				
+				<p>
+					<b>Města a obce mají tři základní nástroje k podpoře kultury: finance, strategie a zřizované organizace.</b>
+				</p>
+				
+				<ul class="program-content">
+					<li class="program-point" id="kultura:podpora-kultury-a-financovani">
+						<b>Prosazujeme odpovídající a stabilní podporu kultury s využitím vícezdrojového financování.</b> S tím jde ruku v ruce dlouhodobá snaha o zvýšení prestiže kultury ve společnosti, která by mohla pomoci zájmu ze strany mecenášů. Dotační politika měst a obcí by měla být postavená na koncepčním základu a jasných cílech definovaných strategickými dokumenty. Dotační programy musí být transparentní, mít jasně definovaná kritéria a hodnotící komise složené z odborníků s důsledným definováním střetu zájmů. Preferujeme podporu lokálních spolků a regionálních aktivit, ale nezapomínáme také na oblast profesionálního umění, např. ve městech kde mají divadla včetně divadelní scén bez vlastního souboru.
+					</li>
+					
+					<li class="program-point" id="kultura:koncepcni-cinnost">
+						<b>Koncepční činnost vnímáme jako zásadní prvek pro zmapování potřeb a kapacit regionů, měst a obcí.</b> Zasazujeme o to, aby byly samosprávy příkladem a veřejné stavby vždy podléhaly architektonickým soutěžím.
+					</li>
+					
+					<li class="program-point" id="kultura:modernizace-knihoven">
+						<b>Budeme prosazovat modernizaci knihoven, aby zajistily každému přístup k informacím.</b> Je třeba také reflektovat, že role knihoven a jejich funkce se proměňuje. Knihovny se stávají přirozenými kulturními centry ve městech a obcích, včetně těch nejmenších. Realizují vzdělávací aktivity, naučné programy, realizují zábavně popularizační činnosti. Proto podpoříme jejich vybavenost a napojení na lokální komunitu. Podporujeme také jejich vybavenost databázovými systémy, které umožní zajistit větší komfort výpůjční služby čtenářům.
+					</li>
+					
+					<li class="program-point" id="kultura:aktualizace-pametovych-instituci">
+						Podobně budeme klást důraz na aktualizaci paměťových institucí a galerií, aby nadále mohly plnit svou důležitou funkci a vzbuzovaly v návštěvnících touhu po dalším poznání. U zřizovaných organizací podporujeme systematickou a kontinuální činnost. Klademe důraz na transparentní výběrová řízení na vedoucí pozice těchto organizací.
+					</li>
+					
+					<li class="program-point" id="kultura:komunitni-projekty-a-volnocasove-aktivity">
+						Chceme podporovat komunitní projekty a vytvořit tak podmínky pro volnočasové aktivity. Ve všech obcích by měl fungovat informační systém poskytující informace o existujících možnostech volnočasového a kulturního vyžití. Je třeba také pružně reagovat na skutečné potřeby a zájmy občanů. O možnostech veřejné podpory by měli být lidé přehledně informováni, aby k ní měli rovný přístup.
+					</li>
+					
+					<li class="program-point" id="kultura:udrzovani-kulturnich-pamatek">
+						<b>Budeme udržovat kulturní památky, které jsou bohatstvím obce, zpřístupňovat je veřejnosti a informovat o nich.</b> Úředníci vykonávající přenesenou působnost v oblasti památkové péče u obcí s rozšířenou působností by neměli být vytěžování několika různorodými agendami najednou. Podpoříme jejich vzdělávání. Budeme zodpovědně dohlížet na ochranu městských a vesnických památkových rezervací a zón.
+					</li>
+				</ul>
+			</div>
+			
+			<div id="cestovni-ruch-content" class="topic-content">
+				<h2>Udržitelný cestovní ruch</h2>
+				
+				<p>
+					<b>Zaměříme se na to, aby byl turistický ruch opravdu přínosný jak pro turisty, tak i pro místní obyvatele a podnikatele. Naší prioritou je propojení cestovního ruchu, marketingu a služeb. Velkou příležitost vidíme v zakládání a rozvoji organizací destinačního managementu (DMO), které budou obcím poskytovat efektivní strukturu pro řízení cestovního ruchu.</b>
+				</p>
+				
+				<ul class="program-content">
+					<li class="program-point" id="cestovni-ruch:naucne-stezky-cyklostezky">
+						<b>Budeme budovat naučné stezky a cyklostezky, protože samotné památky bez vhodného přístupu k nim nestačí.</b> Pro informování turistů má sloužit přehledný web obce. Dostupné informace v držení obce (archivní fotografie, texty) by měly být poskytnuty projektům, jako je encyklopedie Wikipedie, které svou činností zlepšují informovanost o obci.
+					</li>
+					
+					<li class="program-point" id="cestovni-ruch:digitalizace-cestovniho-ruchu">
+						Podporujeme digitalizaci cestovního ruchu, např. projekt eTurista, a budeme aktivně hledat přínosy i na úrovni obecních samospráv. Nové digitální projekty mohou pomoci snižovat administrativní zátěž, přinášet data v reálném čase a usnadňovat výběr místních poplatků. To přinese do obecního rozpočtu další zdroje, které mohou obce použít pro svůj rozvoj.
+					</li>
+				</ul>
+			</div>
+			
+			<div id="sport-content" class="topic-content">
+				<h2>Podpora sportu a zdravého životního stylu</h2>
+				
+				<ul class="program-content">
+					<li class="program-point" id="sport:rekonstrukce-sportovist">
+						<b>Podpoříme účelnou a udržitelnou rekonstrukci sportovišť v majetku obce i místních spolků.</b> Preferujeme budování sportovišť odpovídajících parametrů s multifunkčním využitím v blízkosti škol. Tím propojíme vzdělávání se sportem a zajistíme i efektivní financování provozu a využitelnost.
+					</li>
+					
+					<li class="program-point" id="sport:zdravy-zivotni-styl">
+						<b>Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, stejně tak práce lokálních klubů a spolků.</b> Naší prioritou je sportování dětí a mládeže, zajistíme rovné a transparentní dotační podmínky, například formou kapitační platby na sportující dítě. Podpoříme sportovní akce pro širokou veřejnost, především zapojení do pohybových aktivit, tzn. hobby sportovců všech generací.
+					</li>
+					
+					<li class="program-point" id="sport:pohybova-gramotnost">
+						<b>Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školách a školkách</b> (například projekt trenéři do škol, se Sokolem do života, atp.)
+					</li>
+				</ul>
+			</div>
+		</section>
+	</div>
+</section>
+
+<section class="buttons-wrapper">
+	<a
+		class="bottom-button"
+		id="button-odebirej-novinky"
+		href="https://nalodeni.pirati.cz/news/all/"
+	>Odebírej<br>Novinky</a>
+	
+	<a
+		class="bottom-button"
+		id="button-pridej-se-k-nam"
+		href="https://nalodeni.pirati.cz/"
+	>Přidej se<br>k nám!</a>
+	
+	<a
+		class="bottom-button"
+		id="button-prihod-do-truhly"
+		href="https://dary.pirati.cz/"
+	>Přihoď<br>do truhly</a>
+</section>
+
+<section id="share-form" class="modal">
+	<h2>Sdílení je aktem lásky.</h2>
+	
+	<textarea id="share-text" rows="5"></textarea>
+	
+	
+	<section class="share-icon-wrapper">
+		<div class="mast-share mast-share-sm share-icon">
+			<input type="checkbox" class="mast-check-toggle">
+			<div class="mast-instance">
+				<span>Instance: </span>
+				<input type="textbox" name="mast-instance-input" placeholder="mastodon.social">
+				<button class="mast-share-button">Sdílet</button>
+			</div>
+			<label class="mast-top mast-check-label">
+				<img
+					src="./svg/share-icons/mastodon-brands.svg"
+					alt="Sdílet na Mastodonu"
+					height="40"
+					width="40"
+				>
+			</label>
+		</div>
+		
+		<a
+			id="share-diaspora"
+			class="share-icon"
+			href="#"
+			rel="nofollow noopener noreferrer"
+		><img
+			src="./svg/share-icons/diaspora-brands.svg"
+			alt="Sdílet na Diaspoře"
+			height="40"
+			width="40"
+		></a>
+		
+		<a
+			id="share-twitter"
+			class="share-icon"
+			href="#"
+			rel="nofollow noopener noreferrer"
+		><img
+			src="./svg/share-icons/twitter-square-brands.svg"
+			alt="Sdílet na Twitteru"
+			height="40"
+			width="40"
+		></a>
+		
+		<a
+			id="share-facebook"
+			class="share-icon"
+			href="https://facebook.com/sharer/sharer.php?u=https://pirati.cz/program/komunal2022/"
+			target="_blank"
+			rel="nofollow noopener noreferrer"
+		><img
+			src="./svg/share-icons/facebook-square-brands.svg"
+			alt="Sdílet na Facebooku"
+			height="40"
+			width="40"
+		></a>
+	</section>
+</section>
+
+<script type="text/javascript" src="js/ui.js"></script>

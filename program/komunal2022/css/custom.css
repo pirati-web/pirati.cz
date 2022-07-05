@@ -1,0 +1,260 @@
+/* Main page */
+.c-BasicPage {
+	width: 100%;
+}
+
+/* Wrappers */
+.main-wrapper {
+	background: url("../svg/background.svg");
+	background-size: auto;
+	background-size: 100%;
+	background-position: top;
+	padding: 220px 200px 0 200px;
+	margin-bottom: 73px;
+	background-repeat: no-repeat;
+}
+
+.content-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	box-shadow: 0px 0px 33px 0px rgba(0, 0, 0, 0.25);
+	background: rgba(0, 0, 0, 0.125);
+}
+
+.topic-wrapper {
+	display: flex;
+	gap: 7.5px;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	width: 345px;
+	flex-basis: 345px;
+}
+
+.topic-content-wrapper {
+	flex-grow: 1;
+	flex-basis: 0;
+	background: #f7f7f7;
+	padding: 10px;
+	max-height: 463px;
+	overflow-y: auto;
+}
+
+.buttons-wrapper {
+	margin-top: 10px;
+	text-align: center;
+}
+
+/* Base topics */
+.topic {
+	text-align: center;
+	flex-basis: 100px;
+	width: 110px;
+	height: 110px;
+	flex-basis: 110px;
+	cursor: pointer;
+	transition: .15s;
+	padding: 5px;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.topic:hover {
+	background: #c8c8c8;
+}
+
+.topic svg {
+	height: 50px;
+	width: 50px;
+	fill: #000;
+}
+
+.topic label {
+	font-family: "Bebas Neue", sans-serif;
+	pointer-events: none;
+	font-size: 23px;
+	line-height: 25px;
+}
+
+/* Selected topics */
+.topic.topic-selected {
+	background: #000;
+}
+
+.topic.topic-selected label {
+	color: #fff;
+}
+
+.topic.topic-selected svg {
+	fill: #fff;
+}
+
+/* Topic content */
+.topic-content {
+	display: none;
+}
+
+/* Bottom buttons */
+.bottom-button {
+	font-family: "Bebas Neue";
+	color: #fff;
+	background-image: url("../svg/button-background.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	font-size: 27px;
+	line-height: 30px;
+	text-decoration: none;
+	transition: .15s;
+	position: relative;
+}
+
+.bottom-button:hover, .bottom-button:focus {
+	color: #b0b0b0;
+}
+
+.bottom-button:not(:last-child) {
+	margin-right: 12px;
+}
+
+/* Topic content styling */
+.topic-content-wrapper h2, .topic-content-wrapper h3 {
+	font-family: "Bebas Neue";
+	text-transform: uppercase;
+}
+
+.topic-content-wrapper h2 {
+	font-size: 1.9rem;
+}
+
+.topic-content-wrapper h3 {
+	font-size: 1.6rem;
+}
+
+.fake-bullet-point {
+	margin-left: 1.25rem;
+	position: relative;
+}
+
+.fake-bullet-point::before {
+	content: "•";
+	position: absolute;
+	top: 0;
+	left: -12.5px;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+/* Special button images */
+#button-odebirej-novinky::before,
+#button-pridej-se-k-nam::before, 
+#button-prihod-do-truhly::before {
+	background-size: cover;
+	position: absolute;
+	content: "";
+	top: -75px;
+	left: 0;
+	height: 75px;
+	width: 100%;
+	z-index: -1;
+}
+
+#button-odebirej-novinky::before { background-image: url("../svg/bottle.svg"); }
+#button-pridej-se-k-nam::before { background-image: url("../svg/anchor.svg"); }
+#button-prihod-do-truhly::before {
+	background-image: url("../svg/finance.svg");
+	background-size: 70%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: top;
+	height: 65px;
+	top: -65px;
+}
+
+/* Program points */
+.program-point-button-wrapper {
+	float: right;
+	margin-left: 3px;
+}
+
+.program-point-like, .program-point-share {
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	fill: #c2c2c2;
+	transition: .15s;
+	cursor: pointer;
+	margin-top: 7px;
+}
+
+.program-point-like:hover, .program-point-like:focus, .program-point-like-used {
+	fill: #fb4f6f;
+}
+
+.program-point-share:hover, .program-point-share:focus {
+	fill: #000;
+}
+
+/* Sharer */
+#share-form h2 {
+	font-family: 'Bebas Neue';
+	font-size: 25px;
+	margin-bottom: 7px;
+}
+
+#share-text {
+	width: 100%;
+}
+
+.share-icon-wrapper {
+	display: flex;
+	gap: 5px;
+	justify-content: center;
+	margin-top: 7px;
+}
+
+/* Mobile layout */
+@media only screen and (max-width: 1120px) {
+	.main-wrapper {
+		background-image: url("../svg/background-mobile.svg");
+		padding: 10px;
+		margin-bottom: 73px;
+		background-size: 80%;
+		padding-top: 18%;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.main-wrapper {
+		background-image: url("../svg/background-mobile.svg");
+		padding: 10px;
+		margin-bottom: 73px;
+		background-size: 80%;
+		padding-top: 18%;
+	}
+	
+	.content-wrapper {
+		flex-direction: column;
+		justify-content: center;
+	}
+	
+	.topic-wrapper {
+		align-items: stretch;
+		width: 100%;
+		flex-basis: 100%;
+	}
+	
+	.topic {
+		flex-basis: calc(33.3% - 5px);
+	}
+	
+	.topic-content-wrapper {
+		height: 463px;
+		flex-basis: 463px;
+	}
+}

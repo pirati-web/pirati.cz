@@ -18,10 +18,10 @@ $("button[data-toggle]").on("click", function()
 window.onload = function() {};
 
 /**
-* Choice n random items from collection
-* @param {collection} data - collection
-* @param {integer} n -number of choicen
-**/
+ * Choice n random items from collection
+ * @param {collection} data - collection
+ * @param {integer} n -number of choicen
+ **/
 var choice_n_random = function(data, n) {
   n = (typeof n !== 'undefined') ?  n : 3;
   var choice = [];
@@ -38,11 +38,11 @@ var choice_n_random = function(data, n) {
 };
 
 /**
-* Choice one person by uid
-* @param {collection} data
-* @param {string} uid
-* @param {string} role
-**/
+ * Choice one person by uid
+ * @param {collection} data
+ * @param {string} uid
+ * @param {string} role
+ **/
 var choice_person = function(data, uid, role) {
   role = (typeof role !== 'undefined') ? role : null;
   var person = null;
@@ -82,8 +82,8 @@ var choice_leader = function(data) { return choice_person(data, page_leader, 'p�
 var choice_contact= function(data) { return choice_person(data, page_contact, 'kontaktní osoba'); };
 
 /**
-* TODO: Smaže jména, která nemají profil
-**/
+ * TODO: Smaže jména, která nemají profil
+ **/
 var author_link = function(data, el) {
   var authors_text = el.text().split(',').map(function(s) { return s.trim() });
   var authors = choice_person_by_name(data, authors_text);
@@ -94,9 +94,9 @@ var author_link = function(data, el) {
   $.each(authors, function(index, author){
     var is_last_item = (index == (authors.length - 1));
     $('<a>',{
-        text: author.name,
-        title: author.name,
-        href: 'https://www.pirati.cz' + author.url
+      text: author.name,
+      title: author.name,
+      href: 'https://www.pirati.cz' + author.url
     }).appendTo(el);
     if(!is_last_item) {
       el.append(', ');
@@ -113,16 +113,16 @@ var author_link = function(data, el) {
 var show_people = function(data, who, where) {
   if(where.length) { /* Only if proper div exists */
     var choice = who(data);
-
+    
     $.get(snippet_profile, function (template) {
       var compiled=Handlebars.compile(template);
       $.each(choice, function(index, value) {
         var dataFields = ['role','name','mob','mail','img'];
         for (var f in dataFields ){
-            var key = dataFields[f];
-            if( where.attr('data-'+key) != undefined ){
-                value[key] = where.attr('data-'+key);
-            }
+          var key = dataFields[f];
+          if( where.attr('data-'+key) != undefined ){
+            value[key] = where.attr('data-'+key);
+          }
         }
         var html = compiled(value);
         where.append(html);
@@ -150,11 +150,11 @@ var search = function(data) {
 
 var back_top = function() {
   $(window).scroll(function() {
-      if ($(this).scrollTop() > 50 ) {
-          $('.scrolltop:hidden').stop(true, true).fadeIn();
-      } else {
-          $('.scrolltop').stop(true, true).fadeOut();
-      }
+    if ($(this).scrollTop() > 50 ) {
+      $('.scrolltop:hidden').stop(true, true).fadeIn();
+    } else {
+      $('.scrolltop').stop(true, true).fadeOut();
+    }
   });
   $(function(){
     $(".scroll").click(function(){
@@ -162,7 +162,7 @@ var back_top = function() {
         {scrollTop: $(".thetop").offset().top}, "1000");
       return false
     }
-  )});
+    )});
 }
 
 /**
@@ -173,11 +173,11 @@ var show_relatives = function(data) {
   if(ul.length) {
     var global_tags = data[0];
     var counter = 5;
-
+    
     if(!page_tags.length) {
       $('#relatives-box').hide();
     }
-
+    
     $.each(page_tags, function(index, tag) {
       $.each(global_tags[tag], function(index, post) {
         if(post.url != page_url && counter-- > 0) {
@@ -217,18 +217,18 @@ var hideOldEvents = function() {
  **/
 var makemap = function(data, url) {
   var settings = data[0].settings;
-
+  
   $(settings.id).width(settings.size.width);
   $(settings.id).height(settings.size.height);
   var R = Raphael(settings.id, settings.size.width, settings.size.height);
-
+  
   $("#region-description>div").hide();
-
+  
   var marked = null;
   var i = 0;
   var reg_list = $('#regions-list');
   var reg_list2 = $('#regions-list-2');
-
+  
   var regions = data[0].regions;
   $.each(regions, function(index, region) {
     if(i < 7 ) {
@@ -239,10 +239,10 @@ var makemap = function(data, url) {
       var span2 = $('<a/>').text(region.name).attr('href', region[url]).appendTo(li2);
     }
     i++;
-
+    
     var custom_attrs = {"title": region.name};
     var attrs = $.extend(settings.region_attrs, custom_attrs);
-
+    
     if(settings.colors) {
       region.color = Raphael.getColor();
     } else {
@@ -250,13 +250,13 @@ var makemap = function(data, url) {
     }
     var path_def = null;
     var reg_id = region.id;
-
+    
     $.each(region.paths, function(index, path) {
       path = R.path(path).scale(
         settings.size.scale,
         settings.size.scale,
         0,0).attr(attrs);
-
+        
         var click = function() {
           $(location).attr('href',region[url]);
         };
@@ -269,7 +269,7 @@ var makemap = function(data, url) {
         var out = function() {
           path.animate({fill: "#333"}, 500);
         };
-
+        
         path[0].onclick = click;
         path[0].ondblclick = dblclick;
         path[0].onmouseover = over;
@@ -281,36 +281,36 @@ var makemap = function(data, url) {
 $(function() {
   /* Search */
   $.get(api_search)
-    .done(search)
-    .fail(function(data) { console.log('Error in search:', data); });
-
+  .done(search)
+  .fail(function(data) { console.log('Error in search:', data); });
+  
   /* Back to top */
   back_top();
-
+  
   hideOldEvents();
-
+  
   /* People and garant */
   $.get(api_people)
-    .done(function(data) {
-      show_people(data, choice_n_random, $('#people'));
-      show_people(data, choice_garant,   $('#garant'));
-      show_people(data, choice_leader,   $('#leader'));
-      if(page_leader != page_contact) {
-        show_people(data, choice_contact,  $('#contact'));
-      }
-      if(page_layout == 'post') {
-        author_link(data, $('#authors'));
-      }
-    })
-    .fail(function(data) { console.log('Error in relatives articles:', data); });
-
+  .done(function(data) {
+    show_people(data, choice_n_random, $('#people'));
+    show_people(data, choice_garant,   $('#garant'));
+    show_people(data, choice_leader,   $('#leader'));
+    if(page_leader != page_contact) {
+      show_people(data, choice_contact,  $('#contact'));
+    }
+    if(page_layout == 'post') {
+      author_link(data, $('#authors'));
+    }
+  })
+  .fail(function(data) { console.log('Error in relatives articles:', data); });
+  
   /* Relatives */
   if($("#relatives").length) {
     $.get(api_tags)
-      .done(function(data) { show_relatives(data) })
-      .fail(function(data) { console.log('Error in relatives articles:', data); });
+    .done(function(data) { show_relatives(data) })
+    .fail(function(data) { console.log('Error in relatives articles:', data); });
   }
-
+  
   /* Regions */
   if($('#regions-map').length) {
     var use = 'url';  /* Default link in map */
@@ -318,10 +318,13 @@ $(function() {
       use = 'kandidatka';
     }
     $.get(api_regions)
-      .done(function(data) { makemap(data, use); })
-      .fail(function(data) { console.log("Error: map"); });
+    .done(function(data) { makemap(data, use); })
+    .fail(function(data) { console.log("Error: map"); });
   }
 });
+
+const PREFERRED_VIDEO_SOURCE = 'https://tv.pirati.cz/feeds/videos.xml?sort=-publishedAt';
+const FALLBACK_VIDEO_SOURCE = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
 
 /**
  * If we have a section with videos on the right bar, sets it source to the
@@ -329,22 +332,36 @@ $(function() {
  * falls back to the YouTube channel.
  **/
 var setLatestPeerTubeVideo = async function() {
-  const preferredVideoSource = 'https://tv.pirati.cz/feeds/videos.json?sort=-publishedAt';
-  const fallbackVideoSource = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
-
-  var peerTubeIframe = document.getElementById('peertube-iframe');
-
+  const peerTubeIframe = document.getElementById('peertube-iframe');
+  
   try {
     // No way to set a max length of 1, a bit of data is wasted getting
     // the 5 latest videos.
-    let response = await fetch(preferredVideoSource, {'method': 'GET'});
-    let feed = await response.json();
+    const unparsedFeed = (
+      await fetch(PREFERRED_VIDEO_SOURCE, {'method': 'GET'}).
+      then(
+        response => {
+          if (!response.ok) {
+            throw new Error("Non-2xx odpověď od PeerTube serveru.");
+          }
+          
+          return response.text();
+        }
+      )
+    );
+    
+    // We have jQuery anyway
+    const parsedFeed = await $.parseXML(unparsedFeed);
 
-    peerTubeIframe.src = feed['items'][0]['id'].replace('watch', 'embed');
+    // First item, media:embed, url attribute. This is ugly, but works.
+    const videoURL = parsedFeed.all[14].children[10].attributes[0].nodeValue;
+    
+    peerTubeIframe.src = videoURL;
   } catch (e) {
-    peerTubeIframe.src = fallbackVideoSource;
+    peerTubeIframe.src = FALLBACK_VIDEO_SOURCE;
+    
     console.log('Chyba při načítání PeerTube videa: ' + e);
-
+    
     return;
   }
 }
