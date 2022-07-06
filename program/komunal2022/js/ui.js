@@ -183,7 +183,18 @@ document.addEventListener(
 					const splitTopic = point.split(":");
 					const topicName = splitTopic[0];
 					
-					if (usedTopicNames.includes("topicName")) {
+					if (points[point] !== 0) {
+						// Can't directly alter ::after
+						
+						$(
+							"<style>"
+							+ `#${point.replace(":", "\\:")} `
+							+ `.program-point-button-wrapper::after{content:'${points[point]}'}`
+							+ "</style>"
+						).appendTo("head");
+					}
+					
+					if (usedTopicNames.includes(topicName)) {
 						continue;
 					}
 					

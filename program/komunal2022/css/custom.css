@@ -176,10 +176,25 @@
 	top: -65px;
 }
 
-/* Program points */
+/* Program point buttons */
 .program-point-button-wrapper {
 	float: right;
 	margin-left: 3px;
+	position: relative;
+}
+
+.program-point-button-wrapper::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 9px;
+	display: block;
+	text-align: center;
+	width: 25px;
+	font-family: 'Roboto Condensed';
+	pointer-events: none;
+	opacity: 0.7;
+	font-size: 13px;
 }
 
 .program-point-like, .program-point-share {
@@ -263,7 +278,13 @@
 	}
 	
 	.topic-content-wrapper {
-		height: 463px;
-		flex-basis: 463px;
+		flex-basis: 600px;
+		max-height: 600px;
+		flex-shrink: 0;
+	}
+	
+	.topic label {
+		font-size: 18px;
+		line-height: 21px;
 	}
 }
