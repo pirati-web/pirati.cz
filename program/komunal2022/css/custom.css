@@ -218,6 +218,15 @@
 	margin-top: 7px;
 }
 
+/* Download */
+#program-download {
+	display: inline-block;
+	color: black;
+	text-decoration: underline;
+	margin-top: 10px;
+	font-size: larger;
+}
+
 /* Mobile layout */
 @media only screen and (max-width: 1120px) {
 	.main-wrapper {
