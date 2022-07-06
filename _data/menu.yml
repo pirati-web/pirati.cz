@@ -28,12 +28,12 @@ main:
     match: program
     submenu:
     submenu:
-      - link: /program/
-        name: PSP 2021
-        match: psp2021
       - link: /program/komunal2022/
         name: Komunál 2022
         match: komunal2022
+      - link: /program/parlament2021/
+        name: PSP 2021
+        match: psp2021
       - link: /program/kraje2020/
         name: Kraje 2020
       - link: /program/europarlament2019/

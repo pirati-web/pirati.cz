@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25"
+   height="25"
+   version="1.1"
+   viewBox="0 0 25 25"
+   id="svg5"
+   sodipodi:docname="share.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="965"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="21.533333"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="1920"
+     inkscape:window-y="51"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     id="icon"
+     d="m 24.166573,11.137329 -8.211166,7.049451 c -0.717542,0.620504 -1.851665,0.118733 -1.851665,-0.847206 V 13.278786 C 6.8672271,13.381425 3.7487363,15.177587 5.8640808,21.942173 6.098797,22.692841 5.1917938,23.27461 4.554965,22.810893 2.5138547,21.326375 0.66678782,18.489793 0.66678782,15.620529 0.66678782,8.5197546 6.610528,7.0170881 14.102839,6.9292225 V 3.1978074 c 0,-0.9643048 1.132727,-1.4677666 1.851665,-0.8472053 l 8.211166,7.0494511 c 0.518325,0.4870713 0.518325,1.2894888 4.67e-4,1.7374398 z"
+     stroke-width="0.0466542" />
+</svg>
