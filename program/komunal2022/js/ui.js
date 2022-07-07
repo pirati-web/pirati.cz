@@ -126,6 +126,7 @@ document.addEventListener(
 				$("#share-form").modal();
 				
 				const topicParent = event.currentTarget.parentNode.parentNode;
+				const url = `https://pirati.cz/program/komunal2022/body/${topicParent.id}.html`;
 				
 				const shareTextElement = $("#share-text");
 				const renderedSharedText = (
@@ -139,6 +140,11 @@ document.addEventListener(
 				shareTextElement.html(renderedSharedText);
 				shareTextElement.select();
 				
+				$("#share-facebook").attr(
+					"href",
+					"https://facebook.com/sharer/sharer.php?u="
+					+ encodeURIComponent(url)
+				);
 				$("#share-twitter").attr(
 					"href",
 					`https://twitter.com/share?text=${encodeURIComponent(renderedSharedText)}`
@@ -147,7 +153,7 @@ document.addEventListener(
 					window.open(
 						(
 							"https://sharetodiaspora.github.io/?url="
-							+ encodeURIComponent(location.href)
+							+ encodeURIComponent(url)
 							+ "&title="
 							+ encodeURIComponent(document.title)
 						),
@@ -183,7 +189,18 @@ document.addEventListener(
 					const splitTopic = point.split(":");
 					const topicName = splitTopic[0];
 					
-					if (usedTopicNames.includes("topicName")) {
+					if (points[point] !== 0) {
+						// Can't directly alter ::after
+						
+						$(
+							"<style>"
+							+ `#${point.replace(":", "\\:")} `
+							+ `.program-point-button-wrapper::after{content:'${points[point]}'}`
+							+ "</style>"
+						).appendTo("head");
+					}
+					
+					if (usedTopicNames.includes(topicName)) {
 						continue;
 					}
 					
