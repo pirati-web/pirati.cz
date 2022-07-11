@@ -4,7 +4,7 @@ category:     blog
 tags:         lidská-práva cenzura
 layout:       post
 title:        "Piráti nesouhlasí s prolomením soukromí, které umožní úředníkům slídit v intimních fotkách. Děti ochrání lepší digitální gramotnost, bezpečnostní pojistky a větší kapacity vyšetřovatelů"
-image:        /assets/img/articles/2022/jakub-michalek02.jpg
+image:        /assets/img/articles/2022/jakub-michalek-eet-bioslozka.jpg
 author:       
 ---
 
