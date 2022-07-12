@@ -1,0 +1,27 @@
+---
+date:         2022-07-12
+category:     blog
+tags:         lidská-práva korupce
+layout:       post
+title:        "Sněmovna projedná sankční zákon pro zločince porušující lidská práva a rozšíření práva občanů na informace. Ministr Šalomoun varoval před miliardovými pokutami kvůli obstrukcím opozice"
+image:        /assets/img/articles/2022/brifink-12-7-22.jpg
+author:       
+---
+
+ 
+
+Praha, 12. července 2022 – Sněmovna v týdnu projedná Magnitského zákon navržený pirátským ministrem zahraničí Janem Lipavským. Česká republika tak získá možnost uvalovat sankce na ty, kteří porušují lidská práva. Na programu je i novela o svobodném přístupu k informacím, kterou prosazuje předseda poslaneckého klubu Pirátů Jakub Michálek v rámci pirátského protikorupčního balíčku. Díky ní už nebudou moci úřady tajit platy a odměny nejvýše postavených úředníků a ČEZ bude mít povinnost poskytovat více informací než doposud. Jednat se bude rovněž o návrhu místopředsedkyně Sněmovny Olgy Richterové, který umožní lidem čerpat až trojnásobné příspěvky na prevenci od zdravotních pojišťoven, například na sportovní kroužky pro děti. Michal Šalomoun, ministr pro legislativu za Piráty, před mimořádnou schůzí varoval, že je Česko v obřím skluzu v přejímání evropských směrnic a hrozí mu i kvůli obstrukcím opozice až miliardové pokuty. 
+
+*„Prosazení Magnitského zákona je jedním z bodů v programovém prohlášení vlády. Umožní umístění osob na sankční listinu a zákaz jejich vstupu do země nebo zmrazení majetku v případě porušování lidských práv. Je to výrazná součást naší zahraniční politiky, práci na tomto zákoně jsme odvedli o rok dřív, než jsme slíbili v programovém prohlášení vlády a podařilo se nám jej zařadit na aktuální jednání Sněmovny. Zákon se netýká jenom problematiky lidských práv, ale i boje proti terorismu nebo kybernetických útoků. Pro ČR je to nástroj, jak bránit zájmy své i EU,”* uvedl ministr zahraničí Jan Lipavský, který Magnitského zákon prosazoval už jako poslanec v minulém volebním období. Česko je první středoevropskou zemí, která takové sankční opatření bude mít.
+
+*„Magnitského zákon zároveň umožňuje zařazení osob a subjektů na vnitrostátní seznam, který je doplňkovou možností pro případy, kdy se nepodaří zařadit osobu ani na jeden ze sankčních seznamů EU. Těmto osobám bude ČR moci zmrazit majetky ihned, aniž bychom museli čekat na reakci EU,”* doplnil Lipavský.   
+
+Ministr Šalomoun před začátkem mimořádné schůze Sněmovny připomněl, že ve Sněmovně čeká na projednání 10 zákonů s uplynulou transpoziční lhůtou od EU a další čekají teprve na zařazení. Obstrukce opozice, která projednání zdržuje, mohou stát ČR celkem až dvě miliardy korun na pokutách. Týká se to i protikorupčních zákonů, kterými je podmíněno vyplácení evropských dotací.
+
+*„Máme povinnosti, které musíme splnit. Od minulé vlády jsme zdědili obří resty, celkem 36 směrnic EU. Kvůli obstrukcím opozice, které vyvrcholily minulý pátek zablokováním Sněmovny, se proces neúměrně protahuje – hrozí nám pokuty až do výše dvou miliard korun, pokud vše neproběhne řádně a včas. Ve Sněmovně čeká na schválení 10 návrhů u nichž lhůta již uplynula a jejich schválení spěchá. Vedle hrozby pokut je ve hře také ztráta reputace ČR,”* řekl Michal Šalomoun.
+
+Na programu dnešního jednání je zákon o svobodném přístupu k informacím, který dlouhodobě prosazuje předseda poslaneckého klubu Pirátů Jakub Michálek. Občanům dá širší možnost kontrolovat dění ve státě, krajích, obcích a jejich firmách: *„Návrh je součástí skupiny 13 zákonů prosazovaných Piráty a přezdívaných kladivo proti korupčníkům, který je mířen proti tzv. Hlubučkování. Týká se i dopravního podniku v Praze. Osobně jsem poptával informace o odměnách advokátů společnosti ovládané pražským dopravním podnikem a trvalo tři roky, než jsem je obdržel. Zákon přináší změny ve třech ohledech – nově se bude vztahovat na ČEZ a její dceřiné společnosti, umožní občanům, aby se mohli zeptat na mimořádné odměny úředníků. Zatajování se často týkalo Pražského hradu nebo Úřadu vlády. Třetí změnou bude posílení vymahatelnosti práva na informace. Bude možné se odvolat k Úřadu pro ochranu osobních údajů, který vydá informační příkaz, dle kterého dotazovaný úřad požadované informace vydá,”* komentoval obsah návrhu Michálek.
+
+Sněmovna bude tento týden projednávat také návrh místopředsedkyně Poslanecké sněmovny Olgy Richterové, který sjednocuje možnosti financování prevenčních fondů u Všeobecné zdravotní pojišťovny a mezi zaměstnaneckými zdravotními pojišťovnami a zvyšuje možný objem peněz v těchto fondech. 
+
+*„Chceme předcházet potížím dříve, než vzniknou, či zdravotní problémy aktivně zmírňovat. Fondy prevence slouží k poskytování nejenom zdravotnických služeb s preventivním, diagnostickým nebo léčebným významem, ale mohou pokrývat i rehabilitační aktivity nebo podporu zdravého způsobu života. Náš návrh reálně rozšíří možnost výběru pro lidi, protože klienti pojišťoven se často rozhodují na základě nabídky bonusů. Těch by na základě tohoto návrhu mohlo být více. Nejlevnější varianta, jak předejít nemoci, je totiž prevence, proto chceme umožnit co nejširší a nejvyšší škálu příspěvků na zdravý životní styl - od sportovních kroužků pro děti, vyšších příspěvků na diety pro zdravotně znevýhodněné, pomůcky pro diabetiky, psychosociální podporu a mnohé další,”* sdělila spoluautorka návrhu Olga Richterová s tím, že návrh výrazně rozšiřuje možnosti financování z fondu prevence Všeobecné zdravotní pojišťovny i zaměstnaneckých pojišťoven, a to přibližně až na trojnásobek. 
