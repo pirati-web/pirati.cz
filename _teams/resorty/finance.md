@@ -54,7 +54,7 @@ V rámci Resortního týmu fungují pracovní skupiny, které se do větších d
 
 - A. veřejné rozpočty - **[Mikuláš Ferjenčík](/lide/mikulas-ferjencik)** 
 - B. daňová politika - **[Jiří Valenta](/lide/jiri-valenta)** 
-- C. kapitálové trhy a bankovnictví - **[Aleš Chán](/lide/ales-chan)**
+- C. kapitálové trhy a bankovnictví - **[Aleš Chán](/lide/profil/3136/)**
 - D. důchody -  **[Tomáš Martínek](/lide/tomas-martinek)**
 - E. státní podniky - **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**
 - F. podpora podnikání - **[Michal Švagerka](/lide/michal_svagerka)**  (dočasně pověřen vedením)
