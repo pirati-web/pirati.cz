@@ -71,17 +71,8 @@ Fungování týmu
 EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Schůze jsou vyhlašované na
 [Fóru](https://forum.pirati.cz/viewtopic.php?f=559&t=44931) a na [Zulipu](https://zulip.pirati.cz/#narrow/stream/516-RT-EZO/topic/Sch.C5.AFze.20RT.20EZO).
 
-Členové týmu jsou:
-
-* **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně
-* **[Tomáš Guth Jarkovský](/lide/tomas-guth-jarkovsky/)**, vedoucí MRT Lidská práva
-* **[Marcel Kolaja](/lide/marcel-kolaja)**, místopředseda Evropského parlamentu
-* **[František Kopřiva](/lide/frantisek-kopriva)**
-* **[Jan Lipavský](/lide/jan-lipavsky)**, ministr zahraniční věci ČR
-* **Alexandr Mansurov** 
-* **[František Navrkal](/lide/frantisek-navrkal)**, poslanec, člen [Zahraničního výboru](https://www.psp.cz/sqw/hp.sqw?k=3300), člen Podvýboru pro rozvojovou spolupráci
-* **[Mikuláš Peksa](/lide/mikulas-peksa)**, europoslanec
-* **David František Wagner**, asistent Mikuláše Peksy
+* Gestorem týmu je **[Jan Lipavský](/lide/jan-lipavsky)**, ministr zahraniční věci ČR.
+* Vedoucí týmu je **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys) a [Strategie RT EZO](https://codimd.pirati.cz/strategie_rt_ezo#). 
 Nadřízeným týmem je republikové předsednictvo.
