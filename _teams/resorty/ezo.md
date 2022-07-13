@@ -9,7 +9,7 @@ deputy:
 category: resort
 redmine: https://redmine.pirati.cz/projects/resort-evropska-unie-zahranici-obrana
 uid: ezo
-calendar: ZWVzaGJjZXV2NHMxNmkyM2p1aDJlMzM0ZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+calendar: # ZWVzaGJjZXV2NHMxNmkyM2p1aDJlMzM0ZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 forum: https://forum.pirati.cz/mezinarodni-vztahy-f559/
 zapis: https://forum.pirati.cz/viewtopic.php?f=559&t=45987
 newsletter:  https://nalodeni.pirati.cz/news/list/15/
