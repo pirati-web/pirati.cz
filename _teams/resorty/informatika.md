@@ -26,7 +26,7 @@ mpv: # resort-informatika Mediální výsledky
 Co děláme?
 ----------
 
-* Prosazujeme [volební program v oblasti informatiky](/program/parlament2021/),
+* Prosazujeme [volební program v oblasti informatiky](https://www.pirati.cz/program/parlament2021/),
 * projednáváme sněmovní tisky, které jsou přikázány [podvýboru pro e-government](http://www.psp.cz/sqw/hp.sqw?k=4427),
 * témata, která řešíme:
     * egovernment
