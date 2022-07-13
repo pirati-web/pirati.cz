@@ -17,8 +17,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=529&t=43863
-redmine_id: resort-vnitro-a-bezpecnost # Střednědobé cíle týmu
-mpv: resort-vnitro-a-bezpecnost # Mediální výsledky
+redmine_id: # resort-vnitro-a-bezpecnost # Střednědobé cíle týmu
+mpv: # resort-vnitro-a-bezpecnost # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast vnitra a bezpečnosti**.
@@ -26,7 +26,7 @@ Vítejte na stránce pirátského **týmu pro oblast vnitra a bezpečnosti**.
 Co děláme?
 ----------
 
-* prosazujeme volební program v oblasti [vnitra a otevřeného státu](https://www.pirati.cz/program/psp2017/vnitro/), kde jako těžiště vnímáme svobodný přístup k informacím a transparentní přístup ze strany státních institucí, který omezí korupci
+* prosazujeme [volební program v oblasti vnitra a otevřeného státu](https://www.pirati.cz/program/parlament2021/), kde jako těžiště vnímáme svobodný přístup k informacím a transparentní přístup ze strany státních institucí, který omezí korupci
 * připravujeme na základě ověřených zdrojů stanoviska týmu k nejaktuálnějšímu dění (např. k personálním změnám na ministerstvech)
 * aktivně spolupracujeme s odborníky, neziskovým sektorem i státními úřady
 * připomínkujeme rozhodnutí české vlády v bezpečnostní politice
@@ -79,17 +79,9 @@ Dejte vědět! S Vašimi dalšími návrhy se můžete ozvat kontaktní osobě z
 Fungování týmu
 ----------------------
 
-Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je Lukáš Kolářík.
+Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. 
 
-Členové týmu jsou:
-
-* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, zodpovědný za oblast vnitra, předchozí místopředseda [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předchozí člen [Podvýboru pro Policii České republiky, obecní policii a soukromé bezpečnostní služby](http://www.psp.cz/sqw/hp.sqw?k=4923) a [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **[Tomáš Vymazal](https://www.pirati.cz/lide/tomas-vymazal/)**, předchozí člen [Výboru pro bezpečnost](http://www.psp.cz/sqw/hp.sqw?k=4900), předchozí předseda [Stálé komise pro kontrolu použití odposlechu a záznamu telekomunikačního provozu, použití sledování osob a věcí a rušení provozu elektronických komunikací](http://www.psp.cz/sqw/hp.sqw?k=7600), předchozí člen [Podvýboru pro vězeňství](http://www.psp.cz/sqw/hp.sqw?k=4924), člen [Podvýboru pro ochranu práv osob omezených na svobodě](http://www.psp.cz/sqw/hp.sqw?k=3922), předchozí člen [Stálé komise pro kontrolu činnosti GIBS](http://www.psp.cz/sqw/hp.sqw?k=7500)
-* **[Jan Hora](https://praha4.pirati.cz/lide/jan-hora/)**, předchozí člen [Výboru pro bezpečnost ZHMP](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33594)
-* **Daniel Galuszka**, asistent Lukáše Koláříka a kontaktní osoba pro záležitosti týmu
-* **Ondřej Klíma**, asistent Tomáše Vymazala
-* **Petr Fojtík**, politický analytik poslaneckého klubu Pirátů
-* **Janusz Konieczny**, protikorupční analytik poslaneckého klubu Pirátů
-* **Martin Archalous**, legislativec poslaneckého klubu Pirátů
+Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, garant a náměstek ministra vnitra. 
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
+
