@@ -47,7 +47,7 @@ Fungování týmu
 Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. 
 
 Vedoucí týmu:
-* **[Ondřej Chrást](https://lide.pirati.cz/profil/1774/)**, náměstek ministra kultury;
+* **[Ondřej Chrást](https://lide.pirati.cz/profil/1774/)**, náměstek ministra kultury.
 
 Kontaktní osoba:
 * **[Štěpán Drtina](https://stredocesky.pirati.cz/lide/mgr-stepan-drtina/)**, Kutnohorský radní pro kulturu a památkovou péči, historik.
