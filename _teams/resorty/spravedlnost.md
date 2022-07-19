@@ -58,7 +58,7 @@ Komunikace mezi členy rezortního týmu probíhá přes e-mail.
 ------------
 
 **Vedoucí týmu:**
-* **[Jakub Michálek](/lide/jakub-michalek/)**, zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců, poslanec.
+* **[Jakub Michálek](/lide/jakub-michalek/)**, předseda poslaneckého klubu Pirátů zodpovědný za resort spravedlnosti, řešení kvalitu justice a jmenování soudců.
 
 **Kontaktní osoba:**
 * **Anna Urbanová** (anna.urbanova@pirati.cz), asistentka poslaneckého klubu Pirátů.
