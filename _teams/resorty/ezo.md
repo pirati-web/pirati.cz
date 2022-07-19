@@ -71,8 +71,11 @@ Fungování týmu
 EZO tým se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Schůze jsou vyhlašované na
 [Fóru](https://forum.pirati.cz/viewtopic.php?f=559&t=44931) a na [Zulipu](https://zulip.pirati.cz/#narrow/stream/516-RT-EZO/topic/Sch.C5.AFze.20RT.20EZO).
 
-* Gestorem týmu je **[Jan Lipavský](/lide/jan-lipavsky)**, ministr zahraniční věci ČR.
-* Vedoucí týmu je **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně.
+**Gestor:**
+* **[Jan Lipavský](/lide/jan-lipavsky)**, ministr zahraničních věcí ČR.
+
+**Vedoucí týmu:**
+* **[Markéta Gregorová](/lide/marketa-gregorova)**, europoslankyně.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys) a [Strategie RT EZO](https://codimd.pirati.cz/strategie_rt_ezo#). 
 Nadřízeným týmem je republikové předsednictvo.
