@@ -31,12 +31,12 @@ Resortní tým zastřešuje pirátský program v oblasti financí a rozpočtu. T
 
 Tématy, kterými se zabýváme, jsou zejména:
 
-* Veřejné a moderní rozpočtování
-* Férové nastavení daní
-* Spravedlivé trhy
-* Fungování státních podniků
-* Výzvy, které do ekonomiky přináší nové technologie a globalizace
-* Odliv zisků do daňových rájů, transparentnost a boj proti korupci
+* Veřejné a moderní rozpočtování;
+* férové nastavení daní;
+* spravedlivé trhy;
+* fungování státních podniků;
+* výzvy, které do ekonomiky přináší nové technologie a globalizace;
+* odliv zisků do daňových rájů, transparentnost a boj proti korupci.
                         	
 
 Jak se můžete zapojit?
@@ -48,7 +48,8 @@ Zapojení do resortního týmu je umožněno všem registrovaným příznivcům 
 Fungování týmu
 ---------------
 
-Resortní tým se schází jedenkrát měsíčně. Vedoucím týmu je **[Jiří Valenta](/lide/jiri-valenta)** .
+**Vedoucí týmu:**
+* **[Jiří Valenta](/lide/jiri-valenta)** .
 
 V rámci Resortního týmu fungují pracovní skupiny, které se do větších detailů zabývají různými tématy, přičemž každá skupina má garanta, který za ni nese zodpovědnost. V současné chvíli pod RT působí následující pracovní skupiny:
 
