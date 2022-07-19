@@ -17,19 +17,19 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=556&t=46622
-redmine_id: resort-zemedelstvi # Střednědobé cíle týmu
-mpv: resort-zemedelstvi # Mediální výsledky
+redmine_id: # resort-zemedelstvi # Střednědobé cíle týmu
+mpv: # resort-zemedelstvi # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro zemědělství**.
 
 Co děláme?
 ----------
-* prosazujeme sněmovní volební program v oblasti [zemědělství](https://www.pirati.cz/program/psp2017/zemedelstvi/),
+* Prosazujeme sněmovní volební program v oblasti [zemědělství](https://www.pirati.cz/program/psp2017/zemedelstvi/),
 * projednáváme sněmovní tisky, které jsou přikázány [Zemědělskému výboru Poslanecké sněmovny](http://www.psp.cz/sqw/hp.sqw?k=4700),
 * připravujeme k návrhům podklady a stanoviska pro poslanecký klub,
 * kontrolujeme práci Ministerstva zemědělství a v otázkách majících vztah k zemědělství i Ministerstvo životního prostředí,
-* rozpracováváme [dlouhodobý program pro zemědělství](https://www.pirati.cz/program/dlouhodoby/zemedelstvi/), připravujeme jeho rozšíření do podbodů (ochrana půdy, potravinářství, lesnictví atd.) a iniciujeme vznik programového bodu “Rozvoj venkova”
+* rozpracováváme [dlouhodobý program pro zemědělství](https://www.pirati.cz/program/dlouhodoby/zemedelstvi/), připravujeme jeho rozšíření do podbodů (ochrana půdy, potravinářství, lesnictví atd.) a iniciujeme vznik programového bodu “Rozvoj venkova”.
 
 Co je už hotové?
 ----------------------
@@ -37,15 +37,15 @@ Podali jsme pozměňovací návrh k novele č. 254/2001 Sb. - Zákon o vodách a
 
 Na čem pracujeme?
 ----------------------
-* Snižování negativních dopadů zemědělské politiky
-* Zjednodušování a zastropování systému dotací
-* Podpora začínajících zemědělců, rodinných farem, malých družstev a komunitou podporovaného zemědělství
-* Rozvoj zemědělství s pestrými osevními postupy a chovem zvířat volně v přírodě
-* Ochrana půdy a její dostupnost
-* Změny v oblasti přimíchávání biopaliv
-* Kontrola Lesů ČR
-* Dostupnost zdravých, kvalitních a lokálních potravin
-* Ochrana zahrádkářských osad před tlakem developerů
+* Snižování negativních dopadů zemědělské politiky.
+* Zjednodušování a zastropování systému dotací.
+* Podpora začínajících zemědělců, rodinných farem, malých družstev a komunitou podporovaného zemědělství.
+* Rozvoj zemědělství s pestrými osevními postupy a chovem zvířat volně v přírodě.
+* Ochrana půdy a její dostupnost.
+* Změny v oblasti přimíchávání biopaliv.
+* Kontrola Lesů ČR.
+* Dostupnost zdravých, kvalitních a lokálních potravin.
+* Ochrana zahrádkářských osad před tlakem developerů.
 
 Jak se můžete zapojit?
 ----------------------
@@ -56,13 +56,13 @@ Pokud souhlasíte s Pirátským programem v oblasti zemědělství a životního
 Fungování týmu
 ----------------------
 
-Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Martin Huňady.
-Členové týmu jsou:
-* **[Jiří Lehejček](https://www.pirati.cz/lide/jiri-lehejcek/)**, vedoucí týmu - zaštiťuje [zemědělský program](https://www.pirati.cz/program/psp2017/zemedelstvi/) Pirátské strany
-* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, předchozí místopředseda [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), předchozí člen [Podvýboru pro lesní hospodářství](http://www.psp.cz/sqw/hp.sqw?k=4727) a [Podvýboru pro ochranu přírody a krajiny](http://www.psp.cz/sqw/hp.sqw?k=4620)
-* **[Jan Pošvář](https://www.pirati.cz/lide/jan-posvar/)**, předchozí člen [Zemědělského výboru](http://www.psp.cz/sqw/hp.sqw?k=4700), předchozí člen [Podvýboru pro myslivost, rybářství, včelařství, zahrádkářství a chovatelství](http://www.psp.cz/sqw/hp.sqw?k=4726)
-* Martin Huňady, politolog, asistent  Jana Pošváře
-* Jiří Valenta, právník, asistent  Radka Holomčíka
+Zemědělský tým se schází podle potřeby, obvykle před schůzemi výboru v prostorách Poslaneckého klubu Pirátské strany (vstup z Malostranského náměstí 7/19). 
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (zejména členové Výboru pro životní prostředí, Hospodářského výboru a Rozpočtového výboru).
+**Gestor:**
+* **[Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik/)**, náměstek ministra zemědělství.
 
+**Vedoucí týmu:**
+* **[Jiří Lehejček](https://www.pirati.cz/lide/jiri-lehejcek/)**, zaštiťuje [zemědělský program](https://www.pirati.cz/program/parlament2021/) Pirátské strany.
+
+
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. 
