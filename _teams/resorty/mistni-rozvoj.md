@@ -11,8 +11,8 @@ tags: stavebnictví územníi-plánování pohřebnictví bytová-politika regio
 category: resort
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=1136&t=47010
-redmine_id: resort-mistni-rozvoj # Střednědobé cíle týmu
-mpv: resort-mistni-rozvoj # Mediální výsledky
+redmine_id: # resort-mistni-rozvoj # Střednědobé cíle týmu
+mpv: # resort-mistni-rozvoj # Mediální výsledky
 
 ---
 
@@ -41,24 +41,17 @@ Fungování týmu
 
 Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle před schůzemi Poslanecké sněmovny případně výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
 
-Členové týmu:
-* [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), předchozí vedoucí resortního týmu Místní rozvoj a veřejná správa, předchozí předseda podvýboru pro e-government výboru veřejné správy a regionálního rozvoje, garant programového bodu Informatika
-* [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova), zástupkyně vedoucího týmu, tajemnice-asistentka poslance Ivana Bartoše
-* [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos) předseda výboru pro veřejnou správu a regionální rozvoj
-* [Olga Richterová](https://www.pirati.cz/lide/olga-richterova), předchozí místopředsedkyně výboru pro sociální politiku, předchozí členka podvýboru pro bytovou politiku výboru veřejné správy a regionálního rozvoje, předchozí členka podvýboru pro sociálně zdravotní pomezí 
-* [Radek Holomčík](https://www.pirati.cz/lide/radek-holomcik), předchozí člen podvýboru pro cestovní ruch výboru veřejné správy a regionálního rozvoje a podvýboru pro ochranu přírody a krajiny výboru pro životní prostředí
-* [Martin Jiránek](https://www.pirati.cz/lide/martin-jiranek), předchozí člen podvýboru pro veřejnou správu výboru veřejné správy a regionálního rozvoje a podvýboru pro podnikatelské prostředí hospodářského výboru
-* [František Elfmark](https://www.pirati.cz/lide/frantisek-elfmark), předchozí člen výboru pro životní prostředí a podvýboru pro technickou ochranu životního prostředí
-* [Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta), garant programového bodu Regionální rozvoj, krajský radní Karlovarského kraje
-* [Matouš Vanča](https://www.pirati.cz/lide/matous-vanca/), předchozí tajemník poslaneckého klubu, zastupitel obce Čestlice
-* [Zuzana Freitas](https://www.pirati.cz/lide/zuzana-freitas), asistentka poslankyně Olgy Richterové
-* Petr Pleticha, asistent  Martina Jiránka
-* Dan Kolář, asistent  Ondřeje Profanta
-* Jakub Brejša, asistent  Františka Elfmarka
-* Jiří Valenta, asistent  Radka Holomčíka
-* Anna Doová, asistentka poslance Ivana Bartoše
+Gestor: 
+* [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos), ministr pro místní rozvoj.
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Lukáš Kolařík](https://www.pirati.cz/lide/lukas-kolarik) pro oblast informačních technologií pro dávkové systémy).
+Vedoucí týmu:
+* [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), náměstek ministra pro místní rozvoj.
+
+Kontaktní osoba:
+* [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova).
+
+
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo.
 
 * [Zápisy z jednání týmu](https://forum.pirati.cz/viewtopic.php?f=1136&t=47010&p=617443#p617443)
 * [Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20)
