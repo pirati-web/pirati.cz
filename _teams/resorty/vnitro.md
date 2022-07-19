@@ -40,27 +40,17 @@ Jak se můžete zapojit?
 
 Sledujeme širokou agendu Ministerstva Vnitra, do které patří zejména témata:
 
-- zbraní a střeliva
-
-- požární ochrany
-
-- povolování pobytů cizincům
-
-- hraničních přechodů a ochrany hranic
-
-- krizového řízení
-
-- ochrany obyvatelstva
-
-- služebních poměrů bezpečnostních sborů
-
-- kybernetické bezpečnosti
-
-- vězeňství
-
-- změn pravidel silničního provozu ve městě 
-
-- a další.
+* zbraní a střeliva;
+* požární ochrany;
+* povolování pobytů cizincům;
+* hraničních přechodů a ochrany hranic;
+* krizového řízení;
+* ochrany obyvatelstva;
+* služebních poměrů bezpečnostních sborů;
+* kybernetické bezpečnosti;
+* vězeňství;
+* změn pravidel silničního provozu ve městě 
+* a další.
 
 Pokud vás kterékoliv z těchto témat zajímá, můžete se aktivně zapojit do práce na předkládaných sněmovních tiscích pomocí [tohoto formuláře](https://docs.google.com/forms/d/e/1FAIpQLSdy0HBSV0QvbZ_azJtsh3AiFc1wRI6XI1Ea8vJ3zQOwAvul6Q/viewform). Existuje hned několik způsobů, jak nám můžete pomoct.
 
@@ -81,7 +71,8 @@ Fungování týmu
 
 Tým pro vnitro a bezpečnost se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. 
 
-Zodpovědným za shromažďování agendy na hlavní schůzky a jejich vedení je **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, garant a náměstek ministra vnitra. 
+**Vedoucí a gestor týmu:**
+* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, garant a náměstek ministra vnitra. 
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
 
