@@ -17,8 +17,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=548&t=45705
-redmine_id: resort-prace-a-socialnich-veci # Střednědobé cíle týmu
-mpv: resort-prace-a-socialnich-veci # Mediální výsledky
+redmine_id: # resort-prace-a-socialnich-veci # Střednědobé cíle týmu
+mpv: # resort-prace-a-socialnich-veci # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro oblast práce a sociálních věcí**.
@@ -26,12 +26,12 @@ Vítejte na stránce pirátského **týmu pro oblast práce a sociálních věc�
 Co děláme?
 ----------
 
-* prosazujeme [volební program v oblasti práce a sociálních věcí](https://www.pirati.cz/program/psp2017/prace-a-socialni-veci/)
-* projednáváme sněmovní tisky, které jsou přikázány [Výboru pro sociální politiku Poslanecké sněmovny PČR](http://www.psp.cz/sqw/hp.sqw?k=4300)
-* projednáváme návrhy na změnu zákonů o dávkách a příspěvcích, o sociálních službách, o postavení dětí, rodin, seniorů, osob zdravotně postižených (tj. např. dávky v hmotné nouzi, přídavky na děti, náhradní rodinná péče, příspěvek na péči), zabýváme se i předpisy, které se týkají sociálního bydlení
-* připravujeme k návrhům podklady a stanoviska pro poslanecký klub
-* kontrolujeme práci Ministerstva práce a sociálních věcí
-* rozpracováváme dlouhodobý program pro [sociální systém](https://www.pirati.cz/program/dlouhodoby/socialni-system/) (viz také web [socialnisystem.pirati.cz](https://socialnisystem.pirati.cz/)) a dostupné bydlení (podrobnosti na [bydlimevsichni.cz](https://www.socialni-a-dostupne-bydleni.cz/)), řešíme souvislosti pro [daňový systém](https://www.pirati.cz/program/dlouhodoby/dane/) a dopady pro [regionální rozvoj](https://www.pirati.cz/program/psp2017/mistni-rozvoj/)
+* prosazujeme [volební program v oblasti práce a sociálních věcí](https://www.pirati.cz/program/psp2017/prace-a-socialni-veci/);
+* projednáváme sněmovní tisky, které jsou přikázány [Výboru pro sociální politiku Poslanecké sněmovny PČR](http://www.psp.cz/sqw/hp.sqw?k=4300);
+* projednáváme návrhy na změnu zákonů o dávkách a příspěvcích, o sociálních službách, o postavení dětí, rodin, seniorů, osob zdravotně postižených (tj. např. dávky v hmotné nouzi, přídavky na děti, náhradní rodinná péče, příspěvek na péči), zabýváme se i předpisy, které se týkají sociálního bydlení;
+* připravujeme k návrhům podklady a stanoviska pro poslanecký klub;
+* kontrolujeme práci Ministerstva práce a sociálních věcí;
+* rozpracováváme dlouhodobý program pro [sociální systém](https://www.pirati.cz/program/dlouhodoby/socialni-system/) (viz také web [socialnisystem.pirati.cz](https://socialnisystem.pirati.cz/)) a dostupné bydlení (podrobnosti na [bydlimevsichni.cz](https://www.socialni-a-dostupne-bydleni.cz/)), řešíme souvislosti pro [daňový systém](https://www.pirati.cz/program/dlouhodoby/dane/) a dopady pro [regionální rozvoj](https://www.pirati.cz/program/psp2017/mistni-rozvoj/).
 
 Jak se můžete zapojit?
 ----------------------
@@ -50,17 +50,10 @@ Všechny schůzky týmu Práce a sociální věci jsou v [kalendáři](https://c
 
 Tým se schází v PiCe, Na Moráni 3, Praha 2. Mimořádné schůzky se konají v prostorách pirátského poslaneckého klubu v Poslanecké sněmovně PČR (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Zuzana Freitasová. Zápis se zveřejňuje [zde](https://forum.pirati.cz/viewtopic.php?f=548&t=45705).
 
-Členové týmu jsou:
+**Gestor:**
+* **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**, místopředsedkyně Poslanecké sněmovny, za Piráty zodpovědná za resort práce a sociálních věcí.
 
-* **[Olga Richterová](https://www.pirati.cz/lide/olga-richterova/)**,  zodpovědná za resort práce a sociálních věcí, předchozí místopředsedkyně [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), předchozí členka [Výboru pro zdravotnictví](http://www.psp.cz/sqw/hp.sqw?k=4300), předchozí místopředsedkyně [Podvýboru pro sociálně zdravotní pomezí](http://www.psp.cz/sqw/hp.sqw?k=4328), předchozí členka [Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000)
-* **[Lukáš Kolářík](https://www.pirati.cz/lide/lukas-kolarik/)**, předchozí člen [Výboru pro sociální politiku](http://www.psp.cz/sqw/hp.sqw?k=4300), předchozí předseda [Podvýboru pro informační technologie a dávkové systémy](http://www.psp.cz/sqw/hp.sqw?k=4329), předchozí člen [Podvýboru pro problematiku exekucí, insolvencí a oddlužení](http://www.psp.cz/sqw/hp.sqw?k=4025)
-* **[Tomáš Martínek](https://www.pirati.cz/lide/tomas-martinek/)**, věnuje se problematice důchodové reformy, předchozí poslanec za Liberecký kraj, člen [Rozpočtového výboru](http://www.psp.cz/sqw/hp.sqw?k=3400), člen [Podvýboru pro e-Government](http://www.psp.cz/sqw/hp.sqw?k=4427), 
-* **[František Navrkal](https://www.pirati.cz/lide/frantisek-navrkal/)**, věnuje se problematice sociálně vyloučených lokalit, předchozí člen [Ústavně právního výboru](http://www.psp.cz/sqw/hp.sqw?k=4000) a [Stálé komise pro rodinu, rovné příležitosti a menšiny](http://www.psp.cz/sqw/hp.sqw?k=6000), 
-* **[Eva Horáková](https://www.pirati.cz/lide/eva-horakova/)**,  věnuje se oblasti sociální práce a zdravotnictví, předsedkyně Výboru pro sociální politiku ZHMP,
-* **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)**, místostarosta města Mariánské Lázně a zastupitel Karlovarského kraje, garant [programového bodu Místní rozvoj](https://www.pirati.cz/program/psp2017/mistni-rozvoj/)
-* **[Michal Prager](https://wiki.pirati.cz/lide/michal_prager)**, radní pro sociální oblast na Praze 14, zakladatel organizace [Pestrá o. p. s.](https://www.pestra.cz/) (výcvik asistenčních a vodicích psů), iniciátor bezbariérového týmu Pirátů
-* **Šárka Jindrová**, členka týmu s praktickými zkušenostmi života s průkazem ZTP i se zkušenostmi účetní v zdravotních i sociálně-zdravotních zařízeních
-* **Júsuf Traore**, zakladatel organizace [Portus Prachatice o.o.s.](http://www.portusprachatice.cz/) (zaměřené krom jiného na primární prevenci rizikového chování), vedoucí odboru sociálního, zdravotního a školského ve Vodňanech, věnuje se oblasti sociálně-právní ochrany dětí
-* **Zuzana Freitas**, asistentka poslankyně Olgy Richterové
+**Vedoucí týmu:**
+* **Zuzana Freitas**, náměstkyně ministra práce a sociálních věcí.
 
-Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (např. [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/) v otázkách dostupného bydlení, [František Kopřiva](https://www.pirati.cz/lide/frantisek-kopriva/) v otázkách lidských práv).
+Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. S
