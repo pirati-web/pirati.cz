@@ -17,8 +17,8 @@ redmine: https://redmine.pirati.cz/projects/resort-zivotni-prostredi
 forum: https://forum.pirati.cz/viewforum.php?f=560
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=560&t=48297
-redmine_id: resort-zivotni-prostredi # Střednědobé cíle týmu
-mpv: resort-zivotni-prostredi # Mediální výsledky
+redmine_id: # resort-zivotni-prostredi # Střednědobé cíle týmu
+mpv: # resort-zivotni-prostredi # Mediální výsledky
 ---
 
 # Poslanecký resortní tým - PoŽiv
@@ -38,15 +38,12 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 
 
 ### Složení týmu:
-* **[Dana Balcarová](/lide/dana-balcarova)**, ppředchozí předsedkyně Výboru pro životní prostředí, předchozí členka Podvýboru pro ochranu přírody a krajiny a Podvýboru pro udržitelný rozvoj
-* **[František Elfmark](/lide/frantisek-elfmark)**, předchozí člen Výboru pro životní prostředí, předchozí předseda Podvýboru pro financování péče o životní prostředí, člen Podvýboru pro technickou ochranu životního prostředí
-* **[Mikuláš Peksa](/lide/mikulas-peksa)**, poslanec Evropského parlamentu, člen frakce Zelených/Evropské svobodné aliance
-* **[Lukáš Wagenknecht](/lide/lukas-wagenknecht)**, senátor za obvod Praha 8, člen senátního Výboru pro územní rozvoj, veřejnou správu a životní prostředí
-* **[Lukáš Blažej](/lide/lukas-blazej)**, vedoucí Resortního týmu Životní prostředí,
-* **Jiří Lehejček**, vedoucí Resrotního týmu Zemědělství,
-* **Nikola Havlová**, odborná asistentka Dany Balcarové,
-* **Jana Míšková**, odborná asistentka Františka Elfmarka.
 
+**Vedoucí týmu:**
+* **[Lukáš Blažej](/lide/lukas-blazej)**, zastupitel města Ústí nad Labem.
+
+**Gestor:**
+* **[Klára Kocmanová]**(https://www.pirati.cz/lide/klara-kocmanova/), poslankyně.
 
 
 ### Komunikační kanály: 
@@ -56,19 +53,10 @@ mpv: resort-zivotni-prostredi # Mediální výsledky
 * [web výboru pro životní prostředí](http://www.psp.cz/sqw/hp.sqw?k=4600)
 
 
-
-
 # Resortní tým pro životní prostředí
 
 * Pracuje na programových dokumentech pirátské strany, dohlíží nad dodržováním [dlouhodobého programu Životní prostředí](/program/dlouhodoby/zivotni-prostredi/), koordinuje činnost krajských expertních týmů, zabývá se aktuálními kauzami s celostátním dopadem a řeší koncepční otázky.
 
-
-### Členy týmu jsou:
-
-* [Lukáš Blažej](/lide/lukas-blazej), vedoucí týmu a kontaktní osoba,
-* [Dana Balcarová](/lide/dana-balcarova/), předchozí předsedkyně Výboru pro životní prostředí PSP,
-* vedoucí [krajských expertních týmů](https://forum.pirati.cz/viewforum.php?f=1137) životního prostředí,
-* Martin Šmída, specialista na bioodpady; Eva Tylová, komunální politička.
 
 ### Komunikační kanály: 
 - [forum](https://forum.pirati.cz/viewforum.php?f=560) 
