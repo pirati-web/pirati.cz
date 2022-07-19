@@ -41,13 +41,13 @@ Fungování týmu
 
 Tým místního rozvoje a veřejné správy se schází podle potřeby, obvykle před schůzemi Poslanecké sněmovny případně výboru pro veřejnou správu a regionální rozvoj PSP ČR, a to většinou v pracovně [Ivana Bartoše](https://www.pirati.cz/lide/ivan-bartos/) (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Věra Marušiaková.
 
-Gestor: 
+**Gestor:** 
 * [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos), ministr pro místní rozvoj.
 
-Vedoucí týmu:
+**Vedoucí týmu:**
 * [Ondřej Profant](https://www.pirati.cz/lide/ondrej-profant), náměstek ministra pro místní rozvoj.
 
-Kontaktní osoba:
+**Kontaktní osoba:**
 * [Věra Marušiaková](https://www.pirati.cz/lide/vera-marusiakova).
 
 
@@ -57,7 +57,7 @@ Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or
 * [Newslettery resortního týmu místní rozvoj a veřejná správa](https://nalodeni.pirati.cz/news/list/20)
 * [PSP Výbor pro veřejnou správu a regionální rozvoj](https://www.psp.cz/sqw/hp.sqw?k=4409)
 
-V rámci rezortního týmu fungují i pracovní skupiny, jde o:
+**V rámci rezortního týmu fungují i pracovní skupiny, jde o:**
 * **Veřejné zakázky** - vede Ondřej Profant, kontaktní osoba: Tereza Vovesová (tereza.vovesova@pirati.cz)
 * **Cestovní ruch** - vede Martin Jiránek, kontaktní osoba: Petr Pletiha (ppleticha@gmail.com)
 * **Stavební právo** - vede Ivan Bartoš, kontaktní osoba Anna Doová (anna.doova@pirati.cz) 
