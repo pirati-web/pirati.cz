@@ -45,8 +45,6 @@ Pokud souhlasíte s Pirátským programem v oblasti průmyslu a obchodu a chcete
 Fungování týmu
 ----------------------
 
-Tým se schází pravidelně v úterý ve 14.00 před jednáním hospodářského výboru v PSP (3. a 5. týden sněmovního harmonogramu).
-
 **Vedoucí týmu:**
 * **[Petr Třešňák](https://www.pirati.cz/lide/petr-tresnak/)**, náměstek ministra průmyslu a obchodu.
 
