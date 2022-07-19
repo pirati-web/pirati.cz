@@ -21,4 +21,4 @@ NATO by mělo být aliancí založenou na sdílených hodnotách. Pokud se někt
 ### Kontakty:
 
 * [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/), předseda Pirátů, 603 415 378
-* [Mikuláš Ferjenčík](https://www.pirati.cz/lide/mikulas-ferjencik/), vedoucí mediálního odboru Pirátů, 737 943 770
+* [Vratislav Filípek](https://www.pirati.cz/lide/vratislav-filipek/), vedoucí mediálního odboru Pirátů,  608 774 722
