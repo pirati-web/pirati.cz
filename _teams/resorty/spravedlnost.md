@@ -20,11 +20,11 @@ newsletter: https://nalodeni.pirati.cz/news/list/3/
 calendar: 0hc5kevgjdgvenr4tt7d34g7pc
 zapis: https://forum.pirati.cz/viewtopic.php?f=960&t=40389&view=unread#unread
 # id google kalendáře s událostmi
-redmine_id: justice # Střednědobé cíle týmu
-mpv: resort-spravedlnost # Mediální výsledky
+redmine_id: # justice # Střednědobé cíle týmu
+mpv: # resort-spravedlnost # Mediální výsledky
 ---
 
-Vítejte na stránce **rezortního týmu Spravedlnost**, který se věnuje otázkám justice a občanského a ústavního práva.
+Vítejte na stránce **resortního týmu Spravedlnost**, který se věnuje otázkám justice a občanského a ústavního práva.
 
 Co děláme?
 ----------
@@ -49,25 +49,19 @@ Všechny schůzky týmu Spravedlnost jsou v [kalendáři](https://calendar.googl
 
 Tým Spravedlnost se zpravidla schází v zasedací místnosti poslaneckého klubu Pirátů (vstup z Malostranského náměstí 7/19). Za přípravu agendy setkání zodpovídá Anna Urbanová a zápis a pozvánka se zveřejňují [zde](https://forum.pirati.cz/viewtopic.php?f=545&t=40882&start=30).
 
-
 Online komunikace
 -----------------
 
 Komunikace mezi členy rezortního týmu probíhá přes e-mail.
 
-
 Členové týmu
 ------------
 
-* **[Jakub Michálek](/lide/jakub-michalek/)**, zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců, předchozí místopředseda ústavně právního výboru a předchozí člen komise pro Ústavu, poslanec;
-* **[Vojtěch Pikal](/lide/vojtech-pikal/)**, řeší fungování politických stran a volební systémy, předchozí místopředseda Poslanecké sněmovny a člen komise pro Ústavu;
-* **David Satke**, advokát, věnuje se zejména připravovanému civilnímu kodexu;
-* **Martin Štancl**, ředitel Odboru Kabinetu ministra pro legislativu;
-* **Lukáš Bartík**, vedoucí Oddělení poradců ministra pro legislativu; 
-* **Martin Archalous**, vedoucí Oddělení odborné podpory odboru Kabinetu místopředsedy vlády pro digitalizaci;
-* **Mikuláš Ferjenčík**, asistent Jakuba Michálka a bývalý poslanec;
-* **Stanislav Zavadil**, odborník na ochranu oznamovatelů;
-* **Jan Nevyjel**, člen kabinetu ministra pro legislativu.
+**Vedoucí týmu:**
+* **[Jakub Michálek](/lide/jakub-michalek/)**, zodpovědný za resort spravedlnosti, řeší kvalitu justice, jmenování soudců, poslanec.
+
+**Kontaktní osoba:**
+* **Anna Urbanová** (anna.urbanova@pirati.cz), asistentka poslaneckého klubu Pirátů.
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci (pro oblast lidských práv, pro oblast exekucí a insolvencí, pro oblast vězeňství).
 
