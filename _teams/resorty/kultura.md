@@ -12,8 +12,8 @@ redmine:
 forum:
 calendar: # id google kalendáře s událostmi
 zapis: https://forum.pirati.cz/viewtopic.php?f=971&t=42124
-redmine_id: resort-kultura # Střednědobé cíle týmu
-mpv: resort-kultura # Mediální výsledky
+redmine_id: # resort-kultura # Střednědobé cíle týmu
+mpv: # resort-kultura # Mediální výsledky
 ---
 
 Vítejte na stránce pirátského **týmu pro kulturu**. Zachovávat a rozvíjet umění, kulturní dědictví znamená upevňovat základy, na kterých stojíme sami a na kterých budou jednou stát i naše děti.
@@ -44,22 +44,13 @@ Dejte vědět! Rádi si vaše myšlenky vyslechneme a vymyslíme, jak na nich m�
 
 Fungování týmu
 ----------------------
-Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. Za shromažďování agendy na hlavní schůzky a jejich vedení je zodpovědná Lenka Kozlová.
-Členové základního týmu jsou:
+Tým kultury se schází zhruba jednou měsíčně, jednotlivé projektové týmy se schází dle potřeby. 
+
+Vedoucí týmu:
 * **[Ondřej Chrást](https://lide.pirati.cz/profil/1774/)**, náměstek ministra kultury
-* **[Lenka Kozlová](https://www.pirati.cz/lide/lenka-kozlova/)**,  předchozí členka [Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu](http://www.psp.cz/sqw/hp.sqw?k=4500) a [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
-* **[Ondřej Polanský](https://www.pirati.cz/lide/ondrej-polansky/)**, předchozí člen [Podvýboru pro kulturu](http://www.psp.cz/sqw/hp.sqw?k=4522)
-* **[Dominika Michailidu](https://www.pirati.cz/lide/dominika-michailidu/)** - kultura, živé umění
-* **[David František Wagner](https://wiki.pirati.cz/lide/david_frantisek_wagner)** - církve
-* **[Lukáš Funk](https://praha2.pirati.cz/lide/lukas-funk/)** - archeologie, muzejnictví
-* **[Vojtěch Franta](https://www.pirati.cz/lide/vojtech-franta/)** - architektura, veřejný prostor
-* **[Vojtěch Ertl](https://wiki.pirati.cz/lide/vojtech_ertl)** - architektura
-* **[Štěpán Drtina](https://stredocesky.pirati.cz/lide/stepan-drtina/)** - asistent poslankyně Lenky Kozlové
-* **[Jaroslav Němec](https://www.pirati.cz/lide/jaroslav-nemec/)**
-* **[Lucie Chocholová](https://kladno.pirati.cz/lide/lucie-chocholova/)**
-* **[Giuseppe Maiello](https://www.pirati.cz/lide/giuseppe-maiello/)**
-* **Kristyna Boháčová**
-* **Anna Vašatová**
-* **Jan Čečrdle**
+
+Kontaktní osoba:
+* **[Štěpán Drtina](https://stredocesky.pirati.cz/lide/stepan-drtina/)**, Kutnohorský radní pro kulturu a památkovou péči, historik
+
 
 Tým funguje podle [zásad týmové spolupráce](https://wiki.pirati.cz/rules/or_zatys). Nadřízeným týmem je republikové předsednictvo. Spolupracujeme s poslanci, kteří mají související gesci.
