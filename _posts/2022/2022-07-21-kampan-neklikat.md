@@ -10,7 +10,7 @@ author:
 
 Praha/Brusel, 21. července 2022 - Europoslankyně za Pirátskou stranu Markéta Gregorová se dala dohromady s experty na kyberbezpečnost z řad odborné veřejnosti, ale také skupinou tzv. „etických hackerů“. A během letních prázdnin chce pro českou veřejnost otevřít témata spojená s bezpečností v online prostoru. „Doufám, že naší kampaní pomůžeme českým uživatelům internetu obrnit se proti stále nebezpečnějším nástrahám online prostoru.“
 
-> *„Internet se stal každodenní součástí našich životů. Využíváme ho k práci, k zábavě, komunikaci mezi sebou. Bez internetu už naše společnost stěží dokáže existovat. Nástup nových technologií ale přinesl i nové nástrahy a výzvy,“* vysvětluje Markéta Gregorová svoje motivy pro spuštění [kampaně]([http://www.pirati.cz](https://neklikat.eu).
+> *„Internet se stal každodenní součástí našich životů. Využíváme ho k práci, k zábavě, komunikaci mezi sebou. Bez internetu už naše společnost stěží dokáže existovat. Nástup nových technologií ale přinesl i nové nástrahy a výzvy,“* vysvětluje Markéta Gregorová svoje motivy pro spuštění [kampaně](https://neklikat.eu).
 
 K pravidelnému nárůstu kybernetické kriminality dochází v Česku od roku 2011. Za sledovanou dobu posledních 10 let bylo spácháno 60 tisíc skutků spadajících do kategorie kybernetické kriminality a ostatní kriminality páchané v kyberprostoru. Z toho policie eviduje téměř 10 tisíc jen za poslední rok! Strmý nárůst sledoval i svět. V roce 2020 v průběhu pandemie COVID-19 vzrostla kyberkriminalita ve světě o 600 %.
 
