@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/MG-07-2022.jpg
 author:       
 ---
 
-Praha/Brusel, 21. července 2022 - Europoslankyně za Pirátskou stranu Markéta Gregorová se dala dohromady s experty na kyberbezpečnost z řad odborné veřejnosti, ale také skupinou tzv. „etických hackerů“. A během letních prázdnin chce pro českou veřejnost otevřít témata spojená s bezpečností v online prostoru. „Doufám, že naší kampaní pomůžeme českým uživatelům internetu obrnit se proti stále nebezpečnějším nástrahám online prostoru.“
+Praha/Brusel, 21. července 2022 - Europoslankyně za Pirátskou stranu Markéta Gregorová se dala dohromady s experty na kyberbezpečnost z řad odborné veřejnosti, ale také skupinou tzv. „etických hackerů“. A během letních prázdnin chce pro českou veřejnost otevřít témata spojená s bezpečností v online prostoru. *„Doufám, že naší kampaní pomůžeme českým uživatelům internetu obrnit se proti stále nebezpečnějším nástrahám online prostoru.“*
 
 > *„Internet se stal každodenní součástí našich životů. Využíváme ho k práci, k zábavě, komunikaci mezi sebou. Bez internetu už naše společnost stěží dokáže existovat. Nástup nových technologií ale přinesl i nové nástrahy a výzvy,“* vysvětluje Markéta Gregorová svoje motivy pro spuštění [kampaně](https://neklikat.eu).
 
