@@ -3,7 +3,7 @@ date:         2022-07-15
 category:     blog
 tags:         místní-rozvoj legislativa bydlení
 layout:       post
-title:        "Konec probdělých nocí kvůli vyrválu turistů. Ubytování přes online platformy bude mít lepší pravidla s větší vymahatelností"
+title:        "Konec probdělých nocí kvůli virválu turistů. Ubytování přes online platformy bude mít lepší pravidla s větší vymahatelností"
 image:        /assets/img/articles/2022/jakub-michalek01.jpg
 author:       
 ---
