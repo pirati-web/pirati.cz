@@ -3,7 +3,7 @@ date:         2022-07-26
 category:     blog
 tags:         zahraničí
 layout:       post
-title:        "Plzeňský kraj v čele s pirátským hejtmanem Špotákem dovezl na Ukrajinu další humanitární pomoc  "
+title:        "Pirátský hejtman Plzeňského kraje Špoták dovezl na Ukrajinu další humanitární pomoc"
 image:        /assets/img/articles/2022/spotak-ukrajina.jpg
 author:       
 ---
