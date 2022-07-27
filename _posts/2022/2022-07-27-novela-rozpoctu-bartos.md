@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/ivan-bartos-02-2022.jpg
 author:       
 ---
 
-Plzeň, 27. července 2022 - Vláda dnes schválila novelu zákona o státním rozpočtu pro letošní rok. Místopředsedovi vlády pro digitalizaci a ministrovi pro místní rozvoj Ivanu Bartošovi se podařilo pro svůj resort získat navíc 2,75 miliardy korun na již připravené projekty. Pomoci se díky těmto financím dočkají nejen oblasti postižené živelními pohromami.
+Praha, 27. července 2022 - Vláda dnes schválila novelu zákona o státním rozpočtu pro letošní rok. Místopředsedovi vlády pro digitalizaci a ministrovi pro místní rozvoj Ivanu Bartošovi se podařilo pro svůj resort získat navíc 2,75 miliardy korun na již připravené projekty. Pomoci se díky těmto financím dočkají nejen oblasti postižené živelními pohromami.
 
 > *„Získali jsme 700 milionů korun na obce postižené v loňském roce přírodními katastrofami. Jedná se o oblasti mimo území, které zasáhlo tornádo na jižní Moravě. Jde především o obce na Děčínsku a Liberecku. Bývalá vláda Andreje Babiše na tuto pomoc jaksi zapomněla. Slíbili jsme, že to napravíme, a tak nyní činíme. Z této schválené částky počítáme i s uvolněním části financí na řešení aktuálních škod spáchaných požárem na území Národního parku České Švýcarsko, popřípadě vyjednáme dle míry škody na majetku její navýšení v průběhu projednávání novely ve sněmovně,“* řekl místopředseda vlády pro digitalizaci a ministr pro místní rozvoj Ivan Bartoš.
 
