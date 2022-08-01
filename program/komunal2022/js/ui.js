@@ -214,17 +214,6 @@ document.addEventListener(
 							return (points[a.id] || 0) < (points[b.id] || 0);
 						}
 					).appendTo(sortableElementParent);
-					
-					// Sort wrappers
-					const sortableParentElementListWrapper = sortableElementParent.children(".program-point-wrapper").children("ul");
-					
-					sortableParentElementListWrapper.children(".program-point").sort(
-						function (a, b) {
-							return (points[a.id] || 0) < (points[b.id] || 0);
-						}
-					).appendTo(sortableParentElementListWrapper);
-					
-					// TODO: Sort based on average
 				}
 				
 				const wrapperElementPoints = $(".program-point-wrapper").children("ul").children(".program-point");
