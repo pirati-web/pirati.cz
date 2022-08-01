@@ -1,4 +1,4 @@
----
+# ---
 uid: karolina.sadilkova
 name:     Karolína Sadílková  	# běžně používáné jméno
 fullname: Mgr. Karolína Sadílková  	# jméno s tituly etc.
