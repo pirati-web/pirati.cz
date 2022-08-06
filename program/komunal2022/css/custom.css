@@ -136,6 +136,10 @@
 	font-size: 1.6rem;
 }
 
+.audio-link {
+	margin-left: 6px;
+}
+
 .fake-bullet-point {
 	margin-left: 1.25rem;
 	position: relative;
