@@ -3,14 +3,9 @@ uid: zivotniprostredi
 name: Životní prostředí
 fullname: Tým pro životní prostředí
 img: teams/resorty/zivotni-prostredi.jpg # obrázek nemusíte dodávat
-leader: dana.balcarova
+leader: lukas.blazej
 deputy: 
-- frantisek.elfmark
 contact-local:
-  name: Lukáš Blažej
-  mob: +420 778 702 712
-  mail: lukas.blazej@pirati.cz
-  img: /assets/img/people/lukas-blazej.jpg
 tags: životní-prostředí
 category: resort
 redmine: https://redmine.pirati.cz/projects/resort-zivotni-prostredi
