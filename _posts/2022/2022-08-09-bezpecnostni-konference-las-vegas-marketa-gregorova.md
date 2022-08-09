@@ -10,7 +10,7 @@ author:
 
 
 
-Praha/Brusel, 9. 8. 2022 – Česká europoslankyně za Pirátskou stranu Markéta Gregorová míří do Las Vegas na tradiční a jednu z nejznámějších mezinárodních konferencí o kybernetických hrozbách, Black Hat. Tématu se dlouhodobě věnuje na půdě Evropského parlamentu a nedávno spustila i osvětovou kampaň NEklikat věnovanou právě kyberbezpečnosti.
+Praha/Brusel, 9. srpna 2022 – Česká europoslankyně za Pirátskou stranu Markéta Gregorová míří do Las Vegas na tradiční a jednu z nejznámějších mezinárodních konferencí o kybernetických hrozbách, Black Hat. Tématu se dlouhodobě věnuje na půdě Evropského parlamentu a nedávno spustila i osvětovou kampaň NEklikat věnovanou právě kyberbezpečnosti.
 
 Již pětadvacátý ročník [kyberbezpečnostní konference **Black Hat**](https://www.blackhat.com/us-22/) letos nabídne několikadenní hybridní událost. Setkání expertů, organizací i firem proběhne v Mandalay Bay Convention Center v Las Vegas. A na této stěžejní události světové kyberbezpečnosti nebude chybět česká europoslankyně Markéta Gregorová.
 
