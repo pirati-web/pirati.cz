@@ -46,5 +46,6 @@ Oheň nezná hranice. Potřebujeme jak monitoring se stabilním kamerovým syst�
 
 Dodržujme zásady bezpečnosti. Buďme ohleduplní k lidem, zvířatům i krajině. Neostýchejme se upozornit na nevhodné či ohrožující chování ostatních. Rozsáhlé požáry bychom zkrátka měli začít chápat jako přírodní katastrofy podobné zemětřesení nebo záplavám.
 
-**Dana Balcarová**
-> Autorka je kandidátka do Senátu v obvodě č. 25 – Praha 6 a okolí. Mezi lety 2017 a 2021 byla předsedkyní sněmovního Výboru pro životní prostředí.
+
+> *Dana Balcarová*
+> *Autorka je kandidátka do Senátu v obvodě č. 25 – Praha 6 a okolí. Mezi lety 2017 a 2021 byla předsedkyní sněmovního Výboru pro životní prostředí.*
