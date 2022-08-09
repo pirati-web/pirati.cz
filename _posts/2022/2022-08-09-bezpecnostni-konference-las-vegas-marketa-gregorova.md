@@ -23,7 +23,11 @@ Konference svede dohromady největší světové experty a expertky na kyberbezp
 Aktuální komunikaci Markéty Gregorové přímo z Las Vegas bude možné sledovat na jejím oficiálním [Facebooku](https://www.facebook.com/MEPGregorova), [Twitteru](https://twitter.com/MarketkaG) nebo [Instagramu](https://www.instagram.com/ruzovarebelka/). 
 
 Více informací:
+
 *Petr Bittner*
+
 *PR & média*
+
 *+420 724 202 681*
+
 *bittnerpetr@seznam.cz*
