@@ -38,7 +38,7 @@ mpv: # resort-zivotni-prostredi # Mediální výsledky
 * **[Lukáš Blažej](/lide/lukas-blazej)**, zastupitel města Ústí nad Labem.
 
 **Gestor:**
-* **[Klára Kocmanová]**(https://www.pirati.cz/lide/klara-kocmanova/), poslankyně.
+* **[Klára Kocmanová](https://www.pirati.cz/lide/klara-kocmanova/)**, poslankyně.
 
 
 ### Komunikační kanály: 
