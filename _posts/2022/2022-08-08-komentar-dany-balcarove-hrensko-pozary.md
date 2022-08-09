@@ -11,7 +11,7 @@ author:
 
 Rozsáhlé lesní požáry budou stále častější a ničivější. Klima se mění a my se musíme adaptovat. Devastující požár v Hřensku ukázal nutnost připravit se na extrémní projevy počasí, které k podobným událostem přispívají. Jakkoliv je požár důsledkem lidské chyby a nedbalosti, jeho rozsah a rychlosti šíření souvisí s klimatickou změnou. 
 
-**Jsme připraveni čelit velkým lesním požárům?
+**Jsme připraveni čelit velkým lesním požárům?**
 
 *„Lesní požár pro přírodu není katastrofou, je součástí přirozené obnovy lesa.“*
 
