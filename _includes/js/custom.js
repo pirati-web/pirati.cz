@@ -332,36 +332,22 @@ const FALLBACK_VIDEO_SOURCE = 'https://www.youtube-nocookie.com/embed?listType=u
  * falls back to the YouTube channel.
  **/
 var setLatestPeerTubeVideo = async function() {
-  const peerTubeIframe = document.getElementById('peertube-iframe');
-  
+  const preferredVideoSource = 'https://tv.pirati.cz/feeds/videos.json?sort=-publishedAt';
+  const fallbackVideoSource = 'https://www.youtube-nocookie.com/embed?listType=user_uploads&list=CeskaPiratskaStrana';
+
+  var peerTubeIframe = document.getElementById('peertube-iframe');
+
   try {
     // No way to set a max length of 1, a bit of data is wasted getting
     // the 5 latest videos.
-    const unparsedFeed = (
-      await fetch(PREFERRED_VIDEO_SOURCE, {'method': 'GET'}).
-      then(
-        response => {
-          if (!response.ok) {
-            throw new Error("Non-2xx odpověď od PeerTube serveru.");
-          }
-          
-          return response.text();
-        }
-      )
-    );
-    
-    // We have jQuery anyway
-    const parsedFeed = await $.parseXML(unparsedFeed);
+    let response = await fetch(preferredVideoSource, {'method': 'GET'});
+    let feed = await response.json();
 
-    // First item, media:embed, url attribute. This is ugly, but works.
-    const videoURL = parsedFeed.all[14].children[10].attributes[0].nodeValue;
-    
-    peerTubeIframe.src = videoURL;
+    peerTubeIframe.src = feed['items'][0]['url'].replace('/w/', '/videos/embed/');
   } catch (e) {
-    peerTubeIframe.src = FALLBACK_VIDEO_SOURCE;
-    
+    peerTubeIframe.src = fallbackVideoSource;
     console.log('Chyba při načítání PeerTube videa: ' + e);
-    
+
     return;
   }
 }
