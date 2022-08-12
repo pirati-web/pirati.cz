@@ -48,4 +48,5 @@ Dodržujme zásady bezpečnosti. Buďme ohleduplní k lidem, zvířatům i kraji
 
 
 > *Dana Balcarová*
+
 > *Autorka je kandidátka do Senátu v obvodě č. 25 – Praha 6 a okolí. Mezi lety 2017 a 2021 byla předsedkyní sněmovního Výboru pro životní prostředí.*
