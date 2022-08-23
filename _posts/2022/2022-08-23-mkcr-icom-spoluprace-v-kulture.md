@@ -3,12 +3,12 @@ date:         2022-08-23
 category:     blog
 tags:         kultura
 layout:       post
-title:        "Zástupci Ministerstva kultury dnes jednali o spolupráci mezi ICOM, ICOM CZ a Spojenými arabskými emiráty"
+title:        "Zástupci Ministerstva kultury jednali o spolupráci mezi ICOM, ICOM CZ a Spojenými arabskými emiráty"
 image:        /assets/img/articles/2022/chrast-mkcr.jpg
 author:       
 ---
 
-Náměstek ministra kultury Ondřej Chrást se dnes v pražském kongresovém centru setkal s její výsostí princeznou Latifa Bint Mohammed Bin Rashid Al Maktoum ze Spojených arabských emirátů a s dalšími představiteli ICOM.
+Náměstek ministra kultury Ondřej Chrást se v pondělí v pražském kongresovém centru setkal s její výsostí princeznou Latifa Bint Mohammed Bin Rashid Al Maktoum ze Spojených arabských emirátů a s dalšími představiteli ICOM.
 
 Přátelské setkání bylo pro všechny strany příležitostí ke vzájemnému seznámení a diskuzi o spolupráci v oblasti kultury. Tématem byla rovněž nadcházející 27. Generální konference Mezinárodní rady muzeí, která se uskuteční v Dubaji v roce 2025.
 
