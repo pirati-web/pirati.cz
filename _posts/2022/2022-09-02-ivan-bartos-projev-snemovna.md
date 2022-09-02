@@ -3,7 +3,7 @@ date:         2022-09-02
 category:     blog
 tags:         vláda sněmovna
 layout:       post
-title:        "Projev vicepremiéra pro digitalizaci a ministra pro místní rozvoj Ivana Bartoše na jednání Poslanecké sněmovny 1. září"
+title:        "Projev vicepremiéra a ministra pro místní rozvoj Ivana Bartoše v Poslanecké sněmovně"
 image:        /assets/img/articles/2020/ivan-bartos-pult.jpg
 author:       
 ---
