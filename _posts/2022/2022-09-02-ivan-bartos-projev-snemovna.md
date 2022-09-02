@@ -3,7 +3,7 @@ date:         2022-09-02
 category:     blog
 tags:         vláda sněmovna
 layout:       post
-title:        "Projev vicepremiéra a ministra pro místní rozvoj Ivana Bartoše v Poslanecké sněmovně"
+title:        "Dostupnější bydlení, rozvoj regionů a digitalizace: Projev vicepremiéra a ministra pro místní rozvoj Ivana Bartoše ve Sněmovně"
 image:        /assets/img/articles/2020/ivan-bartos-pult.jpg
 author:       
 ---
