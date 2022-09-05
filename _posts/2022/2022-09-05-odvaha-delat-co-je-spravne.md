@@ -3,7 +3,7 @@ date:         2022-09-05
 category:     blog
 tags:         volby energetika
 layout:       post
-title:        "Tváře evropské obranné a zahraniční politiky se setkávají v Praze. „Čest i zodpovědnost,“ říká Pirátka Gregorová"
+title:        "Odvaha dělat, co je správné: Piráti zahájili ostrou fázi kampaně do podzimních voleb. Představili plán pro dostupné levnější energie v obcích i městech"
 image:        /assets/img/articles/2022/Piráti zahájení kampaně.jpg
 author:       
 ---
@@ -55,4 +55,4 @@ Také vysokoškolský pedagog Václav Ranc, který kandiduje v Olomouci, se plá
 
 V Hodoníně se uchází o post senátora [Ivo Vašíček](https://ivovasicek.cz/). Prioritou je pro něj ochrana svobody, demokracie a boj proti jakýmkoliv snahám státu šmírovat občany či příliš zasahovat do jejich života. Podporuje i rozumnou regulaci konopí, která by nejen v krizi přinesla státu miliardy, ale také snížila riziko užívání u nezletilých, jak potvrzují studie ze zahraničí. 
 
-Celostátní program do komunálních voleb naleznete [ZDE]([https://ivovasicek.cz/](https://www.pirati.cz/program/komunal2022/)).
+Celostátní program do komunálních voleb naleznete [ZDE]([https://ivovasicek.cz/](https://www.pirati.cz/program/komunal2022/).
