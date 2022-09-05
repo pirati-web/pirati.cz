@@ -41,7 +41,7 @@ Kromě energetiky mají Piráti **[plány i pro zlepšení dalších oblastí d�
 
 Pro **[Martu Martinovou](https://martamartinova.cz/)**, kandidátku na senátorku v obvodě č. 37 Jičín, je stěžejní rozvoj komunitní energetiky a energetické nezávislosti. Stejně tak péče o krajinu, zapojení občanů do rozhodování či zlepšování pracovních podmínek, aby lidé dostávali za odvedou práci dostatečně důstojnou mzdu.
 
-V obvodě č. 16 Beroun za Piráty kandiduje právník **Martin Karim**. Jeho hlavním cílem je krotit ceny energií a bydlení. Kromě toho se míní podílet na dotažení férové udržitelné důchodové reformy a rozšíření domácí péče. 
+V obvodě č. 16 Beroun za Piráty kandiduje právník **[Martin Karim](https://www.martinkarim.cz/)**. Jeho hlavním cílem je krotit ceny energií a bydlení. Kromě toho se míní podílet na dotažení férové udržitelné důchodové reformy a rozšíření domácí péče. 
 
 Pro **[Danu Balcarovou](https://danabalcarova.cz/)**, která kandiduje na Praze 6, v obvodě č. 25, je rovněž srdcovkou komunitní energetika, která napomůže snížení cen energií a omezí naši závislost na nedemokratických režimech. Prioritou je pro ni také ochrana přírody, zdraví lidí a kvality vody, o což se i čtyři roky zasazovala jako poslankyně ve Sněmovně. 
 
