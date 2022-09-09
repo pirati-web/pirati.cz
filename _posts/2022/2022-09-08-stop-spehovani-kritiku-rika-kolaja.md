@@ -1,5 +1,5 @@
 ---
-date:         2022-09-05
+date:         2022-09-08
 category:     blog
 tags:         evropská-unie bezpečnost
 layout:       post
