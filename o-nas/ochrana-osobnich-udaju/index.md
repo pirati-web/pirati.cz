@@ -26,7 +26,7 @@ Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaj
 <tr><td>Datová schránka:</td><td> b2i4r6j</td></tr>
 </table>
 
-Kontaktní osobou Správce pro oblast ochrany osobních údajů je vedoucí Administrativního odboru (nyní Alice Hamalová), kontaktovat ji lze na e-mailové adrese **gdpr@pirati.cz**.
+Kontaktní osobou Správce pro oblast ochrany osobních údajů je vedoucí Administrativního odboru (nyní Vojtěch Pikal), kontaktovat jej lze na e-mailové adrese **gdpr@pirati.cz**.
 
 ## 3. Kategorie osobních údajů
 
