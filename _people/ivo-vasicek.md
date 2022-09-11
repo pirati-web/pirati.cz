@@ -19,6 +19,13 @@ profiles:
 ordga: 1
 ---
 
-Ivo Vašíček (* 5. prosince 1961 Olomouc) je zastupitel za Piráty v zastupitelstvu Jihomoravského kraje. Povoláním je učitel; učil na základní i střední škole. Na přelomu roku 1989/90 byl krátce politicky aktivní v Občanském foru. Do roku 1997 v různých manažerských pozicích řídil rozvoj telekomunikační firmy v rámci Evropy. Od roku 1998 poskytuje se svojí firmou odborné manažerské služby českým firmám i nadnárodním korporacím. Největší úspěchy má při formulacích strategií a při krizovém řízení. Nyní řídí vývoj nového software v české IT společnosti.
+Ivo Vašíček (* 5. prosince 1961 Olomouc) je zastupitel za Piráty v zastupitelstvu Jihomoravského kraje. Žije v Čejkovicích a má čtyři děti. Je členem předsednictva Pirátů Jihomoravského kraje.
 
-Politickou angažovaností se chce podílet na realizaci strukturálních změn ve společnosti. Vždy se opírá o otevřenou a věcnou komunikaci. Právo na svobodné šíření informací a na soukromí považuje za základ všech osobních svobod. Svými blogy upozorňuje na chybná společenské a ekonomická paradigmata. Je navrhovatelem ekonomických bodů pirátského programu a je garantem programového bodu Finanční systém.
+V letech 2010-2016 byl členem republikového předsednictva Pirátské strany. Původním povoláním je učitel fyziky; učil na základní i střední škole. Na přelomu roku 1989/90 byl krátce politicky aktivní v Občanském fóru (předseda OF učitelů v Brně). Do roku 1997 v různých manažerských pozicích řídil rozvoj telekomunikační firmy v rámci Evropy. Od roku 1998 poskytoval odborné manažerské služby českým firmám i nadnárodním korporacím. V roce 2007 založil ČIMIB – Český institut manažerů informační bezpečnosti. Největší úspěchy má při formulacích strategií a při krizovém řízení. V současné době pracuje jako předseda finančního výboru Jihomoravského kraje.
+
+Politickou angažovaností se podílí na realizaci strukturálních změn ve společnosti. Vždy se opírá o otevřenou a věcnou komunikaci. Právo na svobodné šíření informací a na soukromí považuje za základ všech osobních svobod. Rád upozorňuje na chybná společenské a ekonomická paradigmata.
+
+**Kancelář:**
+Bílovická
+69615 Čejkovice
+ČR
