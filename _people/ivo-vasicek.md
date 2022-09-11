@@ -25,7 +25,10 @@ V letech 2010-2016 byl členem republikového předsednictva Pirátské strany. 
 
 Politickou angažovaností se podílí na realizaci strukturálních změn ve společnosti. Vždy se opírá o otevřenou a věcnou komunikaci. Právo na svobodné šíření informací a na soukromí považuje za základ všech osobních svobod. Rád upozorňuje na chybná společenské a ekonomická paradigmata.
 
-**Kancelář:**
-Bílovická
-69615 Čejkovice
-ČR
+**Kancelář:**  
+
+Bílovická  
+
+69615 Čejkovice  
+
+Česká republika
