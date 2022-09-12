@@ -11,9 +11,6 @@ mail:
 mob:			  +420 778 702 714
 direct-contact: true
 asistenti:
-office: 
-  - address: 8. května 522, 779 00  Olomouc
-    opening: "Pondělí 9:00 - 13:00, případně po telefonické domluvě na +420 734 182 042 "
 profiles:
   pirati:     https://lide.pirati.cz/profil/2727/
   github:     https://github.com/Fafrin
