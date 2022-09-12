@@ -14,7 +14,7 @@ Praha, 9. září 2022 – Stavby pro obnovitelné zdroje lze postavit velmi ryc
 
 Typický příklad realizace umístění fotovoltaiky je na střeše rodinného domu. FVE je součástí stavby (obvyklá kapacita do 8kW). Nedojde-li instalací FVE panelů k ohrožení statiky stavby, nezmění se vzhled stavby a neohrozí se požární bezpečnost, pak lze realizovat záměr bez posouzení stavebního úřadu.
 
-Dalším příkladem je instalace FVE na objekt školy, školky či nemocnice. Zde platí totéž jako u rodinného domu, tj. Pokud nedojde k ohrožení statiky stavby, nezmění se vzhled stavby a neohrozí se požární bezpečnost stavby, pak lze také takový záměr realizovat posouzení stavebního úřadu.  
+Dalším příkladem je instalace FVE na objekt školy, školky či nemocnice. Zde platí totéž jako u rodinného domu, tj. Pokud nedojde k ohrožení statiky stavby, nezmění se vzhled stavby a neohrozí se požární bezpečnost stavby, pak lze také takový záměr realizovat bez posouzení stavebního úřadu.  
 
 > Specifické podmínky pak však platí např. pro budovy pod ochranou státní památkové péče. *„Snažíme se najít jednodušší řešení pro všechny stavby, proto jednáme např. s Hasičským záchranným sborem o podmínkách, za jakých je možné soláry na stavbách povolovat rychle a jednotně a kde povolení nebude třeba vůbec,“* dodává Ivan Bartoš.
 
