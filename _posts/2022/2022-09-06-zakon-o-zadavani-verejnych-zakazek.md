@@ -4,7 +4,7 @@ category:     blog
 tags:         místní-rozvoj legislativa
 layout:       post
 title:        "Bartoš: Zákon o zadávání veřejných zakázek bude jednodušší, vstřícnější a omezí korupci"
-image:        /assets/img/articles/2022/ivan-09-2022.jpg
+image:        /assets/img/articles/2022/ivan-04.jpg
 author:       
 ---
 
