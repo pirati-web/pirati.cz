@@ -18,7 +18,7 @@ Zákon o sociálním podnikání rozšíří možnosti zaměstnávání lidí se
 
 > *„Sociální podnikání, stejně jako systematická podpora profesního růstu handicapovaných spoluobčanů, hrají naprosto nezastupitelnou úlohu při jejich úspěšném začleňování do plnohodnotného života,”* popsala předsedkyně Poslanecké sněmovny Markéta Pekarová Adamová. 
 
-> *„Nový legislativní rámec má rozšířit působnost sociálních podniků nad rámec zaměstnávání hendikepovaných například o pomoc mladým lidem opouštějícím dětské domovy, osobám bez domova nebo propuštěným vězňům, jakož i třeba dlouhodobě nezaměstnaným pečujícím. Těm všem umožní lepší zapojení na trh práce, což je přínosné jak pro ně osobně, společnost, tak i pro rozvoj ekonomiky a rozpočet,“ doplnila Olga Richterová.
+> *„Nový legislativní rámec má rozšířit působnost sociálních podniků nad rámec zaměstnávání hendikepovaných například o pomoc mladým lidem opouštějícím dětské domovy, osobám bez domova nebo propuštěným vězňům, jakož i třeba dlouhodobě nezaměstnaným pečujícím. Těm všem umožní lepší zapojení na trh práce, což je přínosné jak pro ně osobně, společnost, tak i pro rozvoj ekonomiky a rozpočet,“* doplnila Olga Richterová.
 
 > *„Jsme velmi rádi, že můžeme společně s paní místopředsedkyní uspořádat takto rozsáhlou, komplexní akci, od níž si mimo jiné slibujeme zvýšení povědomí o sociálním podnikání v Česku,”* doplnil Zdeněk Kosour z iniciativy Deklarace odpovědného podnikání.
 
