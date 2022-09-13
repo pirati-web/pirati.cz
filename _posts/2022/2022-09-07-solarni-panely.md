@@ -4,7 +4,7 @@ category:     blog
 tags:         energetika místní-rozvoj legislativa
 layout:       post
 title:        "Bartoš: Městům a obcím pomůžeme 2,55 miliardami korun navíc. Prioritou je pomoc s energetickými úsporami"
-image:        /assets/img/articles/2022/ivan-09-2022.jpg
+image:        /assets/img/articles/2022/ivan--bartos-09-2022.jpg
 author:       
 ---
 
