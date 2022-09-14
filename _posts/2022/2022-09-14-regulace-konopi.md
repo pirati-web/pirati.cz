@@ -44,5 +44,5 @@ Návrhy Pirátů i expertní skupiny jsou rovněž v souladu s programovým proh
 * Vytvoření legálního trhu pro ekonomické subjekty v České republice a nových exportních příležitostí.
 * Podpora malého a středního podnikání.
 
-Celou dopadovou studii lze najít **[ZDE](regulacekonopi.cz)**.
+Celou dopadovou studii lze najít **[ZDE](https://regulacekonopi.cz/)**.
 
