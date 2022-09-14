@@ -25,6 +25,7 @@ Analýzu připravovala dva roky v rámci snah o racionalizaci politiky návykov�
 Návrhy Pirátů i expertní skupiny jsou rovněž v souladu s programovým prohlášením vlády, které deklaruje, že vláda bude uplatňovat politiku postavenou na vědecky ověřeném a vyváženém konceptu prevence rizik a snižování škod. Také slibuje, že zajistí dostatečné financování jak preventivních programů, tak i služeb a regulaci návykových látek odpovídající míře jejich škodlivosti.
 
 
+
 ## Hlavní cíle navrhované právní úpravy se týkají:
 
 **Veřejného zdraví** 
