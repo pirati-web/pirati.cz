@@ -19,9 +19,13 @@ asistenti:
     description: Politický poradce
     mail: frank.herrmann@europarl.europa.eu
     tel: +32 2 2847665
-  - name: Stella Gebauer
+  - name: Simeon de Brouwer
+    description: Politický poradce
+    mail: simeon.debrouwer@europarl.europa.eu
+    tel: +32 2 2857664
+  - name: Kimberly Graves
     description: Administrativní asistentka
-    mail: stella.gebauer@europarl.europa.eu
+    mail: kim.graves@europarl.europa.eu
     tel: +32 2 2837664
   - name: Zuzana Picková
     description: Poradkyně pro legislativní činnost

@@ -34,14 +34,14 @@ asistenti:
     description: Poradkyně pro legislativní činnost
     mail: zuzana.pickova@europarl.europa.eu
     tel: +32 2 2838522
-  - name: Lenka Kynclová
+  - name: Barbora Hudečková
     description: Asistentka v ČR
-    mail: lenka.kynclova@la.europarl.europa.eu
-    tel: +420 604 744 359       
-  - name: Kristyna Hrochová
-    description: PR expert
-    mail: kristyna.hrochova@la.europarl.europa.eu
-    tel: +420 723 206 648       
+    mail: barbora.hudeckova@la.europarl.europa.eu
+    tel: +420 777 782 083
+  - name: Jakub Rychlý
+    description: PR expert - delegace
+    mail: jakub.rychly@pirati.cz
+    tel: +420 773 319 015
   - name: Tomáš Polák
     description: PR expert - delegace
     mail: tomas.polak@europarl.europa.eu
