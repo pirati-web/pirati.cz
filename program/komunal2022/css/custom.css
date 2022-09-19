@@ -114,7 +114,7 @@
 	position: relative;
 }
 
-.bottom-button:hover, .bottom-button:focus {
+.bottom-button:hover, .bottom-button:focus, #bottom-other-projects a:hover, #bottom-other-projects a:focus {
 	color: #b0b0b0;
 }
 
@@ -217,6 +217,26 @@
 
 .program-point-share:hover, .program-point-share:focus {
 	fill: #000;
+}
+
+/* Bottom links to other projects */
+#bottom-other-projects {
+	display: flex;
+	gap: 15px;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	margin-top: 15px;
+}
+
+#bottom-other-projects a {
+	display: inline-block;
+	padding: 15px;
+	font-family: 'Bebas Neue';
+	background: #000;
+	color: #fff;
+	font-size: x-large;
+	transition: .15s;
 }
 
 /* Sharer */
