@@ -4,7 +4,7 @@ category:     blog
 tags:         místní-rozvoj digitalizace
 layout:       post
 title:        "Ivan Bartoš zahájil reorganizaci digitalizace státní správy. Expertní centrum bude udávat technologický směr a zlepší kulturu řízení digitalizace"
-image:        /assets/img/articles/2022/ivan-09-2022.jpg
+image:        /assets/img/articles/2022/ivan-bartos-09-2022.jpg
 author:       
 ---
 
