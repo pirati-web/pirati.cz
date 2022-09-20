@@ -32,4 +32,4 @@ K úsporám Pražanů by vedla také možnost zohlednit počet svozů v poplatc�
 4. **Rozvoj železnice v Praze i navazujících tratí.** Podporujeme, aby byly všechny úseky železnice z Prahy na letiště v Ruzyni co nejdříve dokončené. Stejně tak podpoříme dostavbu Vyšehradského mostu, stavbu Libeňského přesmyku, zkapacitnění trati do Běchovic, modernizaci trati do Berouna či výstavbu vysokorychlostních tratí a Nového spojení 2. 
 5. **Vltavská filharmonie.** Prosazujeme, aby financování této stavby, která bude sloužit i pro státní Českou filharmonii, bylo u části hrazené z veřejných zdrojů sdíleno na půl mezi státem a hlavním městem Prahou. Jde o kulturní instituci celostátního významu. 
 
-**Kompletní sadu zákonů a investic pro Prahu naleznete ke stažení [ZDE]([http://www.pirati.cz](https://drive.google.com/file/d/1x4zMSZhTmMhcvZBmCuCM7UuGi61Gq36b/view?usp=sharing).**
+**Kompletní sadu zákonů a investic pro Prahu naleznete ke stažení [ZDE](https://drive.google.com/file/d/1x4zMSZhTmMhcvZBmCuCM7UuGi61Gq36b/view?usp=sharing).**
