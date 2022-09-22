@@ -136,8 +136,10 @@
 	font-size: 1.6rem;
 }
 
-.audio-link {
-	margin-left: 6px;
+.header-side-links {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
 }
 
 .fake-bullet-point {
