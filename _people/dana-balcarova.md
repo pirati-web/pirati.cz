@@ -30,4 +30,4 @@ Dana Balcarová (* 1960, Pardubice) se věnuje životnímu prostředí. Vystudov
 
 V roce 2017 byla zvolena z druhého místa pražské pirátské kandidátky do Poslanecké sněmovny PČR. Ve Sněmovně zastávala funkci předsedkyně Výboru pro životní prostředí. Dana má ráda pohyb,‭ ‬chodí po městě i horách,‭ ‬čte a poslouchá hudbu,‭ ‬tančí.‭ ‬
 
-Pozici poslankyně za Prahu v roce 2021 neobhájila.
+V roce 2022 se rozhodla kandidovat do Senátu v obvodu Praha 6.
