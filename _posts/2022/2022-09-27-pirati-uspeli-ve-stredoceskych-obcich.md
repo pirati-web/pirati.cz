@@ -8,7 +8,7 @@ image:        /assets/img/articles/2022/roman-hajek-opravime-kladno.jpg
 author:       
 ---
 
-27. září 2022, Praha – Pirátská vize a program zaznamenaly ve Středočeském kraji pozitivní ohlas, v jeho obcích bude za Piráty zasedat dvakrát více zastupitelů než v předešlém volebním období. Tři z nich nově také ve statutárním městě Kladno, kde Piráti společně se STAN získali podporu 13,74 % voličů.
+27.září 2022, Praha – Pirátská vize a program zaznamenaly ve Středočeském kraji pozitivní ohlas, v jeho obcích bude za Piráty zasedat dvakrát více zastupitelů než v předešlém volebním období. Tři z nich nově také ve statutárním městě Kladno, kde Piráti společně se STAN získali podporu 13,74 % voličů.
 
 > *„Náš výsledek bereme jako úspěch a děkujeme tímto voličům za podporu. Ještě před sečtením všech hlasů nicméně bylo jasné, že ve vedení zůstanou staré struktury. Soustředíme se na opoziční práci a pokusíme se prosadit zejména ta naše témata, která jsou na Kladně dlouhodobě opomíjena. Budeme se také dál věnovat problému s integrovanou dopravou, který podle nás pan primátor nezvládl dobře. Integrovaná doprava je pro Kladno základ,”* říká nový zastupitel Kladna a předseda místního sdružení Michal Hažlinský. 
 
