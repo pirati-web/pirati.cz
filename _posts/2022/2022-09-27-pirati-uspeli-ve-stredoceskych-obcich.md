@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Piráti uspěli ve středočeských obcích. Lidé si zvolili dvakrát více zastupitelů než v minulých volbách"
-image:        /assets/img/articles/2022/roman-hajek-opravime-kladno.jpg
+image:        /assets/img/articles/2022/zastupitele-kladno.jpg
 author:       
 ---
 
