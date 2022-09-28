@@ -20,5 +20,8 @@ Středočeští Piráti vyslali kandidáty také do senátních voleb. V obvodě
 
 > *„Prohranou bitvou o senát nic nekončí. S prací pro lidi to myslím vážně a určitě se o přízeň voliček a voličů budu chtít ucházet znovu. V mezičase se však vrátím k novinařině a hlavně práci na nápravě české krajiny,”* uvedla ke svému výsledku Marta Martinová.
 
-Při senátních volbách se nepodařilo zopakovat kladenský úspěch senátorky Adély Šípové ani právníkovi Martinu Karimovi, který kandidoval v obvodě Beroun.
+Při senátních volbách se nepodařilo zopakovat kladenský úspěch senátorky Adély Šípové ani právníkovi Martinu Karimovi, který kandidoval v obvodě Beroun:
+
+> *„Chci poděkovat všem lidem za hlasy i podporu v kampani. Pomáhám lidem a budu v tom pokračovat i nadále"* uzavírá své volební klání Karim.
+
 
