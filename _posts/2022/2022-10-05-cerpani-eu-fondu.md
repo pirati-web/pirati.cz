@@ -3,7 +3,7 @@ date:         2022-10-05
 category:     blog
 tags:         místní-rozvoj evropska-unie
 layout:       post
-title:        "Bartoš: Projekty s podporou z evropských fondů se budou moct dokončit, umožní zmírnit dopady současné krize"
+title:        "Bartoš: Projekty s podporou z evropských fondů se budou moct dokončit. Umožní také zmírnit dopady současné krize"
 image:        /assets/img/articles/2022/bartos-2022-10.jpg
 author:       
 ---
