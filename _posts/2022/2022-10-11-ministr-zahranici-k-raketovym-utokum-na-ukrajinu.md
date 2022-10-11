@@ -3,7 +3,7 @@ date:         2022-10-11
 category:     blog
 tags:         zahraničí bezpečnost
 layout:       post
-title:        "Prohlášení k ruským raketovým útokům na Ukrajinu"
+title:        "Prohlášení ministra zahraničí Jana Lipavského k ruským raketovým útokům na Ukrajinu"
 image:        /assets/img/articles/2022/lipavsky-osn.jpg
 author:       
 ---
