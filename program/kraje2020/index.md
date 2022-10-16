@@ -10,7 +10,7 @@ keywords: krajské volby 2020, krajský volební program, program do krajských 
 
 <ul>  
 <li><a href="https://jihocesky.pirati.cz/program/">Jihočeský kraj</a></li>
-<li><a href="https://jihomoravsky.pirati.cz/program/">Jihomoravský kraj</a></li>
+<li><a href="https://jihomoravsky.pirati.cz/program-krajske-volby-2020/">Jihomoravský kraj</a></li>
 <li><a href="https://karlovarsky.pirati.cz/volby-2020/?pohled=program">Karlovarský kraj</a></li>
 <li><a href="https://vysocina.pirati.cz/volby/2020-kraj/?pohled=program">Kraj Vysočina</a></li>
 <li><a href="https://piratinakraj.cz/">Královehradecký kraj</a></li>
