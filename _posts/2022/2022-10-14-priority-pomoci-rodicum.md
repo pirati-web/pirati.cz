@@ -18,3 +18,5 @@ Kulatý stůl hodnotil také fungování dětských skupin po novele zákona, o 
 
 > *„Velmi mě těší, že se akce zúčastnilo tolik provozovatelů dětských skupin, jakož i řada poslankyň a zástupců MPSV. Zpětná vazba ohledně potřebných změn naprosto jednoznačně podpořila ministerstvo v přípravě brzké novely. Současně ukázala, že provozování dětských skupin je stále tak trochu disciplína pro superhrdiny, navzdory tomu, co se již v minulosti podařilo,”* doplnila místopředsedkyně Sněmovny.
 
+Záznam kulatého stolu naleznete [ZDE](https://www.psp.cz/sqw/hp.sqw?k=120&td=19&cu=221013001)
+
