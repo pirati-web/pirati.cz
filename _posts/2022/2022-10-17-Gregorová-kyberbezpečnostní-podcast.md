@@ -4,7 +4,7 @@ category:     blog
 tags:         evropska-unie
 layout:       post
 title:        "„Kyberprostor se stal doménou globálních konfliktů,“ říká expertka v podcastu Pirátky Gregorové"
-image:        /assets/img/articles/2022/marketa za stolem.jpg
+image:        /assets/img/articles/2022/marketa_za_stolem_small.jpg
 author:       
 ---
 
