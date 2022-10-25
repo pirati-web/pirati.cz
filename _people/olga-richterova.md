@@ -18,9 +18,9 @@ asistenti:
   - name: Mgr. Soňa Pohanková
     mob: +420 778 111 457
     mail: richterovao@psp.cz
-  - name: Zuzana Freitas Lopesová
-    mob: +420 776 278 860
-    mail: richterovao@psp.cz
+  - name: Marek Jirmásek
+    mob: 
+    mail: marek@olgarichterova.cz
 office:
   - address:  PICE (Na Moráni 360/3, 120 00 Nové Město
     opening: Pondělí 16&#58;00 - 18&#58;00<br/>(nebo na základě předchozí domluvy)
