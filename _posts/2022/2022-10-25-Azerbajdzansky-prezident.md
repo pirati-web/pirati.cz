@@ -17,4 +17,4 @@ Druhým zásadním tématem je ázerbájdžánský plyn, a v tom se Gregorová v
 
 Zprávu Evropského parlamentu bude Pirátka v následujících týdnech vyjednávat a po schválení výborem se dostane i na plénum, kde by se jednalo o první zprávu o vztazích EU s Ázerbájdžánem po čtyřech letech.
 
-Video ze slyšení:**[https://www.youtube.com/watch?v=hkSrwwtmWVc](https://www.youtube.com/watch?v=hkSrwwtmWVc)**
+Video ze slyšení: **[https://www.youtube.com/watch?v=hkSrwwtmWVc](https://www.youtube.com/watch?v=hkSrwwtmWVc)**
