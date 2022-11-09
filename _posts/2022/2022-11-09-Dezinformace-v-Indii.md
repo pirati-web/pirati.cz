@@ -4,7 +4,7 @@ category:     blog
 tags:         evropska-unie
 layout:       post
 title:        "Indie prohrává v boji s dezinformacemi. A Facebook pro to poskytuje ideální platformu"
-image:        /assets/img/articles/2022/marketa_konference.jpg
+image:        /assets/img/articles/2022/marketa_za_stolem_small.jpg
 author:       
 ---
 
