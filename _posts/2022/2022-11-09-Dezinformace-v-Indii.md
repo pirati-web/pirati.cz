@@ -1,7 +1,7 @@
 ---
 date:         2022-11-09
 category:     blog
-tags:         evropska-unie
+tags:         evropská-unie
 layout:       post
 title:        "Indie prohrává v boji s dezinformacemi. A Facebook pro to poskytuje ideální platformu"
 image:        /assets/img/articles/2022/marketa_za_stolem_small.jpg
