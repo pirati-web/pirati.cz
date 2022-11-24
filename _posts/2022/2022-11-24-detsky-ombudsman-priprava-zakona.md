@@ -18,4 +18,4 @@ Ke zřízení institutu dětského ochránce práv Českou republiku nabádá V�
 
 *„Na absenci této instituce upozorňují Piráti dlouhodobě. Ačkoli je sociálně právní ochrana dětí v českém právním systému zdánlivě dostatečně, víme z praxe, že selháním se nedaří účinně vyhnout. Dětský ombudsman by měl zároveň působit i v oblasti posílení povědomí dětí o jejich právech, o fungování občanské společnosti a posílení participace dětí na jejím fungování a utváření. To je věc, ve které máme jako Česká republika značný deficit, děti ale nemáme podceňovat, jsou všímaví partneři,“* říká Zuzana Freitas Lopesová.
 
-První pracovní návrh znění zákona ke zřízení institutu dětského ombudsmana by chtěla pracovní skupina projednat a předložit do konce tohoto roku. -omlouvám se za komplikaci.
+První pracovní návrh znění zákona ke zřízení institutu dětského ombudsmana by chtěla pracovní skupina projednat a předložit do konce tohoto roku.
