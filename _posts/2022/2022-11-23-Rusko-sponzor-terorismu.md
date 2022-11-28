@@ -3,7 +3,7 @@ date:         2022-11-23
 category:     blog
 tags:         evropská-unie
 layout:       post
-title:        "Rezoluce označující Rusko za stát sponzorující terorismu má především diplomatický význam, komentují pirátští europoslanci"
+title:        "Rezoluce označující Rusko za stát sponzorující terorismus má především diplomatický význam, komentují pirátští europoslanci"
 image:        /assets/img/articles/2022/GSL9 (1).jpg
 author:       
 ---
