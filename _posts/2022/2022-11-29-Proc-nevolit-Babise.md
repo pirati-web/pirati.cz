@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie
 layout:       post
 title:        "Sedmnáct důvodů, proč nevolit Babiše. Piráti v čele s Peksou vysvětlují, proč si tohle Česko nezaslouží"
-image:        /assets/img/articles/2022/mikulas_peksa_ep.jpg
+image:        /assets/img/articles/2022/peksa_vybor.jpg
 author:       
 ---
 Brusel, 29. listopadu 2022 – Českou republiku za necelé dva měsíce čekají prezidentské volby, které rozhodnou nejen o podobě vnitřní politiky ČR, ale i o způsobu její prezentace navenek. „Každý si zpětně věci idealizujeme a vytěsňujeme to špatné. Proto je důležité připomínat, jak se věci skutečně udály,“ komentuje europoslanec Mikuláš Peksa spuštění webu [http://protobabis.online](https://protobabis.online/) připomínající kauzy bývalého premiéra a nynějšího kandidáta na prezidenta Andreje Babiše
