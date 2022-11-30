@@ -12,9 +12,6 @@ mail:
 - richterovao@psp.cz
 mob: +420 774 153 361
 asistenti:
-  - name: Mgr. Nela Melicharová
-    mob: +420 778 111 472
-    mail: richterovao@psp.cz
   - name: Mgr. Soňa Pohanková
     mob: +420 778 111 457
     mail: richterovao@psp.cz
