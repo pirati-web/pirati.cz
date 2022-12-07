@@ -4,7 +4,7 @@ category:     blog
 tags:         evropská-unie
 layout:       post
 title:        "Europoslankyně Gregorová pořádá výstavu čínského umělce a aktivisty odsuzující porušování lidských práv "
-image:        /assets/img/articles/2022/Markéta_Badi_Photo_action.jpeg
+image:        /assets/img/articles/2022/Marketa_Badi_Greens.jpg
 author:       
 ---
 Brusel, 29. listopadu 2022 - Na zvěrstva autoritářských režimů či na válku na Ukrajině poukáže unikátní výstava přímo v budově Evropského parlamentu. Autorem originálních děl je čínský lidskoprávní aktivista Badiucao, kterého do Bruselu pozvala pirátská europoslankyně Markéta Gregorová. Ta se tématům porušování lidských práv věnuje dlouhodobě a autoritářské režimy za tyto činy hlasitě odsuzuje. 
