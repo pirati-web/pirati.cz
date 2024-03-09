@@ -1,7 +1,11 @@
+# Gemfile
+
 source "https://rubygems.org"
 
+# Jekyll plugins required for GitHub Pages
 gem 'github-pages', group: :jekyll_plugins
 
+# Gems for development and testing
 group :development, :test do
   gem "html-proofer"
 end
